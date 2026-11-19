@@ -52,6 +52,17 @@ jobs:
       - name: Budowa dzielnic z GUNB
         run: python build.py --gunb-only
 
+      - name: Podsumowanie
+        run: |
+          python - <<'PY'
+          import json
+          d = json.load(open('site/data/index.json', encoding='utf-8'))
+          print('%d dzielnic, %d pozycji' % (
+              len(d['districts']), sum(x['total'] for x in d['districts'])))
+          for x in d['districts']:
+              print('  %-16s %6d  %s' % (x['slug'], x['total'], ', '.join(x['sources'])))
+          PY
+
       - name: Konfiguracja GitHub Pages
         uses: actions/configure-pages@v5
         with:
