@@ -1,0 +1,52 @@
+Zaktualizuj rejestry dzielnic Warszawy w tym repozytorium.
+
+Kontekst, który musisz znać:
+- `build.py` pobiera dane z dwóch źródeł: pliku zbiorczego GUNB
+  (wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip) oraz stron
+  dzielnic (Ursus: ursus.um.warszawa.pl/wykazy, Praga-Północ:
+  pragapn.um.warszawa.pl/-/ogloszenia-2).
+- Serwery GitHuba dostają 403 od *.um.warszawa.pl, dlatego ta aktualizacja
+  musi iść z tej maszyny. Workflow w .github/ tylko publikuje katalog site/.
+- Katalog `raw/` to cache pobranych plików. Nie usuwaj go bez powodu.
+
+Zrób po kolei:
+
+1. Sprawdź dostęp do źródeł:
+   curl -sI https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip
+   curl -sI https://ursus.um.warszawa.pl/wykazy
+   curl -sI https://pragapn.um.warszawa.pl/-/ogloszenia-2
+   Jeśli któreś zwróci 403 — przerwij i powiedz mi o tym, nie kombinuj.
+
+2. Zapisz obecne liczby pozycji jako punkt odniesienia:
+   python3 -c "import json;d=json.load(open('site/data/index.json'));print({x['slug']:x['total'] for x in d['districts']})"
+
+3. Uruchom build wszystkich dzielnic:
+   python3 build.py
+   Jeśli padnie na jednej dzielnicy, uruchom ją osobno przez
+   `python3 build.py --district <slug>` i zaraportuj błąd, ale nie
+   przerywaj całej aktualizacji.
+
+4. Porównaj nowe liczby z punktem odniesienia. Zwróć szczególną uwagę na
+   SPADKI — spadek w roczniku zwykle znaczy, że urząd zmienił układ pliku
+   i parser gubi wiersze. W logu szukaj linii:
+   - "- pominięto <rejestr> (brak pliku)"
+   - "! <plik>: inny dokument"
+   - "! parsowanie <plik>"
+   Jeśli jakakolwiek dzielnica straciła więcej niż 5% pozycji, ZATRZYMAJ SIĘ
+   i pokaż mi różnicę przed commitem.
+
+5. Jeśli wszystko wygląda dobrze, zrób commit i push:
+   git add site/
+   git commit -m "Aktualizacja rejestrów $(date +%Y-%m-%d)"
+   git push
+
+6. Na koniec podaj mi krótkie podsumowanie w tabeli: dzielnica, pozycji
+   przed, pozycji po, różnica. Osobno wypisz, co się zmieniło w danych
+   (nowe roczniki, nowe rejestry).
+
+Uwagi:
+- Nie zmieniaj kodu parserów, jeśli dane się zgadzają. Jeśli musisz —
+  opisz dokładnie, co i dlaczego.
+- Nie commituj katalogu `raw/` (jest w .gitignore).
+- Repozytorium `rejestry-ursus` jest osobnym, zamrożonym projektem.
+  Nie dotykaj go.

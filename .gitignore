@@ -1,0 +1,15 @@
+# Pliki źródłowe pobierane ze stron urzędów — trzymamy je tylko lokalnie
+# jako cache (pozwala wznawiać build bez ponownego ściągania 47 MB z GUNB
+# i kilkuset PDF-ów z dzielnic).
+raw/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Systemowe
+.DS_Store
+Thumbs.db
+desktop.ini

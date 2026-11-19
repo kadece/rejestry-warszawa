@@ -1,0 +1,72 @@
+name: Publikacja strony
+
+# Podział ról:
+#   * ten workflow buduje 16 dzielnic, których dane są w GUNB
+#     (wyszukiwarka.gunb.gov.pl jest dostępna z runnerów GitHuba),
+#   * Ursus i Praga-Północ buduje maszyna lokalna (patrz AKTUALIZACJA.md),
+#     bo *.um.warszawa.pl zwraca runnerom HTTP 403.
+#
+# Oba zbiory leżą w site/data/ i manifest (index.json) składany jest ze
+# skanu dysku, więc się nie nadpisują.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'site/**'
+      - 'build.py'
+      - 'gunb.py'
+      - 'parsers.py'
+      - 'districts/**'
+      - 'templates/**'
+      - '.github/workflows/update.yml'
+  schedule:
+    # co poniedziałek 4:00 UTC — odświeżenie dzielnic z GUNB
+    - cron: '0 4 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Pobranie repozytorium
+        uses: actions/checkout@v4
+
+      - name: Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Zależności
+        run: python -m pip install --quiet openpyxl pdfplumber
+
+      - name: Budowa dzielnic z GUNB
+        run: python build.py --gunb-only
+
+      - name: Konfiguracja GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Spakowanie katalogu site/
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Publikacja
+        id: deployment
+        uses: actions/deploy-pages@v4

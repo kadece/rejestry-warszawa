@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Rejestry i wykazy — Warszawa, 18 dzielnic</title>
+<meta name="description" content="Decyzje o warunkach zabudowy, pozwolenia na budowę i wnioski w 18 dzielnicach Warszawy. __COUNT__ pozycji, roczniki __YEARS__.">
+<style>__STYLE__</style>
+</head>
+<body>
+
+<header class="hero">
+  <div class="hero-head">
+    <div class="hero-text">
+      <h1>Rejestry i wykazy</h1>
+      <p class="sub">Decyzje, wnioski i zgłoszenia budowlane<br>w 18 dzielnicach Warszawy</p>
+    </div>
+    <img class="logo" src="__LOGO__" alt="Biuro Zielonego Ursusa">
+  </div>
+  <dl class="stats">
+    <div><dt>pozycji</dt><dd>__COUNT__</dd></div>
+    <div><dt>dzielnic</dt><dd>__DISTRICTS__</dd></div>
+    <div><dt>roczniki</dt><dd>__YEARS__</dd></div>
+    <div><dt>dane z</dt><dd>__GENERATED__</dd></div>
+  </dl>
+</header>
+
+<nav class="controls">
+  <label class="field">
+    <span>Dzielnica</span>
+    <select id="district"></select>
+  </label>
+  <div class="field years-field">
+    <span>Rocznik</span>
+    <div id="years" class="years"></div>
+  </div>
+</nav>
+
+<main>
+  <div id="tabs" class="tabs"></div>
+
+  <div class="toolbar">
+    <input id="q" type="search" placeholder="Szukaj w tabeli — adres, inwestor, numer…" autocomplete="off">
+    <span id="count" class="count"></span>
+  </div>
+
+  <div id="table" class="table-wrap">
+    <p class="empty">Wczytywanie…</p>
+  </div>
+
+  <p id="source" class="source"></p>
+</main>
+
+<footer>
+  <p>Dane: rejestr GUNB (pozwolenia na budowę) oraz strony dzielnic (warunki
+  zabudowy, inwestycje celu publicznego). Rejestry są jawne; dane osobowe
+  podlegają RODO.</p>
+</footer>
+
+<script>__SCRIPT__</script>
+</body>
+</html>
