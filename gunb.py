@@ -136,7 +136,8 @@ def registers_for_year(rows, year):
             dec.append({'d': r['dec_data'], 'c': c})
 
     def sort(rs):
-        rs.sort(key=lambda x: (x['d'] is None, x['d'] or '9999-99-99'))
+        # od najnowszej; wpisy bez daty na końcu
+        rs.sort(key=lambda x: x['d'] or '', reverse=True)
         return rs
 
     out = []

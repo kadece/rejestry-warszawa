@@ -91,7 +91,8 @@ def build_year(dist, year, raw_dir, offline=False):
             print('  - pominięto %s (brak pozycji)' % cfg['id'])
             continue
 
-        rows.sort(key=lambda x: (x['d'] is None, x['d'] or '9999-99-99'))
+        # od najnowszej; wpisy bez daty na końcu
+        rows.sort(key=lambda x: x['d'] or '', reverse=True)
         no_date = sum(1 for r in rows if not r['d'])
         print('    -> %3d pozycji z %d plik(ów)%s'
               % (len(rows), len(used),

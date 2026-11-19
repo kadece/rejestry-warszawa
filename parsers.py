@@ -302,7 +302,9 @@ def parse_matrix(rows, cfg):
 
         out.append({'d': iso, 'c': cells})
 
-    out.sort(key=lambda x: (x['d'] is None, x['d'] or '9999-99-99'))
+    # od najnowszej; wpisy bez daty na końcu ('' jest najmniejszym stringiem,
+    # więc przy reverse=True ląduje na końcu)
+    out.sort(key=lambda x: x['d'] or '', reverse=True)
     return out
 
 
