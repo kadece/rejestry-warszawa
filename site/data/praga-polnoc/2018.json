@@ -1,0 +1,6736 @@
+{
+"district": "praga-polnoc",
+"year": 2018,
+"generated": "2026-11-19T23:08:37+01:00",
+"total": 604,
+"registers": [
+{
+"id": "wn_pnb",
+"name": "Wnioski o pozwolenie na budowę",
+"short": "Wnioski PnB",
+"desc": "Wnioski o pozwolenie na budowę złożone do organu architektoniczno-budowlanego dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer wniosku",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2018-01-10",
+"c": {
+"inw": "bduowa osiedlowej sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Warszawa S.a.",
+"nier": "Stalowa 29",
+"dz": "146508_8 1304 26",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "1/2018"
+}
+},
+{
+"d": "2018-01-10",
+"c": {
+"inw": "bduowa osiedlowej sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Warszawa S.a.",
+"nier": "Stalowa 29",
+"dz": "146508_8 1304 5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "1/2018"
+}
+},
+{
+"d": "2018-01-10",
+"c": {
+"inw": "bduowa osiedlowej sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Warszawa S.a.",
+"nier": "Stalowa 29",
+"dz": "146508_8 1304 8/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "1/2018"
+}
+},
+{
+"d": "2018-01-10",
+"c": {
+"inw": "bduowa osiedlowej sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Warszawa S.a.",
+"nier": "Stalowa 29",
+"dz": "146508_8 1304 21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "1/2018"
+}
+},
+{
+"d": "2018-01-12",
+"c": {
+"inw": "rozbiórka części budynku rozbiórka istniejącego obiektu budowlanego",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Wileńska 5",
+"dz": "146508_8 1306 88",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "8/2018"
+}
+},
+{
+"d": "2018-01-12",
+"c": {
+"inw": "wymiana stropu pod lokalem uzytkowym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Wileńska 25",
+"dz": "146508_8 1307 43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "2/2018"
+}
+},
+{
+"d": "2018-01-16",
+"c": {
+"inw": "przyłącze węzła cieplnego do budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Inżynierska 9",
+"dz": "146508_8 1306 78/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "4/2018"
+}
+},
+{
+"d": "2018-01-16",
+"c": {
+"inw": "przyłącze węzła cieplnego do budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Inżynierska 9",
+"dz": "146508_8 1306 94",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "4/2018"
+}
+},
+{
+"d": "2018-01-16",
+"c": {
+"inw": "przyłącze węzła cieplnego do budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Inżynierska 9",
+"dz": "146508_8 1307 21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "4/2018"
+}
+},
+{
+"d": "2018-01-17",
+"c": {
+"inw": "budowa budynku hotelowego z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "PPH Hetman Jacek Luciński",
+"nier": "Jagiellońska 47A",
+"dz": "146508_8 1811 16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "5/2018"
+}
+},
+{
+"d": "2018-01-17",
+"c": {
+"inw": "budowa budynku hotelowego z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "PPH Hetman Jacek Luciński",
+"nier": "Jagiellońska 47A",
+"dz": "146508_8 1811 17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "5/2018"
+}
+},
+{
+"d": "2018-01-18",
+"c": {
+"inw": "termomodernizacja budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Targowa 81",
+"dz": "146508_8 1306 62",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6/2018"
+}
+},
+{
+"d": "2018-01-18",
+"c": {
+"inw": "termomodernizacja budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Targowa 81",
+"dz": "146508_8 1306 3/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6/2018"
+}
+},
+{
+"d": "2018-01-29",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z usługami i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Grupa Inwestycyjna Hetman Sp. zo.o.",
+"nier": "Środkowa 20",
+"dz": "146508_8 1305 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "7/2018"
+}
+},
+{
+"d": "2018-01-31",
+"c": {
+"inw": "przebudowa lokalu biurowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Port Praski Sp. zo.o. SKA",
+"nier": "Krowia 6",
+"dz": "146508_8 1505 22/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "9/2018"
+}
+},
+{
+"d": "2018-01-31",
+"c": {
+"inw": "przebudowa lokalu biurowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Port Praski Sp. zo.o. SKA",
+"nier": "Krowia 6",
+"dz": "146508_8 1505 24/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "9/2018"
+}
+},
+{
+"d": "2018-02-02",
+"c": {
+"inw": "remont lokalu mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Inżynierska 7",
+"dz": "146508_8 1306 79",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "10/2018"
+}
+},
+{
+"d": "2018-02-02",
+"c": {
+"inw": "remont lokalu mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Mała 13a",
+"dz": "146508_8 1307 18",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "11/2018"
+}
+},
+{
+"d": "2018-02-05",
+"c": {
+"inw": "rozbiórka masztów oraz konstrukcji wsporczych anten rozbiórka istniejącego obiektu budowlanego",
+"wn": "T-Mobile Polska S.A.",
+"nier": "Ząbkowska 27",
+"dz": "146508_8 1405 19/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "12/2018"
+}
+},
+{
+"d": "2018-02-07",
+"c": {
+"inw": "przebudowa parteru buydnku mieszkalno-usługowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "A.M. FOGTT Fundacja",
+"nier": "Inżynierska 6",
+"dz": "146508_8 1307 25",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "13/2018"
+}
+},
+{
+"d": "2018-02-09",
+"c": {
+"inw": "budowa przyłącza sieci ciepłwoniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Warszawa S.A.",
+"nier": "Ząbkowska 2",
+"dz": "146508_8 1507 2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "14/2018"
+}
+},
+{
+"d": "2018-02-09",
+"c": {
+"inw": "budowa przyłącza sieci ciepłwoniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Warszawa S.A.",
+"nier": "Ząbkowska 2",
+"dz": "146508_8 1507 1/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "14/2018"
+}
+},
+{
+"d": "2018-02-09",
+"c": {
+"inw": "budowa przyłącza sieci ciepłwoniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Warszawa S.A.",
+"nier": "Ząbkowska 2",
+"dz": "146508_8 1507 15/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "14/2018"
+}
+},
+{
+"d": "2018-02-14",
+"c": {
+"inw": "doposażenie w dwufunkcyjny węzeł cieplny budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Białostocka 46",
+"dz": "416508_8 1405 56/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "16/2018"
+}
+},
+{
+"d": "2018-02-14",
+"c": {
+"inw": "doposażenie w dwufuncyjny węzeł cieplny budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami",
+"nier": "Białostocka 53",
+"dz": "146508_8 1401 28/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "17/2018"
+}
+},
+{
+"d": "2018-02-14",
+"c": {
+"inw": "budowa przyłącza sieci ciepłowniczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Ząbkowska 14 Sp. zo.o.",
+"nier": "Ząbkowska 14",
+"dz": "146508_8 1507 5/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "15/2018"
+}
+},
+{
+"d": "2018-02-14",
+"c": {
+"inw": "budowa przyłącza sieci ciepłowniczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Ząbkowska 14 Sp. zo.o.",
+"nier": "Ząbkowska 14",
+"dz": "146508_8 1507 2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "15/2018"
+}
+},
+{
+"d": "2018-02-19",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Strzelecka 14",
+"dz": "146508_8 1305 5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "19/2018"
+}
+},
+{
+"d": "2018-02-20",
+"c": {
+"inw": "przebudowa i remont budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami  Praga Północ",
+"nier": "Łochowska 37",
+"dz": "146508_8 1404 49",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "20/2018"
+}
+},
+{
+"d": "2018-02-20",
+"c": {
+"inw": "przebudowa i remont budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami  Praga Północ",
+"nier": "Łochowska 37",
+"dz": "146508_8 1404 59",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "20/2018"
+}
+},
+{
+"d": "2018-02-21",
+"c": {
+"inw": "remont budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Kępna 13",
+"dz": "146508_8 1506 22",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "21/2018"
+}
+},
+{
+"d": "2018-02-27",
+"c": {
+"inw": "rozbudowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Jadowska 5A",
+"dz": "146508_8 1401 96",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "23/2018"
+}
+},
+{
+"d": "2018-02-28",
+"c": {
+"inw": "remont kuchni i zaplecza wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zarząd Dzielnicy Praga-Północ",
+"nier": "Wołomińska 12/18",
+"dz": "146508_8 1404 35",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "24/2018"
+}
+},
+{
+"d": "2018-03-01",
+"c": {
+"inw": "przebudowa i adpatacja na cele mieszkalne poddasza wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Markowska 18A",
+"dz": "146508_8 1405 19/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "27/2018"
+}
+},
+{
+"d": "2018-03-01",
+"c": {
+"inw": "podłączenie instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Białołęcka 36",
+"dz": "146508_8 1405 28",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "25/2018"
+}
+},
+{
+"d": "2018-03-02",
+"c": {
+"inw": "projekt zamienny-przebudowa i zmiana spoosbu uzytkowania wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Centrum Praskie Koneser Sp. zo.o. Sp.k.",
+"nier": "Ząbkowska 27/31",
+"dz": "146508_8 1405 19/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "30/2018"
+}
+},
+{
+"d": "2018-03-02",
+"c": {
+"inw": "projekt zamienny- budowa obiektu usługowego wielofunkcyjnego budowa nowego/nowych obiektów budowlanych",
+"wn": "Centrum Praskie Koneser Sp. zo.o. sp. k.",
+"nier": "Ząbkowska 27/31",
+"dz": "146508_8 1405 19/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "29/2018"
+}
+},
+{
+"d": "2018-03-05",
+"c": {
+"inw": "projekt zamienny - przebudowa i adaptacja na cele mieszkalne poddasza wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Centrum Praskie Koneser Sp. zo.o. Sp.k.",
+"nier": "Markowska 18A",
+"dz": "146508_8 1405 19/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "31/2018"
+}
+},
+{
+"d": "2018-03-05",
+"c": {
+"inw": "rozbiórka garaży rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Środkowa 18",
+"dz": "146508_8 1305 6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "58/2018"
+}
+},
+{
+"d": "2018-03-06",
+"c": {
+"inw": "przebudowa lokalu mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kowieńska 7",
+"dz": "146508_8 1301 47",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "33/2018"
+}
+},
+{
+"d": "2018-03-06",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej preizolowanej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Łochowska 52",
+"dz": "146508_8 1402 21/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "32/2018"
+}
+},
+{
+"d": "2018-03-06",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej preizolowanej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Łochowska 52",
+"dz": "146508_8 1402 22/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "32/2018"
+}
+},
+{
+"d": "2018-03-06",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej preizolowanej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Łochowska 52",
+"dz": "146508_8 1402 23",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "32/2018"
+}
+},
+{
+"d": "2018-03-06",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej preizolowanej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Łochowska 52",
+"dz": "146508_8 1402 24",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "32/2018"
+}
+},
+{
+"d": "2018-03-06",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej preizolowanej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Łochowska 52",
+"dz": "146508_8 1402 29",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "32/2018"
+}
+},
+{
+"d": "2018-03-06",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej preizolowanej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Łochowska 52",
+"dz": "146508_8 1402 30/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "32/2018"
+}
+},
+{
+"d": "2018-03-09",
+"c": {
+"inw": "remont lokalu mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "ZAKŁAD GOPODAROWEANIA NIERUCHOMOŚCIAMI PRAGA PÓLNOC",
+"nier": "Inżynierska 7",
+"dz": "146508_8 1306 79",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "35/2018"
+}
+},
+{
+"d": "2018-03-09",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Kropka Bis Sp. zo.o. Stalowa sp. komandytowa",
+"nier": "Stalowa 27",
+"dz": "146508_8 1304 27/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "34/2018"
+}
+},
+{
+"d": "2018-03-12",
+"c": {
+"inw": "rozbiórka budynku rozbiórka istniejącego obiektu budowlanego",
+"wn": "F.O.P. AVIA",
+"nier": "Siedlecka 47",
+"dz": "146508_8 1402 22/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "36/2018"
+}
+},
+{
+"d": "2018-03-15",
+"c": {
+"inw": "wyburzenie fragmentu ściany oraz nadproża nad schodami, montaż neonu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Piekarnie Lubaszka sp. zo.o.",
+"nier": "Targowa 61",
+"dz": "146508_8 1503 33",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "37/2018"
+}
+},
+{
+"d": "2018-03-15",
+"c": {
+"inw": "ADAPTACJA POMIESZCZEŃ PIWNICY NA POTRZEBY WĘZŁA CIEPLNEGO wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Stolarska 2/4",
+"dz": "146508_8 1301 14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "45/2018"
+}
+},
+{
+"d": "2018-03-15",
+"c": {
+"inw": "ADAPTACJA POMIESZCZEŃ PIWNICZNYCH NA POTRZEBY WĘZŁA CIEPLNEGO wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Strzelecka 38",
+"dz": "146508_8 1305 21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "46/2018"
+}
+},
+{
+"d": "2018-03-15",
+"c": {
+"inw": "budowa gazociągu niskiego ciśnienia budowa nowego/nowych obiektów budowlanych",
+"wn": "Polska Spółka GAzownictwa Sp. zo.o.",
+"nier": "Wrzesińska",
+"dz": "146508_8 1506 62/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/2018"
+}
+},
+{
+"d": "2018-03-15",
+"c": {
+"inw": "budowa gazociągu niskiego ciśnienia budowa nowego/nowych obiektów budowlanych",
+"wn": "Polska Spółka GAzownictwa Sp. zo.o.",
+"nier": "Wrzesińska",
+"dz": "146508_8 1505 21/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/2018"
+}
+},
+{
+"d": "2018-03-15",
+"c": {
+"inw": "ADAPTACJA POMIESZCZEŃ PIWNICZNYCH NA POTRZEBY WĘZŁA CIEPLNEGO wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Strzelecka 28",
+"dz": "146508_8 1305 16/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "43/2018"
+}
+},
+{
+"d": "2018-03-15",
+"c": {
+"inw": "adaptacja pomieszczeń piwnicznych na potzreby węzła cieplnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Środkowa 21",
+"dz": "146508_8 1304 13/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/2018"
+}
+},
+{
+"d": "2018-03-15",
+"c": {
+"inw": "ADAPTACJA POMIESZCZEŃ PIWNICZNYCH NA POTRZEBY WĘZŁA CIEPLNEGO wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Strzelecka 5",
+"dz": "146508_8 1304 67/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "42/2018"
+}
+},
+{
+"d": "2018-03-15",
+"c": {
+"inw": "ADAPTACJA POMIESZCZEŃ PIWNICY NA POTRZEBY WĘZLA CIEPLNEGO wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Strzelecka 42",
+"dz": "146508_8 1305 26/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "44/2018"
+}
+},
+{
+"d": "2018-03-16",
+"c": {
+"inw": "doposażenie lokali usługowych w instalację gazową z piecami co wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomosciami Praga Północ",
+"nier": "Darwina 16 / Karola",
+"dz": "146508_8 1201 88",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "47/2018"
+}
+},
+{
+"d": "2018-03-19",
+"c": {
+"inw": "rozbiórka stacji bazowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "T-Mobile Polska S.A.",
+"nier": "Jagiellońska 69",
+"dz": "146508_8 1805 9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "48/2018"
+}
+},
+{
+"d": "2018-03-21",
+"c": {
+"inw": "przebudowa lokalu bistro wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tesco Polska Sp. zo.o.",
+"nier": "Stalowa 69",
+"dz": "146508_8 1303 11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "50/2018"
+}
+},
+{
+"d": "2018-03-22",
+"c": {
+"inw": "projekt zamienny-przebudowa kamienicy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "FO Sp. zo.o.",
+"nier": "Okrzei 26 / Stefana",
+"dz": "146508_8 1506 49",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "51/2018"
+}
+},
+{
+"d": "2018-03-22",
+"c": {
+"inw": "projekt zamienny-przebudowa kamienicy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "FO Sp. zo.o.",
+"nier": "Okrzei 26 / Stefana",
+"dz": "146508_8 1506 48",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "51/2018"
+}
+},
+{
+"d": "2018-03-22",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Brzeska 10",
+"dz": "146508_8 1407 15/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "53/2018"
+}
+},
+{
+"d": "2018-03-22",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Brzeska 10",
+"dz": "146508_8 1407 17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "53/2018"
+}
+},
+{
+"d": "2018-03-22",
+"c": {
+"inw": "remont pustostanu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Kłopotowskiego 38 / ks. Ignacego",
+"dz": "146508_8 1503 43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "52/2018"
+}
+},
+{
+"d": "2018-03-22",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Brzeska 10",
+"dz": "146508_8 1507 1/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "53/2018"
+}
+},
+{
+"d": "2018-03-27",
+"c": {
+"inw": "projekt zamienny -nadbudowa budynku C nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Centrum Praskie Koneser sp. zo.o. Sp.k.",
+"nier": "Ząbkowska 31",
+"dz": "146508_8 1405 19/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "55/2018"
+}
+},
+{
+"d": "2018-03-27",
+"c": {
+"inw": "budowa przyłącza sieci ciepłowiczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Jagiellońska 11",
+"dz": "146508_8 1506 49",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "57/2018"
+}
+},
+{
+"d": "2018-03-27",
+"c": {
+"inw": "budowa przyłącza sieci ciepłowiczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Jagiellońska 11",
+"dz": "146508_8 1506 50",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "57/2018"
+}
+},
+{
+"d": "2018-03-27",
+"c": {
+"inw": "budowa przyłącza do sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Okrzei 26 / Stefana",
+"dz": "146508_8 1506 2/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "56/2018"
+}
+},
+{
+"d": "2018-03-27",
+"c": {
+"inw": "budowa przyłącza do sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Okrzei 26 / Stefana",
+"dz": "146508_8 1506 49",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "56/2018"
+}
+},
+{
+"d": "2018-03-27",
+"c": {
+"inw": "remont lokalu mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gopodarowania Nieruchomościami Praga Północ",
+"nier": "Mała 13A",
+"dz": "146508_8 1407 51",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "54/2018"
+}
+},
+{
+"d": "2018-04-10",
+"c": {
+"inw": "remont tarasu oraz schodów wejściowych do budynku przedszkola Nr 171 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa, Zarząd DZ. Praga-Północ",
+"nier": "Równa 2",
+"dz": "146508_8 1305 82",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "62/2018"
+}
+},
+{
+"d": "2018-04-11",
+"c": {
+"inw": "budowa obudowy toru badawczego do zderzeń pojazdu budowa nowego/nowych obiektów budowlanych",
+"wn": "PRZEMYSŁOWY iNSTYTUT MOTORYZACJI",
+"nier": "Jagiellońska 55",
+"dz": "146508_8 1811 18/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "63/2018"
+}
+},
+{
+"d": "2018-04-16",
+"c": {
+"inw": "projekt zamienny - remont i przebudowa istniejącego budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Mała Inwestycje Sp. zo.o.",
+"nier": "Mała 3",
+"dz": "146508_8 1307 12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "65/2018"
+}
+},
+{
+"d": "2018-04-16",
+"c": {
+"inw": "budowa domu jednorodzinnego w zabudowie szeregowej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Gersona 36A / Wojciecha",
+"dz": "146508_8 1806 19",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "66/2018"
+}
+},
+{
+"d": "2018-04-20",
+"c": {
+"inw": "odtworzenie nabrzeży wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Port Praski Nowe Inwestycje Sp. zo.o.",
+"nier": "Krowia",
+"dz": "146508_8 1508 22/31",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "92/2018"
+}
+},
+{
+"d": "2018-04-20",
+"c": {
+"inw": "odtworzenie nabrzeży wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Port Praski Nowe Inwestycje Sp. zo.o.",
+"nier": "Krowia",
+"dz": "146508_8 1508 22/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "92/2018"
+}
+},
+{
+"d": "2018-04-20",
+"c": {
+"inw": "odtworzenie nabrzeży wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Port Praski Nowe Inwestycje Sp. zo.o.",
+"nier": "Krowia",
+"dz": "146508_8 1505 24/19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "92/2018"
+}
+},
+{
+"d": "2018-04-23",
+"c": {
+"inw": "budowa przyłącza sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Wrzesińska",
+"dz": "146508_8 1506 56",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "69/2018"
+}
+},
+{
+"d": "2018-04-23",
+"c": {
+"inw": "budowa przyłącza sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Wrzesińska",
+"dz": "146508_8 1506 62/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "69/2018"
+}
+},
+{
+"d": "2018-04-23",
+"c": {
+"inw": "budowa przyłącza sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Wrzesińska",
+"dz": "146508_8 1505 21/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "69/2018"
+}
+},
+{
+"d": "2018-04-24",
+"c": {
+"inw": "naprawa nadproży wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Czynszowa 4",
+"dz": "146508_8 1305 59/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "67/2018"
+}
+},
+{
+"d": "2018-04-24",
+"c": {
+"inw": "wzmocnienie budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Ząbkowska 2",
+"dz": "146508_8 1507 10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "68/2018"
+}
+},
+{
+"d": "2018-04-24",
+"c": {
+"inw": "wzmocnienie budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Ząbkowska 2",
+"dz": "146508_8 1507 11/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "68/2018"
+}
+},
+{
+"d": "2018-04-24",
+"c": {
+"inw": "budowa miejskiej sieci cieplnej budowa nowego/nowych obiektów budowlanych",
+"wn": "Bouygues Immobilier Polska Sp. zo.o.",
+"nier": "Wrzesińska",
+"dz": "146508_8 1506 59",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "72/2018"
+}
+},
+{
+"d": "2018-04-24",
+"c": {
+"inw": "budowa miejskiej sieci cieplnej budowa nowego/nowych obiektów budowlanych",
+"wn": "Bouygues Immobilier Polska Sp. zo.o.",
+"nier": "Wrzesińska",
+"dz": "146508_8 1506 62/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "72/2018"
+}
+},
+{
+"d": "2018-04-24",
+"c": {
+"inw": "budowa miejskiej sieci cieplnej budowa nowego/nowych obiektów budowlanych",
+"wn": "Bouygues Immobilier Polska Sp. zo.o.",
+"nier": "Wrzesińska",
+"dz": "146508_8 1505 21/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "72/2018"
+}
+},
+{
+"d": "2018-04-25",
+"c": {
+"inw": "przebudowa pomieszczenia gospadarczego na pomieszczenie śmietnika wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Okrzei 5 / Stefana",
+"dz": "146508_8 1504 80",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "70/2018"
+}
+},
+{
+"d": "2018-04-25",
+"c": {
+"inw": "przebudowa wewnętrznej instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Szymanowskiego 7 / Karola",
+"dz": "146508_8 1204 31",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "71/2018"
+}
+},
+{
+"d": "2018-04-26",
+"c": {
+"inw": "zabezpieczenie ścian szczytowych budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Markowska 14",
+"dz": "146508_8 0104 35",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "74/2018"
+}
+},
+{
+"d": "2018-04-26",
+"c": {
+"inw": "remont, rozbudowa i przebudowa wraz ze zmianą sposobu użytkowania poddasza rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Nordic House Deweloper Sp. zo.o.",
+"nier": "Wrzesińska 2",
+"dz": "146508_8 1506 61",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "73/2018"
+}
+},
+{
+"d": "2018-04-27",
+"c": {
+"inw": "rozbiórka szybu zsypowego oraz pomieszczenia na odpady wraz z częśćią podziemną rozbiórka istniejącego obiektu budowlanego",
+"wn": "Fabryka Samochodów Osobowych S.A.",
+"nier": "Targowa 34",
+"dz": "146508_8 1507 35/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "75/2018"
+}
+},
+{
+"d": "2018-04-27",
+"c": {
+"inw": "rozbiórka szybu zsypowego oraz pomieszczenia na odpady wraz z częśćią podziemną rozbiórka istniejącego obiektu budowlanego",
+"wn": "Fabryka Samochodów Osobowych S.A.",
+"nier": "Targowa 34",
+"dz": "146508_8 1507 34",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "75/2018"
+}
+},
+{
+"d": "2018-04-30",
+"c": {
+"inw": "remont klatki schodowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polskie Koleje Państwowe S.A.",
+"nier": "Wileńska 2",
+"dz": "146508_8 1307 50/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "79/2018"
+}
+},
+{
+"d": "2018-04-30",
+"c": {
+"inw": "remont klatki schodowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polskie Koleje Państwowe S.A.",
+"nier": "Wileńska 2",
+"dz": "146508_8 1307 50/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "79/2018"
+}
+},
+{
+"d": "2018-05-02",
+"c": {
+"inw": "wymiana witryn w lokalach usługowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Jagiellońska 56",
+"dz": "",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "78/2018"
+}
+},
+{
+"d": "2018-05-02",
+"c": {
+"inw": "budowa sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Stalowa",
+"dz": "146508_8 1301 78/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "77/2018"
+}
+},
+{
+"d": "2018-05-02",
+"c": {
+"inw": "budowa sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Stalowa",
+"dz": "146508_8 1305 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "77/2018"
+}
+},
+{
+"d": "2018-05-02",
+"c": {
+"inw": "budowa sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Stalowa",
+"dz": "146508_8 1305 31",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "77/2018"
+}
+},
+{
+"d": "2018-05-02",
+"c": {
+"inw": "budowa sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Stalowa",
+"dz": "146508_8 1305 73",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "77/2018"
+}
+},
+{
+"d": "2018-05-02",
+"c": {
+"inw": "budowa sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Stalowa",
+"dz": "146508_8 1305 76",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "77/2018"
+}
+},
+{
+"d": "2018-05-08",
+"c": {
+"inw": "remont klatek schodowych wraz z wymianą szybu i modernizacją wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Młota / Jana",
+"dz": "146508_8 1201 91",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "80/2018"
+}
+},
+{
+"d": "2018-05-15",
+"c": {
+"inw": "budowa elektroenergetycznych linii kablowych budowa nowego/nowych obiektów budowlanych",
+"wn": "Innogy Stoen Operator Sp. zo.o.",
+"nier": "Łochowska",
+"dz": "146508_8 1404 59",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "81/2018"
+}
+},
+{
+"d": "2018-05-15",
+"c": {
+"inw": "budowa elektroenergetycznych linii kablowych budowa nowego/nowych obiektów budowlanych",
+"wn": "Innogy Stoen Operator Sp. zo.o.",
+"nier": "Łochowska",
+"dz": "146508_8 1404 56",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "81/2018"
+}
+},
+{
+"d": "2018-05-15",
+"c": {
+"inw": "przebudowa i rozbudowa istniejących obiektów z dostosowaniem do placówki opiekuńczo-wychowawczej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Stołeczny Zarząd Rozbudowy Miasta",
+"nier": "Listopada 13/15 / 11",
+"dz": "146508_8 1202 20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "82/2018"
+}
+},
+{
+"d": "2018-05-15",
+"c": {
+"inw": "budowa elektroenergetycznych linii kablowych budowa nowego/nowych obiektów budowlanych",
+"wn": "Innogy Stoen Operator Sp. zo.o.",
+"nier": "Łochowska",
+"dz": "146508_8 1402 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "81/2018"
+}
+},
+{
+"d": "2018-05-15",
+"c": {
+"inw": "budowa elektroenergetycznych linii kablowych budowa nowego/nowych obiektów budowlanych",
+"wn": "Innogy Stoen Operator Sp. zo.o.",
+"nier": "Łochowska",
+"dz": "146508_8 1402 21/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "81/2018"
+}
+},
+{
+"d": "2018-05-15",
+"c": {
+"inw": "budowa elektroenergetycznych linii kablowych budowa nowego/nowych obiektów budowlanych",
+"wn": "Innogy Stoen Operator Sp. zo.o.",
+"nier": "Łochowska",
+"dz": "146508_8 1402 23",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "81/2018"
+}
+},
+{
+"d": "2018-05-15",
+"c": {
+"inw": "budowa elektroenergetycznych linii kablowych budowa nowego/nowych obiektów budowlanych",
+"wn": "Innogy Stoen Operator Sp. zo.o.",
+"nier": "Łochowska",
+"dz": "146508_8 1402 2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "81/2018"
+}
+},
+{
+"d": "2018-05-17",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego (oficyny) rozbiórka istniejącego obiektu budowlanego",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Szwedzka 20",
+"dz": "146508_8 1302 20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "83/2018"
+}
+},
+{
+"d": "2018-05-17",
+"c": {
+"inw": "instalacja wewnętrzna gazu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Witkiewicza 13 / Stanisława",
+"dz": "146508_8 1806 69",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "84/2018"
+}
+},
+{
+"d": "2018-05-18",
+"c": {
+"inw": "remont więźby dachowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Markowska",
+"dz": "146508_8 1407 19/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "85/2018"
+}
+},
+{
+"d": "2018-05-18",
+"c": {
+"inw": "remont więźby dachowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Pólnoc",
+"nier": "Markowska 14",
+"dz": "146508_8 1407 19/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "86/2018"
+}
+},
+{
+"d": "2018-05-21",
+"c": {
+"inw": "remont instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Konopacka 20",
+"dz": "146508_8 1304 18",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "87/2018"
+}
+},
+{
+"d": "2018-05-22",
+"c": {
+"inw": "ELEMENTY INFORMACYJNE NA OBIEKCIE ''K'' wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CENTRUM PRASKIE KONESER SP. ZO.O. SP. K.",
+"nier": "Ząbkowska 27/31",
+"dz": "146508_8 1405 19/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "88/2018"
+}
+},
+{
+"d": "2018-05-22",
+"c": {
+"inw": "doposażenie busynku w instalację co i cw wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "WSPÓLNOTA MIESZKANIOWA",
+"nier": "Inżynierska 7",
+"dz": "146508_8 1306 79",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "89/2018"
+}
+},
+{
+"d": "2018-05-24",
+"c": {
+"inw": "wzmocnienie stropu pomiędzy lokalami wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Kłopotowskiego 30 / ks. Ignacego",
+"dz": "146508_8 1504 101",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "90/2018"
+}
+},
+{
+"d": "2018-05-28",
+"c": {
+"inw": "budowa pawilonu handlowego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Ratuszowa 1/3",
+"dz": "146508_8 1501 5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "93/2018"
+}
+},
+{
+"d": "2018-05-30",
+"c": {
+"inw": "remont lokalu mieszkalnego-pustostanu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Wileńska 13",
+"dz": "146508_8 1306 92",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "94/2018"
+}
+},
+{
+"d": "2018-06-04",
+"c": {
+"inw": "projekt zamienny- przebudowa i rozbudowa szpitala rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Szpital Kliniczny",
+"nier": "Sierakowskiego 13 / Józefa",
+"dz": "146508_8 1504 32/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "96/2018"
+}
+},
+{
+"d": "2018-06-05",
+"c": {
+"inw": "remont lokalu mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Targowa 83",
+"dz": "146508_8 1306 61",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "97/2018"
+}
+},
+{
+"d": "2018-06-05",
+"c": {
+"inw": "remont elewacji i dachu wraz zkominami wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Strzelecka 6",
+"dz": "146508_8 1304 21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "95/2018"
+}
+},
+{
+"d": "2018-06-11",
+"c": {
+"inw": "modernizacja budynku i elewacji wraz z elementami zagospodarowania terenu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zarząd Dielnicy Praga Północ",
+"nier": "Sierakowskiego 9 / Józefa",
+"dz": "146508_8 1504 45",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "99/2018"
+}
+},
+{
+"d": "2018-06-12",
+"c": {
+"inw": "wymiana stolarki okiennej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Groszkowskiego / Janusza",
+"dz": "146508_8 1203 49",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "100/2018"
+}
+},
+{
+"d": "2018-06-13",
+"c": {
+"inw": "wzmocnienie i wymiana elementów konstrukcyjnych z remontem elewacji wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Administrator Sp. zo.o.",
+"nier": "Łochowska 12",
+"dz": "146508_8 1404 15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "101/2018"
+}
+},
+{
+"d": "2018-06-15",
+"c": {
+"inw": "budowa przyłącza sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Jagiellońska 27",
+"dz": "146508_8 1504 63",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "102/2018"
+}
+},
+{
+"d": "2018-06-15",
+"c": {
+"inw": "budowa przyłącza sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Jagiellońska 27",
+"dz": "146508_8 1504 71",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "102/2018"
+}
+},
+{
+"d": "2018-06-18",
+"c": {
+"inw": "przebudowa i zmiana sposobu uzytkowania (projekt zamienny) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Beta Sp. zo.o.",
+"nier": "Listopada 17/19 / 11",
+"dz": "146508_8 1202 9/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "104/2018"
+}
+},
+{
+"d": "2018-06-18",
+"c": {
+"inw": "przebudowa i zmiana sposobu uzytkowania (projekt zamienny) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Beta Sp. zo.o.",
+"nier": "Listopada 17/19 / 11",
+"dz": "146508_8 1202 9/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "104/2018"
+}
+},
+{
+"d": "2018-06-19",
+"c": {
+"inw": "remont lokalu mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Kłopotowskiego 38 / ks. Ignacego",
+"dz": "146508_8 1503 43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "105/2018"
+}
+},
+{
+"d": "2018-06-20",
+"c": {
+"inw": "wymiana stolarki okiennej  w lokalach usługowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Plac gen. Józefa Hallera 5",
+"dz": "146508_8 1203 21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "107/2018"
+}
+},
+{
+"d": "2018-06-20",
+"c": {
+"inw": "wymiana stolarki okiennej  w lokalach usługowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Plac gen. Józefa Hallera 5",
+"dz": "146508_8 1203 53",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "107/2018"
+}
+},
+{
+"d": "2018-06-20",
+"c": {
+"inw": "wymiana stolarki okiennej  w lokalach usługowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Plac gen. Józefa Hallera 5",
+"dz": "146508_8 1203 48",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "107/2018"
+}
+},
+{
+"d": "2018-06-20",
+"c": {
+"inw": "wymiana stolarki okiennej  w lokalach usługowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Plac gen. Józefa Hallera 5",
+"dz": "146508_8 1203 13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "107/2018"
+}
+},
+{
+"d": "2018-06-20",
+"c": {
+"inw": "wymiana stolarki okiennej  w lokalach usługowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Plac gen. Józefa Hallera 5",
+"dz": "146508_8 1203 43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "107/2018"
+}
+},
+{
+"d": "2018-06-20",
+"c": {
+"inw": "wymiana stolarki okiennej  w lokalach usługowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Plac gen. Józefa Hallera 5",
+"dz": "146508_8 1203 26",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "107/2018"
+}
+},
+{
+"d": "2018-06-20",
+"c": {
+"inw": "wymiana stolarki okiennej  w lokalach usługowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Plac gen. Józefa Hallera 5",
+"dz": "146508_8 1203 62",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "107/2018"
+}
+},
+{
+"d": "2018-06-20",
+"c": {
+"inw": "wymiana stolarki okiennej  w lokalach usługowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Plac gen. Józefa Hallera 5",
+"dz": "146508_8 1203 34",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "107/2018"
+}
+},
+{
+"d": "2018-06-20",
+"c": {
+"inw": "wymiana stolarki okiennej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Plac gen. Józefa Hallera 5",
+"dz": "146508_8 1203 21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "106/2018"
+}
+},
+{
+"d": "2018-06-20",
+"c": {
+"inw": "wymiana stolarki okiennej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Plac gen. Józefa Hallera 5",
+"dz": "146508_8 1203 56",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "106/2018"
+}
+},
+{
+"d": "2018-06-20",
+"c": {
+"inw": "wymiana stolarki okiennej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Plac gen. Józefa Hallera 5",
+"dz": "146508_8 1203 48",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "106/2018"
+}
+},
+{
+"d": "2018-06-20",
+"c": {
+"inw": "wymiana stolarki okiennej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Plac gen. Józefa Hallera 5",
+"dz": "146508_8 1203 13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "106/2018"
+}
+},
+{
+"d": "2018-06-22",
+"c": {
+"inw": "przebudowa instalacji elektrycznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Targowa 83",
+"dz": "146508_8 1306 61",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "108/2018"
+}
+},
+{
+"d": "2018-06-22",
+"c": {
+"inw": "budowa sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Nieporęcka",
+"dz": "146508_8 1405 89",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "116/2018"
+}
+},
+{
+"d": "2018-06-22",
+"c": {
+"inw": "budowa sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Nieporęcka",
+"dz": "146508_8 1405 25",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "116/2018"
+}
+},
+{
+"d": "2018-06-22",
+"c": {
+"inw": "wymiana stolarki okiennej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Groszkowskiego 5 / Janusza",
+"dz": "146508_8 1203 49",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "109/2018"
+}
+},
+{
+"d": "2018-06-22",
+"c": {
+"inw": "budowa sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Nieporęcka",
+"dz": "146508_8 1407 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "116/2018"
+}
+},
+{
+"d": "2018-06-25",
+"c": {
+"inw": "zmiana geometrii dachu i adpatacja poddaszy na cele mieszkalne wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Jagiellońska Inwestycje sp. zo.o.",
+"nier": "Jagiellońska 32",
+"dz": "146508_8 1503 21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "111/2018"
+}
+},
+{
+"d": "2018-06-25",
+"c": {
+"inw": "zmiana geometrii dachu i adpatacja poddaszy na cele mieszkalne wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Jagiellońska Inwestycje sp. zo.o.",
+"nier": "Jagiellońska 32",
+"dz": "146508_8 1503 22",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "111/2018"
+}
+},
+{
+"d": "2018-06-25",
+"c": {
+"inw": "zmiana geometrii dachu i adpatacja poddaszy na cele mieszkalne wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Jagiellońska Inwestycje sp. zo.o.",
+"nier": "Jagiellońska 32",
+"dz": "146508_8 1503 23",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "111/2018"
+}
+},
+{
+"d": "2018-06-26",
+"c": {
+"inw": "budowa przyłącza sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Stalowa 69",
+"dz": "146508_8 1302 14/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "114/2018"
+}
+},
+{
+"d": "2018-06-26",
+"c": {
+"inw": "budowa przyłącza sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Stalowa 69",
+"dz": "146508_8 1302 16/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "114/2018"
+}
+},
+{
+"d": "2018-06-26",
+"c": {
+"inw": "budowa przyłącza sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Stalowa 69",
+"dz": "146508_8 1302 16/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "114/2018"
+}
+},
+{
+"d": "2018-06-26",
+"c": {
+"inw": "budowa przyłącza sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Stalowa 69",
+"dz": "146508_8 1303 1/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "114/2018"
+}
+},
+{
+"d": "2018-06-26",
+"c": {
+"inw": "przebudowa i zmiana sposobu uzytkowania lokalu mieszkalnego na gabinet ginekologiczny wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Mała 1",
+"dz": "146508_8 1307 11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "112/2018"
+}
+},
+{
+"d": "2018-06-27",
+"c": {
+"inw": "budowa budynku mieszkalnego z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Wilczyński Invest S.A.",
+"nier": "Łochowska 36",
+"dz": "146508_8 1404 60",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "115/2018"
+}
+},
+{
+"d": "2018-06-28",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "Projekt Białostocka Sp. zo.o. Sp. komandytowa",
+"nier": "Białostocka",
+"dz": "146508_8 1403 3/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "117/2018"
+}
+},
+{
+"d": "2018-07-02",
+"c": {
+"inw": "budowa przyłącza sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Kępna 15",
+"dz": "146508_8 1506 28",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "119/2018"
+}
+},
+{
+"d": "2018-07-02",
+"c": {
+"inw": "budowa przyłącza sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Kępna 15",
+"dz": "146508_8 1506 20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "119/2018"
+}
+},
+{
+"d": "2018-07-02",
+"c": {
+"inw": "budowa budynku mieszkalnego z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "SMP Invest Sp. zo.o. Sp.k.",
+"nier": "Białostocka 59",
+"dz": "146508_8 1401 32/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "118/2018"
+}
+},
+{
+"d": "2018-07-03",
+"c": {
+"inw": "przebudowa, nadbudowa i rozbudowa istniejących budynków mieszkalnych nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Fenix Capital Partners Sp. zo.o. sp. komandytowa",
+"nier": "Targowa 17",
+"dz": "146508_8 1506 80",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "120/2018"
+}
+},
+{
+"d": "2018-07-06",
+"c": {
+"inw": "remont lokalu mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Wileńska 19",
+"dz": "146508_8 1307 30/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "125/2018"
+}
+},
+{
+"d": "2018-07-06",
+"c": {
+"inw": "remont balkonów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Grajewska 21",
+"dz": "146508_8 1402 20/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "128/2018"
+}
+},
+{
+"d": "2018-07-06",
+"c": {
+"inw": "remont konstrukcji balkonów i balustrad wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Tarchomińska 12",
+"dz": "146508_8 1405 59",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "127/2018"
+}
+},
+{
+"d": "2018-07-06",
+"c": {
+"inw": "remont lokalu mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Wileńska 19",
+"dz": "146508_8 1307 30/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "124/2018"
+}
+},
+{
+"d": "2018-07-06",
+"c": {
+"inw": "remont lokalu mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Wileńska 19",
+"dz": "146508_8 1307 30/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "123/2018"
+}
+},
+{
+"d": "2018-07-06",
+"c": {
+"inw": "remont nadprozy okiennych na ścianie szczytowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Szwedzka 21",
+"dz": "146508_8 1301 76/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "126/2018"
+}
+},
+{
+"d": "2018-07-10",
+"c": {
+"inw": "remont elewacji wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Namysłowska 11a",
+"dz": "146508_8 1204 13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "129/2018"
+}
+},
+{
+"d": "2018-07-11",
+"c": {
+"inw": "przebudowa klatek schodowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MSM Nowy Dom 82",
+"nier": "Targowa 35",
+"dz": "146508_8 1506 39/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "130/2018"
+}
+},
+{
+"d": "2018-07-11",
+"c": {
+"inw": "remont elewacji oraz przejazdu bramowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Floriańska 8",
+"dz": "146508_8 1504 66/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "131/2018"
+}
+},
+{
+"d": "2018-07-12",
+"c": {
+"inw": "adpatacja piwnicy na potrzeby węzła cieplnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Szwedzka 17",
+"dz": "146508_8 1305 28",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "133/2018"
+}
+},
+{
+"d": "2018-07-12",
+"c": {
+"inw": "budowa wewnętrznej instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Grajewska 19",
+"dz": "146508_8 1402 20/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "132/2018"
+}
+},
+{
+"d": "2018-07-16",
+"c": {
+"inw": "przebudowa budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakad Gospodarowania Nieruchomosciami Praga Północ",
+"nier": "Marcinkowskiego 13 / Karola",
+"dz": "146508_8 1506 43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "134/2018"
+}
+},
+{
+"d": "2018-07-16",
+"c": {
+"inw": "remont elewacji frontowej z balkonami i przesiwtme bramowym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakad Gospodarowania Nieruchomosciami Praga Północ",
+"nier": "Kłopotowskiego 20 / ks. Ignacego",
+"dz": "146508_8 1504 95",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "135/2018"
+}
+},
+{
+"d": "2018-07-19",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.a.",
+"nier": "Stalowa",
+"dz": "146508_8 1305 31",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "136/2018"
+}
+},
+{
+"d": "2018-07-19",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.a.",
+"nier": "Stalowa",
+"dz": "146508_8 1305 62/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "136/2018"
+}
+},
+{
+"d": "2018-07-19",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Białostocka 46",
+"dz": "146508_8 1405 1/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "138/2018"
+}
+},
+{
+"d": "2018-07-19",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Białostocka 46",
+"dz": "146508_8 1405 1/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "138/2018"
+}
+},
+{
+"d": "2018-07-19",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Białostocka 46",
+"dz": "146508_8 1405 56/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "138/2018"
+}
+},
+{
+"d": "2018-07-19",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Białostocka 46",
+"dz": "146508_8 1405 56/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "138/2018"
+}
+},
+{
+"d": "2018-07-19",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Białostocka 46",
+"dz": "146508_8 1403 21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "138/2018"
+}
+},
+{
+"d": "2018-07-19",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Białostocka 46",
+"dz": "146508_8 1403 20/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "138/2018"
+}
+},
+{
+"d": "2018-07-19",
+"c": {
+"inw": "przebudowa budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Euro Mall Polska XXVI Sp. zo.o. Sp.k.",
+"nier": "Targowa 34",
+"dz": "146508_8 1507 34",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "137/2018"
+}
+},
+{
+"d": "2018-07-25",
+"c": {
+"inw": "montaż szyldów na budynku \"P\" wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Centrum Praskie Koneser Sp. zo.o. Sp.k.",
+"nier": "Ząbkowska 27/31",
+"dz": "146508_8 1405 19/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "141/2018"
+}
+},
+{
+"d": "2018-07-25",
+"c": {
+"inw": "zmiana sposobu użytkowania lokalu z instalacją wentylacji mechanicznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Projekt Dolina Sp. zo.o. Sp.k.",
+"nier": "Markowska 22",
+"dz": "146508_8 1405 16/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "142/2018"
+}
+},
+{
+"d": "2018-07-25",
+"c": {
+"inw": "zmiana sposobu użytkowania lokalu z instalacją wentylacji mechanicznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Projekt Dolina Sp. zo.o. Sp.k.",
+"nier": "Markowska 22",
+"dz": "146508_8 1405 18/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "142/2018"
+}
+},
+{
+"d": "2018-07-25",
+"c": {
+"inw": "zmiana sposobu użytkowania lokalu z instalacją wentylacji mechanicznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Projekt Dolina Sp. zo.o. Sp.k.",
+"nier": "Markowska 22",
+"dz": "146508_8 1405 1/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "142/2018"
+}
+},
+{
+"d": "2018-07-25",
+"c": {
+"inw": "zmiana sposobu użytkowania lokalu UO1 na lokal gastronomiczny wraz z instalacją wentylacji mechanicznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Projekt Dolna Sp. zo.o. Wytwórnia Sp.k.",
+"nier": "Markowska 22",
+"dz": "146508_8 1405 16/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "143/2018"
+}
+},
+{
+"d": "2018-07-25",
+"c": {
+"inw": "zmiana sposobu użytkowania lokalu UO1 na lokal gastronomiczny wraz z instalacją wentylacji mechanicznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Projekt Dolna Sp. zo.o. Wytwórnia Sp.k.",
+"nier": "Markowska 22",
+"dz": "146508_8 1405 1/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "143/2018"
+}
+},
+{
+"d": "2018-07-26",
+"c": {
+"inw": "przebudowa instalacji wentylacyjnej, grzewczej, kanalizacyjnej, wodociągowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Mazowieckie Centrum Neuropsychiatrii Sp. zo.o.",
+"nier": "Brzeska 12",
+"dz": "146508_8 1407 7/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "145/2018"
+}
+},
+{
+"d": "2018-08-01",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.a.",
+"nier": "Radzymińska 32",
+"dz": "146508_8 1404 11/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "148/2018"
+}
+},
+{
+"d": "2018-08-01",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.a.",
+"nier": "Radzymińska 32",
+"dz": "146508_8 1404 23",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "148/2018"
+}
+},
+{
+"d": "2018-08-01",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.a.",
+"nier": "Radzymińska 32",
+"dz": "146508_8 1404 37",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "148/2018"
+}
+},
+{
+"d": "2018-08-01",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.a.",
+"nier": "Radzymińska 32",
+"dz": "146508_8 1404 36/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "148/2018"
+}
+},
+{
+"d": "2018-08-01",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.a.",
+"nier": "Radzymińska 32",
+"dz": "146508_8 1404 39/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "148/2018"
+}
+},
+{
+"d": "2018-08-02",
+"c": {
+"inw": "izolacja ścian fundamentowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Targowa 83",
+"dz": "146508_8 1306 61",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "149/2018"
+}
+},
+{
+"d": "2018-08-03",
+"c": {
+"inw": "projekt zamienny- budowa pawilonu handlowo-usługowego budowa nowego/nowych obiektów budowlanych",
+"wn": "Centrum Praskie Koneser Sp. zo.o. Sp. k.",
+"nier": "Ząbkowska 27/31",
+"dz": "146508_8 1405 19/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "151/2018"
+}
+},
+{
+"d": "2018-08-06",
+"c": {
+"inw": "przebudowa ogrodzenia wraz z wydzieleniem nowego wybiegu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejski Ogród Zoologiczny",
+"nier": "Ratuszowa 1/3",
+"dz": "146508_8 1501 5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "153/2018"
+}
+},
+{
+"d": "2018-08-07",
+"c": {
+"inw": "rozbiórka stacji transfomatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "Mennica Polska S.A. S.K.A.",
+"nier": "Jagiellońska 71",
+"dz": "146508_8 1802 11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "154/2018"
+}
+},
+{
+"d": "2018-08-08",
+"c": {
+"inw": "remont bram wjazdowych w przejazdach bramowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Okrzei 29 / Stefana",
+"dz": "146508_8 1504 99",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "161/2018"
+}
+},
+{
+"d": "2018-08-08",
+"c": {
+"inw": "remont lokalu mieszklanego (pustostanu) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Wileńska 13",
+"dz": "146508_8 1306 92",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "158/2018"
+}
+},
+{
+"d": "2018-08-08",
+"c": {
+"inw": "remont lokalu mieszkalnego (pustostanu) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Inżynierska 6",
+"dz": "146508_8 1307 25",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "157/2018"
+}
+},
+{
+"d": "2018-08-08",
+"c": {
+"inw": "wymiana stolarki okiennej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Inżynierska 6",
+"dz": "146508_8 1307 25",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "159/2018"
+}
+},
+{
+"d": "2018-08-08",
+"c": {
+"inw": "wymiana stolarki okiennej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Inżynierska 7",
+"dz": "146508_8 1306 79",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "160/2018"
+}
+},
+{
+"d": "2018-08-08",
+"c": {
+"inw": "wymiana stolarki okiennej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Grajewska 4",
+"dz": "146508_8 1402 47",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "155/2018"
+}
+},
+{
+"d": "2018-08-08",
+"c": {
+"inw": "remont więźby dachowej, wymiana pokrycia dachowego, obróbka kominów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Inżynierska 9",
+"dz": "146508_8 1306 78/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "156/2018"
+}
+},
+{
+"d": "2018-08-13",
+"c": {
+"inw": "przebudowa budynku szpitala wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zarząd Mienia m.st. Warszawy",
+"nier": "Aleja \"Solidarności\" 67",
+"dz": "146508_8 1504 32/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "162/2018"
+}
+},
+{
+"d": "2018-08-14",
+"c": {
+"inw": "wymiana instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "RSM Praga",
+"nier": "Łomżyńska 22/24",
+"dz": "146508_8 1404 52",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "163/2018"
+}
+},
+{
+"d": "2018-08-14",
+"c": {
+"inw": "wymiana instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "RSM Praga",
+"nier": "Łomżyńska 22/24",
+"dz": "146508_8 1404 53/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "163/2018"
+}
+},
+{
+"d": "2018-08-14",
+"c": {
+"inw": "wymiana instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "RSM Praga",
+"nier": "Szanajcy / Józefa",
+"dz": "146508_8 1201 71",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "164/2018"
+}
+},
+{
+"d": "2018-08-20",
+"c": {
+"inw": "przebudowa, rozbudowa i zmiana sposobu użytkowania rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Budimpol Sp. zo.o.",
+"nier": "Strzelecka",
+"dz": "146508_8 1301 56",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "165/2018"
+}
+},
+{
+"d": "2018-08-22",
+"c": {
+"inw": "rozbiórka budynku rozbiórka istniejącego obiektu budowlanego",
+"wn": "Wilczyński Invest S.A.",
+"nier": "Łochowska 36",
+"dz": "146508_8 1404 60",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "166/2018"
+}
+},
+{
+"d": "2018-08-23",
+"c": {
+"inw": "budowa osiedlowej siec ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Stalowa 4",
+"dz": "146508_8 1307 33/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "167/2018"
+}
+},
+{
+"d": "2018-08-23",
+"c": {
+"inw": "budowa osiedlowej siec ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Stalowa 4",
+"dz": "146508_8 1307 13/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "167/2018"
+}
+},
+{
+"d": "2018-08-23",
+"c": {
+"inw": "budowa osiedlowej siec ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Stalowa 4",
+"dz": "146508_8 1307 4/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "167/2018"
+}
+},
+{
+"d": "2018-08-23",
+"c": {
+"inw": "budowa osiedlowej siec ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Stalowa 4",
+"dz": "146508_8 1307 3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "167/2018"
+}
+},
+{
+"d": "2018-08-24",
+"c": {
+"inw": "przebudowa sieci elektroenergetycznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Innogy Stoen Operator Sp. zo.o.",
+"nier": "Stalowa",
+"dz": "146508_8 1301 78/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "168/2018"
+}
+},
+{
+"d": "2018-08-24",
+"c": {
+"inw": "przebudowa sieci elektroenergetycznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Innogy Stoen Operator Sp. zo.o.",
+"nier": "Stalowa",
+"dz": "146508_8 1305 16/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "168/2018"
+}
+},
+{
+"d": "2018-08-24",
+"c": {
+"inw": "przebudowa sieci elektroenergetycznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Innogy Stoen Operator Sp. zo.o.",
+"nier": "Stalowa",
+"dz": "146508_8 1305 16/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "168/2018"
+}
+},
+{
+"d": "2018-08-24",
+"c": {
+"inw": "przebudowa sieci elektroenergetycznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Innogy Stoen Operator Sp. zo.o.",
+"nier": "Stalowa",
+"dz": "146508_8 1305 16/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "168/2018"
+}
+},
+{
+"d": "2018-08-24",
+"c": {
+"inw": "przebudowa sieci elektroenergetycznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Innogy Stoen Operator Sp. zo.o.",
+"nier": "Stalowa",
+"dz": "146508_8 1305 9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "168/2018"
+}
+},
+{
+"d": "2018-08-24",
+"c": {
+"inw": "przebudowa sieci elektroenergetycznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Innogy Stoen Operator Sp. zo.o.",
+"nier": "Stalowa",
+"dz": "146508_8 1305 31",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "168/2018"
+}
+},
+{
+"d": "2018-08-24",
+"c": {
+"inw": "przebudowa sieci elektroenergetycznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Innogy Stoen Operator Sp. zo.o.",
+"nier": "Stalowa",
+"dz": "146508_8 1305 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "168/2018"
+}
+},
+{
+"d": "2018-08-28",
+"c": {
+"inw": "remont elewacji i balkonów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Ząbkowska 16",
+"dz": "146508_8 1507 3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "169/2018"
+}
+},
+{
+"d": "2018-08-30",
+"c": {
+"inw": "budowa hali magazynowo-produkcyjnej budowa nowego/nowych obiektów budowlanych",
+"wn": "Mantion Polska Sp. zo.o.",
+"nier": "Boruty 2a",
+"dz": "146508_8 1125 1/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "171/2018"
+}
+},
+{
+"d": "2018-08-30",
+"c": {
+"inw": "budowa hali magazynowo-produkcyjnej budowa nowego/nowych obiektów budowlanych",
+"wn": "Mantion Polska Sp. zo.o.",
+"nier": "Boruty 2a",
+"dz": "146508_8 1125 2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "171/2018"
+}
+},
+{
+"d": "2018-08-31",
+"c": {
+"inw": "budowa przyłącza sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Strzelecka 28",
+"dz": "146508_8 1301 78/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "173/2018"
+}
+},
+{
+"d": "2018-08-31",
+"c": {
+"inw": "budowa przyłącza sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Strzelecka 28",
+"dz": "146508_8 1305 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "173/2018"
+}
+},
+{
+"d": "2018-08-31",
+"c": {
+"inw": "budowa przyłącza sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Strzelecka 28",
+"dz": "146508_8 1305 6/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "173/2018"
+}
+},
+{
+"d": "2018-09-10",
+"c": {
+"inw": "przebudowa wentylacji mechanicznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Mazowiecki Szpital Wojewódzki \"Drewnica\" Sp. zo.o.",
+"nier": "Brzeska 12",
+"dz": "146508_8 1407 7/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "176/2018"
+}
+},
+{
+"d": "2018-09-12",
+"c": {
+"inw": "rozbiorka budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "SMP Invest Sp. zo.o. Sp.k.",
+"nier": "Białostocka 59",
+"dz": "146508_8 1401 32/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "179/2018"
+}
+},
+{
+"d": "2018-09-20",
+"c": {
+"inw": "budowa zespołu pawilonó handlowych budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa",
+"nier": "Targowa 54",
+"dz": "146508_8 1507 67/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "183/2018"
+}
+},
+{
+"d": "2018-09-21",
+"c": {
+"inw": "przebudowa i zmiana sposobu uzytkowania- projekt zamienny wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Beta Sp. zo.o.",
+"nier": "Listopada 17/19 / 11",
+"dz": "146508_8 1202 9/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "184/2018"
+}
+},
+{
+"d": "2018-09-21",
+"c": {
+"inw": "przebudowa i zmiana sposobu uzytkowania- projekt zamienny wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Beta Sp. zo.o.",
+"nier": "Listopada 17/19 / 11",
+"dz": "146508_8 1202 9/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "184/2018"
+}
+},
+{
+"d": "2018-09-24",
+"c": {
+"inw": "rewitalizacja i przebudowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospdoarowania Nieruchomościami Praga-Północ",
+"nier": "Strzelecka 10",
+"dz": "146508_8 1305 3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "185/2018"
+}
+},
+{
+"d": "2018-09-25",
+"c": {
+"inw": "decyzja zamienna - remont elewacji i wnętrz budynku Urzędu Stanu Cywilnego- projekt zamienny wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Biuro Administracyjne Urzędu m.st. Warszawy",
+"nier": "Kłopotowskiego 1/3 / ks. Ignacego",
+"dz": "146508_8 1504 22",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "186/2018"
+}
+},
+{
+"d": "2018-09-28",
+"c": {
+"inw": "wymiana instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Jasińskiego 2 / Jakuba",
+"dz": "146508_8 1504 34",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "188/2018"
+}
+},
+{
+"d": "2018-10-01",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Środkowa 21",
+"dz": "146508_8 1304 8/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "189/2018"
+}
+},
+{
+"d": "2018-10-01",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Środkowa 21",
+"dz": "146508_8 1304 13/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "189/2018"
+}
+},
+{
+"d": "2018-10-01",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Środkowa 21",
+"dz": "146508_8 1304 13/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "189/2018"
+}
+},
+{
+"d": "2018-10-01",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Środkowa 21",
+"dz": "146508_8 1304 67/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "189/2018"
+}
+},
+{
+"d": "2018-10-02",
+"c": {
+"inw": "projekt zamienny-przebudowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Centrum wspierania Rodzin \"Rodzinna Warszawa\"",
+"nier": "Środkowa 9",
+"dz": "146508_8 1304 24",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "191/2018"
+}
+},
+{
+"d": "2018-10-04",
+"c": {
+"inw": "remont budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga - Północ",
+"nier": "Ząbkowska 4",
+"dz": "146508_8 1507 9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "192/2018"
+}
+},
+{
+"d": "2018-10-04",
+"c": {
+"inw": "remont budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga - Północ",
+"nier": "Ząbkowska 4",
+"dz": "146508_8 1507 67/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "192/2018"
+}
+},
+{
+"d": "2018-10-08",
+"c": {
+"inw": "remont pokrycia stropodachu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polskie Linie Kolejowe S.A.",
+"nier": "Targowa 74",
+"dz": "146508_8 1307 50/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "194/2018"
+}
+},
+{
+"d": "2018-10-16",
+"c": {
+"inw": "przebudowa instalacji gazu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "WSPÓLNOTA MIESZKANIOWA",
+"nier": "Marcinkowskiego 7 / Karola",
+"dz": "146508_8 1506 45",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "198/2018"
+}
+},
+{
+"d": "2018-10-16",
+"c": {
+"inw": "remont budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga-Pólnoc",
+"nier": "Stalowa 50",
+"dz": "146508_8 1305 73",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "195/2018"
+}
+},
+{
+"d": "2018-10-16",
+"c": {
+"inw": "przesunięcie oraz powiększenie otworów w ścianach wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Marcinkowskiego 7 / Karola",
+"dz": "146508_8 1506 45",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "197/2018"
+}
+},
+{
+"d": "2018-10-17",
+"c": {
+"inw": "rozbiórka stropów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Bouygues Immobilier Polska Sp. zo.o.",
+"nier": "Stalowa 41",
+"dz": "146508_8 1305 16/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "200/2018"
+}
+},
+{
+"d": "2018-10-17",
+"c": {
+"inw": "rozbiórka stropów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Bouygues Immobilier Polska Sp. zo.o.",
+"nier": "Stalowa 41",
+"dz": "146508_8 1305 16/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "200/2018"
+}
+},
+{
+"d": "2018-10-18",
+"c": {
+"inw": "zmiana decyzji nr 153/2018- remont elewacji wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Targowa 70",
+"dz": "146508_8 1403 33",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "199/2018"
+}
+},
+{
+"d": "2018-10-19",
+"c": {
+"inw": "remont lokalu usługowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kłopotowskiego 7 / ks. Ignacego",
+"dz": "146508_8 1504 16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "201/2018"
+}
+},
+{
+"d": "2018-10-19",
+"c": {
+"inw": "rewitalizacja i przebudowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga-Północ",
+"nier": "Strzelecka 10",
+"dz": "146508_8 1305 3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "202/2018"
+}
+},
+{
+"d": "2018-10-30",
+"c": {
+"inw": "przebudowa instalacji wentylacji wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PKP Polskie Linie Kolejowe S.A.",
+"nier": "Targowa 74",
+"dz": "146508_8 1307 50/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "208/2018"
+}
+},
+{
+"d": "2018-11-02",
+"c": {
+"inw": "rozbiórka części budynku oficyny wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga-Północ",
+"nier": "Siedlecka 34",
+"dz": "146508_8 1404 92/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "211/2018"
+}
+},
+{
+"d": "2018-11-02",
+"c": {
+"inw": "rozbiórka części budynku oficyny wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga-Północ",
+"nier": "Siedlecka 34",
+"dz": "146508_8 1404 94",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "211/2018"
+}
+},
+{
+"d": "2018-11-06",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Listopada 22 / 11",
+"dz": "146508_8 1304 53",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "212/2018"
+}
+},
+{
+"d": "2018-11-13",
+"c": {
+"inw": "przebudowa budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zarząd Mienia m.st. Warszawy",
+"nier": "Radzymińska 63",
+"dz": "146508_8 1401 15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "215/2018"
+}
+},
+{
+"d": "2018-11-16",
+"c": {
+"inw": "projekt zamienny do decyzji 54/2017 nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "FIII JAgiellońska Sp. zo.o.",
+"nier": "Jagiellońska 36",
+"dz": "146508_8 1503 12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "216/2018"
+}
+},
+{
+"d": "2018-11-16",
+"c": {
+"inw": "projekt zamienny do decyzji 54/2017 nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "FIII JAgiellońska Sp. zo.o.",
+"nier": "Jagiellońska 36",
+"dz": "146508_8 1503 8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "216/2018"
+}
+},
+{
+"d": "2018-11-16",
+"c": {
+"inw": "budowa budynku wielorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "Targowa Sp. zo.o.",
+"nier": "Targowa 23",
+"dz": "146508_8 1506 75",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "217/2018"
+}
+},
+{
+"d": "2018-11-21",
+"c": {
+"inw": "wznowienie i wymiana elementów konstrukcyjnych wraz z przebudową wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PPHU Mariola Wywiał",
+"nier": "Kawęczyńska 37",
+"dz": "146508_8 1404 89",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "219/2018"
+}
+},
+{
+"d": "2018-11-27",
+"c": {
+"inw": "przebudowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Euro Mall Polska XXVI Sp. z.o.o. Sp.k.",
+"nier": "Targowa 34",
+"dz": "146508_8 1507 34",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "220/2018"
+}
+},
+{
+"d": "2018-11-28",
+"c": {
+"inw": "remont budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga-Północ",
+"nier": "Wileńska 13",
+"dz": "146508_8 1306 92",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "221/2018"
+}
+},
+{
+"d": "2018-11-29",
+"c": {
+"inw": "montaż daszków nad balkonami wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieuchomościami Praga-Północ",
+"nier": "Łochowska 39",
+"dz": "146508_8 1404 50",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "222/2018"
+}
+},
+{
+"d": "2018-11-29",
+"c": {
+"inw": "montaż daszków nad balkonami wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieuchomościami Praga-Północ",
+"nier": "Łochowska 39",
+"dz": "146508_8 1404 51",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "222/2018"
+}
+},
+{
+"d": "2018-11-29",
+"c": {
+"inw": "przebudowa sieci wodociągowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji S.A.",
+"nier": "Kłopotowskiego / ks. Ignacego",
+"dz": "146508_8 1504 72/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "223/2018"
+}
+},
+{
+"d": "2018-11-29",
+"c": {
+"inw": "przebudowa sieci wodociągowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji S.A.",
+"nier": "Kłopotowskiego / ks. Ignacego",
+"dz": "146508_8 1504 72/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "223/2018"
+}
+},
+{
+"d": "2018-11-29",
+"c": {
+"inw": "przebudowa sieci wodociągowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji S.A.",
+"nier": "Kłopotowskiego / ks. Ignacego",
+"dz": "146508_8 1504 72/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "223/2018"
+}
+},
+{
+"d": "2018-11-29",
+"c": {
+"inw": "przebudowa sieci wodociągowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji S.A.",
+"nier": "Kłopotowskiego / ks. Ignacego",
+"dz": "146508_8 1504 105/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "223/2018"
+}
+},
+{
+"d": "2018-11-29",
+"c": {
+"inw": "przebudowa sieci wodociągowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji S.A.",
+"nier": "Kłopotowskiego / ks. Ignacego",
+"dz": "146508_8 1504 73",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "223/2018"
+}
+},
+{
+"d": "2018-12-07",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Markowska 16",
+"dz": "146508_8 1407 16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "224/2018"
+}
+},
+{
+"d": "2018-12-07",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Markowska 16",
+"dz": "146508_8 1407 19/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "224/2018"
+}
+},
+{
+"d": "2018-12-11",
+"c": {
+"inw": "adaptacja pomieszczeń piwnicznych na potzreby węzła cieplnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga-Północ",
+"nier": "",
+"dz": "146508_8 1305 77",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "227/2018"
+}
+},
+{
+"d": "2018-12-11",
+"c": {
+"inw": "adaptacja pomieszczeń piwnicznych na potrzeby węzła cieplnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga-Północ",
+"nier": "Szwedzka 9",
+"dz": "146508_8 1305 78",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "229/2018"
+}
+},
+{
+"d": "2018-12-11",
+"c": {
+"inw": "adaptacja pomieszczeń piwnicznych na potrzeby węzła cieplnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga-Północ",
+"nier": "Równa 6",
+"dz": "146508_8 1305 89/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "225/2018"
+}
+},
+{
+"d": "2018-12-11",
+"c": {
+"inw": "adaptacja pomieszczeń piwnicznych na potrzeby węzła cieplnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga-Północ",
+"nier": "Szwedzka 7",
+"dz": "146508_8 1305 79",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "231/2018"
+}
+},
+{
+"d": "2018-12-13",
+"c": {
+"inw": "remont elewacji, konstrukcji dachu oraz pokrycia dachowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Diecezja Warszawsko-Praska Kuria Biskupia",
+"nier": "2A",
+"dz": "146508_8 1504 70",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "233/2018"
+}
+},
+{
+"d": "2018-12-13",
+"c": {
+"inw": "montaż daszków nad wejściem do budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga -Północ",
+"nier": "Łomżyńska 27",
+"dz": "146508_8 1401 106",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "232/2018"
+}
+},
+{
+"d": "2018-12-13",
+"c": {
+"inw": "montaż daszków nad wejściem do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodorawania Nieruchomościami Praga-Północ",
+"nier": "Łomżyńska 29",
+"dz": "146508_8 1401 94",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "234/2018"
+}
+},
+{
+"d": "2018-12-19",
+"c": {
+"inw": "remont dachu, elewacji i balkonów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Jagiellońska 30",
+"dz": "146508_8 1503 24",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "235/2018"
+}
+},
+{
+"d": "2018-12-20",
+"c": {
+"inw": "budowa przyłącza ciepłowniczego budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.a.",
+"nier": "Białostocka 45",
+"dz": "146508_8 1401 29",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "243/2018"
+}
+},
+{
+"d": "2018-12-20",
+"c": {
+"inw": "budowa przyłącza ciepłowniczego budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.a.",
+"nier": "Białostocka 45",
+"dz": "146508_8 1401 28/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "243/2018"
+}
+},
+{
+"d": "2018-12-20",
+"c": {
+"inw": "nadbudowa i zmiana sposobu uzytkowania parteru na lokale uzytkowe nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Inwestycje Marzeń",
+"nier": "Łochowska 38b",
+"dz": "146508_8 1404 61/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "240/2018"
+}
+},
+{
+"d": "2018-12-20",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.a.",
+"nier": "Białostocka 53",
+"dz": "146508_8 1401 29",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "241/2018"
+}
+},
+{
+"d": "2018-12-20",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.a.",
+"nier": "Białostocka 53",
+"dz": "146508_8 1401 28/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "241/2018"
+}
+},
+{
+"d": "2018-12-20",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.a.",
+"nier": "Białostocka 53",
+"dz": "146508_8 1404 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "241/2018"
+}
+},
+{
+"d": "2018-12-20",
+"c": {
+"inw": "budowa przyłącza ciepłowniczego budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.a.",
+"nier": "Białostocka 45",
+"dz": "146508_8 1404 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "243/2018"
+}
+},
+{
+"d": "2018-12-20",
+"c": {
+"inw": "przebudowa osiedlowej sieci ciwpłowniczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Łochowska 1",
+"dz": "146508_8 1404 44",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "242/2018"
+}
+},
+{
+"d": "2018-12-20",
+"c": {
+"inw": "przebudowa osiedlowej sieci ciwpłowniczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Łochowska 1",
+"dz": "146508_8 1404 45/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "242/2018"
+}
+},
+{
+"d": "2018-12-20",
+"c": {
+"inw": "przebudowa osiedlowej sieci ciwpłowniczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Łochowska 1",
+"dz": "146508_8 1404 46/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "242/2018"
+}
+},
+{
+"d": "2018-12-20",
+"c": {
+"inw": "remont pustostanu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga - Północ",
+"nier": "Olszowa 12",
+"dz": "146508_8 1504 6/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "239/2018"
+}
+},
+{
+"d": "2018-12-20",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.a.",
+"nier": "Białostocka 53",
+"dz": "146508_8 1403 20/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "241/2018"
+}
+},
+{
+"d": "2018-12-20",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.a.",
+"nier": "Białostocka 53",
+"dz": "146508_8 1403 20/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "241/2018"
+}
+},
+{
+"d": "2018-12-20",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.a.",
+"nier": "Białostocka 53",
+"dz": "146508_8 1403 23/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "241/2018"
+}
+},
+{
+"d": "2018-12-20",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.a.",
+"nier": "Białostocka 53",
+"dz": "146508_8 1405 1/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "241/2018"
+}
+},
+{
+"d": "2018-12-21",
+"c": {
+"inw": "przebudowa budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zarząd Mienia m.st. Warszawy",
+"nier": "Środkowa 16",
+"dz": "146508_8 1305 7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "244/2018"
+}
+},
+{
+"d": "2018-12-28",
+"c": {
+"inw": "malowanie elewacji, wymiana stolarki okiennej i drzwiowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PKP Polskie Linie Kolejowe S.A.",
+"nier": "Aleja \"Solidarności\" 44",
+"dz": "146508_8 1307 50/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "246/2018"
+}
+}
+]
+},
+{
+"id": "dec_pnb",
+"name": "Decyzje o pozwoleniu na budowę",
+"short": "Decyzje PnB",
+"desc": "Decyzje o pozwoleniu na budowę wydane przez organ architektoniczno-budowlany dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer decyzji",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2018-01-15",
+"c": {
+"inw": "przebudowa, rozbudowa i nadbudowa oficyny rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Kłopotowskiego 30 / ks. Ignacego",
+"dz": "146508_8 1504 101",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "2/2018"
+}
+},
+{
+"d": "2018-01-29",
+"c": {
+"inw": "wzmocnienie ściany nośnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Groszkowskiego 5 / Janusza",
+"dz": "146508_8 1203 49",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "3/2018"
+}
+},
+{
+"d": "2018-01-30",
+"c": {
+"inw": "przebudowa budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Łochowska 43",
+"dz": "146508_8 1404 53/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "10/2018"
+}
+},
+{
+"d": "2018-01-30",
+"c": {
+"inw": "przebudowa budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Łochowska 43",
+"dz": "146508_8 1404 53/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "10/2018"
+}
+},
+{
+"d": "2018-01-30",
+"c": {
+"inw": "przebudowa budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Łochowska 43",
+"dz": "146508_8 1404 59",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "10/2018"
+}
+},
+{
+"d": "2018-01-30",
+"c": {
+"inw": "przebudowa budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Otwocka",
+"dz": "146508_8 1404 58",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "5/2018"
+}
+},
+{
+"d": "2018-01-30",
+"c": {
+"inw": "przebudowa budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Otwocka",
+"dz": "146508_8 1404 53/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "5/2018"
+}
+},
+{
+"d": "2018-01-30",
+"c": {
+"inw": "przebudowa budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Otwocka",
+"dz": "146508_8 1404 63/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "5/2018"
+}
+},
+{
+"d": "2018-01-31",
+"c": {
+"inw": "wymiana oraz wzmocnienie stropów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomosciami Praga Północ",
+"nier": "Jagiellońska 11",
+"dz": "146508_8 1506 50",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6/2018"
+}
+},
+{
+"d": "2018-02-09",
+"c": {
+"inw": "budowa stanowiska diagnostycznego dla samochodów użytkowych budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Radzymińska 78/80",
+"dz": "146508_8 1401 47",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "15/2018"
+}
+},
+{
+"d": "2018-02-09",
+"c": {
+"inw": "remont elewacji tylnej budynku frontowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Kłopotowskiego 30 / ks. Ignacego",
+"dz": "146508_8 1504 101",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "14/2018"
+}
+},
+{
+"d": "2018-02-14",
+"c": {
+"inw": "przebudowa szachtu windowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "WSSM Warsaw Sp. zo.o.",
+"nier": "Targowa 72",
+"dz": "146508_8 1403 30",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "18/2018"
+}
+},
+{
+"d": "2018-02-14",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Ratuszowa 11",
+"dz": "146508_8 1203 149",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "17/2018"
+}
+},
+{
+"d": "2018-02-14",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Ratuszowa 11",
+"dz": "146508_8 1203 150",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "17/2018"
+}
+},
+{
+"d": "2018-02-15",
+"c": {
+"inw": "remont generalny budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Środkowa 14",
+"dz": "146508_8 1305 10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "19/2018"
+}
+},
+{
+"d": "2018-02-16",
+"c": {
+"inw": "zmiana decyzji - budowa budynku mieszkalnego wielorodzinnego z parterem handlowo-usługowym, garażem budowa nowego/nowych obiektów budowlanych",
+"wn": "Port Praski II Sp. zo.o.",
+"nier": "Krowia 2",
+"dz": "146508_8 1505 24/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "21/2018"
+}
+},
+{
+"d": "2018-02-16",
+"c": {
+"inw": "zmiana decyzji - budowa budynku mieszkalnego wielorodzinnego z parterem handlowo-usługowym, garażem budowa nowego/nowych obiektów budowlanych",
+"wn": "Port Praski II Sp. zo.o.",
+"nier": "Krowia 2",
+"dz": "146508_8 1505 24/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "21/2018"
+}
+},
+{
+"d": "2018-02-16",
+"c": {
+"inw": "zmiana decyzji - budowa budynku mieszkalnego z parterem handlowo-usługowym, garażem budowa nowego/nowych obiektów budowlanych",
+"wn": "Port Praski sp. z.o.o. sp. k-a",
+"nier": "Krowia 6",
+"dz": "146508_8 1505 24/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "20/2018"
+}
+},
+{
+"d": "2018-02-19",
+"c": {
+"inw": "termomodernizacja wraz z przebudową i remontem budynków wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Komenda Stołeczna Policji",
+"nier": "Jagiellońska 72",
+"dz": "146508_8 1809 16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "22/2018"
+}
+},
+{
+"d": "2018-02-19",
+"c": {
+"inw": "termomodernizacja wraz z przebudową i remontem budynków wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Komenda Stołeczna Policji",
+"nier": "Jagiellońska 72",
+"dz": "146508_8 1809 17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "22/2018"
+}
+},
+{
+"d": "2018-02-22",
+"c": {
+"inw": "przebudowa kotłowni gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Otwocka 10",
+"dz": "146508_8 1402 27/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "26/2018"
+}
+},
+{
+"d": "2018-02-22",
+"c": {
+"inw": "przebudowa kotłowni gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Otwocka 10",
+"dz": "146508_8 1402 27/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "26/2018"
+}
+},
+{
+"d": "2018-02-22",
+"c": {
+"inw": "przebudowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Konopacka 6",
+"dz": "146508_8 1305 41",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "24/2018"
+}
+},
+{
+"d": "2018-03-02",
+"c": {
+"inw": "remont lokalu handlowo-usługowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Żabka Polska S.A.",
+"nier": "Wileńska 19",
+"dz": "146508_8 1307 30/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "30/2018"
+}
+},
+{
+"d": "2018-03-02",
+"c": {
+"inw": "przebudowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gopodarowania Nieruchomościami Praga Północ",
+"nier": "Stalowa 33",
+"dz": "146508_8 1305 12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "29/2018"
+}
+},
+{
+"d": "2018-03-02",
+"c": {
+"inw": "budowa przyłącza sieci ciepłowniczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Ząbkowska 14 Sp. zo.o.",
+"nier": "Ząbkowska 14",
+"dz": "146508_8 1507 5/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "28/2018"
+}
+},
+{
+"d": "2018-03-02",
+"c": {
+"inw": "budowa przyłącza sieci ciepłowniczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Ząbkowska 14 Sp. zo.o.",
+"nier": "Ząbkowska 14",
+"dz": "146508_8 1507 2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "28/2018"
+}
+},
+{
+"d": "2018-03-05",
+"c": {
+"inw": "przyłącze węzła cieplnego do budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Inżynierska 9",
+"dz": "146508_8 1306 78/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "33/2018"
+}
+},
+{
+"d": "2018-03-05",
+"c": {
+"inw": "przyłącze węzła cieplnego do budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Inżynierska 9",
+"dz": "146508_8 1306 94",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "33/2018"
+}
+},
+{
+"d": "2018-03-05",
+"c": {
+"inw": "przyłącze węzła cieplnego do budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Inżynierska 9",
+"dz": "146508_8 1307 21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "33/2018"
+}
+},
+{
+"d": "2018-03-07",
+"c": {
+"inw": "przebudowa parteru buydnku mieszkalno-usługowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "A.M. FOGTT Fundacja",
+"nier": "Inżynierska 6",
+"dz": "146508_8 1307 25",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "34/2018"
+}
+},
+{
+"d": "2018-03-09",
+"c": {
+"inw": "doposażenie lokalu w piec co/cwu z modernizacją instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Łochowska 44",
+"dz": "146508_8 1402 26/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "32/2018"
+}
+},
+{
+"d": "2018-03-12",
+"c": {
+"inw": "wymiana instalacji elektrycznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Kłopotowskiego 6 / ks. Ignacego",
+"dz": "146508_8 1504 79",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "36/2018"
+}
+},
+{
+"d": "2018-03-12",
+"c": {
+"inw": "wymiana stropu pod lokalem uzytkowym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Wileńska 25",
+"dz": "146508_8 1307 43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "37/2018"
+}
+},
+{
+"d": "2018-03-12",
+"c": {
+"inw": "nadbudowa poddasza oraz dobudowa zewnętrznej windy nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Wilbar Sp. zo.o. Sp. k.",
+"nier": "Łochowska 36",
+"dz": "146508_8 1404 60",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "38/2018"
+}
+},
+{
+"d": "2018-03-13",
+"c": {
+"inw": "budowa przyłącza sieci ciepłwoniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Warszawa S.A.",
+"nier": "Ząbkowska 2",
+"dz": "146508_8 1507 2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/2018"
+}
+},
+{
+"d": "2018-03-13",
+"c": {
+"inw": "budowa przyłącza sieci ciepłwoniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Warszawa S.A.",
+"nier": "Ząbkowska 2",
+"dz": "146508_8 1507 1/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/2018"
+}
+},
+{
+"d": "2018-03-13",
+"c": {
+"inw": "budowa przyłącza sieci ciepłwoniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Warszawa S.A.",
+"nier": "Ząbkowska 2",
+"dz": "146508_8 1507 15/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/2018"
+}
+},
+{
+"d": "2018-03-15",
+"c": {
+"inw": "bduowa osiedlowej sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Warszawa S.a.",
+"nier": "Stalowa 29",
+"dz": "146508_8 1304 26",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "40/2018"
+}
+},
+{
+"d": "2018-03-15",
+"c": {
+"inw": "bduowa osiedlowej sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Warszawa S.a.",
+"nier": "Stalowa 29",
+"dz": "146508_8 1304 5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "40/2018"
+}
+},
+{
+"d": "2018-03-15",
+"c": {
+"inw": "bduowa osiedlowej sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Warszawa S.a.",
+"nier": "Stalowa 29",
+"dz": "146508_8 1304 8/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "40/2018"
+}
+},
+{
+"d": "2018-03-15",
+"c": {
+"inw": "bduowa osiedlowej sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Warszawa S.a.",
+"nier": "Stalowa 29",
+"dz": "146508_8 1304 21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "40/2018"
+}
+},
+{
+"d": "2018-03-16",
+"c": {
+"inw": "przebudowa budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Łochowska 31",
+"dz": "146508_8 1404 45/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/2018"
+}
+},
+{
+"d": "2018-03-16",
+"c": {
+"inw": "przebudowa budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Łochowska 31",
+"dz": "146508_8 1404 44",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/2018"
+}
+},
+{
+"d": "2018-03-16",
+"c": {
+"inw": "przebudowa budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Łochowska 31",
+"dz": "146508_8 1404 59",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/2018"
+}
+},
+{
+"d": "2018-03-20",
+"c": {
+"inw": "rozbudowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Jadowska 5A",
+"dz": "146508_8 1401 96",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "43/2018"
+}
+},
+{
+"d": "2018-03-20",
+"c": {
+"inw": "odtworzenie balkonów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Strzelecka 42",
+"dz": "146508_8 1305 26/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "42/2018"
+}
+},
+{
+"d": "2018-03-22",
+"c": {
+"inw": "przebudowa budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Łochowska 38A",
+"dz": "146508_8 1404 61/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "45/2018"
+}
+},
+{
+"d": "2018-03-22",
+"c": {
+"inw": "przebudowa budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Łochowska 38A",
+"dz": "146508_8 1404 59",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "45/2018"
+}
+},
+{
+"d": "2018-03-22",
+"c": {
+"inw": "przebudowa budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Ząbkowska 36",
+"dz": "146508_8 1407 19/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "46/2018"
+}
+},
+{
+"d": "2018-03-22",
+"c": {
+"inw": "przebudowa budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Ząbkowska 36",
+"dz": "146508_8 1407 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "46/2018"
+}
+},
+{
+"d": "2018-03-23",
+"c": {
+"inw": "remont i przebudowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Stołeczny Zarząd Rozbudowy Miasta",
+"nier": "Jagiellońska 28",
+"dz": "146508_8 1503 29",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "46/2018"
+}
+},
+{
+"d": "2018-03-26",
+"c": {
+"inw": "remont lokalu mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Inżynierska 7",
+"dz": "146508_8 1306 79",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "49/2018"
+}
+},
+{
+"d": "2018-03-26",
+"c": {
+"inw": "remont lokalu mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Mała 13a",
+"dz": "146508_8 1307 18",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "50/2018"
+}
+},
+{
+"d": "2018-03-27",
+"c": {
+"inw": "rozbiórka masztów oraz konstrukcji wsporczych anten rozbiórka istniejącego obiektu budowlanego",
+"wn": "T-Mobile Polska S.A.",
+"nier": "Ząbkowska 27",
+"dz": "146508_8 1405 19/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "51/2018"
+}
+},
+{
+"d": "2018-04-05",
+"c": {
+"inw": "budowa gazociągu niskiego ciśnienia budowa nowego/nowych obiektów budowlanych",
+"wn": "Polska Spółka GAzownictwa Sp. zo.o.",
+"nier": "Wrzesińska",
+"dz": "146508_8 1506 62/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "52/2018"
+}
+},
+{
+"d": "2018-04-05",
+"c": {
+"inw": "budowa gazociągu niskiego ciśnienia budowa nowego/nowych obiektów budowlanych",
+"wn": "Polska Spółka GAzownictwa Sp. zo.o.",
+"nier": "Wrzesińska",
+"dz": "146508_8 1505 21/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "52/2018"
+}
+},
+{
+"d": "2018-04-12",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z usługami i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Grupa Inwestycyjna Hetman Sp. zo.o.",
+"nier": "Środkowa 20",
+"dz": "146508_8 1305 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "56/2018"
+}
+},
+{
+"d": "2018-04-16",
+"c": {
+"inw": "przebudowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Marcinkowskiego 7 / Karola",
+"dz": "146508_8 1506 45",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "57/2018"
+}
+},
+{
+"d": "2018-04-16",
+"c": {
+"inw": "rozbiórka budynku rozbiórka istniejącego obiektu budowlanego",
+"wn": "F.O.P. AVIA",
+"nier": "Siedlecka 47",
+"dz": "146508_8 1402 22/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "58/2018"
+}
+},
+{
+"d": "2018-04-17",
+"c": {
+"inw": "przebudowa lokalu mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kowieńska 7",
+"dz": "146508_8 1301 47",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "61/2018"
+}
+},
+{
+"d": "2018-04-18",
+"c": {
+"inw": "przebudowa pomieszczeń przychodni rodzinnej dla potrzeb oddziału dziennego aktywizacji seniora wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SPZLO Warszawa Praga Północ",
+"nier": "Otwocka 1",
+"dz": "146508_8 0404 96",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "59/2018"
+}
+},
+{
+"d": "2018-04-18",
+"c": {
+"inw": "doposażenie lokali usługowych w instalację gazową z piecami co wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomosciami Praga Północ",
+"nier": "Darwina 16 / Karola",
+"dz": "146508_8 1201 88",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "62/2018"
+}
+},
+{
+"d": "2018-04-18",
+"c": {
+"inw": "remont lokalu mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "ZAKŁAD GOPODAROWEANIA NIERUCHOMOŚCIAMI PRAGA PÓLNOC",
+"nier": "Inżynierska 7",
+"dz": "146508_8 1306 79",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "60/2018"
+}
+},
+{
+"d": "2018-04-20",
+"c": {
+"inw": "przebudowa lokalu biurowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Port Praski Sp. zo.o. SKA",
+"nier": "Krowia 6",
+"dz": "146508_8 1505 22/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "63/2018"
+}
+},
+{
+"d": "2018-04-20",
+"c": {
+"inw": "przebudowa lokalu biurowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Port Praski Sp. zo.o. SKA",
+"nier": "Krowia 6",
+"dz": "146508_8 1505 24/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "63/2018"
+}
+},
+{
+"d": "2018-04-24",
+"c": {
+"inw": "wymiana konstrukcji stropów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Łochowska 38B",
+"dz": "146508_8 1404 61/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "64/2018"
+}
+},
+{
+"d": "2018-04-27",
+"c": {
+"inw": "przebudowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Środkowa 12",
+"dz": "146508_8 1305 11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "66/2018"
+}
+},
+{
+"d": "2018-04-30",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "Bouygues Immobilier Polska Sp. zo.o.",
+"nier": "Wrzesińska 6",
+"dz": "146508_8 1506 58",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "67/2018"
+}
+},
+{
+"d": "2018-05-07",
+"c": {
+"inw": "budowa przyłącza sieci ciepłowiczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Jagiellońska 11",
+"dz": "146508_8 1506 49",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "68/2018"
+}
+},
+{
+"d": "2018-05-07",
+"c": {
+"inw": "budowa przyłącza sieci ciepłowiczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Jagiellońska 11",
+"dz": "146508_8 1506 50",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "68/2018"
+}
+},
+{
+"d": "2018-05-07",
+"c": {
+"inw": "budowa zespołu budynków mieszkalnych wielorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "Bouygues Immobilier Polska Sp. zo.o.",
+"nier": "Stalowa 39",
+"dz": "146508_8 1305 16/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "70/2018"
+}
+},
+{
+"d": "2018-05-07",
+"c": {
+"inw": "budowa zespołu budynków mieszkalnych wielorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "Bouygues Immobilier Polska Sp. zo.o.",
+"nier": "Stalowa 39",
+"dz": "146508_8 1305 16/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "70/2018"
+}
+},
+{
+"d": "2018-05-07",
+"c": {
+"inw": "budowa zespołu budynków mieszkalnych wielorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "Bouygues Immobilier Polska Sp. zo.o.",
+"nier": "Stalowa 39",
+"dz": "146508_8 1305 16/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "70/2018"
+}
+},
+{
+"d": "2018-05-07",
+"c": {
+"inw": "budowa zespołu budynków mieszkalnych wielorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "Bouygues Immobilier Polska Sp. zo.o.",
+"nier": "Stalowa 39",
+"dz": "146508_8 1305 16/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "70/2018"
+}
+},
+{
+"d": "2018-05-08",
+"c": {
+"inw": "podłączenie instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Białołęcka 36",
+"dz": "146508_8 1405 28",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "73/2018"
+}
+},
+{
+"d": "2018-05-08",
+"c": {
+"inw": "przebudowa wewnętrznej instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Szymanowskiego 7 / Karola",
+"dz": "146508_8 1204 31",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "71/2018"
+}
+},
+{
+"d": "2018-05-10",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Brzeska 10",
+"dz": "146508_8 1407 15/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "76/2018"
+}
+},
+{
+"d": "2018-05-10",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Brzeska 10",
+"dz": "146508_8 1407 17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "76/2018"
+}
+},
+{
+"d": "2018-05-10",
+"c": {
+"inw": "remont budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Kępna 13",
+"dz": "146508_8 1506 22",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "75/2018"
+}
+},
+{
+"d": "2018-05-10",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Brzeska 10",
+"dz": "146508_8 1507 1/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "76/2018"
+}
+},
+{
+"d": "2018-05-11",
+"c": {
+"inw": "remont kuchni i zaplecza wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zarząd Dzielnicy Praga-Północ",
+"nier": "Wołomińska 12/18",
+"dz": "146508_8 1404 35",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "79/2018"
+}
+},
+{
+"d": "2018-05-11",
+"c": {
+"inw": "budowa kontenerowej stacji transformatorowej oraz przyłączy elektroenergetycznych budowa nowego/nowych obiektów budowlanych",
+"wn": "Innogy Stoen Operator Sp. zo.o.",
+"nier": "Szwedzka 2/4",
+"dz": "146508_8 1303 9/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "77/2018"
+}
+},
+{
+"d": "2018-05-14",
+"c": {
+"inw": "remont pustostanu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Kłopotowskiego 38 / ks. Ignacego",
+"dz": "146508_8 1503 43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "81/2018"
+}
+},
+{
+"d": "2018-05-15",
+"c": {
+"inw": "budowa przyłącza sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Wrzesińska",
+"dz": "146508_8 1506 56",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "83/2018"
+}
+},
+{
+"d": "2018-05-15",
+"c": {
+"inw": "budowa przyłącza sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Wrzesińska",
+"dz": "146508_8 1506 62/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "83/2018"
+}
+},
+{
+"d": "2018-05-15",
+"c": {
+"inw": "budowa przyłącza sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Wrzesińska",
+"dz": "146508_8 1505 21/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "83/2018"
+}
+},
+{
+"d": "2018-05-16",
+"c": {
+"inw": "ADAPTACJA POMIESZCZEŃ PIWNICY NA POTRZEBY WĘZŁA CIEPLNEGO wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Stolarska 2/4",
+"dz": "146508_8 1301 14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "84/2018"
+}
+},
+{
+"d": "2018-05-16",
+"c": {
+"inw": "ADAPTACJA POMIESZCZEŃ PIWNICZNYCH NA POTRZEBY WĘZŁA CIEPLNEGO wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Strzelecka 38",
+"dz": "146508_8 1305 21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "85/2018"
+}
+},
+{
+"d": "2018-05-16",
+"c": {
+"inw": "naprawa nadproży wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Czynszowa 4",
+"dz": "146508_8 1305 59/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "82/2018"
+}
+},
+{
+"d": "2018-05-16",
+"c": {
+"inw": "ADAPTACJA POMIESZCZEŃ PIWNICZNYCH NA POTRZEBY WĘZŁA CIEPLNEGO wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Strzelecka 28",
+"dz": "146508_8 1305 16/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "87/2018"
+}
+},
+{
+"d": "2018-05-16",
+"c": {
+"inw": "adaptacja pomieszczeń piwnicznych na potzreby węzła cieplnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Środkowa 21",
+"dz": "146508_8 1304 13/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "88/2018"
+}
+},
+{
+"d": "2018-05-16",
+"c": {
+"inw": "ADAPTACJA POMIESZCZEŃ PIWNICZNYCH NA POTRZEBY WĘZŁA CIEPLNEGO wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Strzelecka 5",
+"dz": "146508_8 1304 67/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "86/2018"
+}
+},
+{
+"d": "2018-05-16",
+"c": {
+"inw": "ADAPTACJA POMIESZCZEŃ PIWNICY NA POTRZEBY WĘZLA CIEPLNEGO wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Strzelecka 42",
+"dz": "146508_8 1305 26/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "89/2018"
+}
+},
+{
+"d": "2018-05-17",
+"c": {
+"inw": "wyburzenie fragmentu ściany oraz nadproża nad schodami, montaż neonu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Piekarnie Lubaszka sp. zo.o.",
+"nier": "Targowa 61",
+"dz": "146508_8 1503 33",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "91/2018"
+}
+},
+{
+"d": "2018-05-17",
+"c": {
+"inw": "remont lokalu mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gopodarowania Nieruchomościami Praga Północ",
+"nier": "Mała 13A",
+"dz": "146508_8 1407 51",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "92/2018"
+}
+},
+{
+"d": "2018-05-18",
+"c": {
+"inw": "budowa obudowy toru badawczego do zderzeń pojazdu budowa nowego/nowych obiektów budowlanych",
+"wn": "PRZEMYSŁOWY iNSTYTUT MOTORYZACJI",
+"nier": "Jagiellońska 55",
+"dz": "146508_8 1811 18/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "95/2018"
+}
+},
+{
+"d": "2018-05-22",
+"c": {
+"inw": "projekt zamienny-przebudowa kamienicy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "FO Sp. zo.o.",
+"nier": "Okrzei 26 / Stefana",
+"dz": "146508_8 1506 49",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "96/2018"
+}
+},
+{
+"d": "2018-05-22",
+"c": {
+"inw": "projekt zamienny-przebudowa kamienicy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "FO Sp. zo.o.",
+"nier": "Okrzei 26 / Stefana",
+"dz": "146508_8 1506 48",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "96/2018"
+}
+},
+{
+"d": "2018-05-22",
+"c": {
+"inw": "rozbiórka garaży rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Środkowa 18",
+"dz": "146508_8 1305 6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "98/2018"
+}
+},
+{
+"d": "2018-05-23",
+"c": {
+"inw": "rozbiórka szybu zsypowego oraz pomieszczenia na odpady wraz z częśćią podziemną rozbiórka istniejącego obiektu budowlanego",
+"wn": "Fabryka Samochodów Osobowych S.A.",
+"nier": "Targowa 34",
+"dz": "146508_8 1507 35/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "102/2018"
+}
+},
+{
+"d": "2018-05-23",
+"c": {
+"inw": "rozbiórka szybu zsypowego oraz pomieszczenia na odpady wraz z częśćią podziemną rozbiórka istniejącego obiektu budowlanego",
+"wn": "Fabryka Samochodów Osobowych S.A.",
+"nier": "Targowa 34",
+"dz": "146508_8 1507 34",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "102/2018"
+}
+},
+{
+"d": "2018-05-23",
+"c": {
+"inw": "remont klatki schodowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polskie Koleje Państwowe S.A.",
+"nier": "Wileńska 2",
+"dz": "146508_8 1307 50/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "99/2018"
+}
+},
+{
+"d": "2018-05-23",
+"c": {
+"inw": "budowa przyłącza do sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Okrzei 26 / Stefana",
+"dz": "146508_8 1506 2/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "101/2018"
+}
+},
+{
+"d": "2018-05-23",
+"c": {
+"inw": "budowa przyłącza do sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Okrzei 26 / Stefana",
+"dz": "146508_8 1506 49",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "101/2018"
+}
+},
+{
+"d": "2018-05-23",
+"c": {
+"inw": "remont klatki schodowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polskie Koleje Państwowe S.A.",
+"nier": "Wileńska 2",
+"dz": "146508_8 1307 50/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "99/2018"
+}
+},
+{
+"d": "2018-05-23",
+"c": {
+"inw": "budowa budynku mieszkalnego, z usługami, garażem podziemnym, wjazdem i infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "KLR Sp. zo.o.",
+"nier": "Stalowa 43/45",
+"dz": "146508_8 1305 16/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "100/2018"
+}
+},
+{
+"d": "2018-05-23",
+"c": {
+"inw": "budowa budynku mieszkalnego, z usługami, garażem podziemnym, wjazdem i infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "KLR Sp. zo.o.",
+"nier": "Stalowa 43/45",
+"dz": "146508_8 1305 16/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "100/2018"
+}
+},
+{
+"d": "2018-05-25",
+"c": {
+"inw": "projekt zamienny - remont i przebudowa istniejącego budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Mała Inwestycje Sp. zo.o.",
+"nier": "Mała 3",
+"dz": "146508_8 1307 12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "103/2018"
+}
+},
+{
+"d": "2018-05-29",
+"c": {
+"inw": "ELEMENTY INFORMACYJNE NA OBIEKCIE ''K'' wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CENTRUM PRASKIE KONESER SP. ZO.O. SP. K.",
+"nier": "Ząbkowska 27/31",
+"dz": "146508_8 1405 19/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "104/2018"
+}
+},
+{
+"d": "2018-06-04",
+"c": {
+"inw": "rozbiórka stacji bazowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "T-Mobile Polska S.A.",
+"nier": "Jagiellońska 69",
+"dz": "146508_8 1805 9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "105/2018"
+}
+},
+{
+"d": "2018-06-05",
+"c": {
+"inw": "wymiana witryn w lokalach usługowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Jagiellońska 56",
+"dz": "",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "106/2018"
+}
+},
+{
+"d": "2018-06-05",
+"c": {
+"inw": "remont klatek schodowych wraz z wymianą szybu i modernizacją wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Młota / Jana",
+"dz": "146508_8 1201 91",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "107/2018"
+}
+},
+{
+"d": "2018-06-07",
+"c": {
+"inw": "wzmocnienie stropu pomiędzy lokalami wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Kłopotowskiego 30 / ks. Ignacego",
+"dz": "146508_8 1504 101",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "109/2018"
+}
+},
+{
+"d": "2018-06-07",
+"c": {
+"inw": "wzmocnienie budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Ząbkowska 2",
+"dz": "146508_8 1507 10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "108/2018"
+}
+},
+{
+"d": "2018-06-07",
+"c": {
+"inw": "wzmocnienie budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Ząbkowska 2",
+"dz": "146508_8 1507 11/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "108/2018"
+}
+},
+{
+"d": "2018-06-07",
+"c": {
+"inw": "przebudowa pomieszczenia gospadarczego na pomieszczenie śmietnika wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Okrzei 5 / Stefana",
+"dz": "146508_8 1504 80",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "110/2018"
+}
+},
+{
+"d": "2018-06-15",
+"c": {
+"inw": "przebudowa lokalu bistro wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tesco Polska Sp. zo.o.",
+"nier": "Stalowa 69",
+"dz": "146508_8 1303 11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "111/2018"
+}
+},
+{
+"d": "2018-06-15",
+"c": {
+"inw": "zagospodarowanie przestrzeni pomiędzy budynkami wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Ząbkowska 33",
+"dz": "146508_8 1405 21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "114/2018"
+}
+},
+{
+"d": "2018-06-15",
+"c": {
+"inw": "zszycie rys i spękań ścian fundamentowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Ząbkowska 33",
+"dz": "146508_8 1405 21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "113/2018"
+}
+},
+{
+"d": "2018-06-15",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej preizolowanej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Łochowska 52",
+"dz": "146508_8 1402 21/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "112/2018"
+}
+},
+{
+"d": "2018-06-15",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej preizolowanej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Łochowska 52",
+"dz": "146508_8 1402 22/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "112/2018"
+}
+},
+{
+"d": "2018-06-15",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej preizolowanej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Łochowska 52",
+"dz": "146508_8 1402 23",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "112/2018"
+}
+},
+{
+"d": "2018-06-15",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej preizolowanej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Łochowska 52",
+"dz": "146508_8 1402 24",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "112/2018"
+}
+},
+{
+"d": "2018-06-15",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej preizolowanej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Łochowska 52",
+"dz": "146508_8 1402 29",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "112/2018"
+}
+},
+{
+"d": "2018-06-15",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej preizolowanej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Łochowska 52",
+"dz": "146508_8 1402 30/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "112/2018"
+}
+},
+{
+"d": "2018-06-26",
+"c": {
+"inw": "budowa budynku hotelowego z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "PPH Hetman Jacek Luciński",
+"nier": "Jagiellońska 47A",
+"dz": "146508_8 1811 16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "117/2018"
+}
+},
+{
+"d": "2018-06-26",
+"c": {
+"inw": "budowa budynku hotelowego z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "PPH Hetman Jacek Luciński",
+"nier": "Jagiellońska 47A",
+"dz": "146508_8 1811 17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "117/2018"
+}
+},
+{
+"d": "2018-07-02",
+"c": {
+"inw": "projekt zamienny- przebudowa i rozbudowa szpitala rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Szpital Kliniczny",
+"nier": "Sierakowskiego 13 / Józefa",
+"dz": "146508_8 1504 32/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "119/2018"
+}
+},
+{
+"d": "2018-07-02",
+"c": {
+"inw": "remont lokalu mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Kłopotowskiego 38 / ks. Ignacego",
+"dz": "146508_8 1503 43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "121/2018"
+}
+},
+{
+"d": "2018-07-02",
+"c": {
+"inw": "modernizacja budynku i elewacji wraz z elementami zagospodarowania terenu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zarząd Dielnicy Praga Północ",
+"nier": "Sierakowskiego 9 / Józefa",
+"dz": "146508_8 1504 45",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "118/2018"
+}
+},
+{
+"d": "2018-07-02",
+"c": {
+"inw": "budowa pawilonu handlowego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Ratuszowa 1/3",
+"dz": "146508_8 1501 5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "120/2018"
+}
+},
+{
+"d": "2018-07-04",
+"c": {
+"inw": "instalacja wewnętrzna gazu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Witkiewicza 13 / Stanisława",
+"dz": "146508_8 1806 69",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "124/2018"
+}
+},
+{
+"d": "2018-07-05",
+"c": {
+"inw": "przebudowa i zmiana sposobu uzytkowania (projekt zamienny) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Beta Sp. zo.o.",
+"nier": "Listopada 17/19 / 11",
+"dz": "146508_8 1202 9/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "126/2018"
+}
+},
+{
+"d": "2018-07-05",
+"c": {
+"inw": "przebudowa i zmiana sposobu uzytkowania (projekt zamienny) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Beta Sp. zo.o.",
+"nier": "Listopada 17/19 / 11",
+"dz": "146508_8 1202 9/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "126/2018"
+}
+},
+{
+"d": "2018-07-05",
+"c": {
+"inw": "odtworzenie nabrzeży wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Port Praski Nowe Inwestycje Sp. zo.o.",
+"nier": "Krowia",
+"dz": "146508_8 1508 22/31",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "125/2018"
+}
+},
+{
+"d": "2018-07-05",
+"c": {
+"inw": "odtworzenie nabrzeży wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Port Praski Nowe Inwestycje Sp. zo.o.",
+"nier": "Krowia",
+"dz": "146508_8 1508 22/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "125/2018"
+}
+},
+{
+"d": "2018-07-05",
+"c": {
+"inw": "remont tarasu oraz schodów wejściowych do budynku przedszkola Nr 171 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa, Zarząd DZ. Praga-Północ",
+"nier": "Równa 2",
+"dz": "146508_8 1305 82",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "127/2018"
+}
+},
+{
+"d": "2018-07-05",
+"c": {
+"inw": "odtworzenie nabrzeży wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Port Praski Nowe Inwestycje Sp. zo.o.",
+"nier": "Krowia",
+"dz": "146508_8 1505 24/19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "125/2018"
+}
+},
+{
+"d": "2018-07-06",
+"c": {
+"inw": "budowa sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Stalowa",
+"dz": "146508_8 1301 78/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "128/2018"
+}
+},
+{
+"d": "2018-07-06",
+"c": {
+"inw": "budowa sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Stalowa",
+"dz": "146508_8 1305 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "128/2018"
+}
+},
+{
+"d": "2018-07-06",
+"c": {
+"inw": "budowa sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Stalowa",
+"dz": "146508_8 1305 31",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "128/2018"
+}
+},
+{
+"d": "2018-07-06",
+"c": {
+"inw": "budowa sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Stalowa",
+"dz": "146508_8 1305 73",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "128/2018"
+}
+},
+{
+"d": "2018-07-06",
+"c": {
+"inw": "budowa sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Stalowa",
+"dz": "146508_8 1305 76",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "128/2018"
+}
+},
+{
+"d": "2018-07-09",
+"c": {
+"inw": "zabezpieczenie ścian szczytowych budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Markowska 14",
+"dz": "146508_8 0104 35",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "130/2018"
+}
+},
+{
+"d": "2018-07-09",
+"c": {
+"inw": "przebudowa i zmiana sposobu uzytkowania lokalu mieszkalnego na gabinet ginekologiczny wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Mała 1",
+"dz": "146508_8 1307 11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "129/2018"
+}
+},
+{
+"d": "2018-07-10",
+"c": {
+"inw": "przebudowa i adpatacja na cele mieszkalne poddasza wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Markowska 18A",
+"dz": "146508_8 1405 19/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "131/2018"
+}
+},
+{
+"d": "2018-07-12",
+"c": {
+"inw": "remont lokalu mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Targowa 83",
+"dz": "146508_8 1306 61",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "132/2018"
+}
+},
+{
+"d": "2018-07-12",
+"c": {
+"inw": "wymiana stolarki okiennej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Plac gen. Józefa Hallera 5",
+"dz": "146508_8 1203 21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "139/2018"
+}
+},
+{
+"d": "2018-07-12",
+"c": {
+"inw": "wymiana stolarki okiennej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Plac gen. Józefa Hallera 5",
+"dz": "146508_8 1203 56",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "139/2018"
+}
+},
+{
+"d": "2018-07-12",
+"c": {
+"inw": "wymiana stolarki okiennej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Plac gen. Józefa Hallera 5",
+"dz": "146508_8 1203 48",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "139/2018"
+}
+},
+{
+"d": "2018-07-12",
+"c": {
+"inw": "wymiana stolarki okiennej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Plac gen. Józefa Hallera 5",
+"dz": "146508_8 1203 13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "139/2018"
+}
+},
+{
+"d": "2018-07-12",
+"c": {
+"inw": "wymiana stolarki okiennej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Groszkowskiego / Janusza",
+"dz": "146508_8 1203 49",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "135/2018"
+}
+},
+{
+"d": "2018-07-12",
+"c": {
+"inw": "remont instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Konopacka 20",
+"dz": "146508_8 1304 18",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "140/2018"
+}
+},
+{
+"d": "2018-07-12",
+"c": {
+"inw": "remont lokalu mieszkalnego-pustostanu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Wileńska 13",
+"dz": "146508_8 1306 92",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "137/2018"
+}
+},
+{
+"d": "2018-07-17",
+"c": {
+"inw": "przebudowa i rozbudowa istniejących obiektów z dostosowaniem do placówki opiekuńczo-wychowawczej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Stołeczny Zarząd Rozbudowy Miasta",
+"nier": "Listopada 13/15 / 11",
+"dz": "146508_8 1202 20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "141/2018"
+}
+},
+{
+"d": "2018-07-18",
+"c": {
+"inw": "przebudowa instalacji elektrycznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Targowa 83",
+"dz": "146508_8 1306 61",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "143/2018"
+}
+},
+{
+"d": "2018-07-18",
+"c": {
+"inw": "budowa domu jednorodzinnego w zabudowie szeregowej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Gersona 36A / Wojciecha",
+"dz": "146508_8 1806 19",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "146/2018"
+}
+},
+{
+"d": "2018-07-18",
+"c": {
+"inw": "doposażenie busynku w instalację co i cw wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "WSPÓLNOTA MIESZKANIOWA",
+"nier": "Inżynierska 7",
+"dz": "146508_8 1306 79",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "145/2018"
+}
+},
+{
+"d": "2018-07-19",
+"c": {
+"inw": "projekt zamienny-przebudowa i zmiana spoosbu uzytkowania wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Centrum Praskie Koneser Sp. zo.o. Sp.k.",
+"nier": "Ząbkowska 27/31",
+"dz": "146508_8 1405 19/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "150/2018"
+}
+},
+{
+"d": "2018-07-19",
+"c": {
+"inw": "projekt zamienny- budowa obiektu usługowego wielofunkcyjnego budowa nowego/nowych obiektów budowlanych",
+"wn": "Centrum Praskie Koneser Sp. zo.o. sp. k.",
+"nier": "Ząbkowska 27/31",
+"dz": "146508_8 1405 19/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "152/2018"
+}
+},
+{
+"d": "2018-07-19",
+"c": {
+"inw": "doposażenie w dwufunkcyjny węzeł cieplny budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Białostocka 46",
+"dz": "416508_8 1405 56/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "153/2018"
+}
+},
+{
+"d": "2018-07-19",
+"c": {
+"inw": "doposażenie w dwufuncyjny węzeł cieplny budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami",
+"nier": "Białostocka 53",
+"dz": "146508_8 1401 28/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "149/2018"
+}
+},
+{
+"d": "2018-07-19",
+"c": {
+"inw": "projekt zamienny - przebudowa i adaptacja na cele mieszkalne poddasza wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Centrum Praskie Koneser Sp. zo.o. Sp.k.",
+"nier": "Markowska 18A",
+"dz": "146508_8 1405 19/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "151/2018"
+}
+},
+{
+"d": "2018-07-19",
+"c": {
+"inw": "przebudowa i remont budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami  Praga Północ",
+"nier": "Łochowska 37",
+"dz": "146508_8 1404 49",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "148/2018"
+}
+},
+{
+"d": "2018-07-19",
+"c": {
+"inw": "przebudowa i remont budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami  Praga Północ",
+"nier": "Łochowska 37",
+"dz": "146508_8 1404 59",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "148/2018"
+}
+},
+{
+"d": "2018-07-25",
+"c": {
+"inw": "budowa przyłącza sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Kępna 15",
+"dz": "146508_8 1506 28",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "154/2018"
+}
+},
+{
+"d": "2018-07-25",
+"c": {
+"inw": "budowa przyłącza sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Kępna 15",
+"dz": "146508_8 1506 20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "154/2018"
+}
+},
+{
+"d": "2018-07-31",
+"c": {
+"inw": "przebudowa budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "2C Partners S.A.",
+"nier": "Strzelecka 26",
+"dz": "146508_8 1305 16/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "156/2018"
+}
+},
+{
+"d": "2018-07-31",
+"c": {
+"inw": "budowa przyłącza sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Jagiellońska 27",
+"dz": "146508_8 1504 63",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "155/2018"
+}
+},
+{
+"d": "2018-07-31",
+"c": {
+"inw": "budowa przyłącza sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Jagiellońska 27",
+"dz": "146508_8 1504 71",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "155/2018"
+}
+},
+{
+"d": "2018-08-08",
+"c": {
+"inw": "remont lokalu mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Wileńska 19",
+"dz": "146508_8 1307 30/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "162/2018"
+}
+},
+{
+"d": "2018-08-08",
+"c": {
+"inw": "wymiana stolarki okiennej  w lokalach usługowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Plac gen. Józefa Hallera 5",
+"dz": "146508_8 1203 21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "158/2018"
+}
+},
+{
+"d": "2018-08-08",
+"c": {
+"inw": "wymiana stolarki okiennej  w lokalach usługowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Plac gen. Józefa Hallera 5",
+"dz": "146508_8 1203 53",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "158/2018"
+}
+},
+{
+"d": "2018-08-08",
+"c": {
+"inw": "wymiana stolarki okiennej  w lokalach usługowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Plac gen. Józefa Hallera 5",
+"dz": "146508_8 1203 48",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "158/2018"
+}
+},
+{
+"d": "2018-08-08",
+"c": {
+"inw": "wymiana stolarki okiennej  w lokalach usługowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Plac gen. Józefa Hallera 5",
+"dz": "146508_8 1203 13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "158/2018"
+}
+},
+{
+"d": "2018-08-08",
+"c": {
+"inw": "wymiana stolarki okiennej  w lokalach usługowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Plac gen. Józefa Hallera 5",
+"dz": "146508_8 1203 43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "158/2018"
+}
+},
+{
+"d": "2018-08-08",
+"c": {
+"inw": "wymiana stolarki okiennej  w lokalach usługowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Plac gen. Józefa Hallera 5",
+"dz": "146508_8 1203 26",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "158/2018"
+}
+},
+{
+"d": "2018-08-08",
+"c": {
+"inw": "wymiana stolarki okiennej  w lokalach usługowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Plac gen. Józefa Hallera 5",
+"dz": "146508_8 1203 62",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "158/2018"
+}
+},
+{
+"d": "2018-08-08",
+"c": {
+"inw": "wymiana stolarki okiennej  w lokalach usługowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Plac gen. Józefa Hallera 5",
+"dz": "146508_8 1203 34",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "158/2018"
+}
+},
+{
+"d": "2018-08-08",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego (oficyny) rozbiórka istniejącego obiektu budowlanego",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Szwedzka 20",
+"dz": "146508_8 1302 20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "160/2018"
+}
+},
+{
+"d": "2018-08-08",
+"c": {
+"inw": "remont lokalu mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Wileńska 19",
+"dz": "146508_8 1307 30/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "157/2018"
+}
+},
+{
+"d": "2018-08-08",
+"c": {
+"inw": "wymiana stolarki okiennej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Groszkowskiego 5 / Janusza",
+"dz": "146508_8 1203 49",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "159/2018"
+}
+},
+{
+"d": "2018-08-08",
+"c": {
+"inw": "remont lokalu mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Wileńska 19",
+"dz": "146508_8 1307 30/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "161/2018"
+}
+},
+{
+"d": "2018-08-13",
+"c": {
+"inw": "przebudowa instalacji wentylacyjnej, grzewczej, kanalizacyjnej, wodociągowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Mazowieckie Centrum Neuropsychiatrii Sp. zo.o.",
+"nier": "Brzeska 12",
+"dz": "146508_8 1407 7/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "164/2018"
+}
+},
+{
+"d": "2018-08-13",
+"c": {
+"inw": "remont więźby dachowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Pólnoc",
+"nier": "Markowska 14",
+"dz": "146508_8 1407 19/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "165/2018"
+}
+},
+{
+"d": "2018-08-14",
+"c": {
+"inw": "remont więźby dachowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Markowska",
+"dz": "146508_8 1407 19/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "170/2018"
+}
+},
+{
+"d": "2018-08-21",
+"c": {
+"inw": "remont elewacji i dachu wraz zkominami wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Strzelecka 6",
+"dz": "146508_8 1304 21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "174/2018"
+}
+},
+{
+"d": "2018-08-22",
+"c": {
+"inw": "przebudowa budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Łochowska 40",
+"dz": "146508_8 1404 62/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "176/2018"
+}
+},
+{
+"d": "2018-08-22",
+"c": {
+"inw": "przebudowa budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Łochowska 40",
+"dz": "146508_8 1404 59",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "176/2018"
+}
+},
+{
+"d": "2018-08-22",
+"c": {
+"inw": "adpatacja piwnicy na potrzeby węzła cieplnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Szwedzka 17",
+"dz": "146508_8 1305 28",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "175/2018"
+}
+},
+{
+"d": "2018-08-22",
+"c": {
+"inw": "wymiana stolarki okiennej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Inżynierska 6",
+"dz": "146508_8 1307 25",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "172/2018"
+}
+},
+{
+"d": "2018-08-22",
+"c": {
+"inw": "wymiana stolarki okiennej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Inżynierska 7",
+"dz": "146508_8 1306 79",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "171/2018"
+}
+},
+{
+"d": "2018-08-22",
+"c": {
+"inw": "remont elewacji wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Namysłowska 11a",
+"dz": "146508_8 1204 13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "173/2018"
+}
+},
+{
+"d": "2018-08-29",
+"c": {
+"inw": "budowa przyłącza sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Stalowa 69",
+"dz": "146508_8 1302 14/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "177/2018"
+}
+},
+{
+"d": "2018-08-29",
+"c": {
+"inw": "budowa przyłącza sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Stalowa 69",
+"dz": "146508_8 1302 16/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "177/2018"
+}
+},
+{
+"d": "2018-08-29",
+"c": {
+"inw": "budowa przyłącza sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Stalowa 69",
+"dz": "146508_8 1302 16/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "177/2018"
+}
+},
+{
+"d": "2018-08-29",
+"c": {
+"inw": "budowa przyłącza sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Stalowa 69",
+"dz": "146508_8 1303 1/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "177/2018"
+}
+},
+{
+"d": "2018-08-30",
+"c": {
+"inw": "zmiana geometrii dachu i adpatacja poddaszy na cele mieszkalne wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Jagiellońska Inwestycje sp. zo.o.",
+"nier": "Jagiellońska 32",
+"dz": "146508_8 1503 21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "178/2018"
+}
+},
+{
+"d": "2018-08-30",
+"c": {
+"inw": "zmiana geometrii dachu i adpatacja poddaszy na cele mieszkalne wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Jagiellońska Inwestycje sp. zo.o.",
+"nier": "Jagiellońska 32",
+"dz": "146508_8 1503 22",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "178/2018"
+}
+},
+{
+"d": "2018-08-30",
+"c": {
+"inw": "zmiana geometrii dachu i adpatacja poddaszy na cele mieszkalne wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Jagiellońska Inwestycje sp. zo.o.",
+"nier": "Jagiellońska 32",
+"dz": "146508_8 1503 23",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "178/2018"
+}
+},
+{
+"d": "2018-09-03",
+"c": {
+"inw": "budowa stacji paliw płynnych i gazu płynnego, myjni mechanicznej, wiaty budowa nowego/nowych obiektów budowlanych",
+"wn": "BP Europa SE Spólka Europejska",
+"nier": "Aleja \"Solidarności\"",
+"dz": "146508_8 1403 2/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "179/2018"
+}
+},
+{
+"d": "2018-09-03",
+"c": {
+"inw": "budowa stacji paliw płynnych i gazu płynnego, myjni mechanicznej, wiaty budowa nowego/nowych obiektów budowlanych",
+"wn": "BP Europa SE Spólka Europejska",
+"nier": "Aleja \"Solidarności\"",
+"dz": "146508_8 1403 2/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "179/2018"
+}
+},
+{
+"d": "2018-09-05",
+"c": {
+"inw": "przebudowa, rozbudowa i zmiana sposobu użytkowania rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Budimpol Sp. zo.o.",
+"nier": "Strzelecka",
+"dz": "146508_8 1301 56",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "180/2018"
+}
+},
+{
+"d": "2018-09-05",
+"c": {
+"inw": "modernizacja i przebudowa budynku-oficyny wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Kawęczyńska 26",
+"dz": "146508_8 1406 8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "182/2018"
+}
+},
+{
+"d": "2018-09-07",
+"c": {
+"inw": "przebudowa budynku z remontem stropów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "2C Partners S.A.",
+"nier": "Stalowa 41",
+"dz": "146508_8 1305 15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "183/2018"
+}
+},
+{
+"d": "2018-09-07",
+"c": {
+"inw": "izolacja ścian fundamentowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Targowa 83",
+"dz": "146508_8 1306 61",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "184/2018"
+}
+},
+{
+"d": "2018-09-10",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Strzelecka 14",
+"dz": "146508_8 1305 5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "186/2018"
+}
+},
+{
+"d": "2018-09-10",
+"c": {
+"inw": "remont, rozbudowa i przebudowa wraz ze zmianą sposobu użytkowania poddasza rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Nordic House Deweloper Sp. zo.o.",
+"nier": "Wrzesińska 2",
+"dz": "146508_8 1506 61",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "185/2018"
+}
+},
+{
+"d": "2018-09-12",
+"c": {
+"inw": "wymiana instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "RSM Praga",
+"nier": "Szanajcy / Józefa",
+"dz": "146508_8 1201 71",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "188/2018"
+}
+},
+{
+"d": "2018-09-13",
+"c": {
+"inw": "przebudowa klatek schodowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MSM Nowy Dom 82",
+"nier": "Targowa 35",
+"dz": "146508_8 1506 39/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "189/2018"
+}
+},
+{
+"d": "2018-09-13",
+"c": {
+"inw": "przebudowa budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakad Gospodarowania Nieruchomosciami Praga Północ",
+"nier": "Marcinkowskiego 13 / Karola",
+"dz": "146508_8 1506 43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "190/2018"
+}
+},
+{
+"d": "2018-09-19",
+"c": {
+"inw": "wymiana instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "RSM Praga",
+"nier": "Łomżyńska 22/24",
+"dz": "146508_8 1404 52",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "194/2018"
+}
+},
+{
+"d": "2018-09-19",
+"c": {
+"inw": "wymiana instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "RSM Praga",
+"nier": "Łomżyńska 22/24",
+"dz": "146508_8 1404 53/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "194/2018"
+}
+},
+{
+"d": "2018-09-19",
+"c": {
+"inw": "zmiana sposobu użytkowania lokalu z instalacją wentylacji mechanicznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Projekt Dolina Sp. zo.o. Sp.k.",
+"nier": "Markowska 22",
+"dz": "146508_8 1405 16/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "192/2018"
+}
+},
+{
+"d": "2018-09-19",
+"c": {
+"inw": "zmiana sposobu użytkowania lokalu z instalacją wentylacji mechanicznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Projekt Dolina Sp. zo.o. Sp.k.",
+"nier": "Markowska 22",
+"dz": "146508_8 1405 18/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "192/2018"
+}
+},
+{
+"d": "2018-09-19",
+"c": {
+"inw": "zmiana sposobu użytkowania lokalu z instalacją wentylacji mechanicznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Projekt Dolina Sp. zo.o. Sp.k.",
+"nier": "Markowska 22",
+"dz": "146508_8 1405 1/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "192/2018"
+}
+},
+{
+"d": "2018-09-19",
+"c": {
+"inw": "zmiana sposobu użytkowania lokalu UO1 na lokal gastronomiczny wraz z instalacją wentylacji mechanicznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Projekt Dolna Sp. zo.o. Wytwórnia Sp.k.",
+"nier": "Markowska 22",
+"dz": "146508_8 1405 16/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "193/2018"
+}
+},
+{
+"d": "2018-09-19",
+"c": {
+"inw": "zmiana sposobu użytkowania lokalu UO1 na lokal gastronomiczny wraz z instalacją wentylacji mechanicznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Projekt Dolna Sp. zo.o. Wytwórnia Sp.k.",
+"nier": "Markowska 22",
+"dz": "146508_8 1405 1/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "193/2018"
+}
+},
+{
+"d": "2018-09-20",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.a.",
+"nier": "Stalowa",
+"dz": "146508_8 1305 31",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "195/2018"
+}
+},
+{
+"d": "2018-09-20",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.a.",
+"nier": "Stalowa",
+"dz": "146508_8 1305 62/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "195/2018"
+}
+},
+{
+"d": "2018-09-20",
+"c": {
+"inw": "budowa osiedlowej siec ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Stalowa 4",
+"dz": "146508_8 1307 33/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "199/2018"
+}
+},
+{
+"d": "2018-09-20",
+"c": {
+"inw": "budowa osiedlowej siec ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Stalowa 4",
+"dz": "146508_8 1307 13/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "199/2018"
+}
+},
+{
+"d": "2018-09-20",
+"c": {
+"inw": "budowa osiedlowej siec ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Stalowa 4",
+"dz": "146508_8 1307 4/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "199/2018"
+}
+},
+{
+"d": "2018-09-20",
+"c": {
+"inw": "budowa osiedlowej siec ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Stalowa 4",
+"dz": "146508_8 1307 3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "199/2018"
+}
+},
+{
+"d": "2018-09-20",
+"c": {
+"inw": "remont nadprozy okiennych na ścianie szczytowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Szwedzka 21",
+"dz": "146508_8 1301 76/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "196/2018"
+}
+},
+{
+"d": "2018-09-20",
+"c": {
+"inw": "przebudowa budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Euro Mall Polska XXVI Sp. zo.o. Sp.k.",
+"nier": "Targowa 34",
+"dz": "146508_8 1507 34",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "197/2018"
+}
+},
+{
+"d": "2018-09-21",
+"c": {
+"inw": "budowa budynku mieszkalnego z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Wilczyński Invest S.A.",
+"nier": "Łochowska 36",
+"dz": "146508_8 1404 60",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "200/2018"
+}
+},
+{
+"d": "2018-09-25",
+"c": {
+"inw": "przebudowa sieci elektroenergetycznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Innogy Stoen Operator Sp. zo.o.",
+"nier": "Stalowa",
+"dz": "146508_8 1301 78/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "201/2018"
+}
+},
+{
+"d": "2018-09-25",
+"c": {
+"inw": "przebudowa sieci elektroenergetycznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Innogy Stoen Operator Sp. zo.o.",
+"nier": "Stalowa",
+"dz": "146508_8 1305 16/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "201/2018"
+}
+},
+{
+"d": "2018-09-25",
+"c": {
+"inw": "przebudowa sieci elektroenergetycznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Innogy Stoen Operator Sp. zo.o.",
+"nier": "Stalowa",
+"dz": "146508_8 1305 16/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "201/2018"
+}
+},
+{
+"d": "2018-09-25",
+"c": {
+"inw": "przebudowa sieci elektroenergetycznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Innogy Stoen Operator Sp. zo.o.",
+"nier": "Stalowa",
+"dz": "146508_8 1305 16/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "201/2018"
+}
+},
+{
+"d": "2018-09-25",
+"c": {
+"inw": "przebudowa sieci elektroenergetycznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Innogy Stoen Operator Sp. zo.o.",
+"nier": "Stalowa",
+"dz": "146508_8 1305 9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "201/2018"
+}
+},
+{
+"d": "2018-09-25",
+"c": {
+"inw": "przebudowa sieci elektroenergetycznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Innogy Stoen Operator Sp. zo.o.",
+"nier": "Stalowa",
+"dz": "146508_8 1305 31",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "201/2018"
+}
+},
+{
+"d": "2018-09-25",
+"c": {
+"inw": "przebudowa sieci elektroenergetycznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Innogy Stoen Operator Sp. zo.o.",
+"nier": "Stalowa",
+"dz": "146508_8 1305 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "201/2018"
+}
+},
+{
+"d": "2018-09-26",
+"c": {
+"inw": "projekt zamienny- budowa pawilonu handlowo-usługowego budowa nowego/nowych obiektów budowlanych",
+"wn": "Centrum Praskie Koneser Sp. zo.o. Sp. k.",
+"nier": "Ząbkowska 27/31",
+"dz": "146508_8 1405 19/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "203/2018"
+}
+},
+{
+"d": "2018-09-27",
+"c": {
+"inw": "remont elewacji i balkonów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Ząbkowska 16",
+"dz": "146508_8 1507 3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "204/2018"
+}
+},
+{
+"d": "2018-10-02",
+"c": {
+"inw": "remont lokalu mieszkalnego (pustostanu) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Inżynierska 6",
+"dz": "146508_8 1307 25",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "207/2018"
+}
+},
+{
+"d": "2018-10-03",
+"c": {
+"inw": "projekt zamienny -nadbudowa budynku C nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Centrum Praskie Koneser sp. zo.o. Sp.k.",
+"nier": "Ząbkowska 31",
+"dz": "146508_8 1405 19/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "211/2018"
+}
+},
+{
+"d": "2018-10-03",
+"c": {
+"inw": "remont lokalu mieszklanego (pustostanu) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Wileńska 13",
+"dz": "146508_8 1306 92",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "208/2018"
+}
+},
+{
+"d": "2018-10-03",
+"c": {
+"inw": "przebudowa ogrodzenia wraz z wydzieleniem nowego wybiegu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejski Ogród Zoologiczny",
+"nier": "Ratuszowa 1/3",
+"dz": "146508_8 1501 5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "209/2018"
+}
+},
+{
+"d": "2018-10-03",
+"c": {
+"inw": "budowa budynku mieszkalnego z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "SMP Invest Sp. zo.o. Sp.k.",
+"nier": "Białostocka 59",
+"dz": "146508_8 1401 32/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "210/2018"
+}
+},
+{
+"d": "2018-10-04",
+"c": {
+"inw": "decyzja zamienna - remont elewacji i wnętrz budynku Urzędu Stanu Cywilnego- projekt zamienny wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Biuro Administracyjne Urzędu m.st. Warszawy",
+"nier": "Kłopotowskiego 1/3 / ks. Ignacego",
+"dz": "146508_8 1504 22",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "212/2018"
+}
+},
+{
+"d": "2018-10-04",
+"c": {
+"inw": "budowa wewnętrznej instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Grajewska 19",
+"dz": "146508_8 1402 20/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "289/2018"
+}
+},
+{
+"d": "2018-10-08",
+"c": {
+"inw": "budowa przyłącza sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Strzelecka 28",
+"dz": "146508_8 1301 78/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "213/2018"
+}
+},
+{
+"d": "2018-10-08",
+"c": {
+"inw": "budowa przyłącza sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Strzelecka 28",
+"dz": "146508_8 1305 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "213/2018"
+}
+},
+{
+"d": "2018-10-08",
+"c": {
+"inw": "budowa przyłącza sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Strzelecka 28",
+"dz": "146508_8 1305 6/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "213/2018"
+}
+},
+{
+"d": "2018-10-08",
+"c": {
+"inw": "budowa miejskiej sieci cieplnej budowa nowego/nowych obiektów budowlanych",
+"wn": "Bouygues Immobilier Polska Sp. zo.o.",
+"nier": "Wrzesińska",
+"dz": "146508_8 1506 59",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "215/2018"
+}
+},
+{
+"d": "2018-10-08",
+"c": {
+"inw": "budowa miejskiej sieci cieplnej budowa nowego/nowych obiektów budowlanych",
+"wn": "Bouygues Immobilier Polska Sp. zo.o.",
+"nier": "Wrzesińska",
+"dz": "146508_8 1506 62/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "215/2018"
+}
+},
+{
+"d": "2018-10-08",
+"c": {
+"inw": "budowa miejskiej sieci cieplnej budowa nowego/nowych obiektów budowlanych",
+"wn": "Bouygues Immobilier Polska Sp. zo.o.",
+"nier": "Wrzesińska",
+"dz": "146508_8 1505 21/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "215/2018"
+}
+},
+{
+"d": "2018-10-11",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.a.",
+"nier": "Radzymińska 32",
+"dz": "146508_8 1404 11/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "216/2018"
+}
+},
+{
+"d": "2018-10-11",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.a.",
+"nier": "Radzymińska 32",
+"dz": "146508_8 1404 23",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "216/2018"
+}
+},
+{
+"d": "2018-10-11",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.a.",
+"nier": "Radzymińska 32",
+"dz": "146508_8 1404 37",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "216/2018"
+}
+},
+{
+"d": "2018-10-11",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.a.",
+"nier": "Radzymińska 32",
+"dz": "146508_8 1404 36/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "216/2018"
+}
+},
+{
+"d": "2018-10-11",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.a.",
+"nier": "Radzymińska 32",
+"dz": "146508_8 1404 39/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "216/2018"
+}
+},
+{
+"d": "2018-10-12",
+"c": {
+"inw": "budowa budynku wielorodzinnego z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Szwedzka 4 DVE Sp. zo.o. Sp.k.",
+"nier": "Szwedzka",
+"dz": "146508_8 1303 5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "217/2018"
+}
+},
+{
+"d": "2018-10-12",
+"c": {
+"inw": "budowa budynku wielorodzinnego z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Szwedzka 4 DVE Sp. zo.o. Sp.k.",
+"nier": "Szwedzka",
+"dz": "146508_8 1303 3/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "217/2018"
+}
+},
+{
+"d": "2018-10-12",
+"c": {
+"inw": "remont budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga - Północ",
+"nier": "Ząbkowska 4",
+"dz": "146508_8 1507 9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "218/2018"
+}
+},
+{
+"d": "2018-10-12",
+"c": {
+"inw": "remont budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga - Północ",
+"nier": "Ząbkowska 4",
+"dz": "146508_8 1507 67/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "218/2018"
+}
+},
+{
+"d": "2018-10-12",
+"c": {
+"inw": "rozbiórka stacji transfomatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "Mennica Polska S.A. S.K.A.",
+"nier": "Jagiellońska 71",
+"dz": "146508_8 1802 11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "219/2018"
+}
+},
+{
+"d": "2018-10-16",
+"c": {
+"inw": "przebudowa budynku szpitala wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zarząd Mienia m.st. Warszawy",
+"nier": "Aleja \"Solidarności\" 67",
+"dz": "146508_8 1504 32/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "221/2018"
+}
+},
+{
+"d": "2018-10-17",
+"c": {
+"inw": "remont pokrycia stropodachu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polskie Linie Kolejowe S.A.",
+"nier": "Targowa 74",
+"dz": "146508_8 1307 50/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "222/2018"
+}
+},
+{
+"d": "2018-10-18",
+"c": {
+"inw": "przebudowa i zmiana sposobu uzytkowania- projekt zamienny wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Beta Sp. zo.o.",
+"nier": "Listopada 17/19 / 11",
+"dz": "146508_8 1202 9/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "223/2018"
+}
+},
+{
+"d": "2018-10-18",
+"c": {
+"inw": "przebudowa i zmiana sposobu uzytkowania- projekt zamienny wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Beta Sp. zo.o.",
+"nier": "Listopada 17/19 / 11",
+"dz": "146508_8 1202 9/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "223/2018"
+}
+},
+{
+"d": "2018-10-19",
+"c": {
+"inw": "zmiana decyzji nr 153/2018- remont elewacji wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Targowa 70",
+"dz": "146508_8 1403 33",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "224/2018"
+}
+},
+{
+"d": "2018-10-22",
+"c": {
+"inw": "remont bram wjazdowych w przejazdach bramowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Okrzei 29 / Stefana",
+"dz": "146508_8 1504 99",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "226/2018"
+}
+},
+{
+"d": "2018-10-25",
+"c": {
+"inw": "przebudowa, nadbudowa i rozbudowa istniejących budynków mieszkalnych nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Fenix Capital Partners Sp. zo.o. sp. komandytowa",
+"nier": "Targowa 17",
+"dz": "146508_8 1506 80",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "227/2018"
+}
+},
+{
+"d": "2018-10-25",
+"c": {
+"inw": "projekt zamienny-przebudowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Centrum wspierania Rodzin \"Rodzinna Warszawa\"",
+"nier": "Środkowa 9",
+"dz": "146508_8 1304 24",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "228/2018"
+}
+},
+{
+"d": "2018-10-26",
+"c": {
+"inw": "budowa elektroenergetycznych linii kablowych budowa nowego/nowych obiektów budowlanych",
+"wn": "Innogy Stoen Operator Sp. zo.o.",
+"nier": "Łochowska",
+"dz": "146508_8 1404 59",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "232/2018"
+}
+},
+{
+"d": "2018-10-26",
+"c": {
+"inw": "budowa elektroenergetycznych linii kablowych budowa nowego/nowych obiektów budowlanych",
+"wn": "Innogy Stoen Operator Sp. zo.o.",
+"nier": "Łochowska",
+"dz": "146508_8 1404 56",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "232/2018"
+}
+},
+{
+"d": "2018-10-26",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Białostocka 46",
+"dz": "146508_8 1405 1/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "234/2018"
+}
+},
+{
+"d": "2018-10-26",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Białostocka 46",
+"dz": "146508_8 1405 1/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "234/2018"
+}
+},
+{
+"d": "2018-10-26",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Białostocka 46",
+"dz": "146508_8 1405 56/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "234/2018"
+}
+},
+{
+"d": "2018-10-26",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Białostocka 46",
+"dz": "146508_8 1405 56/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "234/2018"
+}
+},
+{
+"d": "2018-10-26",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "Projekt Białostocka Sp. zo.o. Sp. komandytowa",
+"nier": "Białostocka",
+"dz": "146508_8 1403 3/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "236/2018"
+}
+},
+{
+"d": "2018-10-26",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Białostocka 46",
+"dz": "146508_8 1403 21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "234/2018"
+}
+},
+{
+"d": "2018-10-26",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Białostocka 46",
+"dz": "146508_8 1403 20/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "234/2018"
+}
+},
+{
+"d": "2018-10-26",
+"c": {
+"inw": "rozbiórka budynku rozbiórka istniejącego obiektu budowlanego",
+"wn": "Wilczyński Invest S.A.",
+"nier": "Łochowska 36",
+"dz": "146508_8 1404 60",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "233/2018"
+}
+},
+{
+"d": "2018-10-26",
+"c": {
+"inw": "budowa elektroenergetycznych linii kablowych budowa nowego/nowych obiektów budowlanych",
+"wn": "Innogy Stoen Operator Sp. zo.o.",
+"nier": "Łochowska",
+"dz": "146508_8 1402 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "232/2018"
+}
+},
+{
+"d": "2018-10-26",
+"c": {
+"inw": "budowa elektroenergetycznych linii kablowych budowa nowego/nowych obiektów budowlanych",
+"wn": "Innogy Stoen Operator Sp. zo.o.",
+"nier": "Łochowska",
+"dz": "146508_8 1402 21/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "232/2018"
+}
+},
+{
+"d": "2018-10-26",
+"c": {
+"inw": "budowa elektroenergetycznych linii kablowych budowa nowego/nowych obiektów budowlanych",
+"wn": "Innogy Stoen Operator Sp. zo.o.",
+"nier": "Łochowska",
+"dz": "146508_8 1402 23",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "232/2018"
+}
+},
+{
+"d": "2018-10-26",
+"c": {
+"inw": "budowa elektroenergetycznych linii kablowych budowa nowego/nowych obiektów budowlanych",
+"wn": "Innogy Stoen Operator Sp. zo.o.",
+"nier": "Łochowska",
+"dz": "146508_8 1402 2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "232/2018"
+}
+},
+{
+"d": "2018-11-07",
+"c": {
+"inw": "remont lokalu usługowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kłopotowskiego 7 / ks. Ignacego",
+"dz": "146508_8 1504 16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "238/2018"
+}
+},
+{
+"d": "2018-11-07",
+"c": {
+"inw": "rozbiorka budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "SMP Invest Sp. zo.o. Sp.k.",
+"nier": "Białostocka 59",
+"dz": "146508_8 1401 32/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "240/2018"
+}
+},
+{
+"d": "2018-11-08",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Środkowa 21",
+"dz": "146508_8 1304 8/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "242/2018"
+}
+},
+{
+"d": "2018-11-08",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Środkowa 21",
+"dz": "146508_8 1304 13/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "242/2018"
+}
+},
+{
+"d": "2018-11-08",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Środkowa 21",
+"dz": "146508_8 1304 13/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "242/2018"
+}
+},
+{
+"d": "2018-11-08",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Środkowa 21",
+"dz": "146508_8 1304 67/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "242/2018"
+}
+},
+{
+"d": "2018-11-08",
+"c": {
+"inw": "rozbiórka stropów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Bouygues Immobilier Polska Sp. zo.o.",
+"nier": "Stalowa 41",
+"dz": "146508_8 1305 16/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "243/2018"
+}
+},
+{
+"d": "2018-11-08",
+"c": {
+"inw": "rozbiórka stropów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Bouygues Immobilier Polska Sp. zo.o.",
+"nier": "Stalowa 41",
+"dz": "146508_8 1305 16/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "243/2018"
+}
+},
+{
+"d": "2018-11-13",
+"c": {
+"inw": "przebudowa wentylacji mechanicznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Mazowiecki Szpital Wojewódzki \"Drewnica\" Sp. zo.o.",
+"nier": "Brzeska 12",
+"dz": "146508_8 1407 7/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "244/2018"
+}
+},
+{
+"d": "2018-11-15",
+"c": {
+"inw": "remont więźby dachowej, wymiana pokrycia dachowego, obróbka kominów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Inżynierska 9",
+"dz": "146508_8 1306 78/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "245/2018"
+}
+},
+{
+"d": "2018-11-16",
+"c": {
+"inw": "wymiana instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Jasińskiego 2 / Jakuba",
+"dz": "146508_8 1504 34",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "246/2018"
+}
+},
+{
+"d": "2018-11-16",
+"c": {
+"inw": "wzmocnienie i wymiana elementów konstrukcyjnych z remontem elewacji wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Administrator Sp. zo.o.",
+"nier": "Łochowska 12",
+"dz": "146508_8 1404 15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "249/2018"
+}
+},
+{
+"d": "2018-11-16",
+"c": {
+"inw": "budowa zespołu pawilonó handlowych budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa",
+"nier": "Targowa 54",
+"dz": "146508_8 1507 67/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "247/2018"
+}
+},
+{
+"d": "2018-11-20",
+"c": {
+"inw": "montaż szyldów na budynku \"P\" wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Centrum Praskie Koneser Sp. zo.o. Sp.k.",
+"nier": "Ząbkowska 27/31",
+"dz": "146508_8 1405 19/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "250/2018"
+}
+},
+{
+"d": "2018-11-29",
+"c": {
+"inw": "przebudowa instalacji wentylacji wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PKP Polskie Linie Kolejowe S.A.",
+"nier": "Targowa 74",
+"dz": "146508_8 1307 50/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "259/2018"
+}
+},
+{
+"d": "2018-12-07",
+"c": {
+"inw": "przesunięcie oraz powiększenie otworów w ścianach wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Marcinkowskiego 7 / Karola",
+"dz": "146508_8 1506 45",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "260/2018"
+}
+},
+{
+"d": "2018-12-17",
+"c": {
+"inw": "remont elewacji frontowej z balkonami i przesiwtme bramowym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakad Gospodarowania Nieruchomosciami Praga Północ",
+"nier": "Kłopotowskiego 20 / ks. Ignacego",
+"dz": "146508_8 1504 95",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "264/2018"
+}
+},
+{
+"d": "2018-12-24",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Kropka Bis Sp. zo.o. Stalowa sp. komandytowa",
+"nier": "Stalowa 27",
+"dz": "146508_8 1304 27/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "265/2018"
+}
+},
+{
+"d": "2018-12-27",
+"c": {
+"inw": "remont pustostanu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga - Północ",
+"nier": "Olszowa 12",
+"dz": "146508_8 1504 6/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "266/2018"
+}
+},
+{
+"d": "2018-12-28",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Listopada 22 / 11",
+"dz": "146508_8 1304 53",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "267/2018"
+}
+},
+{
+"d": "2018-12-28",
+"c": {
+"inw": "remont balkonów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Grajewska 21",
+"dz": "146508_8 1402 20/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "270/2018"
+}
+},
+{
+"d": "2018-12-28",
+"c": {
+"inw": "wymiana stolarki okiennej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami Praga Północ",
+"nier": "Grajewska 4",
+"dz": "146508_8 1402 47",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "271/2018"
+}
+}
+]
+}
+]
+}
