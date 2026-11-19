@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Rejestry i wykazy — Warszawa, 18 dzielnic</title>
-<meta name="description" content="Decyzje o warunkach zabudowy, pozwolenia na budowę i wnioski w 18 dzielnicach Warszawy. 132082 pozycji, roczniki 2016–2026.">
+<meta name="description" content="Decyzje o warunkach zabudowy, pozwolenia na budowę i wnioski w 18 dzielnicach Warszawy. 132 082 pozycji, roczniki 2016–2026.">
 <style>:root {
   --navy: #101a2b;
   --navy-2: #1b2a44;
@@ -16,6 +16,8 @@
   --accent: #2f6f4f;
   --accent-soft: #e8f2ec;
   --radius: 10px;
+  --maxw: 1280px;
+  --pad: clamp(16px, 4vw, 48px);
 }
 
 * { box-sizing: border-box; }
@@ -30,24 +32,35 @@ body {
         "Helvetica Neue", Arial, sans-serif;
 }
 
+/* Wspólny kontener — dzięki niemu nagłówek, sterowanie, treść i stopka
+   mają dokładnie tę samą szerokość. */
+.wrap {
+  max-width: var(--maxw);
+  margin: 0 auto;
+  padding-left: var(--pad);
+  padding-right: var(--pad);
+}
+
+.muted { color: var(--muted); }
+
 /* ---------- nagłówek ---------- */
 
 .hero {
   background: var(--navy);
   color: #fff;
-  padding: 28px clamp(16px, 4vw, 48px) 0;
+  padding: 30px 0 0;
 }
 
-.hero-head {
-  display: flex;
-  align-items: flex-start;
-  justify-content: space-between;
-  gap: 24px;
-  max-width: 1280px;
-  margin: 0 auto;
+.eyebrow {
+  margin: 0 0 10px;
+  color: #8fa1b8;
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
 }
 
-.hero-text h1 {
+.hero h1 {
   margin: 0;
   font-size: clamp(24px, 3.4vw, 34px);
   font-weight: 650;
@@ -55,26 +68,19 @@ body {
   line-height: 1.15;
 }
 
-.hero-text .sub {
-  margin: 8px 0 0;
+.lede {
+  max-width: 62ch;
+  margin: 10px 0 0;
   color: #a9b8cc;
   font-size: 14px;
-  line-height: 1.5;
-}
-
-.logo {
-  height: 46px;
-  width: auto;
-  flex: 0 0 auto;
-  margin-top: 2px;
+  line-height: 1.55;
 }
 
 .stats {
   display: flex;
   flex-wrap: wrap;
   gap: 8px 40px;
-  max-width: 1280px;
-  margin: 26px auto 0;
+  margin: 24px 0 0;
   padding: 18px 0 22px;
   border-top: 1px solid rgba(255, 255, 255, 0.12);
 }
@@ -98,13 +104,17 @@ body {
 /* ---------- sterowanie ---------- */
 
 .controls {
+  background: var(--card);
+  border-bottom: 1px solid var(--line);
+}
+
+.controls .wrap {
   display: flex;
   flex-wrap: wrap;
   align-items: flex-end;
-  gap: 20px 32px;
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 20px clamp(16px, 4vw, 48px);
+  gap: 16px 28px;
+  padding-top: 16px;
+  padding-bottom: 16px;
 }
 
 .field { display: flex; flex-direction: column; gap: 6px; }
@@ -129,68 +139,34 @@ select {
   cursor: pointer;
 }
 
-select:focus-visible, input:focus-visible, .year:focus-visible {
+select:disabled { opacity: 0.5; cursor: default; }
+
+select:focus-visible, input:focus-visible, .tab:focus-visible,
+.cell:focus-visible, .more:focus-visible {
   outline: 2px solid var(--accent);
   outline-offset: 1px;
 }
 
-.years-field { flex: 1 1 320px; }
-
-.years { display: flex; flex-wrap: wrap; gap: 6px; }
-
-.year {
-  padding: 7px 13px;
-  border: 1px solid var(--line);
-  border-radius: 999px;
-  background: var(--card);
-  color: var(--muted);
-  font: inherit;
-  font-size: 13px;
-  font-weight: 550;
-  font-variant-numeric: tabular-nums;
-  cursor: pointer;
-  transition: background 0.12s, color 0.12s, border-color 0.12s;
-}
-
-.year:hover { border-color: #b9c4d1; color: var(--ink); }
-
-.year[aria-pressed="true"] {
-  background: var(--navy);
-  border-color: var(--navy);
-  color: #fff;
-}
-
-.year .n {
-  margin-left: 6px;
-  opacity: 0.6;
-  font-size: 11px;
-  font-weight: 500;
-}
-
 /* ---------- treść ---------- */
 
-main {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 0 clamp(16px, 4vw, 48px) 40px;
-}
+main { padding: 22px 0 40px; }
 
 .tabs {
   display: flex;
   flex-wrap: wrap;
-  gap: 4px;
+  gap: 2px;
   border-bottom: 1px solid var(--line);
   margin-bottom: 16px;
 }
 
 .tab {
-  padding: 10px 14px;
+  padding: 9px 12px;
   border: 0;
   border-bottom: 2px solid transparent;
   background: none;
   color: var(--muted);
   font: inherit;
-  font-size: 14px;
+  font-size: 13.5px;
   font-weight: 550;
   cursor: pointer;
   white-space: nowrap;
@@ -203,9 +179,9 @@ main {
   border-bottom-color: var(--accent);
 }
 
-.tab .n {
-  margin-left: 7px;
-  padding: 1px 7px;
+.tab .c {
+  margin-left: 6px;
+  padding: 1px 6px;
   border-radius: 999px;
   background: var(--accent-soft);
   color: var(--accent);
@@ -214,17 +190,35 @@ main {
   font-variant-numeric: tabular-nums;
 }
 
+.tab.is-empty { opacity: 0.45; }
+
 .toolbar {
   display: flex;
   align-items: center;
   gap: 16px;
-  margin-bottom: 12px;
+  margin-bottom: 16px;
 }
 
-#q {
+.search {
+  position: relative;
   flex: 1 1 auto;
   max-width: 420px;
-  padding: 9px 12px;
+}
+
+.search svg {
+  position: absolute;
+  left: 11px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 16px;
+  height: 16px;
+  color: var(--muted);
+  pointer-events: none;
+}
+
+.search input {
+  width: 100%;
+  padding: 9px 12px 9px 34px;
   border: 1px solid var(--line);
   border-radius: var(--radius);
   background: var(--card);
@@ -237,20 +231,165 @@ main {
   font-variant-numeric: tabular-nums;
 }
 
-.table-wrap {
-  overflow-x: auto;
+/* ---------- kafelki ---------- */
+
+.kpis {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 12px;
+  margin-bottom: 18px;
+}
+
+.kpi {
+  padding: 14px 16px;
   border: 1px solid var(--line);
   border-radius: var(--radius);
   background: var(--card);
 }
 
-table {
+.kpi .n {
+  font-size: 24px;
+  font-weight: 650;
+  line-height: 1.1;
+  font-variant-numeric: tabular-nums;
+}
+
+.kpi .l {
+  margin-top: 4px;
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.kpi.is-accent {
+  background: var(--navy);
+  border-color: var(--navy);
+  color: #fff;
+}
+
+.kpi.is-accent .l { color: #a9b8cc; }
+
+/* ---------- panele ---------- */
+
+.panel {
+  margin-bottom: 18px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--card);
+  overflow: hidden;
+}
+
+.panel-head {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 4px 12px;
+  padding: 13px 16px;
+  border-bottom: 1px solid var(--line);
+}
+
+.panel-head h2 {
+  margin: 0;
+  font-size: 15px;
+  font-weight: 650;
+}
+
+.panel-head .sub {
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.panel-head .count {
+  margin-left: auto;
+  padding: 1px 9px;
+  border-radius: 999px;
+  background: var(--accent-soft);
+  color: var(--accent);
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.tbl-wrap { overflow-x: auto; }
+
+.month-title {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 4px 12px;
+  margin: 0 0 14px;
+}
+
+.month-title h2 {
+  margin: 0;
+  font-size: 19px;
+  font-weight: 650;
+  letter-spacing: -0.01em;
+}
+
+.month-title .n {
+  color: var(--muted);
+  font-size: 13px;
+}
+
+/* ---------- macierz rejestr × miesiąc ---------- */
+
+table.matrix {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+}
+
+table.matrix th,
+table.matrix td {
+  padding: 7px 8px;
+  border-bottom: 1px solid #eef1f5;
+  text-align: center;
+}
+
+table.matrix thead th {
+  background: #f0f3f7;
+  color: var(--muted);
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  white-space: nowrap;
+}
+
+table.matrix tbody th {
+  text-align: left;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+table.matrix tbody tr:last-child th,
+table.matrix tbody tr:last-child td { border-bottom: 0; }
+
+table.matrix td.zero { color: #c3ccd6; }
+
+table.matrix td.cell {
+  cursor: pointer;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+}
+
+table.matrix td.cell:hover { outline: 2px solid var(--accent); outline-offset: -2px; }
+
+table.matrix th.total,
+table.matrix td.total {
+  background: #f7f9fb;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+
+/* ---------- tabele danych ---------- */
+
+table.tbl {
   width: 100%;
   border-collapse: collapse;
   font-size: 13.5px;
 }
 
-thead th {
+table.tbl thead th {
   position: sticky;
   top: 0;
   z-index: 1;
@@ -266,18 +405,68 @@ thead th {
   white-space: nowrap;
 }
 
-tbody td {
+table.tbl tbody td {
   padding: 9px 12px;
   border-bottom: 1px solid #eef1f5;
   vertical-align: top;
 }
 
-tbody tr:last-child td { border-bottom: 0; }
-tbody tr:hover { background: #fafbfc; }
+table.tbl tbody tr:last-child td { border-bottom: 0; }
+table.tbl tbody tr:hover { background: #fafbfc; }
 
-td.nr { font-variant-numeric: tabular-nums; white-space: nowrap; }
+th.num, td.num {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+td.date { white-space: nowrap; font-variant-numeric: tabular-nums; }
+td.nr { white-space: nowrap; }
 td.wide { min-width: 260px; }
 td.mid { min-width: 150px; }
+
+/* ---------- odznaki ---------- */
+
+.badge {
+  display: inline-block;
+  padding: 1px 8px;
+  border-radius: 999px;
+  font-size: 11.5px;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.badge.ok { background: #e8f2ec; color: #2f6f4f; }
+.badge.no { background: #fdecea; color: #a4342a; }
+.badge.neutral { background: #eef2f7; color: #5d6b7d; }
+.badge.info { background: #e8eef7; color: #2b4a7a; }
+
+/* ---------- zwijanie długich komórek ---------- */
+
+.clamp {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.clamp.open {
+  display: block;
+  -webkit-line-clamp: unset;
+}
+
+.more {
+  margin-top: 4px;
+  padding: 0;
+  border: 0;
+  background: none;
+  color: var(--accent);
+  font: inherit;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+/* ---------- komunikaty ---------- */
 
 .empty, .error {
   margin: 0;
@@ -285,6 +474,8 @@ td.mid { min-width: 150px; }
   color: var(--muted);
   text-align: center;
 }
+
+.empty b, .error b { display: block; margin-bottom: 4px; color: var(--ink); }
 
 .error { color: #a4342a; }
 
@@ -296,76 +487,99 @@ td.mid { min-width: 150px; }
 
 .source a { color: var(--accent); }
 
+/* ---------- stopka ---------- */
+
 footer {
   border-top: 1px solid var(--line);
-  padding: 20px clamp(16px, 4vw, 48px) 32px;
+  padding: 20px 0 32px;
 }
 
 footer p {
-  max-width: 1280px;
-  margin: 0 auto;
+  margin: 0;
   color: var(--muted);
   font-size: 12px;
   line-height: 1.6;
 }
 
+/* ---------- wąskie ekrany ---------- */
+
 @media (max-width: 640px) {
-  .logo { height: 34px; }
   .stats { gap: 8px 24px; }
   .stats dd { font-size: 16px; }
   select { min-width: 0; width: 100%; }
   .field { flex: 1 1 100%; }
+  .search { max-width: none; }
+  .toolbar { flex-wrap: wrap; }
+  table.matrix { font-size: 12px; }
+  table.matrix th, table.matrix td { padding: 6px 4px; }
 }
 </style>
 </head>
 <body>
 
 <header class="hero">
-  <div class="hero-head">
-    <div class="hero-text">
-      <h1>Rejestry i wykazy</h1>
-      <p class="sub">Decyzje, wnioski i zgłoszenia budowlane<br>w 18 dzielnicach Warszawy</p>
-    </div>
-    <img class="logo" src="data:image/png;base64,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" alt="Biuro Zielonego Ursusa">
+  <div class="wrap">
+    <p class="eyebrow">m.st. Warszawa &middot; 18 dzielnic</p>
+    <h1>Rejestry i wykazy</h1>
+    <p class="lede">
+      Decyzje, wnioski i zgłoszenia budowlane &mdash; zebrane w jednym miejscu
+      i uporządkowane miesiącami.
+    </p>
+    <dl class="stats">
+      <div><dt>pozycji</dt><dd>132 082</dd></div>
+      <div><dt>dzielnic</dt><dd>18</dd></div>
+      <div><dt>roczniki</dt><dd>2016–2026</dd></div>
+      <div><dt>dane z</dt><dd>2026-11-19</dd></div>
+    </dl>
   </div>
-  <dl class="stats">
-    <div><dt>pozycji</dt><dd>132082</dd></div>
-    <div><dt>dzielnic</dt><dd>18</dd></div>
-    <div><dt>roczniki</dt><dd>2016–2026</dd></div>
-    <div><dt>dane z</dt><dd>2026-11-19</dd></div>
-  </dl>
 </header>
 
-<nav class="controls">
-  <label class="field">
-    <span>Dzielnica</span>
-    <select id="district"></select>
-  </label>
-  <div class="field years-field">
-    <span>Rocznik</span>
-    <div id="years" class="years"></div>
+<nav class="controls" aria-label="Wybór dzielnicy i rocznika">
+  <div class="wrap">
+    <label class="field">
+      <span>Dzielnica</span>
+      <select id="district"></select>
+    </label>
+    <label class="field">
+      <span>Rocznik</span>
+      <select id="year"></select>
+    </label>
   </div>
 </nav>
 
 <main>
-  <div id="tabs" class="tabs"></div>
+  <div class="wrap">
 
-  <div class="toolbar">
-    <input id="q" type="search" placeholder="Szukaj w tabeli — adres, inwestor, numer…" autocomplete="off">
-    <span id="count" class="count"></span>
+    <nav class="tabs" id="tabs" role="tablist" aria-label="Wybór miesiąca"></nav>
+
+    <div class="toolbar">
+      <div class="search">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+          <circle cx="11" cy="11" r="7"></circle>
+          <path d="M20 20l-3.5-3.5"></path>
+        </svg>
+        <input id="q" type="search" placeholder="Szukaj: ulica, wnioskodawca, numer sprawy…"
+               aria-label="Szukaj w rejestrach" autocomplete="off">
+      </div>
+      <span id="count" class="count"></span>
+    </div>
+
+    <div id="view" aria-live="polite"></div>
+
+    <p id="source" class="source"></p>
+
   </div>
-
-  <div id="table" class="table-wrap">
-    <p class="empty">Wczytywanie…</p>
-  </div>
-
-  <p id="source" class="source"></p>
 </main>
 
 <footer>
-  <p>Dane: rejestr GUNB (pozwolenia na budowę) oraz strony dzielnic (warunki
-  zabudowy, inwestycje celu publicznego). Rejestry są jawne; dane osobowe
-  podlegają RODO.</p>
+  <div class="wrap">
+    <p>
+      Dane: rejestr GUNB (pozwolenia na budowę) oraz strony dzielnic (warunki
+      zabudowy, inwestycje celu publicznego). Rejestry są jawne; dane osobowe
+      podlegają RODO. Strona ma charakter informacyjny &mdash; wiążące pozostają
+      dokumenty źródłowe.
+    </p>
+  </div>
 </footer>
 
 <script>/* Rejestry i wykazy — Warszawa. Bez zależności, dane ładowane na żądanie. */
@@ -373,15 +587,30 @@ footer p {
   'use strict';
 
   var $ = function (id) { return document.getElementById(id); };
-  var state = { index: null, district: null, year: null, reg: null, data: null, q: '' };
+
+  var MONTHS = ['styczeń', 'luty', 'marzec', 'kwiecień', 'maj', 'czerwiec',
+    'lipiec', 'sierpień', 'wrzesień', 'październik', 'listopad', 'grudzień'];
+  var MONTHS_SHORT = ['sty', 'lut', 'mar', 'kwi', 'maj', 'cze',
+    'lip', 'sie', 'wrz', 'paź', 'lis', 'gru'];
+
+  var state = {
+    index: null, district: null, year: null,
+    view: 'overview', month: null, q: ''
+  };
 
   var elDistrict = $('district');
-  var elYears = $('years');
+  var elYear = $('year');
   var elTabs = $('tabs');
-  var elTable = $('table');
+  var elView = $('view');
   var elCount = $('count');
   var elSource = $('source');
   var elQ = $('q');
+
+  var D = null;                 // dane wybranego rocznika
+  var byMonth = {};             // regId -> miesiąc -> wiersze
+  var totals = { all: 0, byMonth: {}, byReg: {} };
+
+  /* ------------------------------------------------------------- pomocnicze */
 
   function esc(s) {
     return String(s == null ? '' : s)
@@ -389,7 +618,45 @@ footer p {
       .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
   }
 
-  function fmt(n) { return String(n).replace(/\B(?=(\d{3})+(?!\d))/g, ' '); }
+  function fmt(n) {
+    return String(n).replace(/\B(?=(\d{3})+(?!\d))/g, ' ');
+  }
+
+  function fmtDate(iso) {
+    if (!iso) return '';
+    var p = iso.split('-');
+    return p[2] + '.' + p[1] + '.' + p[0];
+  }
+
+  function norm(s) {
+    return String(s == null ? '' : s)
+      .toLowerCase()
+      .replace(/ą/g, 'a').replace(/ć/g, 'c').replace(/ę/g, 'e')
+      .replace(/ł/g, 'l').replace(/ń/g, 'n').replace(/ó/g, 'o')
+      .replace(/ś/g, 's').replace(/ź/g, 'z').replace(/ż/g, 'z');
+  }
+
+  function plural(n, one, few, many) {
+    if (n === 1) return one;
+    var d = n % 10, h = n % 100;
+    if (d >= 2 && d <= 4 && (h < 10 || h >= 20)) return few;
+    return many;
+  }
+
+  function monthOf(row) {
+    if (!row.d) return 0;
+    var m = parseInt(row.d.slice(5, 7), 10);
+    return m >= 1 && m <= 12 ? m : 0;
+  }
+
+  function badgeClass(v) {
+    var t = norm(v);
+    if (/^ustalam|^pnb$|^udzielam|^zatwierdz/.test(t)) return 'ok';
+    if (/odmawiam|^odmowa|^sprzeciw/.test(t)) return 'no';
+    if (/umorz|uchylam|^brak/.test(t)) return 'neutral';
+    if (/przenies|zmieniam|^pnr$/.test(t)) return 'info';
+    return 'neutral';
+  }
 
   function getJSON(url) {
     return fetch(url, { cache: 'no-cache' }).then(function (r) {
@@ -398,141 +665,372 @@ footer p {
     });
   }
 
-  /* ---------- adres w pasku ---------- */
+  /* ------------------------------------------------------------ adres w pasku */
 
   function readHash() {
     var p = (location.hash || '').replace(/^#\/?/, '').split('/');
-    return { district: p[0] || null, year: p[1] || null, reg: p[2] || null };
+    return {
+      district: p[0] || null,
+      year: p[1] || null,
+      month: (p[2] === undefined || p[2] === '') ? null : p[2]
+    };
   }
 
   function writeHash() {
-    var h = '#/' + state.district + '/' + state.year + '/' + (state.reg || '');
+    var h = '#/' + state.district + '/' + state.year +
+            (state.view === 'month' ? '/' + state.month : '');
     if (location.hash !== h) history.replaceState(null, '', h);
   }
 
-  /* ---------- dzielnice ---------- */
+  /* ------------------------------------------------------------------ indeks */
 
   function districtEntry(slug) {
     return state.index.districts.filter(function (d) { return d.slug === slug; })[0];
   }
+
+  function buildIndex() {
+    byMonth = {};
+    totals = { all: 0, byMonth: {}, byReg: {} };
+
+    D.registers.forEach(function (reg) {
+      byMonth[reg.id] = {};
+      totals.byReg[reg.id] = 0;
+      reg.rows.forEach(function (row) {
+        var m = monthOf(row);
+        (byMonth[reg.id][m] = byMonth[reg.id][m] || []).push(row);
+        totals.byReg[reg.id]++;
+        totals.all++;
+        totals.byMonth[m] = (totals.byMonth[m] || 0) + 1;
+      });
+    });
+  }
+
+  function rowsFor(regId, m) {
+    return (byMonth[regId] && byMonth[regId][m]) || [];
+  }
+
+  function monthTotal(m) { return totals.byMonth[m] || 0; }
+
+  function lastMonthLabel() {
+    for (var m = 12; m >= 1; m--) if (monthTotal(m) > 0) return MONTHS[m - 1];
+    return '—';
+  }
+
+  /* ------------------------------------------------------------- lista wyboru */
 
   function renderDistricts() {
     var list = state.index.districts.slice().sort(function (a, b) {
       return a.name.localeCompare(b.name, 'pl');
     });
     elDistrict.innerHTML = list.map(function (d) {
-      return '<option value="' + esc(d.slug) + '">' + esc(d.name) +
-             ' — ' + fmt(d.total) + '</option>';
+      return '<option value="' + esc(d.slug) + '">' + esc(d.name) + '</option>';
     }).join('');
     elDistrict.value = state.district;
   }
 
-  /* ---------- roczniki ---------- */
-
   function renderYears() {
     var d = districtEntry(state.district);
     if (!d || !d.years.length) {
-      elYears.innerHTML = '<span class="count">brak danych</span>';
+      elYear.innerHTML = '';
+      elYear.disabled = true;
       return;
     }
-    elYears.innerHTML = d.years.map(function (y) {
-      return '<button class="year" type="button" data-year="' + y.year + '"' +
-             ' aria-pressed="' + (y.year === state.year) + '">' + y.year +
-             '<span class="n">' + fmt(y.total) + '</span></button>';
+    elYear.disabled = false;
+    elYear.innerHTML = d.years.slice().reverse().map(function (y) {
+      return '<option value="' + y.year + '">' + y.year + '</option>';
     }).join('');
+    elYear.value = state.year;
   }
 
-  /* ---------- rejestry ---------- */
+  /* ------------------------------------------------------------------- zakładki */
 
   function renderTabs() {
-    if (!state.data) { elTabs.innerHTML = ''; return; }
-    elTabs.innerHTML = state.data.registers.map(function (r) {
-      return '<button class="tab" type="button" role="tab" data-reg="' + esc(r.id) + '"' +
-             ' aria-selected="' + (r.id === state.reg) + '">' + esc(r.short) +
-             '<span class="n">' + fmt(r.rows.length) + '</span></button>';
-    }).join('');
-  }
+    if (!D) { elTabs.innerHTML = ''; return; }
 
-  function currentRegister() {
-    if (!state.data) return null;
-    return state.data.registers.filter(function (r) { return r.id === state.reg; })[0] ||
-           state.data.registers[0];
-  }
+    var html = '<button class="tab" type="button" role="tab" data-view="overview"' +
+      ' aria-selected="' + (state.view === 'overview') + '">Przegląd roku</button>';
 
-  /* ---------- tabela ---------- */
-
-  function renderTable() {
-    var reg = currentRegister();
-    if (!reg) {
-      elTable.innerHTML = '<p class="empty">Brak rejestrów dla tego rocznika.</p>';
-      elCount.textContent = '';
-      return;
+    for (var m = 1; m <= 12; m++) {
+      var n = monthTotal(m);
+      html += '<button class="tab' + (n === 0 ? ' is-empty' : '') + '" type="button"' +
+        ' role="tab" data-month="' + m + '" aria-selected="' +
+        (state.view === 'month' && state.month === m) + '">' +
+        MONTHS_SHORT[m - 1] + '<span class="c">' + n + '</span></button>';
     }
 
-    var q = state.q.trim().toLowerCase();
-    var rows = reg.rows;
-    if (q) {
-      rows = rows.filter(function (row) {
-        for (var k in row.c) {
-          if (String(row.c[k]).toLowerCase().indexOf(q) !== -1) return true;
+    if (monthTotal(0) > 0) {
+      html += '<button class="tab" type="button" role="tab" data-month="0"' +
+        ' aria-selected="' + (state.view === 'month' && state.month === 0) + '">' +
+        'bez daty<span class="c">' + monthTotal(0) + '</span></button>';
+    }
+
+    elTabs.innerHTML = html;
+  }
+
+  /* ------------------------------------------------------------------ przegląd */
+
+  function kpi(n, label, accent) {
+    return '<div class="kpi' + (accent ? ' is-accent' : '') + '">' +
+      '<div class="n">' + n + '</div><div class="l">' + label + '</div></div>';
+  }
+
+  function renderOverview() {
+    var maxCell = 1;
+    D.registers.forEach(function (reg) {
+      for (var m = 1; m <= 12; m++) {
+        maxCell = Math.max(maxCell, rowsFor(reg.id, m).length);
+      }
+    });
+
+    var activeMonths = 0;
+    for (var m = 1; m <= 12; m++) if (monthTotal(m) > 0) activeMonths++;
+
+    var html = '<div class="kpis">' +
+      kpi(fmt(totals.all), 'pozycji łącznie', true) +
+      kpi(D.registers.length, 'rejestrów', false) +
+      kpi(activeMonths, 'miesięcy z danymi', false) +
+      kpi(lastMonthLabel(), 'ostatni miesiąc z wpisami', false) +
+      '</div>';
+
+    /* macierz rejestr × miesiąc */
+    html += '<div class="panel"><div class="panel-head">' +
+      '<h2>Rejestry w układzie miesięcznym</h2>' +
+      '<span class="sub">kliknij liczbę, aby przejść do wpisów</span>' +
+      '<span class="count">' + D.year + '</span></div>' +
+      '<div class="panel-body"><div class="tbl-wrap">' +
+      '<table class="matrix"><thead><tr><th>Rejestr</th>';
+
+    for (var i = 1; i <= 12; i++) html += '<th>' + MONTHS_SHORT[i - 1] + '</th>';
+    if (monthTotal(0) > 0) html += '<th>bd.</th>';
+    html += '<th class="total">Razem</th></tr></thead><tbody>';
+
+    D.registers.forEach(function (reg) {
+      html += '<tr><th scope="row">' + esc(reg.short) + '</th>';
+
+      for (var mm = 1; mm <= 12; mm++) {
+        var n = rowsFor(reg.id, mm).length;
+        if (n === 0) {
+          html += '<td class="zero">·</td>';
+        } else {
+          var a = 0.08 + 0.62 * (n / maxCell);
+          html += '<td class="cell" data-goto="' + mm + '" data-reg="' + reg.id +
+            '" style="background:rgba(47,111,79,' + a.toFixed(3) + ');color:' +
+            (a > 0.42 ? '#fff' : '#1d4a33') + '" title="' + esc(reg.name) + ' — ' +
+            MONTHS[mm - 1] + ': ' + n + '">' + n + '</td>';
         }
-        return String(row.d || '').indexOf(q) !== -1;
-      });
-    }
+      }
 
-    elCount.textContent = q
-      ? fmt(rows.length) + ' z ' + fmt(reg.rows.length) + ' pozycji'
-      : fmt(reg.rows.length) + ' pozycji';
+      if (monthTotal(0) > 0) {
+        var n0 = rowsFor(reg.id, 0).length;
+        html += n0 === 0
+          ? '<td class="zero">·</td>'
+          : '<td class="cell" data-goto="0" data-reg="' + reg.id +
+            '" style="background:#eef2f7;color:#64748b" title="bez daty: ' + n0 + '">' +
+            n0 + '</td>';
+      }
 
-    if (!rows.length) {
-      elTable.innerHTML = '<p class="empty">Nic nie pasuje do „' + esc(state.q) + '”.</p>';
+      html += '<td class="total">' + totals.byReg[reg.id] + '</td></tr>';
+    });
+
+    html += '</tbody></table></div></div></div>';
+
+    /* zakres rejestrów */
+    html += '<div class="panel"><div class="panel-head">' +
+      '<h2>Zakres rejestrów</h2>' +
+      '<span class="sub">pliki źródłowe i pokrycie dat</span></div>' +
+      '<div class="panel-body"><div class="tbl-wrap">' +
+      '<table class="tbl"><thead><tr><th>Rejestr</th><th class="num">Pozycji</th>' +
+      '<th>Zakres dat</th><th>Plik źródłowy</th></tr></thead><tbody>';
+
+    D.registers.forEach(function (reg) {
+      var dates = reg.rows.map(function (r) { return r.d; }).filter(Boolean).sort();
+      var range = dates.length
+        ? fmtDate(dates[0]) + ' – ' + fmtDate(dates[dates.length - 1])
+        : '<span class="muted">brak dat</span>';
+      var src = reg.url
+        ? '<a href="' + esc(reg.url) + '" target="_blank" rel="noopener">' +
+          esc(reg.file || 'plik') + '</a>'
+        : esc(reg.file || '—');
+
+      html += '<tr><td><b>' + esc(reg.name) + '</b></td>' +
+        '<td class="num">' + reg.rows.length + '</td>' +
+        '<td class="date">' + range + '</td>' +
+        '<td>' + src + '</td></tr>';
+    });
+
+    html += '</tbody></table></div></div></div>';
+
+    elView.innerHTML = html;
+  }
+
+  /* -------------------------------------------------------------------- miesiąc */
+
+  function renderMonth(m) {
+    var total = monthTotal(m);
+    var label = m === 0
+      ? 'Pozycje bez daty'
+      : MONTHS[m - 1].charAt(0).toUpperCase() + MONTHS[m - 1].slice(1) + ' ' + D.year;
+
+    var html = '<div class="month-title"><h2>' + label + '</h2>' +
+      '<span class="n">' + total + ' ' +
+      plural(total, 'pozycja', 'pozycje', 'pozycji') + '</span></div>';
+
+    if (total === 0) {
+      html += '<div class="panel"><div class="empty"><b>Brak wpisów w tym miesiącu</b>' +
+        'Urząd nie opublikował jeszcze danych dla tego okresu.</div></div>';
+      elView.innerHTML = html;
       return;
     }
 
-    var head = '<tr><th>Data</th>' + reg.cols.map(function (c) {
-      return '<th>' + esc(c.l) + '</th>';
-    }).join('') + '</tr>';
+    if (m === 0) {
+      html += '<div class="panel"><div class="empty" style="padding:22px">' +
+        'Wpisy, dla których w pliku źródłowym nie podano daty. Zostaną przypisane ' +
+        'do miesiąca, gdy urząd uzupełni rejestr.</div></div>';
+    }
 
-    var body = rows.map(function (row) {
-      var tds = reg.cols.map(function (c) {
-        return '<td class="' + esc(c.w || '') + '">' + esc(row.c[c.k]) + '</td>';
-      }).join('');
-      return '<tr><td class="nr">' + esc(row.d || '—') + '</td>' + tds + '</tr>';
-    }).join('');
+    D.registers.forEach(function (reg) {
+      var rows = rowsFor(reg.id, m);
+      if (!rows.length) return;
+      html += renderRegisterPanel(reg, rows,
+        m === 0 ? 'bez daty' : MONTHS[m - 1] + ' ' + D.year);
+    });
 
-    elTable.innerHTML = '<table><thead>' + head + '</thead><tbody>' + body + '</tbody></table>';
+    elView.innerHTML = html;
   }
+
+  function renderRegisterPanel(reg, rows, periodLabel) {
+    var h = '<div class="panel" id="reg-' + esc(reg.id) + '">' +
+      '<div class="panel-head"><h2>' + esc(reg.name) + '</h2>' +
+      '<span class="sub">' + esc(periodLabel) + '</span>' +
+      '<span class="count">' + rows.length + '</span></div>' +
+      '<div class="panel-body"><div class="tbl-wrap">' +
+      '<table class="tbl"><thead><tr><th class="num">Lp.</th><th>Data</th>';
+
+    reg.cols.forEach(function (c) { h += '<th>' + esc(c.l) + '</th>'; });
+    h += '</tr></thead><tbody>';
+
+    rows.forEach(function (row, i) {
+      h += '<tr><td class="num">' + (i + 1) + '</td>' +
+        '<td class="date">' + (row.d ? fmtDate(row.d) : '<span class="muted">—</span>') + '</td>';
+
+      reg.cols.forEach(function (c) {
+        var v = row.c[c.k];
+        if (v == null || v === '') { h += '<td class="muted">—</td>'; return; }
+
+        if (c.k === 'roz' || c.k === 'rodz') {
+          h += '<td><span class="badge ' + badgeClass(v) + '">' + esc(v) + '</span></td>';
+        } else if (c.k === 'nr') {
+          h += '<td class="nr">' + esc(v) + '</td>';
+        } else {
+          var cls = c.w === 'wide' ? 'wide' : (c.w === 'mid' ? 'mid' : '');
+          if (String(v).length > 150) {
+            h += '<td class="' + cls + '"><div class="clamp">' + esc(v) + '</div>' +
+              '<button class="more" type="button">więcej</button></td>';
+          } else {
+            h += '<td class="' + cls + '">' + esc(v) + '</td>';
+          }
+        }
+      });
+
+      h += '</tr>';
+    });
+
+    h += '</tbody></table></div></div></div>';
+    return h;
+  }
+
+  /* ---------------------------------------------------------------- wyszukiwanie */
+
+  function renderSearch(q) {
+    var nq = norm(q);
+    var hits = [];
+
+    D.registers.forEach(function (reg) {
+      reg.rows.forEach(function (row) {
+        var hay = norm(reg.name + ' ' + Object.keys(row.c).map(function (k) {
+          return row.c[k];
+        }).join(' '));
+        if (hay.indexOf(nq) !== -1) hits.push({ reg: reg, row: row });
+      });
+    });
+
+    var html = '<div class="month-title"><h2>Wyniki wyszukiwania</h2>' +
+      '<span class="n">„' + esc(q) + '” — ' + hits.length + ' ' +
+      plural(hits.length, 'pozycja', 'pozycje', 'pozycji') + '</span></div>';
+
+    if (!hits.length) {
+      html += '<div class="panel"><div class="empty"><b>Nic nie znaleziono</b>' +
+        'Spróbuj krótszej frazy, np. nazwy ulicy lub wnioskodawcy.</div></div>';
+      elView.innerHTML = html;
+      return;
+    }
+
+    var grouped = {};
+    hits.forEach(function (h) {
+      (grouped[h.reg.id] = grouped[h.reg.id] || []).push(h.row);
+    });
+
+    D.registers.forEach(function (reg) {
+      if (!grouped[reg.id]) return;
+      html += renderRegisterPanel(reg, grouped[reg.id], 'wyniki wyszukiwania');
+    });
+
+    elView.innerHTML = html;
+  }
+
+  /* ---------------------------------------------------------------------- źródło */
 
   function renderSource() {
-    if (!state.data) { elSource.innerHTML = ''; return; }
-    var reg = currentRegister();
+    if (!D) { elSource.innerHTML = ''; return; }
+    var d = districtEntry(state.district);
     var bits = [];
-    if (reg && reg.url) {
-      bits.push('źródło: <a href="' + esc(reg.url) + '" target="_blank" rel="noopener">' +
-                esc(reg.file || 'plik') + '</a>');
+    if (d && d.sources && d.sources.length) {
+      bits.push('źródła: ' + d.sources.map(esc).join(', '));
     }
-    if (reg && reg.desc) bits.push(esc(reg.desc));
-    bits.push('wygenerowano ' + esc(state.data.generated.slice(0, 10)));
+    bits.push('wygenerowano ' + esc(D.generated.slice(0, 10)));
     elSource.innerHTML = bits.join(' · ');
   }
 
-  /* ---------- ładowanie ---------- */
+  /* ---------------------------------------------------------------------- rysowanie */
+
+  function draw() {
+    renderYears();
+    renderTabs();
+
+    if (state.q.trim().length >= 2) {
+      renderSearch(state.q.trim());
+      elCount.textContent = '';
+    } else if (state.view === 'month') {
+      renderMonth(state.month);
+      elCount.textContent = fmt(monthTotal(state.month)) + ' ' +
+        plural(monthTotal(state.month), 'pozycja', 'pozycje', 'pozycji');
+    } else {
+      renderOverview();
+      elCount.textContent = fmt(totals.all) + ' ' +
+        plural(totals.all, 'pozycja', 'pozycje', 'pozycji') +
+        ' w ' + D.registers.length + ' rejestrach';
+    }
+
+    renderSource();
+    writeHash();
+  }
+
+  /* ---------------------------------------------------------------------- ładowanie */
 
   function loadYear() {
-    elTable.innerHTML = '<p class="empty">Wczytywanie…</p>';
+    elView.innerHTML = '<p class="empty">Wczytywanie…</p>';
     var url = 'data/' + state.district + '/' + state.year + '.json';
+
     return getJSON(url).then(function (data) {
-      state.data = data;
-      var ids = data.registers.map(function (r) { return r.id; });
-      if (ids.indexOf(state.reg) === -1) state.reg = ids[0] || null;
-      renderTabs();
-      renderTable();
-      renderSource();
-      writeHash();
+      D = data;
+      buildIndex();
+      draw();
     }).catch(function (e) {
-      state.data = null;
+      D = null;
       elTabs.innerHTML = '';
-      elTable.innerHTML = '<p class="error">Nie udało się wczytać danych: ' + esc(e.message) + '</p>';
+      elCount.textContent = '';
+      elView.innerHTML = '<p class="error">Nie udało się wczytać danych: ' +
+        esc(e.message) + '</p>';
     });
   }
 
@@ -541,8 +1039,10 @@ footer p {
     if (!d) return;
     state.district = slug;
     state.year = d.default;
-    state.reg = null;
-    state.data = null;
+    state.view = 'overview';
+    state.month = null;
+    state.q = '';
+    elQ.value = '';
     elDistrict.value = slug;
     renderYears();
     return loadYear();
@@ -550,37 +1050,63 @@ footer p {
 
   function selectYear(year) {
     state.year = Number(year);
-    state.reg = null;
-    renderYears();
+    state.view = 'overview';
+    state.month = null;
+    state.q = '';
+    elQ.value = '';
     return loadYear();
   }
 
-  /* ---------- zdarzenia ---------- */
+  /* ---------------------------------------------------------------------- zdarzenia */
 
-  elDistrict.addEventListener('change', function () {
-    selectDistrict(this.value);
-  });
+  elDistrict.addEventListener('change', function () { selectDistrict(this.value); });
 
-  elYears.addEventListener('click', function (e) {
-    var b = e.target.closest('.year');
-    if (b) selectYear(b.dataset.year);
-  });
+  elYear.addEventListener('change', function () { selectYear(this.value); });
 
   elTabs.addEventListener('click', function (e) {
-    var b = e.target.closest('.tab');
-    if (!b) return;
-    state.reg = b.dataset.reg;
-    renderTabs();
-    renderTable();
-    renderSource();
-    writeHash();
+    var t = e.target.closest('.tab');
+    if (!t) return;
+
+    if (t.dataset.view === 'overview') {
+      state.view = 'overview';
+      state.month = null;
+    } else {
+      state.view = 'month';
+      state.month = parseInt(t.dataset.month, 10);
+    }
+
+    state.q = '';
+    elQ.value = '';
+    draw();
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  });
+
+  elView.addEventListener('click', function (e) {
+    var cell = e.target.closest('td.cell');
+    if (cell) {
+      state.view = 'month';
+      state.month = parseInt(cell.dataset.goto, 10);
+      state.q = '';
+      elQ.value = '';
+      draw();
+      var target = document.getElementById('reg-' + cell.dataset.reg);
+      if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      return;
+    }
+
+    var more = e.target.closest('.more');
+    if (more) {
+      var box = more.previousElementSibling;
+      box.classList.toggle('open');
+      more.textContent = box.classList.contains('open') ? 'mniej' : 'więcej';
+    }
   });
 
   var timer = null;
   elQ.addEventListener('input', function () {
     var v = this.value;
     clearTimeout(timer);
-    timer = setTimeout(function () { state.q = v; renderTable(); }, 120);
+    timer = setTimeout(function () { state.q = v; draw(); }, 160);
   });
 
   window.addEventListener('hashchange', function () {
@@ -592,10 +1118,11 @@ footer p {
     }
   });
 
-  /* ---------- start ---------- */
+  /* ---------------------------------------------------------------------- start */
 
   getJSON('data/index.json').then(function (index) {
     state.index = index;
+
     var h = readHash();
     var withData = index.districts.filter(function (d) { return d.years.length; });
     if (!withData.length) throw new Error('manifest bez danych');
@@ -605,17 +1132,22 @@ footer p {
                 withData[0];
 
     state.district = start.slug;
-    state.year = start.default;
-    state.reg = h.reg || null;
+
+    var wanted = h.year && start.years.filter(function (y) {
+      return String(y.year) === h.year;
+    })[0];
+    state.year = wanted ? Number(h.year) : start.default;
+
+    if (h.month !== null && /^\d{1,2}$/.test(h.month)) {
+      state.view = 'month';
+      state.month = parseInt(h.month, 10);
+    }
 
     renderDistricts();
-    renderYears();
-    return loadYear().then(function () {
-      if (h.year && Number(h.year) !== state.year) return selectYear(h.year);
-    });
+    return loadYear();
   }).catch(function (e) {
-    elTable.innerHTML = '<p class="error">Nie udało się wczytać manifestu: ' +
-                        esc(e.message) + '</p>';
+    elView.innerHTML = '<p class="error">Nie udało się wczytać manifestu: ' +
+      esc(e.message) + '</p>';
   });
 })();
 </script>
