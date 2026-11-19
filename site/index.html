@@ -501,6 +501,20 @@ footer p {
   line-height: 1.6;
 }
 
+footer .credit {
+  margin-top: 12px;
+  padding-top: 12px;
+  border-top: 1px solid var(--line);
+  font-size: 11.5px;
+}
+
+footer .credit a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+footer .credit a:hover { text-decoration: underline; }
+
 /* ---------- wąskie ekrany ---------- */
 
 @media (max-width: 640px) {
@@ -578,6 +592,11 @@ footer p {
       zabudowy, inwestycje celu publicznego). Rejestry są jawne; dane osobowe
       podlegają RODO. Strona ma charakter informacyjny &mdash; wiążące pozostają
       dokumenty źródłowe.
+    </p>
+    <p class="credit">
+      Projekt powstał z użyciem
+      <a href="https://mistral.ai/products/vibe/" target="_blank" rel="noopener">Mistral Vibe</a>
+      &mdash; agenta kodującego Mistral AI.
     </p>
   </div>
 </footer>
