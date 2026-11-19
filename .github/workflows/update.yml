@@ -54,6 +54,9 @@ jobs:
 
       - name: Konfiguracja GitHub Pages
         uses: actions/configure-pages@v5
+        with:
+          # włącza Pages, jeśli jeszcze nie są włączone (wymaga pages: write)
+          enablement: true
 
       - name: Spakowanie katalogu site/
         uses: actions/upload-pages-artifact@v3
