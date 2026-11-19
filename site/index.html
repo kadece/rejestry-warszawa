@@ -1,0 +1,623 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Rejestry i wykazy — Warszawa, 18 dzielnic</title>
+<meta name="description" content="Decyzje o warunkach zabudowy, pozwolenia na budowę i wnioski w 18 dzielnicach Warszawy. 132082 pozycji, roczniki 2016–2026.">
+<style>:root {
+  --navy: #101a2b;
+  --navy-2: #1b2a44;
+  --ink: #16202e;
+  --muted: #5d6b7d;
+  --line: #dde3ea;
+  --bg: #f6f8fa;
+  --card: #fff;
+  --accent: #2f6f4f;
+  --accent-soft: #e8f2ec;
+  --radius: 10px;
+}
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font: 15px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+        "Helvetica Neue", Arial, sans-serif;
+}
+
+/* ---------- nagłówek ---------- */
+
+.hero {
+  background: var(--navy);
+  color: #fff;
+  padding: 28px clamp(16px, 4vw, 48px) 0;
+}
+
+.hero-head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 24px;
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+.hero-text h1 {
+  margin: 0;
+  font-size: clamp(24px, 3.4vw, 34px);
+  font-weight: 650;
+  letter-spacing: -0.015em;
+  line-height: 1.15;
+}
+
+.hero-text .sub {
+  margin: 8px 0 0;
+  color: #a9b8cc;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.logo {
+  height: 46px;
+  width: auto;
+  flex: 0 0 auto;
+  margin-top: 2px;
+}
+
+.stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 40px;
+  max-width: 1280px;
+  margin: 26px auto 0;
+  padding: 18px 0 22px;
+  border-top: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+.stats div { display: flex; flex-direction: column; gap: 2px; }
+
+.stats dt {
+  color: #8fa1b8;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+}
+
+.stats dd {
+  margin: 0;
+  font-size: 19px;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+}
+
+/* ---------- sterowanie ---------- */
+
+.controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  gap: 20px 32px;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 20px clamp(16px, 4vw, 48px);
+}
+
+.field { display: flex; flex-direction: column; gap: 6px; }
+
+.field > span {
+  color: var(--muted);
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+}
+
+select {
+  appearance: none;
+  min-width: 210px;
+  padding: 9px 34px 9px 12px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--card) url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='12' height='8'><path d='M1 1l5 5 5-5' fill='none' stroke='%235d6b7d' stroke-width='1.6'/></svg>") no-repeat right 12px center;
+  color: var(--ink);
+  font: inherit;
+  font-weight: 550;
+  cursor: pointer;
+}
+
+select:focus-visible, input:focus-visible, .year:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 1px;
+}
+
+.years-field { flex: 1 1 320px; }
+
+.years { display: flex; flex-wrap: wrap; gap: 6px; }
+
+.year {
+  padding: 7px 13px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--card);
+  color: var(--muted);
+  font: inherit;
+  font-size: 13px;
+  font-weight: 550;
+  font-variant-numeric: tabular-nums;
+  cursor: pointer;
+  transition: background 0.12s, color 0.12s, border-color 0.12s;
+}
+
+.year:hover { border-color: #b9c4d1; color: var(--ink); }
+
+.year[aria-pressed="true"] {
+  background: var(--navy);
+  border-color: var(--navy);
+  color: #fff;
+}
+
+.year .n {
+  margin-left: 6px;
+  opacity: 0.6;
+  font-size: 11px;
+  font-weight: 500;
+}
+
+/* ---------- treść ---------- */
+
+main {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 clamp(16px, 4vw, 48px) 40px;
+}
+
+.tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  border-bottom: 1px solid var(--line);
+  margin-bottom: 16px;
+}
+
+.tab {
+  padding: 10px 14px;
+  border: 0;
+  border-bottom: 2px solid transparent;
+  background: none;
+  color: var(--muted);
+  font: inherit;
+  font-size: 14px;
+  font-weight: 550;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.tab:hover { color: var(--ink); }
+
+.tab[aria-selected="true"] {
+  color: var(--ink);
+  border-bottom-color: var(--accent);
+}
+
+.tab .n {
+  margin-left: 7px;
+  padding: 1px 7px;
+  border-radius: 999px;
+  background: var(--accent-soft);
+  color: var(--accent);
+  font-size: 11px;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+}
+
+.toolbar {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 12px;
+}
+
+#q {
+  flex: 1 1 auto;
+  max-width: 420px;
+  padding: 9px 12px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--card);
+  font: inherit;
+}
+
+.count {
+  color: var(--muted);
+  font-size: 13px;
+  font-variant-numeric: tabular-nums;
+}
+
+.table-wrap {
+  overflow-x: auto;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--card);
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13.5px;
+}
+
+thead th {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  padding: 10px 12px;
+  border-bottom: 1px solid var(--line);
+  background: #f0f3f7;
+  color: var(--muted);
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  text-align: left;
+  white-space: nowrap;
+}
+
+tbody td {
+  padding: 9px 12px;
+  border-bottom: 1px solid #eef1f5;
+  vertical-align: top;
+}
+
+tbody tr:last-child td { border-bottom: 0; }
+tbody tr:hover { background: #fafbfc; }
+
+td.nr { font-variant-numeric: tabular-nums; white-space: nowrap; }
+td.wide { min-width: 260px; }
+td.mid { min-width: 150px; }
+
+.empty, .error {
+  margin: 0;
+  padding: 40px 16px;
+  color: var(--muted);
+  text-align: center;
+}
+
+.error { color: #a4342a; }
+
+.source {
+  margin: 14px 0 0;
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.source a { color: var(--accent); }
+
+footer {
+  border-top: 1px solid var(--line);
+  padding: 20px clamp(16px, 4vw, 48px) 32px;
+}
+
+footer p {
+  max-width: 1280px;
+  margin: 0 auto;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.6;
+}
+
+@media (max-width: 640px) {
+  .logo { height: 34px; }
+  .stats { gap: 8px 24px; }
+  .stats dd { font-size: 16px; }
+  select { min-width: 0; width: 100%; }
+  .field { flex: 1 1 100%; }
+}
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <div class="hero-head">
+    <div class="hero-text">
+      <h1>Rejestry i wykazy</h1>
+      <p class="sub">Decyzje, wnioski i zgłoszenia budowlane<br>w 18 dzielnicach Warszawy</p>
+    </div>
+    <img class="logo" src="data:image/png;base64,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" alt="Biuro Zielonego Ursusa">
+  </div>
+  <dl class="stats">
+    <div><dt>pozycji</dt><dd>132082</dd></div>
+    <div><dt>dzielnic</dt><dd>18</dd></div>
+    <div><dt>roczniki</dt><dd>2016–2026</dd></div>
+    <div><dt>dane z</dt><dd>2026-11-19</dd></div>
+  </dl>
+</header>
+
+<nav class="controls">
+  <label class="field">
+    <span>Dzielnica</span>
+    <select id="district"></select>
+  </label>
+  <div class="field years-field">
+    <span>Rocznik</span>
+    <div id="years" class="years"></div>
+  </div>
+</nav>
+
+<main>
+  <div id="tabs" class="tabs"></div>
+
+  <div class="toolbar">
+    <input id="q" type="search" placeholder="Szukaj w tabeli — adres, inwestor, numer…" autocomplete="off">
+    <span id="count" class="count"></span>
+  </div>
+
+  <div id="table" class="table-wrap">
+    <p class="empty">Wczytywanie…</p>
+  </div>
+
+  <p id="source" class="source"></p>
+</main>
+
+<footer>
+  <p>Dane: rejestr GUNB (pozwolenia na budowę) oraz strony dzielnic (warunki
+  zabudowy, inwestycje celu publicznego). Rejestry są jawne; dane osobowe
+  podlegają RODO.</p>
+</footer>
+
+<script>/* Rejestry i wykazy — Warszawa. Bez zależności, dane ładowane na żądanie. */
+(function () {
+  'use strict';
+
+  var $ = function (id) { return document.getElementById(id); };
+  var state = { index: null, district: null, year: null, reg: null, data: null, q: '' };
+
+  var elDistrict = $('district');
+  var elYears = $('years');
+  var elTabs = $('tabs');
+  var elTable = $('table');
+  var elCount = $('count');
+  var elSource = $('source');
+  var elQ = $('q');
+
+  function esc(s) {
+    return String(s == null ? '' : s)
+      .replace(/&/g, '&amp;').replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  }
+
+  function fmt(n) { return String(n).replace(/\B(?=(\d{3})+(?!\d))/g, ' '); }
+
+  function getJSON(url) {
+    return fetch(url, { cache: 'no-cache' }).then(function (r) {
+      if (!r.ok) throw new Error(url + ' → HTTP ' + r.status);
+      return r.json();
+    });
+  }
+
+  /* ---------- adres w pasku ---------- */
+
+  function readHash() {
+    var p = (location.hash || '').replace(/^#\/?/, '').split('/');
+    return { district: p[0] || null, year: p[1] || null, reg: p[2] || null };
+  }
+
+  function writeHash() {
+    var h = '#/' + state.district + '/' + state.year + '/' + (state.reg || '');
+    if (location.hash !== h) history.replaceState(null, '', h);
+  }
+
+  /* ---------- dzielnice ---------- */
+
+  function districtEntry(slug) {
+    return state.index.districts.filter(function (d) { return d.slug === slug; })[0];
+  }
+
+  function renderDistricts() {
+    var list = state.index.districts.slice().sort(function (a, b) {
+      return a.name.localeCompare(b.name, 'pl');
+    });
+    elDistrict.innerHTML = list.map(function (d) {
+      return '<option value="' + esc(d.slug) + '">' + esc(d.name) +
+             ' — ' + fmt(d.total) + '</option>';
+    }).join('');
+    elDistrict.value = state.district;
+  }
+
+  /* ---------- roczniki ---------- */
+
+  function renderYears() {
+    var d = districtEntry(state.district);
+    if (!d || !d.years.length) {
+      elYears.innerHTML = '<span class="count">brak danych</span>';
+      return;
+    }
+    elYears.innerHTML = d.years.map(function (y) {
+      return '<button class="year" type="button" data-year="' + y.year + '"' +
+             ' aria-pressed="' + (y.year === state.year) + '">' + y.year +
+             '<span class="n">' + fmt(y.total) + '</span></button>';
+    }).join('');
+  }
+
+  /* ---------- rejestry ---------- */
+
+  function renderTabs() {
+    if (!state.data) { elTabs.innerHTML = ''; return; }
+    elTabs.innerHTML = state.data.registers.map(function (r) {
+      return '<button class="tab" type="button" role="tab" data-reg="' + esc(r.id) + '"' +
+             ' aria-selected="' + (r.id === state.reg) + '">' + esc(r.short) +
+             '<span class="n">' + fmt(r.rows.length) + '</span></button>';
+    }).join('');
+  }
+
+  function currentRegister() {
+    if (!state.data) return null;
+    return state.data.registers.filter(function (r) { return r.id === state.reg; })[0] ||
+           state.data.registers[0];
+  }
+
+  /* ---------- tabela ---------- */
+
+  function renderTable() {
+    var reg = currentRegister();
+    if (!reg) {
+      elTable.innerHTML = '<p class="empty">Brak rejestrów dla tego rocznika.</p>';
+      elCount.textContent = '';
+      return;
+    }
+
+    var q = state.q.trim().toLowerCase();
+    var rows = reg.rows;
+    if (q) {
+      rows = rows.filter(function (row) {
+        for (var k in row.c) {
+          if (String(row.c[k]).toLowerCase().indexOf(q) !== -1) return true;
+        }
+        return String(row.d || '').indexOf(q) !== -1;
+      });
+    }
+
+    elCount.textContent = q
+      ? fmt(rows.length) + ' z ' + fmt(reg.rows.length) + ' pozycji'
+      : fmt(reg.rows.length) + ' pozycji';
+
+    if (!rows.length) {
+      elTable.innerHTML = '<p class="empty">Nic nie pasuje do „' + esc(state.q) + '”.</p>';
+      return;
+    }
+
+    var head = '<tr><th>Data</th>' + reg.cols.map(function (c) {
+      return '<th>' + esc(c.l) + '</th>';
+    }).join('') + '</tr>';
+
+    var body = rows.map(function (row) {
+      var tds = reg.cols.map(function (c) {
+        return '<td class="' + esc(c.w || '') + '">' + esc(row.c[c.k]) + '</td>';
+      }).join('');
+      return '<tr><td class="nr">' + esc(row.d || '—') + '</td>' + tds + '</tr>';
+    }).join('');
+
+    elTable.innerHTML = '<table><thead>' + head + '</thead><tbody>' + body + '</tbody></table>';
+  }
+
+  function renderSource() {
+    if (!state.data) { elSource.innerHTML = ''; return; }
+    var reg = currentRegister();
+    var bits = [];
+    if (reg && reg.url) {
+      bits.push('źródło: <a href="' + esc(reg.url) + '" target="_blank" rel="noopener">' +
+                esc(reg.file || 'plik') + '</a>');
+    }
+    if (reg && reg.desc) bits.push(esc(reg.desc));
+    bits.push('wygenerowano ' + esc(state.data.generated.slice(0, 10)));
+    elSource.innerHTML = bits.join(' · ');
+  }
+
+  /* ---------- ładowanie ---------- */
+
+  function loadYear() {
+    elTable.innerHTML = '<p class="empty">Wczytywanie…</p>';
+    var url = 'data/' + state.district + '/' + state.year + '.json';
+    return getJSON(url).then(function (data) {
+      state.data = data;
+      var ids = data.registers.map(function (r) { return r.id; });
+      if (ids.indexOf(state.reg) === -1) state.reg = ids[0] || null;
+      renderTabs();
+      renderTable();
+      renderSource();
+      writeHash();
+    }).catch(function (e) {
+      state.data = null;
+      elTabs.innerHTML = '';
+      elTable.innerHTML = '<p class="error">Nie udało się wczytać danych: ' + esc(e.message) + '</p>';
+    });
+  }
+
+  function selectDistrict(slug) {
+    var d = districtEntry(slug);
+    if (!d) return;
+    state.district = slug;
+    state.year = d.default;
+    state.reg = null;
+    state.data = null;
+    elDistrict.value = slug;
+    renderYears();
+    return loadYear();
+  }
+
+  function selectYear(year) {
+    state.year = Number(year);
+    state.reg = null;
+    renderYears();
+    return loadYear();
+  }
+
+  /* ---------- zdarzenia ---------- */
+
+  elDistrict.addEventListener('change', function () {
+    selectDistrict(this.value);
+  });
+
+  elYears.addEventListener('click', function (e) {
+    var b = e.target.closest('.year');
+    if (b) selectYear(b.dataset.year);
+  });
+
+  elTabs.addEventListener('click', function (e) {
+    var b = e.target.closest('.tab');
+    if (!b) return;
+    state.reg = b.dataset.reg;
+    renderTabs();
+    renderTable();
+    renderSource();
+    writeHash();
+  });
+
+  var timer = null;
+  elQ.addEventListener('input', function () {
+    var v = this.value;
+    clearTimeout(timer);
+    timer = setTimeout(function () { state.q = v; renderTable(); }, 120);
+  });
+
+  window.addEventListener('hashchange', function () {
+    var h = readHash();
+    if (h.district && h.district !== state.district) {
+      selectDistrict(h.district).then(function () {
+        if (h.year) selectYear(h.year);
+      });
+    }
+  });
+
+  /* ---------- start ---------- */
+
+  getJSON('data/index.json').then(function (index) {
+    state.index = index;
+    var h = readHash();
+    var withData = index.districts.filter(function (d) { return d.years.length; });
+    if (!withData.length) throw new Error('manifest bez danych');
+
+    var start = withData.filter(function (d) { return d.slug === h.district; })[0] ||
+                withData.filter(function (d) { return d.slug === 'ursus'; })[0] ||
+                withData[0];
+
+    state.district = start.slug;
+    state.year = start.default;
+    state.reg = h.reg || null;
+
+    renderDistricts();
+    renderYears();
+    return loadYear().then(function () {
+      if (h.year && Number(h.year) !== state.year) return selectYear(h.year);
+    });
+  }).catch(function (e) {
+    elTable.innerHTML = '<p class="error">Nie udało się wczytać manifestu: ' +
+                        esc(e.message) + '</p>';
+  });
+})();
+</script>
+</body>
+</html>
