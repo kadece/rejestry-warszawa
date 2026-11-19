@@ -1,0 +1,5701 @@
+{
+"district": "ursus",
+"year": 2023,
+"generated": "2026-11-19T23:08:52+01:00",
+"total": 563,
+"registers": [
+{
+"id": "dec_wz",
+"name": "Decyzje o warunkach zabudowy",
+"short": "Decyzje WZ",
+"desc": "Decyzje o ustaleniu warunków zabudowy i zagospodarowania terenu.",
+"file": "rejestr_dec_wz_2023.xlsx",
+"url": "https://cdn.um.warszawa.pl/documents/49065/95521768/rejestr_dec_wz_2023.xlsx/2c034133-1b1e-0a1b-7a57-c6d95bda8969?t=1704451373179",
+"cols": [
+{
+"k": "nr",
+"l": "Nr decyzji",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Rodzaj inwestycji",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Wnioskodawca",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Nieruchomość",
+"w": "mid"
+},
+{
+"k": "adr",
+"l": "Adres",
+"w": ""
+},
+{
+"k": "roz",
+"l": "Rozstrzygnięcie",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2022-11-22",
+"c": {
+"nr": "101/U/2023 z dnia 22.11.2022",
+"inw": "zmiana decyzji 59/U/2023 o WZ - budowa 2 budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. 5/6 (kubatura), 5/7 (komunikacja) obręb 2-11-01",
+"adr": "ul. Piastowska",
+"roz": "dec. zmieniająca"
+}
+},
+{
+"d": "2022-11-23",
+"c": {
+"nr": "102/U/2023 z dnia 23.11.2022",
+"inw": "budowa budynku mieszkalnego wielorodzinnego z lokalami usługowymi, garażem w części podziemnej i drogą wewnętrzną",
+"wn": "Amelii Investments sp. z o.o.",
+"nier": "dz. ew. nr 147 (inwestycja kubaturowa), oraz część dz. ew. nr 132/7 (obsługa komunikacyjna) z obrębu 2-09-09",
+"adr": "ul. K. Taylora",
+"roz": "dec. odmowna"
+}
+},
+{
+"d": "2023-01-10",
+"c": {
+"nr": "1/U/2023 z dnia 10.01.2023",
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym, zbiornikiem retencyjnym, miejscami postojowymi na terenie i zagospodarowaniem terenu",
+"wn": "Napollo 47 Sp. z o. o.",
+"nier": "dz. ew. 58/1 z obrębu 2-11-16",
+"adr": "ul. Badylarska",
+"roz": "ODMOWA - (nie spełnienie art. 61 ust. 1 i 3)"
+}
+},
+{
+"d": "2023-01-12",
+"c": {
+"nr": "2/U/2023 z dnia 12.01.2023",
+"inw": "budowa budynku usługowo - mieszkalnego",
+"wn": "osoba fizyczna",
+"nier": "dz. 63 obr. 2-11-05",
+"adr": "ul. Prawnicza",
+"roz": "ODMOWA - (nie spełnienie art. 61 ust. 1 i 3)"
+}
+},
+{
+"d": "2023-01-13",
+"c": {
+"nr": "3/U/2023 z dnia 13.01.2023",
+"inw": "budowa budynku mieszkaniowo-handlowo-usługowego z zielonymi dachami i parkingiem",
+"wn": "Trei Real Estate Poland Sp. z o.o.",
+"nier": "dz. ew. 38, 13/1, 13/2, 90 z obrębu 2-09-05",
+"adr": "ul. Śmigielska",
+"roz": "Umarzam - uchwalony plan obszaru Gołąbki"
+}
+},
+{
+"d": "2023-01-16",
+"c": {
+"nr": "4/U/2023 z dnia 16.01.2023",
+"inw": "budowa budynku stacji paliw, myjni ręcznej i podziemnego zbiornika gazu LPG wraz z niezbędną infrastrukturą techniczną",
+"wn": "Polski Koncern Naftowy Orlen S.A.",
+"nier": "dz. ew. 2/5, 2/6, 2/7 obr. 2-09-06",
+"adr": "ul. Orląt Lwowskich 69",
+"roz": "ustalenie warunków zabudowy"
+}
+},
+{
+"d": "2023-01-16",
+"c": {
+"nr": "5/U2023 z dnia 16.01.2023",
+"inw": "budowa budynku mieszkalnego jednorodzinnego",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. 114 z obrębu 2-09-03",
+"adr": "ul. Przemysława II",
+"roz": "Umarzam - uchwalony plan obszaru Gołąbki"
+}
+},
+{
+"d": "2023-01-17",
+"c": {
+"nr": "6/U/2023 z dnia 17.01.2023",
+"inw": "rozbudowa, nadbudowa, przebudowa budynku mieszkalnego jednorodzinnego z garażem w bryle budynku w zabudowie bliźniaczej",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. 180 z obrębu 2-09-01",
+"adr": "ul. Bolesława Krzywoustego 42",
+"roz": "Umarzam - uchwalony plan obszaru Gołąbki"
+}
+},
+{
+"d": "2023-01-17",
+"c": {
+"nr": "7/U/2023 z dnia 17.01.2023",
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym wraz z infrastrukturą techniczną",
+"wn": "Anteris Sp. z o. o.",
+"nier": "ew. 90/18z obrębu 2-09-04",
+"adr": "ul. Henryka Brodatego",
+"roz": "Umarzam - uchwalony plan obszaru Gołąbki"
+}
+},
+{
+"d": "2023-01-17",
+"c": {
+"nr": "8/U/2023 z dnia 17.01.2023",
+"inw": "budowa budynku mieszkalnego jednorodzinnego",
+"wn": "osoba fizyczna",
+"nier": "dz. ew 83/1 z obrębu 2-09-03",
+"adr": "ul. Henryka Pobożnego 9",
+"roz": "umarzam - uchwalony plan obszaru Gołąbki"
+}
+},
+{
+"d": "2023-01-17",
+"c": {
+"nr": "9/U/2023 z dnia 17.01.2023",
+"inw": "budowa zespołu budynków mieszkalnych jednorodzinnych dwulokalowych w zabudowie szeregowej",
+"wn": "Vivere Sp. z o. o",
+"nier": "dz. ew. 151/1 i 151/2 z obrębu 2-09-01",
+"adr": "ul. Henryka Pobożnego 9",
+"roz": "Umarzam - uchwalony plan obszaru Gołąbki"
+}
+},
+{
+"d": "2023-01-20",
+"c": {
+"nr": "10/U/2023 z dnia 20.01.2023",
+"inw": "budowa budynku mieszkalnego wielorodzinnego (do 2 sekcji) z garażem podziemnym, częścią usługowo-handlową, naziemnymi miejscami postojowymi oraz stacją transformatorową",
+"wn": "Greenfields RE Sp. z o. o.",
+"nier": "dz. ew. 36/10, 36/14 z obrębu 2-11-16",
+"adr": "ul. Dzieci Warszawy 7",
+"roz": "ustalenie warunków zabudowy"
+}
+},
+{
+"d": "2023-01-23",
+"c": {
+"nr": "11/U/2023 z dnia 23.01.2023",
+"inw": "zmiana sposobu użytkowania budynku mieszkalnego z warsztatem elektromechanicznym na budynek mieszkalny wielorodzinny o 3-ech lokalach",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. nr 37 z obrębu 2-09-02",
+"adr": "ul. Piechoty Wybranieckiej 7",
+"roz": "dec. umarzająca"
+}
+},
+{
+"d": "2023-01-23",
+"c": {
+"nr": "12/U/2023 z dnia 23.01.2023",
+"inw": "budowa budynku mieszkalnego wielorodzinnego o trzech kubaturach nadziemnych z garażem podziemnym, częścią usługową i stacją transformatorową",
+"wn": "Robyg Young City 3 Sp. z o.o.",
+"nier": "dz. ew. 42 z obrębu 2-11-15",
+"adr": "ul. Ryżowa 68",
+"roz": "dec. Odmowna - art. 61 ust.1"
+}
+},
+{
+"d": "2023-01-26",
+"c": {
+"nr": "14/U/2023 z dnia 26.01.2023",
+"inw": "zmiana sposobu użytkowania lokalu usługowego na mieszkalny z przebudową i połączeniem z lokalem mieszkalnym nr 1 w istniejącym budynku mieszkalnym",
+"wn": "Miasto Stołeczne Warszawy - Dielnica Ursus",
+"nier": "dz. ew. 69/3 z obrębu 2-11-01",
+"adr": "ul. Regulska 44",
+"roz": "dec. Ustalająca"
+}
+},
+{
+"d": "2023-01-26",
+"c": {
+"nr": "15/U/2023 z dnia 26.01.2023",
+"inw": "przebudowa, rozbudowa i nadbudowa budynku mieszkalnego jednorodzinnego w zabudowie bliźniaczej",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. 30 z obrębu 2-09-04",
+"adr": "ul. Królowej Bony 33",
+"roz": "dec. umarzająca"
+}
+},
+{
+"d": "2023-01-30",
+"c": {
+"nr": "16/U/2023 z dnia 30.01.2023",
+"inw": "budowa dwóch budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej wraz z dwoma zbiornikami na nieczystości ciekłe",
+"wn": "osoba fizyczna",
+"nier": "w. 19/6 z obrębu 2-11-01",
+"adr": "ul. Z. Markerta",
+"roz": "dec. Ustalająca"
+}
+},
+{
+"d": "2023-01-30",
+"c": {
+"nr": "17/U/2023 z dnia 30.01.2023",
+"inw": "budowa 2 budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej z garażami w bryle budynków",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. nr 143/1 (inwestycja kubaturowa), 143/2 (obsługa komunikacyjna) z obrębu 2-11-08",
+"adr": "ul. Rydzyńska 9",
+"roz": "dec. umarzająca"
+}
+},
+{
+"d": "2023-02-01",
+"c": {
+"nr": "18/U/2023 z dnia 01.02.2023",
+"inw": "budowa budynku mieszkalnego jednorodzinnego",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. 111 obr. 2-09-03",
+"adr": "ul. Przemysława II",
+"roz": "dec. umarzam"
+}
+},
+{
+"d": "2023-02-02",
+"c": {
+"nr": "19/U/2023 z dnia 02.02.2023",
+"inw": "budowa budynku mieszkalnego jednorodzinnego",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. 112 obr. 2-09-03",
+"adr": "ul. Przemysława II",
+"roz": "dec. umarzam"
+}
+},
+{
+"d": "2023-02-02",
+"c": {
+"nr": "20/U/2023 z dnia 02.02.2023",
+"inw": "poszerzenie balkonu wraz z dobudową schodów w budynku mieszkalnym jednorodzinnym",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. 260 z obr. 2-11-10",
+"adr": "ul. Kuźnicy Kołłątajowskiej 37",
+"roz": "dec. ustalająca"
+}
+},
+{
+"d": "2023-02-03",
+"c": {
+"nr": "21/U/2023 z dnia 03.02.2023",
+"inw": "budowa budynku mieszkalnego jednorodzinnego",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. 33/37 obr. 2-09-03",
+"adr": "ul. W. Kadłubka",
+"roz": "dec. umarzam"
+}
+},
+{
+"d": "2023-02-14",
+"c": {
+"nr": "22/U/2023 z dnia 14.02.2023",
+"inw": "zmiana sposobu użytkowania poddasza nieużytkowego na mieszkalne w budynku mieszkalnym jednorodzinnym",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. 177 z obrębu 2-09-01",
+"adr": "ul. Bolesława Krzywoustego 39",
+"roz": "dec. umarzająca"
+}
+},
+{
+"d": "2023-02-15",
+"c": {
+"nr": "23/U/2023 z dnia 15.02.2023",
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolnostojącego",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. 33/42 z obrębu 2-09-03",
+"adr": "ul. W. Kadłubka",
+"roz": "dec. umarzająca"
+}
+},
+{
+"d": "2023-02-15",
+"c": {
+"nr": "24/U/2023 z dnia 15.02.2023",
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolnostojącego",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. 33/39 z obrębu 2-09-03",
+"adr": "ul. Przemysława II",
+"roz": "dec. umarzająca"
+}
+},
+{
+"d": "2023-02-16",
+"c": {
+"nr": "25/U/2023 z dnia 16.02.2023",
+"inw": "rozbudowa istniejącego blaszanego budynku magazynowego, budowe bud. magazynowego z cz. biurową, parkingu naziemnego, szamba szczelnego, zbiornika retencyjnego, studni",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. 35/8 i 35/3 obręb 2-11-16",
+"adr": "Al. Jerozolimskie/ Dzieci Warszawy",
+"roz": "dec. umarzająca"
+}
+},
+{
+"d": "2023-02-17",
+"c": {
+"nr": "26/U/2023 z dnia 17.02.2023",
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym",
+"wn": "osoba fizyczna",
+"nier": "dz. 182 obr. 2-11-11",
+"adr": "al. Bzów 7",
+"roz": "dec. ustalająca"
+}
+},
+{
+"d": "2023-03-06",
+"c": {
+"nr": "27/U/2023 z dnia 06.03.2023",
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolnostojącego i podziemnego szczelnego zbiornika retencyjnego na wodę deszczową o pojemności do 10 m3",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. 95, 96 z obr. 2-11-03",
+"adr": "ul. J. Michałowicza 34, 45",
+"roz": "dec.ustalająca"
+}
+},
+{
+"d": "2023-03-06",
+"c": {
+"nr": "28/U/2023 06.03.2023 r",
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym",
+"wn": "Robyg Young City 3 Sp. z o.o",
+"nier": "dz.ew. 54/2, 54/4, 54/5, 55/2, 55/4 obręb 2-11-15",
+"adr": "",
+"roz": "dec. Odmowna - art. 61 ust.1"
+}
+},
+{
+"d": "2023-03-14",
+"c": {
+"nr": "29/U/2023 z dnia 14.03.2023",
+"inw": "budowa 2 budynków garażowych",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. 75 z obrębu 2-11-01",
+"adr": "ul. Wysoczyńska 12,12A,12B",
+"roz": "odmowa"
+}
+},
+{
+"d": "2023-03-21",
+"c": {
+"nr": "30/U/2023 z dnia 21.03.2023",
+"inw": "budowa zespołu 2 budynków mieszkalnych wielorodzinnych z garażem podziemnym i niezbędnymi elementami zagospodarowania terenu wraz z infrastrukturą (w zakresie dojść, dojazdów, skrzyń rozsączających, placu zabaw dla dzieci i naziemnych miejsc parkingowych)",
+"wn": "TM Investment Holding sp. z o.o.",
+"nier": "dz. ew. 53 (część), 54/3, 55/3 z obr. 2-11-15",
+"adr": "rejon ul. Ryżowej",
+"roz": "dec. odmowna"
+}
+},
+{
+"d": "2023-03-22",
+"c": {
+"nr": "31/U/2023 z dnia 22.03.2023",
+"inw": "zmiana sposobu użytkowania budynku magazynowo usługowego (stolarni) na budynek mieszkalny jednorodzinny",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. 2 i 3/4 z obrębu 2-11-10",
+"adr": "ul. S. Bodycha 110",
+"roz": "dec.ustalająca"
+}
+},
+{
+"d": "2023-03-22",
+"c": {
+"nr": "32/U/2023 z dnia 22.03.2023",
+"inw": "budowa budynku usługowego (hotelowego) z garażem podziemnym oraz parkingiem naziemnym",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. 34/2, 34/4, 34/5 z obrębu 2-11-16",
+"adr": "przy Al. Jerozolimskich",
+"roz": "dec. umarzająca"
+}
+},
+{
+"d": "2023-03-22",
+"c": {
+"nr": "33/U/2023 z dnia 22.03.2023",
+"inw": "budowa budynku usługowego (hotelowego) z garażem podziemnym oraz parkingiem naziemnym",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. 34/2, 34/4, 34/5 z obrębu 2-11-16",
+"adr": "przy Al. Jerozolimskich",
+"roz": "dec. umarzająca"
+}
+},
+{
+"d": "2023-03-24",
+"c": {
+"nr": "34/U/2023 z dnia 24.03.2023",
+"inw": "budowa zespołu 4 budynków mieszkalnych wielorodzinnych z 2 garażami podziemnymi",
+"wn": "Portyk Architekci sp. z o.o.",
+"nier": "dz. ew. 110, 111, 116, 117, 118 z obr. 2-11-04",
+"adr": "ul. Prawniczej, oraz ul. M. Spisaka",
+"roz": "dec. odmowna"
+}
+},
+{
+"d": "2023-03-30",
+"c": {
+"nr": "35/U/2023 z dnia 30.03.2023",
+"inw": "przeniesienie dec. 16/U/2023 budowa 2 budynków mieszkalnych w zabudowie bliźniaczej",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. 19/6 obr. 2-11-01",
+"adr": "ul. Z. Mzrkerta",
+"roz": "dec. Przenosząca"
+}
+},
+{
+"d": "2023-03-30",
+"c": {
+"nr": "36/U/2023 z dnia 30.03.2023",
+"inw": "przebudowa i rozbudowa budynku handlowo-usługowego- salon i serwis samochodowy marek Jaguar-LandRover z budową wolnostojącej, kontenerowej stacji transformatorowej",
+"wn": "Piotr Mozdyniewicz (M&M Cars Piotr Mozdyniewicz)",
+"nier": "dz. ew. 69/1 oraz 68/3 z obrębu 2-11-15",
+"adr": "ul. Ryżowa",
+"roz": "dec. Ustalająca"
+}
+},
+{
+"d": "2023-03-31",
+"c": {
+"nr": "37/U/2023 z dnia 31.03.2023",
+"inw": "rozbudowa budynku gospodarczego (do celów legalizacyjnych)",
+"wn": "osoba fizyczna",
+"nier": "część działki ew. nr 51/2 oraz 52 z obrębu 2-11-10",
+"adr": "ul. S. Bodycha 102A",
+"roz": "dec. Umarzjąca"
+}
+},
+{
+"d": "2023-03-31",
+"c": {
+"nr": "38/U/2023 z dnia 31.03.2023",
+"inw": "budowie budynku mieszkalnego jednorodzinnego oraz budowie studni i szamba szczelnego",
+"wn": "Puzankou Maksim",
+"nier": "80/12 z obrębu 2-11-10",
+"adr": "ul. S. Bodycha",
+"roz": "dec. Ustalająca"
+}
+},
+{
+"d": "2023-04-05",
+"c": {
+"nr": "39/U/2023 z dnia 05.04.2023",
+"inw": "zmiana sposobu użytkowaniaczęści budynku mieszkalnego jednorodzinnego na punkt przedszkolny",
+"wn": "osob fizyczna",
+"nier": "dz. ew. 59/1 obr. 2-11-04",
+"adr": "ul. Prawnicza 50",
+"roz": "dec. umarzająca"
+}
+},
+{
+"d": "2023-04-11",
+"c": {
+"nr": "40/U/2023 z dnia 11.04.2023",
+"inw": "budowa budynku usługowego (salonu samochodowego z serwisem, myjnią, stacją kontroli pojazdów oraz zapleczem biurowym, socjalnym i gastronomicznym) z garażem podziemnym oraz dwóch parkingów naziemnych",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. 77/3 z obrębu 2-11-16",
+"adr": "Al. Jerozolimskie 235",
+"roz": "dec. przenosząca"
+}
+},
+{
+"d": "2023-04-11",
+"c": {
+"nr": "41/U/2023 z dnia 11.04.2023",
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym i zbiornikiem retencyjnym",
+"wn": "Napollo Residential sp. z o.o.",
+"nier": "dz. ew. 151/1, 151/2 z obrębu 2-09-01",
+"adr": "ul. Henryka II Pobożnego",
+"roz": "dec. umarzająca"
+}
+},
+{
+"d": "2023-04-26",
+"c": {
+"nr": "42/U/2023 z dnia 26.04.2023",
+"inw": "budowa budynku garażowo-gospodarczego",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. 34 z obr. 2-09-07",
+"adr": "ul. M. Falskiego 23",
+"roz": "dec. ustalająca"
+}
+},
+{
+"d": "2023-04-28",
+"c": {
+"nr": "43/U/2023 z dnia 28.04.2023",
+"inw": "zmiana sposobu użytkowania i przebudowie lokalu usługowego na potrzeby pomieszczeń szkoły",
+"wn": "osoba fizyczna",
+"nier": "z. ew. 172/1, 172/2, 91/7, 91/9, 91/11, 91/5 i 91/12 z obrębu 2-09-07",
+"adr": "ul. S. Wojciechowskiego 37",
+"roz": "dec. ustalająca"
+}
+},
+{
+"d": "2023-04-28",
+"c": {
+"nr": "44/U/2023 z dnia 28.04.2023",
+"inw": "budowa budynków hotelowych (max. 3) z parkingiem naziemnym oraz stacją transformatorową",
+"wn": "I.C.C. Retail Sp. z o.o.",
+"nier": "dz. ew. 30/25, 30/26 i 30/28 z obrębu 2-11-15",
+"adr": "ul. A. Prystora",
+"roz": "dec. ustalająca"
+}
+},
+{
+"d": "2023-05-04",
+"c": {
+"nr": "45/U/2023 z dnia 04.05.2023",
+"inw": "budowa 4 budynków handlowych i 2 budynków hotelowych z parkingiem naziemnym oraz stacją transformatorową",
+"wn": "I.C.C. Retail Sp. z o.o.",
+"nier": "dz. ew. 30/25, 30/26 i 30/28 z obrębu 2-11-15",
+"adr": "ul. A. Prystora",
+"roz": "dec. Odmawiająca"
+}
+},
+{
+"d": "2023-05-08",
+"c": {
+"nr": "46/U/2023 z dnia 08.05.2023",
+"inw": "budowa budynku usługowego - zbiorowego zamieszkania (miejsca noclegowe pracownicze)",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. 43 z obrębu 2-11-10",
+"adr": "ul. Noworegulska",
+"roz": "dec. Odmawiająca"
+}
+},
+{
+"d": "2023-05-09",
+"c": {
+"nr": "47/U/2023 z dnia 09.05.2023",
+"inw": "wznowienie - budowa 24 szt. budynków mieszkalnych jednorodzinnych w zabudowie szeregowej (4 szeregi) wraz z sieciami infrastruktury technicznej",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. 45/1, 45/2, 45/3, 46, 47, 63 z obrębu 2-09-01",
+"adr": "przy ul. Stanisława Leszczyńskiego / Henryka Brodatego",
+"roz": "dec. umarzająca"
+}
+},
+{
+"d": "2023-05-11",
+"c": {
+"nr": "48/U/2023 z dnia 11.05.2023",
+"inw": "budowa budynku mieszkalnego wielorodzinnego o trzech sekcjach z usługami i garażem podziemnym, kontenerowej stacji transformatorowej oraz zbiornika retencyjnego",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. 14 obr. 2-11-09",
+"adr": "ul.S. Bodycha",
+"roz": "dec. Ustalająca"
+}
+},
+{
+"d": "2023-05-29",
+"c": {
+"nr": "49/U/2023 z dnia 29.05.2023",
+"inw": "nadbudowa budynku mieszkalnego jednorodzinnego",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. 105/1 z obr. 2-11-03 przy ul. II Armii W.P. 42A",
+"adr": "ul. II Armii W.P.",
+"roz": "dec. ustalająca"
+}
+},
+{
+"d": "2023-06-02",
+"c": {
+"nr": "50/U/2023 z dnia 02.06.2023",
+"inw": "budowa zespołu budynków mieszkalnych wielorodzinnych z usługami w parterze z garażami podziemnymi, zagospodarowaniem terenu oraz niezbędną infrastrukturą",
+"wn": "Akademia Development Sp. z o. o.",
+"nier": "części działek o nr ew. 166/5 i 166/6 z obrębu 2-11-08",
+"adr": "ul. Dzieci Warszawy",
+"roz": "dec. Odmawiająca"
+}
+},
+{
+"d": "2023-06-12",
+"c": {
+"nr": "51/U/2023 z dnia 12.06.2023",
+"inw": "budowa budynku mieszkalnego wielorodzinnego ze zbiornikiem retencyjnym, garażem podziemnym i w parterze budynku",
+"wn": "Robotniczej Spółdzielni Mieszkaniowej „Ursus”",
+"nier": "ew. 100/15 z obrębu 2-09-06",
+"adr": "ul. Warszawska",
+"roz": "dec.ustalająca"
+}
+},
+{
+"d": "2023-06-13",
+"c": {
+"nr": "52/U/2023 z dnia 13.06.2023",
+"inw": "budowa budynku usługowego (hotelu) z garażem podziemnym oraz parkingiem naziemnym",
+"wn": "osoba fizyczna",
+"nier": "działki ew. 34/2, 34/4, 34/5 z obrębu 2-11-16",
+"adr": "Al. Jerozolimskie",
+"roz": "dec. umarzająca"
+}
+},
+{
+"d": "2023-06-16",
+"c": {
+"nr": "53/U/2023 z dnia 16.06.2023",
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym oraz parkingiem naziemnym (do 20 miejsc postojowych)",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. 34/2, 34/4, 34/5 z obrębu 2-11-16",
+"adr": "Al. Jerozolimskie",
+"roz": "dec. umarzająca"
+}
+},
+{
+"d": "2023-06-29",
+"c": {
+"nr": "54/U/2023 z dnia 29.06.2023",
+"inw": "budowa 2 budynków mieszkalnych wielorodzinnych na wspólnej płycie, garażu podziemnego, parkingu naziemnego i stacji transformatorowej",
+"wn": "I.I.C. Retail sp. z o.o.",
+"nier": "dz. ew. nr 63/13 (inwestycja kubaturowa), oraz część dz. ew. nr 63/14 (obsługa komunikacyjna) z obrębu 2-11-15",
+"adr": "ul. gen. F. S. Składkowskiego",
+"roz": "odmowa"
+}
+},
+{
+"d": "2023-06-30",
+"c": {
+"nr": "55/U/2023 z dnia 30.06.2023",
+"inw": "zmiana sposobu użytkowania lokalu niemieszkalnego 1A na lokal mieszkalny w budynku mieszkalnym wielorodzinnym z usługami",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. 9/7 z obrębu 2-11-15",
+"adr": "ul. Skoroszewska",
+"roz": "dec.ustalająca"
+}
+},
+{
+"d": "2023-07-03",
+"c": {
+"nr": "56/U/2023 z dnia 03.07.2023",
+"inw": "budowa windy zewnętrznej przy budynku użyteczności publicznej",
+"wn": "Robotniczea Spółdzielnia Mieszkaniowa „Ursus”",
+"nier": "dz. ew. 12/74 z obrębu 2-09-07",
+"adr": "ul. M. Keniga 14",
+"roz": "dec.ustalająca"
+}
+},
+{
+"d": "2023-07-04",
+"c": {
+"nr": "57/U/2023 z dnia 04.07.2023",
+"inw": "przebudowie budynku mieszkalno-usługowego wraz z rozbudową naziemnego placu zabaw przy budynku ul. J. M. Szancera 7",
+"wn": "Miasto Stołeczne Warszawy",
+"nier": "dz. ew. 91 z obrębu 2-11-14",
+"adr": "ul. J.M. Szancera 7",
+"roz": "dec.ustalająca"
+}
+},
+{
+"d": "2023-07-06",
+"c": {
+"nr": "58/U/2023 z dnia 06.07.2023",
+"inw": "częściowej nadbudowy (bez zmiany wysokości budynku) budynku mieszkalnego jednorodzinnego",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. 108 z obrębu 2-11-07",
+"adr": "ul. Braterstwa Broni 4",
+"roz": "dec.ustalająca"
+}
+},
+{
+"d": "2023-07-07",
+"c": {
+"nr": "59/U/2023 z dnia 07.07.2023",
+"inw": "po SKO 12/U/2023 budowa budynku mieszkalnego wielorodzinnego o trzech kubaturach nadziemnych z garażem podziemnym, częścią usługową i stacją transformatorową",
+"wn": "Robyg Young City 3 Sp. z o.o",
+"nier": "dz. ew. 42 z obrębu 2-11-15",
+"adr": "ul. Ryżowa 68",
+"roz": "odmowa"
+}
+},
+{
+"d": "2023-07-12",
+"c": {
+"nr": "60/U/2023 z dnia 12.07.2023",
+"inw": "budowa budynku mieszkalnego wielorodzinnego z przedszkolem oraz miejscami postojowymi naziemnymi",
+"wn": "Miasto st. Warszawa",
+"nier": "dz. ew. 1/29, 1/19, 1/4, 1/16 obręb 2-09-06",
+"adr": "ul. Orląt Lwowskich",
+"roz": "dec.ustalająca"
+}
+},
+{
+"d": "2023-07-13",
+"c": {
+"nr": "61/U/2023 z 13.07.2023",
+"inw": "rozbudowa i nadbudowa budynku mieszkalnego jednorodzinnego",
+"wn": "osoba fizyczna",
+"nier": "dz. 42 obr. 2-11-12",
+"adr": "ul. S. Bodycha 38",
+"roz": "dec.ustalająca"
+}
+},
+{
+"d": "2023-07-13",
+"c": {
+"nr": "62/U/2023 z 13.07.2023",
+"inw": "zmiana sposobu użytkowania z budynku mieszkalnego jednorodzinnego na budynek mieszkalny wielorodzinny",
+"wn": "osoba fizyczna",
+"nier": "dz. 10 z obrębu 2-11-11",
+"adr": "ul. Prawnicza 23",
+"roz": "dec.ustalająca"
+}
+},
+{
+"d": "2023-07-14",
+"c": {
+"nr": "63/U/2023 z 14.07.2023",
+"inw": "budowa budynku mieszkalnego jednorodzinnego",
+"wn": "osoba fizyczna",
+"nier": "dz. 37/1 z obrębu 2-11-10",
+"adr": "ul. Noworegulska 14",
+"roz": "dec.ustalająca"
+}
+},
+{
+"d": "2023-07-19",
+"c": {
+"nr": "64/U/2023 z dnia 19.07.2023",
+"inw": "budowa budynku mieszkalnego jednorodzinnego w zabudowie bliźniaczej",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. 128 z obrębu 2-11-08",
+"adr": "ul. Rydzyńska 10",
+"roz": "dec.ustalająca"
+}
+},
+{
+"d": "2023-07-25",
+"c": {
+"nr": "65/U/2023 z dnia 25.07.2023",
+"inw": "budowa budynku mieszkalnego wielorodzinnego z częścią usługową i garażem podziemnym",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. 36/10, 36/14 z obrębu 2-11-16",
+"adr": "ul. Dzieci Warszawy 7",
+"roz": "dec. odmowna"
+}
+},
+{
+"d": "2023-07-26",
+"c": {
+"nr": "66/U/2023 z dnia 26.07.2023",
+"inw": "nadbudowie i przebudowie budynku mieszkalnego jednorodzinnego wraz ze zmianą sposobu użytkowania budynku mieszkalnego i budynku gospodarczego na budynki usługowe oraz budowie miejsc parkingowych",
+"wn": "osoba fizyczna",
+"nier": "działki o nr ew. 10 z obrębu 2-11-12",
+"adr": "przy Alei Bzów 30",
+"roz": "dec. Odmowna"
+}
+},
+{
+"d": "2023-08-02",
+"c": {
+"nr": "67/U/2023 z dnia 02.08.2023",
+"inw": "zmiana sposobu użytkowania komórki lokatorskiej K-1 i przyłączenie jej do mieszkania nr 2 w budynku mieszkalnym wielorodzinnym",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. 124 z obrębu 2-11-16",
+"adr": "ul. A.Prystora",
+"roz": "dec. Ustalająca"
+}
+},
+{
+"d": "2023-08-08",
+"c": {
+"nr": "68/U/2023 z dnia 08.08.2023 r.",
+"inw": "budowie budynku mieszkalnego wielorodzinnego z garażem podziemnym",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. 182 z obrębu 2-11-11",
+"adr": "ul. Aleja Bzów 7",
+"roz": "dec. Odmowna"
+}
+},
+{
+"d": "2023-08-08",
+"c": {
+"nr": "69/U/2023 z dnia 08.08.2023 r.",
+"inw": "budowa miejsca gromadzenia odpadów stałych (altana śmietnikowa) wraz z drogą wewnętrzną i chodnikiem do obsługi budynku przy ul. Zagłoby 23",
+"wn": "Robotnicza Spółdzielnia Mieszkaniowa „Ursus”",
+"nier": "działka ew. nr 104/2 z obrębu 2-09-06",
+"adr": "ul. Zagłoby 23",
+"roz": "dec. Ustalająca"
+}
+},
+{
+"d": "2023-08-08",
+"c": {
+"nr": "70/U/2023 z dnia 08.08.2023 r.",
+"inw": "budowa miejsca gromadzenia odpadów stałych (altana śmietnikowa) wraz z drogą wewnętrzną i chodnikiem do obsługi budynku przy ul. Zagłoby 25",
+"wn": "Robotnicza Spółdzielnia Mieszkaniowa „Ursus”",
+"nier": "działka ew. nr 104/2 z obrębu 2-09-06",
+"adr": "ul. Zagłoby 25",
+"roz": "dec. Ustalająca"
+}
+},
+{
+"d": "2023-08-08",
+"c": {
+"nr": "71/U/2023 z dnia 08.08.2023 r.",
+"inw": "budowa drogi wewnętrznej o szerokości 5 m i długości ~ 17,2 m z placem do zawracania o wymiarach 5 m x 7 m i chodnikiem o szerokości 2 m, zapewniającej dojście i dojazd do istniejącego śmietnika przeznaczonego do obsługi budynku położonego przy ul. Zagłoby 35",
+"wn": "Robotnicza Spółdzielnia Mieszkaniowa „Ursus”",
+"nier": "działka ew. nr 104/2 z obrębu 2-09-06",
+"adr": "ul. Zagłoby 35",
+"roz": "dec. Ustalająca"
+}
+},
+{
+"d": "2023-08-08",
+"c": {
+"nr": "72/U/2023 z dnia 08.08.2023 r.",
+"inw": "budowa drogi wewnętrznej o szerokości 5 m i długości ~ 15,3 m z placem do zawracania o wymiarach 5 m x 7 m i chodnikiem o szerokości 2 m, zapewniającej dojście i dojazd do istniejącego śmietnika przeznaczonego do obsługi budynku położonego przy ul. Zagłoby 33",
+"wn": "Robotnicza Spółdzielnia Mieszkaniowa „Ursus",
+"nier": "działka ew. nr 104/2 z obrębu 2-09-06",
+"adr": "ul. Zagłoby 33",
+"roz": "dec. Ustalająca"
+}
+},
+{
+"d": "2023-08-11",
+"c": {
+"nr": "73/U/2023 z dnia 11.08.2023",
+"inw": "budowa budynku mieszkalnego wielorodzinnego z usługami w parterze, z garażem podziemnym, elementami zagospodarowania terenu (tj. zbiornikiem retencyjnym, stanowiskami postojowymi, tra-fostacją) oraz drogą o parametrach drogi publicznej",
+"wn": "SJ Inwestycje Sylwia Janczewska",
+"nier": "dz.ew. 167/14 z obrębu 2-11-08",
+"adr": "ul. Przy Forcie",
+"roz": "dec.odmowna"
+}
+},
+{
+"d": "2023-08-24",
+"c": {
+"nr": "74/U/2023 z dnia 24.08.2023",
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. 56/1 z obrębu 2-11-05",
+"adr": "ul. T. Kościuszki 37",
+"roz": "dec.odmowna"
+}
+},
+{
+"d": "2023-08-30",
+"c": {
+"nr": "75/U/2023 z dnia 30.08.2023",
+"inw": "budowa budynku mieszkalnego jednorodzinnego",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. 13/4 z obrębu 2-11-15",
+"adr": "ul. T. Palucha",
+"roz": "dec.ustalająca"
+}
+},
+{
+"d": "2023-09-01",
+"c": {
+"nr": "76/U/2023 z dnia 01.09.2023",
+"inw": "zmiana sposobu użytkowania lokalu U6 z usługowo-biurowego na usługowo-rehabilitacyjny",
+"wn": "Kamay Sp. z o.o.",
+"nier": "działki ew. nr 136 z obrębu 2-11-07",
+"adr": "ul. Bohaterów Warszawy",
+"roz": "dec.ustalająca"
+}
+},
+{
+"d": "2023-09-07",
+"c": {
+"nr": "77/U/2023 z dnia 07.09.2023",
+"inw": "przeniesienie decyzji nr 71/U/2023 budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym, miejscami parkingowymi naziemnymi, zbiornikiem retencyjnym",
+"wn": "Dom Land Sp. z o.o.",
+"nier": "działka nr ew. 173/8 z obrębu 2-11-08",
+"adr": "przy ul. Przy Forcie",
+"roz": "dec. Przenosząca"
+}
+},
+{
+"d": "2023-09-08",
+"c": {
+"nr": "78/U/2023 z dnia 08.09.2023",
+"inw": "budowa budynku mieszkalnego jednorodzinnego",
+"wn": "osoba fizyczna",
+"nier": "działka nr ew. 196/2 z obrębu 2-11-10",
+"adr": "ul. Silnikowa",
+"roz": "dec. Ustalająca"
+}
+},
+{
+"d": "2023-09-15",
+"c": {
+"nr": "79/U/2023 z dnia 15.09.2023",
+"inw": "budowa budynku mieszkalnego jednorodzinnego",
+"wn": "osoba fizyczna",
+"nier": "działka nr ew. 3/2 z obrębu 2-11-04",
+"adr": "ul. Michalowicza",
+"roz": "dec.ustalająca"
+}
+},
+{
+"d": "2023-09-18",
+"c": {
+"nr": "80/U/2023 z dnia 18.09.2023",
+"inw": "budowa budynku mieszkalnego wielorodzinnego z infrastrukturą budowlaną",
+"wn": "Spółdzielnia Mieszkaniowa „Orzeł”",
+"nier": "dz. ew. 6/3 z obrębu 2-09-07",
+"adr": "ul. Wojciechowskiego /ul. Warszawska",
+"roz": "dec.umarzająca"
+}
+},
+{
+"d": "2023-09-18",
+"c": {
+"nr": "81/U/2023 18.09.2023",
+"inw": "budowa budynku mieszkalnego jednorodzinnego",
+"wn": "osoba fizyczna",
+"nier": "dz. 37/1 z obrębu 2-11-10",
+"adr": "ul. Noworegulska",
+"roz": "dec. Przenosząca"
+}
+},
+{
+"d": "2023-09-18",
+"c": {
+"nr": "83/U/2023 z dnia 18.09.2023",
+"inw": "przebudowa, rozbudowa, nadbudowa i częściowa rozbiórka budynku mieszkalnego jednorodzinnego",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. 62 z obrębu 2-11-01",
+"adr": "ul. Wysoczyńska",
+"roz": "dec. umarzająca"
+}
+},
+{
+"d": "2023-09-28",
+"c": {
+"nr": "82/U/2023 z dnia 28.09.2023",
+"inw": "zmiana sposobu użytkowania lokalu biurowego na lokal mieszkalny w budynku mieszkalnym wielorodzinnym",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. 91/10 i 91/15 z obr. 2-09-07",
+"adr": "ul. S. Wojciechowskiego",
+"roz": "dec. umarzająca"
+}
+},
+{
+"d": "2023-10-10",
+"c": {
+"nr": "84/U/2023 z dnia 10.10.2023",
+"inw": "„rozbudowa budynku mieszkalnego jednorodzinnego o dobudowany segment – postępowanie naprawcze w PINB dla m.st. Warszawy”",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. 101/2 z obrębu 2-11-05",
+"adr": "ul. gen. K. Sosnkowskiego",
+"roz": "dec. umarzająca"
+}
+},
+{
+"d": "2023-10-11",
+"c": {
+"nr": "85/U/2023 z dnia 11.10.2023",
+"inw": "budowa pawilonu handlowo-usługowego (procedura legalizacyjna)",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. 36/2 z obrębu 2-09-05",
+"adr": "ul. Warszawska 44",
+"roz": "dec.umarzajaca"
+}
+},
+{
+"d": "2023-10-11",
+"c": {
+"nr": "86/U/2023 z dnia 11.10.2023",
+"inw": "budowa drogi wewnętrznej o długości ~ 66 m z miejscami postojowymi i infrastrukturą techniczną (oświetleniem, oraz odwodnieniem)",
+"wn": "Dom Development s.a.",
+"nier": "dz. ew. 173/6 z obrębu 2-11-08",
+"adr": "ul. Dzieci Warszawy",
+"roz": "dec.ustalająca"
+}
+},
+{
+"d": "2023-10-13",
+"c": {
+"nr": "87/U/2023 z dnia 13.10.2023",
+"inw": "zmiana decyzji 60/U/2023 o w/z - budowa budynku mieszkalnego wielorodzinnego z przedszkolem oraz miejcami postojowymi naziemnymi",
+"wn": "Miasto st. Warszawa",
+"nier": "dz. ew. 1/29, 1/19, 1/4, 1/16 obręb 2-09-06",
+"adr": "ul. Orląt Lwowskich",
+"roz": "dec.zmieniająca"
+}
+},
+{
+"d": "2023-10-23",
+"c": {
+"nr": "88/U/2023 z dnia 23.10.2023",
+"inw": "budowa 2 budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. 190/2 i 199/1 z obrębu 2-11-10",
+"adr": "ul. J. Michałowicza 9",
+"roz": "dec. ustalająca"
+}
+},
+{
+"d": "2023-10-24",
+"c": {
+"nr": "89/U/2023 z dnia 24.10.2023",
+"inw": "zmianie sposobu użytkowania lokalu biurowego na lokal mieszkalny w budynku mieszkalnym wielorodzinnym",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. 91/10 z obrębu 2-09-07 przy",
+"adr": "ul. S. Wojciechowskiego 35",
+"roz": "dec. ustalająca"
+}
+},
+{
+"d": "2023-10-26",
+"c": {
+"nr": "90/U/2023 z dnia 26.10.2023",
+"inw": "budowa dwóch budynków mieszkalnych wielorodzinnych z usługami, garażem podziemnym, zbiornikiem retencyjnym i stacją transformatorową",
+"wn": "KW Inwestycje Sp. z o.o.",
+"nier": "dz. ew. 26/6 z obrębu 2-11-16",
+"adr": "ul. Ryżowa",
+"roz": "dec. ustalająca"
+}
+},
+{
+"d": "2023-10-26",
+"c": {
+"nr": "91/U/2023 z dnia 26.10.2023",
+"inw": "przebudowa i nadbudowa części budynku mieszkalnego wielorodzinnego poprzez zmianę dachu nad lokalem mieszkalnym nr 159",
+"wn": "osoba fizyczna",
+"nier": "na części działki ew. 9/7 z obrębu 2-11-15",
+"adr": "ul. Skoroszewska 1A",
+"roz": "dec. Odmowna"
+}
+},
+{
+"d": "2023-10-30",
+"c": {
+"nr": "92/U/2023 z dnia 30.10.2023",
+"inw": "nadbudowa budynku usługowego (o piętro drugie) o funkcji mieszkalnej, rozbudowa budynku w parterze bez zmiany powierzchni zabudowy, oraz przebudowa parkingu na dz. ew. nr 158/1 i budowa parkingu na dz. ew. nr 158/32",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. 158/1, 158/32 z obrębu 2-11-08",
+"adr": "ul. Dzieci Warszawy 44",
+"roz": "dec. ustalająca"
+}
+},
+{
+"d": "2023-10-30",
+"c": {
+"nr": "93/U/2023 z dnia 30.10.2023",
+"inw": "budowa dwóch budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej",
+"wn": "osoba fizyczna",
+"nier": "ew. 198 z obrębu 2-11-10",
+"adr": "ul. S. Bodycha 80",
+"roz": "dec. umarzająca"
+}
+},
+{
+"d": "2023-10-30",
+"c": {
+"nr": "94/U/2023 z dnia 30.10.2023",
+"inw": "zmiana sposobu użytkowania garażu na pomieszczenie/a mieszkalne w budynku mieszkalnym w zabudowie bliźniaczej",
+"wn": "osoba fizyczna",
+"nier": "ew. 90/2 z obrębu 2-11-07",
+"adr": "ul. H. Opieńskiego 1A",
+"roz": "dec. ustalająca"
+}
+},
+{
+"d": "2023-11-08",
+"c": {
+"nr": "95/U/2023 z dnia 08.11.2023",
+"inw": "budowa budynku mieszkalnego jednorodzinnego i budynku gospodarczego",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. 44/1 obr. 2-11-01",
+"adr": "ul. Kajetańska 18",
+"roz": "dec. umarzająca"
+}
+},
+{
+"d": "2023-11-10",
+"c": {
+"nr": "96/U/2023 z dnia 10.11.2023",
+"inw": "budowa zespołu budynków mieszkalnych wielorodzinnych z usługami w parterze z garażami podziemnymi, zagospodarowaniem terenu oraz niezbędną infrastrukturą",
+"wn": "osoba fizyczna",
+"nier": "części działek o nr ew. 166/5 i 166/6 z obrębu 2-11-08",
+"adr": "ul. Dzieci Warszawy",
+"roz": "dec. odmawiająca"
+}
+},
+{
+"d": "2023-11-15",
+"c": {
+"nr": "97/U/2023 z dnia 15.11.2023",
+"inw": "budowa parkingu naziemnego",
+"wn": "I.I.C. Retail sp. z o.o.",
+"nier": "dz. ew. 30/25, 30/26, 30/28 z obrębu 2-11-15",
+"adr": "ul. gen. F. S. Składkowskiego",
+"roz": "dec.odmawiająca"
+}
+},
+{
+"d": "2023-11-17",
+"c": {
+"nr": "98/U/2023 z dnia 17.11.2023",
+"inw": "budowa dwóch budynków mieszkalnych jednorodzinnych dwulokalowych",
+"wn": "PI1 sp. z o.o.",
+"nier": "dz. ew. 196/2, 198 z obrębu 2-11-10",
+"adr": "ul. S. Bodycha 80/II AWP",
+"roz": "dec. umarzająca"
+}
+},
+{
+"d": "2023-11-17",
+"c": {
+"nr": "99/U/2023 z dnia 17.11.2023",
+"inw": "budowa dwóch budynków mieszkalnych jednorodzinnych dwulokalowych",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. 196/2, 198 z obrębu 2-11-10",
+"adr": "ul. S. Bodycha 80/II AWP",
+"roz": "dec. umarzająca"
+}
+},
+{
+"d": "2023-11-17",
+"c": {
+"nr": "100/U/2023 z dnia 17.11.2023",
+"inw": "budowie wolnostojącego nośnika reklamowego w postaci dwóch podświetlanych tablic reklamowych mocowanych do słupa stalowego utwierdzonego w fundamencie zagłębionym w gruncie – do celów legalizacyjnych",
+"wn": "AMS S.A.",
+"nier": "dz. 61/2 z obrębu 2-11-16",
+"adr": "Al. Jerozolimskie 231",
+"roz": "dec. Odmowna"
+}
+},
+{
+"d": "2023-11-23",
+"c": {
+"nr": "103/U/2023 z dnia 23.11.2023",
+"inw": "budowie drogi wewnętrznej o parametrach drogi publicznej na terenie",
+"wn": "Pani Sylwia Janczewska – SJ Inwestycje Sylwia Janczewska",
+"nier": "części dz. ew. 167/14 z obrębu 2-11-08 przy",
+"adr": "ul. Przy Forcie/Apartamentowa",
+"roz": "umarzam"
+}
+},
+{
+"d": "2023-11-24",
+"c": {
+"nr": "104/U/2023 z dnia 24.11.2023",
+"inw": "budowa budynku usługowego wraz z infrastrukturą techniczną",
+"wn": "PI1 sp. z o.o.",
+"nier": "dz. ew. 196/2, 198 z obrębu 2-11-10",
+"adr": "ul. S. Bodycha 80/II AWP",
+"roz": "umarzam"
+}
+},
+{
+"d": "2023-11-24",
+"c": {
+"nr": "105/U/2023 z dnia 24.11.2023",
+"inw": "budowa budynku usługowego wraz z infrastrukturą techniczną",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. 196/2, 198 z obrębu 2-11-10",
+"adr": "ul. S. Bodycha 80/II AWP",
+"roz": "umarzam"
+}
+},
+{
+"d": "2023-11-24",
+"c": {
+"nr": "106/U/2023 z dnia 24.11.2023",
+"inw": "budowa budynku mieszkalnego jednorodzinnego",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. 203 z obrębu 2-11-10",
+"adr": "ul. J. Michałowicza 1",
+"roz": "umarzam"
+}
+},
+{
+"d": "2023-11-28",
+"c": {
+"nr": "107/U/2023 z dnia 28.11.2023",
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym wraz z infrastrukturą techniczną i zbiornikiem retencyjnym na wody opadowe",
+"wn": "LW DEVELOPMENT Sp. z o.o. III S.K.A.",
+"nier": "części działek o nr ew. 37/1, 41/3 i 41/5 z obrębu 2-11-15",
+"adr": "ul. Ryżowa",
+"roz": "umarzam"
+}
+},
+{
+"d": "2023-11-28",
+"c": {
+"nr": "108/U/2023 z dnia 28.11.2023",
+"inw": "zmiana sposobu użytkowania lokalu biurowego na lokal mieszkalny w budynku mieszkalnym wielorodzinnym",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. 91/10 z obrębu 2-09-07",
+"adr": "ul. S. Wojciechowskiego 35",
+"roz": "przenoszę"
+}
+},
+{
+"d": "2023-11-28",
+"c": {
+"nr": "109/U/2023 z dnia 28.11.2023",
+"inw": "budowie 4 budynków handlowych i 2 budynków hotelowych z parkingiem naziemnym oraz stacją transformatorową",
+"wn": "I.I.C. Retail sp. z o.o.",
+"nier": "dz. ew. 30/25, 30/26 i 30/28 z obrębu 2-11-15",
+"adr": "ul. A. Prystora",
+"roz": "dec. odmowna"
+}
+},
+{
+"d": "2023-12-05",
+"c": {
+"nr": "110/U/2023 z dnia 05.12.2023",
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym wraz z infrastrukturą techniczną i zbiornikiem retencyjnym na wody opadowe",
+"wn": "LW DEVELOPMENT Sp. z o.o. III S.K.A.",
+"nier": "części działek o nr ew. 37/1, 41/3 i 41/5 z obrębu 2-11-15",
+"adr": "ul. Ryżowa",
+"roz": "umarzam"
+}
+},
+{
+"d": "2023-12-14",
+"c": {
+"nr": "111/U/2023 z dnia 14.12.2023",
+"inw": "budowa budynku mieszkalnego wielorodzinnego z usługami w parterze, garażem pod-ziemnym, zbiornikiem retencyjnym, drogą wewnętrzną i parkingiem naziemnym",
+"wn": "Dom Development s. a.",
+"nier": "dz. ew. nr 173/5, 173/6 z obrębu 2-11-08",
+"adr": "ul. Dzieci Warszawy",
+"roz": "dec. odmowna"
+}
+}
+]
+},
+{
+"id": "dec_pnb",
+"name": "Decyzje o pozwoleniu na budowę",
+"short": "Decyzje PnB",
+"desc": "Pozwolenia na budowę, rozbiórkę oraz decyzje odmowne i umorzenia.",
+"file": "rejestr_decyzji_o_pozw_na_bud_+2023.xlsx",
+"url": "https://cdn.um.warszawa.pl/documents/49065/95521768/rejestr_decyzji_o_pozw_na_bud_+2023.xlsx/0426f113-e0d4-7ef6-2477-a300c0c3b4f3?t=1704451373849",
+"cols": [
+{
+"k": "nr",
+"l": "Nr decyzji",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Rodzaj inwestycji",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Wnioskodawca",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Nieruchomość",
+"w": "mid"
+},
+{
+"k": "adr",
+"l": "Adres",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj decyzji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2023-01-02",
+"c": {
+"nr": "1/A/2023 z dnia 02.01.2023",
+"inw": "PnB budynek jednorodzinny, ul. Leszczyńskiego i Leszka Czarnego",
+"wn": "osoba fizyczna",
+"nier": "dz. 20/20 z obrębu 2-09-09",
+"adr": "ul. S. Leszczyńskiego i Leszka Czarnego",
+"rodz": "PnB"
+}
+},
+{
+"d": "2023-01-02",
+"c": {
+"nr": "2/A/2023 z dnia 02.01.2023",
+"inw": "PnB budynek jednorodzinny, ul Przemysława II",
+"wn": "osoba fizyczna",
+"nier": "dz. 13/11 z obrębu 2-09-03",
+"adr": "ul. Przemysława II",
+"rodz": "PnB"
+}
+},
+{
+"d": "2023-01-04",
+"c": {
+"nr": "3/A/2023 z dnia 04.01.2023",
+"inw": "PnB budynek jednorodzinny",
+"wn": "osoba fizyczna",
+"nier": "dz. 7/1 z obrębu 2-11-11",
+"adr": "ul. Suchy Las",
+"rodz": "PnB"
+}
+},
+{
+"d": "2023-01-10",
+"c": {
+"nr": "4/A/2023 z dnia 10.01.2023",
+"inw": "Odmowa PnB myjnia i pawilon wystawowy",
+"wn": "osoba fizyczna",
+"nier": "dz. nr ew. 30 obręb 2-09-05",
+"adr": "Warszawska 56",
+"rodz": "odmowa PnB"
+}
+},
+{
+"d": "2023-01-13",
+"c": {
+"nr": "5a/A/2023. z dnia 13.01.2023",
+"inw": "zadaszenie basenu odkrytego",
+"wn": "osoba fizyczna",
+"nier": "19 obr. 2-09-01",
+"adr": "ul. Odnowiciela 18",
+"rodz": "PnB"
+}
+},
+{
+"d": "2023-01-16",
+"c": {
+"nr": "5/A/2023. z dnia 16.01.2023",
+"inw": "PnB stacja transformatorowa, sieci enn",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "dz. nr ew. 2/5, 2/10, 61/3 obręb 2-11-03",
+"adr": "ul. Regulska/Szomanskiego",
+"rodz": "PnB"
+}
+},
+{
+"d": "2023-01-17",
+"c": {
+"nr": "6/A/2023 z dnia 17.01.2023",
+"inw": "PnB nadbudowa bud. Mieszk. Jednorodz. Nad garażem",
+"wn": "osoba fizyczna",
+"nier": "dz. nr 18/2 obręb 2-09-03",
+"adr": "ul. B. Śmiałego 23",
+"rodz": "PnB"
+}
+},
+{
+"d": "2023-01-18",
+"c": {
+"nr": "7/A/2023 z dnia 18.01.2023",
+"inw": "PnB budynek jednorodzinny dwulokalowy",
+"wn": "Spisaka 8A Sp. z o. o.",
+"nier": "dz. ew. nr 166/1 obręb 2-11-11",
+"adr": "ul. Spisaka 8A",
+"rodz": "PnB"
+}
+},
+{
+"d": "2023-01-20",
+"c": {
+"nr": "8/A/2023 z dnia 20.01.2023",
+"inw": "Odmowa PnB budynek jednorodzinny",
+"wn": "JK Budekspert Jakubowski S.K.A.",
+"nier": "dz. ew. nr 128, obręb 2-11-07",
+"adr": "ul. Tadeusz Kościuszki 26",
+"rodz": "odmowa PnB"
+}
+},
+{
+"d": "2023-02-01",
+"c": {
+"nr": "10/A/2023 z dnia 1.02.2023",
+"inw": "Uchylenie decyzji PnB nr 103/98 z dnia 30 kwietnia 1998 r. budowa budynku mieszkalnego - 2 lokale mieszkalne oraz lokal handlowy na parterze",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. nr 93 obr. 2-11-07",
+"adr": "Wiosny Ludów 63",
+"rodz": "Uchylenie"
+}
+},
+{
+"d": "2023-03-02",
+"c": {
+"nr": "11/A/2023 z dnia 02.03.2023",
+"inw": "budynek biurowo-magazynowy, przepudowa przegród zewnetrznych i osieplenie",
+"wn": "Vema Płonowscy Sp. J.",
+"nier": "dz. ew. nr 1/5 obr 2-11-16",
+"adr": "ul. Ryżowa 33b",
+"rodz": "PnB"
+}
+},
+{
+"d": "2023-03-08",
+"c": {
+"nr": "12/A/2023 z dnia 8.03.2023",
+"inw": "Odmowa zm. PnB 36/A/2022 z dnia 25.04.2022 w zakresie instalacji gazu",
+"wn": "Kalter Nieruchomosci Projekt 17 sp.z o.o.",
+"nier": "dz. ew. 8/6 obręb. 2-09-04",
+"adr": "ul. Henryka Brodatego",
+"rodz": "Odmowa zm. PnB"
+}
+},
+{
+"d": "2023-03-09",
+"c": {
+"nr": "13//A2023 z dnia 9.03.2023",
+"inw": "PnR dwie stacie trafo",
+"wn": "Partico Sp. z o.o.",
+"nier": "dz.ew.nr. 150/3 z obrębu 2-09-09",
+"adr": "Silnikowa",
+"rodz": "PnR"
+}
+},
+{
+"d": "2023-03-15",
+"c": {
+"nr": "14/A/2023 z dnia 15.03.2023",
+"inw": "PnB budynek jednorodzinny ul. Plutonu AK \"Torpedy\"",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. nr 63/2",
+"adr": "ul. Plutonu AK \"Torpedy\"",
+"rodz": "PnB"
+}
+},
+{
+"d": "2023-03-21",
+"c": {
+"nr": "15/A/2023 z dnia 21.03.2023",
+"inw": "Przeniesienie PnB budynek wielorodzinny ul. Warszawska 34",
+"wn": "Edward Krasowski \"Inwestycje Edward Krasowski\"",
+"nier": "dz. ew. nr 41 obręb 2-09-05",
+"adr": "ul. Warszawska 34",
+"rodz": "przeniesienie PnB"
+}
+},
+{
+"d": "2023-03-21",
+"c": {
+"nr": "16/A/2023 z 21.03.2023",
+"inw": "PNB budowa instalacji gazowej",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. nr 25/1 obr. 2-11-16",
+"adr": "Dzieci Warszawy 6A",
+"rodz": "PnB"
+}
+},
+{
+"d": "2023-03-22",
+"c": {
+"nr": "17/A/2023 z dnia 22.03.2023",
+"inw": "WYGASZENIE dec. wydanej przez Urząd Dzielnicowy Warszawa – Ochota nr 151/92 z dnia 29 września 1992r. pozwalającej na rozbudowę istniejącego budynku mieszkalnego tj. dobudowy garażu i pomieszczeń mieszkalnych na piętrze na działce ewid. nr 72/3 z obrębu 2-09-03 przy ul. Bolesława Śmiałego 36 w Warszawie w części",
+"wn": "osoba fizyczna",
+"nier": "dz. nr 72/3 obręb 2-09-03",
+"adr": "Bolesława Śmiałego 36",
+"rodz": "wygaszenie decyzji"
+}
+},
+{
+"d": "2023-03-23",
+"c": {
+"nr": "18/A/2023 z dn. 23.03.2023",
+"inw": "umorzenie przeniesienia dec. 151/92 z 29.09.1992",
+"wn": "osoba fizyczna",
+"nier": "dz. nr 72/3 obręb 2-09-03",
+"adr": "Bolesława Śmiałego 36",
+"rodz": "umorzenie"
+}
+},
+{
+"d": "2023-03-23",
+"c": {
+"nr": "19/A/2023 z dn. 23.03.2023",
+"inw": "umorzenie uchylenia dec. 151/92 z 29.09.1992",
+"wn": "oaoba fizyczna/PINB",
+"nier": "dz. nr 72/3 obręb 2-09-03",
+"adr": "Bolesława Śmiałego 36",
+"rodz": "umorzenie uchylenia decyzji"
+}
+},
+{
+"d": "2023-04-06",
+"c": {
+"nr": "20/A/2023 z dn. 06.04.2023",
+"inw": "Pnb Rozbudowa budynku jednorodzinnego (taras)",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. nr 89 obręb 2-11-08",
+"adr": "ul. Poczty Gdańskiej 32",
+"rodz": "PnB"
+}
+},
+{
+"d": "2023-04-11",
+"c": {
+"nr": "21/A/2023 z dn. 11.04.2023",
+"inw": "Odmowa PNB Budowa bydynku mieszkalnego wielorodzinnego z garażem podziemnym",
+"wn": "Dynamisk Invest. Sp. z o.o.",
+"nier": "dz. ew. 29/2 obręb 2-11-14",
+"adr": "ul. Rakietników",
+"rodz": "odmowa PnB"
+}
+},
+{
+"d": "2023-04-18",
+"c": {
+"nr": "22/A/2023 z dn. 18.04.2023r.",
+"inw": "Uchylenie decyzji nr AGK-VI-U/8381/22/81 z dnia 30.06.1981",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. nr 65/4 obręb 2-09-02",
+"adr": "ul. Bolesława Śmiałego 9 A",
+"rodz": "uchylenie decyzji"
+}
+},
+{
+"d": "2023-04-20",
+"c": {
+"nr": "23/A/2023 z dn. 20.04.2023r.",
+"inw": "PnB budowa budynku mieszkalnego jednorodzinnego ze zbiornikiem retencyjnym",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. nr 26/6 i 26/7 obręb 2-09-01",
+"adr": "Ul. Przejazdowa 4",
+"rodz": "PnB"
+}
+},
+{
+"d": "2023-04-24",
+"c": {
+"nr": "24/A/2023 z dnia 24.04.2023",
+"inw": "PnB bud. Mieszklany wielorodzinny",
+"wn": "osoba fizyczna",
+"nier": "dz. nr 69 obręb . 2-11-07",
+"adr": "ul. Rakietników 24",
+"rodz": "PnB"
+}
+},
+{
+"d": "2023-04-26",
+"c": {
+"nr": "25/A/2023 26.04.2023",
+"inw": "Wniosek o pozwolenie na budowę - budowa budynku usługowo-biurowego ze zbiornikiem bezodpływowym na nieczystości ciekłe",
+"wn": "L&S Homes",
+"nier": "146512_8 dz.ew.nr. 26/2 obręb 2-11-09",
+"adr": "ul. Regulska 92",
+"rodz": "PnB"
+}
+},
+{
+"d": "2023-04-28",
+"c": {
+"nr": "26/A/2023 28.04.2023",
+"inw": "pnb bud jednorodzinny",
+"wn": "osoba fizyczna",
+"nier": "dz. nr 72/1 obr. 2-09-03",
+"adr": "ul. Bolesława Śmiałego",
+"rodz": "PnB"
+}
+},
+{
+"d": "2023-05-04",
+"c": {
+"nr": "27/A/2023 04.05.2023",
+"inw": "pnb droga gminna 45KD-D Odlewnicza",
+"wn": "Ursus Vita Sp. z o. o",
+"nier": "dz. nr 93/1, 124/1 obr. 2-09-09",
+"adr": "ul. Odlwenicza",
+"rodz": "PnB"
+}
+},
+{
+"d": "2023-05-05",
+"c": {
+"nr": "28/A/2023 05.05.2023",
+"inw": "pnb droga gminna 22KD-L",
+"wn": "10/165 Robyg Praga Investment I Sp. z o. o. Sp. k.",
+"nier": "dz. nr 174, 142/8, 178, 151/2, 142/3, 166/23",
+"adr": "",
+"rodz": "PnB"
+}
+},
+{
+"d": "2023-05-10",
+"c": {
+"nr": "29/A/2023 z 10.05.2023r",
+"inw": "PnB przebudowa wnętrza , remont więźby dachowej, zmiana pokrycia dachowego w domu mieszkalnym jednorodzinnym w zabudowie bliźniaczej",
+"wn": "osoba fizyczna",
+"nier": "dz. nr 92/2 z obr. 2-11-05",
+"adr": "Malinowa 12",
+"rodz": "PnB"
+}
+},
+{
+"d": "2023-05-11",
+"c": {
+"nr": "30/A/2023 z 11.05.2023r.",
+"inw": "PnB Budowa instalacji gazu w budynku jednorodzinnym",
+"wn": "osoba fizyczna",
+"nier": "dz. nr 13/4 obr. 2-09-03",
+"adr": "Wincentego Kadłubka",
+"rodz": "PnB"
+}
+},
+{
+"d": "2023-05-22",
+"c": {
+"nr": "31/A/2023 22.05.2023",
+"inw": "pnb budowa wiaty śmietnikowej",
+"wn": "Wspólnota Mieszkaniowa Platany",
+"nier": "dz. nr 17/1 obr. 2-11-15",
+"adr": "ul. Ryżowa 44",
+"rodz": "PnB"
+}
+},
+{
+"d": "2023-05-24",
+"c": {
+"nr": "32/A/2023 24.05.2023",
+"inw": "pnb rozbudowa,nadbudowa i przebudowa budynku mieszkalnego dwulokalowego",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. nr 100 obr. 2-11-16",
+"adr": "ul. Żywiecka 39",
+"rodz": "PnB"
+}
+},
+{
+"d": "2023-05-25",
+"c": {
+"nr": "33/A/2023 25.05.2023",
+"inw": "pnb nadbudowa garażu i przebudowa budynku mieszkalnego jednorodzinnego",
+"wn": "osoba fizyczna",
+"nier": "dz ew. nr 18/2 obr. 2-09-03",
+"adr": "ul. Bolesława Śmiałego 23",
+"rodz": "PnB"
+}
+},
+{
+"d": "2023-05-26",
+"c": {
+"nr": "34/A/2023 z 26.05.2023",
+"inw": "Odmowa PnB budowa budynku mieszkalnego jednorodzionnego z instalacja gazową",
+"wn": "osoba fizyczna",
+"nier": "dz. nr 65/3 i 65/5 ( dojazd) w obrębie 2-09-01",
+"adr": "ul. S. Leszczyńskiego",
+"rodz": "odmowa PnB"
+}
+},
+{
+"d": "2023-06-01",
+"c": {
+"nr": "35/A/2023 z 01.06.2023",
+"inw": "Pnb zmiana sposobu użytkowania l. u. i przebudowa, połączenie z l. m.",
+"wn": "M. st. Warszawa",
+"nier": "dz. nr 69/3 obręb 2-11-01",
+"adr": "ul. Regulska",
+"rodz": "PnB"
+}
+},
+{
+"d": "2023-06-02",
+"c": {
+"nr": "36/A/2023 z 2.06.2023",
+"inw": "PnB ”drogi 52KD-D – ulicy Dyrekcyjnej wraz z przebudową sieci gazowej (do 0,5 Mpa), przebudową drogi 18KDL”",
+"wn": "DiDivisto Sp. z o.o.",
+"nier": "dz. nr ewid. 120/11 oraz cz. dz. nr 118/4, 120/10, z obrębu 2-09-09",
+"adr": "",
+"rodz": "PnB"
+}
+},
+{
+"d": "2023-06-13",
+"c": {
+"nr": "37/A/2023 z 13.06.2023",
+"inw": "PnB \"nadbudowy i przebudowy budynku oraz zmiany sposobu użytkowania na budynek mieszkalny z częścią użytkową\"",
+"wn": "osoba fizyczna",
+"nier": "dz nr ewid. 82/2, z obrębu 2-11-16",
+"adr": "ul.Żywiecka",
+"rodz": "PnB"
+}
+},
+{
+"d": "2023-06-13",
+"c": {
+"nr": "38/A/2023 z 13.06.2023",
+"inw": "Odmowa PnB dwóch budynków mieszkalnych jednorodzinnych z garażem w zabudowie bliźniaczej",
+"wn": "osoba fizyczna",
+"nier": "dz. nr ewid. 129, z obr 2-11-11",
+"adr": "ul. Suchy Las",
+"rodz": "Odmowa PnB"
+}
+},
+{
+"d": "2023-06-23",
+"c": {
+"nr": "39/A/2023 z 23.06.2023",
+"inw": "Odmowa PnB budynek usługowy z garażem podziemnym",
+"wn": "osoba fizyczna",
+"nier": "dz. nr ewid. 2/1, 2/2 z obr 2-09-08",
+"adr": "ul. Władysława Jagiełły",
+"rodz": "Odmowa PnB"
+}
+},
+{
+"d": "2023-06-28",
+"c": {
+"nr": "40/A/2023 z 28.06.2023",
+"inw": "umorzenie na wniosek",
+"wn": "LW Development",
+"nier": "dz. nr 37/2, 41/4, 41/6 obr. 2-11-15",
+"adr": "ul. Ryżowa",
+"rodz": "umorzenie"
+}
+},
+{
+"d": "2023-06-29",
+"c": {
+"nr": "41/A/2023 z 29.06.2023",
+"inw": "dec. PnR budynków byłej stacji elektroenergetycznej ( hala i bud. Stacji)",
+"wn": "Ursus Equilis sp.z o.o.",
+"nier": "dz.155/2 z obrębu 2-09-09",
+"adr": "ul. Gierdziejewskiego",
+"rodz": "PnR"
+}
+},
+{
+"d": "2023-06-29",
+"c": {
+"nr": "42/A/2023 z 29.06.2023",
+"inw": "dec. Uchylenie dec. 29/R/2023, budowa park street workout",
+"wn": "M. st. Warszawa",
+"nier": "dz. ew. nr 16/4 obręb 2-11-14",
+"adr": "ul. Dzieci Warszawy",
+"rodz": "uchylenie decyzji"
+}
+},
+{
+"d": "2023-06-29",
+"c": {
+"nr": "43/A/2023 z 29.06.2023",
+"inw": "Decyzja PnR w części garażu wolnostojącego",
+"wn": "TOYOTA BIELANY - NAPRAWY POWYPADKOWE, WYNAJEM NIERUCHOMOŚCI",
+"nier": "dz. ew. nr 77/3 obr. 2-11-16",
+"adr": "Al. Jerozolimskie 235",
+"rodz": "PnR"
+}
+},
+{
+"d": "2023-06-30",
+"c": {
+"nr": "44/A/2023 z 30.06.2023",
+"inw": "Zm dec. 47/A/2022 z 26.05.2022",
+"wn": "NP11 sp. z o.o. sp. k.",
+"nier": "dz. ew. 111/7, 111/8, 111/10, cz. 111/12, 111/13, 111/14, 111/16, 112/5, cz. 112/6, 112/9, 112/10, cz. 112/14, cz. 152, 162/36, , cz. 162/38, cz. 172, cz. 176, 190, cz. 193 obr. 2-09-09",
+"adr": "Posag 7 Panien , E. Habicha, Kompanii AK Goplana",
+"rodz": "dec.zm."
+}
+},
+{
+"d": "2023-07-04",
+"c": {
+"nr": "45/A/2023 z 4.07.2023",
+"inw": "Decyzja PnB przebudowa drogi gminnej wiosny ludów/legnicka",
+"wn": "Petro Development",
+"nier": "dz. ew. 3/8, 114/11, 149/4, 149/5, 2/17, 2/18, 2/19, 2/20, 2/21 obręb 2-11-08",
+"adr": "Wiosny Ludów / Legnicka",
+"rodz": "PnB"
+}
+},
+{
+"d": "2023-07-10",
+"c": {
+"nr": "46/A/2023 z 10.07.2023",
+"inw": "Decyzja Odmowa PnB 24szt. Budynkow mieszk jednorodzinnych w zabudowie szeregowej",
+"wn": "Weisenburger Development Sp. z o. o",
+"nier": "dz. ew. 45/1, 45/2, 45/3, 46 ,47, 63 obręb 2-09-01",
+"adr": "ul. Stanisława Leszczyńskiego / Henryka Brodatego",
+"rodz": "Odmowa PnB"
+}
+},
+{
+"d": "2023-07-12",
+"c": {
+"nr": "47/A/2023 z 12.07.2023",
+"inw": "Decyzja Odmowa PnB budynek handlowo-usługowy z cz. mieszkalną",
+"wn": "Podkarpacki Bis Sp. z o.o.",
+"nier": "dz. ew. 107 obręb 2-09-03",
+"adr": "W. Kadłubka",
+"rodz": "Odmowa PnB"
+}
+},
+{
+"d": "2023-07-28",
+"c": {
+"nr": "48/A/2023 z 28.07.2023",
+"inw": "Decyzja PnB przebudowie budynku Urzędu Dzielnicy Ursus w części podziemnej na potrzeby archiwum",
+"wn": "M.st. Warszawa rep. przez Burmistrza Dzielnicy Ursus",
+"nier": "dz. nr ewid. 123/10 z obrębu 2-09-09",
+"adr": "Placu Czerwca 1976 nr 1",
+"rodz": "PnB"
+}
+},
+{
+"d": "2023-08-10",
+"c": {
+"nr": "49/A/2023 z 10/08.2023",
+"inw": "rozbiórka części budynku miwkalnego w zabudowie szeregowej",
+"wn": "osoba fizyczna",
+"nier": "dz. nr ew. 22/3 obr. 2-11-13",
+"adr": "M. Drzymały",
+"rodz": "PnR"
+}
+},
+{
+"d": "2023-08-28",
+"c": {
+"nr": "50/A/2023 z 28.08.2023",
+"inw": "PnB - budowa dwóch budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej oraz dwóch szamb",
+"wn": "\"Ewa Buduje\"",
+"nier": "dz. nr ewid. 19/6 z obrębu 2-11-01",
+"adr": "Z.Merkerta",
+"rodz": "PnB"
+}
+},
+{
+"d": "2023-08-29",
+"c": {
+"nr": "51/A/2023 z 29.08.2023",
+"inw": "PnB - budowa wewnętrznej i zewnętrznej instalacji gazu dla istniejącego budynku mieszkalnego jednorodzinnego",
+"wn": "osoba fizyczna",
+"nier": "dz. nr ew. 22 z obrębu 2-09-09",
+"adr": "S.Leszczyńskiego",
+"rodz": "PnB"
+}
+},
+{
+"d": "2023-08-30",
+"c": {
+"nr": "52/A/2023 z 30.08.2023",
+"inw": "Odmowa- PnB dwóch budynków mieszkalnych jednorodzinnych",
+"wn": "osoba fizyczna",
+"nier": "dz. nr ewid. 5/6 obręb 2-11-01",
+"adr": "Piastowska",
+"rodz": "Odmowa PnB"
+}
+},
+{
+"d": "2023-08-31",
+"c": {
+"nr": "53/A/2023 z 31.08.2023",
+"inw": "UMARZAM - budowa budynku mieszkalnego wielorodzinnego z dwukondygnacyjnym garażem podziemnym wraz z zagospodarowaniem terenu",
+"wn": "Ogniowa BIS DWE Sp. z o.o.Sp. k",
+"nier": "dz.ew.nr. 118/10 z obrębu 2-09-09",
+"adr": "ul. Ogniowa",
+"rodz": "Umarzam"
+}
+},
+{
+"d": "2023-09-06",
+"c": {
+"nr": "54/A/2023 z 6.09.2023",
+"inw": "PnR - rozbiórka budynku mieszkalnego jednorodzinnego",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. nr 5/2 obr. 2-09-03",
+"adr": "ul. Przemysława II",
+"rodz": "PnR"
+}
+},
+{
+"d": "2023-09-06",
+"c": {
+"nr": "55/A/2023 z 6.09.2023",
+"inw": "PnB - budowa dwóch budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. nr 129 obr. 2-11-12",
+"adr": "ul. Suchy Las",
+"rodz": "PnB"
+}
+},
+{
+"d": "2023-09-06",
+"c": {
+"nr": "56/A/2023 z 6.09.2023",
+"inw": "PnB - rozbudowa, przebudowa, nadbudowa budynku jednorodzinnego a zab. bliźniaczej",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. nr 99 obr. 2-11-04",
+"adr": "ul.Michałowicza 58",
+"rodz": "PnB"
+}
+},
+{
+"d": "2023-09-06",
+"c": {
+"nr": "57/A/2023 z 6.09.2023",
+"inw": "ODMOWA- budowa elektroenergetycznej sieci kablowej wysokiego napięcia 110kV wraz ze słupami kablowymi oraz kablową kanalizacją światłowodową w ramach skablowania napowietrznej WN-110kV relacji GPZ-Mory – RPZ Ursus",
+"wn": "Polish Logistics Propco I sp z o.o.",
+"nier": "dz. nr 143, 122/2 obreb 2-09-09",
+"adr": "ul.Kompanii AK Goplana",
+"rodz": "Odmowa PnB"
+}
+},
+{
+"d": "2023-09-06",
+"c": {
+"nr": "58/A/2023 z 6.09.2023",
+"inw": "Przeniesienie PnB budynek handlowo-usługowo-biurowy Herbu Oksza",
+"wn": "Ora C sp. z o.o",
+"nier": "dz. nr 112/20 obreb 2-09-09",
+"adr": "ul. Herbu Oksza",
+"rodz": "Przeniesienie PnB"
+}
+},
+{
+"d": "2023-09-08",
+"c": {
+"nr": "59/A/2023 z 8.09.2023",
+"inw": "przeniesienie PnB zbiornika wód pożarowych i deszczoweych dla budynku magazynowo-biorowego dla funkcji pralni - dec. 46//A2016",
+"wn": "Galon-Polska sp. z o.o",
+"nier": "dz. nr 32/2, 32/1 obreb 2-09-01",
+"adr": "ul. Przejazdowa 2B",
+"rodz": "Przeniesienie PnB"
+}
+},
+{
+"d": "2023-09-15",
+"c": {
+"nr": "60/A/2023 z 15.09.2023 r.",
+"inw": "PnR rozbiórka budynku gospodarczego",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. nr 63/2 obręb 2-11-06",
+"adr": "ul. Plutony AK Torpedy",
+"rodz": "PnR"
+}
+},
+{
+"d": "2023-09-19",
+"c": {
+"nr": "61/A/2023 z 19.09.2023",
+"inw": "Wygaszenie dec. 15/A/2012 z 30.01.2012 budowa budynku biurowego",
+"wn": "osoba fizyczna",
+"nier": "dz. nr ew. 123/20 obręb 2-09-09",
+"adr": "ul. Hennela",
+"rodz": "wygaszenie decyzji"
+}
+},
+{
+"d": "2023-09-26",
+"c": {
+"nr": "62/A/2023 z 26.09.2023",
+"inw": "PnB - budowa drogi gminnej",
+"wn": "M. st. Warszawa",
+"nier": "dz. ew. nr 121/10, 121/11, 150/2, 150/4, cz 100/2, 121/4, 161/1 obr. 2-09-09",
+"adr": "ul. Silnikowa",
+"rodz": "PnB"
+}
+},
+{
+"d": "2023-09-28",
+"c": {
+"nr": "63/A/2023 z 28.09.2023",
+"inw": "PnB zamienne bud mieszk jednorodzinny wraz z inst. gazową",
+"wn": "osoba fizyczna",
+"nier": "dz. nr ew. 42/1, 42/2 obr. 2-11-05",
+"adr": "Prawnicza 77",
+"rodz": "PnB"
+}
+},
+{
+"d": "2023-09-28",
+"c": {
+"nr": "64/A/2023 z 28.09.2023",
+"inw": "PnB - przebudowa drogi gminnej, ul. Królowej Bony",
+"wn": "M. st. Warszawa",
+"nier": "dz.ew. 58/3, 89/22, 91/1, 91/3, 91/4 obr. 2-09-03",
+"adr": "ul. Królowej Bony",
+"rodz": "PnB"
+}
+},
+{
+"d": "2023-09-29",
+"c": {
+"nr": "65/A/2023 z 29.09.2023",
+"inw": "PnB - budynek jednorodzinny wraz z instalacją gazową",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 105 obr. 2-09-01",
+"adr": "ul. K. Jagiellończyka",
+"rodz": "PnB"
+}
+},
+{
+"d": "2023-09-29",
+"c": {
+"nr": "66/A/2023 z 29.09.2023",
+"inw": "PnB - rozbudowa i nadbudowa budynku jednorodzinnego",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 76 obr. 2-11-04",
+"adr": "ul. Kompanii AK \"Kordian\"",
+"rodz": "PnB"
+}
+},
+{
+"d": "2023-09-29",
+"c": {
+"nr": "67/A/2023 z 29.09.2023",
+"inw": "PnB - budynek jednorodzinny wraz z instalacją gazową i szambem szczelnym",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 80/7 obr. 2-11-0",
+"adr": "ul. Stanisława Bodycha",
+"rodz": "PnB"
+}
+},
+{
+"d": "2023-10-02",
+"c": {
+"nr": "68/A/2023 z 2.10.2023",
+"inw": "Przeniesienie PnB 6740.50.2021.MJA budowa budynku mieszkalnego wielorodzinnego i rozbiórka garażu",
+"wn": "Gomico Capital Sp. z o.o.",
+"nier": "dz.ew. 39/1, 39/2 obreb 2-09-05",
+"adr": "ul. Śmigielska",
+"rodz": "Przeniesienie PnB"
+}
+},
+{
+"d": "2023-10-04",
+"c": {
+"nr": "69/A/2023 z 4.10.2023",
+"inw": "PnB wewnętrzna i doziemna instalacja gazowa niskiego ciśnienia do budynku mieszkalnego jednorodzinnego",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. nr 90 obr. 2-09-01",
+"adr": "ul. B.Krzywoustego 14",
+"rodz": "PnB"
+}
+},
+{
+"d": "2023-10-05",
+"c": {
+"nr": "70/A/2023 z 05.10.2023",
+"inw": "Decyzja PnB zespół budynków mieszkalnych jednorodzinnych w zab. szeregowej (4 szeregi) oraz sieci wodociągowej i kanalizacyjnej",
+"wn": "Weisenburger Development Sp. z o. o",
+"nier": "dz. ew. 45/1, 45/2, 45/3, 46 ,47, 63 obręb 2-09-01; 43/1, 43/3, 109/2 obręb2-09-01",
+"adr": "ul. Stanisława Leszczyńskiego / Henryka Brodatego",
+"rodz": "PnB"
+}
+},
+{
+"d": "2023-10-05",
+"c": {
+"nr": "71/A/2023 z 05.10.2023",
+"inw": "UMORZENIE PnB budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym, miejscami parkingowymi naziemnymi, zbiornikiem retencyjnym",
+"wn": "Grzegorz Zegota prowadzący działalność gospodarczą pod firmą Kancelaria Adwokacka Grzegorz Zęgota",
+"nier": "dz. nr 173/8 obręb 2-11-08",
+"adr": "ul. Przy Forcie",
+"rodz": "umorzenie PnB"
+}
+},
+{
+"d": "2023-10-12",
+"c": {
+"nr": "72/A/2023 12.10.2023",
+"inw": "Wygaszenie dec. 166/A/2006",
+"wn": "Galon-Polska sp. z o.o.",
+"nier": "dz. 32/1 ( obecnie 32/10, 32/11), 32/2",
+"adr": "Przejazdowa",
+"rodz": "wygaszenie decyzji PnB"
+}
+},
+{
+"d": "2023-10-12",
+"c": {
+"nr": "73/A/2023 z 12.10.2023",
+"inw": "umorzenie przeniesienia dec. dec. 166/A/2006",
+"wn": "Galon-Polska sp. z o.o.",
+"nier": "dz. 32/1 ( obecnie 32/10, 32/11), 32/2",
+"adr": "Przejazdowa",
+"rodz": "umorzenie przeniesienia decyzji PnB"
+}
+},
+{
+"d": "2023-10-12",
+"c": {
+"nr": "74//A2023 z 12.10.2023",
+"inw": "dec. PnB montaz okien na balkonie",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. 149/1 z obrębu 2-09-04",
+"adr": "W. Hermana",
+"rodz": "PnB"
+}
+},
+{
+"d": "2023-10-16",
+"c": {
+"nr": "75/A/2023 z 16.10.2023",
+"inw": "dec pnb budowa budynku jednorodzinnego",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 89/16 obręb 2-09-03",
+"adr": "ul. Henryka II Pobożnego",
+"rodz": "PnB"
+}
+},
+{
+"d": "2023-10-23",
+"c": {
+"nr": "77/A/2023 z 23.10.2023",
+"inw": "dec. pnb budowa budynku wielorodzinnego ul. gen. K. Sosnkowskiego 6",
+"wn": "Wille Ebejot",
+"nier": "48/4 obręb 2-11-15",
+"adr": "ul. gen. K. Sosnkowskiego",
+"rodz": "PnB"
+}
+},
+{
+"d": "2023-10-30",
+"c": {
+"nr": "78/A/2023 z 30.10.2023",
+"inw": "dec. odmowa - budowa dwóch budynków mieszkalnych wielorodzinnych- Słupska",
+"wn": "Muniak Development Sp. z o.o.",
+"nier": "118/3,118/4,118/5,118/6,118/7,118/8 obręb 2-11-10",
+"adr": "ul. Słupska/ Kużnicy Kołłątajowskiej",
+"rodz": "Odmowa PnB"
+}
+},
+{
+"d": "2023-10-30",
+"c": {
+"nr": "79/A/2023 z 30.10.2023",
+"inw": "dec. pnr budynku mieszkalnego",
+"wn": "osoba fizyczna",
+"nier": "dz.37/1 obr. 2-11-10",
+"adr": "Noworegulska 14",
+"rodz": "PnR"
+}
+},
+{
+"d": "2023-10-30",
+"c": {
+"nr": "80/A/2023 z 30.10.2023 z",
+"inw": "dec. zmiana pozwolenia na budowę - budowa budynku wielorodzinnego o 5 kondygnacjach mieszkalnych z garażem podziemnym. (Decyzja 446/99)",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 62/4, 62/3",
+"adr": "Starodęby 9",
+"rodz": "dec. zmiana PnB"
+}
+},
+{
+"d": "2023-10-30",
+"c": {
+"nr": "81/A/2023 z 30.10.2023",
+"inw": "dec. pnb - budowa windy zewnętrznej przy budynku użyteczności publicznej.",
+"wn": "Robotnicza Spółdzielnia Mieszkaniowa \"Ursus\"",
+"nier": "dz.ew. 12/74 obr. 2-09-07",
+"adr": "M. Keniga",
+"rodz": "PnB"
+}
+},
+{
+"d": "2023-11-09",
+"c": {
+"nr": "82/A/2023 z 9.11.2023",
+"inw": "dec. PnB budowa Domu Kultury wraz z niezbędną infrastrukturą (przyłącze ciepłownicze i przyłącze kanalizacji sanitarnej, oświetlenie, kanalizacja deszczowa, zbiorniki retencyjne) i zagospodarowaniem terenu oraz obsługą komunikacyjną obiektu",
+"wn": "Miasto st. Warszawa",
+"nier": "121/9 i 121/8 z obrębu 2-09-09",
+"adr": "Silnikowa / Kazienmierza Gierdziejewskiego",
+"rodz": "PnB"
+}
+},
+{
+"d": "2023-11-13",
+"c": {
+"nr": "83/A/2023 z 13.11.2023",
+"inw": "dec. PnB przebudowa budynku mieszkalno-usługowego wraz z rozbudową naziemnego placu zabaw przy budynku",
+"wn": "M. st. Warszawa",
+"nier": "dz. ew. nr 91 obr. 2-11-14",
+"adr": "ul. M.J.Szancera 7 Warszawa",
+"rodz": "PnB"
+}
+},
+{
+"d": "2023-11-17",
+"c": {
+"nr": "84/A/2023 z 17.11.2023",
+"inw": "umorzenie odstępstwo od przepisów budowlanych budowa przewodu wodociągowego DN150mm w Al. Jerozolimskich",
+"wn": "MPWiK w m. st. Warszawie S.A.",
+"nier": "bd",
+"adr": "Aleje Jerozolimskie",
+"rodz": "dec.umarzająca"
+}
+},
+{
+"d": "2023-11-23",
+"c": {
+"nr": "85/A/2023 z 23.11.2023",
+"inw": "dec. przeniesienie dec nr 77/A/2023 - pnb budowa budynku wielorodzinnego ul. gen. K. Sosnkowskiego 6",
+"wn": "EBEJOT DEVELOPMENT Sp. z o.o. SKOROSZE PARK Sp. J",
+"nier": "dz.ew. 48/4 orbęb 2-11-15",
+"adr": "ul. Sosnkowskiego 6",
+"rodz": "przeniesienie PnB"
+}
+},
+{
+"d": "2023-11-27",
+"c": {
+"nr": "86/A/2023 z 27.11.2023",
+"inw": "dec. zm. PnB przedszkola w zakresie instalacji kan. Deszczowej.",
+"wn": "Miasto st. Warszawa",
+"nier": "dz. nr 124/3, 124/4 obręb 2-09-09",
+"adr": "ul. Silnikowa",
+"rodz": "dec.zm.PnB"
+}
+},
+{
+"d": "2023-11-27",
+"c": {
+"nr": "87/A/2023 z 27.11.2023",
+"inw": "dec. przebudowa lokalu w budynku mieszkalnym z usługami",
+"wn": "Bluerock sp. z o.o.",
+"nier": "dz. nr 11 obręb 2-11-13",
+"adr": "ul. Bohaterów Warszawy 9",
+"rodz": "PnB"
+}
+},
+{
+"d": "2023-11-28",
+"c": {
+"nr": "88/A/2023 z 28.11.2023",
+"inw": "dec PnB budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym",
+"wn": "Dynamisk Invest. Sp. z o.o.",
+"nier": "dz. nr 29/2 obręb 2-11-14",
+"adr": "ul. Rakietników 23a",
+"rodz": "PnB"
+}
+},
+{
+"d": "2023-11-29",
+"c": {
+"nr": "89/A/2023 z 29.11.2023",
+"inw": "dec. PnB rozbudowa i przebudowa budynku handlowo-sługowego o pom. skupu butelek",
+"wn": "Lidl sp. z o.ol. Sp.k.",
+"nier": "dz. nr 72/6, obr. 2-11-15",
+"adr": "ul. K. Sosnkowskiego 2",
+"rodz": "PnB"
+}
+},
+{
+"d": "2023-12-08",
+"c": {
+"nr": "90/A/2023 z 8.12.2023",
+"inw": "dec PnB budowa dwutorowej sieci elektroenergetycznej kablowej podziemnej 110kV",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "dz. nr ew. 165/2, 166/4, 167/11, 172/14, 174/11, z obrębu 2-11-08; 2/10, 1/13, 3/2, 4/7, 4/4, 5/2, 6/2, 16/1, 17/3 z obrębu 2-11-16",
+"adr": "Al. 4 Czerwca 1989r.",
+"rodz": "PnB"
+}
+},
+{
+"d": "2023-12-14",
+"c": {
+"nr": "91/A/2023 z 14.12.2023",
+"inw": "odmowa dec. PnB budowa budynku mieszkalnego wielorodzinnego z usługami w parterze, infrastrukturą techniczną podziemną i nadziemną, garażem podziemnym oraz dwoma zjazdami",
+"wn": "Atut Development sp. z o.o.",
+"nier": "dz. nr 41, 42, 48/7, 48/8, 48/13, 48/14, 48/20, 48/23 obr. 2-09-08",
+"adr": "Jagiełły 5",
+"rodz": "Odmowa PnB"
+}
+},
+{
+"d": "2023-12-21",
+"c": {
+"nr": "93/A/2023 z 21.12.2023",
+"inw": "przeniesienie dec PnB - przebudowa drogi gminnej wiosny ludów/legnicka",
+"wn": "Petro Development",
+"nier": "dz. ew. 3/8, 114/11, 149/4, 149/5, 2/17, 2/18, 2/19, 2/20, 2/21 obręb 2-11-08",
+"adr": "Wiosny Ludów / Legnicka",
+"rodz": "przeniesienie PnB"
+}
+},
+{
+"d": "2023-12-27",
+"c": {
+"nr": "94/A/2023 z 27.12.2023",
+"inw": "dec PnR odcinka sieci WN 110kV",
+"wn": "Trei Real Estate Poland Sp. z o. o.",
+"nier": "dz. nr ew. 90, 38, 39/1,39/2, 40/1, 14, 16, 17, 8/3, 8/9 z obrębu 2-09-05",
+"adr": "Warszawska",
+"rodz": "PnR"
+}
+},
+{
+"d": "2023-12-27",
+"c": {
+"nr": "95/A/2023 z 27.12.2023",
+"inw": "dec PnB ul. Silnikowa",
+"wn": "UDI TAU Sp. z o. o.",
+"nier": "cz. dz. nr ew. 92/1, 126/3, 126/9, 126/10, 126/11, 126/12 z obrębu 2-09-09",
+"adr": "ul. Silnikowa",
+"rodz": "PnB"
+}
+},
+{
+"d": "2023-12-29",
+"c": {
+"nr": "96/A/2023 z 29.12.2023",
+"inw": "odmowa dec PnB budynku mieszkalnego wielorodzinnego z garażem podziemnym i dwoma zbiornikami retencyjnymi",
+"wn": "Spravia sp. z o.o.",
+"nier": "dz.ew. nr 19/2 obrębu 2-11-15",
+"adr": "ul. Tomcia Palucha",
+"rodz": "Odmowa PnB"
+}
+},
+{
+"d": "2023-12-29",
+"c": {
+"nr": "97/A/2023 z 29.12.2023",
+"inw": "dec PnB budowa drogi gminnej 42KDD",
+"wn": "UDI TAU Sp. z o. o.",
+"nier": "dz.ew. 19/2 obrębu 2-09-09",
+"adr": "ul. 42KDD",
+"rodz": "PnB"
+}
+},
+{
+"d": null,
+"c": {
+"nr": "76/A/2023 z 16.03.1900",
+"inw": "dec. przenoszę dec. 50/A/2022 z 7.06.2022",
+"wn": "Petro Development",
+"nier": "dz. nr 185, 3/9 (dawne 3/2, 3/6)obręb 2-11-08",
+"adr": "ul. Legnicka",
+"rodz": "Przeniesienie PnB"
+}
+},
+{
+"d": null,
+"c": {
+"nr": "92/A/2023",
+"inw": "dec PnB budowa masztu antenowego wraz z instalacją telekomunikacyjną",
+"wn": "T-mobile Polska S.A.",
+"nier": "dz. nr ew. 20/4, 20/2 z obrębu 2-09-06",
+"adr": "Orląt Lwowskich",
+"rodz": "PnB"
+}
+}
+]
+},
+{
+"id": "wn_wz",
+"name": "Wnioski o warunki zabudowy",
+"short": "Wnioski WZ",
+"desc": "Wnioski o ustalenie warunków zabudowy wraz z datą wpływu.",
+"file": "rejestr_wnioskow_o_wz_2023.xlsx",
+"url": "https://cdn.um.warszawa.pl/documents/49065/95521768/rejestr_wnioskow_o_wz_2023.xlsx/b36c6c95-68e3-9c4f-e963-21474c7beb7d?t=1704451374785",
+"cols": [
+{
+"k": "inw",
+"l": "Rodzaj inwestycji",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Wnioskodawca",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Nieruchomość",
+"w": "mid"
+},
+{
+"k": "adr",
+"l": "Adres",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2023-01-11",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - budowa budynku mieszkalnego wielorodzinnego o trzech sekcjach z usługami i garażem podziemnym",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 14 z obrębu 2-11-09",
+"adr": "ul. Bodycha"
+}
+},
+{
+"d": "2023-01-11",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - zmiana sposobu użytkowania i przebudowa lokalu usługowego na potrzeby szkoły",
+"wn": "RM s.c. Radosław Głogowski, Maria Głogowska",
+"nier": "dz.ew.nr. 172/1 z obrębu 2-09-07",
+"adr": "ul. Wojciechowskiego 37"
+}
+},
+{
+"d": "2023-01-13",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - budowa zespołu dwóch budynków mieszkalnych wielorodzinnych z garażem podziemnym, niezbędnymi elemenatmi zagospodarowania terenu wraz z infrastrukturą",
+"wn": "Robyg Young City 3 Sp. z o.o.",
+"nier": "dz.ew.nr. 54/2, 54/4, 54/5, 55/2, 55/4, 53 z obrębu 2-11-15",
+"adr": "ul. Ryżowa"
+}
+},
+{
+"d": "2023-01-13",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - budowa zespołu dwóch budynków wielorodzinnych z garażem podziemnym, niezbędnymi elementami zagospodarowania terenu wraz z infrastrukturą",
+"wn": "TM Investment Holding Sp. z o.o.",
+"nier": "dz.ew.nr. 54/3, 55/3, 53 z obrębu 2-11-15",
+"adr": "ul. Ryżowa"
+}
+},
+{
+"d": "2023-01-16",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - zmiana sposobu użytkowania lokalu niemieszkalnego na lokal mieszkalny",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 9/7 z obrębu 2-11-15",
+"adr": "ul. Skoroszewskiej 1A"
+}
+},
+{
+"d": "2023-01-23",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - zmiana sposobu użytkowania stolarni na budynek mieszkalny jednorodzinny",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 2, 3/4 z obrębu 2-11-10",
+"adr": "ul. Bodycha 110"
+}
+},
+{
+"d": "2023-01-27",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - nadbudowa istniejącego budynku mieszkalnego wielorodzinnego o dwie kondygnacje",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 135/2 z obrębu 2-11-07",
+"adr": "ul. H. Rodakowskiego 1"
+}
+},
+{
+"d": "2023-02-03",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - zmiana sposobu użytkowania lokalu usługowo-biurowego na lokal usługowo-rehabilitacyjny w budynku mieszkalnym wielorodzinnym",
+"wn": "Kamay Sp. z o.o.",
+"nier": "dz.ew.nr. 136 z obrębu 2-11-07",
+"adr": "ul. Bohaterów Warszawy 26/U6"
+}
+},
+{
+"d": "2023-02-07",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - budowa budynku usługowego - miejsca noclegowe, pracownicze",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 43 z obrębu 2-11-10",
+"adr": "ul. Noworegulska 2"
+}
+},
+{
+"d": "2023-02-07",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - rozbudowa, nadbudowa i przebudowa budynku mieszkalnego jednorodzinnego",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 105/1 obręb 2-11-03",
+"adr": "ul. II Armii Wojska Polskiego 42A"
+}
+},
+{
+"d": "2023-02-09",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - zmiana sposobu użytkowania lokalu biurowego na lokal mieszkalny",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 91/10, cz.dz.ew.nr. 91/15 obręb 2-09-07",
+"adr": "ul. Wojciechowskiego 35"
+}
+},
+{
+"d": "2023-02-09",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - budowa drogi wewnętrznej z miejscami postojowymi i infrastrukturą techniczną",
+"wn": "Dom Development S.A.",
+"nier": "dz.ew.nr. 173/6 obręb 2-11-08",
+"adr": "ul. Dzieci Warszawy"
+}
+},
+{
+"d": "2023-02-10",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy- budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym i w parterze",
+"wn": "RSM",
+"nier": "dz.ew.nr. 100/15 obręb 2-09-06",
+"adr": "ul. Warszawska"
+}
+},
+{
+"d": "2023-02-14",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - budowa budynku wielorodzinnego z przedszkolem oraz infrastrukturą techniczną",
+"wn": "Miasto Stołeczne Warszawa Plac Czerwca 1976 r. 1",
+"nier": "dz.ew.nr. 1/29, 1/19, 1/4, 1/16 z obrębu 2-09-06",
+"adr": "ul. Orląt Lwowskich"
+}
+},
+{
+"d": "2023-02-27",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym i 20 stanowiskami postojowymi",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 34/2, 34/4, 34/5 z obrębu 2-11-16",
+"adr": "Al. Jerozolimskie"
+}
+},
+{
+"d": "2023-02-27",
+"c": {
+"inw": "wniosek o ustalenie warunków zabudowy - budowa budynku usługowego (hotelowego) z garażem podziemnym i 20 stanowiskami postojowymi",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 34/2, 34/4, 34/5 z obrębu 2-11-16",
+"adr": "Al.. Jerozolimskie"
+}
+},
+{
+"d": "2023-03-01",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - budowa budynku mieszkalnego jednrodzinnego",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 203 obręb 2-11-10 przy ul. J. Michałowicza 1",
+"adr": "ul. Michałowicza 1"
+}
+},
+{
+"d": "2023-03-10",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym i stacją transformatorową",
+"wn": "I.I.C. RETAIL Sp. z o.o.",
+"nier": "dz.ew.nr. 63/13 obręb 2-11-15",
+"adr": ""
+}
+},
+{
+"d": "2023-03-15",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - budowa zespołu budynków mieszkalnych wielorodzinnych z usługami w parterze, garażami podziemnymi, zagospodarowaniem terenu oraz niezbędną infrastrukturą techniczną",
+"wn": "Akademia Development Sp. z o.o.",
+"nier": "cz.dz.ew.nr. 166/5 i 166/6 z obrębu 2-11-08",
+"adr": "ul. Dzieci Warszawy"
+}
+},
+{
+"d": "2023-03-16",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - rozbudowa i nadbudowa budynku mieszkalnego jednorodzinnego",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 141/2 z obrębu 2-11-07",
+"adr": "ul. Braterstwa Broni 4"
+}
+},
+{
+"d": "2023-03-16",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - budowa windy zewnętrznej dla osób niepełnosprawnych",
+"wn": "RSM \"Ursus\"",
+"nier": "dz.ew.nr. 12/74 z obrębu 2-09-07",
+"adr": "ul. Keniga 14"
+}
+},
+{
+"d": "2023-03-21",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - zmiana sposobu użytkowania budynku mieszkalnego jednorodzinnego na wielorodzinny",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 10 z obrębu 2-11-11",
+"adr": "Prawnicza 23"
+}
+},
+{
+"d": "2023-03-27",
+"c": {
+"inw": "Wniosek o ustalenie inwestycji celu publicznego albo warunków zabudowy - Terapeutyczny punkt przedszkolny Błękitna Ciuchcia",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 59/1 z obrębu 2-11-04",
+"adr": "ul. Prawnicza 50"
+}
+},
+{
+"d": "2023-03-27",
+"c": {
+"inw": "wniosek o ustalenie warunków zabudowy - budowa domu jednorodzinnego-połowa bliźniaka",
+"wn": "osoba fizyczna",
+"nier": "dz 128 obręb 2-11-08",
+"adr": "ul. Rydzyńska 10"
+}
+},
+{
+"d": "2023-04-03",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - budowa budynku mieszkalnego jednorodzinnego wolnostojącego",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 3/2 z obrębu 2-11-04",
+"adr": "ul. J. Michałowicza 92"
+}
+},
+{
+"d": "2023-04-05",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - budowa budynku wielorodzinnego",
+"wn": "Spółdzielnia Mieszkaniowa \"Orzeł\"",
+"nier": "dz.ew.nr. 6/3 z obrębu 2-09-07",
+"adr": "ul. Warszawskaj"
+}
+},
+{
+"d": "2023-04-06",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - rozbudowa i nadbudowa jednorodzinnego budynku mieszkalnego",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 42 z obrębu 2-11-12",
+"adr": "ul. S. Bodycha 38"
+}
+},
+{
+"d": "2023-04-07",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - budowa parkingu naziemnego",
+"wn": "I.I.C. Residential Sp. z o. o.",
+"nier": "dz.ew.nr. 30/25, 30/26 z obrębu 2-11-15",
+"adr": "ul. A. Prystora"
+}
+},
+{
+"d": "2023-04-14",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - budowa budynku mieszkalnego jednorodzinnego",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 37/1 z obrębu 2-11-10",
+"adr": "ul. Noworegulska 14"
+}
+},
+{
+"d": "2023-04-14",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - zmiana sposobu użytkowania pomieszczenia gospodarczego na cele mieszkalne",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 124 z obrębu 2-11-16",
+"adr": "ul. A. Prystora 4C"
+}
+},
+{
+"d": "2023-04-18",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - budowa domu jednorodzinnego całorocznego",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 26 z obrębu 2-11-04",
+"adr": "ul. Prawnicza 65"
+}
+},
+{
+"d": "2023-04-19",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - budowa miejsca gromadzenia odpadów stałych (altana śmietnikowa) wraz z drogą wewnętrzną oraz chodnikiem zapewniającym dojazd i dojście",
+"wn": "RSM \"Ursus\"",
+"nier": "dz.ew.nr. 104/2 z obrębu 2-09-06",
+"adr": "ul. Zagłoby 25"
+}
+},
+{
+"d": "2023-04-19",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - budowa drogi wewnętrznej oraz chodnika zapewniającego dojście i dojazd do miejsca gromadzenia odpadów stałych (altana śmietnikowa)",
+"wn": "RSM \"Ursus\"",
+"nier": "dz.ew.nr. 104/2 z obrębu 2-09-06",
+"adr": "ul. Zagłoby 35"
+}
+},
+{
+"d": "2023-04-19",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - budowa drogi wewnętrznej oraz chodnika zapewniającego dojście i dojazd do miejsca gromadzenia odpadów stałych (altana śmietnikowa)",
+"wn": "RSM \"Ursus\"",
+"nier": "dz.ew.nr. 104/2 z obrębu 2-09-06",
+"adr": "ul. Zagłoby 33"
+}
+},
+{
+"d": "2023-04-19",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - budowa miejsca gromadzenia odpadów stałych (altana śmietnikowa) wraz z drogą wewnętrzną oraz chodnikiem zapewniającym dojazd i dojście",
+"wn": "RSM \"Ursus\"",
+"nier": "dz.ew.nr. 104/2 z obrębu 2-09-06",
+"adr": "ul. Zagłoby 23"
+}
+},
+{
+"d": "2023-04-21",
+"c": {
+"inw": "Wniosek o wydanie warunków zabudowy - budowa budynku wielorodzinnego z przedszkolem oraz infrastrukturą techniczną",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 1/29, 1/19, 1/4, 1/16 z obrębu 2-09-06",
+"adr": "ul. Orląt Lwowskich"
+}
+},
+{
+"d": "2023-04-26",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - budowa dwóch budynków mieszkalnych wielorodzinnych na wspólnej płycie garażu z garażem rodzinnym i stacją transformatorową",
+"wn": "I.I.C. Retail Sp. z o. o.",
+"nier": "dz.ew.nr 60/5 z obrębu 2-11-15",
+"adr": "ul. Starodęby"
+}
+},
+{
+"d": "2023-04-27",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - budowa budynku mieszkalnego wielorodzinnego z usługami w parterze, garażem podziemnym oraz niezbędną infrastrukturą",
+"wn": "KW Inwestycje Sp. z o.o.",
+"nier": "dz.ew.nr. 26/6, 2/11 z obrębu 2-11-16, cz.dz.ew.nr. 34/2 z obrębu 2-11-15, cz.dz.ew.nr. 159/24 z obrębu 2-11-08",
+"adr": "ul. Ryżowa"
+}
+},
+{
+"d": "2023-04-28",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - budowa budynku mieszkalnego wielorodzinnego z usługami w parterze, garażem podziemnym oraz niezbędną infrastrukturą",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 36/14, 36/10 z obrębu 2-11-16",
+"adr": "ul. Dzieci Warszawy 7"
+}
+},
+{
+"d": "2023-04-28",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - budowa budynku usługowego (hotelowego) z garażem podziemnym i 20 stanowiskami postojowymi na terenie inwestycji",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 34/2, 34/4, 34/5 z obrębu 2-11-16",
+"adr": "Al.. Jerozolimskie"
+}
+},
+{
+"d": "2023-04-28",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym i 20 stanowiskami postojowymi na terenie inwestycji",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 34/2, 34/4, 34/5 z obrębu 2-11-16",
+"adr": "Al.. Jerozolimskie"
+}
+},
+{
+"d": "2023-05-11",
+"c": {
+"inw": "Wniosek o ustalenie lokalizacji celu publicznego - budowa budynku mieszkalnego wielorodzinnego z usługami w parterze, garażem podziemnym, zbiornikiem retencyjnym, drogą wewnętrzną i naziemnymi miejscami parkingowymi",
+"wn": "Dom Development S.A.",
+"nier": "dz.ew.nr. 173/5, 173/6 z obrębu 2-11-08",
+"adr": "ul. Dzieci Warszawy"
+}
+},
+{
+"d": "2023-05-12",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - budowa budynku mieszkalnego jednorodzinnego",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 13/4 z obrębu 2-11-15",
+"adr": "ul. Tomcia Palucha"
+}
+},
+{
+"d": "2023-05-18",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - przebudowa budynku mieszkalno-usługowego wraz z rozbudową istniejącego placu zabaw",
+"wn": "Miasto Stołeczne Warszawa - Wydział Gospodarowania Nieruchomościmi dla Dzielnicy Ursus",
+"nier": "dz.ew.nr. 91 z obrębu 2-11-14",
+"adr": "ul. Szancera"
+}
+},
+{
+"d": "2023-05-22",
+"c": {
+"inw": "Wniosek o ustalenia warunków zabudowy - zmiana sposobu użytkowania lokalu usługowo-biurowego na lokal usługowo-rehabilitacyjny",
+"wn": "Kamay Sp. z o.o",
+"nier": "dz.ew.nr. 136 z obrębu 2-11-07",
+"adr": "ul. Bochaterów Warszawy 26"
+}
+},
+{
+"d": "2023-05-31",
+"c": {
+"inw": "Wniosek o warunki zabudowy - budowa budynku mieszkalnego, jednorodzinnego",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 196/2 z obr. 2-11-10",
+"adr": "II Armi Wojska Polskiego"
+}
+},
+{
+"d": "2023-06-01",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - budowa budynku jednorodzinnego",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 3/2 z obrębu 2-11-04",
+"adr": "ul. J.Michałowicza"
+}
+},
+{
+"d": "2023-06-13",
+"c": {
+"inw": "Wniosek o warunki zabudowy - budowa dwóch budynków jednorodzinnych w zabudowie bliźniaczej",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 198 z obrębu 2-11-10",
+"adr": "ul. Bodycha"
+}
+},
+{
+"d": "2023-06-15",
+"c": {
+"inw": "Wniosek o warunki zabudowy - nadbudowa budynku usługowego o drugie piętro funkcji mieszkalnej oraz rozbudowa budynku w parterze bez zmiany powierzchni zabudowy wraz z budową i przebudową parkingu.",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 158/1, 158/32 z obrębu 2-11-08",
+"adr": "ul. Dzieci Warszawy"
+}
+},
+{
+"d": "2023-06-16",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - budowa trzech domów jednorodzinnych w zabudowie szeregowej",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 111 z obrębu 2-11-11",
+"adr": "H. Melcera-Szczawińskiego"
+}
+},
+{
+"d": "2023-07-06",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - rozbudowa budynku mieszkalnego jednorodzinnego o dobudowany segment.",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 101/2 z obrębu 2-11-05",
+"adr": "ul. Gen. K. Sosnkowskiego"
+}
+},
+{
+"d": "2023-07-10",
+"c": {
+"inw": "Wniosek o wydanie warunków zabudowy - rozbudowa istniejącego budynku handlowego.",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 1/5, 15/1 z obrębu 2-11-13",
+"adr": "ul. 1 Maja"
+}
+},
+{
+"d": "2023-07-20",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - przebudowa, rozbudowa, nadbudowa i częściowa rozbiórka budynku mieszkalnego jednorodzinnego.",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 62 z obrębu 2-11-01",
+"adr": "Ul. Wysoczyńska 13"
+}
+},
+{
+"d": "2023-07-24",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - zmiana sposobu użytkowania budynku z mieszkalno-usługowego na mieszkalny.",
+"wn": "CTL Centrum Techniki Laserowej",
+"nier": "dz.ew. 59 z obrębu 2-11-07",
+"adr": "ul. Wiosny Ludów"
+}
+},
+{
+"d": "2023-07-24",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - zmiana sposobu użytkowania budynku usługowego na mieszkalny.",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. 51 z obrębu 2-11-07",
+"adr": "ul. Wiosny Ludów"
+}
+},
+{
+"d": "2023-07-26",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym, niezbędną infrastrukturą oraz zagospodarowaniem terenu.",
+"wn": "Amelii Investments Sp. z o.o.",
+"nier": "dz.ew. 147 z obrębu 2-09-09",
+"adr": ""
+}
+},
+{
+"d": "2023-07-28",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - przebudowa lokalu mieszkalnego nr 159 na poddaszu budynku wielorodzinnego poprzez zmianę dachu",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 8/6 z obrębu 2-11-15",
+"adr": "ul.Skoroszewska"
+}
+},
+{
+"d": "2023-07-31",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - budowa budynku mieszkalnego jednorodzinnego i budynku gospodarczego",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 44/1 z obrębu 2-11-01",
+"adr": "ul. Kajetańska"
+}
+},
+{
+"d": "2023-08-08",
+"c": {
+"inw": "wniosek o ustalenie warunków zabudowy- budowa budynku wielorodzinnego z garażem podziemnym dwukondygnacyjnym z infrastrukturą budowlaną",
+"wn": "Spółdzielnia Mieszkaniowa ORZEŁ",
+"nier": "dz.ew. 6/3 z obrębu 2-09-07",
+"adr": "ul. Warszawska"
+}
+},
+{
+"d": "2023-08-11",
+"c": {
+"inw": "wniosek o ustalenie warunków zabudowy- budowa budynku mieszkalnego wielorodzinnego z częścią usługową garażem podziemnym i infrastrukturą",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 46 z obrębu 2-11-16",
+"adr": "ul. Rawska"
+}
+},
+{
+"d": "2023-08-22",
+"c": {
+"inw": "Wniosek o przeniesienie Decyzji 71/U/2021 o warunkach zabudowy - budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym, miejscami parkingowymi naziemnymi i zbiornikiem retencyjnym.",
+"wn": "Dom Land,Sp. z o.o.",
+"nier": "dz.ew. 173/8 z obrębu 2-11-08",
+"adr": "Ul. Przy Forcie"
+}
+},
+{
+"d": "2023-08-23",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - zmiana sposobu użytkowania garażu na pomieszczenia mieszkalne w budynku mieszkalnym jednorodzinnym w zabudowie bliźniaczej.",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 90/2 z obrębu 2-11-07",
+"adr": "ul. H. Opieńskiego"
+}
+},
+{
+"d": "2023-08-24",
+"c": {
+"inw": "Wniosek o zmianę przedmiotu Decyzji 59/U/2022 o warunkach zabudowy - budowa dwóch budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej.",
+"wn": "osoba fizyczna",
+"nier": "dz. ew. nr 5/6 (inwestycja kubaturowa) oraz 5/7 (obsługa komunikacyjna) z obr. 2-11-01",
+"adr": "ul. Piastowska"
+}
+},
+{
+"d": "2023-08-31",
+"c": {
+"inw": "Wniosek o przeniesienie Decyzji 63/U/2023 o warunkach zabudowy",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 37/1 z obrębu 2-11-10",
+"adr": "ul. Noworegulska"
+}
+},
+{
+"d": "2023-09-04",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - budowa zespołu budynków mieszkalnych wielorodzinnych z usługami w parterze, garażami podziemnymi, drogą dojazdową, miejscami postojowymi, stacją transformatorową, zbiornikiem retencyjnym i rozsączającym",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 166/5, 166/6 z obrębu 2-11-08",
+"adr": "ul. Dzieci Warszawy"
+}
+},
+{
+"d": "2023-09-04",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - budowa zespołu budynków wielorodzinnych z usłgami w parterze, garażami podziemnymi, drogą dojazdową, miejscami postojowymi, stacją transformatorową, zbiornikiem retencyjnym i rozsączającym.",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 166/6 z obrębu 2-11-08",
+"adr": "ul. Dzieci Warszawy"
+}
+},
+{
+"d": "2023-09-18",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - rozbudowa, nadbudowa i przebudowa budynku mieszkalnego jednorodzinnego.",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 46 z obrębu 2-11-03",
+"adr": "ul. Ochocka"
+}
+},
+{
+"d": "2023-09-18",
+"c": {
+"inw": "wniosek o ustalenie warunków zabudowy - zmaiana sposobu użytkowania budynku biurowego na lokal mieszkalny w budynku mieszkania wielorodzinnego",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 91/10 z obrębu 2-09-07",
+"adr": "ul. Wojciechowskiego"
+}
+},
+{
+"d": "2023-09-20",
+"c": {
+"inw": "wniosek o ustalenie warunków zabudowy- dom jednorodzinny piętrowy",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 13/30 z obrębu 2-11-15",
+"adr": "ul. Skoroszewska"
+}
+},
+{
+"d": "2023-09-21",
+"c": {
+"inw": "wniosek o ustalenie warunków zabudowy- budowa budynku mieszkalnego wielorodzinnego o 2 bryłach nadziemnych z infrastrukturą i garażem podziemnym",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 185 z obrębu 2-11-11",
+"adr": "Aleja Bzów"
+}
+},
+{
+"d": "2023-09-25",
+"c": {
+"inw": "Wniosek o warunki zabudowy - budowa parkingu naziemnego na 45 miejsc postojowych wraz z drogą wewnętrzną i chodnikiem.",
+"wn": "Robotnicza Spółdzielnia Mieszkaniowa \"Ursus\"",
+"nier": "dz.ew. 12/60,12/62 z obrębu 2-09-07",
+"adr": "ul. Wojciechowskiego"
+}
+},
+{
+"d": "2023-10-03",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - budowa budynku mieszkalnego wielorodzinnego.",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 6 z obrębu 2-11-06",
+"adr": "ul. Cierlicka"
+}
+},
+{
+"d": "2023-10-03",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - budowa zespołu budynków jednorodzinnych w zabudowie szeregowej.",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 45 z obrębu 2-11-01",
+"adr": "ul. Kajetańska"
+}
+},
+{
+"d": "2023-10-03",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - budowa trzech budynków mieszkalnych jednorodzinnych w zabudowie szeregowej.",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 111 z obrębu 2-11-11",
+"adr": "H. Melcera-Szczawińskiego"
+}
+},
+{
+"d": "2023-10-09",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - przebudowa, nadbudowa i częściowa rozbiórka budynku mieszkalnego jednorodzinnego",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 62 z obrębu 2-11-01",
+"adr": "ul Wysoczyńska"
+}
+},
+{
+"d": "2023-10-11",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - budowa budynku mieszkalnego wielorodzinnego z garażami, miejscami parkingowymi, częścią podziemną, elementami zagospodarowania oraz infrastrukturą.",
+"wn": "Eolian Park S.A.",
+"nier": "dz.ew. 172/28 z obrębu 2-11-08",
+"adr": "ul. Ryżowa"
+}
+},
+{
+"d": "2023-10-18",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - budowa budynku usługowo-handlowo-biurowego.",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 66/1 z obrębu 2-11-15",
+"adr": "Al. Jerozolimskie"
+}
+},
+{
+"d": "2023-10-23",
+"c": {
+"inw": "wniosek o ustalenie WZ dla budowy domku letniskowego (ul. Piskorska)- pow. 35 m",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 97/8 z obrębu 2-11-01",
+"adr": "ul. Piskorska 2"
+}
+},
+{
+"d": "2023-11-03",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - urządzenie reklamowe w postaci ekranu świetlnego LED mocowanego do słupa stalowego utwierdzonego w fundamencie betonowym ustawionym na powierzchni gruntu.",
+"wn": "Screen Network Sp. z o.o.",
+"nier": "dz.ew. 80 z obrębu 2-11-16",
+"adr": "ul. Ryżowa"
+}
+},
+{
+"d": "2023-11-07",
+"c": {
+"inw": "Wniosek o ustalenia warunków zabudowy - budowa drogi wewnętrznej wraz ze zjazdami oraz budową infrastruktury technicznej (odwodnienie, kanalizacja deszczowa, oświetlenie).",
+"wn": "TM Investment Holding Sp. z o.o.",
+"nier": "dz.ew.nr. 30/6, 30/11, 30/12 z obrębu 2-11-15",
+"adr": "A. Prystora"
+}
+},
+{
+"d": "2023-11-08",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - budowa budynku mieszkalnego jednorodzinnego i budynku gospodarczego.",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 44/1 z obrębu 2-11-01",
+"adr": "ul. Kajetańska 18"
+}
+},
+{
+"d": "2023-11-10",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - budowa budynku mieszkalnego wielorodzinnego z garażem wolnostanowiskowym nadziemnym wraz z urządzeniami budowlanymi w tym parkingiem zewnętrznym i instalacją gazową",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 114 z obrębu 2-11-04",
+"adr": "ul.J.Michałowicza 52"
+}
+},
+{
+"d": "2023-11-13",
+"c": {
+"inw": "Wniosek o warunki zabudowy - budowa garażu.",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 88/2 z obrębu 2-09-03",
+"adr": "ul. H Pobożnego 5"
+}
+},
+{
+"d": "2023-11-14",
+"c": {
+"inw": "Wniosek o przeniesienie Decyzji 89/U/2023 o warunkach zabudowy - zmiana sposobu użytkowania lokalu biurowego na lokal mieszkalny w budynku mieszkalnym wielorodzinnym.",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 91/10 z obrębu 2-09-07",
+"adr": "S. Wojciechowskiego 35"
+}
+},
+{
+"d": "2023-11-20",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - budowa drogi wewnętrznej o parametrach drogi publicznej.",
+"wn": "SJ Inwestycje",
+"nier": "dz.ew. 167/14 z obrębu 2-11-08",
+"adr": "ul. Przy Forcie"
+}
+},
+{
+"d": "2023-11-20",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - budowa garażu.",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 88/2 z obrębu 2-09-03",
+"adr": "ul. H Pobożnego 5"
+}
+},
+{
+"d": "2023-11-20",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - budynek zamieszkania zbiorowego (hotel).",
+"wn": "JK Budekspert Jakubowski Sp. K. A.",
+"nier": "dz.ew. 128 z obrębu 2-11-07",
+"adr": "ul. T. Kościuszki 26"
+}
+},
+{
+"d": "2023-11-20",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym.",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 56,62 z obrębu 2-11-02",
+"adr": "ul.Szomańskiego 60"
+}
+},
+{
+"d": "2023-11-27",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - postawienie kontenera magazynowego.",
+"wn": "Cetes Cosmetics Poland Sp. z o.o.",
+"nier": "dz.ew. 26 z obrębu 2-11-15",
+"adr": "ul. Bohaterów Warszawy 2"
+}
+},
+{
+"d": "2023-12-04",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - budowa zespołu budynków mieszkalnych jednorodzinnych.",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 181 z obrębu 2-11-11",
+"adr": "ul. Spisaka 4"
+}
+},
+{
+"d": "2023-12-07",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - nadbudowa budynku mieszkalnego w zabudowie bliźniaczej, garażu i pawilonu handlowego.",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 55/1 z obrębu 2-11-06",
+"adr": "ul. Rynkowa 5"
+}
+},
+{
+"d": "2023-12-12",
+"c": {
+"inw": "Wniosek o warunki zabudowy - budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym.",
+"wn": "TM Investment Holding Sp. z o.o.",
+"nier": "dz.ew.nr. 53 z obrębu 2-11-15",
+"adr": "ul. A. Prystora"
+}
+},
+{
+"d": "2023-12-12",
+"c": {
+"inw": "Wniosek o warunki zabudowy - budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym.",
+"wn": "Robyg Young City 3 Sp. z o.o.",
+"nier": "dz.ew.nr. 42 z obrębu 2-11-15",
+"adr": "ul. Ryzowa"
+}
+},
+{
+"d": "2023-12-18",
+"c": {
+"inw": "Wniosek o ustalenie warunków zabudowy - budowa blaszanego garażu.",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. nr 185 z obrębu 2-11-10",
+"adr": "ul. J. Michałowicza 15"
+}
+}
+]
+},
+{
+"id": "wn_pnb",
+"name": "Wnioski o pozwolenie na budowę",
+"short": "Wnioski PnB",
+"desc": "Wnioski o pozwolenie na budowę, rozbiórkę i inne opracowania.",
+"file": "rejestr_wnioskow_o_pozw_na+bud_2023.xlsx",
+"url": "https://cdn.um.warszawa.pl/documents/49065/95521768/rejestr_wnioskow_o_pozw_na+bud_2023.xlsx/14c19b72-6826-c5a3-e100-561daa73aa5a?t=1704451374482",
+"cols": [
+{
+"k": "inw",
+"l": "Rodzaj inwestycji",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Wnioskodawca",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Nieruchomość",
+"w": "mid"
+},
+{
+"k": "adr",
+"l": "Adres",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2023-01-11",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę - budowa parkingu naziemnego dla samochodów osobowych",
+"wn": "Spółdzielnia Budowlano Mieszkaniowa \"Miś\"",
+"nier": "dz.ew.nr. 8/11 z obrębu 2-09-07",
+"adr": "ul. Warszawska"
+}
+},
+{
+"d": "2023-01-16",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę - budowa niepublicznego przedszkola 3-oddziałowego wraz z zagospodarowaniem terenu i niezbędną infrastrukturą techniczną",
+"wn": "Project Consulting",
+"nier": "dz.ew.nr. 64/1 z obrębu 2-09-09",
+"adr": "ul. Lalki 12 A"
+}
+},
+{
+"d": "2023-01-16",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbiórkę - rozbiórka budynku jednorodzinnego z garażem wolnostojącym",
+"wn": "Project Consulting",
+"nier": "dz.ew.nr. 64/1 z obrębu 2-09-09",
+"adr": "ul.Lalki 12 A"
+}
+},
+{
+"d": "2023-01-19",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę - budowa budynku usługowego wraz z garażem podziemnym",
+"wn": "4Console",
+"nier": "dz.ew.nr. 2/1, 2/2 z obrębu 2-09-08",
+"adr": "ul. Władysława Jagiełły 19"
+}
+},
+{
+"d": "2023-01-25",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę - budowa drogi gminnej 45KD-D",
+"wn": "Ursus Vita Sp. z o.o.",
+"nier": "dz.ew.nr. 93/1, 124/1 z obrębu 2-09-09",
+"adr": "ul. Herbu Oksza"
+}
+},
+{
+"d": "2023-01-27",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę - budowa instalacji gazowej",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 25/1 z obrębu 2-11-16",
+"adr": "ul. Dzieci Warszawy 6A"
+}
+},
+{
+"d": "2023-01-30",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę - nadbudowa garażu i przebudowa budynku mieszkalnego jednorodzinnego",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 18/2 z obrębu 2-09-03",
+"adr": "ul. Bolesława Śmiałego 23"
+}
+},
+{
+"d": "2023-01-31",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę - budowa budynku mieszkalnego wielorodzinnego z usługami w parterze, dwupoziomowym garażem podziemnym, wewnętrznym układem drogowym, zewnętrznymi miejscami parkingowymi oraz zagospodarowaniem terenu",
+"wn": "Projekt Hennela Holding Wawel Development Sp. z o.o. S. K.",
+"nier": "dz.ew.nr. 127/1 z obrębu 2-09-09",
+"adr": "ul. Hennela"
+}
+},
+{
+"d": "2023-02-07",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę - przebudowa drogi gminnej i budowa kanału technologicznego",
+"wn": "Petro Development Sp. z o.o.",
+"nier": "dz.ew.nr. 3/8, 114/11, 149/4, 149/5, 2/17, 2/18, 2/19, 2/20, 2/21",
+"adr": "ul. Wiosny Ludów / ul. Legnicka"
+}
+},
+{
+"d": "2023-02-22",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę - rozbudowa i nadbudowa budynku mieszkalnego jednorodzinengo dwulokalowego",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 100 z obrębu 2-11-16",
+"adr": "ul. Żywiecka"
+}
+},
+{
+"d": "2023-02-27",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę - rozbudowa, przebudowa i nadbudowa budynku mieszkalnego jednorodzinengo w zabudowie bliźniaczej",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 99 z obrębu 2-11-04",
+"adr": "ul. J.Michałowicza"
+}
+},
+{
+"d": "2023-03-08",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę - zmiana sposobu użytkowania lokalu usługowego na mieszkalny, przebudowa i połączenie z lokalem mieszkalnym",
+"wn": "Miasto Stołeczne Warszawa",
+"nier": "dz.ew.nr. 69/3 z obrębu 2-11-01",
+"adr": "ul. Regulska 44"
+}
+},
+{
+"d": "2023-03-10",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę - rozbudowa i nadbudowa budynku mieszkalnego jednorodzinnego",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 76 obr. 2-11-04",
+"adr": "ul. Kompanii \"AK\" Kordian"
+}
+},
+{
+"d": "2023-03-15",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę - nadbudowa i przebudowa istniejącego budynku oraz zmiana sposobu użytkowania na budynek mieszkalny z częścią użytkową",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 82/2 z obrębu 2-11-16",
+"adr": "ul. Żywiecka 14"
+}
+},
+{
+"d": "2023-03-15",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę - budowa wiaty śmietnikowej",
+"wn": "Wspólnota Mieszkaniowa PLATANY",
+"nier": "dz.ew.nr. 17/1 z obrębu 2-11-15",
+"adr": "Ryżowa 44"
+}
+},
+{
+"d": "2023-03-16",
+"c": {
+"inw": "Wniosek o zmianę pozwolenia na budowę - rozbudowa i nadbudowa budynku jednorodzinnego z przekształceniem na wielorodzinny wraz z zagospodarowaniem terenu",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 75 obręb 2-11-16",
+"adr": "ul. Żywiecka 13"
+}
+},
+{
+"d": "2023-03-27",
+"c": {
+"inw": "wniosek o pozwolenie na budowę - budynek mieszkalny jednorodzinny z garażem dwustanowiskowym w bryle budynku",
+"wn": "osoba fizyczna",
+"nier": "dz 89/16 obręb 2-09-03",
+"adr": "ul. Pobożnego 3"
+}
+},
+{
+"d": "2023-03-27",
+"c": {
+"inw": "Wniosek o zmianę pozwolenia na budowę - 47/A/2022 rozbudowa drogi gminnej ul. Posag 7 Panien na odcinku od zjazdu dz.ew. 205/4 z obrębu 2-09-09 do ul. Herbu O, budowa ul. Habicha na odcinku od ul. Posag 7 Panien do ul. Kompanii Ak Goplana przebudowa drogi 43kd-d, budowa miejsc postojowych wraz z chodnikiem w ul. Kompanii AK Goplana oraz budowa sieci elektroenergetycznej na odcinku drogi 43KD-D od ul. Herbu oksza",
+"wn": "NP11 Sp. z o.o. Sp. K.",
+"nier": "111/7,111/8,111/10,część działki 111/12,111/13,111/14,111/16,112/5, część działki 112/6,112/9,112/10,część działki 112/14,część działki 152,162/36,część działki 162/38, część działki 172, część działki 176,190, część działki 193 z obrębu 2-09-09",
+"adr": ""
+}
+},
+{
+"d": "2023-03-27",
+"c": {
+"inw": "Wniosek o pozwolenia na budowę - budowa instalacji gazu dla istniejącego budynku mieszkalnego jednorodzinnego",
+"wn": "osoba fizyczna",
+"nier": "dz.13/4 z obrębu 2-09-03",
+"adr": ""
+}
+},
+{
+"d": "2023-03-29",
+"c": {
+"inw": "wniosek o pozwolenie na budowę - przebudowa wnętrza, remont więźby dachowej- w domu mieszkalnym jednorodzinnym w zabudowie bliźniaczej",
+"wn": "osoba fizyczna",
+"nier": "dz 92/2 obręb 2-11-05",
+"adr": "ul. Malinowa 12"
+}
+},
+{
+"d": "2023-03-29",
+"c": {
+"inw": "wniosek o pozwolenie na budowę - budowa dwóch budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej",
+"wn": "osoba fizyczna",
+"nier": "dz 5/6 obręb 2-11-01",
+"adr": "ul. Piastowska"
+}
+},
+{
+"d": "2023-04-05",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę - budowa drogi (ul. Silnikowa) wraz z infrastrukturą towarzyszącą",
+"wn": "Miasto Stołeczne Warszawa",
+"nier": "dz.ew.nr. 100/2, 121/4, 121/10, 121/11, 150/2, 150/4, 161/1 z obrębu 2-09-09",
+"adr": "przy ul. Gierdziejewskiego"
+}
+},
+{
+"d": "2023-04-06",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę - budowa domu kultury wraz z niezbędną infrastrukturą (przyłącze ciepłownicze, oświetlenie, kanalizacja sanitarna, kanalizacja deszczowa, zbiorniki retencyjne) i zagospodarowaniem terenu, oraz obsługą komunikacyjną obiektu",
+"wn": "Miasto Stołeczne Warszawa",
+"nier": "dz.ew.nr. 121/9, 121/8 z obrębu 2-09-09",
+"adr": "ul. Gierdziejewskiego"
+}
+},
+{
+"d": "2023-04-14",
+"c": {
+"inw": "wniosek o pozwolenie na budowę - budowa drogi gminnej- 44KDD na odcinku drogi 8KDL do drogi 42 KDD",
+"wn": "Victoria Dom S.A.",
+"nier": "dz.ew część dz. 98/15, 146/1, 146/4, 220 z obr. 2-09-09, całe działki 98/12, 146/6, 148/1 z obr. 2-09-09",
+"adr": ""
+}
+},
+{
+"d": "2023-04-28",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbiórkę - rozbiórka budynku mieszkalnego jednorodzinnego i garażu wolnostojącego",
+"wn": "Toyota Bielany - Naprawy Powypadkowe, Wynajem Nieruchomości",
+"nier": "dz.ew.nr. 77/3 z obrębu 2-11-16",
+"adr": "Al.jerozolimskie 235"
+}
+},
+{
+"d": "2023-04-28",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę - budowa drogi gminnej 42KDD na odcinku od drogi 44KDD do drogi 19KDL",
+"wn": "Ronson Development Sp. z o.o. - Ursus Centralny Sp. K.",
+"nier": "dz.ew.nr. 148/3 z obrębu 2-09-09",
+"adr": ""
+}
+},
+{
+"d": "2023-04-28",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę - budowa elektroenergetycznej sieci kablowej wysokiego napięcia wraz ze słupami kablowymi oraz kanalizacją światłowodową",
+"wn": "Polish Logistics Propco I Sp. z o.o.",
+"nier": "dz.ew.nr. 122/2, 43 z obrębu 2-09-09",
+"adr": "ul. Licencyjna"
+}
+},
+{
+"d": "2023-05-05",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbiórkę - rozbiórka hali i budynku byłej stacji energetycznej",
+"wn": "Equilis Poland Servis Sp. z o.o.",
+"nier": "dz.ew.nr. 155/2 z obrębu 2-09-09",
+"adr": "ul. Gierdziejewskiego"
+}
+},
+{
+"d": "2023-05-08",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę - budowa sieci kanalizacji sanitarnej",
+"wn": "MPWiK S.A.",
+"nier": "dz.ew.nr. 86/1, 87/1, 97/3, 97/5, 98/5, 98/7, 98/9, 117/1 z obrębu 2-11-16",
+"adr": "ul. Żywiecka"
+}
+},
+{
+"d": "2023-05-12",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę - przebudowa budynku Urzędu Dzielnicy Ursus w części podziemnej na potrzeby archiwum",
+"wn": "Miasto Stołeczne Warszawa Burmistrz Dzielnicy Ursus",
+"nier": "dz.ew.nr. 123/10 z obrębu 2-09-09",
+"adr": "Placu Czerwca 1976 r. nr. 1"
+}
+},
+{
+"d": "2023-05-18",
+"c": {
+"inw": "Wniosek o wydanie decyzji o zmianie pozwolenia na budowę - budowa budynku mieszkalnego jednorodzinnego z wewnętrzną instalacją gazową",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 18/1 z obrębu 2-09-03",
+"adr": "ul. B. Śmiałego 21"
+}
+},
+{
+"d": "2023-05-22",
+"c": {
+"inw": "Wniosek o wydanie pozwolenia na rozbiórkę - rozbiórka elektroenergetycznej sieci napowietrznej wysokiego napięcia 110kV wraz ze słupami w ramach skablowania linii napowietrznej WN-110kV",
+"wn": "Polish Logistics Propco I Sp. z o.o.",
+"nier": "dz.ew.nr. 122/2; 143 z obrębu 2-09-09",
+"adr": "ul. Licencyjna"
+}
+},
+{
+"d": "2023-05-26",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę - budowa wewnętrznej i zewnętrznej instalacji gazowej",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 22 z obrębu 2-09-09",
+"adr": "ul. S. Leszczyńskiego"
+}
+},
+{
+"d": "2023-05-26",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę - budowa wewnętrznej i zewnętrznej instalacji gazowej",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 22 z obrębu 2-09-09",
+"adr": "S.Leszczyńskiego"
+}
+},
+{
+"d": "2023-05-30",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę- budowa dwóch budynków mieszkalnych wielorodzinnych z parkingiem podziemnym, miejscami postojowymi w terenie, oraz infrastrukturą techniczną",
+"wn": "Muniak Developmentsp. z o.o.",
+"nier": "dz. ew. 118/3,118/4,118/5,118/6,118/7,118/8 z obrębu 2-11-10",
+"adr": "ul. Słupska"
+}
+},
+{
+"d": "2023-06-01",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę - rozbudowa ulicy Królowej Bony na odcinku od ul. Przemysława II do ul. Orłów Piastowskich związanej z poprawą odwodnienia",
+"wn": "Miasto Stołeczne Warszawa Bogdan Olesiński-Burmistrz Dzielnicy Ursus m.st. Warszawy",
+"nier": "dz.ew. 58/3,89/22,91/1,91/3,91/4 z obrębu 2-09-03",
+"adr": "ul. Królowej Bony"
+}
+},
+{
+"d": "2023-06-05",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę - budowa budynku mieszkalnego, jednorodzinnego wraz z pojedynczym zbiornikiem podziemnym, instalacji gazowej oraz bezodpływowego zbiornika na nieczystości ciekłe.",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 80/7 z obrębu 2-11-10",
+"adr": "Ul. S. Bodycha"
+}
+},
+{
+"d": "2023-06-07",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbiórkę - rozbiórka budynku przemysłowo-warsztatowego",
+"wn": "Ogniowa BIS DWE Sp. z o.o. Sp. K.",
+"nier": "dz.ew. 120/4, 120/3 z obrębu 2-09-09",
+"adr": "ul. Ogniowa"
+}
+},
+{
+"d": "2023-06-09",
+"c": {
+"inw": "Wniosek o przeniesienie decyzji o pozwolenie na budowę - Decyzja nr. 46/A/2016 - budowa zbiornika wód pożarowych i deszczowych dla budynku magazynowo-biurowego dla funkcji pralni",
+"wn": "GALON Polska Sp. z o.o.",
+"nier": "",
+"adr": ""
+}
+},
+{
+"d": "2023-06-09",
+"c": {
+"inw": "Wniosek o przeniesienie decyzji o pozwoleniu na budowę - Decyzja nr. 166/A/2006 - budowa budynku magazynowo-biurowego dla funkcji pralni",
+"wn": "GALON Polska Sp. z o.o.",
+"nier": "",
+"adr": ""
+}
+},
+{
+"d": "2023-06-12",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę - budowa telekomunikacyjnego obiektu budowlanego telefonii cyfrowej T-Mobile wraz z instalacją elektryczną",
+"wn": "T-Mobile S.A.",
+"nier": "dz.ew. 20/4 z obrębu 2-09-06",
+"adr": "ul. Orląt Lwowskich"
+}
+},
+{
+"d": "2023-06-22",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbiórkę- rozbiórka części budynku mieszkalnego w zabudowie szeregowej",
+"wn": "osoba fizyczna",
+"nier": "dz.22/3 z obrębu 2-11-13",
+"adr": "ul. Drzymały"
+}
+},
+{
+"d": "2023-06-23",
+"c": {
+"inw": "Wniosek o wydanie decyzji o zmianie pozwolenia na budowę - dec. 56/A/2022 z 30.06.2022 - budowa budynku mieszkalnego jednorodzinnego wraz z instalacją gazową.",
+"wn": "osoba fizyczna",
+"nier": "dz.42/1, 42/2 z obrębu 2-11-05",
+"adr": "ul. Prawnicza"
+}
+},
+{
+"d": "2023-06-23",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę - Budowa Instalacji gazowej do budynku mieszkalnego jednorodzinnego dwulokalowego",
+"wn": "osoba fizyczna",
+"nier": "dz.3 z obrębu 2-11-09",
+"adr": "ul. Piastowska"
+}
+},
+{
+"d": "2023-06-26",
+"c": {
+"inw": "wniosek o pozwolenie na budowę - budowa dwóch budynków mieszkalnych jednorodzinnych z garażem w zabudowie bliźniaczej",
+"wn": "osoba fizyczna",
+"nier": "dz. 129 obręb 2-11-11",
+"adr": "ul. Suchy Las"
+}
+},
+{
+"d": "2023-07-04",
+"c": {
+"inw": "Wniosek o zmianę pozwolenia na budowę - budowa budynku wielorodzinnego o 5 kondygnacjach mieszkalnych z garażem podziemnym. (Decyzja 446/99)",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 62/4, 62/3 z obrębu 2-11-15",
+"adr": "ul. Starodęby"
+}
+},
+{
+"d": "2023-07-07",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę - budowa budynku mieszkalnego jednorodzinnego.",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 105 z obrębu 2-09-01",
+"adr": "ul. Kazimierza Jagiellończyka"
+}
+},
+{
+"d": "2023-07-11",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę - rozbudowa z przebudową istniejącego budynku handlowo-usługowego o pomieszczenie skupu butelek.",
+"wn": "Lidl Sp z o.o., Sp.K",
+"nier": "dz.ew. 72/6 z obrębu 2-11-15",
+"adr": "ul. K. Sosnkowskiego"
+}
+},
+{
+"d": "2023-07-17",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę - zabudowa balkonu oknam",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 149/1 z obrębu 2-09-04",
+"adr": "ul. W. Hermana"
+}
+},
+{
+"d": "2023-08-01",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę - przebudowa budynku mieszkalno-usługowego wraz z rozbudową naziemnego placu zabaw przy budynku ul. Szancera 7",
+"wn": "Miasto Stołeczne Warszawy- dzielnica Ursus",
+"nier": "dz.ew. 91 z obrębu 2-11-14",
+"adr": "ul. Szancera 7"
+}
+},
+{
+"d": "2023-08-02",
+"c": {
+"inw": "Wniosek o wydanie decyzji o zezwoleniu na realizację inwestycji drogowej- Hennela -budowa drogi gminnej ulicy T. Hennela od ul. Silnikowej do drogi wewnętrznej przy posesji T.Hennela5 w dzielnicy Ursus",
+"wn": "Prezydent m.st. Warszawy",
+"nier": "dz.ew. 95/1(95/10,95/11), 95/3(95/12,95/13), 123/25( 123/10/,123/109), 123/29, 123/30(123/110, 123/111),127/5,127/4,124/4, z obrębu 2-09-09",
+"adr": "ul. Hennela"
+}
+},
+{
+"d": "2023-08-04",
+"c": {
+"inw": "wniosek o przeniesienie decyzji o PnB- 30/A/2022 - budowa budynku handlowo-usługo- biurowego z elementami zagospodarowania terenu drogami wewnętrznymi",
+"wn": "Ora sp.z o.o.",
+"nier": "dz.ew. 112/20 z obrębu 2-09-09",
+"adr": "ul. Herbu Oksza"
+}
+},
+{
+"d": "2023-08-08",
+"c": {
+"inw": "Pozwolenie na budowę - budowa wewnętrznej i doziemnej instalacji gazowej niskiego ciśnienia do budynku mieszkalnego jednorodzinnego",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 90 z obrębu 2-09-01",
+"adr": "ul. B.Krzywoustego"
+}
+},
+{
+"d": "2023-08-10",
+"c": {
+"inw": "zgłoszenie rozbiórki budynku mieszkalnego jednorodzinnego",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 5/2 z obrębu 2-09-03",
+"adr": "ul. Przemysława II"
+}
+},
+{
+"d": "2023-08-22",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbiórkę - rozbiórka budynku gospodarczego. murowanego, przykrytego dachem.",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 63/2 z obrębu 2-11-06",
+"adr": "ul. Plutonu AK \"Torpedy\""
+}
+},
+{
+"d": "2023-08-22",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę - przebudowa lokalu usługowego w budynku mieszkalno-usługowym.",
+"wn": "Bluerock BB Sp. z o.o.",
+"nier": "dz.ew. 11 z obrębu 2-11-13",
+"adr": "ul. Bohaterów Warszawy"
+}
+},
+{
+"d": "2023-08-24",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę - budowa zespołu budynków mieszkalnych jednorodzinnych w zabudowie szeregowej (4) wraz z sieciami infrastruktury technicznej (wodociągową i kanalizacyjną) i zagospodarowaniem terenu.",
+"wn": "Weisenburger Development Sp. z o.o.",
+"nier": "dz.ew.nr. 45/1, 45/2, 45/3, 46, 47, 63, 43/1, 43/3, 109/2 z obrębu 2-09-01",
+"adr": "ul. S. Leszczyńskiego/H. Brodatego"
+}
+},
+{
+"d": "2023-08-31",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę - rozbudowa z przebudową istniejącego budynku handlowo-usługowego o pomieszczenie skupu butelek.",
+"wn": "Lidl Sp. z o.o. Sp. K",
+"nier": "dz.ew.nr. 75/5 z obrębu 2-09-09",
+"adr": "ul. Władysława Jagiełły"
+}
+},
+{
+"d": "2023-09-01",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę - budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym i naziemnym, infrastrukturą techniczną, wewnętrzną instalacją gazu i zagospodarowaniem terenu.",
+"wn": "Art4home Development Ametyst Sp. z o.o",
+"nier": "dz.ew. 63 z obrębu 2-09-08",
+"adr": "ul.Orląt Lwowskich"
+}
+},
+{
+"d": "2023-09-05",
+"c": {
+"inw": "Wniosek o przeniesienie Decyzji 43/A/2022 - budowa dwóch budynków wielorodzinnych z garażem podziemnym.",
+"wn": "Gomiko Capital Sp. z o.o.",
+"nier": "dz.ew.nr. 39/1, 39/2 z obrębu 2-09-05",
+"adr": "ul.Warszawska"
+}
+},
+{
+"d": "2023-09-08",
+"c": {
+"inw": "wniosek o pozwolenie na budowę - budowa drogi gminnej ul. Silnikowej od skrzyżowania z ul. herbu Oksza( bez skrzyżowania) do zachodniej granicy działki ew 126/10",
+"wn": "UDI TAU SP. Z O. O.",
+"nier": "dz.ew.92/1, 126/3, 126/9, 126/10, 126/11, 126/12 z obrębu 2-09-09",
+"adr": "ul. Silnikowa"
+}
+},
+{
+"d": "2023-09-11",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę - budowa windy zewnętrznej przy budynku użyteczności publicznej.",
+"wn": "Robotnicza Spółdzielnia Mieszkaniowa \"Ursus\"",
+"nier": "dz.ew.nr. 12/74 z obrębu 2-09-07",
+"adr": "ul. Keniga"
+}
+},
+{
+"d": "2023-09-15",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę - budowa budynku przedszkola publicznego wraz z zagospodarowaniem terenu, budową miejsc postojowych, chodników, zjazdu oraz innej infrastruktury technicznej + przyłącza kanalizacji deszczowej wraz ze zbiornikiem retencyjnym.",
+"wn": "Miasto Stołeczne Warszawa - Wydział Infrastruktury dla Dzielnicy Ursus",
+"nier": "dz.ew.nr. 124/3 i 124/4 z obrębu 2-09-09",
+"adr": "ul. Silnikowa"
+}
+},
+{
+"d": "2023-09-19",
+"c": {
+"inw": "wniosek o pozwolenie na budowę-dwutorowa kablowa sieć WN 110kV z dwutorową siecią techniczną relacji RPZ Wiktoryn, RPZ szamoty-RPZ Krakowska",
+"wn": "Stoen Operator sp. z o.o.",
+"nier": "dz.ew. dz. ew. 165/2, 166/4, 167/11,172/14, 174/11 z obrębu 2-11-08,dz.ew. 2/10,1/13,3/2,4/7,4/4,5/2,6/2,16/1,17/3 z obrębu 2-11-16",
+"adr": "al. 4 Czerwca 1989 r."
+}
+},
+{
+"d": "2023-09-20",
+"c": {
+"inw": "wniosek o zmianę PnB- 30/A/2022 - budowa budynku usługowo-biurowego z elementami zagospodarowania terenu, drogami wewnętrznymi i parkingami",
+"wn": "Ora sp.z o.o.",
+"nier": "dz.ew. 112/20 z obrębu 2-09-09",
+"adr": "ul. Herbu Oksza"
+}
+},
+{
+"d": "2023-09-20",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbiórkę budynku mieszkalnego",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. nr 37/1 z obrębu 2-11-10",
+"adr": "ul. Noworegulska"
+}
+},
+{
+"d": "2023-09-21",
+"c": {
+"inw": "wniosek o przeniesienie decyzji 50/A/2022 o pozwoleniu na budowę- budowa zespołu zabudowy mieszkaniowej wielorodzinnej(trzy segmenty) na garazu podziemnym",
+"wn": "Petro Development Sp. z o.o",
+"nier": "dz.ew. nr 185, 3/9 z obrębu 2-11-08",
+"adr": "ul. Władysława Jagiełły"
+}
+},
+{
+"d": "2023-09-22",
+"c": {
+"inw": "Wniosek o wydanie decyzji o zmianie pozwolenia na budowę - budowa budynku przedszkola publicznego wraz z zagospodarowaniem terenu, budową miejsc postojowych, chodników, zjazdu oraz inną infrastrukturą techniczną.",
+"wn": "Miasto Stołeczne Warszawa",
+"nier": "dz.ew. nr 124/3,124/4 z obrębu 2-09-09",
+"adr": "ul. T.Hennela"
+}
+},
+{
+"d": "2023-09-22",
+"c": {
+"inw": "wniosek o pozwolenie na budowę - budowa sieci wodociągowej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji S.A.",
+"nier": "dz.ew. nr 18/2, 19/2 z obrębu 2-11-01",
+"adr": "ul. Z. Markerta"
+}
+},
+{
+"d": "2023-09-27",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę - budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym, miejscami parkingowymi naziemnymi i zbiornikiem retencyjnym.",
+"wn": "Dom Land Sp. z o.o.",
+"nier": "dz.ew. 173/8",
+"adr": "ul. Przy Forcie"
+}
+},
+{
+"d": "2023-09-29",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę - budowa budynku wielorodzinnego z garażem podziemnym",
+"wn": "Dynamisk Invest Sp. z o.o.",
+"nier": "dz.ew.nr. 29/2 z obrębu 2-11-14",
+"adr": "ul. Rakietników"
+}
+},
+{
+"d": "2023-10-16",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę - budowa budynku jednorodzinnego z wewnętrzną instalacją gazową",
+"wn": "JK Budekspert Jakubowski Sp. K.A.",
+"nier": "dz.ew. 128 z obrębu 2-11-07",
+"adr": "ul. T. Kościuszki"
+}
+},
+{
+"d": "2023-10-17",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę - budowa linii kablowej WN 110kV wraz z współbieżną kanalizacji dla kabli światłowodowych.",
+"wn": "Trei Real Estate Poland Sp. z o.o.",
+"nier": "dz.ew.nr. 90, 44/3, 14, 8/3, 8/9 z obrębu 2-09-05",
+"adr": "ul. E. Rakuszanki"
+}
+},
+{
+"d": "2023-10-17",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbiórkę - rozbiórka odcinka linii napowietrzno-kablowej WN 110 kV.",
+"wn": "Trei Real Estate Poland Sp. z o.o.",
+"nier": "dz.ew.nr. 90, 38, 39/1, 39/2, 40/1, 17, 16, 15, 14 z obrębu 2-09-05",
+"adr": "ul. E. Rakuszanki"
+}
+},
+{
+"d": "2023-10-19",
+"c": {
+"inw": "Wniosek o pozwolenie na budowa budynku pawilonu stacji paliw, myjni ręcznej, znaku i stanowiska \"kompresor odkurzacz\", podziemnego zbiornika LPG wraz z odmierzaczem i rurociągami LPG oraz przeniesienie jednego kontenera na butle z gazem oraz rozbiórkę - rozbiórka budynku pawilonu stacji paliw, wiaty naddystrybutorowej LPG, wiaty gospodarczej, znaku i stanowiska \"kopresor odkurzacz\", dwóch nadziemnych zbiorników LPG wraz z odmierzaczem i rurociągami LPG oraz jednego kontenera na butle z gazem.",
+"wn": "Orlen S. A.",
+"nier": "dz.ew.nr. 2/5, 2/6, 2/7 z obrębu 2-09-06",
+"adr": "ul. Orląt Lwowskich"
+}
+},
+{
+"d": "2023-10-25",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę- budowa 14 budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej na terenie działki o nr ew. 20/3 z obrębu 2-11-01 wraz z drogą dojazdową na terenie dz. 19/12 i części dz. 20/2 z obrębu 2-11-01",
+"wn": "MRE URSUS sp. z o.o.",
+"nier": "dz. 20/3, 19/12, 20/2 z obrębu 2-11-01",
+"adr": ""
+}
+},
+{
+"d": "2023-11-13",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę - rozbudowa budynku mieszkalnego jednorodzinnego w zabudowie szeregowej.",
+"wn": "osoba fizyczna",
+"nier": "dz.260 z obrębu 2-11-10",
+"adr": "Kuźnicy Kołłątajowskiej 37"
+}
+},
+{
+"d": "2023-11-14",
+"c": {
+"inw": "Wniosek o przeniesienie Decyzji 77/A/2023 o pozwoleniu na budowę - budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym i zbiornikiem retencyjnym na wody opadowe.",
+"wn": "Ebejot Development Sp. z o.o.",
+"nier": "dz.ew.nr. 48/4 z obrębu 2-11-15",
+"adr": "gen. K. Sosnkowskiego 6"
+}
+},
+{
+"d": "2023-11-17",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę - budowa dwóch budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej.",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 92/2 i 92/4 z obrębu 2-11-08",
+"adr": "ul. Rydzyńska 37"
+}
+},
+{
+"d": "2023-11-24",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę - budowa budynku mieszkalnego jednorodzinnego z wewn. instalacją gazową.",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 52 z obrębu 2-09-02",
+"adr": "ul. S. Leszczyńskeigo"
+}
+},
+{
+"d": "2023-11-29",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę - budowa budynku handlowo-usługowo-biurowo-mieszkalnego wraz z infrastrukturą towarzyszącą.",
+"wn": "Trei Real Estate Poland Sp. z o.o.",
+"nier": "dz.ew.nr. 13/1, 13/2, 38, 90 z obrębu 2-09-05",
+"adr": "ul. Śmigielska"
+}
+},
+{
+"d": "2023-12-05",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbiórkę - rozbiórka budynku mieszkalnego, jednorodzinnego, budynku gospodarczego, garażu i basenu.",
+"wn": "Ryżowe DWE Sp. z o.o. Sp. k.",
+"nier": "dz.ew.nr. 56 i 57 z obrębu 2-11-15",
+"adr": "ul. Ryżowa 72"
+}
+},
+{
+"d": "2023-12-05",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę - budowa budynku mieszkalnego, wielorodzinnego z usługami w parterze, garażem podziemnym, niezbędną infrastrukturą oraz miejscami postojowymi.",
+"wn": "Ryżowe DWE Sp. z o.o. Sp. k.",
+"nier": "dz.ew.nr. 56 i 57 z obrębu 2-11-15",
+"adr": "ul. Ryżowa 72"
+}
+},
+{
+"d": "2023-12-05",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę - budowa budynku usługowo-biurowego oraz rozbudowa parkingu naziemnego.",
+"wn": "LW Development 7 Sp. z o.o.",
+"nier": "dz.ew.nr. 19/9 i 19/11 z obrębu 2-11-16",
+"adr": "ul. Dzieci Warszawy 4"
+}
+},
+{
+"d": "2023-12-08",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę - docieplenie ścian szczytowych budynku mieszkalnego wielorodzinnego.",
+"wn": "Robotnicza Spółdzielnia Mieszkaniowa \"Ursus\"",
+"nier": "dz.ew. 104/2 z obrębu 2-09-06",
+"adr": "ul. Orląt Lwowskich 68"
+}
+},
+{
+"d": "2023-12-14",
+"c": {
+"inw": "Wniosek o przeniesienie Decyzji 90/A/2021 - rozbiórka budynku mieszkalnego jednorodzinnego, dwóch budynków gospodarczych, garażu, wiaty gospodarczej i szklarni oraz budowa budynku mieszkalnego wielorodzinnego z jednokondygnacyjnym garażem podziemnym ora dwoma sekcjami mieszkalnymi, instalacją gazową, skrzynkami rozsączającymi, niezbędnymi urządzeniami infrastruktury technicznej i zagospodarowaniem terenu.",
+"wn": "Atal S.A. Patrycja Grosfeld",
+"nier": "dz.ew. nr 150 z obrębu 2-09-04",
+"adr": "ul. Warszawska 58A"
+}
+},
+{
+"d": "2023-12-18",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę - budowa budynku mieszkalnego jednorodzinnego, niepodpiwniczonego w zabudowie bliźniaczej.",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. nr 13/22 z obrębu 2-11-15",
+"adr": "ul. Tomcia Palucha"
+}
+},
+{
+"d": "2023-12-18",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbiórkę - rozbiórka drewnianego garażu.",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. nr 185 z obrębu 2-11-10",
+"adr": "ul. J. Michałowicza"
+}
+},
+{
+"d": "2023-12-18",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę - budowa budynku żłobka wraz z niezbędną infrastrukturą.",
+"wn": "Petro SO Sp. z o.o.",
+"nier": "dz.ew. 70/1 z obrębu 2-09-05",
+"adr": "ul.Wolności 21"
+}
+},
+{
+"d": "2023-12-19",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę - budowa budynku rozdzielni wraz z liniami kablowymi i infrastrukturą techniczną, instalacją oświetlenia terenu ze słupami oświetleniowymi, drogą wewnętrzną, chodnikami, ogrodzeniem terenu oraz rozbiórka instalacji kanalizacji deszczowej i ogrodzenia.",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "dz.ew.nr. 188 i 156/17 z obrębu 2-09-09",
+"adr": "ul. Szamoty"
+}
+}
+]
+},
+{
+"id": "wn_lcp",
+"name": "Wnioski o lokalizację inwestycji celu publicznego",
+"short": "Wnioski LCP",
+"desc": "Wnioski o wydanie decyzji o ustaleniu lokalizacji inwestycji celu publicznego.",
+"file": "rejestr_wnioskow_lcp_2023.xlsx",
+"url": "https://cdn.um.warszawa.pl/documents/49065/95521768/rejestr_wnioskow_lcp_2023.xlsx/d37a3ab2-c214-5d03-aed1-3853c83da1c8?t=1704451374144",
+"cols": [
+{
+"k": "inw",
+"l": "Rodzaj inwestycji",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Wnioskodawca",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Nieruchomość",
+"w": "mid"
+},
+{
+"k": "adr",
+"l": "Adres",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2023-01-05",
+"c": {
+"inw": "Wniosek o ustalenie lokalizacji inwestycji celu publicznego - budowa garaży dla trzech domów jednorodzinnych w zabudowie szeregowej",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 75 z obrębu 2-11-01",
+"adr": "ul. Wysoczyńska 12"
+}
+},
+{
+"d": "2023-01-27",
+"c": {
+"inw": "Wniosek o ustalenie lokalizacji inwestycji celu publicznego - budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym, zbiornikiem retencyjnym oraz miejscami parkingowymi naziemnymi",
+"wn": "Wiktor Karst \"Kancelaria Radcy Prawnego Wiktor Karst\"",
+"nier": "dz.ew.nr. 173/9 z obrębu 2-11-08",
+"adr": "ul. Dzieci Warszawy"
+}
+},
+{
+"d": "2023-03-16",
+"c": {
+"inw": "Wniosek o ustalenie lokalizacji inwestycji celu publicznego - budowa sieci wodociągowej, kanalizacji sanitarnej oraz deszczowej",
+"wn": "MRE Ursus Sp. z o.o.",
+"nier": "dz.ew.nr. 18/2, 19/2, 19/12, 20/2, 20/3 z obrębu 2-11-01",
+"adr": "ul. Z. Markerta"
+}
+},
+{
+"d": "2023-04-04",
+"c": {
+"inw": "Wniosek o ustalenie lokalizacji inwestycji celu publicznego - budowa i przebudowa sieci gazowej",
+"wn": "Polska Spółka Gazownictwa",
+"nier": "cz.dz.ew.nr. 40/9, 40/7, 30/4, 15/2 z obrębu 2-11-13",
+"adr": "ul. Wapowskiego / ul. 1 Maja"
+}
+},
+{
+"d": "2023-04-04",
+"c": {
+"inw": "Wniosek o ustalenie lokalizacji inwestycji celu publicznego - budowa i przebudowa sieci gazowej",
+"wn": "Polska Spółka Gazownictwa",
+"nier": "dz.ew.nr. 47/1, 69/3, 59, 62/6, 6/3, 25, 40/7 z obrębu 2-11-14",
+"adr": "ul. Obrońców Helu, ul. Adamieckiego ul. Wapowskiego, ul. Bohaterów Warszawy"
+}
+},
+{
+"d": "2023-05-11",
+"c": {
+"inw": "Wniosek o ustalenie lokalizacji celu publicznego - budowa budynku mieszkalnego wielorodzinnego z usługami w parterze, garażem podziemnym, zbiornikiem retencyjnym, drogą wewnętrzną i naziemnymi miejscami parkingowymi",
+"wn": "Dom Development S.A.",
+"nier": "dz.ew.nr. 173/5, 173/6 z obrębu 2-11-08",
+"adr": "ul. Dzieci Warszawy"
+}
+},
+{
+"d": "2023-05-12",
+"c": {
+"inw": "Wniosek o ustalenie lokalizacji celu publicznego - usunięcie kolizji linii elektroenergetycznych z planowaną inwestycją",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "dz.ew.nr. 98/4 z obrębu 2-09-06",
+"adr": "ul. Zagłoby 16"
+}
+},
+{
+"d": "2023-07-11",
+"c": {
+"inw": "Wniosek o ustalenie lokalizacji inwestycji celu publicznego - budowa magistrali wodociągowej o charakterze rozbiorczym.",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji S.A.",
+"nier": "dz.ew.nr. 159/23, 159/24, cz. 159/18 z obrębu 2-11-08, cz.dz.ew.nr. 2/11 z obrębu 2-11-16, dz.ew.nr. 1/1, 1/2, cz. 1/5, cz. 34/2 z obrębu 2-11-15",
+"adr": "ul. Dzieci Warszawy"
+}
+},
+{
+"d": "2023-07-11",
+"c": {
+"inw": "Wniosek o ustalenie lokalizacji inwestycji celu publicznego - budowa magistrali wodociągowej.",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji S.A.",
+"nier": "cz.dz.ew.nr. 159/24 z obrębu 2-11-08, dz.ew.nr. 2/11, 2/4, cz. 51/9, cz. 51/10, cz. 77/3, cz. 80, cz. 51/11 z obrebu 2-11-16, dz.ew.nr. cz. 67/7, cz. 67/6, 34/1, 34/2 z obrębu 2-11-15",
+"adr": "ul. Ryżowa"
+}
+},
+{
+"d": "2023-07-25",
+"c": {
+"inw": "Wniosek o ustalenie lokalizacji inwestycji celu publicznego - budowa sieci wodociągowej rozdzielczej",
+"wn": "TM Investment Holding Sp. z o.o.",
+"nier": "dz. ew. 61, 34/1,34/2 z obrębu 2-11-15",
+"adr": "ul. Ryżowa"
+}
+},
+{
+"d": "2023-07-25",
+"c": {
+"inw": "Wniosek o ustalenie lokalizacji inwestycji celu publicznego - budowa sieci kanalizacji sanitarnej",
+"wn": "TM Investment Holding Sp. z o.o.",
+"nier": "dz. ew. 61, 34/1,34/2 z obrębu 2-11-15, dz.ew.2/4 z obrębu 2-11-16",
+"adr": "ul. Ryżowa"
+}
+},
+{
+"d": "2023-07-27",
+"c": {
+"inw": "Wniosek o ustalenie lokalizacji inwestycji celu publicznego - budowa sieci wodociągowej oraz kanalizacji sanitarnej.",
+"wn": "MRE Ursus Sp. z o.o.",
+"nier": "dz.ew. 18/2, 19/2, 20/2, 20/3 z obrębu 2-11-01",
+"adr": ""
+}
+},
+{
+"d": "2023-07-28",
+"c": {
+"inw": "WNIOSEK O USTALENIE LOKALIZACJI INWESTYCJI CELU PUBLICZNEGO ALBO WARUNKÓW ZABUDOWY- przedłużenie ulicy Apartamentowej",
+"wn": "SJ Inwestycje Sylwia Janczewska",
+"nier": "dz. 167/14 z obrębu 2-11-08",
+"adr": "ul. Przy Forcie"
+}
+},
+{
+"d": "2023-07-31",
+"c": {
+"inw": "Wniosek o ustalenie lokalizacji inwestycji celu publicznego albo warunków zabudowy- budowa sieci gazowej średniego ciśnienia do 0,5 Mpa",
+"wn": "LW Development Leszek Paczyński Sp. z o. o",
+"nier": "dz. 34/2, 37/1, 37/2 z obrębu 2-11-15, część działki 2/11 z obrębu 2-11-16",
+"adr": "ul. Ryżowa"
+}
+},
+{
+"d": "2023-08-23",
+"c": {
+"inw": "Wniosek o ustalenie lokalizacji inwestycji celu publicznego - budowa sieci wodociągowej",
+"wn": "Argali Homes SP. z o.o. Sp.K",
+"nier": "dz. 12/2 z obrębu 2-11-01",
+"adr": "ul. Piastowska"
+}
+},
+{
+"d": "2023-09-05",
+"c": {
+"inw": "Wniosek o ustalenie lokalizacji inwestycji celu publicznego - budowa kanalizacji sanitarnej.",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji S.A.",
+"nier": "cz.dz.ew.nr. 49/1, 15/2, 9, 1/5, 1/4, 6/3 z obrębu 2-11-13",
+"adr": "ul. W.Sławka, 1 Maja"
+}
+},
+{
+"d": "2023-09-05",
+"c": {
+"inw": "Wniosek o ustalenie lokalizacji inwestycji celu publicznego - budowa kanalizacji sanitarnej.",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji",
+"nier": "cz.dz.ew.nr. 49/1, 50/1, 50/2, 50/3, 40/9, 40/10, 61/22, 61/23, 54, 23/4, 25, 40/7, 44, 40/9, 40/10 z obrębu 2-11-13",
+"adr": "ul. K. Pużaka, B. Wapowskiego"
+}
+},
+{
+"d": "2023-09-05",
+"c": {
+"inw": "Wniosek o ustalenie lokalizacji inwestycji celu publicznego - budowa kanalizacji sanitarnej.",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji",
+"nier": "cz.dz.ew.nr. 159/12 z obrębu 2-11-18 cz.dz.ew.nr. 1/4, 90, 88, 103, 34/5, 69/5 z obrębu 2-11-14 cz.dz.ew.nr. 6/5, 33, 40/10 z obrębu 2-11-13",
+"adr": "ul. W. Sławka"
+}
+},
+{
+"d": "2023-09-27",
+"c": {
+"inw": "Wniosek o ustalenie lokalizacji inwestycji celu publicznego - budowa sieci elektroenergetycznej średniego oraz niskiego napięcia, linii kablowej SN, kontenerowej stacji transformatorowej, linii kablowej i złączy kablowych",
+"wn": "Polenergia Dystrybucja Sp. z o.o.",
+"nier": "dz.ew.nr. 4/16, 4/12, 4/13, 3/5, 3/2, 3/6, 3/3, 6/1, 98/4 z obrębu 2-09-06",
+"adr": "ul. Warszawska, Orląt Lwowskiech, Zagłoby"
+}
+},
+{
+"d": "2023-10-03",
+"c": {
+"inw": "Wniosek o ustalenie lokalizacji inwestycji celu publicznego - budowa kanalizacji sanitarnej.",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji S.A.",
+"nier": "dz.ew. nr 23/4, 25, 40/7, 44, 40/9, 40/10 z obrębu 2-11-13",
+"adr": "ul. B. Wapowskiego"
+}
+},
+{
+"d": "2023-10-19",
+"c": {
+"inw": "Budowa stacji kanalizacji sanitarnej",
+"wn": "osoba fizyczna",
+"nier": "dz.43/1 z obrębu 2-11-04",
+"adr": "J. Michałowicza"
+}
+},
+{
+"d": "2023-10-27",
+"c": {
+"inw": "wniosek o ustalenie lokalizacji celu publicznego - przebudowa sieci gazowej ul. Plutonu Torpedy, Opieńskiego, Braterstwa Broni, Bohaterów Warszawy, Rynkowa , Cierlicka, Zakątek",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 158/14 z obrębu 2-11-05",
+"adr": "ul. Plutonu Torpedy, Opieńskiego, Braterstwa Broni, Bohaterów Warszawy, Rynkowa , Cierlicka, Zakątek"
+}
+},
+{
+"d": "2023-11-15",
+"c": {
+"inw": "Wniosek o ustalenie lokalizacji inwestycji celu publicznego - budowa odcinków sieci kanalizacyjnej DN160.",
+"wn": "Fregate Investment Sp. z o.o.",
+"nier": "dz.ew. 30/10 z obrębu 2-11-15",
+"adr": "ul. A. Prystora"
+}
+},
+{
+"d": "2023-12-04",
+"c": {
+"inw": "Wniosek o ustalenie lokalizacji inwestycji celu publicznego - budowa kanalizacji sanitarnej.",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji S.A.",
+"nier": "dz.ew.nr. 49/1, 50/1, 50/2, 50/3, 40/9, 40/10, 61/22, 61/23, 54, 37/33, 44, 48, 30/4, 40/8, 40/7, 55/6, 55/3 z obrębu 2-11-13",
+"adr": "ul. K. Pużaka"
+}
+},
+{
+"d": "2023-12-08",
+"c": {
+"inw": "Wniosek o ustalenie lokalizacji inwestycji celu publicznego - przebudowa sieci ciepłowniczej wraz z przyłączem dla projektowanego budynku wielorodzinnego.",
+"wn": "Petro SO Sp. z o.o.",
+"nier": "cz. dz.ew.nr. 6/5, 7/2, 7/3, 9/1 z obrębu 2-09-07",
+"adr": "ul. Warszawska"
+}
+},
+{
+"d": "2023-12-14",
+"c": {
+"inw": "Wniosek o ustalenie lokalizacji inwestycji celu publicznego - budowa kanalizacji sanitarnej.",
+"wn": "MPWiK",
+"nier": "cz.dz.ew.nr. 159/12 z obrebu 2-11-18, cz.dz.ew.nr. 6/5, 33, 40/10, 61/22, 61/23 z obrębu 2-11-14",
+"adr": "ul. Walerego Sławka"
+}
+},
+{
+"d": "2023-12-14",
+"c": {
+"inw": "Wniosek o ustalenie lokalizacji inwestycji celu publicznego - budowa kanalizacji sanitarnej.",
+"wn": "MPWiK",
+"nier": "cz.dz.ew.nr. 49/1, 15/2, 9, 1/5, 1/4, 6/3, 14/3, 10/1 z obrębu 2-11-13",
+"adr": "ul. 1-go Maja"
+}
+}
+]
+},
+{
+"id": "zgl",
+"name": "Zgłoszenia robót budowlanych",
+"short": "Zgłoszenia RB",
+"desc": "Zgłoszenia robót budowlanych, rozbiórek i innych prac.",
+"file": "rejestr_zgloszen_2023.xlsx",
+"url": "https://cdn.um.warszawa.pl/documents/49065/95521768/rejestr_zgloszen_2023.xlsx/4f02d8ad-668d-4b21-ae7c-f8b3382abc88?t=1704451375219",
+"cols": [
+{
+"k": "inw",
+"l": "Rodzaj inwestycji",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Wnioskodawca",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Nieruchomość",
+"w": "mid"
+},
+{
+"k": "adr",
+"l": "Adres",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2022-02-28",
+"c": {
+"inw": "Zgłoszenie - rozbudowa istniejącej wiaty śmietnikowej",
+"wn": "Wspólnota Mieszkaniowa \"Stromboli\"",
+"nier": "dz.ew.nr. 172/18 z obrębu 2-11-08",
+"adr": "ul. Przy Forcie"
+}
+},
+{
+"d": "2023-01-03",
+"c": {
+"inw": "Zgłoszenie - budowa logo na dachu budynku nr. 6 zespołu budynków mieszkalnych wielorodzinnych z usługami, garażem podziemnym, infrastrukturą techniczną, dojazdami i elementami zagospodarowania terenu",
+"wn": "Ronson Development Sp. z o.o.",
+"nier": "dz.ew.nr. 98/2 z obrębu 2-09-09",
+"adr": "ul. Gierdziejewskiego/ul. Odlewnicza"
+}
+},
+{
+"d": "2023-01-12",
+"c": {
+"inw": "Zgłoszenie - zmiana sposobu użytkowania budynku mieszkalnego jednorodzinnego na budynek mieszkalny jednorodzinny z częścią usługową - gabinet stomatologiczny",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 108/2 z obrębu 2-11-10",
+"adr": "ul. Szomańskiego 10A"
+}
+},
+{
+"d": "2023-01-17",
+"c": {
+"inw": "Zgłoszenie - budowa logo na dachu budynku nr. 8 zespołu budynków mieszkalnych wielorodzinnych z usługami, garażem podziemnym, naziemnymi miejscami parkingowymi, infrastrukturą techniczną, dojazdami i elementami zagospodarowania terenu",
+"wn": "Ronson Development Sp. z o.o. Ursus Centralny Sp. k.",
+"nier": "dz.ew.nr. 98/2 (obecnie 98/11), 148/2 (obecnie 148/10) z obrębu 2-09-09",
+"adr": "ul. Gierdziejewskiego / ul. Odlewnicza"
+}
+},
+{
+"d": "2023-01-19",
+"c": {
+"inw": "Zgłoszenie - budowa tymczasowego pawilonu handlowego",
+"wn": "Robotnicza Spółdzielnia Mieszkaniowa \"Ursus\"",
+"nier": "dz.ew.nr. 1/16 i 1/29 z obrębu 2-09-06",
+"adr": "ul. Orląd Lwowskich"
+}
+},
+{
+"d": "2023-01-19",
+"c": {
+"inw": "Zgłoszenie - remont nawierzchni chodnika",
+"wn": "Miasto Stołeczne Warszawa Burmistrz Dzielnicy Ursus",
+"nier": "dz.ew.nr. 152, 168/4 z obrębu 2-09-09",
+"adr": "ul. Szamoty"
+}
+},
+{
+"d": "2023-01-23",
+"c": {
+"inw": "Zgłoszenie - dowieszenie przewodów pomiędzy istniejącymi słupami nr. 13 i 21B, rozbiórka istniejących przewodów fazowych i odgromowych pomiędzy istniejącymi słupami nr. 13 i 21B a budynkiem stacji",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "dz.ew.nr. 138, 155/2 z obrębu 2-09-09",
+"adr": "ul. Gierdziejewskiego"
+}
+},
+{
+"d": "2023-01-23",
+"c": {
+"inw": "Zgłoszenie - remont budynku mieszkalnego",
+"wn": "Miasto Stołeczne Warszawa Burmistrz Dzielnicy Ursus",
+"nier": "dz.ew.nr. 49 z obrębu 2-09-09",
+"adr": "ul. Władysława Jagiełły 26"
+}
+},
+{
+"d": "2023-01-24",
+"c": {
+"inw": "Zgłoszenie - remont dachu bez zmian konstrukcyjnych, naparawa balkonu, ocieplenie budynku i wszystkie prace zgodne z pismem Konserwatora Zabytków",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 115/1 z obrębu 2-11-07",
+"adr": "ul. T. Kościuszki 22A"
+}
+},
+{
+"d": "2023-01-25",
+"c": {
+"inw": "Zgłoszenie - zmiana sposbu użytkowania nieużytkowego lokalu usługowego na ambolatorium stomatologiczne w budynku mieszkalnym wielorodzinnym z usługami w parterze (montaż ścian działowych, wykonanie instalacji wewnętrznych i wentylacji mechanicznej, nawiewno-wywiewnej)",
+"wn": "ALJAWIP Sp. z o.o.",
+"nier": "dz.ew.nr. 175 z obrębu 2-09-09",
+"adr": "ul. Herbu Oksza 21/LU1"
+}
+},
+{
+"d": "2023-01-30",
+"c": {
+"inw": "Zgłoszenie - zamocowanie znaku reklamowego na dachu budynku mieszkalnego do słupów konstrukcji nośnej, która będzie zamocowana do stelaża z obciążnikami",
+"wn": "Grupa PROFBUD Sp. z o.o.",
+"nier": "dz.ew.nr. 47/3 z obrębu 2-11-15",
+"adr": "ul. Tomcia Palucha 12"
+}
+},
+{
+"d": "2023-02-10",
+"c": {
+"inw": "Zgłoszenie - zmiana sposobu użytkowania magazynu na placówkę edukacyjną",
+"wn": "VEMA Płonowscy Sp. j.",
+"nier": "dz.ew.nr. 1/5 obręb 2-11-16 ul. Ryżówa 33A",
+"adr": "ul. Ryżowa 33A"
+}
+},
+{
+"d": "2023-02-14",
+"c": {
+"inw": "Zgłoszenie - budowa sieci gazowej średniego ciśnienia wraz z budową przyłączy gazu średniego ciśnienia oraz instalacji gazu niskiego ciśnienia",
+"wn": "Polska Spółka Gazownictwa Sp. z o.o.",
+"nier": "dz.ew.nr. 109/2, 109/3, 109/1, 43/1, 43/4, 43/6, 43/7, 43/9, 24, 82/2, 64, 48, 49, 32/9, 34/5, 34/6, 53, 43/8, 36, 38, 41, 42, 40 z obrębu 2-09-01, dz.ew.nr. 55/1, 92/1, 2, 37, 38, 39, 55/2, 57/2, 40, 46, 45, 48, 47, 72/4, 169, 73, 170, 73, 178, 71/4, 72/3, 60, 62/3, 81/1, 64/1, 81/3, 71/1, 83/1, 83/2, 66, 85/1, 70, 87/2 z obrębu 2-09-02",
+"adr": "ul. S. Leszczyńskiego, ul. Z. Augusta, ul. H. Brodatego i ul. Piechoty Wybranieckiej"
+}
+},
+{
+"d": "2023-03-02",
+"c": {
+"inw": "Zgłoszenie - przebudowa i budowy osiedlowej sieci ciepłowniczej",
+"wn": "Polish Logistics Propco I Sp. z o.o.",
+"nier": "dz.ew.nr. 109 z obrębu 2-09-09",
+"adr": "ul. Kompanii AK Goplana"
+}
+},
+{
+"d": "2023-03-06",
+"c": {
+"inw": "Zgłoszenie - wykonanie wiaty fotowoltaicznej typu Carport ze stacją ładowania samochodów osobowych oraz pergoli na rowery z panelami ozdobnymi na elewacji i montaż reklam zewnętrznych",
+"wn": "Rossmann Supermarkety Drogeryjne Polska Sp. z o.o.",
+"nier": "dz.ew.nr. 72/5 z obrębu 2-11-15",
+"adr": "ul. Gen. K. Sosnkowskiego 2"
+}
+},
+{
+"d": "2023-03-13",
+"c": {
+"inw": "Zgłoszenie - budowa sieci wodociągowej",
+"wn": "Towarowa Park Sp. z o.o.",
+"nier": "dz.ew.nr. 208/6, 208/9, 208/10, 208/11 i 208/12 z obrębu 2-09-01",
+"adr": "H. Brodatego"
+}
+},
+{
+"d": "2023-03-16",
+"c": {
+"inw": "Zgłoszenie - budowa sieci ciepłowniczej",
+"wn": "10/165 Robyg Praga Investment Sp. z o.o. Sp. K.",
+"nier": "dz.ew.nr. 152, 111/10, 111/16 z obrębu 2-09-09",
+"adr": "ul. E. Habicha"
+}
+},
+{
+"d": "2023-03-21",
+"c": {
+"inw": "Zgłoszenie - usunięcie kolizji przyłączy elektroenergetycznych z planowaną inwestycją, demontaż i umartwienie przyłączy, przeniesienie złącza, przyłącze do przeniesienego złącza oraz demontaż złączy",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "dz.ew.nr. 98/4 z obrębu 2-09-06",
+"adr": "ul. Zagłoby 16"
+}
+},
+{
+"d": "2023-03-21",
+"c": {
+"inw": "Zgłoszenie - budowa tymczasowego obiektu pawilonu handlowego",
+"wn": "RSM Ursus",
+"nier": "dz.ew.nr. 1/16, 1/29 z obrębu 2-09-06",
+"adr": "ul. Orląt Lwowskich"
+}
+},
+{
+"d": "2023-03-22",
+"c": {
+"inw": "Zgłoszenie - przebudowa podjazdu",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 178 z obrębu 2-09-02",
+"adr": "ul. S. Leszczyńskiego 7A"
+}
+},
+{
+"d": "2023-03-30",
+"c": {
+"inw": "zgłoszenie budowy kanalizacji sanitarnej",
+"wn": "10/165 Robyg Praga Investment I Sp. z o.o. Sp.k.",
+"nier": "dz 180, 126/9, 222 obręb 2-09-09",
+"adr": "ul. Herbu Oksza"
+}
+},
+{
+"d": "2023-03-30",
+"c": {
+"inw": "zgłoszenie budowy osiedlowej sieci ciepłowniczej 2xDN250/400 z komorą spinającą K-1 i przyłączami oraz budowy i przebudowy osiedlowej sieci ciepłowniczej 2xDN200/315",
+"wn": "8/126 Robyg Praga Investment I Sp. z o. o. s.k.",
+"nier": "dz. 146/6,148/1,148/3,126/10,126/11 z obrębu 2-09-09",
+"adr": "Habicha/Silnikowa"
+}
+},
+{
+"d": "2023-04-03",
+"c": {
+"inw": "Zgłoszenie - przebudowa i rozbudowa instalacji gazowej dla dwóch lokali mieszkalnych w istniejącym budynku mieszkalnym wielorodzinnym",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 188 z obrębu 2-11-05",
+"adr": "ul. M. Drzymały"
+}
+},
+{
+"d": "2023-04-07",
+"c": {
+"inw": "Zgłoszenie - remont pionów balkonów w zakresie naprawy izolacji płyt żelbetonowych, miejscowe naprawy tynku elewacji bez zmian kolorystki elewacji",
+"wn": "Wspólnota Mieszkaniowa \"Dzieci Warszawy 27A\"",
+"nier": "dz.ew.nr. 100 z obrębu 2-11-08",
+"adr": "ul. Dzieci Warszawy 27A"
+}
+},
+{
+"d": "2023-04-07",
+"c": {
+"inw": "Zgłoszenie - budowa wolnostojących garaży",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 43/3 z obrębu 2-09-05",
+"adr": "ul. Warszawska 30A"
+}
+},
+{
+"d": "2023-04-07",
+"c": {
+"inw": "zgłoszenie budowy park street workout-",
+"wn": "Miasto Stołeczne Warszawa Burmistrz Dzielnicy Ursus",
+"nier": "Dzieci Warszawy dz 16/4 obręb 2-11-14",
+"adr": "ul. Dzieci Warszawy"
+}
+},
+{
+"d": "2023-04-19",
+"c": {
+"inw": "Zgłoszenie - budowa sieci wodociągowej i kanalizacyjnej",
+"wn": "MPWiK S.A.",
+"nier": "dz.ew.nr. 19/2, 18/2 z obrębu 2-11-01",
+"adr": "ul. Z. Markerta"
+}
+},
+{
+"d": "2023-04-21",
+"c": {
+"inw": "Zgłoszenie - budowa przyłącza sieci ciepłowniczej wraz z przyłączami",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "dz.ew.nr. 6/3, 104/2 z obrębu 2-09-06",
+"adr": "ul. Keniga 3"
+}
+},
+{
+"d": "2023-04-21",
+"c": {
+"inw": "Zgłoszenie - wykonanie zabudowy części tarasu metalowymi słupkami",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 71/1 z obrębu 2-11-08",
+"adr": "ul. Baranowska 17"
+}
+},
+{
+"d": "2023-04-24",
+"c": {
+"inw": "Zgłoszenie - rozbiórka altanki działkowej",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 80/7 z obrębu 2-11-10",
+"adr": "ul. Bodycha"
+}
+},
+{
+"d": "2023-04-24",
+"c": {
+"inw": "Zgłoszenie - budowa wewnętrznej instalacji gazu płynnego oraz instalacji zbiornikowej na gaz płynny z pojedyńczym, podziemnym zbiornikiem dla budynku mieszkalnego jednorodzinnego",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 80/7 z obrębu 2-11-10",
+"adr": "ul. Bodycha"
+}
+},
+{
+"d": "2023-04-24",
+"c": {
+"inw": "Zgłoszenie - wiercenie i zabudowa studni, wykonanie jej obudowy z kręgów betonowych i zamkniecie włazem żelbetonowym",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 80/7 z obrębu 2-11-10",
+"adr": "ul. Bodycha"
+}
+},
+{
+"d": "2023-04-24",
+"c": {
+"inw": "Zgłoszenie - budowa szczelnego zbiornika bezodpływowego na nieczystości ciekłe",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 80/7 z obrębu 2-11-10",
+"adr": "ul. Bodycha"
+}
+},
+{
+"d": "2023-04-24",
+"c": {
+"inw": "Zgłoszenie - budowa sieci wodociągowej poprzez wykop otwarty, szalowany",
+"wn": "Cleveren Holding Sp. z o.o. Sk. k.",
+"nier": "dz.ew.nr. 112/5, 112/6, 112/8, 112/12 z obrębu 2-09-09",
+"adr": "ul. Kompanii AK \"Goplana\""
+}
+},
+{
+"d": "2023-04-24",
+"c": {
+"inw": "Zgłoszenie - budowa sieci kanalizacyjnej poprzez wykop otwarty, szalowany",
+"wn": "Cleveren Holding Sp. z o.o. Sk. k.",
+"nier": "dz.ew.nr. 112/6, 112/8, 110/7, 110/6, 110/5, 110/9, 110/8, 110/2, 110/1, 109 z obrębu 2-09-09",
+"adr": "ul. Kompanii AK \"Goplana\""
+}
+},
+{
+"d": "2023-04-24",
+"c": {
+"inw": "Zgłoszenie - budowa wolnonostojącego budynku mieszkalnego jednorodzinnego do 70m2",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 80/7 z obrębu 2-11-10",
+"adr": "ul. Bodycha"
+}
+},
+{
+"d": "2023-04-27",
+"c": {
+"inw": "Zgłoszenie - budowa instalacji gazowej dla budynku mieszkalnego jednorodzinnego",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 26/1 z obrębu 2-09-01",
+"adr": "ul. Przejazdowa"
+}
+},
+{
+"d": "2023-04-28",
+"c": {
+"inw": "Zgłoszenie - budowy sieci kanalizacji deszczowej, wykop otwarty, szalowany",
+"wn": "8/126 Robyg Praga Investment I Sp. z o. o. S.K.",
+"nier": "dz.ew.nr. 148/3, 148/5, 148/1, 130/1 z obrębu 2-09-09",
+"adr": "ul. E. Habicha"
+}
+},
+{
+"d": "2023-04-28",
+"c": {
+"inw": "Zgłoszenie - budowa sieci kanalizacji sanitarnej, wykop otwarty, szalowany",
+"wn": "8/126 Robyg Praga Investment I Sp. z o. o. S.K.",
+"nier": "dz.ew.nr. 148/1, 148/3 z obrębu 2-09-09",
+"adr": "ul. E. Habicha"
+}
+},
+{
+"d": "2023-04-28",
+"c": {
+"inw": "Zgłoszenie - budowa sieci wodociągowej poprzez wykop otwarty",
+"wn": "8/126 Robyg Praga Investment I Sp. z o. o. S.K.",
+"nier": "dz.ew.nr. 148/1, 148/3 z obrębu 2-09-09",
+"adr": "ul. E.Habicha"
+}
+},
+{
+"d": "2023-04-28",
+"c": {
+"inw": "Zgłoszenie - budowa sieci kanalizacji deszczowej poprzez wykop otwarty",
+"wn": "Fregate Investments Sp. z o.o.",
+"nier": "dz.ew.nr. 30/4, 30/6, 30/8, 30/9, 37/1, 37/2, 34/2 z obrębu 2-11-15",
+"adr": "ul. A. Prystora i ul. Ryżowej"
+}
+},
+{
+"d": "2023-04-28",
+"c": {
+"inw": "Zgłoszenie - budowa sieci kanalizacji deszczowej",
+"wn": "LW DEVELOPMENT Leszek Paczyński Sp. z o.o. Sp. K.A.",
+"nier": "dz.ew.nr. 30/4, 30/6 z obrębu 2-11-15",
+"adr": "ul. Prystora"
+}
+},
+{
+"d": "2023-04-28",
+"c": {
+"inw": "Zgłoszenie - przebudowa przegród zewnętrznych budynku mieszkalnego w zabudowie szeregowej",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 22/3 z obrębu 2-11-12",
+"adr": "UL. Drzymały 1B"
+}
+},
+{
+"d": "2023-05-02",
+"c": {
+"inw": "Zgłoszenie - instalacja gazu ziemnego w budynku mieszkalnym, jednorodzinnym",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 101/2 z obrębu 2-11-05",
+"adr": "ul. Gen. K. Sosnkowskiego 31A"
+}
+},
+{
+"d": "2023-05-02",
+"c": {
+"inw": "Zgłoszenie - instalowanie urządzeń, w tym antenowych konstrukcji wsporczych i instalacji radiokomunikacyjnych, a także związanymi z tymi urządzeniami osprzętu i urządzeń zasilających na obiektach budowlanych stanowiących lub niestanowiących całości techniczno-użytkowej",
+"wn": "T-Mobile Polska S.A. - Raduj Piotr",
+"nier": "dz.ew.nr. 20/4 z obrębu 2-09-06",
+"adr": "ul. Orląt Lwowskich 45"
+}
+},
+{
+"d": "2023-05-09",
+"c": {
+"inw": "Zgłoszenie - zmiana sposobu użytkowania obiektu budowlanego z oddziału banku na usługi oświaty (pomieszczenia szkoły)",
+"wn": "RM S.C. Radosław Głogowski, Maria Głogowska",
+"nier": "dz.ew.nr. 172/1, 172/2, 91/5, 91/7, 91/9, 91/11, 91/12 z obrębu 2-09-07",
+"adr": "przy ul. S. Wojciechowskiego 37"
+}
+},
+{
+"d": "2023-05-12",
+"c": {
+"inw": "Zgłoszenie - budowa szamba",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 84 z obrębu 2-11-16",
+"adr": "ul. Zywiecka 8"
+}
+},
+{
+"d": "2023-05-16",
+"c": {
+"inw": "Zgłoszenie budowy - budowa sieci wodociągowej",
+"wn": "Aragli Homes Sp. z o.o.",
+"nier": "dz.ew.nr. 12/2 z obrębu 2-11-01",
+"adr": "ul. Piastowska"
+}
+},
+{
+"d": "2023-05-18",
+"c": {
+"inw": "Zgłoszenie - budowa sieci kanalizacji sanitarnej",
+"wn": "Dom Development S.A.",
+"nier": "dz.ew.nr. 159/18, 159/23 z obrębu 2-11-08",
+"adr": "ul. Dzieci Warszawy"
+}
+},
+{
+"d": "2023-05-18",
+"c": {
+"inw": "Zgłoszenie - remont istniejącego budynku gospodarczego z funkcją mieszkalną i rozbiórka dawnej kotłowni",
+"wn": "Parafia Rzymsko-Katolicka Św. Rodziny",
+"nier": "dz.ew.nr. 163 z obrębu 2-11-08",
+"adr": "ul. Św. Rodziny 1"
+}
+},
+{
+"d": "2023-05-24",
+"c": {
+"inw": "Zgłoszenie - budowa wiaty śmietnikowej",
+"wn": "Wspólnota Mieszkaniowa Szancera 6",
+"nier": "dz.ew.nr. 90 z obrębu 2-11-14",
+"adr": "ul. Szancera 6"
+}
+},
+{
+"d": "2023-05-25",
+"c": {
+"inw": "Zgłoszenie - budowa linii kablowych w ramach kolizji stacji z projektowaną zabudową",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "dz. ew. 92/11, 92/12, 92/5, 118/4 z obrębu 2-09-09",
+"adr": "ul. Dyrekcyjna"
+}
+},
+{
+"d": "2023-05-26",
+"c": {
+"inw": "Zgłoszenie - przebudowa przegród zewnętrznych budynku mieszkalnego w zabudowie szeregowej",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 22/3 z obrębu 2-11-12",
+"adr": "ul. Drzymały"
+}
+},
+{
+"d": "2023-05-26",
+"c": {
+"inw": "Zgłoszenie - rozbiórka instalacji gazowej z mieszkania",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 224 z obrębu 2-11-05",
+"adr": "ul. Sosnkowskiego"
+}
+},
+{
+"d": "2023-05-26",
+"c": {
+"inw": "Zgłoszenie - zmiana sposobu użytkowania stolarni na budynek mieszkalny jednorodzinny",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 28/2 z obrębu 2-11-09",
+"adr": "ul. Piastowska"
+}
+},
+{
+"d": "2023-05-29",
+"c": {
+"inw": "Zgłoszenie - wykonanie szklano-aluminiowej zabudowy balkonu od barierki do sufitu.",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 28/6 z obrębu 2-11-15",
+"adr": "ul. Składkowskiego"
+}
+},
+{
+"d": "2023-06-01",
+"c": {
+"inw": "Zgłoszenie budowy-wymiana pokrycia dachu z blachodachówki na blachodachówkę modułową, wymiana orynnowania, bez ingerencji w konstrukcję dachu, jego powierzchnię oraz skosy",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 142/2 z obrębu 2-11-08",
+"adr": "ul. Poczty Gdańskiej"
+}
+},
+{
+"d": "2023-06-06",
+"c": {
+"inw": "Zgłoszenie - częściowej rozbiórki budynku magazynowego - rozbiórka połaci dachowej, drewnianych kratownic, ścian z okładziną i tynkiem.",
+"wn": "Zakład Remontów i Konserwacji Dróg Warszawa",
+"nier": "dz.ew. 63 z obrębu 2-11-02",
+"adr": "ul. Kompanii AK Kordian"
+}
+},
+{
+"d": "2023-06-13",
+"c": {
+"inw": "Zgłoszenie - budowa osiedlowej sieci ciepłowniczej i przyłącza ciepłowniczego",
+"wn": "Polish Logistics Propco I Sp. z o.o.",
+"nier": "dz.ew. 109 z obrębu 2-09-09",
+"adr": "ul. Kompanii AK\" Goplana\""
+}
+},
+{
+"d": "2023-06-16",
+"c": {
+"inw": "Zgłoszenie - budowa kanalizacji deszczowej oraz osadnika, separatora i zbiornika retencyjnego",
+"wn": "10/165 Robyg Praga Investment I Sp. z o.o. Sp. K",
+"nier": "dz.ew.nr. 220, 146/6, 146/4, 195, 194, 193, 152, 112/5 z obrębu 2-09- 09",
+"adr": "ul. E. Habicha"
+}
+},
+{
+"d": "2023-06-16",
+"c": {
+"inw": "Zgłoszenie - budowa kanalizacji deszczowej",
+"wn": "10/165 Robyg Praga Investment I Sp. z o.o. Sp. K",
+"nier": "dz.ew.nr. 152, 142/7, 142/8, 178, 166/23, 126/9, 180, 220, 222 z obrębu 2-09-09",
+"adr": "ul. Herbu Oksza"
+}
+},
+{
+"d": "2023-06-16",
+"c": {
+"inw": "Zgłoszenie - budowa kanalizacji deszczowej",
+"wn": "10/165 Robyg Praga Investment I Sp. z o.o. Sp. K",
+"nier": "dz.ew.nr. 112/5, 112/10 z obrębu 2-09-09",
+"adr": "ul. E. Habicha"
+}
+},
+{
+"d": "2023-06-20",
+"c": {
+"inw": "Zgłoszenie - instalacja drewnianego stelażu montowanego bezinwazyjnie do osiatkowania dla bezpieczeństwa dzieci i zwierząt domowych o wysokości 3m.",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 151/1 dz.ew.nr. 175 z obrębu 2-09-09",
+"adr": "ul. E.Habicha, ul. Herbu Oksza"
+}
+},
+{
+"d": "2023-06-23",
+"c": {
+"inw": "Zgłoszenie zmiany sposobu użytkowania obiektu budowlanego - Lokal usługowy zlokalizowany w budynku mieszkalnym z usługami w parterze zamierzony sposób użytkowania- przedszkole integracyjne",
+"wn": "osoba fizyczna",
+"nier": "dz.175,151/1 z obrębu 2-09-09",
+"adr": "ul. E.Habicha"
+}
+},
+{
+"d": "2023-06-26",
+"c": {
+"inw": "zgłoszenie budowy sieci wodociągowej, wykop otwarty, szalowany",
+"wn": "8/126 Robyg Praga Investment I sp. z o.o. s.k.",
+"nier": "dz.148/1,148/3 z obrębu 2-09-09",
+"adr": "ul. E. Habicha"
+}
+},
+{
+"d": "2023-06-30",
+"c": {
+"inw": "Zgłoszenie - demontaż linii kablowych w ramach kolizji stacji z projektowaną zabudową.",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "dz.ew. 92/11 z obrębu 2-09-09",
+"adr": "ul. Dyrekcyjna"
+}
+},
+{
+"d": "2023-07-04",
+"c": {
+"inw": "Zgłoszenie - demontaż stałych urządzeń gaśniczych aerozolowych w obiekcie elektroenergetycznym RPZ.",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "dz.ew.nr. 58/1 z obrębu 2-11-10",
+"adr": "ul. Ochocka"
+}
+},
+{
+"d": "2023-07-05",
+"c": {
+"inw": "Zgłoszenie - rozbiórka komórki gospodarczej",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 155,156/ z obrębu 2-11-07",
+"adr": "ul. T. Kościuszki"
+}
+},
+{
+"d": "2023-07-05",
+"c": {
+"inw": "Zgłoszenie - budowa blaszanego pomieszczenia gospodarczego typu garaż.",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 155,156/ z obrębu 2-11-07",
+"adr": "ul. T. Kościuszki"
+}
+},
+{
+"d": "2023-07-06",
+"c": {
+"inw": "zgłoszenie - budowa obiektów małej architektury.",
+"wn": "Miasto Stołeczne Warszawa",
+"nier": "dz.ew. 33 z obrębu 2-11-14",
+"adr": "ul. Konińska"
+}
+},
+{
+"d": "2023-07-06",
+"c": {
+"inw": "Zgłoszenie - wykonanie nowego pokrycia dachu z blachy dachówkowej na istniejącym pokryciu bitumicznym.",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 108/2 z obrębu 2-11-08",
+"adr": "ul. Baranowska"
+}
+},
+{
+"d": "2023-07-14",
+"c": {
+"inw": "Zgłoszenie zmiany sposobu użytkowania - z lokalu usługowego na działalność oświatową (przedszkole)",
+"wn": "Tog Sp. z o.o. - Sylwia Lenartowicz-Wojciechowska, Paweł Wojciechowski",
+"nier": "dz.ew. 151/1, 175 z obrębu 2-09-02",
+"adr": "ul. E. Habicha"
+}
+},
+{
+"d": "2023-07-14",
+"c": {
+"inw": "Zgłoszenie - wykonania barierki ochronnej na dachu nieużytkowym budynku mieszkalnego.",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 36/13 z obrębu 2-11-15",
+"adr": "ul. Skoroszewska"
+}
+},
+{
+"d": "2023-07-18",
+"c": {
+"inw": "Zgłoszenie - wykonanie chodnika.",
+"wn": "Wspólnota Mieszkaniowa Szancera 6",
+"nier": "dz.ew. 20/1 z obrębu 2-11-14",
+"adr": "ul. M. Szancera"
+}
+},
+{
+"d": "2023-07-19",
+"c": {
+"inw": "Zgłoszenie - zmiany okna na okno balkonowe.",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 36/3 z obrebu 2-09-04",
+"adr": "ul. Jesienna"
+}
+},
+{
+"d": "2023-07-19",
+"c": {
+"inw": "Zgłoszenie - instalowania wewnętrznej instalacji gazowej w lokalu mieszkalnym w budynku wielorodzinnym.",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 8/9 z obrębu 2-09-07",
+"adr": "ul. Warszawska"
+}
+},
+{
+"d": "2023-07-21",
+"c": {
+"inw": "Zgłoszenie - wymiana pokrycia dachu z blachy na papę.",
+"wn": "Wspólnota Mieszkaniowa Skoroszewska 1A",
+"nier": "dz.ew.nr. 9/7 z obrębu 2-11-15",
+"adr": "ul. Skoroszewska"
+}
+},
+{
+"d": "2023-07-21",
+"c": {
+"inw": "Zgłoszenie - zmiana sposobu użytkowania z lokalu usługowego na przedszkole integracyjne w budynku mieszkalnym.",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 179 z obrębu 2-09-09",
+"adr": "ul. Herbu Oksza"
+}
+},
+{
+"d": "2023-08-01",
+"c": {
+"inw": "zgłoszenie budowy budynku gospodarczego z funkcją mieszkalną, jednorodzinną, budowa systemem gospodarczym -",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 52/1 z obrębu 2-09-05",
+"adr": "ul. Orłów Piastowskich"
+}
+},
+{
+"d": "2023-08-01",
+"c": {
+"inw": "Zgłoszenie budowy sieci wodociągowej DN 100mm L=85,40 mb oraz budowa sieci kanalizacyjnej fi 200mm L=78,15 mb wraz z odcinkami sieci kanalizacyjnej fi 160mm L=25,75 mb-",
+"wn": "MPWiK S.A.",
+"nier": "dz.ew. 19/2, 18/2 z obrębu 2-11-01",
+"adr": "ul. Z. Merkerta"
+}
+},
+{
+"d": "2023-08-08",
+"c": {
+"inw": "zgłoszenie rozbiórki (szopki)",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 63/2 z obrębu 2-11-06",
+"adr": "Plutonu AK „Torpedy”"
+}
+},
+{
+"d": "2023-08-08",
+"c": {
+"inw": "zgłoszenie przebudowy komory ciepłowniczej M-42Traktorzystów",
+"wn": "VEOLIA ENERGIA WARSZAWA S.A",
+"nier": "dz.ew. 84/1 z obrębu 2-09-09",
+"adr": "ul. Traktorzystów"
+}
+},
+{
+"d": "2023-08-08",
+"c": {
+"inw": "zgłoszenie budowy sieci wodociągowej DN 150mm na długości L-298,4m, wykop otwarty szalowany",
+"wn": "Cleveren Holding Sp. z o.o.",
+"nier": "dz.ew. 112/5, 112/6, 112/8 zobrębu 2-09-09",
+"adr": "Kompanii AK „Goplana”"
+}
+},
+{
+"d": "2023-08-08",
+"c": {
+"inw": "zgłoszenie remont nawierzchni jezdni ul. Orląt Lwowskich w rejonie stacji PKP\"Ursus Niedźwiadek\" o powierzchni około 650 m",
+"wn": "Miasto St. Warszawa",
+"nier": "dz.ew. 9/8, 9/9, 9/6,9/5, 9/1, 9/10 z obrębu 2-09-06, dz.ew. 1/6,1/4,20/13,20/10,20/12 z obrębu 2-09-07",
+"adr": "ul. Orląt Lwowskich"
+}
+},
+{
+"d": "2023-08-09",
+"c": {
+"inw": "Zgłoszenie Budowa odcinka sieci ciepłowniczej i przyłącza ciepłowniczego do budynku przedszkola publicznego przy ulicy Hennela w Warszawie.",
+"wn": "Miasto St. Warszawa",
+"nier": "dz.ew. 124/3,124/4 z obrębu 2-09-09",
+"adr": "ul. T. Hennela"
+}
+},
+{
+"d": "2023-08-10",
+"c": {
+"inw": "zgłoszenie budowa instalacji gazowej dla budynku mieszkalnego jednorodzinnego użytkowego",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 80 z obrębu 2-11-06",
+"adr": "ul. Bohaterów Warszawy"
+}
+},
+{
+"d": "2023-08-16",
+"c": {
+"inw": "Zgłoszenie - remont drogi gminnej ul. Orłów Piastowskich, konstrukcja jezdni, chodników i zjazdów wraz z wymianą krawężników oraz obrzeży.",
+"wn": "Miasto St. Warszawa",
+"nier": "dz.ew.nr. 48, 60/1, 60/4, 89/20 z obrębu 2-09-03, dz.ew.nr. 149/1 z obrębu 2-09-02, dz.ew.nr. 4/1, 4/3, 4/6, 4/8 z obrębu 2-09-05",
+"adr": "ul. E. Rakuszanki/ Czerwona droga"
+}
+},
+{
+"d": "2023-08-21",
+"c": {
+"inw": "Zgłoszenie - remont na balkonach.",
+"wn": "Wspólnota Mieszkaniowa Skorosze IX",
+"nier": "dz.ew. 109, 22/2 z obrębu 2-11-15",
+"adr": "ul. Ryżowa"
+}
+},
+{
+"d": "2023-08-24",
+"c": {
+"inw": "Zgłoszenie - budowa chodnika w pasie drogowym",
+"wn": "Ursus Equilis Sp. z o.o",
+"nier": "cz.dz.ew.nr. 155/1 i 132/1, dz.ew.nr. 158/1 z obrębu 2-09-09",
+"adr": "ul. Posag 7 Panien"
+}
+},
+{
+"d": "2023-08-25",
+"c": {
+"inw": "Zgłoszenie - postawienie tymczasowych, nie połączonych trwale z gruntem oraz przewidzianych do przeniesienia kontenerów przenośnych oraz morskich przenośnych.",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 35/8 z obrębu 2-11-16",
+"adr": "Al.. Jerozolimskie"
+}
+},
+{
+"d": "2023-08-31",
+"c": {
+"inw": "Zgłoszenie - posadowienie tablicy promocyjnej.",
+"wn": "Mobilis Sp. z o.o",
+"nier": "dz.ew.nr. 112/4 z obrębu 2-09-09",
+"adr": "ul. Posag 7 Panien"
+}
+},
+{
+"d": "2023-09-05",
+"c": {
+"inw": "Wniosek o przeniesienie praw i obowiązków wynikających ze zgłoszenia - rozbiórka dwóch budynków mieszkalnych i jednego budynku usługowo-handlowego.",
+"wn": "Gomiko Capital Sp. z o.o.",
+"nier": "dz.ew.nr. 39/1, 39/2 z obrębu 2-09-05",
+"adr": "Ul. Warszawska"
+}
+},
+{
+"d": "2023-09-05",
+"c": {
+"inw": "Zgłoszenie - postawienie składanego garażu do 35m2.",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 119/1 i 119/3 z obrebu 2-09-02",
+"adr": "ul. Henryka Probusa"
+}
+},
+{
+"d": "2023-09-07",
+"c": {
+"inw": "Zgłoszenie budowy-SIECI KANALIZACJI SANITARNEJ",
+"wn": "MURAPOL REAL ESTATE S.A",
+"nier": "dz.ew. 152, 111/6, 111/5 z obrębu 2-09-09",
+"adr": "ul. Posag 7 Panien"
+}
+},
+{
+"d": "2023-09-08",
+"c": {
+"inw": "zgłoszenie budowy- remont budynków,których wymaga uzyskanie decyzji o pozwoleniu na budowę- w zakresie przegród wewnętrznych albo elementów konstrukcyjnych.Przewiduje się remont przegrody zewnętrznej-dachu poprzez wymianę jego pokrycia sposobem generalnego wykonawstwa",
+"wn": "Wspólnota Mieszkaniowa Skoroszewska 1A",
+"nier": "dz.ew. 9/7 z obrębu 2-11-15",
+"adr": "ul. Skoroszewska 1A"
+}
+},
+{
+"d": "2023-09-11",
+"c": {
+"inw": "Zgłoszenie - posadowienia kontenera przeznaczonego do składowania materiałów pożarowo niebezpiecznych na 180 dni.",
+"wn": "Cetes Cosmetics Poland Sp. z o.o.",
+"nier": "dz.ew.nr. 26 z obrębu 2-11-15",
+"adr": "ul. Bohaterów Warszawy"
+}
+},
+{
+"d": "2023-09-15",
+"c": {
+"inw": "Zgłoszenie remontu pomieszczeń Szkoły Podstawowej nr 2 im.Jana Pawła II",
+"wn": "Miasto Stołeczne Warszawa",
+"nier": "dz.ew. 3,5/2 z obrębu 2-09-05",
+"adr": "ul. Orłów Piastowskich"
+}
+},
+{
+"d": "2023-09-18",
+"c": {
+"inw": "zgłoszenie rozbiórki budynku murowanego",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 37/1",
+"adr": "ul. Noworegulska"
+}
+},
+{
+"d": "2023-09-20",
+"c": {
+"inw": "zgłosznie postawienia kontenera tymczasowego",
+"wn": "Muniak Development Sp. z o.o.",
+"nier": "dz.ew. nr 118/3 z obrębu 2-11-10",
+"adr": "ul. Słupska"
+}
+},
+{
+"d": "2023-09-22",
+"c": {
+"inw": "Zgłoszenie - zabudowa balkonu w systemie bezramowym.",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. nr 180 z obrębu 2-09-04",
+"adr": "ul. Królów Polskich"
+}
+},
+{
+"d": "2023-09-25",
+"c": {
+"inw": "Zgłoszenie - wymiana pokrycia dachu oraz zabudowa balkonów.",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. nr. 42 z obrebu 2-11-12",
+"adr": "ul.S.Bodycha"
+}
+},
+{
+"d": "2023-09-27",
+"c": {
+"inw": "Zgłoszenie - wykonanie utwardzenia nawierzchni oraz nasadzenie zieleni miejskiej.",
+"wn": "Ronson Development Sp. z o.o. - Ursus Centralny Sp. K.",
+"nier": "dz.ew.nr. 98/14, 148/11 z obrębu 2-09-09",
+"adr": "ul. Silnikowa"
+}
+},
+{
+"d": "2023-10-03",
+"c": {
+"inw": "Zgłoszenie - budowa elektroenergetycznej sieci kablowej.",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "dz.ew. 98/4 z obrębu 2-09-06",
+"adr": "ul. Zagłoby"
+}
+},
+{
+"d": "2023-10-04",
+"c": {
+"inw": "Zgłoszenie - budowa sieci kanalizacji deszczowej.",
+"wn": "10/165 Robyg Praga Investment I Sp. z o.o. Sp. K.",
+"nier": "dz.ew.nr. 205/3, 111/110, 111/16, 152, 176, 193, 172, 112/14, 112/5 z obrębu 2-09-09",
+"adr": "ul. Posag 7 Panien"
+}
+},
+{
+"d": "2023-10-10",
+"c": {
+"inw": "Zgłoszenie - budowa domku letniskowego z poddaszem nieużytkowym.",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 97/8 z obrębu 2-11-01",
+"adr": "ul. Piskorska"
+}
+},
+{
+"d": "2023-10-11",
+"c": {
+"inw": "Zgłoszenie - budowa osiedlowej sieci ciepłowniczej od komory do preizolowanego kompensatora.",
+"wn": "VEOLIA ENERGIA WARSZAWA S.A",
+"nier": "dz.ew.nr. 51/1, 51/6, 51/7, 87/10, 87/11, 93/9, 93/7, 93/1 z obrębu 2-11-05",
+"adr": "ul. Plutonu AK „Torpedy”"
+}
+},
+{
+"d": "2023-10-16",
+"c": {
+"inw": "Zgłoszenie - budowa kanalizacji deszczowej, osadnika, separatora i zbiornika retencyjnego.",
+"wn": "10/165 Robyg Praga Investment I Sp. z o.o. Sp. K.",
+"nier": "dz.ew.nr. 152, 142/7, 142/8, 178, 166/23, 126/9, 180, 220, 222 z obrębu 2-09-09",
+"adr": "ul. Herbu Oksza"
+}
+},
+{
+"d": "2023-10-16",
+"c": {
+"inw": "Zgłoszenie - budowa kanalizacji deszczowej, osadnika, separatora i zbiornika retencyjnego.",
+"wn": "10/165 Robyg Praga Investment I Sp. z o.o. Sp. K.",
+"nier": "dz.ew.nr. 220, 146/6, 146/4, 195, 194, 193, 152, 112/5 z obrębu 2-09- 09",
+"adr": "E. Habicha"
+}
+},
+{
+"d": "2023-10-17",
+"c": {
+"inw": "Zgłoszenie - montaż balkonu/zadaszenia nad boiskiem piłkarskim ORLIK.",
+"wn": "Ośrodek Sportu i Rekreacji Miasta st. Warszawy w Dzielnicy Ursus",
+"nier": "dz.ew.nr. 31/12, 31/13 z obrębu 2-11-12",
+"adr": "gen. K. Sosnkowskiego"
+}
+},
+{
+"d": "2023-10-19",
+"c": {
+"inw": "zgłoszenie wymiany poszycia dachowego, zdjęcie eternitu",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 26/2 z obrębu 2-11-01",
+"adr": "Kajetańska"
+}
+},
+{
+"d": "2023-10-19",
+"c": {
+"inw": "Zgłoszenie - budowa sieci kanalizacji deszczowej",
+"wn": "8/126 Robyg Praga Investment I Sp. z o. o. s.k.",
+"nier": "dz.ew.nr. 148/3, 148/5, 148/1, 130/1 z obrębu 2-09-09",
+"adr": "E. Habicha"
+}
+},
+{
+"d": "2023-10-19",
+"c": {
+"inw": "Zgłoszenie - budowa przyłącza elektroenergetycznego, stacji ładowania z wyłączeniem infrastruktury ładowania drogowego transportu publicznego.",
+"wn": "Euroservice Sp. j. M. Janowski - J. Czech",
+"nier": "dz.ew.nr. 68/1 z obrębu 2-11-15",
+"adr": "Al. Jerozolimskie 239"
+}
+},
+{
+"d": "2023-10-25",
+"c": {
+"inw": "zgłoszenie zmiany sposobu użytkowania ul. Szomańskiego 10a",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 108/2 z obrębu 2-11-10",
+"adr": "Szomańskiego"
+}
+},
+{
+"d": "2023-10-25",
+"c": {
+"inw": "zgłoszenie przebudowy budynku mieszkalnego wielorodzinngo - 1 Maja 13",
+"wn": "Miasto Stołeczne Warszawa Burmistrz Dzielnicy Ursus",
+"nier": "dz.ew. 22,23/1,20/2,30/4 z obrębu 2-11-13",
+"adr": "ul. 1-go Maja"
+}
+},
+{
+"d": "2023-10-26",
+"c": {
+"inw": "zgłoszenie budowy blaszanego garażu - ul. Ryżowa 51",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 91/2 z obrębu 2-11-16",
+"adr": "Ryżowa"
+}
+},
+{
+"d": "2023-10-27",
+"c": {
+"inw": "zgłoszeneie zmiany sposobu użytkowania- usługowy- przedszkole- Taylora 4",
+"wn": "Amd warszawa sp. z o.o.",
+"nier": "dz.ew. 98/2 z obrębu 2-09-09",
+"adr": "K. Taylora"
+}
+},
+{
+"d": "2023-10-31",
+"c": {
+"inw": "Zgłoszenie - budowa elektroenergetycznej stacji transformatorowej.",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "dz.ew. 208/10 z obrębu 2-09-01",
+"adr": "H. Brodatego"
+}
+},
+{
+"d": "2023-10-31",
+"c": {
+"inw": "Zgłoszenie - budowa elektroenergetycznej stacji transformatorowej.",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "dz.ew.nr. 208/10 z obrębu 2-09-01",
+"adr": "ul. Henryka Brodatego"
+}
+},
+{
+"d": "2023-11-02",
+"c": {
+"inw": "Zgłoszenie - rozbiórka części tarasu.",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. z obrębu 2-11-01",
+"adr": "Regulska 4"
+}
+},
+{
+"d": "2023-11-07",
+"c": {
+"inw": "Zgłoszenie - budowa elektroenergetycznej sieci kablowej nN 0,4 kV o długości 120m.",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "dz.ew.nr. 45/2, 45/3, 43/3 z obrebu 2-09-01",
+"adr": "ul. S. Leszczyńskiego"
+}
+},
+{
+"d": "2023-11-09",
+"c": {
+"inw": "Zgłoszenie - rozbiórka parterowego budynku mieszkalnego.",
+"wn": "Miasto Stołeczne Warszawa",
+"nier": "dz.ew. 13 z obrębu 2-09-04",
+"adr": "ul. Królowej Bony 45"
+}
+},
+{
+"d": "2023-11-10",
+"c": {
+"inw": "Zgłoszenie - budowa garażu metalowego do 35m2.",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 185 z obrębu 2-11-10",
+"adr": "ul. J Michałowicza"
+}
+},
+{
+"d": "2023-11-13",
+"c": {
+"inw": "Zgłoszenie - posadowienie obiektów tymczasowych (dwóch kontenerów) nietrwale związanych z gruntem.",
+"wn": "Orlen S.A.",
+"nier": "dz.ew.nr. 2/5, 2/6, 2/7 z obrębu 2-09-06",
+"adr": "ul. Orlat Lwowskich"
+}
+},
+{
+"d": "2023-11-13",
+"c": {
+"inw": "Zgłoszenie - budowa sieci kanalizacji sanitarnej.",
+"wn": "8/126 Robyg Praga Investment I Sp. z o. o. s.k.",
+"nier": "dz.ew.nr. 93/2, 126/9, 126/28, 222, 220 z obrębu 2-09-09",
+"adr": "ul. Herbu Oksza/Odlewnicza"
+}
+},
+{
+"d": "2023-11-20",
+"c": {
+"inw": "Zgłoszenie - remont drogi gminnej, wymiana konstrukcji chodnika, zjazdu, krawężników oraz obrzeży.",
+"wn": "Miasto Stołeczne Warszawa",
+"nier": "dz.ew. 60/4 z obrębu 2-11-13",
+"adr": "ul. Kolorowa"
+}
+},
+{
+"d": "2023-11-23",
+"c": {
+"inw": "Zgłoszenie - budowa przyłączy wodociągowo-kanalizacyjnych do projektowanej hali magazynowej.",
+"wn": "Polish Logistics Propco I Sp. z o.o.",
+"nier": "dz.ew. 111/12,109 z obrębu 2-09-09",
+"adr": "Kompanii AK „Goplana”"
+}
+},
+{
+"d": "2023-11-24",
+"c": {
+"inw": "Zgłoszenie - przebudowa dróg gminnych w zakresie budowy chodników i oświetlenia ulicznego oraz wymiana nawierzchni jezdni.",
+"wn": "Spravia Sp. z o.o.",
+"nier": "",
+"adr": "ul. Tomcia Palucha, W. Hassa"
+}
+},
+{
+"d": "2023-11-28",
+"c": {
+"inw": "Zgłoszenie zmiany sposobu użytkowania - zmiana pomieszczenia garażowego na mieszkalne.",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 90/2 z obrebu 2-11-07",
+"adr": "ul. Opieńskiego"
+}
+},
+{
+"d": "2023-12-05",
+"c": {
+"inw": "Zgłoszenie - postawienie hali namiotowej.",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 10/3 z obrębu 2-11-16",
+"adr": "ul. Przerwana"
+}
+},
+{
+"d": "2023-12-14",
+"c": {
+"inw": "Zgłoszenie - budowa zewnętrznej instalacji gazowej dla budynku mieszkalnego jednorodzinnego.",
+"wn": "osoba fizyczna",
+"nier": "dz.ew.nr. 13/3 z obrebu 2-11-15",
+"adr": "ul. Tomcia Palucha"
+}
+},
+{
+"d": "2023-12-18",
+"c": {
+"inw": "Zgłoszenie - przebudowa wewnętrznej instalacji gazowej w budynku mieszkalnym wielorodzinnym.",
+"wn": "Wspólnota Mieszkaniowa \"Dąbka 5\"",
+"nier": "dz.ew.nr. 66 z obrębu 2-11-13",
+"adr": "ul. Dębka 5"
+}
+},
+{
+"d": "2023-12-18",
+"c": {
+"inw": "Zgłoszenie - modernizacja boiska treningowego.",
+"wn": "Ośrodek Sportu i Rekreacji Miasta st. Warszawy w Dzielnicy Ursus",
+"nier": "dz.ew.nr. 31/8, 31/9, 31/10, 31/11 z obrębu 2-11-12",
+"adr": "gen. K. Sosnkowskiego"
+}
+},
+{
+"d": "2023-12-18",
+"c": {
+"inw": "Zgłoszenie - przebudowa i budowa przyłącza sieci ciepłowniczej.",
+"wn": "VEOLIA ENERGIA WARSZAWA S.A",
+"nier": "dz.ew. nr 6/3, 104/2 z obrebu 2-09-06",
+"adr": "ul. M. Keniga"
+}
+},
+{
+"d": "2023-12-18",
+"c": {
+"inw": "Zgłoszenie - przebudowa i budowa przyłącza sieci ciepłowniczej.",
+"wn": "VEOLIA ENERGIA WARSZAWA S.A",
+"nier": "dz.ew.nr. 6/3, 104/2 z obrębu 2-09-06",
+"adr": "ul. M. Keniga"
+}
+},
+{
+"d": "2023-12-19",
+"c": {
+"inw": "Zgłoszenie - budowa stacji ładowania samochodów elektrycznych.",
+"wn": "Poland Business Park X sp. z o.o.",
+"nier": "dz.ew.nr. 99 z obrębu 2-09-09",
+"adr": "ul. Posag 7 Panien"
+}
+},
+{
+"d": "2023-12-21",
+"c": {
+"inw": "Zgłoszenie - zmiana sposobu użytkowania lokalu usługowego na niepubliczne przedszkole.",
+"wn": "osoba fizyczna",
+"nier": "dz.ew. 126/4, 126/5 z obrębu 2-09-09",
+"adr": "ul. E. Habicha"
+}
+},
+{
+"d": "2023-12-29",
+"c": {
+"inw": "Zgłoszenie - montaż nieoświetlonej gabloty reklamowej na wiacie przystankowej Gierdziejewskiego 01.",
+"wn": "Warexpo Sp. z o.o.",
+"nier": "dz.ew.nr. 114/8 z obrębu 2-09-09",
+"adr": "Gierdziejewskiego 01"
+}
+},
+{
+"d": "2023-12-29",
+"c": {
+"inw": "Zgłoszenie - montaż nieoświetlonej gabloty reklamowej na wiacie przystankowej Prażmowska 02.",
+"wn": "Warexpo Sp. z o.o.",
+"nier": "dz.ew. nr. 77/1 z obrębu 2-11-02",
+"adr": "ul. Regulska"
+}
+},
+{
+"d": "2023-12-29",
+"c": {
+"inw": "Zgłoszenie - montaż nieoświetlonej gabloty reklamowej na wiacie przystankowej Zapusta 04.",
+"wn": "Warexpo Sp. z o.o.",
+"nier": "dz.ew.nr. 172/14 z obrębu 2-11-08",
+"adr": "Al. 4 Czerwca 1989 r."
+}
+},
+{
+"d": "2023-12-29",
+"c": {
+"inw": "Zgłoszenie - montaż nieoświetlonej gabloty reklamowej na wiacie przystankowej Szancera 02.",
+"wn": "Warexpo Sp. z o.o.",
+"nier": "dz.ew.nr. 159/13 z obrębu 2-11-08",
+"adr": "Dzieci Warszawy"
+}
+},
+{
+"d": "2023-12-29",
+"c": {
+"inw": "Zgłoszenie - montaż nieoświetlonej gabloty reklamowej na wiacie przystankowej Władysława Hermana 01.",
+"wn": "Warexpo Sp. z o.o.",
+"nier": "dz.ew.nr. 4/15 zobrębu 2-09-06",
+"adr": "Warszawska"
+}
+},
+{
+"d": "2023-12-29",
+"c": {
+"inw": "Zgłoszenie - montaż nieoświetlonej gabloty reklamowej na wiacie przystankowej Lalki 02.",
+"wn": "Warexpo Sp. z o.o.",
+"nier": "dz.ew. nr 69/22 z obrębu 2-09-09",
+"adr": "Władysława Jagiełły"
+}
+},
+{
+"d": "2023-12-29",
+"c": {
+"inw": "Zgłoszenie - montaż nieoświetlonej gabloty reklamowej na wiacie przystankowej Lalki 03.",
+"wn": "Warexpo Sp. z o.o.",
+"nier": "dz.ew.nr. 70/12 z obrębu 2-09-09",
+"adr": "Lalki"
+}
+},
+{
+"d": "2023-12-29",
+"c": {
+"inw": "Zgłoszenie - montaż nieoświetlonej gabloty reklamowej na wiacie przystankowej PKP Ursus 05.",
+"wn": "Warexpo Sp. z o.o.",
+"nier": "dz.ew. nr 29/1 z obrębu 2-11-06",
+"adr": "T. Kościuszki"
+}
+},
+{
+"d": "2023-12-29",
+"c": {
+"inw": "Zgłoszenie - montaż nieoświetlonej gabloty reklamowej na wiacie przystankowej Ursus Ratusz 05.",
+"wn": "Warexpo Sp. z o.o.",
+"nier": "dz.ew. nr 84/2 z obrębu 2-09-09",
+"adr": "Al. 4 Czerwca 1989 r."
+}
+}
+]
+}
+]
+}
