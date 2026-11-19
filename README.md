@@ -161,6 +161,8 @@ Oba piszą do `site/data/` i się nie nadpisują — manifest jest składany
 ze skanu katalogu, a każdy tor buduje tylko swoje dzielnice.
 
 Instrukcja krok po kroku: **[AKTUALIZACJA.md](AKTUALIZACJA.md)**.
+Samodzielna instrukcja dla serwera (z wpisem do crona):
+**[SERWER.md](SERWER.md)**.
 
 Skrót:
 
