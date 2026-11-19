@@ -190,11 +190,6 @@ def render(index):
     css = open(os.path.join(TPL, 'style.css'), encoding='utf-8').read()
     js = open(os.path.join(TPL, 'app.js'), encoding='utf-8').read()
 
-    logo = ''
-    b64 = os.path.join(TPL, 'logo-bizu.b64')
-    if os.path.exists(b64):
-        logo = 'data:image/png;base64,' + open(b64, encoding='ascii').read().strip()
-
     total = sum(d['total'] for d in index['districts'])
     years = sorted({y['year'] for d in index['districts'] for y in d['years']})
     span = '%d–%d' % (years[0], years[-1]) if years else ''
@@ -202,8 +197,7 @@ def render(index):
     html = (tpl
             .replace('__STYLE__', css)
             .replace('__SCRIPT__', js)
-            .replace('__LOGO__', logo)
-            .replace('__COUNT__', str(total))
+            .replace('__COUNT__', '{:,}'.format(total).replace(',', ' '))
             .replace('__DISTRICTS__', str(len(index['districts'])))
             .replace('__YEARS__', span)
             .replace('__GENERATED__', index['generated'][:10]))

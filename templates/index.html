@@ -3,58 +3,75 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Rejestry i wykazy — Warszawa, 18 dzielnic</title>
-<meta name="description" content="Decyzje o warunkach zabudowy, pozwolenia na budowę i wnioski w 18 dzielnicach Warszawy. __COUNT__ pozycji, roczniki __YEARS__.">
+<title>Rejestry i wykazy — Warszawa, __DISTRICTS__ dzielnic</title>
+<meta name="description" content="Decyzje o warunkach zabudowy, pozwolenia na budowę i wnioski w __DISTRICTS__ dzielnicach Warszawy. __COUNT__ pozycji, roczniki __YEARS__.">
 <style>__STYLE__</style>
 </head>
 <body>
 
 <header class="hero">
-  <div class="hero-head">
-    <div class="hero-text">
-      <h1>Rejestry i wykazy</h1>
-      <p class="sub">Decyzje, wnioski i zgłoszenia budowlane<br>w 18 dzielnicach Warszawy</p>
-    </div>
-    <img class="logo" src="__LOGO__" alt="Biuro Zielonego Ursusa">
+  <div class="wrap">
+    <p class="eyebrow">m.st. Warszawa &middot; __DISTRICTS__ dzielnic</p>
+    <h1>Rejestry i wykazy</h1>
+    <p class="lede">
+      Decyzje, wnioski i zgłoszenia budowlane &mdash; zebrane w jednym miejscu
+      i uporządkowane miesiącami.
+    </p>
+    <dl class="stats">
+      <div><dt>pozycji</dt><dd>__COUNT__</dd></div>
+      <div><dt>dzielnic</dt><dd>__DISTRICTS__</dd></div>
+      <div><dt>roczniki</dt><dd>__YEARS__</dd></div>
+      <div><dt>dane z</dt><dd>__GENERATED__</dd></div>
+    </dl>
   </div>
-  <dl class="stats">
-    <div><dt>pozycji</dt><dd>__COUNT__</dd></div>
-    <div><dt>dzielnic</dt><dd>__DISTRICTS__</dd></div>
-    <div><dt>roczniki</dt><dd>__YEARS__</dd></div>
-    <div><dt>dane z</dt><dd>__GENERATED__</dd></div>
-  </dl>
 </header>
 
-<nav class="controls">
-  <label class="field">
-    <span>Dzielnica</span>
-    <select id="district"></select>
-  </label>
-  <div class="field years-field">
-    <span>Rocznik</span>
-    <div id="years" class="years"></div>
+<nav class="controls" aria-label="Wybór dzielnicy i rocznika">
+  <div class="wrap">
+    <label class="field">
+      <span>Dzielnica</span>
+      <select id="district"></select>
+    </label>
+    <label class="field">
+      <span>Rocznik</span>
+      <select id="year"></select>
+    </label>
   </div>
 </nav>
 
 <main>
-  <div id="tabs" class="tabs"></div>
+  <div class="wrap">
 
-  <div class="toolbar">
-    <input id="q" type="search" placeholder="Szukaj w tabeli — adres, inwestor, numer…" autocomplete="off">
-    <span id="count" class="count"></span>
+    <nav class="tabs" id="tabs" role="tablist" aria-label="Wybór miesiąca"></nav>
+
+    <div class="toolbar">
+      <div class="search">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+          <circle cx="11" cy="11" r="7"></circle>
+          <path d="M20 20l-3.5-3.5"></path>
+        </svg>
+        <input id="q" type="search" placeholder="Szukaj: ulica, wnioskodawca, numer sprawy…"
+               aria-label="Szukaj w rejestrach" autocomplete="off">
+      </div>
+      <span id="count" class="count"></span>
+    </div>
+
+    <div id="view" aria-live="polite"></div>
+
+    <p id="source" class="source"></p>
+
   </div>
-
-  <div id="table" class="table-wrap">
-    <p class="empty">Wczytywanie…</p>
-  </div>
-
-  <p id="source" class="source"></p>
 </main>
 
 <footer>
-  <p>Dane: rejestr GUNB (pozwolenia na budowę) oraz strony dzielnic (warunki
-  zabudowy, inwestycje celu publicznego). Rejestry są jawne; dane osobowe
-  podlegają RODO.</p>
+  <div class="wrap">
+    <p>
+      Dane: rejestr GUNB (pozwolenia na budowę) oraz strony dzielnic (warunki
+      zabudowy, inwestycje celu publicznego). Rejestry są jawne; dane osobowe
+      podlegają RODO. Strona ma charakter informacyjny &mdash; wiążące pozostają
+      dokumenty źródłowe.
+    </p>
+  </div>
 </footer>
 
 <script>__SCRIPT__</script>

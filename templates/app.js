@@ -3,15 +3,30 @@
   'use strict';
 
   var $ = function (id) { return document.getElementById(id); };
-  var state = { index: null, district: null, year: null, reg: null, data: null, q: '' };
+
+  var MONTHS = ['styczeń', 'luty', 'marzec', 'kwiecień', 'maj', 'czerwiec',
+    'lipiec', 'sierpień', 'wrzesień', 'październik', 'listopad', 'grudzień'];
+  var MONTHS_SHORT = ['sty', 'lut', 'mar', 'kwi', 'maj', 'cze',
+    'lip', 'sie', 'wrz', 'paź', 'lis', 'gru'];
+
+  var state = {
+    index: null, district: null, year: null,
+    view: 'overview', month: null, q: ''
+  };
 
   var elDistrict = $('district');
-  var elYears = $('years');
+  var elYear = $('year');
   var elTabs = $('tabs');
-  var elTable = $('table');
+  var elView = $('view');
   var elCount = $('count');
   var elSource = $('source');
   var elQ = $('q');
+
+  var D = null;                 // dane wybranego rocznika
+  var byMonth = {};             // regId -> miesiąc -> wiersze
+  var totals = { all: 0, byMonth: {}, byReg: {} };
+
+  /* ------------------------------------------------------------- pomocnicze */
 
   function esc(s) {
     return String(s == null ? '' : s)
@@ -19,7 +34,45 @@
       .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
   }
 
-  function fmt(n) { return String(n).replace(/\B(?=(\d{3})+(?!\d))/g, ' '); }
+  function fmt(n) {
+    return String(n).replace(/\B(?=(\d{3})+(?!\d))/g, ' ');
+  }
+
+  function fmtDate(iso) {
+    if (!iso) return '';
+    var p = iso.split('-');
+    return p[2] + '.' + p[1] + '.' + p[0];
+  }
+
+  function norm(s) {
+    return String(s == null ? '' : s)
+      .toLowerCase()
+      .replace(/ą/g, 'a').replace(/ć/g, 'c').replace(/ę/g, 'e')
+      .replace(/ł/g, 'l').replace(/ń/g, 'n').replace(/ó/g, 'o')
+      .replace(/ś/g, 's').replace(/ź/g, 'z').replace(/ż/g, 'z');
+  }
+
+  function plural(n, one, few, many) {
+    if (n === 1) return one;
+    var d = n % 10, h = n % 100;
+    if (d >= 2 && d <= 4 && (h < 10 || h >= 20)) return few;
+    return many;
+  }
+
+  function monthOf(row) {
+    if (!row.d) return 0;
+    var m = parseInt(row.d.slice(5, 7), 10);
+    return m >= 1 && m <= 12 ? m : 0;
+  }
+
+  function badgeClass(v) {
+    var t = norm(v);
+    if (/^ustalam|^pnb$|^udzielam|^zatwierdz/.test(t)) return 'ok';
+    if (/odmawiam|^odmowa|^sprzeciw/.test(t)) return 'no';
+    if (/umorz|uchylam|^brak/.test(t)) return 'neutral';
+    if (/przenies|zmieniam|^pnr$/.test(t)) return 'info';
+    return 'neutral';
+  }
 
   function getJSON(url) {
     return fetch(url, { cache: 'no-cache' }).then(function (r) {
@@ -28,141 +81,372 @@
     });
   }
 
-  /* ---------- adres w pasku ---------- */
+  /* ------------------------------------------------------------ adres w pasku */
 
   function readHash() {
     var p = (location.hash || '').replace(/^#\/?/, '').split('/');
-    return { district: p[0] || null, year: p[1] || null, reg: p[2] || null };
+    return {
+      district: p[0] || null,
+      year: p[1] || null,
+      month: (p[2] === undefined || p[2] === '') ? null : p[2]
+    };
   }
 
   function writeHash() {
-    var h = '#/' + state.district + '/' + state.year + '/' + (state.reg || '');
+    var h = '#/' + state.district + '/' + state.year +
+            (state.view === 'month' ? '/' + state.month : '');
     if (location.hash !== h) history.replaceState(null, '', h);
   }
 
-  /* ---------- dzielnice ---------- */
+  /* ------------------------------------------------------------------ indeks */
 
   function districtEntry(slug) {
     return state.index.districts.filter(function (d) { return d.slug === slug; })[0];
   }
+
+  function buildIndex() {
+    byMonth = {};
+    totals = { all: 0, byMonth: {}, byReg: {} };
+
+    D.registers.forEach(function (reg) {
+      byMonth[reg.id] = {};
+      totals.byReg[reg.id] = 0;
+      reg.rows.forEach(function (row) {
+        var m = monthOf(row);
+        (byMonth[reg.id][m] = byMonth[reg.id][m] || []).push(row);
+        totals.byReg[reg.id]++;
+        totals.all++;
+        totals.byMonth[m] = (totals.byMonth[m] || 0) + 1;
+      });
+    });
+  }
+
+  function rowsFor(regId, m) {
+    return (byMonth[regId] && byMonth[regId][m]) || [];
+  }
+
+  function monthTotal(m) { return totals.byMonth[m] || 0; }
+
+  function lastMonthLabel() {
+    for (var m = 12; m >= 1; m--) if (monthTotal(m) > 0) return MONTHS[m - 1];
+    return '—';
+  }
+
+  /* ------------------------------------------------------------- lista wyboru */
 
   function renderDistricts() {
     var list = state.index.districts.slice().sort(function (a, b) {
       return a.name.localeCompare(b.name, 'pl');
     });
     elDistrict.innerHTML = list.map(function (d) {
-      return '<option value="' + esc(d.slug) + '">' + esc(d.name) +
-             ' — ' + fmt(d.total) + '</option>';
+      return '<option value="' + esc(d.slug) + '">' + esc(d.name) + '</option>';
     }).join('');
     elDistrict.value = state.district;
   }
 
-  /* ---------- roczniki ---------- */
-
   function renderYears() {
     var d = districtEntry(state.district);
     if (!d || !d.years.length) {
-      elYears.innerHTML = '<span class="count">brak danych</span>';
+      elYear.innerHTML = '';
+      elYear.disabled = true;
       return;
     }
-    elYears.innerHTML = d.years.map(function (y) {
-      return '<button class="year" type="button" data-year="' + y.year + '"' +
-             ' aria-pressed="' + (y.year === state.year) + '">' + y.year +
-             '<span class="n">' + fmt(y.total) + '</span></button>';
+    elYear.disabled = false;
+    elYear.innerHTML = d.years.slice().reverse().map(function (y) {
+      return '<option value="' + y.year + '">' + y.year + '</option>';
     }).join('');
+    elYear.value = state.year;
   }
 
-  /* ---------- rejestry ---------- */
+  /* ------------------------------------------------------------------- zakładki */
 
   function renderTabs() {
-    if (!state.data) { elTabs.innerHTML = ''; return; }
-    elTabs.innerHTML = state.data.registers.map(function (r) {
-      return '<button class="tab" type="button" role="tab" data-reg="' + esc(r.id) + '"' +
-             ' aria-selected="' + (r.id === state.reg) + '">' + esc(r.short) +
-             '<span class="n">' + fmt(r.rows.length) + '</span></button>';
-    }).join('');
-  }
+    if (!D) { elTabs.innerHTML = ''; return; }
 
-  function currentRegister() {
-    if (!state.data) return null;
-    return state.data.registers.filter(function (r) { return r.id === state.reg; })[0] ||
-           state.data.registers[0];
-  }
+    var html = '<button class="tab" type="button" role="tab" data-view="overview"' +
+      ' aria-selected="' + (state.view === 'overview') + '">Przegląd roku</button>';
 
-  /* ---------- tabela ---------- */
-
-  function renderTable() {
-    var reg = currentRegister();
-    if (!reg) {
-      elTable.innerHTML = '<p class="empty">Brak rejestrów dla tego rocznika.</p>';
-      elCount.textContent = '';
-      return;
+    for (var m = 1; m <= 12; m++) {
+      var n = monthTotal(m);
+      html += '<button class="tab' + (n === 0 ? ' is-empty' : '') + '" type="button"' +
+        ' role="tab" data-month="' + m + '" aria-selected="' +
+        (state.view === 'month' && state.month === m) + '">' +
+        MONTHS_SHORT[m - 1] + '<span class="c">' + n + '</span></button>';
     }
 
-    var q = state.q.trim().toLowerCase();
-    var rows = reg.rows;
-    if (q) {
-      rows = rows.filter(function (row) {
-        for (var k in row.c) {
-          if (String(row.c[k]).toLowerCase().indexOf(q) !== -1) return true;
+    if (monthTotal(0) > 0) {
+      html += '<button class="tab" type="button" role="tab" data-month="0"' +
+        ' aria-selected="' + (state.view === 'month' && state.month === 0) + '">' +
+        'bez daty<span class="c">' + monthTotal(0) + '</span></button>';
+    }
+
+    elTabs.innerHTML = html;
+  }
+
+  /* ------------------------------------------------------------------ przegląd */
+
+  function kpi(n, label, accent) {
+    return '<div class="kpi' + (accent ? ' is-accent' : '') + '">' +
+      '<div class="n">' + n + '</div><div class="l">' + label + '</div></div>';
+  }
+
+  function renderOverview() {
+    var maxCell = 1;
+    D.registers.forEach(function (reg) {
+      for (var m = 1; m <= 12; m++) {
+        maxCell = Math.max(maxCell, rowsFor(reg.id, m).length);
+      }
+    });
+
+    var activeMonths = 0;
+    for (var m = 1; m <= 12; m++) if (monthTotal(m) > 0) activeMonths++;
+
+    var html = '<div class="kpis">' +
+      kpi(fmt(totals.all), 'pozycji łącznie', true) +
+      kpi(D.registers.length, 'rejestrów', false) +
+      kpi(activeMonths, 'miesięcy z danymi', false) +
+      kpi(lastMonthLabel(), 'ostatni miesiąc z wpisami', false) +
+      '</div>';
+
+    /* macierz rejestr × miesiąc */
+    html += '<div class="panel"><div class="panel-head">' +
+      '<h2>Rejestry w układzie miesięcznym</h2>' +
+      '<span class="sub">kliknij liczbę, aby przejść do wpisów</span>' +
+      '<span class="count">' + D.year + '</span></div>' +
+      '<div class="panel-body"><div class="tbl-wrap">' +
+      '<table class="matrix"><thead><tr><th>Rejestr</th>';
+
+    for (var i = 1; i <= 12; i++) html += '<th>' + MONTHS_SHORT[i - 1] + '</th>';
+    if (monthTotal(0) > 0) html += '<th>bd.</th>';
+    html += '<th class="total">Razem</th></tr></thead><tbody>';
+
+    D.registers.forEach(function (reg) {
+      html += '<tr><th scope="row">' + esc(reg.short) + '</th>';
+
+      for (var mm = 1; mm <= 12; mm++) {
+        var n = rowsFor(reg.id, mm).length;
+        if (n === 0) {
+          html += '<td class="zero">·</td>';
+        } else {
+          var a = 0.08 + 0.62 * (n / maxCell);
+          html += '<td class="cell" data-goto="' + mm + '" data-reg="' + reg.id +
+            '" style="background:rgba(47,111,79,' + a.toFixed(3) + ');color:' +
+            (a > 0.42 ? '#fff' : '#1d4a33') + '" title="' + esc(reg.name) + ' — ' +
+            MONTHS[mm - 1] + ': ' + n + '">' + n + '</td>';
         }
-        return String(row.d || '').indexOf(q) !== -1;
-      });
-    }
+      }
 
-    elCount.textContent = q
-      ? fmt(rows.length) + ' z ' + fmt(reg.rows.length) + ' pozycji'
-      : fmt(reg.rows.length) + ' pozycji';
+      if (monthTotal(0) > 0) {
+        var n0 = rowsFor(reg.id, 0).length;
+        html += n0 === 0
+          ? '<td class="zero">·</td>'
+          : '<td class="cell" data-goto="0" data-reg="' + reg.id +
+            '" style="background:#eef2f7;color:#64748b" title="bez daty: ' + n0 + '">' +
+            n0 + '</td>';
+      }
 
-    if (!rows.length) {
-      elTable.innerHTML = '<p class="empty">Nic nie pasuje do „' + esc(state.q) + '”.</p>';
+      html += '<td class="total">' + totals.byReg[reg.id] + '</td></tr>';
+    });
+
+    html += '</tbody></table></div></div></div>';
+
+    /* zakres rejestrów */
+    html += '<div class="panel"><div class="panel-head">' +
+      '<h2>Zakres rejestrów</h2>' +
+      '<span class="sub">pliki źródłowe i pokrycie dat</span></div>' +
+      '<div class="panel-body"><div class="tbl-wrap">' +
+      '<table class="tbl"><thead><tr><th>Rejestr</th><th class="num">Pozycji</th>' +
+      '<th>Zakres dat</th><th>Plik źródłowy</th></tr></thead><tbody>';
+
+    D.registers.forEach(function (reg) {
+      var dates = reg.rows.map(function (r) { return r.d; }).filter(Boolean).sort();
+      var range = dates.length
+        ? fmtDate(dates[0]) + ' – ' + fmtDate(dates[dates.length - 1])
+        : '<span class="muted">brak dat</span>';
+      var src = reg.url
+        ? '<a href="' + esc(reg.url) + '" target="_blank" rel="noopener">' +
+          esc(reg.file || 'plik') + '</a>'
+        : esc(reg.file || '—');
+
+      html += '<tr><td><b>' + esc(reg.name) + '</b></td>' +
+        '<td class="num">' + reg.rows.length + '</td>' +
+        '<td class="date">' + range + '</td>' +
+        '<td>' + src + '</td></tr>';
+    });
+
+    html += '</tbody></table></div></div></div>';
+
+    elView.innerHTML = html;
+  }
+
+  /* -------------------------------------------------------------------- miesiąc */
+
+  function renderMonth(m) {
+    var total = monthTotal(m);
+    var label = m === 0
+      ? 'Pozycje bez daty'
+      : MONTHS[m - 1].charAt(0).toUpperCase() + MONTHS[m - 1].slice(1) + ' ' + D.year;
+
+    var html = '<div class="month-title"><h2>' + label + '</h2>' +
+      '<span class="n">' + total + ' ' +
+      plural(total, 'pozycja', 'pozycje', 'pozycji') + '</span></div>';
+
+    if (total === 0) {
+      html += '<div class="panel"><div class="empty"><b>Brak wpisów w tym miesiącu</b>' +
+        'Urząd nie opublikował jeszcze danych dla tego okresu.</div></div>';
+      elView.innerHTML = html;
       return;
     }
 
-    var head = '<tr><th>Data</th>' + reg.cols.map(function (c) {
-      return '<th>' + esc(c.l) + '</th>';
-    }).join('') + '</tr>';
+    if (m === 0) {
+      html += '<div class="panel"><div class="empty" style="padding:22px">' +
+        'Wpisy, dla których w pliku źródłowym nie podano daty. Zostaną przypisane ' +
+        'do miesiąca, gdy urząd uzupełni rejestr.</div></div>';
+    }
 
-    var body = rows.map(function (row) {
-      var tds = reg.cols.map(function (c) {
-        return '<td class="' + esc(c.w || '') + '">' + esc(row.c[c.k]) + '</td>';
-      }).join('');
-      return '<tr><td class="nr">' + esc(row.d || '—') + '</td>' + tds + '</tr>';
-    }).join('');
+    D.registers.forEach(function (reg) {
+      var rows = rowsFor(reg.id, m);
+      if (!rows.length) return;
+      html += renderRegisterPanel(reg, rows,
+        m === 0 ? 'bez daty' : MONTHS[m - 1] + ' ' + D.year);
+    });
 
-    elTable.innerHTML = '<table><thead>' + head + '</thead><tbody>' + body + '</tbody></table>';
+    elView.innerHTML = html;
   }
+
+  function renderRegisterPanel(reg, rows, periodLabel) {
+    var h = '<div class="panel" id="reg-' + esc(reg.id) + '">' +
+      '<div class="panel-head"><h2>' + esc(reg.name) + '</h2>' +
+      '<span class="sub">' + esc(periodLabel) + '</span>' +
+      '<span class="count">' + rows.length + '</span></div>' +
+      '<div class="panel-body"><div class="tbl-wrap">' +
+      '<table class="tbl"><thead><tr><th class="num">Lp.</th><th>Data</th>';
+
+    reg.cols.forEach(function (c) { h += '<th>' + esc(c.l) + '</th>'; });
+    h += '</tr></thead><tbody>';
+
+    rows.forEach(function (row, i) {
+      h += '<tr><td class="num">' + (i + 1) + '</td>' +
+        '<td class="date">' + (row.d ? fmtDate(row.d) : '<span class="muted">—</span>') + '</td>';
+
+      reg.cols.forEach(function (c) {
+        var v = row.c[c.k];
+        if (v == null || v === '') { h += '<td class="muted">—</td>'; return; }
+
+        if (c.k === 'roz' || c.k === 'rodz') {
+          h += '<td><span class="badge ' + badgeClass(v) + '">' + esc(v) + '</span></td>';
+        } else if (c.k === 'nr') {
+          h += '<td class="nr">' + esc(v) + '</td>';
+        } else {
+          var cls = c.w === 'wide' ? 'wide' : (c.w === 'mid' ? 'mid' : '');
+          if (String(v).length > 150) {
+            h += '<td class="' + cls + '"><div class="clamp">' + esc(v) + '</div>' +
+              '<button class="more" type="button">więcej</button></td>';
+          } else {
+            h += '<td class="' + cls + '">' + esc(v) + '</td>';
+          }
+        }
+      });
+
+      h += '</tr>';
+    });
+
+    h += '</tbody></table></div></div></div>';
+    return h;
+  }
+
+  /* ---------------------------------------------------------------- wyszukiwanie */
+
+  function renderSearch(q) {
+    var nq = norm(q);
+    var hits = [];
+
+    D.registers.forEach(function (reg) {
+      reg.rows.forEach(function (row) {
+        var hay = norm(reg.name + ' ' + Object.keys(row.c).map(function (k) {
+          return row.c[k];
+        }).join(' '));
+        if (hay.indexOf(nq) !== -1) hits.push({ reg: reg, row: row });
+      });
+    });
+
+    var html = '<div class="month-title"><h2>Wyniki wyszukiwania</h2>' +
+      '<span class="n">„' + esc(q) + '” — ' + hits.length + ' ' +
+      plural(hits.length, 'pozycja', 'pozycje', 'pozycji') + '</span></div>';
+
+    if (!hits.length) {
+      html += '<div class="panel"><div class="empty"><b>Nic nie znaleziono</b>' +
+        'Spróbuj krótszej frazy, np. nazwy ulicy lub wnioskodawcy.</div></div>';
+      elView.innerHTML = html;
+      return;
+    }
+
+    var grouped = {};
+    hits.forEach(function (h) {
+      (grouped[h.reg.id] = grouped[h.reg.id] || []).push(h.row);
+    });
+
+    D.registers.forEach(function (reg) {
+      if (!grouped[reg.id]) return;
+      html += renderRegisterPanel(reg, grouped[reg.id], 'wyniki wyszukiwania');
+    });
+
+    elView.innerHTML = html;
+  }
+
+  /* ---------------------------------------------------------------------- źródło */
 
   function renderSource() {
-    if (!state.data) { elSource.innerHTML = ''; return; }
-    var reg = currentRegister();
+    if (!D) { elSource.innerHTML = ''; return; }
+    var d = districtEntry(state.district);
     var bits = [];
-    if (reg && reg.url) {
-      bits.push('źródło: <a href="' + esc(reg.url) + '" target="_blank" rel="noopener">' +
-                esc(reg.file || 'plik') + '</a>');
+    if (d && d.sources && d.sources.length) {
+      bits.push('źródła: ' + d.sources.map(esc).join(', '));
     }
-    if (reg && reg.desc) bits.push(esc(reg.desc));
-    bits.push('wygenerowano ' + esc(state.data.generated.slice(0, 10)));
+    bits.push('wygenerowano ' + esc(D.generated.slice(0, 10)));
     elSource.innerHTML = bits.join(' · ');
   }
 
-  /* ---------- ładowanie ---------- */
+  /* ---------------------------------------------------------------------- rysowanie */
+
+  function draw() {
+    renderYears();
+    renderTabs();
+
+    if (state.q.trim().length >= 2) {
+      renderSearch(state.q.trim());
+      elCount.textContent = '';
+    } else if (state.view === 'month') {
+      renderMonth(state.month);
+      elCount.textContent = fmt(monthTotal(state.month)) + ' ' +
+        plural(monthTotal(state.month), 'pozycja', 'pozycje', 'pozycji');
+    } else {
+      renderOverview();
+      elCount.textContent = fmt(totals.all) + ' ' +
+        plural(totals.all, 'pozycja', 'pozycje', 'pozycji') +
+        ' w ' + D.registers.length + ' rejestrach';
+    }
+
+    renderSource();
+    writeHash();
+  }
+
+  /* ---------------------------------------------------------------------- ładowanie */
 
   function loadYear() {
-    elTable.innerHTML = '<p class="empty">Wczytywanie…</p>';
+    elView.innerHTML = '<p class="empty">Wczytywanie…</p>';
     var url = 'data/' + state.district + '/' + state.year + '.json';
+
     return getJSON(url).then(function (data) {
-      state.data = data;
-      var ids = data.registers.map(function (r) { return r.id; });
-      if (ids.indexOf(state.reg) === -1) state.reg = ids[0] || null;
-      renderTabs();
-      renderTable();
-      renderSource();
-      writeHash();
+      D = data;
+      buildIndex();
+      draw();
     }).catch(function (e) {
-      state.data = null;
+      D = null;
       elTabs.innerHTML = '';
-      elTable.innerHTML = '<p class="error">Nie udało się wczytać danych: ' + esc(e.message) + '</p>';
+      elCount.textContent = '';
+      elView.innerHTML = '<p class="error">Nie udało się wczytać danych: ' +
+        esc(e.message) + '</p>';
     });
   }
 
@@ -171,8 +455,10 @@
     if (!d) return;
     state.district = slug;
     state.year = d.default;
-    state.reg = null;
-    state.data = null;
+    state.view = 'overview';
+    state.month = null;
+    state.q = '';
+    elQ.value = '';
     elDistrict.value = slug;
     renderYears();
     return loadYear();
@@ -180,37 +466,63 @@
 
   function selectYear(year) {
     state.year = Number(year);
-    state.reg = null;
-    renderYears();
+    state.view = 'overview';
+    state.month = null;
+    state.q = '';
+    elQ.value = '';
     return loadYear();
   }
 
-  /* ---------- zdarzenia ---------- */
+  /* ---------------------------------------------------------------------- zdarzenia */
 
-  elDistrict.addEventListener('change', function () {
-    selectDistrict(this.value);
-  });
+  elDistrict.addEventListener('change', function () { selectDistrict(this.value); });
 
-  elYears.addEventListener('click', function (e) {
-    var b = e.target.closest('.year');
-    if (b) selectYear(b.dataset.year);
-  });
+  elYear.addEventListener('change', function () { selectYear(this.value); });
 
   elTabs.addEventListener('click', function (e) {
-    var b = e.target.closest('.tab');
-    if (!b) return;
-    state.reg = b.dataset.reg;
-    renderTabs();
-    renderTable();
-    renderSource();
-    writeHash();
+    var t = e.target.closest('.tab');
+    if (!t) return;
+
+    if (t.dataset.view === 'overview') {
+      state.view = 'overview';
+      state.month = null;
+    } else {
+      state.view = 'month';
+      state.month = parseInt(t.dataset.month, 10);
+    }
+
+    state.q = '';
+    elQ.value = '';
+    draw();
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  });
+
+  elView.addEventListener('click', function (e) {
+    var cell = e.target.closest('td.cell');
+    if (cell) {
+      state.view = 'month';
+      state.month = parseInt(cell.dataset.goto, 10);
+      state.q = '';
+      elQ.value = '';
+      draw();
+      var target = document.getElementById('reg-' + cell.dataset.reg);
+      if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      return;
+    }
+
+    var more = e.target.closest('.more');
+    if (more) {
+      var box = more.previousElementSibling;
+      box.classList.toggle('open');
+      more.textContent = box.classList.contains('open') ? 'mniej' : 'więcej';
+    }
   });
 
   var timer = null;
   elQ.addEventListener('input', function () {
     var v = this.value;
     clearTimeout(timer);
-    timer = setTimeout(function () { state.q = v; renderTable(); }, 120);
+    timer = setTimeout(function () { state.q = v; draw(); }, 160);
   });
 
   window.addEventListener('hashchange', function () {
@@ -222,10 +534,11 @@
     }
   });
 
-  /* ---------- start ---------- */
+  /* ---------------------------------------------------------------------- start */
 
   getJSON('data/index.json').then(function (index) {
     state.index = index;
+
     var h = readHash();
     var withData = index.districts.filter(function (d) { return d.years.length; });
     if (!withData.length) throw new Error('manifest bez danych');
@@ -235,16 +548,21 @@
                 withData[0];
 
     state.district = start.slug;
-    state.year = start.default;
-    state.reg = h.reg || null;
+
+    var wanted = h.year && start.years.filter(function (y) {
+      return String(y.year) === h.year;
+    })[0];
+    state.year = wanted ? Number(h.year) : start.default;
+
+    if (h.month !== null && /^\d{1,2}$/.test(h.month)) {
+      state.view = 'month';
+      state.month = parseInt(h.month, 10);
+    }
 
     renderDistricts();
-    renderYears();
-    return loadYear().then(function () {
-      if (h.year && Number(h.year) !== state.year) return selectYear(h.year);
-    });
+    return loadYear();
   }).catch(function (e) {
-    elTable.innerHTML = '<p class="error">Nie udało się wczytać manifestu: ' +
-                        esc(e.message) + '</p>';
+    elView.innerHTML = '<p class="error">Nie udało się wczytać manifestu: ' +
+      esc(e.message) + '</p>';
   });
 })();
