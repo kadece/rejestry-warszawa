@@ -528,9 +528,8 @@
   window.addEventListener('hashchange', function () {
     var h = readHash();
     if (h.district && h.district !== state.district) {
-      selectDistrict(h.district).then(function () {
-        if (h.year) selectYear(h.year);
-      });
+      var p = selectDistrict(h.district);
+      if (p && p.then) p.then(function () { if (h.year) selectYear(h.year); });
     }
   });
 
