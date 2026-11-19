@@ -1,1 +1,1179 @@
-{"generated":"2026-11-19T23:08:53+01:00","districts":[{"slug":"bemowo","name":"Bemowo","years":[{"year":2016,"total":502,"registers":2},{"year":2017,"total":502,"registers":2},{"year":2018,"total":379,"registers":2},{"year":2019,"total":493,"registers":2},{"year":2020,"total":351,"registers":2},{"year":2021,"total":281,"registers":2},{"year":2022,"total":294,"registers":2},{"year":2023,"total":297,"registers":2},{"year":2024,"total":253,"registers":2},{"year":2025,"total":154,"registers":2},{"year":2026,"total":76,"registers":2}],"total":3582,"default":2026,"sources":["GUNB"]},{"slug":"bialoleka","name":"Białołęka","years":[{"year":2016,"total":1383,"registers":2},{"year":2017,"total":2305,"registers":2},{"year":2018,"total":2012,"registers":2},{"year":2019,"total":2539,"registers":2},{"year":2020,"total":2045,"registers":2},{"year":2021,"total":2168,"registers":2},{"year":2022,"total":1877,"registers":2},{"year":2023,"total":1366,"registers":2},{"year":2024,"total":1523,"registers":2},{"year":2025,"total":1469,"registers":2},{"year":2026,"total":1109,"registers":2}],"total":19796,"default":2026,"sources":["GUNB"]},{"slug":"bielany","name":"Bielany","years":[{"year":2016,"total":523,"registers":2},{"year":2017,"total":564,"registers":2},{"year":2018,"total":623,"registers":2},{"year":2019,"total":629,"registers":2},{"year":2020,"total":546,"registers":2},{"year":2021,"total":428,"registers":2},{"year":2022,"total":851,"registers":2},{"year":2023,"total":512,"registers":2},{"year":2024,"total":485,"registers":2},{"year":2025,"total":548,"registers":2},{"year":2026,"total":232,"registers":2}],"total":5941,"default":2026,"sources":["GUNB"]},{"slug":"mokotow","name":"Mokotów","years":[{"year":2016,"total":1274,"registers":2},{"year":2017,"total":1562,"registers":2},{"year":2018,"total":1613,"registers":2},{"year":2019,"total":1197,"registers":2},{"year":2020,"total":1107,"registers":2},{"year":2021,"total":871,"registers":2},{"year":2022,"total":918,"registers":2},{"year":2023,"total":792,"registers":2},{"year":2024,"total":807,"registers":2},{"year":2025,"total":571,"registers":2},{"year":2026,"total":379,"registers":2}],"total":11091,"default":2026,"sources":["GUNB"]},{"slug":"ochota","name":"Ochota","years":[{"year":2016,"total":483,"registers":2},{"year":2017,"total":483,"registers":2},{"year":2018,"total":691,"registers":2},{"year":2019,"total":400,"registers":2},{"year":2020,"total":377,"registers":2},{"year":2021,"total":255,"registers":2},{"year":2022,"total":174,"registers":2},{"year":2023,"total":193,"registers":2},{"year":2024,"total":119,"registers":2},{"year":2025,"total":85,"registers":2},{"year":2026,"total":24,"registers":2}],"total":3284,"default":2026,"sources":["GUNB"]},{"slug":"praga-polnoc","name":"Praga-Północ","years":[{"year":2016,"total":311,"registers":2},{"year":2017,"total":489,"registers":2},{"year":2018,"total":604,"registers":2},{"year":2019,"total":505,"registers":2},{"year":2020,"total":417,"registers":2},{"year":2021,"total":412,"registers":5},{"year":2022,"total":433,"registers":5},{"year":2023,"total":363,"registers":5},{"year":2024,"total":394,"registers":5},{"year":2025,"total":386,"registers":5},{"year":2026,"total":267,"registers":5}],"total":4581,"default":2026,"sources":["GUNB","Praga-Północ (strona dzielnicy)"]},{"slug":"praga-poludnie","name":"Praga-Południe","years":[{"year":2016,"total":814,"registers":2},{"year":2017,"total":916,"registers":2},{"year":2018,"total":732,"registers":2},{"year":2019,"total":880,"registers":2},{"year":2020,"total":627,"registers":2},{"year":2021,"total":480,"registers":2},{"year":2022,"total":368,"registers":2},{"year":2023,"total":407,"registers":2},{"year":2024,"total":405,"registers":2},{"year":2025,"total":359,"registers":2},{"year":2026,"total":252,"registers":2}],"total":6240,"default":2026,"sources":["GUNB"]},{"slug":"rembertow","name":"Rembertów","years":[{"year":2016,"total":277,"registers":2},{"year":2017,"total":431,"registers":2},{"year":2018,"total":250,"registers":2},{"year":2019,"total":110,"registers":2},{"year":2020,"total":59,"registers":2},{"year":2021,"total":296,"registers":2},{"year":2022,"total":422,"registers":2},{"year":2023,"total":219,"registers":2},{"year":2024,"total":126,"registers":2},{"year":2025,"total":271,"registers":2},{"year":2026,"total":148,"registers":2}],"total":2609,"default":2026,"sources":["GUNB"]},{"slug":"srodmiescie","name":"Śródmieście","years":[{"year":2016,"total":1376,"registers":2},{"year":2017,"total":1354,"registers":2},{"year":2018,"total":1499,"registers":2},{"year":2019,"total":1030,"registers":2},{"year":2020,"total":803,"registers":2},{"year":2021,"total":716,"registers":2},{"year":2022,"total":735,"registers":2},{"year":2023,"total":630,"registers":2},{"year":2024,"total":748,"registers":2},{"year":2025,"total":775,"registers":2},{"year":2026,"total":552,"registers":2}],"total":10218,"default":2026,"sources":["GUNB"]},{"slug":"targowek","name":"Targówek","years":[{"year":2016,"total":785,"registers":2},{"year":2017,"total":796,"registers":2},{"year":2018,"total":750,"registers":2},{"year":2019,"total":609,"registers":2},{"year":2020,"total":593,"registers":2},{"year":2021,"total":647,"registers":2},{"year":2022,"total":537,"registers":2},{"year":2023,"total":531,"registers":2},{"year":2024,"total":307,"registers":2},{"year":2025,"total":257,"registers":2},{"year":2026,"total":270,"registers":2}],"total":6082,"default":2026,"sources":["GUNB"]},{"slug":"ursus","name":"Ursus","years":[{"year":2019,"total":766,"registers":6},{"year":2020,"total":613,"registers":7},{"year":2021,"total":546,"registers":7},{"year":2022,"total":611,"registers":7},{"year":2023,"total":563,"registers":6},{"year":2024,"total":449,"registers":6},{"year":2025,"total":549,"registers":7},{"year":2026,"total":470,"registers":8}],"total":4567,"default":2026,"sources":["Ursus (strona dzielnicy)"]},{"slug":"ursynow","name":"Ursynów","years":[{"year":2016,"total":1159,"registers":2},{"year":2017,"total":1264,"registers":2},{"year":2018,"total":967,"registers":2},{"year":2019,"total":937,"registers":2},{"year":2020,"total":764,"registers":2},{"year":2021,"total":570,"registers":2},{"year":2022,"total":545,"registers":2},{"year":2023,"total":335,"registers":2},{"year":2024,"total":421,"registers":2},{"year":2025,"total":318,"registers":2},{"year":2026,"total":167,"registers":2}],"total":7447,"default":2026,"sources":["GUNB"]},{"slug":"wawer","name":"Wawer","years":[{"year":2016,"total":1101,"registers":2},{"year":2017,"total":1463,"registers":2},{"year":2018,"total":1162,"registers":2},{"year":2019,"total":1428,"registers":2},{"year":2020,"total":1551,"registers":2},{"year":2021,"total":3729,"registers":2},{"year":2022,"total":2725,"registers":2},{"year":2023,"total":2034,"registers":2},{"year":2024,"total":2079,"registers":2},{"year":2025,"total":2210,"registers":2},{"year":2026,"total":1364,"registers":2}],"total":20846,"default":2026,"sources":["GUNB"]},{"slug":"wesola","name":"Wesoła","years":[{"year":2016,"total":471,"registers":2},{"year":2017,"total":648,"registers":2},{"year":2018,"total":643,"registers":2},{"year":2019,"total":553,"registers":2},{"year":2020,"total":588,"registers":2},{"year":2021,"total":542,"registers":2},{"year":2022,"total":472,"registers":2},{"year":2023,"total":519,"registers":2},{"year":2024,"total":1161,"registers":2},{"year":2025,"total":692,"registers":2},{"year":2026,"total":112,"registers":2}],"total":6401,"default":2026,"sources":["GUNB"]},{"slug":"wilanow","name":"Wilanów","years":[{"year":2016,"total":994,"registers":2},{"year":2017,"total":1046,"registers":2},{"year":2018,"total":807,"registers":2},{"year":2019,"total":919,"registers":2},{"year":2020,"total":592,"registers":2},{"year":2021,"total":986,"registers":2},{"year":2022,"total":732,"registers":2},{"year":2023,"total":651,"registers":2},{"year":2024,"total":637,"registers":2},{"year":2025,"total":677,"registers":2},{"year":2026,"total":669,"registers":2}],"total":8710,"default":2026,"sources":["GUNB"]},{"slug":"wlochy","name":"Włochy","years":[{"year":2016,"total":208,"registers":2},{"year":2017,"total":205,"registers":2},{"year":2018,"total":42,"registers":2},{"year":2019,"total":100,"registers":2},{"year":2020,"total":483,"registers":2},{"year":2021,"total":534,"registers":2},{"year":2022,"total":517,"registers":2},{"year":2023,"total":541,"registers":2},{"year":2024,"total":281,"registers":2},{"year":2025,"total":92,"registers":2},{"year":2026,"total":1,"registers":1}],"total":3004,"default":2026,"sources":["GUNB"]},{"slug":"wola","name":"Wola","years":[{"year":2016,"total":658,"registers":2},{"year":2017,"total":536,"registers":2},{"year":2018,"total":452,"registers":2},{"year":2019,"total":628,"registers":2},{"year":2020,"total":555,"registers":2},{"year":2021,"total":397,"registers":2},{"year":2022,"total":449,"registers":2},{"year":2023,"total":454,"registers":2},{"year":2024,"total":299,"registers":2},{"year":2025,"total":348,"registers":2},{"year":2026,"total":301,"registers":2}],"total":5077,"default":2026,"sources":["GUNB"]},{"slug":"zoliborz","name":"Żoliborz","years":[{"year":2016,"total":476,"registers":2},{"year":2017,"total":597,"registers":2},{"year":2018,"total":256,"registers":2},{"year":2019,"total":223,"registers":2},{"year":2020,"total":262,"registers":2},{"year":2021,"total":152,"registers":2},{"year":2022,"total":143,"registers":2},{"year":2023,"total":147,"registers":2},{"year":2024,"total":127,"registers":2},{"year":2025,"total":141,"registers":2},{"year":2026,"total":82,"registers":2}],"total":2606,"default":2026,"sources":["GUNB"]}]}
+{
+"generated": "2026-11-19T23:24:34+01:00",
+"districts": [
+{
+"slug": "bemowo",
+"name": "Bemowo",
+"years": [
+{
+"year": 2016,
+"total": 502,
+"registers": 2
+},
+{
+"year": 2017,
+"total": 502,
+"registers": 2
+},
+{
+"year": 2018,
+"total": 379,
+"registers": 2
+},
+{
+"year": 2019,
+"total": 493,
+"registers": 2
+},
+{
+"year": 2020,
+"total": 351,
+"registers": 2
+},
+{
+"year": 2021,
+"total": 281,
+"registers": 2
+},
+{
+"year": 2022,
+"total": 294,
+"registers": 2
+},
+{
+"year": 2023,
+"total": 297,
+"registers": 2
+},
+{
+"year": 2024,
+"total": 253,
+"registers": 2
+},
+{
+"year": 2025,
+"total": 154,
+"registers": 2
+},
+{
+"year": 2026,
+"total": 76,
+"registers": 2
+}
+],
+"total": 3582,
+"default": 2026,
+"sources": [
+"GUNB"
+]
+},
+{
+"slug": "bialoleka",
+"name": "Białołęka",
+"years": [
+{
+"year": 2016,
+"total": 1383,
+"registers": 2
+},
+{
+"year": 2017,
+"total": 2305,
+"registers": 2
+},
+{
+"year": 2018,
+"total": 2012,
+"registers": 2
+},
+{
+"year": 2019,
+"total": 2539,
+"registers": 2
+},
+{
+"year": 2020,
+"total": 2045,
+"registers": 2
+},
+{
+"year": 2021,
+"total": 2168,
+"registers": 2
+},
+{
+"year": 2022,
+"total": 1877,
+"registers": 2
+},
+{
+"year": 2023,
+"total": 1366,
+"registers": 2
+},
+{
+"year": 2024,
+"total": 1523,
+"registers": 2
+},
+{
+"year": 2025,
+"total": 1469,
+"registers": 2
+},
+{
+"year": 2026,
+"total": 1109,
+"registers": 2
+}
+],
+"total": 19796,
+"default": 2026,
+"sources": [
+"GUNB"
+]
+},
+{
+"slug": "bielany",
+"name": "Bielany",
+"years": [
+{
+"year": 2016,
+"total": 523,
+"registers": 2
+},
+{
+"year": 2017,
+"total": 564,
+"registers": 2
+},
+{
+"year": 2018,
+"total": 623,
+"registers": 2
+},
+{
+"year": 2019,
+"total": 629,
+"registers": 2
+},
+{
+"year": 2020,
+"total": 546,
+"registers": 2
+},
+{
+"year": 2021,
+"total": 428,
+"registers": 2
+},
+{
+"year": 2022,
+"total": 851,
+"registers": 2
+},
+{
+"year": 2023,
+"total": 512,
+"registers": 2
+},
+{
+"year": 2024,
+"total": 485,
+"registers": 2
+},
+{
+"year": 2025,
+"total": 548,
+"registers": 2
+},
+{
+"year": 2026,
+"total": 232,
+"registers": 2
+}
+],
+"total": 5941,
+"default": 2026,
+"sources": [
+"GUNB"
+]
+},
+{
+"slug": "mokotow",
+"name": "Mokotów",
+"years": [
+{
+"year": 2016,
+"total": 1274,
+"registers": 2
+},
+{
+"year": 2017,
+"total": 1562,
+"registers": 2
+},
+{
+"year": 2018,
+"total": 1613,
+"registers": 2
+},
+{
+"year": 2019,
+"total": 1197,
+"registers": 2
+},
+{
+"year": 2020,
+"total": 1107,
+"registers": 2
+},
+{
+"year": 2021,
+"total": 871,
+"registers": 2
+},
+{
+"year": 2022,
+"total": 918,
+"registers": 2
+},
+{
+"year": 2023,
+"total": 792,
+"registers": 2
+},
+{
+"year": 2024,
+"total": 807,
+"registers": 2
+},
+{
+"year": 2025,
+"total": 571,
+"registers": 2
+},
+{
+"year": 2026,
+"total": 379,
+"registers": 2
+}
+],
+"total": 11091,
+"default": 2026,
+"sources": [
+"GUNB"
+]
+},
+{
+"slug": "ochota",
+"name": "Ochota",
+"years": [
+{
+"year": 2016,
+"total": 483,
+"registers": 2
+},
+{
+"year": 2017,
+"total": 483,
+"registers": 2
+},
+{
+"year": 2018,
+"total": 691,
+"registers": 2
+},
+{
+"year": 2019,
+"total": 400,
+"registers": 2
+},
+{
+"year": 2020,
+"total": 377,
+"registers": 2
+},
+{
+"year": 2021,
+"total": 255,
+"registers": 2
+},
+{
+"year": 2022,
+"total": 174,
+"registers": 2
+},
+{
+"year": 2023,
+"total": 193,
+"registers": 2
+},
+{
+"year": 2024,
+"total": 119,
+"registers": 2
+},
+{
+"year": 2025,
+"total": 85,
+"registers": 2
+},
+{
+"year": 2026,
+"total": 24,
+"registers": 2
+}
+],
+"total": 3284,
+"default": 2026,
+"sources": [
+"GUNB"
+]
+},
+{
+"slug": "praga-polnoc",
+"name": "Praga-Północ",
+"years": [
+{
+"year": 2016,
+"total": 311,
+"registers": 2
+},
+{
+"year": 2017,
+"total": 489,
+"registers": 2
+},
+{
+"year": 2018,
+"total": 604,
+"registers": 2
+},
+{
+"year": 2019,
+"total": 505,
+"registers": 2
+},
+{
+"year": 2020,
+"total": 417,
+"registers": 2
+},
+{
+"year": 2021,
+"total": 412,
+"registers": 5
+},
+{
+"year": 2022,
+"total": 433,
+"registers": 5
+},
+{
+"year": 2023,
+"total": 363,
+"registers": 5
+},
+{
+"year": 2024,
+"total": 394,
+"registers": 5
+},
+{
+"year": 2025,
+"total": 386,
+"registers": 5
+},
+{
+"year": 2026,
+"total": 267,
+"registers": 5
+}
+],
+"total": 4581,
+"default": 2026,
+"sources": [
+"GUNB",
+"Praga-Północ (strona dzielnicy)"
+]
+},
+{
+"slug": "praga-poludnie",
+"name": "Praga-Południe",
+"years": [
+{
+"year": 2016,
+"total": 814,
+"registers": 2
+},
+{
+"year": 2017,
+"total": 916,
+"registers": 2
+},
+{
+"year": 2018,
+"total": 732,
+"registers": 2
+},
+{
+"year": 2019,
+"total": 880,
+"registers": 2
+},
+{
+"year": 2020,
+"total": 627,
+"registers": 2
+},
+{
+"year": 2021,
+"total": 480,
+"registers": 2
+},
+{
+"year": 2022,
+"total": 368,
+"registers": 2
+},
+{
+"year": 2023,
+"total": 407,
+"registers": 2
+},
+{
+"year": 2024,
+"total": 405,
+"registers": 2
+},
+{
+"year": 2025,
+"total": 359,
+"registers": 2
+},
+{
+"year": 2026,
+"total": 252,
+"registers": 2
+}
+],
+"total": 6240,
+"default": 2026,
+"sources": [
+"GUNB"
+]
+},
+{
+"slug": "rembertow",
+"name": "Rembertów",
+"years": [
+{
+"year": 2016,
+"total": 277,
+"registers": 2
+},
+{
+"year": 2017,
+"total": 431,
+"registers": 2
+},
+{
+"year": 2018,
+"total": 250,
+"registers": 2
+},
+{
+"year": 2019,
+"total": 110,
+"registers": 2
+},
+{
+"year": 2020,
+"total": 59,
+"registers": 2
+},
+{
+"year": 2021,
+"total": 296,
+"registers": 2
+},
+{
+"year": 2022,
+"total": 422,
+"registers": 2
+},
+{
+"year": 2023,
+"total": 219,
+"registers": 2
+},
+{
+"year": 2024,
+"total": 126,
+"registers": 2
+},
+{
+"year": 2025,
+"total": 271,
+"registers": 2
+},
+{
+"year": 2026,
+"total": 148,
+"registers": 2
+}
+],
+"total": 2609,
+"default": 2026,
+"sources": [
+"GUNB"
+]
+},
+{
+"slug": "srodmiescie",
+"name": "Śródmieście",
+"years": [
+{
+"year": 2016,
+"total": 1376,
+"registers": 2
+},
+{
+"year": 2017,
+"total": 1354,
+"registers": 2
+},
+{
+"year": 2018,
+"total": 1499,
+"registers": 2
+},
+{
+"year": 2019,
+"total": 1030,
+"registers": 2
+},
+{
+"year": 2020,
+"total": 803,
+"registers": 2
+},
+{
+"year": 2021,
+"total": 716,
+"registers": 2
+},
+{
+"year": 2022,
+"total": 735,
+"registers": 2
+},
+{
+"year": 2023,
+"total": 630,
+"registers": 2
+},
+{
+"year": 2024,
+"total": 748,
+"registers": 2
+},
+{
+"year": 2025,
+"total": 775,
+"registers": 2
+},
+{
+"year": 2026,
+"total": 552,
+"registers": 2
+}
+],
+"total": 10218,
+"default": 2026,
+"sources": [
+"GUNB"
+]
+},
+{
+"slug": "targowek",
+"name": "Targówek",
+"years": [
+{
+"year": 2016,
+"total": 785,
+"registers": 2
+},
+{
+"year": 2017,
+"total": 796,
+"registers": 2
+},
+{
+"year": 2018,
+"total": 750,
+"registers": 2
+},
+{
+"year": 2019,
+"total": 609,
+"registers": 2
+},
+{
+"year": 2020,
+"total": 593,
+"registers": 2
+},
+{
+"year": 2021,
+"total": 647,
+"registers": 2
+},
+{
+"year": 2022,
+"total": 537,
+"registers": 2
+},
+{
+"year": 2023,
+"total": 531,
+"registers": 2
+},
+{
+"year": 2024,
+"total": 307,
+"registers": 2
+},
+{
+"year": 2025,
+"total": 257,
+"registers": 2
+},
+{
+"year": 2026,
+"total": 270,
+"registers": 2
+}
+],
+"total": 6082,
+"default": 2026,
+"sources": [
+"GUNB"
+]
+},
+{
+"slug": "ursus",
+"name": "Ursus",
+"years": [
+{
+"year": 2019,
+"total": 766,
+"registers": 6
+},
+{
+"year": 2020,
+"total": 613,
+"registers": 7
+},
+{
+"year": 2021,
+"total": 546,
+"registers": 7
+},
+{
+"year": 2022,
+"total": 611,
+"registers": 7
+},
+{
+"year": 2023,
+"total": 563,
+"registers": 6
+},
+{
+"year": 2024,
+"total": 449,
+"registers": 6
+},
+{
+"year": 2025,
+"total": 549,
+"registers": 7
+},
+{
+"year": 2026,
+"total": 470,
+"registers": 8
+}
+],
+"total": 4567,
+"default": 2026,
+"sources": [
+"Ursus (strona dzielnicy)"
+]
+},
+{
+"slug": "ursynow",
+"name": "Ursynów",
+"years": [
+{
+"year": 2016,
+"total": 1159,
+"registers": 2
+},
+{
+"year": 2017,
+"total": 1264,
+"registers": 2
+},
+{
+"year": 2018,
+"total": 967,
+"registers": 2
+},
+{
+"year": 2019,
+"total": 937,
+"registers": 2
+},
+{
+"year": 2020,
+"total": 764,
+"registers": 2
+},
+{
+"year": 2021,
+"total": 570,
+"registers": 2
+},
+{
+"year": 2022,
+"total": 545,
+"registers": 2
+},
+{
+"year": 2023,
+"total": 335,
+"registers": 2
+},
+{
+"year": 2024,
+"total": 421,
+"registers": 2
+},
+{
+"year": 2025,
+"total": 318,
+"registers": 2
+},
+{
+"year": 2026,
+"total": 167,
+"registers": 2
+}
+],
+"total": 7447,
+"default": 2026,
+"sources": [
+"GUNB"
+]
+},
+{
+"slug": "wawer",
+"name": "Wawer",
+"years": [
+{
+"year": 2016,
+"total": 1101,
+"registers": 2
+},
+{
+"year": 2017,
+"total": 1463,
+"registers": 2
+},
+{
+"year": 2018,
+"total": 1162,
+"registers": 2
+},
+{
+"year": 2019,
+"total": 1428,
+"registers": 2
+},
+{
+"year": 2020,
+"total": 1551,
+"registers": 2
+},
+{
+"year": 2021,
+"total": 3729,
+"registers": 2
+},
+{
+"year": 2022,
+"total": 2725,
+"registers": 2
+},
+{
+"year": 2023,
+"total": 2034,
+"registers": 2
+},
+{
+"year": 2024,
+"total": 2079,
+"registers": 2
+},
+{
+"year": 2025,
+"total": 2210,
+"registers": 2
+},
+{
+"year": 2026,
+"total": 1364,
+"registers": 2
+}
+],
+"total": 20846,
+"default": 2026,
+"sources": [
+"GUNB"
+]
+},
+{
+"slug": "wesola",
+"name": "Wesoła",
+"years": [
+{
+"year": 2016,
+"total": 471,
+"registers": 2
+},
+{
+"year": 2017,
+"total": 648,
+"registers": 2
+},
+{
+"year": 2018,
+"total": 643,
+"registers": 2
+},
+{
+"year": 2019,
+"total": 553,
+"registers": 2
+},
+{
+"year": 2020,
+"total": 588,
+"registers": 2
+},
+{
+"year": 2021,
+"total": 542,
+"registers": 2
+},
+{
+"year": 2022,
+"total": 472,
+"registers": 2
+},
+{
+"year": 2023,
+"total": 519,
+"registers": 2
+},
+{
+"year": 2024,
+"total": 1161,
+"registers": 2
+},
+{
+"year": 2025,
+"total": 692,
+"registers": 2
+},
+{
+"year": 2026,
+"total": 112,
+"registers": 2
+}
+],
+"total": 6401,
+"default": 2026,
+"sources": [
+"GUNB"
+]
+},
+{
+"slug": "wilanow",
+"name": "Wilanów",
+"years": [
+{
+"year": 2016,
+"total": 994,
+"registers": 2
+},
+{
+"year": 2017,
+"total": 1046,
+"registers": 2
+},
+{
+"year": 2018,
+"total": 807,
+"registers": 2
+},
+{
+"year": 2019,
+"total": 919,
+"registers": 2
+},
+{
+"year": 2020,
+"total": 592,
+"registers": 2
+},
+{
+"year": 2021,
+"total": 986,
+"registers": 2
+},
+{
+"year": 2022,
+"total": 732,
+"registers": 2
+},
+{
+"year": 2023,
+"total": 651,
+"registers": 2
+},
+{
+"year": 2024,
+"total": 637,
+"registers": 2
+},
+{
+"year": 2025,
+"total": 677,
+"registers": 2
+},
+{
+"year": 2026,
+"total": 669,
+"registers": 2
+}
+],
+"total": 8710,
+"default": 2026,
+"sources": [
+"GUNB"
+]
+},
+{
+"slug": "wlochy",
+"name": "Włochy",
+"years": [
+{
+"year": 2016,
+"total": 208,
+"registers": 2
+},
+{
+"year": 2017,
+"total": 205,
+"registers": 2
+},
+{
+"year": 2018,
+"total": 42,
+"registers": 2
+},
+{
+"year": 2019,
+"total": 100,
+"registers": 2
+},
+{
+"year": 2020,
+"total": 483,
+"registers": 2
+},
+{
+"year": 2021,
+"total": 534,
+"registers": 2
+},
+{
+"year": 2022,
+"total": 517,
+"registers": 2
+},
+{
+"year": 2023,
+"total": 541,
+"registers": 2
+},
+{
+"year": 2024,
+"total": 281,
+"registers": 2
+},
+{
+"year": 2025,
+"total": 92,
+"registers": 2
+},
+{
+"year": 2026,
+"total": 1,
+"registers": 1
+}
+],
+"total": 3004,
+"default": 2026,
+"sources": [
+"GUNB"
+]
+},
+{
+"slug": "wola",
+"name": "Wola",
+"years": [
+{
+"year": 2016,
+"total": 658,
+"registers": 2
+},
+{
+"year": 2017,
+"total": 536,
+"registers": 2
+},
+{
+"year": 2018,
+"total": 452,
+"registers": 2
+},
+{
+"year": 2019,
+"total": 628,
+"registers": 2
+},
+{
+"year": 2020,
+"total": 555,
+"registers": 2
+},
+{
+"year": 2021,
+"total": 397,
+"registers": 2
+},
+{
+"year": 2022,
+"total": 449,
+"registers": 2
+},
+{
+"year": 2023,
+"total": 454,
+"registers": 2
+},
+{
+"year": 2024,
+"total": 299,
+"registers": 2
+},
+{
+"year": 2025,
+"total": 348,
+"registers": 2
+},
+{
+"year": 2026,
+"total": 301,
+"registers": 2
+}
+],
+"total": 5077,
+"default": 2026,
+"sources": [
+"GUNB"
+]
+},
+{
+"slug": "zoliborz",
+"name": "Żoliborz",
+"years": [
+{
+"year": 2016,
+"total": 476,
+"registers": 2
+},
+{
+"year": 2017,
+"total": 597,
+"registers": 2
+},
+{
+"year": 2018,
+"total": 256,
+"registers": 2
+},
+{
+"year": 2019,
+"total": 223,
+"registers": 2
+},
+{
+"year": 2020,
+"total": 262,
+"registers": 2
+},
+{
+"year": 2021,
+"total": 152,
+"registers": 2
+},
+{
+"year": 2022,
+"total": 143,
+"registers": 2
+},
+{
+"year": 2023,
+"total": 147,
+"registers": 2
+},
+{
+"year": 2024,
+"total": 127,
+"registers": 2
+},
+{
+"year": 2025,
+"total": 141,
+"registers": 2
+},
+{
+"year": 2026,
+"total": 82,
+"registers": 2
+}
+],
+"total": 2606,
+"default": 2026,
+"sources": [
+"GUNB"
+]
+}
+]
+}
