@@ -1,27 +1,29 @@
-Zaktualizuj rejestry dzielnic Warszawy w tym repozytorium.
+Zaktualizuj rejestry Ursusa i Pragi-Północ w tym repozytorium.
 
 Kontekst, który musisz znać:
-- `build.py` pobiera dane z dwóch źródeł: pliku zbiorczego GUNB
-  (wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip) oraz stron
-  dzielnic (Ursus: ursus.um.warszawa.pl/wykazy, Praga-Północ:
-  pragapn.um.warszawa.pl/-/ogloszenia-2).
-- Serwery GitHuba dostają 403 od *.um.warszawa.pl, dlatego ta aktualizacja
-  musi iść z tej maszyny. Workflow w .github/ tylko publikuje katalog site/.
+- Dane idą z dwóch źródeł. Plik zbiorczy GUNB (16 dzielnic) buduje
+  GitHub Actions co tydzień — nie ruszaj go. Ty zajmujesz się tylko
+  Ursusem (ursus.um.warszawa.pl/wykazy) i Pragą-Północ
+  (pragapn.um.warszawa.pl/-/ogloszenia-2), bo te strony zwracają
+  serwerom GitHuba HTTP 403.
+- Dlatego budujesz `python3 build.py --site-only`, nie pełny build.
+  Pełny build nadpisałby 41 MB danych z GUNB i zrobił ogromny diff.
 - Katalog `raw/` to cache pobranych plików. Nie usuwaj go bez powodu.
+- Manifest `site/data/index.json` jest składany ze skanu katalogu, więc
+  po buildzie będzie zawierał wszystkie 18 dzielnic — to poprawne.
 
 Zrób po kolei:
 
 1. Sprawdź dostęp do źródeł:
-   curl -sI https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip
    curl -sI https://ursus.um.warszawa.pl/wykazy
    curl -sI https://pragapn.um.warszawa.pl/-/ogloszenia-2
    Jeśli któreś zwróci 403 — przerwij i powiedz mi o tym, nie kombinuj.
 
 2. Zapisz obecne liczby pozycji jako punkt odniesienia:
-   python3 -c "import json;d=json.load(open('site/data/index.json'));print({x['slug']:x['total'] for x in d['districts']})"
+   python3 -c "import json;d=json.load(open('site/data/index.json'));print({x['slug']:x['total'] for x in d['districts'] if x['slug'] in ('ursus','praga-polnoc')})"
 
-3. Uruchom build wszystkich dzielnic:
-   python3 build.py
+3. Uruchom build:
+   python3 build.py --site-only
    Jeśli padnie na jednej dzielnicy, uruchom ją osobno przez
    `python3 build.py --district <slug>` i zaraportuj błąd, ale nie
    przerywaj całej aktualizacji.
@@ -32,12 +34,12 @@ Zrób po kolei:
    - "- pominięto <rejestr> (brak pliku)"
    - "! <plik>: inny dokument"
    - "! parsowanie <plik>"
-   Jeśli jakakolwiek dzielnica straciła więcej niż 5% pozycji, ZATRZYMAJ SIĘ
+   Jeśli któraś dzielnica straciła więcej niż 5% pozycji, ZATRZYMAJ SIĘ
    i pokaż mi różnicę przed commitem.
 
 5. Jeśli wszystko wygląda dobrze, zrób commit i push:
-   git add site/
-   git commit -m "Aktualizacja rejestrów $(date +%Y-%m-%d)"
+   git add site/data/ursus site/data/praga-polnoc site/data/index.json
+   git commit -m "Aktualizacja Ursus i Praga-Północ $(date +%Y-%m-%d)"
    git push
 
 6. Na koniec podaj mi krótkie podsumowanie w tabeli: dzielnica, pozycji

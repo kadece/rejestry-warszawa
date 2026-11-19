@@ -1,84 +1,74 @@
-# Aktualizacja rejestrów — instrukcja dla serwera lokalnego
+# Aktualizacja rejestrów — instrukcja
 
-Ten dokument opisuje, jak uruchomić odświeżanie danych **na własnej
-maszynie** i jak zautomatyzować je tak, żeby chodziło co dwa tygodnie.
+Dane odświeżają się **dwutorowo**. To nie jest komplikacja bez powodu —
+wynika z tego, kto może pobrać co.
+
+```
+┌─ GitHub Actions (co tydzień, automatycznie) ──────────────────┐
+│  16 dzielnic, dane z pliku zbiorczego GUNB                    │
+│  wyszukiwarka.gunb.gov.pl jest z runnerów dostępna            │
+│  → build.py --gunb-only → publikacja na Pages                 │
+└───────────────────────────────────────────────────────────────┘
+
+┌─ twoja maszyna (co dwa tygodnie, ./update.sh) ────────────────┐
+│  Ursus + Praga-Północ, dane ze stron dzielnic                 │
+│  *.um.warszawa.pl zwraca runnerom HTTP 403                    │
+│  → build.py --site-only → commit + push → Pages przebuduje    │
+└───────────────────────────────────────────────────────────────┘
+```
+
+Oba tory piszą do `site/data/` i **się nie nadpisują**: manifest
+(`site/data/index.json`) jest składany ze skanu katalogu, a każdy tor
+buduje tylko swoje dzielnice.
+
+Wielkości: 16 dzielnic z GUNB to ~41 MB, Ursus i Praga-Północ ~2,4 MB.
+Dlatego te 41 MB nigdy nie przechodzi przez twoje łącze — generuje je CI.
 
 ---
 
-## Dlaczego nie GitHub Actions
+## Co musisz zrobić raz
 
-Sprawdzone: serwery GitHuba dostają **HTTP 403** od `*.um.warszawa.pl`.
-Strony dzielnic blokują adresy z centrów danych. GUNB (`gunb.gov.pl`)
-działa z GitHuba bez problemu, ale Ursus i Praga-Północ — nie.
+### 1. Włącz GitHub Pages
 
-Dlatego podział ról jest taki:
+**To musisz kliknąć sam** — token GitHuba nie ma uprawnień do utworzenia
+strony (`Resource not accessible by integration`).
 
-```
-twoja maszyna                    GitHub
-─────────────                    ──────
-pobiera dane      ──push──►      repo (site/)
-parsuje                            │
-zapisuje JSON                      ▼
-                            GitHub Actions
-                            (tylko publikacja)
-                                   │
-                                   ▼
-                            GitHub Pages
-```
+1. Wejdź na https://github.com/kadece/rejestry-warszawa/settings/pages
+2. **Source** → wybierz **GitHub Actions**
+3. Zapisz
 
-Workflow `.github/workflows/update.yml` **nie pobiera niczego** — bierze
-katalog `site/` z repo i wrzuca go na Pages. Cała robota (pobieranie,
-parsowanie) dzieje się u ciebie.
+Bez tego kroku workflow pada na „Konfiguracja GitHub Pages”.
 
----
+### 2. Sprawdź, czy workflow przechodzi
 
-## Czego potrzebujesz
+https://github.com/kadece/rejestry-warszawa/actions/workflows/update.yml
 
-* Python 3.10 lub nowszy,
-* `git` skonfigurowany z dostępem do `kadece/rejestry-warszawa`
-  (klucz SSH albo token w `~/.git-credentials`),
-* dostęp sieciowy do:
-  * `wyszukiwarka.gunb.gov.pl` (plik zbiorczy, ~47 MB),
-  * `ursus.um.warszawa.pl` i `cdn.um.warszawa.pl`,
-  * `pragapn.um.warszawa.pl` i `cdn.um.warszawa.pl`.
+Powinny być dwa zielone joby: `build` i `deploy`. Strona będzie pod
+https://kadece.github.io/rejestry-warszawa/
 
-Sprawdzenie dostępu:
+### 3. Przygotuj maszynę do Ursusa i Pragi-Północ
+
+Wymagania: Python 3.10+, `git` z dostępem do repo.
 
 ```bash
-curl -sI https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip | head -1
+git clone https://github.com/kadece/rejestry-warszawa.git
+cd rejestry-warszawa
+python3 -m pip install openpyxl pdfplumber
+chmod +x update.sh
+
+# próba na jednej dzielnicy
+./update.sh ursus
+```
+
+Sprawdzenie dostępu do źródeł:
+
+```bash
 curl -sI https://ursus.um.warszawa.pl/wykazy | head -1
 curl -sI https://pragapn.um.warszawa.pl/-/ogloszenia-2 | head -1
 ```
 
-Wszystkie trzy powinny zwrócić `200`. Jeśli któraś zwróci `403` — ta
-maszyna też jest blokowana i trzeba innego wyjścia (np. VPN albo ręczne
-pobranie plików do `raw/`).
-
----
-
-## Jednorazowa konfiguracja
-
-```bash
-# 1. Klon repo
-git clone https://github.com/kadece/rejestry-warszawa.git
-cd rejestry-warszawa
-
-# 2. Zależności
-python3 -m pip install openpyxl pdfplumber
-
-# 3. Uprawnienia do skryptu
-chmod +x update.sh
-
-# 4. Próba na jednej dzielnicy (szybko, ~1 min)
-./update.sh ursus
-```
-
-Jeśli `./update.sh ursus` przejdzie bez błędu i wypisze
-`== gotowe ==`, konfiguracja jest skończona.
-
-Pierwsze pełne uruchomienie potrwa **~6 minut** — GUNB to 47 MB do
-pobrania i 334 MB CSV do przeczytania, a Ursus ma 56 PDF-ów i arkuszy.
-Kolejne będą szybsze, bo `raw/` działa jak cache.
+Obie powinny zwrócić `200`. Jeśli `403` — ta maszyna też jest blokowana
+i potrzebujesz innego wyjścia (VPN albo ręczne wrzucenie plików do `raw/`).
 
 ---
 
@@ -89,16 +79,17 @@ cd rejestry-warszawa
 ./update.sh
 ```
 
-Skrypt robi po kolei:
+Skrypt:
 
 1. instaluje/aktualizuje `openpyxl` i `pdfplumber`,
-2. uruchamia `python build.py` (wszystkie 18 dzielnic),
+2. uruchamia `python build.py --site-only` (Ursus + Praga-Północ),
 3. czyści `__pycache__`,
-4. sprawdza, czy `site/` się zmieniło — jeśli nie, **kończy bez commita**,
-5. jeśli tak: `git add site/`, commit `Aktualizacja rejestrów RRRR-MM-DD`,
-   `git push`.
+4. `git add site/data/ursus site/data/praga-polnoc site/data/index.json`,
+5. jeśli nic się nie zmieniło — kończy bez commita,
+6. jeśli tak: commit `Aktualizacja Ursus i Praga-Północ RRRR-MM-DD` + push.
 
-Po pushu GitHub Actions publikuje stronę w ciągu ~1 minuty.
+Push uruchamia workflow, który przebudowuje 16 dzielnic z GUNB
+i publikuje całość. Strona jest aktualna po ~2 minutach.
 
 ### Tylko jedna dzielnica
 
@@ -106,10 +97,16 @@ Po pushu GitHub Actions publikuje stronę w ciągu ~1 minuty.
 ./update.sh praga-polnoc
 ```
 
-### Bez pobierania (z cache)
+### Wszystko lokalnie (do testów, ~6 min)
 
 ```bash
-python3 build.py --offline
+python3 build.py
+```
+
+### Bez pobierania (z cache w `raw/`)
+
+```bash
+python3 build.py --site-only --offline
 ```
 
 ### Tylko przebudowa HTML
@@ -120,7 +117,7 @@ python3 build.py --render-only
 
 ---
 
-## Automat co dwa tygodnie
+## Automat co dwa tydzień
 
 ### Linux / macOS — cron
 
@@ -134,19 +131,13 @@ Dopisz (1. i 15. dnia miesiąca o 4:10):
 10 4 1,15 * * cd /home/twoj_user/rejestry-warszawa && ./update.sh >> /var/log/rejestry.log 2>&1
 ```
 
-Sprawdzenie:
-
-```bash
-tail -f /var/log/rejestry.log
-```
-
 ### Linux — systemd timer (pewniejszy niż cron)
 
 `/etc/systemd/system/rejestry.service`:
 
 ```ini
 [Unit]
-Description=Aktualizacja rejestrów dzielnic Warszawy
+Description=Aktualizacja Ursus i Praga-Północ
 After=network-online.target
 Wants=network-online.target
 
@@ -178,8 +169,8 @@ sudo systemctl enable --now rejestry.timer
 systemctl list-timers rejestry.timer
 ```
 
-`Persistent=true` oznacza, że jeśli serwer był wyłączony w zaplanowanym
-terminie, zadanie wykona się po najbliższym włączeniu.
+`Persistent=true` sprawia, że po włączeniu serwera zaległe zadanie
+wykona się od razu.
 
 ### Windows — Harmonogram zadań
 
@@ -188,8 +179,7 @@ $action  = New-ScheduledTaskAction -Execute "C:\Program Files\Git\bin\bash.exe" 
            -Argument "-lc 'cd /c/Users/twoj_user/rejestry-warszawa && ./update.sh'" `
            -WorkingDirectory "C:\Users\twoj_user\rejestry-warszawa"
 $trigger = New-ScheduledTaskTrigger -Weekly -WeeksInterval 2 -DaysOfWeek Monday -At 4:10am
-Register-ScheduledTask -TaskName "Rejestry Warszawa" -Action $action -Trigger $trigger `
-           -Description "Odświeżanie rejestrów dzielnic Warszawy"
+Register-ScheduledTask -TaskName "Rejestry Warszawa" -Action $action -Trigger $trigger
 ```
 
 Wymaga Git for Windows (dostarcza `bash.exe`).
@@ -198,7 +188,7 @@ Wymaga Git for Windows (dostarcza `bash.exe`).
 
 ## Wariant: Vibe CLI na serwerze
 
-Jeśli wolisz, żeby aktualizację prowadził agent, a nie goły skrypt:
+Jeśli wolisz, żeby aktualizację prowadził agent:
 
 1. Zainstaluj Vibe CLI na serwerze i otwórz je w katalogu repo:
 
@@ -207,13 +197,13 @@ Jeśli wolisz, żeby aktualizację prowadził agent, a nie goły skrypt:
    vibe
    ```
 
-2. Wklej zawartość pliku **[PROMPT-aktualizacja.txt](PROMPT-aktualizacja.txt)**
+2. Wklej zawartość **[PROMPT-aktualizacja.txt](PROMPT-aktualizacja.txt)**
    jako pierwszą wiadomość.
 
 3. Agent sprawdzi dostęp do źródeł, uruchomi build, porówna liczby pozycji
    z poprzednim przebiegiem, zgłosi anomalie i zrobi commit + push.
 
-4. Żeby chodziło cyklicznie, poproś agenta o zadanie cron:
+4. Żeby chodziło cyklicznie:
 
    ```
    Ustaw to jako zadanie co dwa tygodnie, 1. i 15. o 4:10.
@@ -235,11 +225,18 @@ Maszyna jest blokowana albo brakuje nagłówka `Referer`. `parsers.download()`
 wysyła `Referer: <adres dzielnicy>/` — CDN `cdn.um.warszawa.pl` bez tego
 zwraca 403.
 
+### Workflow pada na „Konfiguracja GitHub Pages”
+
+Pages nie są włączone. Zobacz krok 1 wyżej.
+
 ### Liczba pozycji spadła
 
 Najczęstsza przyczyna: urząd zmienił układ arkusza albo nazwy kolumn.
-Sprawdź log — parser wypisuje `- pominięto <rejestr> (brak pliku)`
-i `! <plik>: inny dokument`.
+W logu szukaj:
+
+* `- pominięto <rejestr> (brak pliku)`
+* `! <plik>: inny dokument`
+* `! parsowanie <plik>`
 
 Diagnostyka pojedynczego pliku:
 
@@ -268,9 +265,10 @@ dict(id='dec_zrid', name='Decyzje ZRID', short='ZRID',
      date=3),
 ```
 
-`match` to fragment nazwy pliku, `pdf_title` — fragment tytułu w treści
-PDF-a (zabezpieczenie przed podmienionymi plikami), `cols` — numer kolumny
-w arkuszu (1-based) i szerokość.
+* `match` — fragment nazwy pliku,
+* `pdf_title` — fragment tytułu w treści PDF-a (chroni przed podmienionymi
+  plikami; sprawdzany tylko dla PDF-ów),
+* `cols` — numer kolumny w arkuszu (1-based) i szerokość.
 
 ### Nowa dzielnica z własną stroną
 
@@ -281,6 +279,9 @@ Skopiuj `districts/praga_polnoc.py`, popraw `BASE`, `PAGES`, `REGISTERS`,
 dict(slug='wola', name='Wola', organ='Prezydent Miasta Warszawa - Wola',
      site=wola),
 ```
+
+Dzielnica z `site=` przestaje być budowana przez CI — musi ją budować
+twoja maszyna (`--site-only`).
 
 ---
 
@@ -297,7 +298,7 @@ districts/
 templates/               index.html, style.css, app.js, logo
 site/                    WYNIK — to trafia na GitHub Pages
 raw/                     cache pobranych plików (poza repo)
-update.sh                pobierz → sparsuj → commit → push
+update.sh                Ursus + Praga-Północ → commit → push
 .github/workflows/
-  update.yml             publikacja site/ na Pages
+  update.yml             16 dzielnic z GUNB + publikacja
 ```

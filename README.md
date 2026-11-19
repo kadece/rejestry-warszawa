@@ -34,7 +34,7 @@ na wszystkie 18 dzielnic. Tamten serwis pozostaje bez zmian.
 | Wola | GUNB | 2016 | 5 077 |
 | Żoliborz | GUNB | 2016 | 2 606 |
 
-**Razem: 132 082 pozycje w 195 plikach rocznikowych (43 MB).**
+**Razem: 132 082 pozycje w 195 plikach rocznikowych (46 MB).**
 
 ---
 
@@ -99,7 +99,7 @@ site/data/<slug>/<rok>.json
 ```
 
 Strona **nie** ma danych w HTML-u — `app.js` pobiera `data/index.json`,
-a potem konkretny rocznik. Dzięki temu 43 MB danych nie trafia do jednego
+a potem konkretny rocznik. Dzięki temu 46 MB danych nie trafia do jednego
 pliku, a przeglądarka ściąga tylko to, co użytkownik otworzy.
 
 ### Parsowanie
@@ -131,6 +131,8 @@ Wymagania: Python 3.10+, `openpyxl`, `pdfplumber`.
 python -m pip install openpyxl pdfplumber
 
 python build.py                      # wszystkie dzielnice (≈6 min)
+python build.py --gunb-only          # 16 dzielnic z GUNB (to robi CI)
+python build.py --site-only          # Ursus + Praga-Północ (to robi update.sh)
 python build.py --district ursus     # jedna dzielnica
 python build.py --offline            # bez pobierania, z cache w raw/
 python build.py --render-only        # tylko HTML z gotowych JSON-ów
@@ -147,16 +149,23 @@ wymusza pełne ponowne pobranie ~47 MB z GUNB i kilkuset PDF-ów.
 
 ## Aktualizacja
 
-Serwery GitHuba dostają **HTTP 403** od `*.um.warszawa.pl`, więc workflow
-w `.github/workflows/update.yml` tylko publikuje to, co już leży w repo.
-Świeże dane musi wgrać maszyna z dostępem do stron dzielnic.
+Dane odświeżają się dwutorowo, bo `*.um.warszawa.pl` blokuje serwery
+GitHuba (HTTP 403), a GUNB — nie:
+
+| Tor | Co buduje | Kiedy |
+|---|---|---|
+| GitHub Actions | 16 dzielnic z GUNB (~41 MB) | co poniedziałek + po każdym pushu |
+| twoja maszyna | Ursus + Praga-Północ (~2,4 MB) | `./update.sh`, co dwa tygodnie |
+
+Oba piszą do `site/data/` i się nie nadpisują — manifest jest składany
+ze skanu katalogu, a każdy tor buduje tylko swoje dzielnice.
 
 Instrukcja krok po kroku: **[AKTUALIZACJA.md](AKTUALIZACJA.md)**.
 
 Skrót:
 
 ```bash
-./update.sh          # pobiera, parsuje, commituje i pushuje
+./update.sh          # Ursus + Praga-Północ → commit → push
 ```
 
 ---
