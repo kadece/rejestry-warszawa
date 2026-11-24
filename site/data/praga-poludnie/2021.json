@@ -1,0 +1,5372 @@
+{
+"district": "praga-poludnie",
+"year": 2021,
+"generated": "2026-11-24T21:22:48+01:00",
+"total": 480,
+"registers": [
+{
+"id": "wn_pnb",
+"name": "Wnioski o pozwolenie na budowę",
+"short": "Wnioski PnB",
+"desc": "Wnioski o pozwolenie na budowę złożone do organu architektoniczno-budowlanego dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer wniosku",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2021-12-31",
+"c": {
+"inw": "Rozbudowa,nadbudowa i przebudowa budynku mieszkalnego jednorodzinnego w zabudowie bliźniaczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Zamieniecka 25",
+"dz": "146507_8 0515 121",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/43055/21/JGA"
+}
+},
+{
+"d": "2021-12-31",
+"c": {
+"inw": "Rozbudowa,nadbudowa i przebudowa budynku mieszkalnego jednorodzinnego w zabudowie bliźniaczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wiceprowincja Zgromadzenia Sióstr Pasjonatek",
+"nier": "Zamieniecka 25A",
+"dz": "146507_8 0515 121",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/43054/21/JGA"
+}
+},
+{
+"d": "2021-12-23",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z częścią usługową w parterze i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "SG DEVELOPMENT SP z O.O.",
+"nier": "Abrahama 14 / gen. Romana",
+"dz": "146507_8 0605 27",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/42179/21"
+}
+},
+{
+"d": "2021-12-22",
+"c": {
+"inw": "przebudowa pomieszczeń dla potrzeb kliniki pediatrii,nefrologii i alergologii dziecięcej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wojskowy Instytut Medyczny",
+"nier": "Szaserów 128",
+"dz": "146507_8 0403 8/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/42095/21/JZA"
+}
+},
+{
+"d": "2021-12-21",
+"c": {
+"inw": "przebudowa budynku mieszkalnego jednorodzinnego wraz z rozbudową tarasu oraz budową oranżerii wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Obrońców 11",
+"dz": "146507_8 0107 64",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/41945/21"
+}
+},
+{
+"d": "2021-12-21",
+"c": {
+"inw": "przebudowa  budynku mieszkalnego wielorodzinnego wraz z dobudową tarasu. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Okuniewska 21",
+"dz": "146507_8 0515 5/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/41939/21"
+}
+},
+{
+"d": "2021-12-17",
+"c": {
+"inw": "rozbiórka instalacji radiokomunikacyjnej rozbiórka istniejącego obiektu budowlanego",
+"wn": "T-MOBILE Polska S.A.",
+"nier": "Lizbońska 3",
+"dz": "146507_8 0117 2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "ePUAP/480170/21"
+}
+},
+{
+"d": "2021-12-13",
+"c": {
+"inw": "przebudowa budynku szkoły podstawowej nr 312 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Praga-Południe",
+"nier": "Umińskiego 11 / Władysława",
+"dz": "146507_8 0606 15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/40985/21/ASE"
+}
+},
+{
+"d": "2021-12-08",
+"c": {
+"inw": "Rozbiórka budynku biurowego(dawny E.WEDEL) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Moderna Holding Sp. z o.o.",
+"nier": "Zamoyskiego 24/26 / Jana",
+"dz": "146507_8 0204 7/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-KO/32727/21/PHO"
+}
+},
+{
+"d": "2021-12-07",
+"c": {
+"inw": "Przebudowa domu jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Lubieszowska 5",
+"dz": "146507_8 0410 34/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/40255/21/JZA"
+}
+},
+{
+"d": "2021-12-03",
+"c": {
+"inw": "Instalowanie instalacji gazowej wewnątrz budynku mieszkalngo jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Podhajecka 7",
+"dz": "146507_8 0411 25/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/39912/21/JGA"
+}
+},
+{
+"d": "2021-11-30",
+"c": {
+"inw": "Zabezpieczenia zespołu budynków wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Towarzystwo Budownictwa Społecznego Warszawa Południe Sp. z o.o.",
+"nier": "Targowa 14",
+"dz": "146507_8 0201 2/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/39352/21/PHO"
+}
+},
+{
+"d": "2021-11-30",
+"c": {
+"inw": "budynek usługowy z mieszkaniami na wynajem,częścią handlową,garażempodziemnym oraz infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "6B47 POLAND 3 SP. Z O.O SP.K.",
+"nier": "Grochowska 359/363",
+"dz": "146507_8 0204 19/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/39396/21/ASE"
+}
+},
+{
+"d": "2021-11-30",
+"c": {
+"inw": "budowa i przebudowa magistrali sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Grochowska",
+"dz": "146507_8 0206 53",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-=WOM-ROB/39480/21/PHO"
+}
+},
+{
+"d": "2021-11-30",
+"c": {
+"inw": "budowa i przebudowa magistrali sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Grochowska",
+"dz": "146507_8 0206 58",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-=WOM-ROB/39480/21/PHO"
+}
+},
+{
+"d": "2021-11-30",
+"c": {
+"inw": "budowa i przebudowa magistrali sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Grochowska",
+"dz": "146507_8 0206 61",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-=WOM-ROB/39480/21/PHO"
+}
+},
+{
+"d": "2021-11-30",
+"c": {
+"inw": "budowa i przebudowa magistrali sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Grochowska",
+"dz": "146507_8 0206 64",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-=WOM-ROB/39480/21/PHO"
+}
+},
+{
+"d": "2021-11-30",
+"c": {
+"inw": "budowa i przebudowa magistrali sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Grochowska",
+"dz": "146507_8 0206 80",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-=WOM-ROB/39480/21/PHO"
+}
+},
+{
+"d": "2021-11-30",
+"c": {
+"inw": "budowa i przebudowa magistrali sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Grochowska",
+"dz": "146507_8 0206 82",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-=WOM-ROB/39480/21/PHO"
+}
+},
+{
+"d": "2021-11-30",
+"c": {
+"inw": "budowa i przebudowa magistrali sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Grochowska",
+"dz": "146507_8 0207 45",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-=WOM-ROB/39480/21/PHO"
+}
+},
+{
+"d": "2021-11-30",
+"c": {
+"inw": "budowa i przebudowa magistrali sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Grochowska",
+"dz": "146507_8 0207 64",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-=WOM-ROB/39480/21/PHO"
+}
+},
+{
+"d": "2021-11-29",
+"c": {
+"inw": "przebudowa lokalu z remontem pomieszczeń i budową instalacji gazu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Grochowska 271",
+"dz": "146507_8 0532 9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/39195/21/JZA"
+}
+},
+{
+"d": "2021-11-26",
+"c": {
+"inw": "budowa budynku mieszkalnego jednirodzinnego w zabudowie blizniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Żółkiewskiego 57 / Stanisława",
+"dz": "146507_8 0405 250",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/38953/21/JZA"
+}
+},
+{
+"d": "2021-11-24",
+"c": {
+"inw": "Przebudowa polegająca na wzmocnieniu i izolacji fundamentów w budynku mieszkalnym jednorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Dąbrowiecka 18",
+"dz": "146507_8 0107 52",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/459542/21/DSZ"
+}
+},
+{
+"d": "2021-11-24",
+"c": {
+"inw": "Przebudowa polegająca na wzmocnieniu i izolacji fundamentów w budynku mieszkalnym jednorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Dąbrowiecka 18",
+"dz": "146507_8 0107 53",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/459542/21/DSZ"
+}
+},
+{
+"d": "2021-11-23",
+"c": {
+"inw": "Przebudowa budynku Przedszkola nr 397 dla dostosowania do ochrony przeciwpożarowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Praga-Południe",
+"nier": "Komorska 6",
+"dz": "146507_8 0517 10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/38537/21/JGA"
+}
+},
+{
+"d": "2021-11-23",
+"c": {
+"inw": "Przebudowa pomieszczeń Kliniki Ginekologii i Ginekologii Onkologicznej.Blok E1 i łącznik E-1-2, fragment Bloku A,IV piętro w WIM wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wojskowy Instytut Medyczny",
+"nier": "Szaserów 128",
+"dz": "146507_8 0403 8/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/38450/21/JZA"
+}
+},
+{
+"d": "2021-11-22",
+"c": {
+"inw": "Prace rozbiórkowe budynku mieszkalnego dwurodzinnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "SBM Nasza Chata",
+"nier": "Koprzywiańska 27",
+"dz": "146507_8 0416 51",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/38242/21/JGA"
+}
+},
+{
+"d": "2021-11-22",
+"c": {
+"inw": "Przebudowa sieci ciepłowniczej, przebudowa sieci gazowej, budowa przyłącza wodociągowego,budowa przyłącza kanalizacji sanitarnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Praga-Południe",
+"nier": "Meissnera 8 B / Janusza",
+"dz": "146507_8 0603 30",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-KO/31211/21/ASE"
+}
+},
+{
+"d": "2021-11-22",
+"c": {
+"inw": "Przebudowa sieci ciepłowniczej, przebudowa sieci gazowej, budowa przyłącza wodociągowego,budowa przyłącza kanalizacji sanitarnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Praga-Południe",
+"nier": "Meissnera 8 B / Janusza",
+"dz": "146507_8 0603 36/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-KO/31211/21/ASE"
+}
+},
+{
+"d": "2021-11-22",
+"c": {
+"inw": "Przebudowa sieci ciepłowniczej, przebudowa sieci gazowej, budowa przyłącza wodociągowego,budowa przyłącza kanalizacji sanitarnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Praga-Południe",
+"nier": "Meissnera 8 B / Janusza",
+"dz": "146507_8 0603 45",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-KO/31211/21/ASE"
+}
+},
+{
+"d": "2021-11-19",
+"c": {
+"inw": "Przebudowa budynku jednorodzinnego w zabudowie szregowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "19",
+"dz": "146507_8 1122 117/50",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/38026/21/JGA"
+}
+},
+{
+"d": "2021-11-15",
+"c": {
+"inw": "rozbiórka budynku biurowo-technicznego rozbiórka istniejącego obiektu budowlanego",
+"wn": "CGLX SP. Z O.O.",
+"nier": "Lizbońska 1",
+"dz": "146507_8 0117 2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/37404/21/DSZ"
+}
+},
+{
+"d": "2021-11-10",
+"c": {
+"inw": "budynek hotelu z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "BOUYGUES IMMOBILIER POLSKA SP.Z.O.O.",
+"nier": "Siennicka 48",
+"dz": "146507_8 0212 8/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/37141/21/JZA"
+}
+},
+{
+"d": "2021-11-10",
+"c": {
+"inw": "budynek hotelu z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "BOUYGUES IMMOBILIER POLSKA SP.Z.O.O.",
+"nier": "Siennicka 48",
+"dz": "146507_8 0212 17/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/37141/21/JZA"
+}
+},
+{
+"d": "2021-11-08",
+"c": {
+"inw": "wykonanie powiększenia istniejącego otworu oraz nowego otworu w ścianie nośnej wewnątrz lokalu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Abrahama 7 / gen. Romana",
+"dz": "146507_8 0605 41/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/36630/21/ASE"
+}
+},
+{
+"d": "2021-11-08",
+"c": {
+"inw": "budowa budynku produkcyjno-magazynowego z instalacjami zewnętrznymi budowa nowego/nowych obiektów budowlanych",
+"wn": "LOTTE WEDEL Sp. z.o.o",
+"nier": "Zamoyskiego 28/30 / Jana",
+"dz": "146507_8 0204 7/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/36769/21/PHO"
+}
+},
+{
+"d": "2021-10-29",
+"c": {
+"inw": "Zespół budynków o funkcji mieszkalnej wielorodzinnej,zamieszkania zbiorowego z usługami w parterze,garazami podziemnymi oraz niezbędną infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "Eiffage Immobilier Poska",
+"nier": "Chodakowska",
+"dz": "146507_8 0207 69",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/35876/21/PHO"
+}
+},
+{
+"d": "2021-10-29",
+"c": {
+"inw": "remont dachu oraz poddasza budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakłąd Gospodarowania Nieruchomościami Praga-Południe m.st Warszawy",
+"nier": "Kawcza 46 a",
+"dz": "146507_8 0509 130",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/35760/21/JGA"
+}
+},
+{
+"d": "2021-10-28",
+"c": {
+"inw": "nadbudowa budynku mieszkalnego wielorodzinnego nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Ostrobramska 100/102",
+"dz": "146507_8 0514 109",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/35650/21/JGA"
+}
+},
+{
+"d": "2021-10-27",
+"c": {
+"inw": "remont dachu oraz poddasza w tym remont stropu nad mieszkaniem nr 112 budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami m.st Warszawa",
+"nier": "Skaryszewska 2",
+"dz": "146507_8 0201 13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/35272/21/PHO"
+}
+},
+{
+"d": "2021-10-27",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Biłgorajska 7",
+"dz": "146507_8 0414 14/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/35404/21/JGa"
+}
+},
+{
+"d": "2021-10-25",
+"c": {
+"inw": "rozbudowa i przebudowa budynku mieszkalnego jednorodzinnego w zabudowie blizniaczej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Styki / Jana",
+"dz": "146507_8 0109 57",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/34972/21/DSZ"
+}
+},
+{
+"d": "2021-10-19",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "DH INVEST 2 SP. Z O. O.",
+"nier": "Spalinowa 9",
+"dz": "146507_8 0503 58",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/34292/21/PHO"
+}
+},
+{
+"d": "2021-10-14",
+"c": {
+"inw": "rozbiórka nudynku mieszkalnego,gospodarczego oraz muru granicznego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Mińska 11",
+"dz": "146507_8 0205 11/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/33749/21/PHO"
+}
+},
+{
+"d": "2021-10-14",
+"c": {
+"inw": "remont dachu oraz poddasza budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Zakład Gospodarowania Nieruchomościami",
+"nier": "Kobielska 88/92",
+"dz": "146507_8 0401 49",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/33706/21/JZA"
+}
+},
+{
+"d": "2021-10-14",
+"c": {
+"inw": "remont dachu oraz poddasza budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Zakład Gospodarowania Nieruchomościami",
+"nier": "Zamoyskiego 43 / Jana",
+"dz": "146507_8 0201 55/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/33705/21/PHO"
+}
+},
+{
+"d": "2021-10-13",
+"c": {
+"inw": "przebudowa wraz ze zmianą sposobu użytkowania na żłobek wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Pomelo Sp. z o .o.",
+"nier": "Bajońska 4/1",
+"dz": "146507_8 0115 19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/33552/21/DSZ"
+}
+},
+{
+"d": "2021-10-12",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "VEOLIA ENERGIA WARSZAWA S.A.",
+"nier": "Chłopickiego / Józefa",
+"dz": "146507_8 0405 66",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/33342/21/JZA"
+}
+},
+{
+"d": "2021-10-05",
+"c": {
+"inw": "R3mont muru oporowego przysieci ciepłowniczej w rejonie komór K14 i K15 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Makowska",
+"dz": "146507_8 0411 35/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/32448/21/JGA"
+}
+},
+{
+"d": "2021-10-04",
+"c": {
+"inw": "Przebudowa budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "FID GROUP SP.Z O.O.",
+"nier": "Mińska 9",
+"dz": "146507_8 0205 11/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/32315/21/PHO"
+}
+},
+{
+"d": "2021-10-01",
+"c": {
+"inw": "Zmiana sposobu użytkowania części garażu w parterze budynku mieszkalnego wielorodzinnego wraz z przebudową celem powiększenia istniejącego lokalu nr 1oraz budową parkingu naziemnego dla potrzeb inwestycji istniejącego budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "TRYBOŃ PPI S.A.",
+"nier": "Lubartowska 23",
+"dz": "146507_8 0412 77",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/32059/21/JZA"
+}
+},
+{
+"d": "2021-09-29",
+"c": {
+"inw": "Przebudowa budynku przemysłowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "LOTTE Wedel Sp. z o.o.",
+"nier": "Zamoyskiego 28/30 / Jana",
+"dz": "146507_8 0204 7/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/31487/21/PHO"
+}
+},
+{
+"d": "2021-09-20",
+"c": {
+"inw": "Budowa stacji bazowej WAR2380A wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "P4Sp.z o.o.",
+"nier": "Chrzanowskiego 12 / Wojciecha",
+"dz": "146507_8 0211 91",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-KO/25402/21/JZA"
+}
+},
+{
+"d": "2021-09-17",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z usługami w parterze,garażem podziemnym,zagospodarowaniem terenu wraz z rozbiórką istniejących budynków usługowo-biurowych budowa nowego/nowych obiektów budowlanych",
+"wn": "LUGRA Sp. z o.o.",
+"nier": "Grochowska 43",
+"dz": "146507_8 0529 10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/29829/21/JGA"
+}
+},
+{
+"d": "2021-09-17",
+"c": {
+"inw": "Budowa sieci elektroenergetycznej WN-110kV(tj. dwóch elektroenergetycznych linii kablowych WN-110kV wraz z towarzyszącymi kablami światłodowymi w kanalizacji pierwotnej i wtórnej oraz dodatkowych przepustów rurowych) w rejonie ulicy Przeworskiej,Siennickiej,Podskarbińskiej,Chrzanowskiego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "innogy Stoen Operator Sp. z o.o.",
+"nier": "Siennicka",
+"dz": "146507_8 0211 2/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/29828/21/JZA"
+}
+},
+{
+"d": "2021-09-17",
+"c": {
+"inw": "Budowa sieci elektroenergetycznej WN-110kV(tj. dwóch elektroenergetycznych linii kablowych WN-110kV wraz z towarzyszącymi kablami światłodowymi w kanalizacji pierwotnej i wtórnej oraz dodatkowych przepustów rurowych) w rejonie ulicy Przeworskiej,Siennickiej,Podskarbińskiej,Chrzanowskiego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "innogy Stoen Operator Sp. z o.o.",
+"nier": "Siennicka",
+"dz": "146507_8 0211 2/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/29828/21/JZA"
+}
+},
+{
+"d": "2021-09-17",
+"c": {
+"inw": "Budowa sieci elektroenergetycznej WN-110kV(tj. dwóch elektroenergetycznych linii kablowych WN-110kV wraz z towarzyszącymi kablami światłodowymi w kanalizacji pierwotnej i wtórnej oraz dodatkowych przepustów rurowych) w rejonie ulicy Przeworskiej,Siennickiej,Podskarbińskiej,Chrzanowskiego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "innogy Stoen Operator Sp. z o.o.",
+"nier": "Siennicka",
+"dz": "146507_8 0211 2/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/29828/21/JZA"
+}
+},
+{
+"d": "2021-09-17",
+"c": {
+"inw": "Budowa sieci elektroenergetycznej WN-110kV(tj. dwóch elektroenergetycznych linii kablowych WN-110kV wraz z towarzyszącymi kablami światłodowymi w kanalizacji pierwotnej i wtórnej oraz dodatkowych przepustów rurowych) w rejonie ulicy Przeworskiej,Siennickiej,Podskarbińskiej,Chrzanowskiego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "innogy Stoen Operator Sp. z o.o.",
+"nier": "Siennicka",
+"dz": "146507_8 0211 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/29828/21/JZA"
+}
+},
+{
+"d": "2021-09-17",
+"c": {
+"inw": "Budowa sieci elektroenergetycznej WN-110kV(tj. dwóch elektroenergetycznych linii kablowych WN-110kV wraz z towarzyszącymi kablami światłodowymi w kanalizacji pierwotnej i wtórnej oraz dodatkowych przepustów rurowych) w rejonie ulicy Przeworskiej,Siennickiej,Podskarbińskiej,Chrzanowskiego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "innogy Stoen Operator Sp. z o.o.",
+"nier": "Siennicka",
+"dz": "146507_8 0211 5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/29828/21/JZA"
+}
+},
+{
+"d": "2021-09-17",
+"c": {
+"inw": "Budowa sieci elektroenergetycznej WN-110kV(tj. dwóch elektroenergetycznych linii kablowych WN-110kV wraz z towarzyszącymi kablami światłodowymi w kanalizacji pierwotnej i wtórnej oraz dodatkowych przepustów rurowych) w rejonie ulicy Przeworskiej,Siennickiej,Podskarbińskiej,Chrzanowskiego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "innogy Stoen Operator Sp. z o.o.",
+"nier": "Siennicka",
+"dz": "146507_8 0211 14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/29828/21/JZA"
+}
+},
+{
+"d": "2021-09-17",
+"c": {
+"inw": "Budowa sieci elektroenergetycznej WN-110kV(tj. dwóch elektroenergetycznych linii kablowych WN-110kV wraz z towarzyszącymi kablami światłodowymi w kanalizacji pierwotnej i wtórnej oraz dodatkowych przepustów rurowych) w rejonie ulicy Przeworskiej,Siennickiej,Podskarbińskiej,Chrzanowskiego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "innogy Stoen Operator Sp. z o.o.",
+"nier": "Siennicka",
+"dz": "146507_8 0211 15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/29828/21/JZA"
+}
+},
+{
+"d": "2021-09-17",
+"c": {
+"inw": "Budowa sieci elektroenergetycznej WN-110kV(tj. dwóch elektroenergetycznych linii kablowych WN-110kV wraz z towarzyszącymi kablami światłodowymi w kanalizacji pierwotnej i wtórnej oraz dodatkowych przepustów rurowych) w rejonie ulicy Przeworskiej,Siennickiej,Podskarbińskiej,Chrzanowskiego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "innogy Stoen Operator Sp. z o.o.",
+"nier": "Siennicka",
+"dz": "146507_8 0211 91",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/29828/21/JZA"
+}
+},
+{
+"d": "2021-09-16",
+"c": {
+"inw": "Instalowanie instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Grochowska 144/146",
+"dz": "146507_8 0412 158",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/29611/21/DSZ"
+}
+},
+{
+"d": "2021-09-16",
+"c": {
+"inw": "Rozbudowa budynku mieszkalnego jednorodzinnego w zabudowie szeregowej budowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Berneńska 18",
+"dz": "146507_8 0122 22",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/29635/21/DSZ"
+}
+},
+{
+"d": "2021-09-16",
+"c": {
+"inw": "Rozbudowa budynku mieszkalnego jednorodzinnego w zabudowie szeregowej budowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Berneńska 18",
+"dz": "146507_8 0122 24",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/29635/21/DSZ"
+}
+},
+{
+"d": "2021-09-15",
+"c": {
+"inw": "Budowa instalacji gazowejdla budynku biurowo-usługowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SJ INVESTMENT SYLWIA OBIDZIŃSKA",
+"nier": "Szaserów 38",
+"dz": "146507_8 0411 30",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/29386/21/INO"
+}
+},
+{
+"d": "2021-09-14",
+"c": {
+"inw": "Przebudowa budynku biurowego (dawnej willi Rotsteinów) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Fundacja Solidarności Międzynarodowej",
+"nier": "Kryniczna 6",
+"dz": "146507_8 0112 66",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/29134/21/DSZ"
+}
+},
+{
+"d": "2021-09-14",
+"c": {
+"inw": "Remont elewacji oraz dachu budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Kamionkowska 33",
+"nier": "Kamionkowska 33",
+"dz": "146507_8 0206 51/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/29155/21/PHO"
+}
+},
+{
+"d": "2021-09-14",
+"c": {
+"inw": "Przebudowa pomieszczenia piwnicy na kotłownie gazową w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami w Dzielnicy Praga-Południe",
+"nier": "Osowska 24",
+"dz": "146507_8 0410 105",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB29173/21/INO"
+}
+},
+{
+"d": "2021-09-10",
+"c": {
+"inw": "Rozbiórka ogrodzenia murowanego o wysokości 3,20-3,50M zlokalizowanego bezpośrednio na granicy działki budowlanej od strony południowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Moderna Holding Sp. z o.o.",
+"nier": "Zamoyskiego 24/26 / Jana",
+"dz": "146507_8 0204 7/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-KO/24645/21/PHO"
+}
+},
+{
+"d": "2021-09-03",
+"c": {
+"inw": "Rozbudowa i przebudowa budynku mieszkalnego jednorodzinnego w zabudowie szeregowej oraz przebudowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Styki 21A / Jana",
+"dz": "146507_8 0109 49",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/27597/21/DSZ"
+}
+},
+{
+"d": "2021-09-03",
+"c": {
+"inw": "Dostosowanie budynku Witolińska 4 do Postanowienia WZ.5595.348.4.2019 R. oraz ekspertyzy technicznej stanu ochrony  przeciwpożarowej z maja 2019R. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa Ostrobramska",
+"nier": "Witolińska 4",
+"dz": "146507_8 0530 32",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/27634/21/JGA"
+}
+},
+{
+"d": "2021-09-02",
+"c": {
+"inw": "Budynek mieszkalny wielorodzinny z funkcjami usługowymi i garażem podziemnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa Ostrobramska",
+"nier": "Ostrobramska",
+"dz": "146507_8 0518 6/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/27362/21/JGA"
+}
+},
+{
+"d": "2021-09-02",
+"c": {
+"inw": "Przebudowa dachu oraz adaptacja strychu na cele mieszkalne-zatwierdzenie zmian w projekcie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Aleja Jerzego Waszyngtona 77",
+"dz": "146507_8 0501 106",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/27298/21/JZA"
+}
+},
+{
+"d": "2021-09-02",
+"c": {
+"inw": "Dobudowa balkonu w budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Lipska 7/9",
+"dz": "146507_8 0103 89",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/27299/21/DSZ"
+}
+},
+{
+"d": "2021-08-30",
+"c": {
+"inw": "Przebudowa i nadbudowa budynku mieszkalnego jednorodzinnego w zabudowie szeregowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Alzacka 7",
+"dz": "146507_8 0119 106",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/26582/21/DSZ"
+}
+},
+{
+"d": "2021-08-26",
+"c": {
+"inw": "budowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Igańska 13 C",
+"dz": "146507_8 0506 69",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/26262/21/JGA"
+}
+},
+{
+"d": "2021-08-26",
+"c": {
+"inw": "przebudowa stacji elektroenergetycznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Innogy Stoen Operator Sp. z o.o.",
+"nier": "Zamieniecka 33",
+"dz": "146507_8 0515 72",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB-KO/23385/21/JGA"
+}
+},
+{
+"d": "2021-08-25",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Wąchocka 16",
+"dz": "146507_8 0112 197",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/25907/21/DSZ"
+}
+},
+{
+"d": "2021-08-24",
+"c": {
+"inw": "budowa instalacji wewnętrznej i zewnętrznej gazu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Bakaliowa 10",
+"dz": "146507_8 0714 92",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/25806/21/INO"
+}
+},
+{
+"d": "2021-08-16",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Serocka 29",
+"dz": "146507_8 0409 149",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-KO/22412/21/INO"
+}
+},
+{
+"d": "2021-08-16",
+"c": {
+"inw": "budynek mieszkalny dwulokalowy budowa nowego/nowych obiektów budowlanych",
+"wn": "EKOKWANT Sp. z o.o.",
+"nier": "Wiarusów 24",
+"dz": "146507_8 0415 33/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/24764/21/INO"
+}
+},
+{
+"d": "2021-08-13",
+"c": {
+"inw": "przebudowa budynku handlowo-usługowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "TERGE S.A.",
+"nier": "Ostrobramska 36 A",
+"dz": "146507_8 0519 7/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-KO/22348/21/JGA"
+}
+},
+{
+"d": "2021-08-12",
+"c": {
+"inw": "rozbiórka dziesieciu budynków rozbiórka istniejącego obiektu budowlanego",
+"wn": "BOUYGUES IMMOBILIER POLSKA SP.Z O.O.",
+"nier": "Siennicka 48",
+"dz": "146507_8 0212 17/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/24450/21/JZA"
+}
+},
+{
+"d": "2021-08-12",
+"c": {
+"inw": "przebudowa pomieszczenia piwnicy na kotłownię gazową w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami",
+"nier": "Żółkiewskiego 5 / Stanisława",
+"dz": "146507_8 0413 167",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/24523/21/INO"
+}
+},
+{
+"d": "2021-08-11",
+"c": {
+"inw": "rozbiórka zespołu trzech parterowych budynków złożonych z szeregowych garaży undywidualnych z zachowaniem dwóch garaży rozbiórka istniejącego obiektu budowlanego",
+"wn": "Grupa  PROFBUD Sp. z o.o.",
+"nier": "Mikołajczyka / Stanisława",
+"dz": "146507_8 0707 3/51",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/24216/21/PHO"
+}
+},
+{
+"d": "2021-08-11",
+"c": {
+"inw": "rozbiórka zespołu trzech parterowych budynków złożonych z szeregowych garaży undywidualnych z zachowaniem dwóch garaży rozbiórka istniejącego obiektu budowlanego",
+"wn": "Grupa  PROFBUD Sp. z o.o.",
+"nier": "Mikołajczyka / Stanisława",
+"dz": "146507_8 0707 3/53",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/24216/21/PHO"
+}
+},
+{
+"d": "2021-08-11",
+"c": {
+"inw": "rozbiórka zespołu trzech parterowych budynków złożonych z szeregowych garaży undywidualnych z zachowaniem dwóch garaży rozbiórka istniejącego obiektu budowlanego",
+"wn": "Grupa  PROFBUD Sp. z o.o.",
+"nier": "Mikołajczyka / Stanisława",
+"dz": "146507_8 0707 3/55",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/24216/21/PHO"
+}
+},
+{
+"d": "2021-08-10",
+"c": {
+"inw": "remont elewacji i balkonów oraz hydroizolacji ścian fundamentowych budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Aleja Jerzego Waszyngtona 14 A",
+"dz": "146507_8 0105 7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/24113/21/DSZ"
+}
+},
+{
+"d": "2021-08-06",
+"c": {
+"inw": "budowa dwóch instalacji gazowych do budynku 13 A i 13 B wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Marsa 13 A,13B",
+"dz": "146507_8 0714 94",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/23681/21/INO"
+}
+},
+{
+"d": "2021-08-06",
+"c": {
+"inw": "budowa dwóch instalacji gazowych do budynku 13 A i 13 B wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Marsa 13 A,13B",
+"dz": "146507_8 0714 97",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/23681/21/INO"
+}
+},
+{
+"d": "2021-08-06",
+"c": {
+"inw": "budowa instalacji gazowej budowa nowego/nowych obiektów budowlanych",
+"wn": "MEGAL SP.Z O.O.",
+"nier": "Aleja Jerzego Waszyngtona 100A",
+"dz": "146507_8 0502 80",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/23682/21/JZA"
+}
+},
+{
+"d": "2021-08-04",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej wraz z przyłączami budowa nowego/nowych obiektów budowlanych",
+"wn": "VEOLIA ENERGIA WARSZAWA S.A.",
+"nier": "Kamionkowska 18",
+"dz": "146507_8 0206 62",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/23500/21/PHO"
+}
+},
+{
+"d": "2021-08-04",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej wraz z przyłączami budowa nowego/nowych obiektów budowlanych",
+"wn": "VEOLIA ENERGIA WARSZAWA S.A.",
+"nier": "Kamionkowska 18",
+"dz": "146507_8 0206 73",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/23500/21/PHO"
+}
+},
+{
+"d": "2021-08-02",
+"c": {
+"inw": "poszerzenie otworu drzwi tarasowych oraz wykonania nowych drzwi balkonowych w mieszkaniu nr 2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Niekłańska 19",
+"dz": "146507_8 0110 53",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/23196/21/DSz"
+}
+},
+{
+"d": "2021-08-02",
+"c": {
+"inw": "zabudowa tarasu na pierwszym piętrze wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Genewska 1",
+"dz": "146507_8 0115 56/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/23194/21/DSZ"
+}
+},
+{
+"d": "2021-07-28",
+"c": {
+"inw": "Przebudowa szybu dźwigowego w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa Gocław-Lotnisko",
+"nier": "Umińskiego 5 / Władysława",
+"dz": "146507_8 0606 17/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/22637/21/JZA"
+}
+},
+{
+"d": "2021-07-28",
+"c": {
+"inw": "Przebudowa szybu dźwigowego w budynku mieszkalnym wielorodzinnym(klatka Nr 1). wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa Gocław-Lotnisko",
+"nier": "Umińskiego 7 / Władysława",
+"dz": "146507_8 0606 17/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/22639/21/JZA"
+}
+},
+{
+"d": "2021-07-27",
+"c": {
+"inw": "Budowa instalacji wewnętrznej gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Dubieńska 3",
+"dz": "146507_8 0412 65",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/22550/21/INO"
+}
+},
+{
+"d": "2021-07-23",
+"c": {
+"inw": "budowa zespołu szkolno-przedszkolnego  z niezbędną infrastrukturą techniczną wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Praga-Południe",
+"nier": "Nowaka-Jeziorańskiego 22 / Jana",
+"dz": "146507_8 0523 40/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/22128/21/JGA"
+}
+},
+{
+"d": "2021-07-23",
+"c": {
+"inw": "budowa zespołu szkolno-przedszkolnego  z niezbędną infrastrukturą techniczną wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Praga-Południe",
+"nier": "Nowaka-Jeziorańskiego 22 / Jana",
+"dz": "146507_8 0523 37/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/22128/21/JGA"
+}
+},
+{
+"d": "2021-07-23",
+"c": {
+"inw": "budowa zespołu szkolno-przedszkolnego  z niezbędną infrastrukturą techniczną wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Praga-Południe",
+"nier": "Nowaka-Jeziorańskiego 22 / Jana",
+"dz": "146507_8 0523 35",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/22128/21/JGA"
+}
+},
+{
+"d": "2021-07-23",
+"c": {
+"inw": "budowa zespołu szkolno-przedszkolnego  z niezbędną infrastrukturą techniczną wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Praga-Południe",
+"nier": "Nowaka-Jeziorańskiego 22 / Jana",
+"dz": "146507_8 0523 40/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/22128/21/JGA"
+}
+},
+{
+"d": "2021-07-23",
+"c": {
+"inw": "budowa zespołu szkolno-przedszkolnego  z niezbędną infrastrukturą techniczną wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Praga-Południe",
+"nier": "Nowaka-Jeziorańskiego 22 / Jana",
+"dz": "146507_8 0523 40/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/22128/21/JGA"
+}
+},
+{
+"d": "2021-07-23",
+"c": {
+"inw": "budowa zespołu szkolno-przedszkolnego  z niezbędną infrastrukturą techniczną wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Praga-Południe",
+"nier": "Nowaka-Jeziorańskiego 22 / Jana",
+"dz": "146507_8 0607 1/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/22128/21/JGA"
+}
+},
+{
+"d": "2021-07-22",
+"c": {
+"inw": "projekt zamienny instalacji gazowej dla budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Nizinna 30",
+"dz": "146507_8 0402 41/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/22031/21/JZA"
+}
+},
+{
+"d": "2021-07-21",
+"c": {
+"inw": "budynek mieszkalny wielorodzinny z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Żupnicza",
+"dz": "146507_8 0203 14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/21946/21/PHO"
+}
+},
+{
+"d": "2021-07-19",
+"c": {
+"inw": "budowa instalacji gazu dla budynku mieszkanego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Byczyńska 21",
+"dz": "146507_8 0405 190",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-KO/20386/21/INO"
+}
+},
+{
+"d": "2021-07-15",
+"c": {
+"inw": "rozbudowa i przebudowa stacji paliw sieci CIRCLECK K wraz z infrastrukturą techniczną rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Circle K Polska Sp. z o.o.",
+"nier": "Jugosłowiańska 19",
+"dz": "146507_8 0601 77",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/21335/21/PHO"
+}
+},
+{
+"d": "2021-07-15",
+"c": {
+"inw": "budynek o przeznaczeniu turystycznym z apartamentami hotelowymi z usługami w parterze oraz gatrażem podziemnym i parkingiem naziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "HOTELE GROCHOWSKA SP.Z O.O.",
+"nier": "Grochowska",
+"dz": "146507_8 0530 20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/21281/21/JGA"
+}
+},
+{
+"d": "2021-07-15",
+"c": {
+"inw": "budynek o przeznaczeniu turystycznym z apartamentami hotelowymi z usługami w parterze oraz gatrażem podziemnym i parkingiem naziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "HOTELE GROCHOWSKA SP.Z O.O.",
+"nier": "Grochowska",
+"dz": "146507_8 0530 21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/21281/21/JGA"
+}
+},
+{
+"d": "2021-07-13",
+"c": {
+"inw": "dobudowa  3 sztuk wind do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Międzynarodowa 41",
+"dz": "146507_8 0110 102",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/20999/21/DSZ"
+}
+},
+{
+"d": "2021-07-08",
+"c": {
+"inw": "naprawa i wzmocnienie ścian klatki schodowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Elsterska 10",
+"dz": "146507_8 0104 15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/20591/21/DSZ"
+}
+},
+{
+"d": "2021-07-06",
+"c": {
+"inw": "budynek mieszkalny jednorodzinny wraz z wewnętrzną instalacją gazową budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Kryniczna 15",
+"dz": "146507_8 0112 8",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/20297/21/DSZ"
+}
+},
+{
+"d": "2021-07-06",
+"c": {
+"inw": "budynek usługowo-biurowy parterowy budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Marsa",
+"dz": "146507_8 0714 68",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/20301/21/INO"
+}
+},
+{
+"d": "2021-07-02",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Faro Sp. z o.o.",
+"nier": "Kickiego 26 a / Ludwika",
+"dz": "146507_8 0402 12",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/19876/21/JZA/21"
+}
+},
+{
+"d": "2021-06-30",
+"c": {
+"inw": "Remont i przebudowa pomieszczeń Kliniki Okulistyki na II piętrze w bloku E1 i w łączniku E1-2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wojskowy Instytut Medyczny",
+"nier": "Szaserów 128",
+"dz": "146507_8 0403 8/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/19431/21/JZA"
+}
+},
+{
+"d": "2021-06-30",
+"c": {
+"inw": "Zmiana sposobu użytkowania wraz z przebudową lokalu po dawnym sklepie mięsnym w celu utworzenia punktu przedszkolnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent m.st.Warszawy",
+"nier": "Dwernickiego 20 / Józefa",
+"dz": "146507_8 0402 25",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WIR-IR.2510.74.2021.ZMI/JZA"
+}
+},
+{
+"d": "2021-06-28",
+"c": {
+"inw": "budowa budynku biurowo-usługowo-mieszkalnego z garażem podziemnym oraz wewnętrzną instalacją gazową budowa nowego/nowych obiektów budowlanych",
+"wn": "POLJOT EURO Gigauri Gocza",
+"nier": "Korytnicka",
+"dz": "146507_8 0506 49/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-KO/18541/21/JZA"
+}
+},
+{
+"d": "2021-06-28",
+"c": {
+"inw": "budowa budynku biurowo-usługowo-mieszkalnego z garażem podziemnym oraz wewnętrzną instalacją gazową budowa nowego/nowych obiektów budowlanych",
+"wn": "POLJOT EURO Gigauri Gocza",
+"nier": "Korytnicka",
+"dz": "146507_8 0506 50/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-KO/18541/21/JZA"
+}
+},
+{
+"d": "2021-06-28",
+"c": {
+"inw": "projekt przystosowania pomieszczenia piwnicznego na potrzeby kotłowni gazowej wraz z kominem zewnętrznym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa reprezntowane przez ZGN w dzielnicy Praga-Południe",
+"nier": "Omulewska 11a",
+"dz": "146507_8 0507 57",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/19073/21/JGA"
+}
+},
+{
+"d": "2021-06-25",
+"c": {
+"inw": "budowa instalacji gazu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Olszynki Grochowskiej 61 A",
+"dz": "146507_8 0415 138",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/18748/21/INO"
+}
+},
+{
+"d": "2021-06-23",
+"c": {
+"inw": "przebudowa budynku mieszkalnego jednorodzinnego i rozbiórka garażu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Boremlowska 23 b",
+"dz": "146507_8 0409 51",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/18525/21/INO"
+}
+},
+{
+"d": "2021-06-21",
+"c": {
+"inw": "projekt zamienny- rozbudowa i przebudowa ze zmianą sposobu uzytkowania na budynek biurowy z częścią usługową rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Baleta Sp. z o.o.",
+"nier": "Grochowska 316/320",
+"dz": "146507_8 0206 17/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/18194/21/PHO"
+}
+},
+{
+"d": "2021-06-21",
+"c": {
+"inw": "demontaż stacji transformatorowej ST 9506 oraz przebudowy linii kablowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Innogy stoen Operator",
+"nier": "Mińska",
+"dz": "146507_8 0202 30/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/18154/21/PHO"
+}
+},
+{
+"d": "2021-06-21",
+"c": {
+"inw": "projekt zamienny -budynek biurowo-usługowy z towarzyszącą infrastrukturą posadowiony na jednokondygnacyjnym garażu podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Celiana Sp z o.o.",
+"nier": "Grochowska 306/310",
+"dz": "146507_8 0206 75/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/18254/21/PHO"
+}
+},
+{
+"d": "2021-06-21",
+"c": {
+"inw": "demontaż stacji transformatorowej oraz przebudowa lini kablowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Innogy Stoen Operator",
+"nier": "Mińska",
+"dz": "146507_8 0206 1/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/18153/21/PHO"
+}
+},
+{
+"d": "2021-06-21",
+"c": {
+"inw": "projekt zamienny-przebudowa ze zmianą sposobu użytkowania budynku przemysłowego na budynek biurowy z częścią usługową wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Baleta sp. z o.o.",
+"nier": "Grochowska 316/340",
+"dz": "146507_8 0206 17/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/18195/21/PHO"
+}
+},
+{
+"d": "2021-06-21",
+"c": {
+"inw": "demontaż stacji transformatorowej oraz przebudowa lini kablowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Innogy Stoen Operator",
+"nier": "Mińska",
+"dz": "146507_8 0202 30/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/18153/21/PHO"
+}
+},
+{
+"d": "2021-06-21",
+"c": {
+"inw": "przebudowa przegród zewnętrznych budynku hali OT1 na potrzeby podwyższenia otworów bram wjazdowych i wyjazdowych na terenie MZA wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Zakłady Autobusowe Sp. z o.o.",
+"nier": "Ostrobramska 38",
+"dz": "146507_8 0519 10/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/18150/21/JGA"
+}
+},
+{
+"d": "2021-06-21",
+"c": {
+"inw": "budowa instalacji gazowej w budynku jednorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Zawierciańska 4 a",
+"dz": "146507_8 0713 82",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-KO/17977/21/INO"
+}
+},
+{
+"d": "2021-06-21",
+"c": {
+"inw": "demontaż stacji transformatorowej ST 9506 oraz przebudowy linii kablowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Innogy stoen Operator",
+"nier": "Mińska",
+"dz": "146507_8 0206 1/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/18154/21/PHO"
+}
+},
+{
+"d": "2021-06-14",
+"c": {
+"inw": "nadbudowa i przebudowa dachu budynku mieszkalnego wielorodzinnego nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Kobielska 30",
+"dz": "146507_8 0407 61",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/17252/21/JZA"
+}
+},
+{
+"d": "2021-06-07",
+"c": {
+"inw": "remont galerii komunikacyjnych w budynkach ieszkalnych wielorodzinnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa ,,Przyczółek Grochowski,,",
+"nier": "Kwarciana 1",
+"dz": "146507_8 0525 33",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/16528/21/PHO"
+}
+},
+{
+"d": "2021-06-02",
+"c": {
+"inw": "powiększenie otworu okiennego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Stanisława Augusta 73",
+"dz": "146507_8 0531 42",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/16250/21/PHO"
+}
+},
+{
+"d": "2021-05-27",
+"c": {
+"inw": "budowa instalacji gazu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Rębkowska 12",
+"dz": "146507_8 0406 16/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/15490/21/JZA"
+}
+},
+{
+"d": "2021-05-25",
+"c": {
+"inw": "przebudowa stacji elektroenergetycznej w zakresie rozbirki i budowy rozdzielni napowietrznej wraz z infrastrukturą wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "inogy Stoen Operator Sp.z o.o.",
+"nier": "Zamieniecka 33",
+"dz": "146507_8 0515 72",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-KO/15719/21/JGA"
+}
+},
+{
+"d": "2021-05-25",
+"c": {
+"inw": "przebudowa otworów okiennych kondygnacji podziemnej budynku mieszkalnego w zabudowie szeregowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Lotaryńska 12",
+"dz": "146507_8 0122 68",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/15095/21/DSZ"
+}
+},
+{
+"d": "2021-05-18",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "VICTORIA DOM S.A",
+"nier": "Żupnicza",
+"dz": "146507_8 0203 14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM/ROB/14329/21/PHO"
+}
+},
+{
+"d": "2021-05-17",
+"c": {
+"inw": "projekt zamienny budynek usługowo-mieszkalny wielorodzinny z garażem i i infrastrukturą wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "KREATOR DOM INVESTORS Sp. z o.o.",
+"nier": "Bliska 17",
+"dz": "146507_8 0205 7/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/14199/21/JGA"
+}
+},
+{
+"d": "2021-05-14",
+"c": {
+"inw": "projekt zamienny wiaty oraz konstrukcji stalowej pod montaż paneli fotowoltaicznych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Lotte Wedel Sp. z o.o.",
+"nier": "Zamoyskiego 28 / Jana",
+"dz": "146507_8 0204 7/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WIM-ROB/14034/21/PHO"
+}
+},
+{
+"d": "2021-05-11",
+"c": {
+"inw": "Remont , przebudowa i rozbudowa budynku mieszkalnego jednorodzinnego, wolnostojącego, dwulokalowego w zakresie lokalu mieszkalnego nr 1 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Obrońców 16",
+"dz": "146507_8 0108 92",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/13681/21/DSZ"
+}
+},
+{
+"d": "2021-05-10",
+"c": {
+"inw": "Rozbiórka wiaty i budowa wiaty BHP rozbiórka istniejącego obiektu budowlanego",
+"wn": "LOTTE Wedel Sp. z o.o.",
+"nier": "Zamoyskiego 28/30 / Jana",
+"dz": "146507_8 0204 7/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/13465/21/PHO"
+}
+},
+{
+"d": "2021-05-10",
+"c": {
+"inw": "Rozbiórka budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "COGIK Sp. z o.o.",
+"nier": "Komorska 52",
+"dz": "146507_8 0509 57",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/134/66/21/JGA"
+}
+},
+{
+"d": "2021-05-10",
+"c": {
+"inw": "Rozbiórka budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "COGIK Sp. z o.o.",
+"nier": "Pustelnicka 25",
+"dz": "146507_8 0509 51",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/13468/21/JGA"
+}
+},
+{
+"d": "2021-05-10",
+"c": {
+"inw": "Rozbiórka budynków gospodarczych rozbiórka istniejącego obiektu budowlanego",
+"wn": "COGIK Sp. z o.o.",
+"nier": "Pustelnicka 25",
+"dz": "146507_8 0509 51",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/13464/21/JGA"
+}
+},
+{
+"d": "2021-05-07",
+"c": {
+"inw": "Remont z częścową odbudową piwnic budynku nr 6 oraz remont dachu budynku nr 6A wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PIT RADWAR Spółka Akcyjna",
+"nier": "Poligonowa 32",
+"dz": "146507_8 0521 4/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/13018/21/KPI"
+}
+},
+{
+"d": "2021-05-07",
+"c": {
+"inw": "Przebudowa dachu budynku Centrum Prmocji Kultury wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Urząd Dzielnicy Praga-Południe",
+"nier": "Podskarbińska 2",
+"dz": "146507_8 0406 55/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/13253/21/JZA"
+}
+},
+{
+"d": "2021-05-06",
+"c": {
+"inw": "budowa wolnostojącej altany śmietnikowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Spółdzielnia Mieszkaniowa ,,Szaserów,,",
+"nier": "Wspólna Droga",
+"dz": "146507_8 0404 10/17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/12892/21/JZA"
+}
+},
+{
+"d": "2021-04-29",
+"c": {
+"inw": "Budowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Wąchocka 15",
+"dz": "146507_8 0112 98",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/12349/21/DSZ"
+}
+},
+{
+"d": "2021-04-29",
+"c": {
+"inw": "Przebudowa oraz zmiana użytkownika najniższej kondygnacji budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Osiecka 44A",
+"dz": "146507_8 0509 140/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/12340/21/JGA"
+}
+},
+{
+"d": "2021-04-29",
+"c": {
+"inw": "Przebudowa oraz zmiana użytkownika najniższej kondygnacji budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Osiecka 44A",
+"dz": "146507_8 0509 141",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/12340/21/JGA"
+}
+},
+{
+"d": "2021-04-29",
+"c": {
+"inw": "Przebudowa stropodachu oraz remont elewacji budynek mieszkalno-usługowy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Berezyńska 33",
+"dz": "146507_8 0104 78",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/12347/21/DSZ"
+}
+},
+{
+"d": "2021-04-28",
+"c": {
+"inw": "Budowa budynku produkcyjnego I z pozostawieniem istniejącego budynku magazynowego H oraz budynku G wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PCO S.A.",
+"nier": "Nowaka-Jeziorańskiego 28 / Jana",
+"dz": "146507_8 0521 4/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/12239/21/KPI"
+}
+},
+{
+"d": "2021-04-28",
+"c": {
+"inw": "Budowa budynku produkcyjnego I z pozostawieniem istniejącego budynku magazynowego H oraz budynku G wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PCO S.A.",
+"nier": "Nowaka-Jeziorańskiego 28 / Jana",
+"dz": "146507_8 0521 4/36",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/12239/21/KPI"
+}
+},
+{
+"d": "2021-04-27",
+"c": {
+"inw": "Rozbudowa wewnętrznej instalacji gazu n/c dla lokalu mieszkalnego w budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Londyńska 8",
+"dz": "146507_8 0110 87",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/12006/21/DSZ"
+}
+},
+{
+"d": "2021-04-27",
+"c": {
+"inw": "Projekt budowlany zamienny nadbudowy budynku wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Zakopiańska 32",
+"dz": "146507_8 0112 141",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/12038/21/DSZ"
+}
+},
+{
+"d": "2021-04-26",
+"c": {
+"inw": "Modernizacja i rozbudowa budynku mieszkalnego w zabudowie szeregowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Lotaryńska 10",
+"dz": "146507_8 0122 69",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/11923/21/DSZ"
+}
+},
+{
+"d": "2021-04-23",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym i infrastrukturą towarzyszącą budowa nowego/nowych obiektów budowlanych",
+"wn": "REVO PROPERTY Sp. z o.o. Sp.K.",
+"nier": "Kiprów 26",
+"dz": "146507_8 0409 103",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/11693/21/INO"
+}
+},
+{
+"d": "2021-04-20",
+"c": {
+"inw": "nadbudowa  częci budynku mieszkalnego jednorodzinnego w zabudowie szeregowej nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Berneńska 11 A",
+"dz": "146507_8 0122 77",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/11215/21/DSZ"
+}
+},
+{
+"d": "2021-04-19",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Szpital Dziecięcy im.prof.dr med.Jana Bogdanowicza",
+"nier": "Niekłańska 4/24",
+"dz": "146507_8 0110 81",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/10968/21/DSZ"
+}
+},
+{
+"d": "2021-04-16",
+"c": {
+"inw": "rozbudowa,przebudowa, nadbudowa budynku jednorodzinnego oraz rozbiórka budynku garażowego i usługowego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Bakaliowa 10",
+"dz": "146507_8 0714 92",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/10852/21/INO"
+}
+},
+{
+"d": "2021-04-16",
+"c": {
+"inw": "przebudowa pomieszczeń lokalu usługowego na potrzeby kliniki wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Fokus Medical Sp.z o.o.",
+"nier": "Angorska 5/9",
+"dz": "146507_8 0105 24/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/10908/21/DSZ"
+}
+},
+{
+"d": "2021-04-15",
+"c": {
+"inw": "Budynek szkolnictwa wyższego Dom Studencki z lokalem usługowym w parterze wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "M40 Sp. z o.o.",
+"nier": "Mińska 40",
+"dz": "146507_8 0206 94",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/10759/21/PHO"
+}
+},
+{
+"d": "2021-04-14",
+"c": {
+"inw": "Przebudowa, nadbudowa i rozbudowa budynku mieszkalnego jednorodzinnego w zabudowie bliźniaczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Nobla 5 / Alfreda",
+"dz": "146507_8 0109 178",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/10585/21/DSZ"
+}
+},
+{
+"d": "2021-04-13",
+"c": {
+"inw": "Rozbiórka budynku mieszkalnego jednorodzinnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Tryboń PPI S.A.",
+"nier": "Serocka 27",
+"dz": "146507_8 0409 54",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/10408/21/INO"
+}
+},
+{
+"d": "2021-04-09",
+"c": {
+"inw": "rozbiórka wiaty I wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zarząd Zieleni M. St. Warszawy",
+"nier": "Wał Miedzeszyński 399",
+"dz": "146507_8 0106 8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/10106/21/DSZ"
+}
+},
+{
+"d": "2021-04-09",
+"c": {
+"inw": "Rozbiórka wiaty II wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zarząd Zieleni M. St. Warszwy",
+"nier": "Wał Miedzeszyński 399",
+"dz": "146507_8 0106 8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/10107/21/DSZ"
+}
+},
+{
+"d": "2021-04-08",
+"c": {
+"inw": "usunięcie kolizji lini kablowych SN 15 kV wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Innogy stoen Operator Sp. z o.o.",
+"nier": "Fieldorfa \"Nila\" / gen. Augusta Emila",
+"dz": "146507_8 0607 2/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/10017/21/KPI"
+}
+},
+{
+"d": "2021-04-07",
+"c": {
+"inw": "przebudowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Międzyborska 109",
+"dz": "146507_8 0532 60",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/9796/21/JZA"
+}
+},
+{
+"d": "2021-03-31",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z usługami w parterze, garażem podziemnym, instalacja gazowa na potrzeby kotłowni C.O.  i C. W. U. budowa nowego/nowych obiektów budowlanych",
+"wn": "AT THE TOP Sp. z o.o. SP.K",
+"nier": "Stoczkowska 16",
+"dz": "146507_8 0413 32",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/9425/21/INO"
+}
+},
+{
+"d": "2021-03-31",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z usługami w parterze, garażem podziemnym, instalacja gazowa na potrzeby kotłowni C.O.  i C. W. U. budowa nowego/nowych obiektów budowlanych",
+"wn": "AT THE TOP Sp. z o.o. SP.K",
+"nier": "Stoczkowska 16",
+"dz": "146507_8 0413 30",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/9425/21/INO"
+}
+},
+{
+"d": "2021-03-30",
+"c": {
+"inw": "Wzmocnienie północnej ściany szczytowej budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "FORFOUR Sp. z o.o.",
+"nier": "Frycza Modrzewskiego 23 / Andrzeja",
+"dz": "146507_8 0209 37",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/9207/21/PHO"
+}
+},
+{
+"d": "2021-03-29",
+"c": {
+"inw": "Budowa instalacji gazowej wewnętrznej dla budynku hotelowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "P.P.H.Bonzo LTD Eugeniusz Zarzycki",
+"nier": "Zamoyskiego 26A / Jana",
+"dz": "146507_8 0204 7/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/9146/21/PHO"
+}
+},
+{
+"d": "2021-03-26",
+"c": {
+"inw": "Przebudowa lokalu mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Zwycięzców 13",
+"dz": "146507_8 0108 88",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-KO/9051/21/DSZ"
+}
+},
+{
+"d": "2021-03-26",
+"c": {
+"inw": "Budynek gospodarczy pomieszczenie magazynowe/skład węgla-rozbiórka rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Paryska 33",
+"dz": "146507_8 0112 206/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-KO/9049/21/DSZ"
+}
+},
+{
+"d": "2021-03-24",
+"c": {
+"inw": "remont balkonów i elewacji oraz izolacji fundamentów w budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Grochowska 279",
+"dz": "146507_8 0532 6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/8662/21/JZA"
+}
+},
+{
+"d": "2021-03-24",
+"c": {
+"inw": "powiększenie otworów okiennych w ścianie szczytowej w celu montazudrzwi tarasowych w szregowym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Witwickiego 6 / Władysława",
+"dz": "146507_8 0607 12/42",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/8666/21/KPI"
+}
+},
+{
+"d": "2021-03-23",
+"c": {
+"inw": "budynek mieszkalny wielorodzinny z lokalami usługowymi , garażem podziemnym i niezbędną infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "EKOKWANT SP. Z O.O.",
+"nier": "Szaserów 46",
+"dz": "146507_8 0411 17/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/8552/21/INO"
+}
+},
+{
+"d": "2021-03-23",
+"c": {
+"inw": "budynek mieszkalny wielorodzinny z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "DFCL1 Sp.z o.o. sp.k.",
+"nier": "Komorska 48",
+"dz": "146507_8 1111 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/8501/21/JGA/"
+}
+},
+{
+"d": "2021-03-22",
+"c": {
+"inw": "posadowienie zbiorników paliwa wraz z instalacją zasilania w paliwo generatorów prądotwórczych budowa nowego/nowych obiektów budowlanych",
+"wn": "ATM S.A.",
+"nier": "Grochowska 21 a",
+"dz": "146507_8 0529 29/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/8352/21/JGA"
+}
+},
+{
+"d": "2021-03-19",
+"c": {
+"inw": "rozbudowa ,przebudowa i remont budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Zwycięzców 14",
+"dz": "146507_8 0112 26",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/8159/21/DSZ"
+}
+},
+{
+"d": "2021-03-18",
+"c": {
+"inw": "Przebudowa pomieszczeń I piętra budynku szpitalnego \"A\" dla potrzeb Oddziału Dermatologii wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Szpital Dziecięcy Samodzielny Publiczny Zakład Opieki Zdrowotnej Niekłańska 4/24",
+"nier": "Niekłańska 4/24",
+"dz": "146507_8 0110 81",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/7993/21/DSZ"
+}
+},
+{
+"d": "2021-03-17",
+"c": {
+"inw": "Remont elewacji, balkonów oraz docieplenoia poddasza w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości Walecznych 5",
+"nier": "Walecznych 5",
+"dz": "146507_8 0103 188",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/7929/21/DSZ"
+}
+},
+{
+"d": "2021-03-17",
+"c": {
+"inw": "Remont elewacji, balkonów oraz docieplenoia poddasza w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości Walecznych 5",
+"nier": "Walecznych 5",
+"dz": "146507_8 0103 189",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/7929/21/DSZ"
+}
+},
+{
+"d": "2021-03-17",
+"c": {
+"inw": "Przebudowa dachu w celu ujednolicenia elewacji budynku mieszkalnego wilorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Walecznych 57",
+"nier": "Walecznych 57",
+"dz": "146507_8 0105 155",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/7843/21/DSZ"
+}
+},
+{
+"d": "2021-03-12",
+"c": {
+"inw": "Powiększenie okna w pokoju(sypialni) ciemnym-nie spełnia istniejące okno warunków doświetlenia dla okna w loggi. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Szaserów 122",
+"dz": "146507_8 0404 18/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/7417/21/JZA"
+}
+},
+{
+"d": "2021-03-11",
+"c": {
+"inw": "BUDOWA BUDYNKU MIESZKALNEO JEDNORODZINNEGO DWULOKALOWEGO budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Chłopickiego 24 / Józefa",
+"dz": "146507_8 0405 181",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/7321/21/INO"
+}
+},
+{
+"d": "2021-03-10",
+"c": {
+"inw": "wzmocnienie stropu i remontu pomieszczenia na strychu ze zmianą sposobu użytkowania wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Francuska 11A",
+"dz": "146507_8 0108 99",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/7231/21/DSZ"
+}
+},
+{
+"d": "2021-03-10",
+"c": {
+"inw": "wzmocnienie stropu i remontu pomieszczenia na strychu ze zmianą sposobu użytkowania wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Francuska 11A",
+"dz": "146507_8 0108 100",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/7231/21/DSZ"
+}
+},
+{
+"d": "2021-03-10",
+"c": {
+"inw": "wykonanie otworu drzwiowego w ścianie nośnej pomiedzy lok 3 i 4 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Berezyńska 24",
+"dz": "146507_8 0103 207",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/7057/21/DSZ"
+}
+},
+{
+"d": "2021-03-09",
+"c": {
+"inw": "przebudowa npomieszczeń dla potrzeb instalacji angiografu w łączniku na I pietrze wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wojskowy Instytut Medyczny",
+"nier": "Szaserów 128",
+"dz": "146507_8 0403 8/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/6907/21/JZA"
+}
+},
+{
+"d": "2021-03-08",
+"c": {
+"inw": "budowa budynku garażu wolnostojącego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Igańska 7",
+"dz": "146507_8 0513 18",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/6743/21/JGA"
+}
+},
+{
+"d": "2021-03-05",
+"c": {
+"inw": "przebudowa otworu drzwiowego w ścianie korytarzowej budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Plac Przymierza 6",
+"dz": "146507_8 0113 11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/6564/21/DSZ"
+}
+},
+{
+"d": "2021-03-05",
+"c": {
+"inw": "przebudowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Walecznych 70",
+"nier": "Walecznych 70",
+"dz": "146507_8 0110 44",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/6665/21/DSZ"
+}
+},
+{
+"d": "2021-03-05",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych,szeregowych jednorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Marokańska",
+"dz": "146507_8 0124 46/4",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/6668/21/KPI"
+}
+},
+{
+"d": "2021-03-04",
+"c": {
+"inw": "Przebudowa lokali usługowych z przeznaczeniem na przedszkole zlokalizowanych w parterze budynku mieszkalnego wielorodzinnego z usługami wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Przedsiębiorstwo Budowlane Konstanty Strus",
+"nier": "Chrzanowskiego 14 / Wojciecha",
+"dz": "146507_8 0211 9/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/6391/21/JZA"
+}
+},
+{
+"d": "2021-03-04",
+"c": {
+"inw": "Budowa budynku przedszkola i żłobka budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Praga-Południe",
+"nier": "Meissnera 8B / Janusza",
+"dz": "146507_8 0603 30",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-KO/6672/21/KPI"
+}
+},
+{
+"d": "2021-03-04",
+"c": {
+"inw": "Przebudowa polegająca na zmianie części dachu na dwa tarasy w budynku mieszkalnym wielorodzinnym z usługami oraz garażem podziemnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "DEVELIA S.A.",
+"nier": "Podskarbińska",
+"dz": "146507_8 0211 8/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/6444/21/JZA"
+}
+},
+{
+"d": "2021-03-03",
+"c": {
+"inw": "Przebudowa wraz ze zmianą sposobu użytkowania lokalu U5 na Przychodnię Lekarską wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Sonofem Sp. z o.o.",
+"nier": "Ateńska 10",
+"dz": "146507_8 0123 3/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/6283/21/KPI"
+}
+},
+{
+"d": "2021-03-01",
+"c": {
+"inw": "Nadbudowa budynku mieszkalnego wielorodzinnego- projekt zamienny nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Acik Sp. z o.o.",
+"nier": "Pustelnicka 5",
+"dz": "146507_8 0509 96/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/6036/21/JGA"
+}
+},
+{
+"d": "2021-02-22",
+"c": {
+"inw": "przebudowa i remont wraz ze zmianą sopsobu użytkowania poddasz budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Poselska 12",
+"dz": "146507_8 0108 108",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/5121/21/DSZ"
+}
+},
+{
+"d": "2021-02-19",
+"c": {
+"inw": "budowa wewnętrznej instalacji gazowej  w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Perkuna",
+"dz": "146507_8 0523 42/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-KO/5223/21/JGA"
+}
+},
+{
+"d": "2021-02-17",
+"c": {
+"inw": "Budowa przyłącza i automatyka węzła cieplnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Grenadierów 44B",
+"dz": "146507_8 0501 28/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/4788/21/JZA"
+}
+},
+{
+"d": "2021-02-17",
+"c": {
+"inw": "Budowa przyłącza i automatyka węzła cieplnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Grenadierów 44B",
+"dz": "146507_8 0501 24",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/4788/21/JZA"
+}
+},
+{
+"d": "2021-02-17",
+"c": {
+"inw": "Budowa i automatyka przyłącza sieci ciepłowniczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Grenadierów 46A",
+"dz": "146507_8 0501 28/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/4789/21/JZA"
+}
+},
+{
+"d": "2021-02-17",
+"c": {
+"inw": "Budowa i automatyka przyłącza sieci ciepłowniczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Grenadierów 46A",
+"dz": "146507_8 0501 22",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/4789/21/JZA"
+}
+},
+{
+"d": "2021-02-17",
+"c": {
+"inw": "Docieplenie elewacji wraz z remontem balkonów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Zamieniecka 79",
+"dz": "146507_8 0508 26",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/4790/21/JGA"
+}
+},
+{
+"d": "2021-02-16",
+"c": {
+"inw": "Rozbudowa i nadbudowa segmentu środkowego wraz z częściową zmiany sposobu użytkowania z funkcji mieszkalnej na biurową wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Ateńska 43 i 45",
+"dz": "146507_8 0119 137",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/4641/21/DSZ"
+}
+},
+{
+"d": "2021-02-16",
+"c": {
+"inw": "Rozbudowa i nadbudowa segmentu środkowego wraz z częściową zmiany sposobu użytkowania z funkcji mieszkalnej na biurową wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Ateńska 43 i 45",
+"dz": "146507_8 0119 138",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/4641/21/DSZ"
+}
+},
+{
+"d": "2021-02-15",
+"c": {
+"inw": "Rozbiórka napowietrznej sieci elektroenergetycznej WN-110kV(słupów linii napowietrznej rozbiórka istniejącego obiektu budowlanego",
+"wn": "Innogy Stoen Operator Sp. z o.o.",
+"nier": "Siennicka",
+"dz": "146507_8 0211 2/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/4437/21/JZA"
+}
+},
+{
+"d": "2021-02-15",
+"c": {
+"inw": "Rozbiórka napowietrznej sieci elektroenergetycznej WN-110kV(słupów linii napowietrznej rozbiórka istniejącego obiektu budowlanego",
+"wn": "Innogy Stoen Operator Sp. z o.o.",
+"nier": "Siennicka",
+"dz": "146507_8 0211 3/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/4437/21/JZA"
+}
+},
+{
+"d": "2021-02-15",
+"c": {
+"inw": "Rozbiórka napowietrznej sieci elektroenergetycznej WN-110kV(słupów linii napowietrznej rozbiórka istniejącego obiektu budowlanego",
+"wn": "Innogy Stoen Operator Sp. z o.o.",
+"nier": "Siennicka",
+"dz": "146507_8 0211 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/4437/21/JZA"
+}
+},
+{
+"d": "2021-02-15",
+"c": {
+"inw": "Rozbiórka napowietrznej sieci elektroenergetycznej WN-110kV(słupów linii napowietrznej rozbiórka istniejącego obiektu budowlanego",
+"wn": "Innogy Stoen Operator Sp. z o.o.",
+"nier": "Siennicka",
+"dz": "146507_8 0211 5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/4437/21/JZA"
+}
+},
+{
+"d": "2021-02-15",
+"c": {
+"inw": "Rozbiórka napowietrznej sieci elektroenergetycznej WN-110kV(słupów linii napowietrznej rozbiórka istniejącego obiektu budowlanego",
+"wn": "Innogy Stoen Operator Sp. z o.o.",
+"nier": "Siennicka",
+"dz": "146507_8 0211 12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/4437/21/JZA"
+}
+},
+{
+"d": "2021-02-15",
+"c": {
+"inw": "Rozbiórka napowietrznej sieci elektroenergetycznej WN-110kV(słupów linii napowietrznej rozbiórka istniejącego obiektu budowlanego",
+"wn": "Innogy Stoen Operator Sp. z o.o.",
+"nier": "Siennicka",
+"dz": "146507_8 0211 13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/4437/21/JZA"
+}
+},
+{
+"d": "2021-02-15",
+"c": {
+"inw": "Rozbiórka napowietrznej sieci elektroenergetycznej WN-110kV(słupów linii napowietrznej rozbiórka istniejącego obiektu budowlanego",
+"wn": "Innogy Stoen Operator Sp. z o.o.",
+"nier": "Siennicka",
+"dz": "146507_8 0211 14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/4437/21/JZA"
+}
+},
+{
+"d": "2021-02-15",
+"c": {
+"inw": "Rozbiórka napowietrznej sieci elektroenergetycznej WN-110kV(słupów linii napowietrznej rozbiórka istniejącego obiektu budowlanego",
+"wn": "Innogy Stoen Operator Sp. z o.o.",
+"nier": "Siennicka",
+"dz": "146507_8 0211 15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/4437/21/JZA"
+}
+},
+{
+"d": "2021-02-15",
+"c": {
+"inw": "Rozbiórka napowietrznej sieci elektroenergetycznej WN-110kV(słupów linii napowietrznej rozbiórka istniejącego obiektu budowlanego",
+"wn": "Innogy Stoen Operator Sp. z o.o.",
+"nier": "Siennicka",
+"dz": "146507_8 0211 91",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/4437/21/JZA"
+}
+},
+{
+"d": "2021-02-10",
+"c": {
+"inw": "budowa instalacji gazu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Zawierciańska 3",
+"dz": "146507_8 0713 74",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/4024/21/INO"
+}
+},
+{
+"d": "2021-02-05",
+"c": {
+"inw": "remont i przebudowa elewacji budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Berezyńska 7",
+"dz": "146507_8 0103 78",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-KO/3680/21/DSZ"
+}
+},
+{
+"d": "2021-02-05",
+"c": {
+"inw": "remont i przebudowa elewacji budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Berezyńska 7",
+"dz": "146507_8 0103 79",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-KO/3680/21/DSZ"
+}
+},
+{
+"d": "2021-02-04",
+"c": {
+"inw": "Przebudowa szybu dźwigowego w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia mieszkaniowa Gocław - Lotnisko",
+"nier": "Umińskiego 7 / Władysława",
+"dz": "146507_8 0606 17/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/3546/21/KPI"
+}
+},
+{
+"d": "2021-02-04",
+"c": {
+"inw": "Przebudowa szybu dźwigowego w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa Gocław- Lotnisko",
+"nier": "Umińskiego 5 / Władysława",
+"dz": "146507_8 0606 17/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/3548/21/KPI"
+}
+},
+{
+"d": "2021-02-03",
+"c": {
+"inw": "Prace remontowe w mieszkaniu nr 5(wymiana okien, renowacja drzwi wejściowych, wprowadzanie jednostki klimatyzacji na dach budynku). wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Francuska 28",
+"dz": "146507_8 0109 3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/3425/21/DSZ"
+}
+},
+{
+"d": "2021-02-02",
+"c": {
+"inw": "Przebudowa wejścia w budynku mieszkalnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Genewska 17",
+"dz": "146507_8 0115 36",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/3248/21/DSZ"
+}
+},
+{
+"d": "2021-01-29",
+"c": {
+"inw": "Przebudowa pomieszczeń w budynku głównym Szpitala w bloku E1 na III piętrze dla potrzeb Centrum Wspierania Badań Klinicznych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wojskowy Instytut Medyczny w Warszawie",
+"nier": "Szaserów 128",
+"dz": "146507_8 0403 8/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-KO/2731/21/JZA"
+}
+},
+{
+"d": "2021-01-28",
+"c": {
+"inw": "rozbiórka 6 budynków przemysłowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "VICTORIA DOM S.A.",
+"nier": "Żupnicza",
+"dz": "146507_8 0203 3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/2695/21/PHO"
+}
+},
+{
+"d": "2021-01-26",
+"c": {
+"inw": "przebudowa pomieszczeń oddziału szybkiej diagnostyki w bloku na IV pietrze wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wojskowy Instytut Medyczny",
+"nier": "Szaserów 128",
+"dz": "146507_8 0403 8/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/2364/21/JZA"
+}
+},
+{
+"d": "2021-01-26",
+"c": {
+"inw": "przebudowa pomieszczeń kliniki Neurologicznej w bloku -3 i łączniku E2/3 na III piętrze wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wojskowy Instytut Medyczny",
+"nier": "Szaserów 128",
+"dz": "146507_8 0403 8/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/2363/21/JZA"
+}
+},
+{
+"d": "2021-01-21",
+"c": {
+"inw": "Rozbiórka kominów i pozostałości ścian na granicy działki(po budynkach gospodarczych) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "NATI HOME Sp. z o.o. Sp.K.",
+"nier": "Wiarusów 10",
+"dz": "146507_8 0415 51",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/1800/21/INO"
+}
+},
+{
+"d": "2021-01-21",
+"c": {
+"inw": "Przebudowa robudowa pomieszczeń Kliniki Endokrynologii i Terapii Izotopowej w rejonioe budynku Nr 18 na terenie Wojskowego Instytutu Medycznego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wojskowy Instytut Medyczny",
+"nier": "Szaserów 128",
+"dz": "146507_8 0403 8/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/1803/21/JZA"
+}
+},
+{
+"d": "2021-01-18",
+"c": {
+"inw": "Budowa kontenera magazynowego przy pawilonie stacji paliw NR 680 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polski Koncern Naftowy ORLEN S.A.",
+"nier": "Wersalska 3",
+"dz": "146507_8 0115 59",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-KO/1348/21/DSZ"
+}
+},
+{
+"d": "2021-01-14",
+"c": {
+"inw": "budynek mieszkalny wielorodzinny z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "FD DEVELOPMENT Sp. z o.o.",
+"nier": "Chłopickiego 28 / Józefa",
+"dz": "146507_8 0505 179",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/1017/21/INO"
+}
+},
+{
+"d": "2021-01-12",
+"c": {
+"inw": "rozbudowa i przebudowa pracowni rezonansu magnetycznego wraz z wyposażeniem ,budynnek nr 514 rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Wojskowy Instytut Medyczny",
+"nier": "Szaserów 128",
+"dz": "146507_8 0403 8/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/715/21/JZA"
+}
+},
+{
+"d": "2021-01-11",
+"c": {
+"inw": "rozbudowa budynku mieszkalnego jednorodzinnego w zabudowie szeregowej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Szczawnicka 12 c",
+"dz": "146507_8 0513 42",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/506/21/JGA"
+}
+},
+{
+"d": "2021-01-07",
+"c": {
+"inw": "Remont z przebudową istniejącej instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Budowlano-Mieszkaniowa",
+"nier": "Lotaryńska 22,22A,24,26",
+"dz": "146507_8 0122 8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD_VI-WOM-ROB/316/21/DSZ"
+}
+},
+{
+"d": "2021-01-05",
+"c": {
+"inw": "Przebudowa budynku wielorodzinnego polegająca na montażu windy w istniejącym szybie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Grochowska 237",
+"dz": "146507_8 0501 57",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-ROB/200/21/JZA"
+}
+},
+{
+"d": "2021-01-04",
+"c": {
+"inw": "Przebudowa budynku mieszkalnego wraz ze zmianą użytkowania części pomieszczenia na przedszkole i klub dziecięcy oraz rozbudowa tarasu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Bora-Komorowskiego 18A / gen. Tadeusza",
+"dz": "146507_8 0606 12/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/108/21/KPI"
+}
+}
+]
+},
+{
+"id": "dec_pnb",
+"name": "Decyzje o pozwoleniu na budowę",
+"short": "Decyzje PnB",
+"desc": "Decyzje o pozwoleniu na budowę wydane przez organ architektoniczno-budowlany dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer decyzji",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2021-12-27",
+"c": {
+"inw": "Przebudowa budynku Przedszkola nr 397 dla dostosowania do ochrony przeciwpożarowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Praga-Południe",
+"nier": "Komorska 6",
+"dz": "146507_8 0517 10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "333/21"
+}
+},
+{
+"d": "2021-12-21",
+"c": {
+"inw": "Zabezpieczenia zespołu budynków wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Towarzystwo Budownictwa Społecznego Warszawa Południe Sp. z o.o.",
+"nier": "Targowa 14",
+"dz": "146507_8 0201 2/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "331/21"
+}
+},
+{
+"d": "2021-12-17",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Wąchocka 16",
+"dz": "146507_8 0112 197",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "330/21"
+}
+},
+{
+"d": "2021-12-16",
+"c": {
+"inw": "rozbiórka budynku biurowo-technicznego rozbiórka istniejącego obiektu budowlanego",
+"wn": "CGLX SP. Z O.O.",
+"nier": "Lizbońska 1",
+"dz": "146507_8 0117 2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "329/21"
+}
+},
+{
+"d": "2021-12-15",
+"c": {
+"inw": "remont dachu oraz poddasza budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakłąd Gospodarowania Nieruchomościami Praga-Południe m.st Warszawy",
+"nier": "Kawcza 46 a",
+"dz": "146507_8 0509 130",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "328/21"
+}
+},
+{
+"d": "2021-12-13",
+"c": {
+"inw": "rozbiórka nudynku mieszkalnego,gospodarczego oraz muru granicznego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Mińska 11",
+"dz": "146507_8 0205 11/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "326/12"
+}
+},
+{
+"d": "2021-12-09",
+"c": {
+"inw": "remont dachu oraz poddasza budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Zakład Gospodarowania Nieruchomościami",
+"nier": "Zamoyskiego 43 / Jana",
+"dz": "146507_8 0201 55/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "323/21"
+}
+},
+{
+"d": "2021-12-07",
+"c": {
+"inw": "remont dachu oraz poddasza w tym remont stropu nad mieszkaniem nr 112 budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami m.st Warszawa",
+"nier": "Skaryszewska 2",
+"dz": "146507_8 0201 13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "321/21"
+}
+},
+{
+"d": "2021-12-07",
+"c": {
+"inw": "Remont elewacji oraz dachu budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Kamionkowska 33",
+"nier": "Kamionkowska 33",
+"dz": "146507_8 0206 51/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "320/21"
+}
+},
+{
+"d": "2021-12-06",
+"c": {
+"inw": "przebudowa wraz ze zmianą sposobu użytkowania na żłobek wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Pomelo Sp. z o .o.",
+"nier": "Bajońska 4/1",
+"dz": "146507_8 0115 19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "316/21"
+}
+},
+{
+"d": "2021-12-06",
+"c": {
+"inw": "Rozbudowa i przebudowa budynku mieszkalnego jednorodzinnego w zabudowie szeregowej oraz przebudowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Styki 21A / Jana",
+"dz": "146507_8 0109 49",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "318/21"
+}
+},
+{
+"d": "2021-12-03",
+"c": {
+"inw": "Zmiana sposobu użytkowania części garażu w parterze budynku mieszkalnego wielorodzinnego wraz z przebudową celem powiększenia istniejącego lokalu nr 1oraz budową parkingu naziemnego dla potrzeb inwestycji istniejącego budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "TRYBOŃ PPI S.A.",
+"nier": "Lubartowska 23",
+"dz": "146507_8 0412 77",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "315/21"
+}
+},
+{
+"d": "2021-12-03",
+"c": {
+"inw": "remont dachu oraz poddasza budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Zakład Gospodarowania Nieruchomościami",
+"nier": "Kobielska 88/92",
+"dz": "146507_8 0401 49",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "314/21"
+}
+},
+{
+"d": "2021-11-30",
+"c": {
+"inw": "R3mont muru oporowego przysieci ciepłowniczej w rejonie komór K14 i K15 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Makowska",
+"dz": "146507_8 0411 35/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "312/21"
+}
+},
+{
+"d": "2021-11-25",
+"c": {
+"inw": "budynek mieszkalny wielorodzinny z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Żupnicza",
+"dz": "146507_8 0203 14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "308/21"
+}
+},
+{
+"d": "2021-11-24",
+"c": {
+"inw": "Dobudowa balkonu w budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Lipska 7/9",
+"dz": "146507_8 0103 89",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "304/21"
+}
+},
+{
+"d": "2021-11-18",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Biłgorajska 7",
+"dz": "146507_8 0414 14/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "302/21"
+}
+},
+{
+"d": "2021-11-17",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "VICTORIA DOM S.A",
+"nier": "Żupnicza",
+"dz": "146507_8 0203 14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "299/21"
+}
+},
+{
+"d": "2021-11-17",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "DH INVEST 2 SP. Z O. O.",
+"nier": "Spalinowa 9",
+"dz": "146507_8 0503 58",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "301/21"
+}
+},
+{
+"d": "2021-11-17",
+"c": {
+"inw": "rozbiórka zespołu trzech parterowych budynków złożonych z szeregowych garaży undywidualnych z zachowaniem dwóch garaży rozbiórka istniejącego obiektu budowlanego",
+"wn": "Grupa  PROFBUD Sp. z o.o.",
+"nier": "Mikołajczyka / Stanisława",
+"dz": "146507_8 0707 3/51",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "300/21"
+}
+},
+{
+"d": "2021-11-17",
+"c": {
+"inw": "rozbiórka zespołu trzech parterowych budynków złożonych z szeregowych garaży undywidualnych z zachowaniem dwóch garaży rozbiórka istniejącego obiektu budowlanego",
+"wn": "Grupa  PROFBUD Sp. z o.o.",
+"nier": "Mikołajczyka / Stanisława",
+"dz": "146507_8 0707 3/53",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "300/21"
+}
+},
+{
+"d": "2021-11-17",
+"c": {
+"inw": "rozbiórka zespołu trzech parterowych budynków złożonych z szeregowych garaży undywidualnych z zachowaniem dwóch garaży rozbiórka istniejącego obiektu budowlanego",
+"wn": "Grupa  PROFBUD Sp. z o.o.",
+"nier": "Mikołajczyka / Stanisława",
+"dz": "146507_8 0707 3/55",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "300/21"
+}
+},
+{
+"d": "2021-11-16",
+"c": {
+"inw": "Budowa stacji bazowej WAR2380A wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "P4Sp.z o.o.",
+"nier": "Chrzanowskiego 12 / Wojciecha",
+"dz": "146507_8 0211 91",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "294/21"
+}
+},
+{
+"d": "2021-11-16",
+"c": {
+"inw": "budowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Igańska 13 C",
+"dz": "146507_8 0506 69",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "297/21"
+}
+},
+{
+"d": "2021-11-16",
+"c": {
+"inw": "Budowa sieci elektroenergetycznej WN-110kV(tj. dwóch elektroenergetycznych linii kablowych WN-110kV wraz z towarzyszącymi kablami światłodowymi w kanalizacji pierwotnej i wtórnej oraz dodatkowych przepustów rurowych) w rejonie ulicy Przeworskiej,Siennickiej,Podskarbińskiej,Chrzanowskiego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "innogy Stoen Operator Sp. z o.o.",
+"nier": "Siennicka",
+"dz": "146507_8 0211 2/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "296/21"
+}
+},
+{
+"d": "2021-11-16",
+"c": {
+"inw": "Budowa sieci elektroenergetycznej WN-110kV(tj. dwóch elektroenergetycznych linii kablowych WN-110kV wraz z towarzyszącymi kablami światłodowymi w kanalizacji pierwotnej i wtórnej oraz dodatkowych przepustów rurowych) w rejonie ulicy Przeworskiej,Siennickiej,Podskarbińskiej,Chrzanowskiego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "innogy Stoen Operator Sp. z o.o.",
+"nier": "Siennicka",
+"dz": "146507_8 0211 2/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "296/21"
+}
+},
+{
+"d": "2021-11-16",
+"c": {
+"inw": "Budowa sieci elektroenergetycznej WN-110kV(tj. dwóch elektroenergetycznych linii kablowych WN-110kV wraz z towarzyszącymi kablami światłodowymi w kanalizacji pierwotnej i wtórnej oraz dodatkowych przepustów rurowych) w rejonie ulicy Przeworskiej,Siennickiej,Podskarbińskiej,Chrzanowskiego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "innogy Stoen Operator Sp. z o.o.",
+"nier": "Siennicka",
+"dz": "146507_8 0211 2/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "296/21"
+}
+},
+{
+"d": "2021-11-16",
+"c": {
+"inw": "Budowa sieci elektroenergetycznej WN-110kV(tj. dwóch elektroenergetycznych linii kablowych WN-110kV wraz z towarzyszącymi kablami światłodowymi w kanalizacji pierwotnej i wtórnej oraz dodatkowych przepustów rurowych) w rejonie ulicy Przeworskiej,Siennickiej,Podskarbińskiej,Chrzanowskiego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "innogy Stoen Operator Sp. z o.o.",
+"nier": "Siennicka",
+"dz": "146507_8 0211 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "296/21"
+}
+},
+{
+"d": "2021-11-16",
+"c": {
+"inw": "Budowa sieci elektroenergetycznej WN-110kV(tj. dwóch elektroenergetycznych linii kablowych WN-110kV wraz z towarzyszącymi kablami światłodowymi w kanalizacji pierwotnej i wtórnej oraz dodatkowych przepustów rurowych) w rejonie ulicy Przeworskiej,Siennickiej,Podskarbińskiej,Chrzanowskiego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "innogy Stoen Operator Sp. z o.o.",
+"nier": "Siennicka",
+"dz": "146507_8 0211 5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "296/21"
+}
+},
+{
+"d": "2021-11-16",
+"c": {
+"inw": "Budowa sieci elektroenergetycznej WN-110kV(tj. dwóch elektroenergetycznych linii kablowych WN-110kV wraz z towarzyszącymi kablami światłodowymi w kanalizacji pierwotnej i wtórnej oraz dodatkowych przepustów rurowych) w rejonie ulicy Przeworskiej,Siennickiej,Podskarbińskiej,Chrzanowskiego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "innogy Stoen Operator Sp. z o.o.",
+"nier": "Siennicka",
+"dz": "146507_8 0211 14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "296/21"
+}
+},
+{
+"d": "2021-11-16",
+"c": {
+"inw": "Budowa sieci elektroenergetycznej WN-110kV(tj. dwóch elektroenergetycznych linii kablowych WN-110kV wraz z towarzyszącymi kablami światłodowymi w kanalizacji pierwotnej i wtórnej oraz dodatkowych przepustów rurowych) w rejonie ulicy Przeworskiej,Siennickiej,Podskarbińskiej,Chrzanowskiego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "innogy Stoen Operator Sp. z o.o.",
+"nier": "Siennicka",
+"dz": "146507_8 0211 15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "296/21"
+}
+},
+{
+"d": "2021-11-16",
+"c": {
+"inw": "Budowa sieci elektroenergetycznej WN-110kV(tj. dwóch elektroenergetycznych linii kablowych WN-110kV wraz z towarzyszącymi kablami światłodowymi w kanalizacji pierwotnej i wtórnej oraz dodatkowych przepustów rurowych) w rejonie ulicy Przeworskiej,Siennickiej,Podskarbińskiej,Chrzanowskiego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "innogy Stoen Operator Sp. z o.o.",
+"nier": "Siennicka",
+"dz": "146507_8 0211 91",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "296/21"
+}
+},
+{
+"d": "2021-11-15",
+"c": {
+"inw": "Przebudowa dachu oraz adaptacja strychu na cele mieszkalne-zatwierdzenie zmian w projekcie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Aleja Jerzego Waszyngtona 77",
+"dz": "146507_8 0501 106",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "292/21"
+}
+},
+{
+"d": "2021-11-12",
+"c": {
+"inw": "Przebudowa lokalu mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Zwycięzców 13",
+"dz": "146507_8 0108 88",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "290/21"
+}
+},
+{
+"d": "2021-11-09",
+"c": {
+"inw": "Przebudowa i nadbudowa budynku mieszkalnego jednorodzinnego w zabudowie szeregowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Alzacka 7",
+"dz": "146507_8 0119 106",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "288/21"
+}
+},
+{
+"d": "2021-11-09",
+"c": {
+"inw": "Remont , przebudowa i rozbudowa budynku mieszkalnego jednorodzinnego, wolnostojącego, dwulokalowego w zakresie lokalu mieszkalnego nr 1 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Obrońców 16",
+"dz": "146507_8 0108 92",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "287/21"
+}
+},
+{
+"d": "2021-11-05",
+"c": {
+"inw": "Instalowanie instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Grochowska 144/146",
+"dz": "146507_8 0412 158",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "286/21"
+}
+},
+{
+"d": "2021-11-04",
+"c": {
+"inw": "Rozbiórka ogrodzenia murowanego o wysokości 3,20-3,50M zlokalizowanego bezpośrednio na granicy działki budowlanej od strony południowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Moderna Holding Sp. z o.o.",
+"nier": "Zamoyskiego 24/26 / Jana",
+"dz": "146507_8 0204 7/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "284/21"
+}
+},
+{
+"d": "2021-11-04",
+"c": {
+"inw": "Przebudowa budynku przemysłowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "LOTTE Wedel Sp. z o.o.",
+"nier": "Zamoyskiego 28/30 / Jana",
+"dz": "146507_8 0204 7/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "285/21"
+}
+},
+{
+"d": "2021-10-26",
+"c": {
+"inw": "zabudowa tarasu na pierwszym piętrze wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Genewska 1",
+"dz": "146507_8 0115 56/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "279/21"
+}
+},
+{
+"d": "2021-10-26",
+"c": {
+"inw": "przebudowa otworów okiennych kondygnacji podziemnej budynku mieszkalnego w zabudowie szeregowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Lotaryńska 12",
+"dz": "146507_8 0122 68",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "280/21"
+}
+},
+{
+"d": "2021-10-25",
+"c": {
+"inw": "budynek o przeznaczeniu turystycznym z apartamentami hotelowymi z usługami w parterze oraz gatrażem podziemnym i parkingiem naziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "HOTELE GROCHOWSKA SP.Z O.O.",
+"nier": "Grochowska",
+"dz": "146507_8 0530 20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "278/21"
+}
+},
+{
+"d": "2021-10-25",
+"c": {
+"inw": "budynek o przeznaczeniu turystycznym z apartamentami hotelowymi z usługami w parterze oraz gatrażem podziemnym i parkingiem naziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "HOTELE GROCHOWSKA SP.Z O.O.",
+"nier": "Grochowska",
+"dz": "146507_8 0530 21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "278/21"
+}
+},
+{
+"d": "2021-10-21",
+"c": {
+"inw": "budowa budynku o funkcji mieszkaniowej wielorodzinnej oraz funkcji hotelu wraz z instalacjami i urządzeniami budowlanymi budowa nowego/nowych obiektów budowlanych",
+"wn": "Darłowska Nowa Inewstycja Sp. z o.o. Sp. k.",
+"nier": "Darłowska 2",
+"dz": "146507_8 0513 107",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "276/21"
+}
+},
+{
+"d": "2021-10-18",
+"c": {
+"inw": "Budowa instalacji gazowejdla budynku biurowo-usługowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SJ INVESTMENT SYLWIA OBIDZIŃSKA",
+"nier": "Szaserów 38",
+"dz": "146507_8 0411 30",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "274/21"
+}
+},
+{
+"d": "2021-10-14",
+"c": {
+"inw": "budynek mieszkalny jednorodzinny wraz z wewnętrzną instalacją gazową budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Kryniczna 15",
+"dz": "146507_8 0112 8",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "271/21"
+}
+},
+{
+"d": "2021-10-11",
+"c": {
+"inw": "budowa instalacji gazowej budowa nowego/nowych obiektów budowlanych",
+"wn": "MEGAL SP.Z O.O.",
+"nier": "Aleja Jerzego Waszyngtona 100A",
+"dz": "146507_8 0502 80",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "243/21"
+}
+},
+{
+"d": "2021-10-08",
+"c": {
+"inw": "Budowa instalacji wewnętrznej gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Dubieńska 3",
+"dz": "146507_8 0412 65",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "268/21"
+}
+},
+{
+"d": "2021-10-08",
+"c": {
+"inw": "przebudowa budynku handlowo-usługowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "TERGE S.A.",
+"nier": "Ostrobramska 36 A",
+"dz": "146507_8 0519 7/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "269/21"
+}
+},
+{
+"d": "2021-10-06",
+"c": {
+"inw": "remont elewacji i balkonów oraz hydroizolacji ścian fundamentowych budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Aleja Jerzego Waszyngtona 14 A",
+"dz": "146507_8 0105 7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "267/21"
+}
+},
+{
+"d": "2021-10-05",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Serocka 29",
+"dz": "146507_8 0409 149",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "261/21"
+}
+},
+{
+"d": "2021-10-05",
+"c": {
+"inw": "Dostosowanie budynku Witolińska 4 do Postanowienia WZ.5595.348.4.2019 R. oraz ekspertyzy technicznej stanu ochrony  przeciwpożarowej z maja 2019R. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa Ostrobramska",
+"nier": "Witolińska 4",
+"dz": "146507_8 0530 32",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "263/21"
+}
+},
+{
+"d": "2021-10-05",
+"c": {
+"inw": "przebudowa stacji elektroenergetycznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Innogy Stoen Operator Sp. z o.o.",
+"nier": "Zamieniecka 33",
+"dz": "146507_8 0515 72",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "262/21"
+}
+},
+{
+"d": "2021-10-04",
+"c": {
+"inw": "rozbiórka dziesieciu budynków rozbiórka istniejącego obiektu budowlanego",
+"wn": "BOUYGUES IMMOBILIER POLSKA SP.Z O.O.",
+"nier": "Siennicka 48",
+"dz": "146507_8 0212 17/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "260/21"
+}
+},
+{
+"d": "2021-10-04",
+"c": {
+"inw": "Przebudowa pomieszczenia piwnicy na kotłownie gazową w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami w Dzielnicy Praga-Południe",
+"nier": "Osowska 24",
+"dz": "146507_8 0410 105",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "258/21"
+}
+},
+{
+"d": "2021-09-30",
+"c": {
+"inw": "naprawa i wzmocnienie ścian klatki schodowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Elsterska 10",
+"dz": "146507_8 0104 15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "257/21"
+}
+},
+{
+"d": "2021-09-29",
+"c": {
+"inw": "rozbudowa i przebudowa stacji paliw sieci CIRCLECK K wraz z infrastrukturą techniczną rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Circle K Polska Sp. z o.o.",
+"nier": "Jugosłowiańska 19",
+"dz": "146507_8 0601 77",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "255/21"
+}
+},
+{
+"d": "2021-09-29",
+"c": {
+"inw": "Budynek mieszkalno-usługowy pasaż Aniński C budowa nowego/nowych obiektów budowlanych",
+"wn": "Spółdzielnia Mieszkaniowa Gocław Lotnisko",
+"nier": "Nowaka-Jeziorańskiego / Jana",
+"dz": "146507_8 0607 3/65",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "256/21"
+}
+},
+{
+"d": "2021-09-29",
+"c": {
+"inw": "Budynek mieszkalno-usługowy pasaż Aniński C budowa nowego/nowych obiektów budowlanych",
+"wn": "Spółdzielnia Mieszkaniowa Gocław Lotnisko",
+"nier": "Nowaka-Jeziorańskiego / Jana",
+"dz": "146507_8 0607 3/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "256/21"
+}
+},
+{
+"d": "2021-09-27",
+"c": {
+"inw": "Budynek gospodarczy pomieszczenie magazynowe/skład węgla-rozbiórka rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Paryska 33",
+"dz": "146507_8 0112 206/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "253/21"
+}
+},
+{
+"d": "2021-09-22",
+"c": {
+"inw": "budowa dwóch instalacji gazowych do budynku 13 A i 13 B wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Marsa 13 A,13B",
+"dz": "146507_8 0714 94",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "245/21"
+}
+},
+{
+"d": "2021-09-22",
+"c": {
+"inw": "budowa dwóch instalacji gazowych do budynku 13 A i 13 B wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Marsa 13 A,13B",
+"dz": "146507_8 0714 97",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "245/21"
+}
+},
+{
+"d": "2021-09-22",
+"c": {
+"inw": "wzmocnienie stropu i remontu pomieszczenia na strychu ze zmianą sposobu użytkowania wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Francuska 11A",
+"dz": "146507_8 0108 99",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "248/21"
+}
+},
+{
+"d": "2021-09-22",
+"c": {
+"inw": "wzmocnienie stropu i remontu pomieszczenia na strychu ze zmianą sposobu użytkowania wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Francuska 11A",
+"dz": "146507_8 0108 100",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "248/21"
+}
+},
+{
+"d": "2021-09-22",
+"c": {
+"inw": "przebudowa pomieszczenia piwnicy na kotłownię gazową w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami",
+"nier": "Żółkiewskiego 5 / Stanisława",
+"dz": "146507_8 0413 167",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "246/21"
+}
+},
+{
+"d": "2021-09-20",
+"c": {
+"inw": "poszerzenie otworu drzwi tarasowych oraz wykonania nowych drzwi balkonowych w mieszkaniu nr 2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Niekłańska 19",
+"dz": "146507_8 0110 53",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "244/21"
+}
+},
+{
+"d": "2021-09-13",
+"c": {
+"inw": "budynek mieszkalny dwulokalowy budowa nowego/nowych obiektów budowlanych",
+"wn": "EKOKWANT Sp. z o.o.",
+"nier": "Wiarusów 24",
+"dz": "146507_8 0415 33/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "238/21"
+}
+},
+{
+"d": "2021-09-08",
+"c": {
+"inw": "demontaż stacji transformatorowej ST 9506 oraz przebudowy linii kablowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Innogy stoen Operator",
+"nier": "Mińska",
+"dz": "146507_8 0202 30/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "234/21"
+}
+},
+{
+"d": "2021-09-08",
+"c": {
+"inw": "demontaż stacji transformatorowej oraz przebudowa lini kablowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Innogy Stoen Operator",
+"nier": "Mińska",
+"dz": "146507_8 0206 1/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "233/21"
+}
+},
+{
+"d": "2021-09-08",
+"c": {
+"inw": "demontaż stacji transformatorowej oraz przebudowa lini kablowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Innogy Stoen Operator",
+"nier": "Mińska",
+"dz": "146507_8 0202 30/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "233/21"
+}
+},
+{
+"d": "2021-09-08",
+"c": {
+"inw": "demontaż stacji transformatorowej ST 9506 oraz przebudowy linii kablowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Innogy stoen Operator",
+"nier": "Mińska",
+"dz": "146507_8 0206 1/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "234/21"
+}
+},
+{
+"d": "2021-09-06",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej wraz z przyłączami budowa nowego/nowych obiektów budowlanych",
+"wn": "VEOLIA ENERGIA WARSZAWA S.A.",
+"nier": "Kamionkowska 18",
+"dz": "146507_8 0206 62",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "231/21"
+}
+},
+{
+"d": "2021-09-06",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej wraz z przyłączami budowa nowego/nowych obiektów budowlanych",
+"wn": "VEOLIA ENERGIA WARSZAWA S.A.",
+"nier": "Kamionkowska 18",
+"dz": "146507_8 0206 73",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "231/21"
+}
+},
+{
+"d": "2021-09-06",
+"c": {
+"inw": "nadbudowa i przebudowa dachu budynku mieszkalnego wielorodzinnego nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Kobielska 30",
+"dz": "146507_8 0407 61",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "229/21"
+}
+},
+{
+"d": "2021-09-06",
+"c": {
+"inw": "budowa instalacji gazu dla budynku mieszkanego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Byczyńska 21",
+"dz": "146507_8 0405 190",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "228/21"
+}
+},
+{
+"d": "2021-09-01",
+"c": {
+"inw": "budowa instalacji gazu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Olszynki Grochowskiej 61 A",
+"dz": "146507_8 0415 138",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "226/21"
+}
+},
+{
+"d": "2021-08-31",
+"c": {
+"inw": "budowa instalacji gazu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Rębkowska 12",
+"dz": "146507_8 0406 16/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "225/21"
+}
+},
+{
+"d": "2021-08-30",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z lokalami usługowo-handlowymi oraz garażem9częściowo w parterze oraz podziemnym) budowa nowego/nowych obiektów budowlanych",
+"wn": "BJM Development S.C.",
+"nier": "Abrahama 1A / gen. Romana",
+"dz": "146507_8 0604 20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "224/21"
+}
+},
+{
+"d": "2021-08-30",
+"c": {
+"inw": "Przebudowa szybu dźwigowego w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa Gocław-Lotnisko",
+"nier": "Umińskiego 5 / Władysława",
+"dz": "146507_8 0606 17/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "222/21"
+}
+},
+{
+"d": "2021-08-30",
+"c": {
+"inw": "Przebudowa szybu dźwigowego w budynku mieszkalnym wielorodzinnym(klatka Nr 1). wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa Gocław-Lotnisko",
+"nier": "Umińskiego 7 / Władysława",
+"dz": "146507_8 0606 17/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "223/21"
+}
+},
+{
+"d": "2021-08-24",
+"c": {
+"inw": "budowa instalacji gazowej w budynku jednorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Zawierciańska 4 a",
+"dz": "146507_8 0713 82",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "219/21"
+}
+},
+{
+"d": "2021-08-23",
+"c": {
+"inw": "projekt zamienny- rozbudowa i przebudowa ze zmianą sposobu uzytkowania na budynek biurowy z częścią usługową rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Baleta Sp. z o.o.",
+"nier": "Grochowska 316/320",
+"dz": "146507_8 0206 17/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "214/21"
+}
+},
+{
+"d": "2021-08-23",
+"c": {
+"inw": "projekt zamienny -budynek biurowo-usługowy z towarzyszącą infrastrukturą posadowiony na jednokondygnacyjnym garażu podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Celiana Sp z o.o.",
+"nier": "Grochowska 306/310",
+"dz": "146507_8 0206 75/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "216/21"
+}
+},
+{
+"d": "2021-08-23",
+"c": {
+"inw": "projekt zamienny-przebudowa ze zmianą sposobu użytkowania budynku przemysłowego na budynek biurowy z częścią usługową wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Baleta sp. z o.o.",
+"nier": "Grochowska 316/340",
+"dz": "146507_8 0206 17/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "215/21"
+}
+},
+{
+"d": "2021-08-23",
+"c": {
+"inw": "Rozbiórka wiaty i budowa wiaty BHP rozbiórka istniejącego obiektu budowlanego",
+"wn": "LOTTE Wedel Sp. z o.o.",
+"nier": "Zamoyskiego 28/30 / Jana",
+"dz": "146507_8 0204 7/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "218/21"
+}
+},
+{
+"d": "2021-08-23",
+"c": {
+"inw": "projekt zamienny wiaty oraz konstrukcji stalowej pod montaż paneli fotowoltaicznych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Lotte Wedel Sp. z o.o.",
+"nier": "Zamoyskiego 28 / Jana",
+"dz": "146507_8 0204 7/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "217/21"
+}
+},
+{
+"d": "2021-08-23",
+"c": {
+"inw": "budynek usługowo-biurowy parterowy budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Marsa",
+"dz": "146507_8 0714 68",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "213/21"
+}
+},
+{
+"d": "2021-08-16",
+"c": {
+"inw": "budowa zespołu szkolno-przedszkolnego  z niezbędną infrastrukturą techniczną wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Praga-Południe",
+"nier": "Nowaka-Jeziorańskiego 22 / Jana",
+"dz": "146507_8 0523 40/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "208/21"
+}
+},
+{
+"d": "2021-08-16",
+"c": {
+"inw": "budowa zespołu szkolno-przedszkolnego  z niezbędną infrastrukturą techniczną wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Praga-Południe",
+"nier": "Nowaka-Jeziorańskiego 22 / Jana",
+"dz": "146507_8 0523 37/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "208/21"
+}
+},
+{
+"d": "2021-08-16",
+"c": {
+"inw": "budowa zespołu szkolno-przedszkolnego  z niezbędną infrastrukturą techniczną wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Praga-Południe",
+"nier": "Nowaka-Jeziorańskiego 22 / Jana",
+"dz": "146507_8 0523 35",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "208/21"
+}
+},
+{
+"d": "2021-08-16",
+"c": {
+"inw": "budowa zespołu szkolno-przedszkolnego  z niezbędną infrastrukturą techniczną wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Praga-Południe",
+"nier": "Nowaka-Jeziorańskiego 22 / Jana",
+"dz": "146507_8 0523 40/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "208/21"
+}
+},
+{
+"d": "2021-08-16",
+"c": {
+"inw": "budowa zespołu szkolno-przedszkolnego  z niezbędną infrastrukturą techniczną wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Praga-Południe",
+"nier": "Nowaka-Jeziorańskiego 22 / Jana",
+"dz": "146507_8 0523 40/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "208/21"
+}
+},
+{
+"d": "2021-08-16",
+"c": {
+"inw": "budowa zespołu szkolno-przedszkolnego  z niezbędną infrastrukturą techniczną wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Praga-Południe",
+"nier": "Nowaka-Jeziorańskiego 22 / Jana",
+"dz": "146507_8 0607 1/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "208/21"
+}
+},
+{
+"d": "2021-08-12",
+"c": {
+"inw": "Budynek szkolnictwa wyższego Dom Studencki z lokalem usługowym w parterze wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "M40 Sp. z o.o.",
+"nier": "Mińska 40",
+"dz": "146507_8 0206 94",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "207/21"
+}
+},
+{
+"d": "2021-08-11",
+"c": {
+"inw": "projekt zamienny instalacji gazowej dla budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Nizinna 30",
+"dz": "146507_8 0402 41/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "206/21"
+}
+},
+{
+"d": "2021-08-10",
+"c": {
+"inw": "Modernizacja i rozbudowa budynku mieszkalnego w zabudowie szeregowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Lotaryńska 10",
+"dz": "146507_8 0122 69",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "204/21"
+}
+},
+{
+"d": "2021-08-06",
+"c": {
+"inw": "Remont i przebudowa pomieszczeń Kliniki Okulistyki na II piętrze w bloku E1 i w łączniku E1-2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wojskowy Instytut Medyczny",
+"nier": "Szaserów 128",
+"dz": "146507_8 0403 8/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "200/21"
+}
+},
+{
+"d": "2021-08-06",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Faro Sp. z o.o.",
+"nier": "Kickiego 26 a / Ludwika",
+"dz": "146507_8 0402 12",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "199/21"
+}
+},
+{
+"d": "2021-08-06",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym infrastrukturą techniczn,dojazdem,dojściami i zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "Projekt Bajońska Sp[. z o.o.",
+"nier": "Bajońska 7,9",
+"dz": "146507_8 0115 27/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "201/21"
+}
+},
+{
+"d": "2021-08-06",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym infrastrukturą techniczn,dojazdem,dojściami i zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "Projekt Bajońska Sp[. z o.o.",
+"nier": "Bajońska 7,9",
+"dz": "146507_8 0115 95",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "201/21"
+}
+},
+{
+"d": "2021-08-05",
+"c": {
+"inw": "budynek mieszkalny wielorodzinny z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "DFCL1 Sp.z o.o. sp.k.",
+"nier": "Komorska 48",
+"dz": "146507_8 1111 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "198/21"
+}
+},
+{
+"d": "2021-08-04",
+"c": {
+"inw": "projekt przystosowania pomieszczenia piwnicznego na potrzeby kotłowni gazowej wraz z kominem zewnętrznym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa reprezntowane przez ZGN w dzielnicy Praga-Południe",
+"nier": "Omulewska 11a",
+"dz": "146507_8 0507 57",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "197/21"
+}
+},
+{
+"d": "2021-07-30",
+"c": {
+"inw": "Zmiana sposobu użytkowania wraz z przebudową lokalu po dawnym sklepie mięsnym w celu utworzenia punktu przedszkolnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent m.st.Warszawy",
+"nier": "Dwernickiego 20 / Józefa",
+"dz": "146507_8 0402 25",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "193/21"
+}
+},
+{
+"d": "2021-07-30",
+"c": {
+"inw": "Przebudowa dachu w celu ujednolicenia elewacji budynku mieszkalnego wilorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Walecznych 57",
+"nier": "Walecznych 57",
+"dz": "146507_8 0105 155",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "195/21"
+}
+},
+{
+"d": "2021-07-29",
+"c": {
+"inw": "Przebudowa budynku wielorodzinnego polegająca na montażu windy w istniejącym szybie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Grochowska 237",
+"dz": "146507_8 0501 57",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "192/21"
+}
+},
+{
+"d": "2021-07-23",
+"c": {
+"inw": "remont galerii komunikacyjnych w budynkach ieszkalnych wielorodzinnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa ,,Przyczółek Grochowski,,",
+"nier": "Kwarciana 1",
+"dz": "146507_8 0525 33",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "189/21"
+}
+},
+{
+"d": "2021-07-23",
+"c": {
+"inw": "Przebudowa, nadbudowa i rozbudowa budynku mieszkalnego jednorodzinnego w zabudowie bliźniaczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Nobla 5 / Alfreda",
+"dz": "146507_8 0109 178",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "190/21"
+}
+},
+{
+"d": "2021-07-21",
+"c": {
+"inw": "powiększenie otworu okiennego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Stanisława Augusta 73",
+"dz": "146507_8 0531 42",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "186/21"
+}
+},
+{
+"d": "2021-07-21",
+"c": {
+"inw": "budowa wolnostojącej altany śmietnikowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Spółdzielnia Mieszkaniowa ,,Szaserów,,",
+"nier": "Wspólna Droga",
+"dz": "146507_8 0404 10/17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "185/21"
+}
+},
+{
+"d": "2021-07-20",
+"c": {
+"inw": "Projekt budowlany zamienny nadbudowy budynku wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Zakopiańska 32",
+"dz": "146507_8 0112 141",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "183/21"
+}
+},
+{
+"d": "2021-07-06",
+"c": {
+"inw": "przebudowa przegród zewnętrznych budynku hali OT1 na potrzeby podwyższenia otworów bram wjazdowych i wyjazdowych na terenie MZA wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Zakłady Autobusowe Sp. z o.o.",
+"nier": "Ostrobramska 38",
+"dz": "146507_8 0519 10/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "178/21"
+}
+},
+{
+"d": "2021-07-05",
+"c": {
+"inw": "Budynek mieszkalny wielorodzinny z garażem podziemnym,zagosp.terenu przy ul. Drwęckiej(d. Siennicka/Przeworska) budowa nowego/nowych obiektów budowlanych",
+"wn": "SM Osiedle Młodych",
+"nier": "Przeworska",
+"dz": "146507_8 0211 14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "177/21"
+}
+},
+{
+"d": "2021-07-02",
+"c": {
+"inw": "przebudowa fragmentu poddasza ze zmianą sposobu użytkowania wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Francuska 20",
+"dz": "146507_8 0109 10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "174/21"
+}
+},
+{
+"d": "2021-07-02",
+"c": {
+"inw": "Powiększenie okna w pokoju(sypialni) ciemnym-nie spełnia istniejące okno warunków doświetlenia dla okna w loggi. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Szaserów 122",
+"dz": "146507_8 0404 18/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "173/21"
+}
+},
+{
+"d": "2021-06-29",
+"c": {
+"inw": "remont balkonów i elewacji oraz izolacji fundamentów w budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Grochowska 279",
+"dz": "146507_8 0532 6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "149/21"
+}
+},
+{
+"d": "2021-06-28",
+"c": {
+"inw": "przebudowa stacji elektroenergetycznej w zakresie rozbirki i budowy rozdzielni napowietrznej wraz z infrastrukturą wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "inogy Stoen Operator Sp.z o.o.",
+"nier": "Zamieniecka 33",
+"dz": "146507_8 0515 72",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "169/21"
+}
+},
+{
+"d": "2021-06-28",
+"c": {
+"inw": "projekt zamienny budynek usługowo-mieszkalny wielorodzinny z garażem i i infrastrukturą wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "KREATOR DOM INVESTORS Sp. z o.o.",
+"nier": "Bliska 17",
+"dz": "146507_8 0205 7/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "170/21"
+}
+},
+{
+"d": "2021-06-24",
+"c": {
+"inw": "nadbudowa  częci budynku mieszkalnego jednorodzinnego w zabudowie szeregowej nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Berneńska 11 A",
+"dz": "146507_8 0122 77",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "168/21"
+}
+},
+{
+"d": "2021-06-24",
+"c": {
+"inw": "termomodernizacja budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Brukselska 26",
+"dz": "146507_8 0116 144",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "171/21"
+}
+},
+{
+"d": "2021-06-24",
+"c": {
+"inw": "termomodernizacja budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Brukselska 26",
+"dz": "146507_8 0116 143/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "171/21"
+}
+},
+{
+"d": "2021-06-21",
+"c": {
+"inw": "Budowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Wąchocka 15",
+"dz": "146507_8 0112 98",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "164/21"
+}
+},
+{
+"d": "2021-06-21",
+"c": {
+"inw": "Przebudowa dachu budynku Centrum Prmocji Kultury wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Urząd Dzielnicy Praga-Południe",
+"nier": "Podskarbińska 2",
+"dz": "146507_8 0406 55/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "165/21"
+}
+},
+{
+"d": "2021-06-21",
+"c": {
+"inw": "rozbudowa,przebudowa, nadbudowa budynku jednorodzinnego oraz rozbiórka budynku garażowego i usługowego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Bakaliowa 10",
+"dz": "146507_8 0714 92",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "163/21"
+}
+},
+{
+"d": "2021-06-18",
+"c": {
+"inw": "przebudowa pomieszczeń lokalu usługowego na potrzeby kliniki wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Fokus Medical Sp.z o.o.",
+"nier": "Angorska 5/9",
+"dz": "146507_8 0105 24/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "161/21"
+}
+},
+{
+"d": "2021-06-17",
+"c": {
+"inw": "Budowa instalacji gazowej wewnętrznej dla budynku hotelowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "P.P.H.Bonzo LTD Eugeniusz Zarzycki",
+"nier": "Zamoyskiego 26A / Jana",
+"dz": "146507_8 0204 7/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "160/21"
+}
+},
+{
+"d": "2021-06-16",
+"c": {
+"inw": "Rozbudowa i nadbudowa segmentu środkowego wraz z częściową zmiany sposobu użytkowania z funkcji mieszkalnej na biurową wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Ateńska 43 i 45",
+"dz": "146507_8 0119 137",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "159/21"
+}
+},
+{
+"d": "2021-06-16",
+"c": {
+"inw": "Rozbudowa i nadbudowa segmentu środkowego wraz z częściową zmiany sposobu użytkowania z funkcji mieszkalnej na biurową wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Ateńska 43 i 45",
+"dz": "146507_8 0119 138",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "159/21"
+}
+},
+{
+"d": "2021-06-14",
+"c": {
+"inw": "rozbiórka wiaty I wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zarząd Zieleni M. St. Warszawy",
+"nier": "Wał Miedzeszyński 399",
+"dz": "146507_8 0106 8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "157/21"
+}
+},
+{
+"d": "2021-06-14",
+"c": {
+"inw": "Rozbudowa wewnętrznej instalacji gazu n/c dla lokalu mieszkalnego w budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Londyńska 8",
+"dz": "146507_8 0110 87",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "155/21"
+}
+},
+{
+"d": "2021-06-14",
+"c": {
+"inw": "Rozbiórka wiaty II wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zarząd Zieleni M. St. Warszwy",
+"nier": "Wał Miedzeszyński 399",
+"dz": "146507_8 0106 8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "158/21"
+}
+},
+{
+"d": "2021-06-14",
+"c": {
+"inw": "rozbudowa ,przebudowa i remont budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Zwycięzców 14",
+"dz": "146507_8 0112 26",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "156/21"
+}
+},
+{
+"d": "2021-06-09",
+"c": {
+"inw": "Remont z częścową odbudową piwnic budynku nr 6 oraz remont dachu budynku nr 6A wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PIT RADWAR Spółka Akcyjna",
+"nier": "Poligonowa 32",
+"dz": "146507_8 0521 4/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "154/21"
+}
+},
+{
+"d": "2021-06-07",
+"c": {
+"inw": "Wzmocnienie północnej ściany szczytowej budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "FORFOUR Sp. z o.o.",
+"nier": "Frycza Modrzewskiego 23 / Andrzeja",
+"dz": "146507_8 0209 37",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "150/21"
+}
+},
+{
+"d": "2021-06-07",
+"c": {
+"inw": "Przebudowa stropodachu oraz remont elewacji budynek mieszkalno-usługowy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Berezyńska 33",
+"dz": "146507_8 0104 78",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "152/21"
+}
+},
+{
+"d": "2021-06-07",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym i infrastrukturą towarzyszącą budowa nowego/nowych obiektów budowlanych",
+"wn": "REVO PROPERTY Sp. z o.o. Sp.K.",
+"nier": "Kiprów 26",
+"dz": "146507_8 0409 103",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "148/21"
+}
+},
+{
+"d": "2021-05-31",
+"c": {
+"inw": "budynek mieszkalny wielorodzinny z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "FD DEVELOPMENT Sp. z o.o.",
+"nier": "Chłopickiego 28 / Józefa",
+"dz": "146507_8 0505 179",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "143/21"
+}
+},
+{
+"d": "2021-05-25",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Szpital Dziecięcy im.prof.dr med.Jana Bogdanowicza",
+"nier": "Niekłańska 4/24",
+"dz": "146507_8 0110 81",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "138/21"
+}
+},
+{
+"d": "2021-05-25",
+"c": {
+"inw": "Rozbiórka budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "COGIK Sp. z o.o.",
+"nier": "Komorska 52",
+"dz": "146507_8 0509 57",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "137/21"
+}
+},
+{
+"d": "2021-05-25",
+"c": {
+"inw": "Rozbiórka budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "COGIK Sp. z o.o.",
+"nier": "Pustelnicka 25",
+"dz": "146507_8 0509 51",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "136/21"
+}
+},
+{
+"d": "2021-05-25",
+"c": {
+"inw": "Rozbiórka budynków gospodarczych rozbiórka istniejącego obiektu budowlanego",
+"wn": "COGIK Sp. z o.o.",
+"nier": "Pustelnicka 25",
+"dz": "146507_8 0509 51",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "135/21"
+}
+},
+{
+"d": "2021-05-24",
+"c": {
+"inw": "remont i przebudowa elewacji budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Berezyńska 7",
+"dz": "146507_8 0103 78",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "134/21"
+}
+},
+{
+"d": "2021-05-24",
+"c": {
+"inw": "remont i przebudowa elewacji budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Berezyńska 7",
+"dz": "146507_8 0103 79",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "134/21"
+}
+},
+{
+"d": "2021-05-20",
+"c": {
+"inw": "Rozbiórka budynku mieszkalnego jednorodzinnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Tryboń PPI S.A.",
+"nier": "Serocka 27",
+"dz": "146507_8 0409 54",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "132/21"
+}
+},
+{
+"d": "2021-05-19",
+"c": {
+"inw": "przebudowa wieloizbowych lokali hotelowych na smodzielne pokoje hotelowe wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Zamoyskiego 26 A / Jana",
+"dz": "146507_8 0204 7/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "127/21"
+}
+},
+{
+"d": "2021-05-18",
+"c": {
+"inw": "Nadbudowa budynku mieszkalnego wielorodzinnego- projekt zamienny nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Acik Sp. z o.o.",
+"nier": "Pustelnicka 5",
+"dz": "146507_8 0509 96/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "125/21"
+}
+},
+{
+"d": "2021-05-17",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego D z częścią usługową w parterze i garażami podziemnymi oraz przyziemiu budowa nowego/nowych obiektów budowlanych",
+"wn": "Spółdzielnia Mieszkaniowa Orlik Jantar",
+"nier": "Nowaka-Jeziorańskiego / Jana",
+"dz": "146507_8 0607 3/66",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "123/21"
+}
+},
+{
+"d": "2021-05-17",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z usługami w parterze, garażem podziemnym, instalacja gazowa na potrzeby kotłowni C.O.  i C. W. U. budowa nowego/nowych obiektów budowlanych",
+"wn": "AT THE TOP Sp. z o.o. SP.K",
+"nier": "Stoczkowska 16",
+"dz": "146507_8 0413 32",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "121/21"
+}
+},
+{
+"d": "2021-05-17",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z usługami w parterze, garażem podziemnym, instalacja gazowa na potrzeby kotłowni C.O.  i C. W. U. budowa nowego/nowych obiektów budowlanych",
+"wn": "AT THE TOP Sp. z o.o. SP.K",
+"nier": "Stoczkowska 16",
+"dz": "146507_8 0413 30",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "121/21"
+}
+},
+{
+"d": "2021-05-17",
+"c": {
+"inw": "Budowa budynku produkcyjnego I z pozostawieniem istniejącego budynku magazynowego H oraz budynku G wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PCO S.A.",
+"nier": "Nowaka-Jeziorańskiego 28 / Jana",
+"dz": "146507_8 0521 4/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "122/21"
+}
+},
+{
+"d": "2021-05-17",
+"c": {
+"inw": "Budowa budynku produkcyjnego I z pozostawieniem istniejącego budynku magazynowego H oraz budynku G wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PCO S.A.",
+"nier": "Nowaka-Jeziorańskiego 28 / Jana",
+"dz": "146507_8 0521 4/36",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "122/21"
+}
+},
+{
+"d": "2021-05-17",
+"c": {
+"inw": "BUDOWA BUDYNKU MIESZKALNEO JEDNORODZINNEGO DWULOKALOWEGO budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Chłopickiego 24 / Józefa",
+"dz": "146507_8 0405 181",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "120/21"
+}
+},
+{
+"d": "2021-05-10",
+"c": {
+"inw": "Przebudowa oraz zmiana użytkownika najniższej kondygnacji budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Osiecka 44A",
+"dz": "146507_8 0509 140/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "117/21"
+}
+},
+{
+"d": "2021-05-10",
+"c": {
+"inw": "Przebudowa oraz zmiana użytkownika najniższej kondygnacji budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Osiecka 44A",
+"dz": "146507_8 0509 141",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "117/21"
+}
+},
+{
+"d": "2021-05-07",
+"c": {
+"inw": "usunięcie kolizji lini kablowych SN 15 kV wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Innogy stoen Operator Sp. z o.o.",
+"nier": "Fieldorfa \"Nila\" / gen. Augusta Emila",
+"dz": "146507_8 0607 2/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "115/21"
+}
+},
+{
+"d": "2021-05-06",
+"c": {
+"inw": "przebudowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Międzyborska 109",
+"dz": "146507_8 0532 60",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "113/21"
+}
+},
+{
+"d": "2021-05-05",
+"c": {
+"inw": "Nadbudowa budynku mieszkalnego znajdującego się od frontu działki oraz przebudowa budynku mieszkalnego znajdującego się w głębi działki wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Olszynki Grochowskiej 33",
+"dz": "146507_8 0416 158",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "111/21"
+}
+},
+{
+"d": "2021-04-30",
+"c": {
+"inw": "przebudowa i remont wraz ze zmianą sopsobu użytkowania poddasz budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Poselska 12",
+"dz": "146507_8 0108 108",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "110/21"
+}
+},
+{
+"d": "2021-04-29",
+"c": {
+"inw": "Przebudowa wejścia w budynku mieszkalnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Genewska 17",
+"dz": "146507_8 0115 36",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "109/21"
+}
+},
+{
+"d": "2021-04-28",
+"c": {
+"inw": "budowa budynku garażu wolnostojącego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Igańska 7",
+"dz": "146507_8 0513 18",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "108/21"
+}
+},
+{
+"d": "2021-04-27",
+"c": {
+"inw": "Przebudowa pomieszczeń I piętra budynku szpitalnego \"A\" dla potrzeb Oddziału Dermatologii wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Szpital Dziecięcy Samodzielny Publiczny Zakład Opieki Zdrowotnej Niekłańska 4/24",
+"nier": "Niekłańska 4/24",
+"dz": "146507_8 0110 81",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "107/21"
+}
+},
+{
+"d": "2021-04-22",
+"c": {
+"inw": "przebudowa otworu drzwiowego w ścianie korytarzowej budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Plac Przymierza 6",
+"dz": "146507_8 0113 11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "99/21"
+}
+},
+{
+"d": "2021-04-22",
+"c": {
+"inw": "przebudowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Walecznych 70",
+"nier": "Walecznych 70",
+"dz": "146507_8 0110 44",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "102/21"
+}
+},
+{
+"d": "2021-04-22",
+"c": {
+"inw": "Budowa kontenera magazynowego przy pawilonie stacji paliw NR 680 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polski Koncern Naftowy ORLEN S.A.",
+"nier": "Wersalska 3",
+"dz": "146507_8 0115 59",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "100/21"
+}
+},
+{
+"d": "2021-04-22",
+"c": {
+"inw": "wykonanie otworu drzwiowego w ścianie nośnej pomiedzy lok 3 i 4 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Berezyńska 24",
+"dz": "146507_8 0103 207",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "101/21"
+}
+},
+{
+"d": "2021-04-21",
+"c": {
+"inw": "rozbudowa budynku mieszkalnego jednorodzinnego w zabudowie szeregowej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Szczawnicka 12 c",
+"dz": "146507_8 0513 42",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "98/21"
+}
+},
+{
+"d": "2021-04-20",
+"c": {
+"inw": "Przebudowa lokali usługowych z przeznaczeniem na przedszkole zlokalizowanych w parterze budynku mieszkalnego wielorodzinnego z usługami wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Przedsiębiorstwo Budowlane Konstanty Strus",
+"nier": "Chrzanowskiego 14 / Wojciecha",
+"dz": "146507_8 0211 9/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "96/21"
+}
+},
+{
+"d": "2021-04-20",
+"c": {
+"inw": "Rozbiórka napowietrznej sieci elektroenergetycznej WN-110kV(słupów linii napowietrznej rozbiórka istniejącego obiektu budowlanego",
+"wn": "Innogy Stoen Operator Sp. z o.o.",
+"nier": "Siennicka",
+"dz": "146507_8 0211 2/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "95/21"
+}
+},
+{
+"d": "2021-04-20",
+"c": {
+"inw": "Rozbiórka napowietrznej sieci elektroenergetycznej WN-110kV(słupów linii napowietrznej rozbiórka istniejącego obiektu budowlanego",
+"wn": "Innogy Stoen Operator Sp. z o.o.",
+"nier": "Siennicka",
+"dz": "146507_8 0211 3/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "95/21"
+}
+},
+{
+"d": "2021-04-20",
+"c": {
+"inw": "Rozbiórka napowietrznej sieci elektroenergetycznej WN-110kV(słupów linii napowietrznej rozbiórka istniejącego obiektu budowlanego",
+"wn": "Innogy Stoen Operator Sp. z o.o.",
+"nier": "Siennicka",
+"dz": "146507_8 0211 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "95/21"
+}
+},
+{
+"d": "2021-04-20",
+"c": {
+"inw": "Rozbiórka napowietrznej sieci elektroenergetycznej WN-110kV(słupów linii napowietrznej rozbiórka istniejącego obiektu budowlanego",
+"wn": "Innogy Stoen Operator Sp. z o.o.",
+"nier": "Siennicka",
+"dz": "146507_8 0211 5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "95/21"
+}
+},
+{
+"d": "2021-04-20",
+"c": {
+"inw": "Rozbiórka napowietrznej sieci elektroenergetycznej WN-110kV(słupów linii napowietrznej rozbiórka istniejącego obiektu budowlanego",
+"wn": "Innogy Stoen Operator Sp. z o.o.",
+"nier": "Siennicka",
+"dz": "146507_8 0211 12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "95/21"
+}
+},
+{
+"d": "2021-04-20",
+"c": {
+"inw": "Rozbiórka napowietrznej sieci elektroenergetycznej WN-110kV(słupów linii napowietrznej rozbiórka istniejącego obiektu budowlanego",
+"wn": "Innogy Stoen Operator Sp. z o.o.",
+"nier": "Siennicka",
+"dz": "146507_8 0211 13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "95/21"
+}
+},
+{
+"d": "2021-04-20",
+"c": {
+"inw": "Rozbiórka napowietrznej sieci elektroenergetycznej WN-110kV(słupów linii napowietrznej rozbiórka istniejącego obiektu budowlanego",
+"wn": "Innogy Stoen Operator Sp. z o.o.",
+"nier": "Siennicka",
+"dz": "146507_8 0211 14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "95/21"
+}
+},
+{
+"d": "2021-04-20",
+"c": {
+"inw": "Rozbiórka napowietrznej sieci elektroenergetycznej WN-110kV(słupów linii napowietrznej rozbiórka istniejącego obiektu budowlanego",
+"wn": "Innogy Stoen Operator Sp. z o.o.",
+"nier": "Siennicka",
+"dz": "146507_8 0211 15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "95/21"
+}
+},
+{
+"d": "2021-04-20",
+"c": {
+"inw": "Rozbiórka napowietrznej sieci elektroenergetycznej WN-110kV(słupów linii napowietrznej rozbiórka istniejącego obiektu budowlanego",
+"wn": "Innogy Stoen Operator Sp. z o.o.",
+"nier": "Siennicka",
+"dz": "146507_8 0211 91",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "95/21"
+}
+},
+{
+"d": "2021-04-19",
+"c": {
+"inw": "przebudowa npomieszczeń dla potrzeb instalacji angiografu w łączniku na I pietrze wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wojskowy Instytut Medyczny",
+"nier": "Szaserów 128",
+"dz": "146507_8 0403 8/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "94/21"
+}
+},
+{
+"d": "2021-04-19",
+"c": {
+"inw": "Przebudowa polegająca na zmianie części dachu na dwa tarasy w budynku mieszkalnym wielorodzinnym z usługami oraz garażem podziemnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "DEVELIA S.A.",
+"nier": "Podskarbińska",
+"dz": "146507_8 0211 8/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "93/21"
+}
+},
+{
+"d": "2021-04-13",
+"c": {
+"inw": "Przebudowa wraz ze zmianą sposobu użytkowania lokalu U5 na Przychodnię Lekarską wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Sonofem Sp. z o.o.",
+"nier": "Ateńska 10",
+"dz": "146507_8 0123 3/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "91/21"
+}
+},
+{
+"d": "2021-04-12",
+"c": {
+"inw": "budowa wewnętrznej instalacji gazowej  w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Perkuna",
+"dz": "146507_8 0523 42/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "90/21"
+}
+},
+{
+"d": "2021-04-09",
+"c": {
+"inw": "powiększenie otworów okiennych w ścianie szczytowej w celu montazudrzwi tarasowych w szregowym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Witwickiego 6 / Władysława",
+"dz": "146507_8 0607 12/42",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "87/21"
+}
+},
+{
+"d": "2021-04-07",
+"c": {
+"inw": "budowa fragmentu ulicy Żupniczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "LEGIC KOMPANIA IMPORTOWA DÓBR LUKSUSOWYCH SP. Z O.O.",
+"nier": "Żupnicza",
+"dz": "146507_8 0203 11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "85/21"
+}
+},
+{
+"d": "2021-03-31",
+"c": {
+"inw": "Prace remontowe w mieszkaniu nr 5(wymiana okien, renowacja drzwi wejściowych, wprowadzanie jednostki klimatyzacji na dach budynku). wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Francuska 28",
+"dz": "146507_8 0109 3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "80/21"
+}
+},
+{
+"d": "2021-03-31",
+"c": {
+"inw": "Docieplenie elewacji wraz z remontem balkonów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Zamieniecka 79",
+"dz": "146507_8 0508 26",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "83/21"
+}
+},
+{
+"d": "2021-03-30",
+"c": {
+"inw": "Remont z przebudową istniejącej instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Budowlano-Mieszkaniowa",
+"nier": "Lotaryńska 22,22A,24,26",
+"dz": "146507_8 0122 8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "81/21"
+}
+},
+{
+"d": "2021-03-30",
+"c": {
+"inw": "Budynek szkolnictwa wyższego dom studencki z lokalem usługowym w parterze oraz garażem na parterze wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "M40 So. z o.o.",
+"nier": "Mińska 40",
+"dz": "146507_8 0206 94",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "78/21"
+}
+},
+{
+"d": "2021-03-24",
+"c": {
+"inw": "Budowa przyłącza i automatyka węzła cieplnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Grenadierów 44B",
+"dz": "146507_8 0501 28/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "74/21"
+}
+},
+{
+"d": "2021-03-24",
+"c": {
+"inw": "Budowa przyłącza i automatyka węzła cieplnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Grenadierów 44B",
+"dz": "146507_8 0501 24",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "74/21"
+}
+},
+{
+"d": "2021-03-24",
+"c": {
+"inw": "Budowa i automatyka przyłącza sieci ciepłowniczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Grenadierów 46A",
+"dz": "146507_8 0501 28/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "75/21"
+}
+},
+{
+"d": "2021-03-24",
+"c": {
+"inw": "Budowa i automatyka przyłącza sieci ciepłowniczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Grenadierów 46A",
+"dz": "146507_8 0501 22",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "75/21"
+}
+},
+{
+"d": "2021-03-24",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych,szeregowych jednorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Marokańska",
+"dz": "146507_8 0124 46/4",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "76/21"
+}
+},
+{
+"d": "2021-03-23",
+"c": {
+"inw": "zmiana sposobu uzytkowania lokali biurowych  z likwidacja dwóch biegów nie ewakuacyjnej klatki schodowej o przebudową na lokale mieszkalne w wielorodzinnym budynku mieszkalnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Koorporacja SEDPOL Sp. zo.o.",
+"nier": "Czapelska 38",
+"dz": "146507_8 0505 6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "73/21"
+}
+},
+{
+"d": "2021-03-23",
+"c": {
+"inw": "zmiana sposobu uzytkowania lokali biurowych  z likwidacja dwóch biegów nie ewakuacyjnej klatki schodowej o przebudową na lokale mieszkalne w wielorodzinnym budynku mieszkalnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Koorporacja SEDPOL Sp. zo.o.",
+"nier": "Czapelska 38",
+"dz": "146507_8 0505 7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "73/21"
+}
+},
+{
+"d": "2021-03-23",
+"c": {
+"inw": "zmiana sposobu uzytkowania lokali biurowych  z likwidacja dwóch biegów nie ewakuacyjnej klatki schodowej o przebudową na lokale mieszkalne w wielorodzinnym budynku mieszkalnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Koorporacja SEDPOL Sp. zo.o.",
+"nier": "Czapelska 38",
+"dz": "146507_8 0505 8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "73/21"
+}
+},
+{
+"d": "2021-03-22",
+"c": {
+"inw": "budowa instalacji gazu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Zawierciańska 3",
+"dz": "146507_8 0713 74",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "72/21"
+}
+},
+{
+"d": "2021-03-22",
+"c": {
+"inw": "Przebudowa robudowa pomieszczeń Kliniki Endokrynologii i Terapii Izotopowej w rejonioe budynku Nr 18 na terenie Wojskowego Instytutu Medycznego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wojskowy Instytut Medyczny",
+"nier": "Szaserów 128",
+"dz": "146507_8 0403 8/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "70/21"
+}
+},
+{
+"d": "2021-03-18",
+"c": {
+"inw": "Budowa budynku przedszkola i żłobka budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Praga-Południe",
+"nier": "Meissnera 8B / Janusza",
+"dz": "146507_8 0603 30",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "69/21"
+}
+},
+{
+"d": "2021-03-18",
+"c": {
+"inw": "projekt rozbiórki budynku o funkcji produkcyjno-usługowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "BJM Development S.C.",
+"nier": "Abrahama 1A / gen. Romana",
+"dz": "146507_8 0604 20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "68/21"
+}
+},
+{
+"d": "2021-03-09",
+"c": {
+"inw": "przebudowa pomieszczeń oddziału szybkiej diagnostyki w bloku na IV pietrze wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wojskowy Instytut Medyczny",
+"nier": "Szaserów 128",
+"dz": "146507_8 0403 8/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "58/21"
+}
+},
+{
+"d": "2021-03-09",
+"c": {
+"inw": "Rozbiórka budynku jednorodzinnego i budynku usługowego, budowa budynku mieszkalnego wielorodzinnego wraz z garażem podziemnym,kotłownią i instalacją gazową wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "LX INVESTMENT Sp. z o.o. Sp.K.",
+"nier": "Czechowicka 21",
+"dz": "146507_8 0713 16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "60/21"
+}
+},
+{
+"d": "2021-03-09",
+"c": {
+"inw": "przebudowa pomieszczeń kliniki Neurologicznej w bloku -3 i łączniku E2/3 na III piętrze wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wojskowy Instytut Medyczny",
+"nier": "Szaserów 128",
+"dz": "146507_8 0403 8/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "57/21"
+}
+},
+{
+"d": "2021-03-09",
+"c": {
+"inw": "Przebudowa pomieszczeń w budynku głównym Szpitala w bloku E1 na III piętrze dla potrzeb Centrum Wspierania Badań Klinicznych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wojskowy Instytut Medyczny w Warszawie",
+"nier": "Szaserów 128",
+"dz": "146507_8 0403 8/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "59/21"
+}
+},
+{
+"d": "2021-03-04",
+"c": {
+"inw": "Przebudowa elewacji polegająca na powiększeniu istniejącego okna w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Łotewska 14",
+"dz": "146507_8 0103 40/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "51/21"
+}
+},
+{
+"d": "2021-03-04",
+"c": {
+"inw": "Połączenie mieszkań nr 8 i 9 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Walecznych 45",
+"dz": "146507_8 0104 179",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "52/21"
+}
+},
+{
+"d": "2021-03-01",
+"c": {
+"inw": "Budynek usługowy z garażem podziemnym i naziemnym infrastrukturą techniczną i zagospodarowaniem terenu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "KREATOR DOM INVESTORS Sp. z o.o. Sp. K.",
+"nier": "Bliska 17",
+"dz": "146507_8 0205 7/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "45/21"
+}
+},
+{
+"d": "2021-03-01",
+"c": {
+"inw": "Przebudowa szybu dźwigowego w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia mieszkaniowa Gocław - Lotnisko",
+"nier": "Umińskiego 7 / Władysława",
+"dz": "146507_8 0606 17/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "47/21"
+}
+},
+{
+"d": "2021-03-01",
+"c": {
+"inw": "Przebudowa szybu dźwigowego w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa Gocław- Lotnisko",
+"nier": "Umińskiego 5 / Władysława",
+"dz": "146507_8 0606 17/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "46/21"
+}
+},
+{
+"d": "2021-02-25",
+"c": {
+"inw": "budynek apartamentów hotelowych z usługami i garażem podziemnym oraz infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Omulewska",
+"dz": "146507_8 0508 3/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "44/21"
+}
+},
+{
+"d": "2021-02-24",
+"c": {
+"inw": "rozbiórka 6 budynków przemysłowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "VICTORIA DOM S.A.",
+"nier": "Żupnicza",
+"dz": "146507_8 0203 3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "42/21"
+}
+},
+{
+"d": "2021-02-22",
+"c": {
+"inw": "budynek wielorodzinny z garażem na poziomie parteru budowa nowego/nowych obiektów budowlanych",
+"wn": "NATI HOME Sp. z o.o. Sp. K.",
+"nier": "Wiarusów 10",
+"dz": "146507_8 0415 51",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "40/21"
+}
+},
+{
+"d": "2021-02-22",
+"c": {
+"inw": "rozbudowa i przebudowa pracowni rezonansu magnetycznego wraz z wyposażeniem ,budynnek nr 514 rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Wojskowy Instytut Medyczny",
+"nier": "Szaserów 128",
+"dz": "146507_8 0403 8/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "38/21"
+}
+},
+{
+"d": "2021-02-22",
+"c": {
+"inw": "Rozbiórka kominów i pozostałości ścian na granicy działki(po budynkach gospodarczych) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "NATI HOME Sp. z o.o. Sp.K.",
+"nier": "Wiarusów 10",
+"dz": "146507_8 0415 51",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/21"
+}
+},
+{
+"d": "2021-02-22",
+"c": {
+"inw": "nadbudowa o jedną kondygnację,przebudowa i rozbudowa budynku mieszkalnego wielorodzinnego projekt zamienny nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Międzyborska 113",
+"dz": "146507_8 0532 58",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/21"
+}
+},
+{
+"d": "2021-02-22",
+"c": {
+"inw": "nadbudowa o jedną kondygnację,przebudowa i rozbudowa budynku mieszkalnego wielorodzinnego projekt zamienny nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Międzyborska 113",
+"dz": "146507_8 0532 57/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/21"
+}
+},
+{
+"d": "2021-02-18",
+"c": {
+"inw": "rozbudowa i przebudowa placówki żłobka nr 31,orzebudowa przyłącza instalacji gazowej oraz przebudowa infrastruktury technicznej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Zespół Żłobków m.st Warszawy",
+"nier": "Motorowa 5",
+"dz": "146507_8 0525 8/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "37/21"
+}
+},
+{
+"d": "2021-02-18",
+"c": {
+"inw": "Przebudowa lokalu budynku handlowo-usługowo-rekreacyjnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "OPAL JEWEL Sp. z o.o.",
+"nier": "41",
+"dz": "146507_8 0521 4/69",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "36/21"
+}
+},
+{
+"d": "2021-02-18",
+"c": {
+"inw": "Przebudowa lokalu budynku handlowo-usługowo-rekreacyjnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "OPAL JEWEL Sp. z o.o.",
+"nier": "41",
+"dz": "146507_8 0521 4/71",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "36/21"
+}
+},
+{
+"d": "2021-02-04",
+"c": {
+"inw": "Budowa stacji bazowej -zespołu urządzeń telefonii komórkowej PLAY NR WAR2321D wraz z przyłączem elektroenergetycznym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "P4 Sp. z o.o.",
+"nier": "Walecznych 7",
+"dz": "146507_8 0103 190",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "31/21"
+}
+},
+{
+"d": "2021-02-03",
+"c": {
+"inw": "Budynek mieszkalny wielorodzinny z usługami w poziomie parteru i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Gomagała Nieruchomości Sp. z o.o.",
+"nier": "Igańska 2",
+"dz": "146507_8 0507 82/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "29/21"
+}
+},
+{
+"d": "2021-02-01",
+"c": {
+"inw": "Przebudowa budynku mieszkalnego wraz ze zmianą użytkowania części pomieszczenia na przedszkole i klub dziecięcy oraz rozbudowa tarasu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Bora-Komorowskiego 18A / gen. Tadeusza",
+"dz": "146507_8 0606 12/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "24/21"
+}
+},
+{
+"d": "2021-02-01",
+"c": {
+"inw": "budowa 24 budynków jednorodzinnych wolnostojących dwulokalowych,infrasrruktury technicznej oraz wew. układu drogowego budowa nowego/nowych obiektów budowlanych",
+"wn": "ARCHE S.A.",
+"nier": "Bysławska",
+"dz": "146514_8 1435 33/7",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "25/21"
+}
+},
+{
+"d": "2021-02-01",
+"c": {
+"inw": "budowa 24 budynków jednorodzinnych wolnostojących dwulokalowych,infrasrruktury technicznej oraz wew. układu drogowego budowa nowego/nowych obiektów budowlanych",
+"wn": "ARCHE S.A.",
+"nier": "Bysławska",
+"dz": "146514_8 1435 38/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "25/21"
+}
+},
+{
+"d": "2021-02-01",
+"c": {
+"inw": "budowa 24 budynków jednorodzinnych wolnostojących dwulokalowych,infrasrruktury technicznej oraz wew. układu drogowego budowa nowego/nowych obiektów budowlanych",
+"wn": "ARCHE S.A.",
+"nier": "Bysławska",
+"dz": "146514_8 1435 29/5",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "25/21"
+}
+},
+{
+"d": "2021-01-25",
+"c": {
+"inw": "W budynku mieszkalnym wielorodzinnym projekt instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Groszowicka 7",
+"dz": "146507_8 0207 36",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "23/21"
+}
+},
+{
+"d": "2021-01-25",
+"c": {
+"inw": "przebudowa i remont -projekt zamienny wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakłąd Gospodarowania Nieruchomościami",
+"nier": "Lubelska 30/32",
+"dz": "146507_8 0201 21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "22/21"
+}
+},
+{
+"d": "2021-01-19",
+"c": {
+"inw": "wykonanie otworu drzwiowego w ścianie konstrukcyjnej lokalu mieszkalnego nr 37 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "4",
+"dz": "146507_8 0604 6/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "18/21"
+}
+},
+{
+"d": "2021-01-19",
+"c": {
+"inw": "remont i ocieplenie budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Budowlano-Mieszkaniowa,, Przy ulicy Dobrowoja,,",
+"nier": "Dobrowoja 12",
+"dz": "146507_8 0501 60",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "20/21"
+}
+},
+{
+"d": "2021-01-19",
+"c": {
+"inw": "rozbiórka budynku przedszkola nr 384 rozbiórka istniejącego obiektu budowlanego",
+"wn": "URZĄD M.ST.WARSZAWY DZIELNICA PRAGA-POŁUDNIE",
+"nier": "Meissnera 8 b / Janusza",
+"dz": "146507_8 0609 30",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "17/21"
+}
+},
+{
+"d": "2021-01-19",
+"c": {
+"inw": "rozbiórka budynku przedszkola nr 384 rozbiórka istniejącego obiektu budowlanego",
+"wn": "URZĄD M.ST.WARSZAWY DZIELNICA PRAGA-POŁUDNIE",
+"nier": "Meissnera 8 b / Janusza",
+"dz": "146507_8 0609 36/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "17/21"
+}
+},
+{
+"d": "2021-01-18",
+"c": {
+"inw": "rozbudowa i przebudowa budynku jednorodzinnego w zabudowie szeregowej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Wąchocka 5",
+"dz": "146507_8 0112 133",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "15/21"
+}
+},
+{
+"d": "2021-01-18",
+"c": {
+"inw": "przebudowa sieci wodociągowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "Genewska",
+"dz": "146507_8 0112 90/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "16/21"
+}
+},
+{
+"d": "2021-01-18",
+"c": {
+"inw": "przebudowa sieci wodociągowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "Genewska",
+"dz": "146507_8 0112 90/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "16/21"
+}
+},
+{
+"d": "2021-01-18",
+"c": {
+"inw": "przebudowa sieci wodociągowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "Genewska",
+"dz": "146507_8 0112 91",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "16/21"
+}
+},
+{
+"d": "2021-01-15",
+"c": {
+"inw": "budynek mieszkalny wielorodzinny z garażem podziemnym z infrastrukturą towarzyszącą budowa nowego/nowych obiektów budowlanych",
+"wn": "FORFOUR Sp.z o.o.",
+"nier": "Frycza Modrzewskiego 25 / Andrzeja",
+"dz": "146507_8 0201 38",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "14/21"
+}
+},
+{
+"d": "2021-01-15",
+"c": {
+"inw": "Remont obejmujący wzmocnienie konstrukcji stropu nad II piętrem wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Zaliwskiego 16",
+"nier": "Zaliwskiego 16 / Józefa",
+"dz": "146507_8 0413 23",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "12/21"
+}
+},
+{
+"d": "2021-01-11",
+"c": {
+"inw": "budowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Obrońców 16",
+"dz": "146507_8 0108 92",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "6/21"
+}
+},
+{
+"d": "2021-01-11",
+"c": {
+"inw": "Budowa instalacji gazowej dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Obarowska 22",
+"dz": "146507_8 0409 15",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "5/21"
+}
+},
+{
+"d": "2021-01-11",
+"c": {
+"inw": "Budowa instalacji gazowej dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Obarowska 22",
+"dz": "146507_8 0409 16",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "5/21"
+}
+},
+{
+"d": "2021-01-08",
+"c": {
+"inw": "termomodernizacja  budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prawosławne Seminarium Duchowne",
+"nier": "Paryska 27",
+"dz": "146507_8 0112 215",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "4/21"
+}
+},
+{
+"d": "2021-01-04",
+"c": {
+"inw": "montaż urządzenia technicznego na dachu budynku wraz z remontem pomieszczenia nr 424 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PIT RADWAR S.A",
+"nier": "Poligonowa 30",
+"dz": "146507_8 0521 4/42",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "1/21"
+}
+},
+{
+"d": "2021-01-04",
+"c": {
+"inw": "przebudowa instalacji wentylacji grawitacyjnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "S.M ,,Osowska ,,",
+"nier": "Szaserów 115",
+"dz": "146507_8 0408 7/26",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "2/21"
+}
+}
+]
+}
+]
+}

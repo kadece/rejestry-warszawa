@@ -1,0 +1,356 @@
+{
+"district": "ochota",
+"year": 2026,
+"generated": "2026-11-24T21:22:48+01:00",
+"total": 24,
+"registers": [
+{
+"id": "wn_pnb",
+"name": "Wnioski o pozwolenie na budowę",
+"short": "Wnioski PnB",
+"desc": "Wnioski o pozwolenie na budowę złożone do organu architektoniczno-budowlanego dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer wniosku",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2026-06-26",
+"c": {
+"inw": "Przebudowa otworu okiennego w ścianie osłonowej budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Szczęśliwicka 74",
+"dz": "146506_8 0303 10/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EDOR/176931/26"
+}
+},
+{
+"d": "2026-06-18",
+"c": {
+"inw": "PRZEBUDOWA I REMONT BUDYNKU OŚRODKA KULTURY OCHOTYzwiązany z poprawą funkcjonalności orazz dostępności dla osób ze szczególnymi potrzebami, w tym osób niepełnosprawnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "OŚRODEK KULTURY OCHOTA",
+"nier": "Grójecka 75",
+"dz": "146506_8 0208 25",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EDOR/169619/26"
+}
+},
+{
+"d": "2026-06-18",
+"c": {
+"inw": "PRZEBUDOWA I REMONT BUDYNKU OŚRODKA KULTURY OCHOTYzwiązany z poprawą funkcjonalności orazz dostępności dla osób ze szczególnymi potrzebami, w tym osób niepełnosprawnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "OŚRODEK KULTURY OCHOTA",
+"nier": "Grójecka 75",
+"dz": "146506_8 0208 25",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EDOR/169619/26"
+}
+},
+{
+"d": "2026-05-28",
+"c": {
+"inw": "przebudowa dwóch lokali mieszkalnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Sas-Vanzi",
+"nier": "Raszyńska 52",
+"dz": "146506_8 0205 53",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.53.2026.MKA"
+}
+},
+{
+"d": "2026-05-19",
+"c": {
+"inw": "przebudowa ścian konstrukcyjnych i remont okien w lokalu mieszkkalnym nr 19 w budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Filtrowa 59",
+"dz": "146506_8 0105 48",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.43.2026.MKA"
+}
+},
+{
+"d": "2026-04-17",
+"c": {
+"inw": "przebudowa lokalu mieszkalnego numer 15 z dostosowaniem dla osób niepełnosprawnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawskie Centrum Pomocy Rodzinie",
+"nier": "Aleje Jerozolimskie 99",
+"dz": "146506_8 0102 17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-wAB.6740.33.2026.MKA"
+}
+},
+{
+"d": "2026-01-20",
+"c": {
+"inw": "przebudowa komory ciepłowniczej R-2 w rejonie ul. Nowogrodzkiej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "",
+"dz": "146506_8 0102 10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.4.2026.AKO"
+}
+},
+{
+"d": "2026-01-08",
+"c": {
+"inw": "budowa budynku stacji elektroenergetycznej 15 kV RSM ORZESZKOWA budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "Orzeszkowej 3 / Elizy",
+"dz": "146506_8 0307 6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.1.2026.ALW"
+}
+},
+{
+"d": "2026-01-08",
+"c": {
+"inw": "budowa budynku stacji elektroenergetycznej 15 kV RSM ORZESZKOWA budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "Orzeszkowej 3 / Elizy",
+"dz": "146506_8 0307 6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.1.2026.ALW"
+}
+}
+]
+},
+{
+"id": "dec_pnb",
+"name": "Decyzje o pozwoleniu na budowę",
+"short": "Decyzje PnB",
+"desc": "Decyzje o pozwoleniu na budowę wydane przez organ architektoniczno-budowlany dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer decyzji",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2026-10-23",
+"c": {
+"inw": "przebudowa dwóch lokali mieszkalnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Sas-Vanzi",
+"nier": "Raszyńska 52",
+"dz": "146506_8 0205 53",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "60/OCH/PB/2026"
+}
+},
+{
+"d": "2026-10-14",
+"c": {
+"inw": "PRZEBUDOWA I REMONT BUDYNKU OŚRODKA KULTURY OCHOTYzwiązany z poprawą funkcjonalności orazz dostępności dla osób ze szczególnymi potrzebami, w tym osób niepełnosprawnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "OŚRODEK KULTURY OCHOTA",
+"nier": "Grójecka 75",
+"dz": "146506_8 0208 25",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "57/OCH/PB/2026"
+}
+},
+{
+"d": "2026-10-14",
+"c": {
+"inw": "PRZEBUDOWA I REMONT BUDYNKU OŚRODKA KULTURY OCHOTYzwiązany z poprawą funkcjonalności orazz dostępności dla osób ze szczególnymi potrzebami, w tym osób niepełnosprawnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "OŚRODEK KULTURY OCHOTA",
+"nier": "Grójecka 75",
+"dz": "146506_8 0208 25",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "57/OCH/PB/2026"
+}
+},
+{
+"d": "2026-10-06",
+"c": {
+"inw": "przebudowa ścian konstrukcyjnych i remont okien w lokalu mieszkkalnym nr 19 w budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Filtrowa 59",
+"dz": "146506_8 0105 48",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "53/OCH/PB/2026"
+}
+},
+{
+"d": "2026-09-10",
+"c": {
+"inw": "Przebudowa otworu okiennego w ścianie osłonowej budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Szczęśliwicka 74",
+"dz": "146506_8 0303 10/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "52/OCH/PB/2026"
+}
+},
+{
+"d": "2026-07-03",
+"c": {
+"inw": "przebudowa lokalu mieszkalnego numer 15 z dostosowaniem dla osób niepełnosprawnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawskie Centrum Pomocy Rodzinie",
+"nier": "Aleje Jerozolimskie 99",
+"dz": "146506_8 0102 17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/OCH/PB/2026"
+}
+},
+{
+"d": "2026-06-25",
+"c": {
+"inw": "Nadbudowa części budynku wielorodzinnego, 7 kondygnacyjnego, położonego przy ul. Lutniowej 25 w Warszawie (na działce ew. nr 77/1 obręb 2-03-19) w obrysie tarasu lokalu mieszkalnego nr 1 położonego na 2 kondygnacji (1 piętrze) polegającej na montażu oranżerii nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Miami Labs sp. z o.o.",
+"nier": "Lutniowa 25",
+"dz": "146506_8 0319 77/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 36/OCH/PB/2026"
+}
+},
+{
+"d": "2026-04-15",
+"c": {
+"inw": "przebudowa stropu dwóch lokali mieszkalnych (zlokalizowanych w budynku mieszkalnym wielorodzinnym z częścia usługową w cześci parteru) polegajaca na wykonaniu otworu i ich połaczeniu wewnętrzną komunikacją pionową wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Mołdawska 12",
+"dz": "146506_8 0321 12/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "25/OCH/PB/2026"
+}
+},
+{
+"d": "2026-03-25",
+"c": {
+"inw": "budowa stacji tlenu dla Stacji Uzdatniania Wody ,,Filtry'' budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociagów i Kanalizacji w m.st.Warszawa",
+"nier": "Koszykowa 81",
+"dz": "146506_8 0103 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "22/OCH/PB/2026"
+}
+},
+{
+"d": "2026-03-25",
+"c": {
+"inw": "przebudowa komory ciepłowniczej R-2 w rejonie ul. Nowogrodzkiej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "",
+"dz": "146506_8 0102 10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "23/OCH/PB/2026"
+}
+},
+{
+"d": "2026-03-05",
+"c": {
+"inw": "budowa budynku stacji elektroenergetycznej 15 kV RSM ORZESZKOWA budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "Orzeszkowej 3 / Elizy",
+"dz": "146506_8 0307 6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "18/OCH/PB/2026"
+}
+},
+{
+"d": "2026-03-05",
+"c": {
+"inw": "budowa budynku stacji elektroenergetycznej 15 kV RSM ORZESZKOWA budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "Orzeszkowej 3 / Elizy",
+"dz": "146506_8 0307 6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "18/OCH/PB/2026"
+}
+},
+{
+"d": "2026-02-18",
+"c": {
+"inw": "przebudowa, rozbudowa i nadbudowa budynku mieskzalnego jednorodzinnego w celu wydzielenia dwóch lokali mieszkalnych wraz z zagospodarowaniem terenu rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "26",
+"dz": "146506_8 0319 59",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "15/OCH/PB/2026"
+}
+},
+{
+"d": "2026-02-18",
+"c": {
+"inw": "przebudowa, rozbudowa i nadbudowa budynku mieszkalnego jednorodzinnego w celu wydzielenia dwóch lokali mieszkalnych wraz z zagospodarowaniem terenu nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Lutniowa 26",
+"dz": "146506_8 0319 59",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "15/OCH/PB/2026"
+}
+},
+{
+"d": "2026-02-17",
+"c": {
+"inw": "przebudowa ze zmianą sposobu użytkowania pomieszczeń nieużytkowych na magazyn wyposażenia i sprzętu laboratoryjnego na poziomie -1 w budynku Wydziału Fizyki Uniwersytetu Warszawskiego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersytet Warszawski",
+"nier": "",
+"dz": "146506_8 0209 18/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "14/OCH/PB/2026"
+}
+}
+]
+}
+]
+}

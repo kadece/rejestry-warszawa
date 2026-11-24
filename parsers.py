@@ -12,6 +12,7 @@ Układ arkuszy różni się między dzielnicami i rocznikami:
   * kolejność kolumn zmienia się między latami.
 Dlatego nagłówek znajdujemy po treści, a kolumny mapujemy po nazwach.
 """
+import ssl
 import datetime as dt
 import os
 import re
@@ -24,6 +25,11 @@ try:
     import pdfplumber
 except ImportError:                                    # pragma: no cover
     pdfplumber = None
+
+try:
+    import xlrd                                       # stare rejestry .xls
+except ImportError:                                    # pragma: no cover
+    xlrd = None
 
 UA = ('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 '
       '(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36')
@@ -152,7 +158,37 @@ def read_matrix(path):
     return _read_xlsx(path)
 
 
+def _read_xls(path):
+    """Stare, jednoplatformowe .xls-y (xlrd)."""
+    if xlrd is None:
+        raise RuntimeError('brak xlrd — nie mogę czytać .xls')
+    book = xlrd.open_workbook(path)
+    ws = book.sheet_by_index(0)
+    rows = []
+    for r in range(ws.nrows):
+        vals = []
+        for c in range(ws.ncols):
+            if ws.cell_type(r, c) == xlrd.XL_CELL_DATE:
+                try:
+                    d = xlrd.xldate_as_datetime(ws.cell_value(r, c),
+                                                 book.datemode)
+                    vals.append(d.strftime('%Y-%m-%d'))
+                    continue
+                except Exception:
+                    pass
+            v = ws.cell_value(r, c)
+            if isinstance(v, float) and v == int(v):
+                v = int(v)
+            vals.append(clean(str(v) if v != '' else ''))
+        rows.append(vals)
+    book.release_resources()
+    return rows
+
+
 def _read_xlsx(path):
+    ext = os.path.splitext(path)[1].lower()
+    if ext in ('.xls', '.xlt'):
+        return _read_xls(path)
     wb = openpyxl.load_workbook(path, data_only=True)
     ws = wb.worksheets[0]
     rows = []
@@ -180,11 +216,22 @@ def find_header(rows, hint=1):
     """Zwraca (indeks wiersza nagłówka, offset kolumny 'Lp.').
 
     Szuka po treści, bo urząd zmienia numer wiersza między rocznikami.
+    Część plików nie ma wcale kolumny „Lp.” — wtedy szukamy wiersza,
+    który wygląda na nagłówek tabeli (kilka etykiet i znane nazwy kolumn).
     """
     for r, row in enumerate(rows[:25]):
         for c, v in enumerate(row[:6]):
             if v and RE_LP.match(v.strip()):
                 return r, c
+    for r, row in enumerate(rows[:25]):
+        vals = [fold((v or '').strip().lower()) for v in row[:8]]
+        if sum(1 for v in vals if v) < 3:
+            continue
+        joined = ' | '.join(vals)
+        if ('nr decyzji' in joined or 'znak sprawy' in joined
+                or 'nr i data' in joined or 'numer i data' in joined
+                or ('wniosek' in joined and 'data' in joined)):
+            return r, 0
     return hint - 1, 0
 
 
@@ -194,6 +241,9 @@ def build_headers(rows, header_row, offset):
     Przykład (Praga-Północ 2021):
         Lp. | Nr decyzji i data jej wydania | | Nazwa wnioskodawcy | ...
             | nr                          | data (rrrr-mm-dd) | ...
+    Scalamy tylko, gdy w pierwszym wierszu są puste komórki (i drugi
+    wiersz to nie dane) — w nagłówku jednowierszowym (mokotowskie
+    „Nr decyzji i data jej wydania …”) niczego nie domyślamy się.
     """
     width = max(len(r) for r in rows[header_row:header_row + 2]) - offset
     width = max(width, 1)
@@ -206,7 +256,7 @@ def build_headers(rows, header_row, offset):
     first = slice_row(header_row)
     merged = list(first)
     nxt = header_row + 1
-    if nxt < len(rows):
+    if nxt < len(rows) and any(not v for v in first):
         second = slice_row(nxt)
         if (not is_numbering_row(second)
                 and not (second and RE_LP_VALUE.match(second[0] or ''))):
@@ -223,20 +273,33 @@ def map_by_header(headers):
     for i, h in enumerate(headers):
         if not h:
             continue
-        if 'nr decyzji' in h or 'znak sprawy' in h or h == 'nr':
+        if ('data' in h and ('nr' in h or 'numer' in h or 'wplyw' in h
+                             or 'wydania' in h)):
+            # „Numer i data wpływu wniosku”, „Nr decyzji i data jej wydania” —
+            # znak i data zlepione w jednej komórce (mokotowskie .xls 2018+)
+            m.setdefault('nrdata', i)
+        elif 'nr decyzji' in h or 'znak sprawy' in h or h == 'nr' \
+                or h == 'wniosek':
             m.setdefault('nr', i)
-        elif h.startswith('data'):
+        elif h.startswith('data') or h.endswith('data') or h == 'data':
             m.setdefault('data', i)
-        elif 'nazwa wnioskodawcy' in h:
+        elif 'wnioskodawc' in h:
             m.setdefault('wn', i)
         elif 'streszczenie' in h:
             m.setdefault('inw', i)
-        elif 'nazwa inwestycji' in h:
+        elif ('nazwa inwestycji' in h or 'rodzaj inwestycji' in h
+              or h == 'opis'):
             m.setdefault('inw', i)
-        elif 'oznaczenie nieruchomosci (ulica' in h or 'adres inwestycji' in h:
+        elif ('oznaczenie nieruchomosci' in h and 'ulica' in h) \
+                or 'adres inwestycji' in h or h == 'ulica' \
+                or 'teren inw' in h:
             m.setdefault('nier', i)
-        elif 'oznaczenie nieruchomosci (nr dzialki' in h:
+        elif ('oznaczenie nieruchomosci' in h and 'dz' in h) or 'obreb' in h:
             m.setdefault('dz', i)
+        elif 'oznaczenie nieruchomosci' in h:
+            m.setdefault('dz', i)                  # scalona komórka lokalizacji
+        elif h.startswith('nr i data'):          # scalone „Nr i data decyzji”
+            m.setdefault('nr', i)
     return m
 
 
@@ -265,9 +328,15 @@ def parse_matrix(rows, cfg):
     else:
         colmap = {key: col - 1 - offset for key, col, _l, _w in cfg['cols']}
         date_idx = cfg['date'] - 1 - offset
+    # „03.01.2018 1/WZ/MOK/2018” — data i znak zlepione w jednej komórce
+    nd = colmap.pop('nrdata', None)
 
     out = []
     started = False
+    # Niektóre PDF-y (np. mokotowskie rejestry decyzji) w ogóle nie mają
+    # kolumny „Lp.” — wtedy akceptujemy każdy wiersz z treścią (śmieci
+    # i numeracje kolumn odrzucamy jak zwykle).
+    has_lp = bool(headers) and re.match(r'^l\s*\.?\s*p\s*\.?$', headers[0] or '', re.I)
     for row in rows[data_start:]:
         vals = [(row[offset + i] if offset + i < len(row) else '')
                 for i in range(len(headers))]
@@ -278,10 +347,13 @@ def parse_matrix(rows, cfg):
         # tę komórkę — numer widnieje tylko w pierwszym wierszu, a kolejne
         # mają puste Lp. Dlatego po pierwszym numerowanym wierszu
         # akceptujemy też wiersze z pustym Lp. (o ile mają treść).
-        if RE_LP_VALUE.match(vals[0] or ''):
-            started = True
-        elif not (started and not (vals[0] or '').strip()
-                  and sum(1 for v in vals if v) >= 2):
+        if has_lp or not headers:
+            if RE_LP_VALUE.match(vals[0] or ''):
+                started = True
+            elif not (started and not (vals[0] or '').strip()
+                      and sum(1 for v in vals if v) >= 2):
+                continue
+        elif sum(1 for v in vals if v) < 2:
             continue
 
         cells = {}
@@ -295,10 +367,23 @@ def parse_matrix(rows, cfg):
             continue
 
         iso = None
+        nr_date = None
+        if nd is not None and nd < len(vals):
+            raw = vals[nd]
+            dm = RE_DMY.search(raw) or RE_YMD.search(raw)
+            if dm:
+                nr_date = dm.group(0)
+                nr = (raw[:dm.start()] + raw[dm.end():]).strip(' ,;.-')
+                if raw != nr and not cells.get('nr'):
+                    cells['nr'] = nr
+            elif raw and not cells.get('nr'):
+                cells['nr'] = raw
         if date_idx is not None and date_idx < len(vals):
             iso = parse_date(vals[date_idx])
-        if iso and int(iso[:4]) < 2000:
-            iso = None                                # numeracja kolumn jako data
+        if iso is None and nr_date:
+            iso = parse_date(nr_date)
+        if iso and not (2000 <= int(iso[:4]) <= 2100):
+            iso = None                    # numeracja kolumn albo literówka urzędu
 
         out.append({'d': iso, 'c': cells})
 
@@ -313,7 +398,17 @@ def parse_matrix(rows, cfg):
 # --------------------------------------------------------------------------
 
 
-def fetch(url, referer, timeout=90):
+def ssl_context(verify_ssl=True):
+    """Kontekst SSL domyślnie weryfikujący; z flagą — bez weryfikacji."""
+    if verify_ssl:
+        return ssl.create_default_context()
+    ctx = ssl.create_default_context()
+    ctx.check_hostname = False
+    ctx.verify_mode = ssl.CERT_NONE
+    return ctx
+
+
+def fetch(url, referer, timeout=90, verify_ssl=True):
     req = urllib.request.Request(url, headers={
         'User-Agent': UA,
         'Accept-Language': 'pl-PL,pl;q=0.9,en;q=0.8',
@@ -321,12 +416,13 @@ def fetch(url, referer, timeout=90):
         # CDN m.st. Warszawy odrzuca żądania bez Referer (HTTP 403)
         'Referer': referer,
     })
-    with urllib.request.urlopen(req, timeout=timeout) as r:
+    with urllib.request.urlopen(req, timeout=timeout,
+                                context=ssl_context(verify_ssl)) as r:
         return r.read()
 
 
-def download(url, dest, referer):
-    data = fetch(url, referer, timeout=180)
+def download(url, dest, referer, verify_ssl=True):
+    data = fetch(url, referer, timeout=180, verify_ssl=verify_ssl)
     os.makedirs(os.path.dirname(dest), exist_ok=True)
     with open(dest, 'wb') as f:
         f.write(data)

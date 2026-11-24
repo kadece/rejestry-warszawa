@@ -1,12 +1,13 @@
 #!/usr/bin/env bash
-# Aktualizacja rejestrów Ursusa i Pragi-Północ.
-#
-# Tylko te dwie dzielnice wymagają własnej maszyny — serwery GitHuba
-# dostają od *.um.warszawa.pl HTTP 403. Pozostałe 16 dzielnic buduje
-# workflow w .github/workflows/update.yml prosto z pliku GUNB.
+# Aktualizacja dzielnic serwisowych: Bemowo, Śródmieście, Wawer,
+# Ursus, Praga-Północ, Mokotów, Targówek i Wilanów — czyli tych,
+# których rejestry WZ/ICP bierzemy ze stron dzielnic
+# (um.warszawa.pl zwraca serwerom GitHuba HTTP 403).
+# Dzielnice pozostałe buduje z GUNB workflow w .github/workflows/
+# update.yml — nie nadpisuj ich pełnym buildem.
 #
 # Użycie:
-#   ./update.sh              # Ursus + Praga-Północ
+#   ./update.sh              # wszystkie dzielnice serwisowe
 #   ./update.sh ursus        # jedna dzielnica (do testów)
 set -euo pipefail
 
@@ -14,8 +15,21 @@ cd "$(dirname "$0")"
 
 PY="${PYTHON:-python3}"
 
+# katalogi danych dzielnic serwisowych — zgadzają się z DISTRICTS
+# w build.py (wpisy z site=...)
+SITE_DISTRICTS=(
+    "bemowo"
+    "srodmiescie"
+    "wawer"
+    "ursus"
+    "praga-polnoc"
+    "mokotow"
+    "targowek"
+    "wilanow"
+)
+
 echo "== zależności =="
-"$PY" -m pip install --quiet --upgrade openpyxl pdfplumber
+"$PY" -m pip install --quiet --upgrade openpyxl pdfplumber xlrd
 
 echo
 echo "== pobieranie i parsowanie =="
@@ -29,7 +43,11 @@ echo
 echo "== porządki =="
 rm -rf __pycache__ districts/__pycache__
 
-git add site/data/ursus site/data/praga-polnoc site/data/index.json
+git add $(
+    for dist in "${SITE_DISTRICTS[@]}"; do
+        echo "site/data/$dist"
+    done
+) site/data/index.json
 
 if git diff --cached --quiet; then
     echo "== brak zmian w danych — nic nie commituję =="
@@ -41,7 +59,7 @@ git diff --cached --stat | tail -n 8
 
 git -c user.name="rejestry-bot" \
     -c user.email="rejestry-bot@users.noreply.github.com" \
-    commit -m "Aktualizacja Ursus i Praga-Północ $(date +%Y-%m-%d)"
+    commit -m "Aktualizacja dzielnic serwisowych $(date +%Y-%m-%d)"
 git push
 
 echo

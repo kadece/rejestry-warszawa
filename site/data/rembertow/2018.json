@@ -1,0 +1,2842 @@
+{
+"district": "rembertow",
+"year": 2018,
+"generated": "2026-11-24T21:23:06+01:00",
+"total": 250,
+"registers": [
+{
+"id": "wn_pnb",
+"name": "Wnioski o pozwolenie na budowę",
+"short": "Wnioski PnB",
+"desc": "Wnioski o pozwolenie na budowę złożone do organu architektoniczno-budowlanego dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer wniosku",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2018-12-27",
+"c": {
+"inw": "instalacja gazu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Przedświt 6",
+"dz": "146509_8 0050 109/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.203.2018 JKA"
+}
+},
+{
+"d": "2018-12-17",
+"c": {
+"inw": "instalacja gazowa ul. Pielgrzymów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Pielgrzymów",
+"dz": "146509_8 0920 61/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.199.2018 JKA"
+}
+},
+{
+"d": "2018-12-17",
+"c": {
+"inw": "instalacja gazowa ul. Pielgrzymów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Pielgrzymów",
+"dz": "146509_8 0920 70/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.199.2018 JKA"
+}
+},
+{
+"d": "2018-12-17",
+"c": {
+"inw": "instalacja gazowa ul. Pielgrzymów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Pielgrzymów",
+"dz": "146509_8 0920 70/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.199.2018 JKA"
+}
+},
+{
+"d": "2018-12-10",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Villa-Bub",
+"nier": "Zawodowa 1",
+"dz": "146509_8 0917 262",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.195.2018 JKA"
+}
+},
+{
+"d": "2018-11-23",
+"c": {
+"inw": "remont elewacji budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Akademia Sztuki Wojennej",
+"nier": "Pontonierów 2",
+"dz": "146509_8 2128 2/167",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.188.2018 BMA"
+}
+},
+{
+"d": "2018-11-20",
+"c": {
+"inw": "instalacja gazowa budowa nowego/nowych obiektów budowlanych",
+"wn": "Toscany Invest",
+"nier": "Strażacka 114",
+"dz": "146509_8 0925 106/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.186.2018 BMA"
+}
+},
+{
+"d": "2018-11-20",
+"c": {
+"inw": "instalacja gazowa budowa nowego/nowych obiektów budowlanych",
+"wn": "Toscany Invest",
+"nier": "Strażacka 114",
+"dz": "146509_8 0925 106/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.186.2018 BMA"
+}
+},
+{
+"d": "2018-11-14",
+"c": {
+"inw": "instalacja gazowa dla budynku jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Czwartaków 73A",
+"dz": "146509_8 0907 34/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.184.2018 BMA"
+}
+},
+{
+"d": "2018-11-13",
+"c": {
+"inw": "przebudowa budynku magazynowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Republikańska 24A",
+"dz": "146509_8 0928 61/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.182.2018 BMA"
+}
+},
+{
+"d": "2018-11-08",
+"c": {
+"inw": "budowa sieci elektroenergetycznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polenergia",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0802 1/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.181.2018 JKA"
+}
+},
+{
+"d": "2018-11-08",
+"c": {
+"inw": "budowa sieci elektroenergetycznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polenergia",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0802 1/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.181.2018 JKA"
+}
+},
+{
+"d": "2018-10-30",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Listonoszy 34",
+"dz": "146509_8 0914 34",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.176.2018 BMA"
+}
+},
+{
+"d": "2018-10-17",
+"c": {
+"inw": "instalacja gazu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kordiana",
+"dz": "146509_8 0920 60/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.167.2018 BMA"
+}
+},
+{
+"d": "2018-10-17",
+"c": {
+"inw": "instalacja gazu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kordiana",
+"dz": "146509_8 0920 60/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.167.2018 BMA"
+}
+},
+{
+"d": "2018-10-17",
+"c": {
+"inw": "instalacja gazu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kordiana",
+"dz": "146509_8 0920 61/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.167.2018 BMA"
+}
+},
+{
+"d": "2018-10-17",
+"c": {
+"inw": "instalacja gazu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kordiana",
+"dz": "146509_8 0920 61/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.167.2018 BMA"
+}
+},
+{
+"d": "2018-10-15",
+"c": {
+"inw": "namiot halowy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Mokry Ług",
+"dz": "146509_8 0901 8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.166.2018 JKA"
+}
+},
+{
+"d": "2018-10-11",
+"c": {
+"inw": "budowa sieci gazowej  ul. Pilarzy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PSG Sp z o.o.",
+"nier": "Pilarzy",
+"dz": "146509_8 0917 174/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.165.2018 BMA"
+}
+},
+{
+"d": "2018-10-11",
+"c": {
+"inw": "budowa sieci gazowej  ul. Pilarzy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PSG Sp z o.o.",
+"nier": "Pilarzy",
+"dz": "146509_8 0917 293",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.165.2018 BMA"
+}
+},
+{
+"d": "2018-10-11",
+"c": {
+"inw": "budowa sieci gazowej  ul. Pilarzy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PSG Sp z o.o.",
+"nier": "Pilarzy",
+"dz": "146509_8 0917 50/22",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.165.2018 BMA"
+}
+},
+{
+"d": "2018-10-11",
+"c": {
+"inw": "budowa sieci gazowej  ul. Pilarzy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PSG Sp z o.o.",
+"nier": "Pilarzy",
+"dz": "146509_8 0917 50/23",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.165.2018 BMA"
+}
+},
+{
+"d": "2018-10-05",
+"c": {
+"inw": "budowa kontenerowej kotłowni olejowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Park Leśny Rembertów",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0802 1/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.162.2018 BMA"
+}
+},
+{
+"d": "2018-09-18",
+"c": {
+"inw": "nadbudowa istniejącego budynku nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Czwartaków 131",
+"dz": "146509_8 0908 38",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.152.2018 BMA"
+}
+},
+{
+"d": "2018-09-17",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kacpury 28 / Antoniego",
+"dz": "146509_8 0047 31",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.151.2018 JKA"
+}
+},
+{
+"d": "2018-09-12",
+"c": {
+"inw": "sieć kanalizacji sanitarnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Standard Development (Jerzy Walczuk)",
+"nier": "Kordiana 57",
+"dz": "146509_8 0920 57",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD.VIII.WAB.6740.149.2018 BMA"
+}
+},
+{
+"d": "2018-08-29",
+"c": {
+"inw": "budowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Roty 12",
+"dz": "146509_8 0919 3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.140.2018 BMA"
+}
+},
+{
+"d": "2018-08-29",
+"c": {
+"inw": "budowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Babie Lato 9",
+"dz": "146509_8 0074 55/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.139.2018 JKA"
+}
+},
+{
+"d": "2018-08-17",
+"c": {
+"inw": "przebudowa i zmiana sposobu użytkowania wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Akademia Sztuki Wojennej",
+"nier": "Pontonierów 2",
+"dz": "146509_8 2128 2/188",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.136.2018 BMA"
+}
+},
+{
+"d": "2018-08-14",
+"c": {
+"inw": "projekt zamienny zagospodarowania terenu do projektu typowego domu mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Giermków 53",
+"dz": "146509_8 0077 78",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD.VIII.WAB.6740.134.2018 BMA"
+}
+},
+{
+"d": "2018-08-10",
+"c": {
+"inw": "dom jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Ilskiego 49 / Franciszka",
+"dz": "146509_8 0048 50",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD.VIII.WAB.6740.131.2018 JKA"
+}
+},
+{
+"d": "2018-08-06",
+"c": {
+"inw": "zmiany do projektu budynku produkcyjno - magazynowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Chełmżyńska 180H",
+"dz": "146509_8 0805 96/73",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.122.2018 BMA"
+}
+},
+{
+"d": "2018-08-02",
+"c": {
+"inw": "budowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Zawodowa 3A",
+"dz": "146509_8 0917 109/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.120.2018 BMA"
+}
+},
+{
+"d": "2018-08-02",
+"c": {
+"inw": "budowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Zawodowa 3A",
+"dz": "146509_8 0917 109/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.120.2018 BMA"
+}
+},
+{
+"d": "2018-08-02",
+"c": {
+"inw": "przebudowa wew. instalacji gazu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Zawodowa 3",
+"dz": "146509_8 0917 109/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.119.2018 BMA"
+}
+},
+{
+"d": "2018-07-19",
+"c": {
+"inw": "budowa chodnika na części działki ew.nr 270 z obrębu 3-21-28 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "",
+"dz": "146509_8 2128 270",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.116.2018 BMA"
+}
+},
+{
+"d": "2018-07-18",
+"c": {
+"inw": "wykonanie instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Puszkarzy 31",
+"dz": "146509_8 0906 43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.114.2018 JKA"
+}
+},
+{
+"d": "2018-07-17",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Buchalteryjna 22",
+"dz": "146509_8 0914 22",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.115.2018 BMA"
+}
+},
+{
+"d": "2018-07-16",
+"c": {
+"inw": "rozbiórka budynek mieszkalny jednorodzinny rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Kacpury 23 / Antoniego",
+"dz": "146509_8 0048 35",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-WAB-VIII.6741.6.2018 BMA"
+}
+},
+{
+"d": "2018-07-09",
+"c": {
+"inw": "budynek jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Masztalerska",
+"dz": "146509_8 0916 40/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.110.18 BMA"
+}
+},
+{
+"d": "2018-06-26",
+"c": {
+"inw": "przebudowa, zmiana sposobu użytkowania wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CK INVESTMENTS",
+"nier": "Zawiszaków 21",
+"dz": "146509_8 0925 31",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.107.2018 BMA"
+}
+},
+{
+"d": "2018-06-18",
+"c": {
+"inw": "rozbiórka domu jednorodzinnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Witolda 22 / Księcia",
+"dz": "146509_8 0077 136",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD.VIII.WAB.6741.5.2018 BMA"
+}
+},
+{
+"d": "2018-06-07",
+"c": {
+"inw": "Budowa ul. Zesłańców Polskich na odcinku ul. Dziewiarska -ul. Strażacka  w Warszawie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent m.st. Warszawy",
+"nier": "Zesłańców Polskich",
+"dz": "146509_8 0919 1/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.113.2018 BMA"
+}
+},
+{
+"d": "2018-06-07",
+"c": {
+"inw": "Budowa ul. Zesłańców Polskich na odcinku ul. Dziewiarska -ul. Strażacka  w Warszawie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent m.st. Warszawy",
+"nier": "Zesłańców Polskich",
+"dz": "146509_8 0911 21/37",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.113.2018 BMA"
+}
+},
+{
+"d": "2018-06-07",
+"c": {
+"inw": "Budowa ul. Zesłańców Polskich na odcinku ul. Dziewiarska -ul. Strażacka  w Warszawie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent m.st. Warszawy",
+"nier": "Zesłańców Polskich",
+"dz": "146509_8 0916 1/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.113.2018 BMA"
+}
+},
+{
+"d": "2018-06-07",
+"c": {
+"inw": "Budowa ul. Zesłańców Polskich na odcinku ul. Dziewiarska -ul. Strażacka  w Warszawie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent m.st. Warszawy",
+"nier": "Zesłańców Polskich",
+"dz": "146509_8 0915 1/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.113.2018 BMA"
+}
+},
+{
+"d": "2018-06-04",
+"c": {
+"inw": "budynek mieszkalny jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Kordiana 12",
+"dz": "146509_8 0925 19",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.100.2018 KMA"
+}
+},
+{
+"d": "2018-05-30",
+"c": {
+"inw": "budowa kontenerów magazynowych i biurowo-socjalnych budowa nowego/nowych obiektów budowlanych",
+"wn": "Colas Polska",
+"nier": "Chełmżyńska 180L",
+"dz": "146509_8 0805 96/65",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.99.2018 JKA"
+}
+},
+{
+"d": "2018-05-28",
+"c": {
+"inw": "budowa hali magazynowej budowa nowego/nowych obiektów budowlanych",
+"wn": "P.P.H.U RAWSKI",
+"nier": "Chełmżyńska 249",
+"dz": "146509_8 0804 20/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.96.2018 JKA"
+}
+},
+{
+"d": "2018-05-28",
+"c": {
+"inw": "budowa hali magazynowej budowa nowego/nowych obiektów budowlanych",
+"wn": "P.P.H.U RAWSKI",
+"nier": "Chełmżyńska 249",
+"dz": "146509_8 0804 20/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.96.2018 JKA"
+}
+},
+{
+"d": "2018-05-28",
+"c": {
+"inw": "budowa hali magazynowej budowa nowego/nowych obiektów budowlanych",
+"wn": "P.P.H.U RAWSKI",
+"nier": "Chełmżyńska 249",
+"dz": "146509_8 0804 20/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.96.2018 JKA"
+}
+},
+{
+"d": "2018-05-28",
+"c": {
+"inw": "budowa hali magazynowej budowa nowego/nowych obiektów budowlanych",
+"wn": "P.P.H.U RAWSKI",
+"nier": "Chełmżyńska 249",
+"dz": "146509_8 0804 20/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.96.2018 JKA"
+}
+},
+{
+"d": "2018-05-28",
+"c": {
+"inw": "budowa hali magazynowej budowa nowego/nowych obiektów budowlanych",
+"wn": "P.P.H.U RAWSKI",
+"nier": "Chełmżyńska 249",
+"dz": "146509_8 0804 20/15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.96.2018 JKA"
+}
+},
+{
+"d": "2018-05-25",
+"c": {
+"inw": "rozbudowa drogi dojazdowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Park Leśny Rembertów",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0802 1/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.97.2018 KMA"
+}
+},
+{
+"d": "2018-05-25",
+"c": {
+"inw": "rozbudowa drogi dojazdowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Park Leśny Rembertów",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0802 1/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.97.2018 KMA"
+}
+},
+{
+"d": "2018-05-24",
+"c": {
+"inw": "budowa czterech budynkow jednorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Pielgrzymów",
+"dz": "146509_8 0920 61/5",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.98.2018 JKA"
+}
+},
+{
+"d": "2018-05-24",
+"c": {
+"inw": "budowa czterech budynkow jednorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Pielgrzymów",
+"dz": "146509_8 0920 72/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.98.2018 JKA"
+}
+},
+{
+"d": "2018-05-24",
+"c": {
+"inw": "budowa czterech budynkow jednorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Pielgrzymów",
+"dz": "146509_8 0920 72/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.98.2018 JKA"
+}
+},
+{
+"d": "2018-05-24",
+"c": {
+"inw": "budowa czterech budynkow jednorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Pielgrzymów",
+"dz": "146509_8 0920 70/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.98.2018 JKA"
+}
+},
+{
+"d": "2018-05-24",
+"c": {
+"inw": "budowa czterech budynkow jednorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Pielgrzymów",
+"dz": "146509_8 0920 70/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.98.2018 JKA"
+}
+},
+{
+"d": "2018-05-08",
+"c": {
+"inw": "rozbudowa budynku handlowo-mieszkalnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Paderewskiego 130 / Ignacego",
+"dz": "146509_8 0907 16/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.80.2018 KMA"
+}
+},
+{
+"d": "2018-05-08",
+"c": {
+"inw": "rozbudowa budynku handlowo-mieszkalnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Paderewskiego 130 / Ignacego",
+"dz": "146509_8 0907 56",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.80.2018 KMA"
+}
+},
+{
+"d": "2018-05-08",
+"c": {
+"inw": "rozbudowa budynku handlowo-mieszkalnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Paderewskiego 130 / Ignacego",
+"dz": "146509_8 0907 20/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.80.2018 KMA"
+}
+},
+{
+"d": "2018-05-08",
+"c": {
+"inw": "rozbudowa budynku handlowo-mieszkalnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Paderewskiego 130 / Ignacego",
+"dz": "146509_8 0907 21/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.80.2018 KMA"
+}
+},
+{
+"d": "2018-04-25",
+"c": {
+"inw": "budowa instalacji gazowej w budynku jednorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Barlickiego 2 / Norberta",
+"dz": "146509_8 0077 52",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.73.2018 BMA"
+}
+},
+{
+"d": "2018-04-23",
+"c": {
+"inw": "budowa studni głębinowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Urząd m.st. Warszawy",
+"nier": "Gawędziarzy 24",
+"dz": "146509_8 0922 54/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.69.2018 JKA"
+}
+},
+{
+"d": "2018-04-23",
+"c": {
+"inw": "budowa studni głębinowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Urząd m.st. Warszawy",
+"nier": "Gawędziarzy 24",
+"dz": "146509_8 0922 81",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.69.2018 JKA"
+}
+},
+{
+"d": "2018-04-23",
+"c": {
+"inw": "budowa studni głębinowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Urząd m.st. Warszawy",
+"nier": "Gawędziarzy 24",
+"dz": "146509_8 0922 51",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.69.2018 JKA"
+}
+},
+{
+"d": "2018-04-23",
+"c": {
+"inw": "budowa instalacji gazowe do 2 budynków jednorodzinnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Bocheńskiego \"Dubańca\" 61 / Eugeniusza",
+"dz": "146509_8 0048 200",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.72.2018 BMA"
+}
+},
+{
+"d": "2018-04-20",
+"c": {
+"inw": "budowa instalacji gazowej dla budynku jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Puszkarzy",
+"dz": "146509_8 0908 31/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.70.2018 KMA"
+}
+},
+{
+"d": "2018-04-20",
+"c": {
+"inw": "rozbudowa z nadbudową bud. jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Puszkarzy 31",
+"dz": "146509_8 0906 43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.68.2018 JKA"
+}
+},
+{
+"d": "2018-04-16",
+"c": {
+"inw": "nadbudowa i rozbudowa budynku mieszkalnego jednorodzinnego nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Giermków 34",
+"dz": "146509_8 0077 89",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.61.2018 KMA"
+}
+},
+{
+"d": "2018-04-16",
+"c": {
+"inw": "zmiana decyzji o pozwoleniu na budowę wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "ZD Development Sp. Z o.o.",
+"nier": "Suflerska",
+"dz": "146509_8 0951 3/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.62.2018 BMA"
+}
+},
+{
+"d": "2018-03-29",
+"c": {
+"inw": "budynek mieszklany jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Ilskiego 64 / Franciszka",
+"dz": "146509_8 0048 160",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.54.2018 BMA"
+}
+},
+{
+"d": "2018-03-26",
+"c": {
+"inw": "budowa budynku gospodarczego z garażem budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Chełmżyńska 112C",
+"dz": "146509_8 0703 116",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.51.18 BMA"
+}
+},
+{
+"d": "2018-03-15",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Amałowicza \"Tatara\" 9 / mjr. Franciszka Michała",
+"dz": "146509_8 0051 63",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.46.18 JKA"
+}
+},
+{
+"d": "2018-03-15",
+"c": {
+"inw": "budowa czterech budynków jednorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Pielgrzymów",
+"dz": "146509_8 0920 61/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD.VIII.WAB.6740.47.18 JKA"
+}
+},
+{
+"d": "2018-03-15",
+"c": {
+"inw": "budowa czterech budynków jednorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Pielgrzymów",
+"dz": "146509_8 0920 72/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD.VIII.WAB.6740.47.18 JKA"
+}
+},
+{
+"d": "2018-03-15",
+"c": {
+"inw": "budowa czterech budynków jednorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Pielgrzymów",
+"dz": "146509_8 0920 72/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD.VIII.WAB.6740.47.18 JKA"
+}
+},
+{
+"d": "2018-03-15",
+"c": {
+"inw": "budowa czterech budynków jednorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Pielgrzymów",
+"dz": "146509_8 0920 70/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD.VIII.WAB.6740.47.18 JKA"
+}
+},
+{
+"d": "2018-03-07",
+"c": {
+"inw": "projekt budowlany 2 budynki mieszkalne jednorodzinne budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Szeroka",
+"dz": "146509_8 0704 68/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.42.2018 BMA"
+}
+},
+{
+"d": "2018-02-23",
+"c": {
+"inw": "budowa wew. instalacji gazowej dla budynku jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Giermków 23",
+"dz": "146509_8 0050 100",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Ud-VIII-WAB.6740.36.2018 BMA"
+}
+},
+{
+"d": "2018-02-22",
+"c": {
+"inw": "przebudowa gzymsu, remont elewacji wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Topograficzna 6",
+"dz": "146509_8 2128 258",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.31.18KMA"
+}
+},
+{
+"d": "2018-02-19",
+"c": {
+"inw": "rozbiórka  budynek garażowo-gospodarczy rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Stelmachów 22",
+"dz": "146509_8 0702 45/24",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6741.2.18BMA"
+}
+},
+{
+"d": "2018-02-19",
+"c": {
+"inw": "bud. jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Chełmżyńska 119",
+"dz": "146509_8 0704 17/15",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.35.18JKA"
+}
+},
+{
+"d": "2018-02-05",
+"c": {
+"inw": "budowa gazociągu ul. Strycharska, ul. Bombardierów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PSG",
+"nier": "Strycharska",
+"dz": "146509_8 0920 26",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD.VIII.WAB.6740.21.18 BMA"
+}
+},
+{
+"d": "2018-02-05",
+"c": {
+"inw": "budowa gazociągu ul. Strycharska, ul. Bombardierów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PSG",
+"nier": "Strycharska",
+"dz": "146509_8 0920 56/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD.VIII.WAB.6740.21.18 BMA"
+}
+},
+{
+"d": "2018-02-05",
+"c": {
+"inw": "budowa gazociągu ul. Strycharska, ul. Bombardierów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PSG",
+"nier": "Strycharska",
+"dz": "146509_8 0920 44/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD.VIII.WAB.6740.21.18 BMA"
+}
+},
+{
+"d": "2018-02-02",
+"c": {
+"inw": "kanalizacja deszczowa wraz z separatorem  oraz przepompownią wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Daka",
+"nier": "Strażacka 39B",
+"dz": "146509_8 0806 46/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.20.18BMA"
+}
+},
+{
+"d": "2018-02-02",
+"c": {
+"inw": "kanalizacja deszczowa wraz z separatorem  oraz przepompownią wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Daka",
+"nier": "Strażacka 39B",
+"dz": "146509_8 0806 46/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.20.18BMA"
+}
+},
+{
+"d": "2018-02-02",
+"c": {
+"inw": "stalowy namiot halowy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Strażacka 39B",
+"dz": "146509_8 0806 46/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.19.18 BMA"
+}
+},
+{
+"d": "2018-01-30",
+"c": {
+"inw": "budowa instalacji gazowej do budynku jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Szeroka 64",
+"dz": "146509_8 0706 78",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD.VIII.WAB.6740.17.18 JKA"
+}
+},
+{
+"d": "2018-01-30",
+"c": {
+"inw": "budowa gazociągu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polska Spółka Gazownictwa",
+"nier": "Mokry Ług",
+"dz": "146509_8 0902 30/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD.VIII.WAB.6740.18.18 JKA"
+}
+},
+{
+"d": "2018-01-30",
+"c": {
+"inw": "budowa gazociągu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polska Spółka Gazownictwa",
+"nier": "Mokry Ług",
+"dz": "146509_8 0902 29/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD.VIII.WAB.6740.18.18 JKA"
+}
+},
+{
+"d": "2018-01-30",
+"c": {
+"inw": "budowa gazociągu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polska Spółka Gazownictwa",
+"nier": "Mokry Ług",
+"dz": "146509_8 0902 29/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD.VIII.WAB.6740.18.18 JKA"
+}
+},
+{
+"d": "2018-01-29",
+"c": {
+"inw": "projekt rozbiórki obiektu gospodarczego oraz kompleksu budynków gospodarczo-magazynowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "Rugan Spółka Z.O.O.",
+"nier": "106",
+"dz": "146509_8 0925 70",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD.VIII.WAB.6741.1.18 BMA"
+}
+},
+{
+"d": "2018-01-29",
+"c": {
+"inw": "projekt rozbiórki obiektu gospodarczego oraz kompleksu budynków gospodarczo-magazynowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "Rugan Spółka Z.O.O.",
+"nier": "106",
+"dz": "146509_8 0925 71",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD.VIII.WAB.6741.1.18 BMA"
+}
+},
+{
+"d": "2018-01-24",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych jednorodzinnych dwulokalowych w zabudowie bliźniaczrj budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Paderewskiego / Ignacego",
+"dz": "146509_8 0912 39/10",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD.VIII.WAB.6740.13.18 BMA"
+}
+},
+{
+"d": "2018-01-24",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych jednorodzinnych dwulokalowych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146509_8 0912 39/9",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD.VIII.WAB.6740.14.18 BMA"
+}
+},
+{
+"d": "2018-01-22",
+"c": {
+"inw": "budowa budynku handlowo-usługowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Strażacka 135",
+"dz": "146509_8 0925 60/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD.VIII.WAB.6740.11.18 JKA"
+}
+},
+{
+"d": "2018-01-19",
+"c": {
+"inw": "budynek magazynowy z częścią biurowo-socjalną wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Total Market Holding",
+"nier": "Chełmżyńska 180E",
+"dz": "146509_8 0802 23/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.9.18 JKA"
+}
+},
+{
+"d": "2018-01-19",
+"c": {
+"inw": "budynek magazynowy z częścią biurowo-socjalną wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Total Market Holding",
+"nier": "Chełmżyńska 180E",
+"dz": "146509_8 0802 34",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.9.18 JKA"
+}
+},
+{
+"d": "2018-01-11",
+"c": {
+"inw": "przebudowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Urząd m.st.Warszawy",
+"nier": "Niepołomicka 26",
+"dz": "146509_8 0710 54/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.7.2018 BMA"
+}
+},
+{
+"d": "2018-01-11",
+"c": {
+"inw": "przebudowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Urząd m.st.Warszawy",
+"nier": "Niepołomicka 26",
+"dz": "146509_8 0710 55/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.7.2018 BMA"
+}
+},
+{
+"d": "2018-01-11",
+"c": {
+"inw": "przebudowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Urząd m.st.Warszawy",
+"nier": "Niepołomicka 26",
+"dz": "146509_8 0710 42/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.7.2018 BMA"
+}
+},
+{
+"d": "2018-01-11",
+"c": {
+"inw": "przebudowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Urząd m.st.Warszawy",
+"nier": "Niepołomicka 26",
+"dz": "146509_8 0710 28/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.7.2018 BMA"
+}
+},
+{
+"d": "2018-01-11",
+"c": {
+"inw": "przebudowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Urząd m.st.Warszawy",
+"nier": "Niepołomicka 26",
+"dz": "146509_8 0710 29/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.7.2018 BMA"
+}
+},
+{
+"d": "2018-01-11",
+"c": {
+"inw": "przebudowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Urząd m.st.Warszawy",
+"nier": "Niepołomicka 26",
+"dz": "146509_8 0710 20/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.7.2018 BMA"
+}
+},
+{
+"d": "2018-01-11",
+"c": {
+"inw": "przebudowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Urząd m.st.Warszawy",
+"nier": "Niepołomicka 26",
+"dz": "146509_8 0710 21/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.7.2018 BMA"
+}
+},
+{
+"d": "2018-01-10",
+"c": {
+"inw": "budowa ulicy Kramarskiej odc. ul.Paderewskiego-ul.Kadrowa (budowa drogi publicznej) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Kramarska",
+"dz": "146509_8 0906 13/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD.VIII.WAB.6740.10.18 BMA"
+}
+},
+{
+"d": "2018-01-10",
+"c": {
+"inw": "budowa ulicy Kramarskiej odc. ul.Paderewskiego-ul.Kadrowa (budowa drogi publicznej) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Kramarska",
+"dz": "146509_8 0906 13/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD.VIII.WAB.6740.10.18 BMA"
+}
+},
+{
+"d": "2018-01-10",
+"c": {
+"inw": "budowa ulicy Kramarskiej odc. ul.Paderewskiego-ul.Kadrowa (budowa drogi publicznej) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Kramarska",
+"dz": "146509_8 0906 13/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD.VIII.WAB.6740.10.18 BMA"
+}
+},
+{
+"d": "2018-01-10",
+"c": {
+"inw": "budowa ulicy Kramarskiej odc. ul.Paderewskiego-ul.Kadrowa (budowa drogi publicznej) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Kramarska",
+"dz": "146509_8 0906 14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD.VIII.WAB.6740.10.18 BMA"
+}
+},
+{
+"d": "2018-01-10",
+"c": {
+"inw": "budowa ulicy Kramarskiej odc. ul.Paderewskiego-ul.Kadrowa (budowa drogi publicznej) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Kramarska",
+"dz": "146509_8 0906 15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD.VIII.WAB.6740.10.18 BMA"
+}
+},
+{
+"d": "2018-01-10",
+"c": {
+"inw": "budowa ulicy Kramarskiej odc. ul.Paderewskiego-ul.Kadrowa (budowa drogi publicznej) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Kramarska",
+"dz": "146509_8 0906 38/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD.VIII.WAB.6740.10.18 BMA"
+}
+},
+{
+"d": "2018-01-10",
+"c": {
+"inw": "budowa ulicy Kramarskiej odc. ul.Paderewskiego-ul.Kadrowa (budowa drogi publicznej) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Kramarska",
+"dz": "146509_8 0907 7/18",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD.VIII.WAB.6740.10.18 BMA"
+}
+},
+{
+"d": "2018-01-10",
+"c": {
+"inw": "budowa ulicy Kramarskiej odc. ul.Paderewskiego-ul.Kadrowa (budowa drogi publicznej) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Kramarska",
+"dz": "146509_8 0907 1/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD.VIII.WAB.6740.10.18 BMA"
+}
+},
+{
+"d": "2018-01-10",
+"c": {
+"inw": "budowa ulicy Kramarskiej odc. ul.Paderewskiego-ul.Kadrowa (budowa drogi publicznej) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Kramarska",
+"dz": "146509_8 0907 7/28",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD.VIII.WAB.6740.10.18 BMA"
+}
+},
+{
+"d": "2018-01-10",
+"c": {
+"inw": "budowa ulicy Kramarskiej odc. ul.Paderewskiego-ul.Kadrowa (budowa drogi publicznej) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Kramarska",
+"dz": "146509_8 0907 1/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD.VIII.WAB.6740.10.18 BMA"
+}
+},
+{
+"d": "2018-01-10",
+"c": {
+"inw": "budowa ulicy Kramarskiej odc. ul.Paderewskiego-ul.Kadrowa (budowa drogi publicznej) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Kramarska",
+"dz": "146509_8 0907 2/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD.VIII.WAB.6740.10.18 BMA"
+}
+},
+{
+"d": "2018-01-10",
+"c": {
+"inw": "budowa ulicy Kramarskiej odc. ul.Paderewskiego-ul.Kadrowa (budowa drogi publicznej) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Kramarska",
+"dz": "146509_8 0907 7/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD.VIII.WAB.6740.10.18 BMA"
+}
+},
+{
+"d": "2018-01-10",
+"c": {
+"inw": "budowa ulicy Kramarskiej odc. ul.Paderewskiego-ul.Kadrowa (budowa drogi publicznej) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Kramarska",
+"dz": "146509_8 0907 7/27",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD.VIII.WAB.6740.10.18 BMA"
+}
+},
+{
+"d": "2018-01-10",
+"c": {
+"inw": "budowa ulicy Kramarskiej odc. ul.Paderewskiego-ul.Kadrowa (budowa drogi publicznej) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Kramarska",
+"dz": "146509_8 0905 15/22",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD.VIII.WAB.6740.10.18 BMA"
+}
+},
+{
+"d": "2018-01-10",
+"c": {
+"inw": "budowa ulicy Kramarskiej odc. ul.Paderewskiego-ul.Kadrowa (budowa drogi publicznej) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Kramarska",
+"dz": "146509_8 0905 50/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD.VIII.WAB.6740.10.18 BMA"
+}
+},
+{
+"d": "2018-01-10",
+"c": {
+"inw": "budowa ulicy Kramarskiej odc. ul.Paderewskiego-ul.Kadrowa (budowa drogi publicznej) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Kramarska",
+"dz": "146509_8 0905 53/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD.VIII.WAB.6740.10.18 BMA"
+}
+}
+]
+},
+{
+"id": "dec_pnb",
+"name": "Decyzje o pozwoleniu na budowę",
+"short": "Decyzje PnB",
+"desc": "Decyzje o pozwoleniu na budowę wydane przez organ architektoniczno-budowlany dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer decyzji",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2018-12-31",
+"c": {
+"inw": "budowa sieci gazowej  ul. Pilarzy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PSG Sp z o.o.",
+"nier": "Pilarzy",
+"dz": "146509_8 0917 174/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "256/2018"
+}
+},
+{
+"d": "2018-12-31",
+"c": {
+"inw": "budowa sieci gazowej  ul. Pilarzy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PSG Sp z o.o.",
+"nier": "Pilarzy",
+"dz": "146509_8 0917 293",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "256/2018"
+}
+},
+{
+"d": "2018-12-31",
+"c": {
+"inw": "budowa sieci gazowej  ul. Pilarzy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PSG Sp z o.o.",
+"nier": "Pilarzy",
+"dz": "146509_8 0917 50/22",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "256/2018"
+}
+},
+{
+"d": "2018-12-31",
+"c": {
+"inw": "budowa sieci gazowej  ul. Pilarzy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PSG Sp z o.o.",
+"nier": "Pilarzy",
+"dz": "146509_8 0917 50/23",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "256/2018"
+}
+},
+{
+"d": "2018-12-27",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Villa-Bub",
+"nier": "Zawodowa 1",
+"dz": "146509_8 0917 262",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "255/2018"
+}
+},
+{
+"d": "2018-12-21",
+"c": {
+"inw": "przebudowa budynku magazynowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Republikańska 24A",
+"dz": "146509_8 0928 61/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "253/2018"
+}
+},
+{
+"d": "2018-12-20",
+"c": {
+"inw": "nadbudowa istniejącego budynku nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Czwartaków 131",
+"dz": "146509_8 0908 38",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "250/2018"
+}
+},
+{
+"d": "2018-12-20",
+"c": {
+"inw": "remont elewacji budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Akademia Sztuki Wojennej",
+"nier": "Pontonierów 2",
+"dz": "146509_8 2128 2/167",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "252/2018"
+}
+},
+{
+"d": "2018-12-17",
+"c": {
+"inw": "instalacja gazowa dla budynku jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Czwartaków 73A",
+"dz": "146509_8 0907 34/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "244/2018"
+}
+},
+{
+"d": "2018-11-29",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Listonoszy 34",
+"dz": "146509_8 0914 34",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "236/2018"
+}
+},
+{
+"d": "2018-11-23",
+"c": {
+"inw": "budowa kontenerowej kotłowni olejowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Park Leśny Rembertów",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0802 1/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "233/2018"
+}
+},
+{
+"d": "2018-11-14",
+"c": {
+"inw": "budowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Roty 12",
+"dz": "146509_8 0919 3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "224/2018"
+}
+},
+{
+"d": "2018-11-09",
+"c": {
+"inw": "namiot halowy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Mokry Ług",
+"dz": "146509_8 0901 8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "222/2018"
+}
+},
+{
+"d": "2018-10-31",
+"c": {
+"inw": "projekt zamienny zagospodarowania terenu do projektu typowego domu mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Giermków 53",
+"dz": "146509_8 0077 78",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "218/2018"
+}
+},
+{
+"d": "2018-10-26",
+"c": {
+"inw": "instalacja gazu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kordiana",
+"dz": "146509_8 0920 60/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "210/2018"
+}
+},
+{
+"d": "2018-10-26",
+"c": {
+"inw": "instalacja gazu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kordiana",
+"dz": "146509_8 0920 60/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "210/2018"
+}
+},
+{
+"d": "2018-10-26",
+"c": {
+"inw": "instalacja gazu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kordiana",
+"dz": "146509_8 0920 61/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "210/2018"
+}
+},
+{
+"d": "2018-10-26",
+"c": {
+"inw": "instalacja gazu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kordiana",
+"dz": "146509_8 0920 61/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "210/2018"
+}
+},
+{
+"d": "2018-10-16",
+"c": {
+"inw": "przebudowa i zmiana sposobu użytkowania wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Akademia Sztuki Wojennej",
+"nier": "Pontonierów 2",
+"dz": "146509_8 2128 2/188",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "204/2018"
+}
+},
+{
+"d": "2018-10-16",
+"c": {
+"inw": "rozbiórka domu jednorodzinnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Witolda 22 / Księcia",
+"dz": "146509_8 0077 136",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "205/2018"
+}
+},
+{
+"d": "2018-10-01",
+"c": {
+"inw": "budowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Zawodowa 3A",
+"dz": "146509_8 0917 109/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "194/2018"
+}
+},
+{
+"d": "2018-10-01",
+"c": {
+"inw": "budowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Zawodowa 3A",
+"dz": "146509_8 0917 109/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "194/2018"
+}
+},
+{
+"d": "2018-10-01",
+"c": {
+"inw": "przebudowa wew. instalacji gazu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Zawodowa 3",
+"dz": "146509_8 0917 109/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "195/2018"
+}
+},
+{
+"d": "2018-09-28",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kacpury 28 / Antoniego",
+"dz": "146509_8 0047 31",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "190/2018"
+}
+},
+{
+"d": "2018-09-20",
+"c": {
+"inw": "zmiany do projektu budynku produkcyjno - magazynowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Chełmżyńska 180H",
+"dz": "146509_8 0805 96/73",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "185/2018"
+}
+},
+{
+"d": "2018-09-19",
+"c": {
+"inw": "przebudowa, zmiana sposobu użytkowania wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CK INVESTMENTS",
+"nier": "Zawiszaków 21",
+"dz": "146509_8 0925 31",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "179/2018"
+}
+},
+{
+"d": "2018-09-10",
+"c": {
+"inw": "rozbiórka budynek mieszkalny jednorodzinny rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Kacpury 23 / Antoniego",
+"dz": "146509_8 0048 35",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "175/2016"
+}
+},
+{
+"d": "2018-09-07",
+"c": {
+"inw": "dom jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Ilskiego 49 / Franciszka",
+"dz": "146509_8 0048 50",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "174/2018"
+}
+},
+{
+"d": "2018-09-04",
+"c": {
+"inw": "budowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Babie Lato 9",
+"dz": "146509_8 0074 55/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "167/2018"
+}
+},
+{
+"d": "2018-08-31",
+"c": {
+"inw": "rozbiórka pustostanu bez przyłączy rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "26",
+"dz": "146509_8 0921 105",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "166/2018"
+}
+},
+{
+"d": "2018-08-23",
+"c": {
+"inw": "Budowa ul. Zesłańców Polskich na odcinku ul. Dziewiarska -ul. Strażacka  w Warszawie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent m.st. Warszawy",
+"nier": "Zesłańców Polskich",
+"dz": "146509_8 0919 1/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "156/2018"
+}
+},
+{
+"d": "2018-08-23",
+"c": {
+"inw": "Budowa ul. Zesłańców Polskich na odcinku ul. Dziewiarska -ul. Strażacka  w Warszawie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent m.st. Warszawy",
+"nier": "Zesłańców Polskich",
+"dz": "146509_8 0911 21/37",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "156/2018"
+}
+},
+{
+"d": "2018-08-23",
+"c": {
+"inw": "Budowa ul. Zesłańców Polskich na odcinku ul. Dziewiarska -ul. Strażacka  w Warszawie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent m.st. Warszawy",
+"nier": "Zesłańców Polskich",
+"dz": "146509_8 0916 1/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "156/2018"
+}
+},
+{
+"d": "2018-08-23",
+"c": {
+"inw": "Budowa ul. Zesłańców Polskich na odcinku ul. Dziewiarska -ul. Strażacka  w Warszawie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent m.st. Warszawy",
+"nier": "Zesłańców Polskich",
+"dz": "146509_8 0915 1/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "156/2018"
+}
+},
+{
+"d": "2018-08-14",
+"c": {
+"inw": "wykonanie instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Puszkarzy 31",
+"dz": "146509_8 0906 43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "153/2018"
+}
+},
+{
+"d": "2018-08-08",
+"c": {
+"inw": "budowa hali magazynowej budowa nowego/nowych obiektów budowlanych",
+"wn": "P.P.H.U RAWSKI",
+"nier": "Chełmżyńska 249",
+"dz": "146509_8 0804 20/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "150/2018"
+}
+},
+{
+"d": "2018-08-08",
+"c": {
+"inw": "budowa hali magazynowej budowa nowego/nowych obiektów budowlanych",
+"wn": "P.P.H.U RAWSKI",
+"nier": "Chełmżyńska 249",
+"dz": "146509_8 0804 20/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "150/2018"
+}
+},
+{
+"d": "2018-08-08",
+"c": {
+"inw": "budowa hali magazynowej budowa nowego/nowych obiektów budowlanych",
+"wn": "P.P.H.U RAWSKI",
+"nier": "Chełmżyńska 249",
+"dz": "146509_8 0804 20/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "150/2018"
+}
+},
+{
+"d": "2018-08-08",
+"c": {
+"inw": "budowa hali magazynowej budowa nowego/nowych obiektów budowlanych",
+"wn": "P.P.H.U RAWSKI",
+"nier": "Chełmżyńska 249",
+"dz": "146509_8 0804 20/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "150/2018"
+}
+},
+{
+"d": "2018-08-08",
+"c": {
+"inw": "budowa hali magazynowej budowa nowego/nowych obiektów budowlanych",
+"wn": "P.P.H.U RAWSKI",
+"nier": "Chełmżyńska 249",
+"dz": "146509_8 0804 20/15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "150/2018"
+}
+},
+{
+"d": "2018-08-08",
+"c": {
+"inw": "rozbudowa budynku handlowo-mieszkalnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Paderewskiego 130 / Ignacego",
+"dz": "146509_8 0907 16/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "151/2018"
+}
+},
+{
+"d": "2018-08-08",
+"c": {
+"inw": "rozbudowa budynku handlowo-mieszkalnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Paderewskiego 130 / Ignacego",
+"dz": "146509_8 0907 56",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "151/2018"
+}
+},
+{
+"d": "2018-08-08",
+"c": {
+"inw": "rozbudowa budynku handlowo-mieszkalnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Paderewskiego 130 / Ignacego",
+"dz": "146509_8 0907 20/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "151/2018"
+}
+},
+{
+"d": "2018-08-08",
+"c": {
+"inw": "rozbudowa budynku handlowo-mieszkalnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Paderewskiego 130 / Ignacego",
+"dz": "146509_8 0907 21/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "151/2018"
+}
+},
+{
+"d": "2018-08-08",
+"c": {
+"inw": "rozbudowa drogi dojazdowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Park Leśny Rembertów",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0802 1/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "149/2018"
+}
+},
+{
+"d": "2018-08-08",
+"c": {
+"inw": "rozbudowa drogi dojazdowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Park Leśny Rembertów",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0802 1/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "149/2018"
+}
+},
+{
+"d": "2018-08-06",
+"c": {
+"inw": "budowa chodnika na części działki ew.nr 270 z obrębu 3-21-28 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "",
+"dz": "146509_8 2128 270",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "142/2018"
+}
+},
+{
+"d": "2018-08-03",
+"c": {
+"inw": "budynek mieszkalny jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Kordiana 12",
+"dz": "146509_8 0925 19",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "140/2018"
+}
+},
+{
+"d": "2018-08-03",
+"c": {
+"inw": "budowa kontenerów magazynowych i biurowo-socjalnych budowa nowego/nowych obiektów budowlanych",
+"wn": "Colas Polska",
+"nier": "Chełmżyńska 180L",
+"dz": "146509_8 0805 96/65",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "141/2018"
+}
+},
+{
+"d": "2018-07-26",
+"c": {
+"inw": "budowa budynku gospodarczego z garażem budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Chełmżyńska 112C",
+"dz": "146509_8 0703 116",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "135/2018"
+}
+},
+{
+"d": "2018-07-25",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Buchalteryjna 22",
+"dz": "146509_8 0914 22",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "134/2018"
+}
+},
+{
+"d": "2018-07-23",
+"c": {
+"inw": "bud. jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Chełmżyńska 119",
+"dz": "146509_8 0704 17/15",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "130/2018"
+}
+},
+{
+"d": "2018-07-18",
+"c": {
+"inw": "budowa instalacji gazowej dla budynku jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Puszkarzy",
+"dz": "146509_8 0908 31/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "129/2018"
+}
+},
+{
+"d": "2018-07-12",
+"c": {
+"inw": "nadbudowa i rozbudowa budynku mieszkalnego jednorodzinnego nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Giermków 34",
+"dz": "146509_8 0077 89",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "123/2018"
+}
+},
+{
+"d": "2018-07-12",
+"c": {
+"inw": "projekt budowlany 2 budynki mieszkalne jednorodzinne budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Szeroka",
+"dz": "146509_8 0704 68/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "122/2018"
+}
+},
+{
+"d": "2018-06-26",
+"c": {
+"inw": "budowa instalacji gazowe do 2 budynków jednorodzinnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Bocheńskiego \"Dubańca\" 61 / Eugeniusza",
+"dz": "146509_8 0048 200",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "110/2018"
+}
+},
+{
+"d": "2018-06-21",
+"c": {
+"inw": "budowa czterech budynkow jednorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Pielgrzymów",
+"dz": "146509_8 0920 61/5",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "108/2018"
+}
+},
+{
+"d": "2018-06-21",
+"c": {
+"inw": "budowa czterech budynkow jednorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Pielgrzymów",
+"dz": "146509_8 0920 72/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "108/2018"
+}
+},
+{
+"d": "2018-06-21",
+"c": {
+"inw": "budowa czterech budynkow jednorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Pielgrzymów",
+"dz": "146509_8 0920 72/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "108/2018"
+}
+},
+{
+"d": "2018-06-21",
+"c": {
+"inw": "budowa czterech budynkow jednorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Pielgrzymów",
+"dz": "146509_8 0920 70/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "108/2018"
+}
+},
+{
+"d": "2018-06-21",
+"c": {
+"inw": "budowa czterech budynkow jednorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Pielgrzymów",
+"dz": "146509_8 0920 70/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "108/2018"
+}
+},
+{
+"d": "2018-06-21",
+"c": {
+"inw": "przebudowa gzymsu, remont elewacji wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa",
+"nier": "Topograficzna 6",
+"dz": "146509_8 2128 258",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "109/2018"
+}
+},
+{
+"d": "2018-06-18",
+"c": {
+"inw": "budowa budynku handlowo-usługowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Strażacka 135",
+"dz": "146509_8 0925 60/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "100/2018"
+}
+},
+{
+"d": "2018-06-18",
+"c": {
+"inw": "rozbudowa z nadbudową bud. jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Puszkarzy 31",
+"dz": "146509_8 0906 43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "98/2018"
+}
+},
+{
+"d": "2018-06-11",
+"c": {
+"inw": "zmiana decyzji o pozwoleniu na budowę wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "ZD Development Sp. Z o.o.",
+"nier": "Suflerska",
+"dz": "146509_8 0951 3/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "92/2018"
+}
+},
+{
+"d": "2018-06-08",
+"c": {
+"inw": "kanalizacja deszczowa wraz z separatorem  oraz przepompownią wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Daka",
+"nier": "Strażacka 39B",
+"dz": "146509_8 0806 46/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "91/2018"
+}
+},
+{
+"d": "2018-06-08",
+"c": {
+"inw": "kanalizacja deszczowa wraz z separatorem  oraz przepompownią wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Daka",
+"nier": "Strażacka 39B",
+"dz": "146509_8 0806 46/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "91/2018"
+}
+},
+{
+"d": "2018-06-08",
+"c": {
+"inw": "budowa studni głębinowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Urząd m.st. Warszawy",
+"nier": "Gawędziarzy 24",
+"dz": "146509_8 0922 54/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "90/2018"
+}
+},
+{
+"d": "2018-06-08",
+"c": {
+"inw": "budowa studni głębinowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Urząd m.st. Warszawy",
+"nier": "Gawędziarzy 24",
+"dz": "146509_8 0922 81",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "90/2018"
+}
+},
+{
+"d": "2018-06-08",
+"c": {
+"inw": "budowa studni głębinowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Urząd m.st. Warszawy",
+"nier": "Gawędziarzy 24",
+"dz": "146509_8 0922 51",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "90/2018"
+}
+},
+{
+"d": "2018-06-05",
+"c": {
+"inw": "stalowy namiot halowy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Strażacka 39B",
+"dz": "146509_8 0806 46/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "88/2018"
+}
+},
+{
+"d": "2018-05-24",
+"c": {
+"inw": "budowa instalacji gazowej w budynku jednorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Barlickiego 2 / Norberta",
+"dz": "146509_8 0077 52",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "78/2018"
+}
+},
+{
+"d": "2018-05-04",
+"c": {
+"inw": "budowa gazociągu ul. Strycharska, ul. Bombardierów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PSG",
+"nier": "Strycharska",
+"dz": "146509_8 0920 26",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "69/2018"
+}
+},
+{
+"d": "2018-05-04",
+"c": {
+"inw": "budowa gazociągu ul. Strycharska, ul. Bombardierów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PSG",
+"nier": "Strycharska",
+"dz": "146509_8 0920 56/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "69/2018"
+}
+},
+{
+"d": "2018-05-04",
+"c": {
+"inw": "budowa gazociągu ul. Strycharska, ul. Bombardierów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PSG",
+"nier": "Strycharska",
+"dz": "146509_8 0920 44/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "69/2018"
+}
+},
+{
+"d": "2018-04-23",
+"c": {
+"inw": "budynek mieszklany jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Ilskiego 64 / Franciszka",
+"dz": "146509_8 0048 160",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "59/2018"
+}
+},
+{
+"d": "2018-04-19",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Amałowicza \"Tatara\" 9 / mjr. Franciszka Michała",
+"dz": "146509_8 0051 63",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "58/2018"
+}
+},
+{
+"d": "2018-04-09",
+"c": {
+"inw": "rozbiórka  budynek garażowo-gospodarczy rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Stelmachów 22",
+"dz": "146509_8 0702 45/24",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "46/2018"
+}
+},
+{
+"d": "2018-04-09",
+"c": {
+"inw": "budowa czterech budynków jednorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Pielgrzymów",
+"dz": "146509_8 0920 61/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "47/2018"
+}
+},
+{
+"d": "2018-04-09",
+"c": {
+"inw": "budowa czterech budynków jednorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Pielgrzymów",
+"dz": "146509_8 0920 72/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "47/2018"
+}
+},
+{
+"d": "2018-04-09",
+"c": {
+"inw": "budowa czterech budynków jednorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Pielgrzymów",
+"dz": "146509_8 0920 72/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "47/2018"
+}
+},
+{
+"d": "2018-04-09",
+"c": {
+"inw": "budowa czterech budynków jednorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Pielgrzymów",
+"dz": "146509_8 0920 70/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "47/2018"
+}
+},
+{
+"d": "2018-04-03",
+"c": {
+"inw": "budowa ulicy Kramarskiej odc. ul.Paderewskiego-ul.Kadrowa (budowa drogi publicznej) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Kramarska",
+"dz": "146509_8 0906 13/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "44/2018"
+}
+},
+{
+"d": "2018-04-03",
+"c": {
+"inw": "budowa ulicy Kramarskiej odc. ul.Paderewskiego-ul.Kadrowa (budowa drogi publicznej) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Kramarska",
+"dz": "146509_8 0906 13/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "44/2018"
+}
+},
+{
+"d": "2018-04-03",
+"c": {
+"inw": "budowa ulicy Kramarskiej odc. ul.Paderewskiego-ul.Kadrowa (budowa drogi publicznej) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Kramarska",
+"dz": "146509_8 0906 13/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "44/2018"
+}
+},
+{
+"d": "2018-04-03",
+"c": {
+"inw": "budowa ulicy Kramarskiej odc. ul.Paderewskiego-ul.Kadrowa (budowa drogi publicznej) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Kramarska",
+"dz": "146509_8 0906 14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "44/2018"
+}
+},
+{
+"d": "2018-04-03",
+"c": {
+"inw": "budowa ulicy Kramarskiej odc. ul.Paderewskiego-ul.Kadrowa (budowa drogi publicznej) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Kramarska",
+"dz": "146509_8 0906 15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "44/2018"
+}
+},
+{
+"d": "2018-04-03",
+"c": {
+"inw": "budowa ulicy Kramarskiej odc. ul.Paderewskiego-ul.Kadrowa (budowa drogi publicznej) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Kramarska",
+"dz": "146509_8 0906 38/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "44/2018"
+}
+},
+{
+"d": "2018-04-03",
+"c": {
+"inw": "budowa ulicy Kramarskiej odc. ul.Paderewskiego-ul.Kadrowa (budowa drogi publicznej) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Kramarska",
+"dz": "146509_8 0907 7/18",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "44/2018"
+}
+},
+{
+"d": "2018-04-03",
+"c": {
+"inw": "budowa ulicy Kramarskiej odc. ul.Paderewskiego-ul.Kadrowa (budowa drogi publicznej) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Kramarska",
+"dz": "146509_8 0907 1/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "44/2018"
+}
+},
+{
+"d": "2018-04-03",
+"c": {
+"inw": "budowa ulicy Kramarskiej odc. ul.Paderewskiego-ul.Kadrowa (budowa drogi publicznej) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Kramarska",
+"dz": "146509_8 0907 7/28",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "44/2018"
+}
+},
+{
+"d": "2018-04-03",
+"c": {
+"inw": "budowa ulicy Kramarskiej odc. ul.Paderewskiego-ul.Kadrowa (budowa drogi publicznej) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Kramarska",
+"dz": "146509_8 0907 1/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "44/2018"
+}
+},
+{
+"d": "2018-04-03",
+"c": {
+"inw": "budowa ulicy Kramarskiej odc. ul.Paderewskiego-ul.Kadrowa (budowa drogi publicznej) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Kramarska",
+"dz": "146509_8 0907 2/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "44/2018"
+}
+},
+{
+"d": "2018-04-03",
+"c": {
+"inw": "budowa ulicy Kramarskiej odc. ul.Paderewskiego-ul.Kadrowa (budowa drogi publicznej) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Kramarska",
+"dz": "146509_8 0907 7/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "44/2018"
+}
+},
+{
+"d": "2018-04-03",
+"c": {
+"inw": "budowa ulicy Kramarskiej odc. ul.Paderewskiego-ul.Kadrowa (budowa drogi publicznej) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Kramarska",
+"dz": "146509_8 0907 7/27",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "44/2018"
+}
+},
+{
+"d": "2018-04-03",
+"c": {
+"inw": "budowa ulicy Kramarskiej odc. ul.Paderewskiego-ul.Kadrowa (budowa drogi publicznej) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Kramarska",
+"dz": "146509_8 0905 15/22",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "44/2018"
+}
+},
+{
+"d": "2018-04-03",
+"c": {
+"inw": "budowa ulicy Kramarskiej odc. ul.Paderewskiego-ul.Kadrowa (budowa drogi publicznej) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Kramarska",
+"dz": "146509_8 0905 50/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "44/2018"
+}
+},
+{
+"d": "2018-04-03",
+"c": {
+"inw": "budowa ulicy Kramarskiej odc. ul.Paderewskiego-ul.Kadrowa (budowa drogi publicznej) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Kramarska",
+"dz": "146509_8 0905 53/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "44/2018"
+}
+},
+{
+"d": "2018-03-27",
+"c": {
+"inw": "budowa wew. instalacji gazowej dla budynku jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Giermków 23",
+"dz": "146509_8 0050 100",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "43/2018"
+}
+},
+{
+"d": "2018-03-14",
+"c": {
+"inw": "projekt rozbiórki obiektu gospodarczego oraz kompleksu budynków gospodarczo-magazynowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "Rugan Spółka Z.O.O.",
+"nier": "106",
+"dz": "146509_8 0925 70",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "38/2018"
+}
+},
+{
+"d": "2018-03-14",
+"c": {
+"inw": "projekt rozbiórki obiektu gospodarczego oraz kompleksu budynków gospodarczo-magazynowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "Rugan Spółka Z.O.O.",
+"nier": "106",
+"dz": "146509_8 0925 71",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "38/2018"
+}
+},
+{
+"d": "2018-03-07",
+"c": {
+"inw": "zmiany do projektu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Pielgrzymów",
+"dz": "146509_8 0920 61/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "34/2018"
+}
+},
+{
+"d": "2018-03-07",
+"c": {
+"inw": "zmiany do projektu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Pielgrzymów",
+"dz": "146509_8 0920 72/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "34/2018"
+}
+},
+{
+"d": "2018-03-07",
+"c": {
+"inw": "zmiany do projektu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Pielgrzymów",
+"dz": "146509_8 0920 72/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "34/2018"
+}
+},
+{
+"d": "2018-02-27",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych jednorodzinnych dwulokalowych w zabudowie bliźniaczrj budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Paderewskiego / Ignacego",
+"dz": "146509_8 0912 39/10",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "28/2018"
+}
+},
+{
+"d": "2018-02-27",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych jednorodzinnych dwulokalowych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146509_8 0912 39/9",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "29/2018"
+}
+},
+{
+"d": "2018-02-26",
+"c": {
+"inw": "budynek mieszkalny - rozbudowa nadbudowa budynku mieszkalnego jednorodzinnego ul. Listonoszy 20a rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Listonoszy 20a",
+"dz": "146509_8 0914 45",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "30/2018"
+}
+},
+{
+"d": "2018-02-26",
+"c": {
+"inw": "budynek magazynowy z częścią biurowo-socjalną wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Total Market Holding",
+"nier": "Chełmżyńska 180E",
+"dz": "146509_8 0802 23/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "23/2018"
+}
+},
+{
+"d": "2018-02-26",
+"c": {
+"inw": "budynek magazynowy z częścią biurowo-socjalną wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Total Market Holding",
+"nier": "Chełmżyńska 180E",
+"dz": "146509_8 0802 34",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "23/2018"
+}
+},
+{
+"d": "2018-02-26",
+"c": {
+"inw": "budynek mieszkalny wielorodzinny z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "4K Invest",
+"nier": "Zesłańców Polskich",
+"dz": "146509_8 0919 34",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "24/2018"
+}
+},
+{
+"d": "2018-02-23",
+"c": {
+"inw": "budowa instalacji gazowej do budynku jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Szeroka 64",
+"dz": "146509_8 0706 78",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "21/2018"
+}
+},
+{
+"d": "2018-02-22",
+"c": {
+"inw": "budowa gazociągu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polska Spółka Gazownictwa",
+"nier": "Mokry Ług",
+"dz": "146509_8 0902 30/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "18/2018"
+}
+},
+{
+"d": "2018-02-22",
+"c": {
+"inw": "budowa gazociągu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polska Spółka Gazownictwa",
+"nier": "Mokry Ług",
+"dz": "146509_8 0902 29/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "18/2018"
+}
+},
+{
+"d": "2018-02-22",
+"c": {
+"inw": "budowa gazociągu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polska Spółka Gazownictwa",
+"nier": "Mokry Ług",
+"dz": "146509_8 0902 29/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "18/2018"
+}
+},
+{
+"d": "2018-02-21",
+"c": {
+"inw": "przebudowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Urząd m.st.Warszawy",
+"nier": "Niepołomicka 26",
+"dz": "146509_8 0710 54/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "17/2018"
+}
+},
+{
+"d": "2018-02-21",
+"c": {
+"inw": "przebudowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Urząd m.st.Warszawy",
+"nier": "Niepołomicka 26",
+"dz": "146509_8 0710 55/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "17/2018"
+}
+},
+{
+"d": "2018-02-21",
+"c": {
+"inw": "przebudowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Urząd m.st.Warszawy",
+"nier": "Niepołomicka 26",
+"dz": "146509_8 0710 42/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "17/2018"
+}
+},
+{
+"d": "2018-02-21",
+"c": {
+"inw": "przebudowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Urząd m.st.Warszawy",
+"nier": "Niepołomicka 26",
+"dz": "146509_8 0710 28/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "17/2018"
+}
+},
+{
+"d": "2018-02-21",
+"c": {
+"inw": "przebudowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Urząd m.st.Warszawy",
+"nier": "Niepołomicka 26",
+"dz": "146509_8 0710 29/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "17/2018"
+}
+},
+{
+"d": "2018-02-21",
+"c": {
+"inw": "przebudowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Urząd m.st.Warszawy",
+"nier": "Niepołomicka 26",
+"dz": "146509_8 0710 20/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "17/2018"
+}
+},
+{
+"d": "2018-02-21",
+"c": {
+"inw": "przebudowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Urząd m.st.Warszawy",
+"nier": "Niepołomicka 26",
+"dz": "146509_8 0710 21/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "17/2018"
+}
+},
+{
+"d": "2018-02-06",
+"c": {
+"inw": "budowa wew. inst. gazowej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Czwartaków",
+"dz": "146509_8 0908 21/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "14/2018"
+}
+},
+{
+"d": "2018-01-23",
+"c": {
+"inw": "budynek mieszkalny jednorodzinny wraz z zagospodarowaniem terenu i infrastrukturą towarzyszącą budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Buchalteryjna 23",
+"dz": "146509_8 0910 14/15",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "12/2018"
+}
+},
+{
+"d": "2018-01-11",
+"c": {
+"inw": "budowa 3 budynków mieszkalnych jednorodzinnych w zabudowie szeregowej - budynek 6, 7 i 8 budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Gontarska",
+"dz": "146509_8 0920 46/5",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "5/2018"
+}
+},
+{
+"d": "2018-01-11",
+"c": {
+"inw": "budowa 3 budynków mieszkalnych jednorodzinnych w zabudowie szeregowej - budynek 6, 7 i 8 budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Gontarska",
+"dz": "146509_8 0920 46/6",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "5/2018"
+}
+}
+]
+}
+]
+}

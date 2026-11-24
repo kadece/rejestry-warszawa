@@ -561,7 +561,15 @@
     renderDistricts();
     return loadYear();
   }).catch(function (e) {
+    var hint = '';
+    if (location.protocol === 'file:') {
+      hint = '<br><br>Plik otwarty spod <code>file://</code> — w tym trybie ' +
+             'przeglądarka blokuje pobieranie danych (<code>fetch()</code>). ' +
+             'Uruchom podgląd przez HTTP: ' +
+             '<code>python -m http.server --directory site</code> ' +
+             'i wejdź na <a href="http://localhost:8000/">localhost:8000</a>.';
+    }
     elView.innerHTML = '<p class="error">Nie udało się wczytać manifestu: ' +
-      esc(e.message) + '</p>';
+      esc(e.message) + hint + '</p>';
   });
 })();

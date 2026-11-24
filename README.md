@@ -15,26 +15,26 @@ na wszystkie 18 dzielnic. Tamten serwis pozostaje bez zmian.
 
 | Dzielnica | Źródła | Od roku | Pozycji |
 |---|---|---:|---:|
-| Bemowo | GUNB | 2016 | 3 582 |
-| Białołęka | GUNB | 2016 | 19 796 |
+| Bemowo | GUNB + strona dzielnicy | 2016 | 5 471 |
+| Białołęka | GUNB | 2016 | 19 800 |
 | Bielany | GUNB | 2016 | 5 941 |
-| Mokotów | GUNB | 2016 | 11 091 |
+| Mokotów | GUNB + strona dzielnicy | 2016 | 13 099 |
 | Ochota | GUNB | 2016 | 3 284 |
 | Praga-Północ | GUNB + strona dzielnicy | 2016 | 4 581 |
-| Praga-Południe | GUNB | 2016 | 6 240 |
-| Rembertów | GUNB | 2016 | 2 609 |
-| Śródmieście | GUNB | 2016 | 10 218 |
-| Targówek | GUNB | 2016 | 6 082 |
+| Praga-Południe | GUNB | 2016 | 6 246 |
+| Rembertów | GUNB | 2016 | 2 627 |
+| Śródmieście | GUNB + strona dzielnicy | 2016 | 10 744 |
+| Targówek | GUNB + strona dzielnicy | 2016 | 6 484 |
 | Ursus | strona dzielnicy | 2019 | 4 567 |
-| Ursynów | GUNB | 2016 | 7 447 |
-| Wawer | GUNB | 2016 | 20 846 |
+| Ursynów | GUNB | 2016 | 7 453 |
+| Wawer | GUNB + strona dzielnicy | 2016 | 22 337 |
 | Wesoła | GUNB | 2016 | 6 401 |
-| Wilanów | GUNB | 2016 | 8 710 |
+| Wilanów | GUNB + strona dzielnicy | 2016 | 10 225 |
 | Włochy | GUNB | 2016 | 3 004 |
-| Wola | GUNB | 2016 | 5 077 |
+| Wola | GUNB | 2016 | 5 093 |
 | Żoliborz | GUNB | 2016 | 2 606 |
 
-**Razem: 132 082 pozycje w 195 plikach rocznikowych (46 MB).**
+**Razem: 139 963 pozycji w 214 plikach rocznikowych (48 MB).**
 
 ---
 
@@ -66,15 +66,27 @@ jej zautomatyzować. Plik zbiorczy to jedyna droga.
 
 | Dzielnica | Adres | Rejestry |
 |---|---|---|
+| Bemowo | `bemowo.um.warszawa.pl/jawnosc-procesu-inwestycyjnego` | WZ, ICP, wszczęte postępowania (od 2018) |
+| Mokotów | `mokotow.um.warszawa.pl/wykazy-i-informacje-o-decyzjach` + 2 archiwa | wnioski WZ, wnioski ICP, decyzje WZ, decyzje ICP (2018–2026) |
+| Praga-Północ | `pragapn.um.warszawa.pl/-/ogloszenia-2` | WZ, ICP, wnioski (od 2021, pliki miesięczne) |
+| Śródmieście | `srodmiescie.um.warszawa.pl/-/decyzje-warunki-zabudowy` | WZ (od 2020, pliki miesięczne) |
+| Targówek | `targowek.um.warszawa.pl/waw/targowek/-/warunki-zabudowy-postepowania-decyzje` | wnioski WZ/ICP, decyzje WZ, decyzje ICP (od 2021) |
 | Ursus | `ursus.um.warszawa.pl/wykazy` | 9 rejestrów (WZ, PnB, LCP, ZRID, wnioski, zgłoszenia, umowy art. 16) |
-| Praga-Północ | `pragapn.um.warszawa.pl/-/ogloszenia-2` | 3 rejestry (WZ, ICP, wnioski WZ) |
+| Wawer | `wawer.um.warszawa.pl/dokumenty-budowlane` | WZ, ICP/CP (pliki miesięczne, obecnie rocznik bieżący) |
+| Wilanów | `wilanow.um.warszawa.pl/waw/wilanow/wykazy-i-informacje-o-decyzjach` | wnioski WZ/ICP, decyzje WZ, decyzje ICP (od 2020, rejestry skumulowane) |
 
-Nie ma wspólnego schematu adresów między dzielnicami — Ursus ma
+Nie ma wspólnego schematu adresów między dzielnicami — każda publikuje
+po swojemu (Bemowo trzyma wszystko na jednej stronie „jawność”, Ursus ma
 `/wykazy-za-rok-YYYY`, Praga-Północ wrzuca wszystko do jednego wpisu
-`/-/ogloszenia-2` jako 155 załączników miesięcznych.
+`/-/ogloszenia-2` jako ~155 załączników miesięcznych, Śródmieście
+`NN_DECYZJE_WZ_YYYY.xlsx`, Wilanów prowadzi cztery rejestry skumulowane
+„Zał. 1a/1b/2/3” od 2020 roku). Dlatego każda dzielnica ma osobny adapter
+w `districts/<nazwa>.py`.
 
 **Ursus nie korzysta z GUNB** — jego strona publikuje już rejestry PnB,
-więc dane z GUNB by się dublowały.
+więc dane z GUNB by się dublowały. Pozostałe dzielnice serwisowe mają
+w swoich rejestrach tylko WZ/ICP, więc GUNB dokłada im PnB i niczego
+nie dubluje.
 
 ---
 
@@ -85,9 +97,14 @@ build.py
   ├── gunb.py          → pobiera i czyta plik zbiorczy GUNB
   ├── districts/
   │     ├── base.py    → wspólna logika rocznika (pobierz → sparsuj → JSON)
+  │     ├── bemowo.py, srodmiescie.py, wawer.py
+  │     │             → rejestry WZ/ICP ze stron tych dzielnic
+  │     ├── mokotow.py → 4 rejestry (wn/dec WZ i ICP, 2018+, .xls i PDF-y)
+  │     ├── targowek.py → wnioski WZ/ICP + decyzje WZ/ICP (od 2021)
+  │     ├── wilanow.py → 3 rejestry skumulowane (od 2020, krojone po dacie)
   │     ├── ursus.py   → 9 rejestrów, konfiguracja + dopasowanie plików
   │     └── praga_polnoc.py → 3 rejestry, pliki miesięczne
-  └── parsers.py       → XLSX i PDF → macierz → wiersze
+  └── parsers.py       → XLSX/XLS i PDF → macierz → wiersze
 ```
 
 Wynik:
@@ -125,22 +142,28 @@ Dwie pułapki, które parser obsługuje:
 
 ## Uruchomienie lokalne
 
-Wymagania: Python 3.10+, `openpyxl`, `pdfplumber`.
+Wymagania: Python 3.10+, `openpyxl`, `pdfplumber`, `xlrd`
+(stare rejestry `.xls`, np. mokotowskie z lat 2018–2020).
 
 ```bash
-python -m pip install openpyxl pdfplumber
+python -m pip install openpyxl pdfplumber xlrd
 
 python build.py                      # wszystkie dzielnice (≈6 min)
-python build.py --gunb-only          # 16 dzielnic z GUNB (to robi CI)
-python build.py --site-only          # Ursus + Praga-Północ (to robi update.sh)
+python build.py --gunb-only          # dzielnice bez własnej strony (to robi CI)
+python build.py --site-only          # dzielnice serwisowe (to robi update.sh)
 python build.py --district ursus     # jedna dzielnica
 python build.py --offline            # bez pobierania, z cache w raw/
 python build.py --render-only        # tylko HTML z gotowych JSON-ów
 python build.py --skip-site          # pomiń strony dzielnic (tylko GUNB)
 ```
 
-Potem otwórz `site/index.html` — działa też z `file://`, bo dane lecą
-przez `fetch()` z tego samego katalogu.
+Podgląd lokalny wymaga HTTP — otwarty z `file://` plik nie wczyta danych,
+bo przeglądarki blokują `fetch()` po protokole plików („Failed to fetch").
+Odpal mini-serwer i wejdź na http://localhost:8000/:
+
+```bash
+python -m http.server --directory site
+```
 
 Katalog `raw/` to cache pobranych plików (nie trafia do repo). Usunięcie go
 wymusza pełne ponowne pobranie ~47 MB z GUNB i kilkuset PDF-ów.
@@ -154,8 +177,12 @@ GitHuba (HTTP 403), a GUNB — nie:
 
 | Tor | Co buduje | Kiedy |
 |---|---|---|
-| GitHub Actions | 16 dzielnic z GUNB (~41 MB) | co poniedziałek + po każdym pushu |
-| twoja maszyna | Ursus + Praga-Północ (~2,4 MB) | `./update.sh`, co dwa tygodnie |
+| GitHub Actions | 10 dzielnic z GUNB (~25 MB) | co poniedziałek + po każdym pushu |
+| twoja maszyna | 8 dzielnic serwisowych (~27 MB) | `./update.sh`, co dwa tygodnie |
+
+Dzielnice serwisowe (z rejestrami WZ/ICP ze strony dzielnicy) buduje
+maszyna lokalna: **Bemowo, Mokotów, Praga-Północ, Śródmieście, Targówek,
+Ursus, Wawer i Wilanów**. Pozostałe 10 bierze w CI prosto z pliku GUNB.
 
 Oba piszą do `site/data/` i się nie nadpisują — manifest jest składany
 ze skanu katalogu, a każdy tor buduje tylko swoje dzielnice.
@@ -167,7 +194,7 @@ Samodzielna instrukcja dla serwera (z wpisem do crona):
 Skrót:
 
 ```bash
-./update.sh          # Ursus + Praga-Północ → commit → push
+./update.sh          # 8 dzielnic serwisowych → commit → push
 ```
 
 ---

@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Rejestry i wykazy — Warszawa, 18 dzielnic</title>
-<meta name="description" content="Decyzje o warunkach zabudowy, pozwolenia na budowę i wnioski w 18 dzielnicach Warszawy. 132 082 pozycji, roczniki 2016–2026.">
+<meta name="description" content="Decyzje o warunkach zabudowy, pozwolenia na budowę i wnioski w 18 dzielnicach Warszawy. 139 963 pozycji, roczniki 2016–2026.">
 <style>:root {
   --navy: #101a2b;
   --navy-2: #1b2a44;
@@ -540,10 +540,10 @@ footer .credit a:hover { text-decoration: underline; }
       i uporządkowane miesiącami.
     </p>
     <dl class="stats">
-      <div><dt>pozycji</dt><dd>132 082</dd></div>
+      <div><dt>pozycji</dt><dd>139 963</dd></div>
       <div><dt>dzielnic</dt><dd>18</dd></div>
       <div><dt>roczniki</dt><dd>2016–2026</dd></div>
-      <div><dt>dane z</dt><dd>2026-11-19</dd></div>
+      <div><dt>dane z</dt><dd>2026-11-24</dd></div>
     </dl>
   </div>
 </header>
@@ -1164,8 +1164,16 @@ footer .credit a:hover { text-decoration: underline; }
     renderDistricts();
     return loadYear();
   }).catch(function (e) {
+    var hint = '';
+    if (location.protocol === 'file:') {
+      hint = '<br><br>Plik otwarty spod <code>file://</code> — w tym trybie ' +
+             'przeglądarka blokuje pobieranie danych (<code>fetch()</code>). ' +
+             'Uruchom podgląd przez HTTP: ' +
+             '<code>python -m http.server --directory site</code> ' +
+             'i wejdź na <a href="http://localhost:8000/">localhost:8000</a>.';
+    }
     elView.innerHTML = '<p class="error">Nie udało się wczytać manifestu: ' +
-      esc(e.message) + '</p>';
+      esc(e.message) + hint + '</p>';
   });
 })();
 </script>

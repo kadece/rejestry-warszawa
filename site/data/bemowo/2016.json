@@ -1,0 +1,5614 @@
+{
+"district": "bemowo",
+"year": 2016,
+"generated": "2026-11-24T21:21:02+01:00",
+"total": 502,
+"registers": [
+{
+"id": "wn_pnb",
+"name": "Wnioski o pozwolenie na budowę",
+"short": "Wnioski PnB",
+"desc": "Wnioski o pozwolenie na budowę złożone do organu architektoniczno-budowlanego dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer wniosku",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2016-12-22",
+"c": {
+"inw": "rozbiórka dwóch budynków gospodarczych rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Powstańców Śląskich 56 i 58",
+"dz": "146502_8 1114 5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6741.20.2016.ECI"
+}
+},
+{
+"d": "2016-12-22",
+"c": {
+"inw": "rozbiórka dwóch budynków gospodarczych rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Powstańców Śląskich 56 i 58",
+"dz": "146502_8 1114 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6741.20.2016.ECI"
+}
+},
+{
+"d": "2016-12-20",
+"c": {
+"inw": "robbudowa budynku mieszkalnego jednorodzinnego w zabudowie bliźniaczej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Dobrowolskiego 3 / Antoniego Bolesława",
+"dz": "146502_8 1003 60",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.212.2016.MSZ"
+}
+},
+{
+"d": "2016-12-16",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 800 mm wraz z infrastrukturą towarzyszącą budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st Warszawie S.A.",
+"nier": "Lazurowa",
+"dz": "146502_8 1112 1/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.205.2016.LKO"
+}
+},
+{
+"d": "2016-12-16",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 800 mm wraz z infrastrukturą towarzyszącą budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st Warszawie S.A.",
+"nier": "Lazurowa",
+"dz": "146502_8 1112 1/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.205.2016.LKO"
+}
+},
+{
+"d": "2016-12-16",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 800 mm wraz z infrastrukturą towarzyszącą budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st Warszawie S.A.",
+"nier": "Lazurowa",
+"dz": "146502_8 1112 57/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.205.2016.LKO"
+}
+},
+{
+"d": "2016-12-16",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 800 mm wraz z infrastrukturą towarzyszącą budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st Warszawie S.A.",
+"nier": "Lazurowa",
+"dz": "146502_8 1305 14/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.205.2016.LKO"
+}
+},
+{
+"d": "2016-12-16",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 800 mm wraz z infrastrukturą towarzyszącą budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st Warszawie S.A.",
+"nier": "Lazurowa",
+"dz": "146502_8 1305 15/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.205.2016.LKO"
+}
+},
+{
+"d": "2016-12-16",
+"c": {
+"inw": "doświetlenie pomieszczenia w budynku usługowym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa Jelonki",
+"nier": "Powstańców Śląskich 9",
+"dz": "146502_8 1208 22/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-WAB-A.6740.1.2017.RLE"
+}
+},
+{
+"d": "2016-12-16",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym, naziemnymi miejscami parkingowymi, wjazdami, infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Dom Development S.A.",
+"nier": "Batalionów Chłopskich",
+"dz": "146502_8 1305 5/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.207.2016.HWI"
+}
+},
+{
+"d": "2016-12-15",
+"c": {
+"inw": "przebudowa budynku biurowo-usługowego ze zmianą sposobu użytkowania na usługowy (fitness) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Biuro Komfort Paweł Góras i Joanna Karczmarek-Góras Sp. Jawna",
+"nier": "Dywizjonu 303 129B",
+"dz": "146502_8 1102 87/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.211.2016.MSZ"
+}
+},
+{
+"d": "2016-12-15",
+"c": {
+"inw": "przebudowa budynku biurowo-usługowego ze zmianą sposobu użytkowania na usługowy (fitness) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Biuro Komfort Paweł Góras i Joanna Karczmarek-Góras Sp. Jawna",
+"nier": "Dywizjonu 303 129B",
+"dz": "146502_8 1102 87/20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.211.2016.MSZ"
+}
+},
+{
+"d": "2016-12-12",
+"c": {
+"inw": "budowa instalacji gazowej dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Akantu 22",
+"dz": "146502_8 0802 191",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.199.2016.LKO"
+}
+},
+{
+"d": "2016-12-09",
+"c": {
+"inw": "budowa istalacji gazowej dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Siemiatycka 26",
+"dz": "146502_8 1207 13/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.194.2016.LKO"
+}
+},
+{
+"d": "2016-12-09",
+"c": {
+"inw": "budowa sieci budowa nowego/nowych obiektów budowlanych",
+"wn": "innogy Stoen Operator Sp. z o.o.",
+"nier": "Powstańców Śląskich",
+"dz": "146502_8 1209 135/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.195.2016.LKO"
+}
+},
+{
+"d": "2016-12-09",
+"c": {
+"inw": "budowa sieci budowa nowego/nowych obiektów budowlanych",
+"wn": "innogy Stoen Operator Sp. z o.o.",
+"nier": "Powstańców Śląskich",
+"dz": "146502_8 1209 112/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.195.2016.LKO"
+}
+},
+{
+"d": "2016-12-09",
+"c": {
+"inw": "budowa sieci budowa nowego/nowych obiektów budowlanych",
+"wn": "innogy Stoen Operator Sp. z o.o.",
+"nier": "Powstańców Śląskich",
+"dz": "146502_8 1209 69/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.195.2016.LKO"
+}
+},
+{
+"d": "2016-12-09",
+"c": {
+"inw": "budowa sieci budowa nowego/nowych obiektów budowlanych",
+"wn": "innogy Stoen Operator Sp. z o.o.",
+"nier": "Powstańców Śląskich",
+"dz": "146502_8 1209 69/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.195.2016.LKO"
+}
+},
+{
+"d": "2016-12-09",
+"c": {
+"inw": "budowa sieci budowa nowego/nowych obiektów budowlanych",
+"wn": "innogy Stoen Operator Sp. z o.o.",
+"nier": "Powstańców Śląskich",
+"dz": "146502_8 1209 69/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.195.2016.LKO"
+}
+},
+{
+"d": "2016-12-09",
+"c": {
+"inw": "budowa sieci budowa nowego/nowych obiektów budowlanych",
+"wn": "innogy Stoen Operator Sp. z o.o.",
+"nier": "Powstańców Śląskich",
+"dz": "146502_8 1209 69/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.195.2016.LKO"
+}
+},
+{
+"d": "2016-12-09",
+"c": {
+"inw": "rozbiórka napowietrznej sieci elektroenergetycznej SN-15kV rozbiórka istniejącego obiektu budowlanego",
+"wn": "innogy Stoen Operator Sp. z o.o.",
+"nier": "Powstańców Śląskich",
+"dz": "146502_8 1209 33",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6741.16.2016.LKO"
+}
+},
+{
+"d": "2016-12-09",
+"c": {
+"inw": "rozbiórka napowietrznej sieci elektroenergetycznej SN-15kV rozbiórka istniejącego obiektu budowlanego",
+"wn": "innogy Stoen Operator Sp. z o.o.",
+"nier": "Powstańców Śląskich",
+"dz": "146502_8 1209 34",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6741.16.2016.LKO"
+}
+},
+{
+"d": "2016-12-09",
+"c": {
+"inw": "rozbiórka napowietrznej sieci elektroenergetycznej SN-15kV rozbiórka istniejącego obiektu budowlanego",
+"wn": "innogy Stoen Operator Sp. z o.o.",
+"nier": "Powstańców Śląskich",
+"dz": "146502_8 1209 32/17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6741.16.2016.LKO"
+}
+},
+{
+"d": "2016-12-09",
+"c": {
+"inw": "rozbiórka napowietrznej sieci elektroenergetycznej SN-15kV rozbiórka istniejącego obiektu budowlanego",
+"wn": "innogy Stoen Operator Sp. z o.o.",
+"nier": "Powstańców Śląskich",
+"dz": "146502_8 1209 32/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6741.16.2016.LKO"
+}
+},
+{
+"d": "2016-12-09",
+"c": {
+"inw": "rozbiórka napowietrznej sieci elektroenergetycznej SN-15kV rozbiórka istniejącego obiektu budowlanego",
+"wn": "innogy Stoen Operator Sp. z o.o.",
+"nier": "Powstańców Śląskich",
+"dz": "146502_8 1209 42",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6741.16.2016.LKO"
+}
+},
+{
+"d": "2016-12-09",
+"c": {
+"inw": "rozbiórka napowietrznej sieci elektroenergetycznej SN-15kV rozbiórka istniejącego obiektu budowlanego",
+"wn": "innogy Stoen Operator Sp. z o.o.",
+"nier": "Powstańców Śląskich",
+"dz": "146502_8 1209 32/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6741.16.2016.LKO"
+}
+},
+{
+"d": "2016-12-09",
+"c": {
+"inw": "rozbiórka napowietrznej sieci elektroenergetycznej SN-15kV rozbiórka istniejącego obiektu budowlanego",
+"wn": "innogy Stoen Operator Sp. z o.o.",
+"nier": "Powstańców Śląskich",
+"dz": "146502_8 1209 32/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6741.16.2016.LKO"
+}
+},
+{
+"d": "2016-12-09",
+"c": {
+"inw": "rozbiórka napowietrznej sieci elektroenergetycznej SN-15kV rozbiórka istniejącego obiektu budowlanego",
+"wn": "innogy Stoen Operator Sp. z o.o.",
+"nier": "Powstańców Śląskich",
+"dz": "146502_8 1209 46",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6741.16.2016.LKO"
+}
+},
+{
+"d": "2016-12-09",
+"c": {
+"inw": "rozbiórka napowietrznej sieci elektroenergetycznej SN-15kV rozbiórka istniejącego obiektu budowlanego",
+"wn": "innogy Stoen Operator Sp. z o.o.",
+"nier": "Powstańców Śląskich",
+"dz": "146502_8 1209 47",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6741.16.2016.LKO"
+}
+},
+{
+"d": "2016-12-09",
+"c": {
+"inw": "rozbiórka napowietrznej sieci elektroenergetycznej SN-15kV rozbiórka istniejącego obiektu budowlanego",
+"wn": "innogy Stoen Operator Sp. z o.o.",
+"nier": "Powstańców Śląskich",
+"dz": "146502_8 1209 50",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6741.16.2016.LKO"
+}
+},
+{
+"d": "2016-12-09",
+"c": {
+"inw": "rozbiórka napowietrznej sieci elektroenergetycznej SN-15kV rozbiórka istniejącego obiektu budowlanego",
+"wn": "innogy Stoen Operator Sp. z o.o.",
+"nier": "Powstańców Śląskich",
+"dz": "146502_8 1209 51/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6741.16.2016.LKO"
+}
+},
+{
+"d": "2016-12-09",
+"c": {
+"inw": "rozbiórka napowietrznej sieci elektroenergetycznej SN-15kV rozbiórka istniejącego obiektu budowlanego",
+"wn": "innogy Stoen Operator Sp. z o.o.",
+"nier": "Powstańców Śląskich",
+"dz": "146502_8 1209 54",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6741.16.2016.LKO"
+}
+},
+{
+"d": "2016-12-08",
+"c": {
+"inw": "budowa zespołu budynków mieszkalnych wielorodzinnych z usługami w parterze, biurami oraz garażem podziemnym wraz z dojazdem do ul Szeligowskiej, infrastrukturą i elementami zagospodarowania terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "P.P.H.U. \"Corpores\" Sp. z o.o.",
+"nier": "Szeligowska 9 i 9A",
+"dz": "146502_8 1311 35",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.103.2016.HWI"
+}
+},
+{
+"d": "2016-12-08",
+"c": {
+"inw": "budowa zespołu budynków mieszkalnych wielorodzinnych z usługami w parterze, biurami oraz garażem podziemnym wraz z dojazdem do ul Szeligowskiej, infrastrukturą i elementami zagospodarowania terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "P.P.H.U. \"Corpores\" Sp. z o.o.",
+"nier": "Szeligowska 9 i 9A",
+"dz": "146502_8 1311 36",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.103.2016.HWI"
+}
+},
+{
+"d": "2016-12-02",
+"c": {
+"inw": "zmiana decyzji nr 202/16 z dnia 04.10.2016r. zatwierdzającą projekt budowlany oraz udzielającą pozwolenia na budowę budynku gospodarczego (służącego celom gospodarczym w gosporarstwie rolnym) i szczelnego zbiornika na nieczystości płynne V= 10.0 m3 budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Szeligowska 33A",
+"dz": "146502_8 1306 4/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.210.2016.RLE"
+}
+},
+{
+"d": "2016-12-02",
+"c": {
+"inw": "budowa oraz posadowienie totemów kierunkowych w rej. C.H. Bemowo budowa nowego/nowych obiektów budowlanych",
+"wn": "Flamingo 4 Sp. z o.o. Bainbridge Poland Warszawa Sp. K.",
+"nier": "Powstańców Śląskich 126",
+"dz": "146502_8 1501 6/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.198.2016.KDK"
+}
+},
+{
+"d": "2016-12-02",
+"c": {
+"inw": "budowa oraz posadowienie totemów kierunkowych w rej. C.H. Bemowo budowa nowego/nowych obiektów budowlanych",
+"wn": "Flamingo 4 Sp. z o.o. Bainbridge Poland Warszawa Sp. K.",
+"nier": "Powstańców Śląskich 126",
+"dz": "146502_8 1501 16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.198.2016.KDK"
+}
+},
+{
+"d": "2016-11-25",
+"c": {
+"inw": "przebudowa budynku mieszkalnego jednorodzinnego w zabudowie bliźniaczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Newtona 22 / Isaaca",
+"dz": "146502_8 1003 111",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.203.2016.MSZ"
+}
+},
+{
+"d": "2016-11-25",
+"c": {
+"inw": "rozbudowa rozdzielni 110lV oraz przebudowa budynku nastawni w stacji elektroenergetycznej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Polskie Sieci Energetyczne",
+"nier": "Połczyńska 123",
+"dz": "146502_8 1312 6/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.202.2016.RLE"
+}
+},
+{
+"d": "2016-11-24",
+"c": {
+"inw": "poszerzenie otwoeu drzwiowego w ścianie nośnej lok. nr 14 w budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Muszlowa 5",
+"dz": "146502_8 1113 22/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.192.2016.ECI"
+}
+},
+{
+"d": "2016-11-21",
+"c": {
+"inw": "budowa 3 masztów flagowych, typowych o wys 10m budowa nowego/nowych obiektów budowlanych",
+"wn": "Zarząd Transportu Miejskiego",
+"nier": "Połczyńska 8",
+"dz": "",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Ud-I-WAB-A.6740.200.2016.RLE"
+}
+},
+{
+"d": "2016-11-21",
+"c": {
+"inw": "budowa budynku usługowego (usługi rekreacji) wraz zinfrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Dywizjonu 303 169",
+"dz": "146502_8 1102 28/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.196.2016.MSZ"
+}
+},
+{
+"d": "2016-11-21",
+"c": {
+"inw": "przebudowa części korytarza przy lok. nr 23 mająca na celu zmianę sposobu użytkowania tj. wydzielenie go z częsci ogólnodostępnej i przyłączenie do lok. mieszkalnego nr 23 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kawy 4 / Franciszka",
+"dz": "146502_8 0808 65/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.189.2016.KDK"
+}
+},
+{
+"d": "2016-11-21",
+"c": {
+"inw": "budowa hali magazynowej płodów rolniczych z z zapleczem socjalnym oraz budynku gospodarczego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Szeligowska 51",
+"dz": "146502_8 1304 10/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.201.2016.RLE"
+}
+},
+{
+"d": "2016-11-09",
+"c": {
+"inw": "budowa budynku biurowego ze strefą wejściową do ITWL wraz z przebudową istniejącego budynku administracyjnego budowa nowego/nowych obiektów budowlanych",
+"wn": "Instytut Techniczny Wojsk Lotniczych",
+"nier": "Bolesława 6 / Księcia",
+"dz": "146502_8 1501 66/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.182.2016.KDK"
+}
+},
+{
+"d": "2016-11-09",
+"c": {
+"inw": "rozbiórka budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Oświatowa 19",
+"dz": "146502_8 1115 84",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6741.15.2016.ECI"
+}
+},
+{
+"d": "2016-11-07",
+"c": {
+"inw": "budowa budynku mieszklanego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Drzeworytników 75",
+"dz": "146502_8 1211 52",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.188.2016.RLE"
+}
+},
+{
+"d": "2016-11-07",
+"c": {
+"inw": "budowa instalacji gazowej dla realizowanego budynku usługowo-biurowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "UWICOM Krzysztof Lipka",
+"nier": "Szeligowska 19",
+"dz": "146502_8 1311 2/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.181.2016.LKO"
+}
+},
+{
+"d": "2016-11-07",
+"c": {
+"inw": "rozbudowa budynku mieszkalnego jednorodzinnego w zabudowie bliźniaczej poprzez dobudowę werandy rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Gimnazjalna 18A",
+"dz": "146502_8 1115 50",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.183.2016.ECI"
+}
+},
+{
+"d": "2016-10-28",
+"c": {
+"inw": "przebudowa budynku mieszkalnego jednorodzinnego w zakresie zmiany otworów okiennych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Spychowska 6",
+"dz": "146502_8 1005 10",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.190.2016.MSZ"
+}
+},
+{
+"d": "2016-10-28",
+"c": {
+"inw": "Przebudowa i rozbudowa budynku nr 54 dla potrzeb Centrum Robotów Mobilnych Wojskowej Akademii Technicznej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Wojskowa Akademia Techniczna",
+"nier": "Kaliskiego 2 / gen. Sylwestra",
+"dz": "146502_8 0811 10/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.185.2016.MSZ"
+}
+},
+{
+"d": "2016-10-28",
+"c": {
+"inw": "uzupełnienie stropu w budynku kotłowni w ciepłowni Wola wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PGNIG Termika S.A.",
+"nier": "Połczyńska 21",
+"dz": "146502_8 1217 61/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-WAB-A.6740.184.2016.RLE"
+}
+},
+{
+"d": "2016-10-28",
+"c": {
+"inw": "przebudowa lokali usługowych (apteka,przychodnia) ze zmianą sposobu użytkowania na potrzeby przychodni wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "LEK-MED Sp. J.",
+"nier": "Powstańców Śląskich 9",
+"dz": "146502_8 1209 112/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.186.2016.RLE"
+}
+},
+{
+"d": "2016-10-28",
+"c": {
+"inw": "przebudowa lokali usługowych (apteka,przychodnia) ze zmianą sposobu użytkowania na potrzeby przychodni wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "LEK-MED Sp. J.",
+"nier": "Powstańców Śląskich 9",
+"dz": "146502_8 1209 134/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.186.2016.RLE"
+}
+},
+{
+"d": "2016-10-28",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Okrętowa 21",
+"dz": "146502_8 1211 125/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6741.14.2016.LKO"
+}
+},
+{
+"d": "2016-10-28",
+"c": {
+"inw": "przebudowa sal 3.3, 3.7, 3.8 w budynku nr 75 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "WAT",
+"nier": "Kaliskiego 2 / gen. Sylwestra",
+"dz": "146502_8 0811 10/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.179.2016.MSZ (187)"
+}
+},
+{
+"d": "2016-10-25",
+"c": {
+"inw": "nadbudowa oraz przebudowa bud mieszk jednorodzinnego nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Wybickiego 8 / Józefa",
+"dz": "146502_8 1213 51",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.173.2016.RLE"
+}
+},
+{
+"d": "2016-10-24",
+"c": {
+"inw": "budowa hurtowni z zapleczem socjalnym oraz zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "HYPOM Jerzy Wieczorek",
+"nier": "Fortuny",
+"dz": "146502_8 1216 105",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.174.2016.RLE"
+}
+},
+{
+"d": "2016-10-24",
+"c": {
+"inw": "budowa hurtowni z zapleczem socjalnym oraz zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "HYPOM Jerzy Wieczorek",
+"nier": "Fortuny",
+"dz": "146502_8 1216 106/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.174.2016.RLE"
+}
+},
+{
+"d": "2016-10-24",
+"c": {
+"inw": "budowa hurtowni z zapleczem socjalnym oraz zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "HYPOM Jerzy Wieczorek",
+"nier": "Fortuny",
+"dz": "146502_8 1216 106/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.174.2016.RLE"
+}
+},
+{
+"d": "2016-10-24",
+"c": {
+"inw": "budowa hurtowni z zapleczem socjalnym oraz zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "HYPOM Jerzy Wieczorek",
+"nier": "Fortuny",
+"dz": "146502_8 1216 107/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.174.2016.RLE"
+}
+},
+{
+"d": "2016-10-24",
+"c": {
+"inw": "budowa hurtowni z zapleczem socjalnym oraz zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "HYPOM Jerzy Wieczorek",
+"nier": "Fortuny",
+"dz": "146502_8 1216 107/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.174.2016.RLE"
+}
+},
+{
+"d": "2016-10-24",
+"c": {
+"inw": "budowa hurtowni z zapleczem socjalnym oraz zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "HYPOM Jerzy Wieczorek",
+"nier": "Fortuny",
+"dz": "146502_8 1216 107/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.174.2016.RLE"
+}
+},
+{
+"d": "2016-10-24",
+"c": {
+"inw": "budowa hurtowni z zapleczem socjalnym oraz zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "HYPOM Jerzy Wieczorek",
+"nier": "Fortuny",
+"dz": "146502_8 1216 114",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.174.2016.RLE"
+}
+},
+{
+"d": "2016-10-24",
+"c": {
+"inw": "budowa hurtowni z zapleczem socjalnym oraz zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "HYPOM Jerzy Wieczorek",
+"nier": "Fortuny",
+"dz": "146502_8 1216 115",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.174.2016.RLE"
+}
+},
+{
+"d": "2016-10-24",
+"c": {
+"inw": "budowa hurtowni z zapleczem socjalnym oraz zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "HYPOM Jerzy Wieczorek",
+"nier": "Fortuny",
+"dz": "146502_8 1216 116",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.174.2016.RLE"
+}
+},
+{
+"d": "2016-10-24",
+"c": {
+"inw": "budowa hurtowni z zapleczem socjalnym oraz zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "HYPOM Jerzy Wieczorek",
+"nier": "Fortuny",
+"dz": "146502_8 1217 22/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.174.2016.RLE"
+}
+},
+{
+"d": "2016-10-24",
+"c": {
+"inw": "budowa hurtowni z zapleczem socjalnym oraz zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "HYPOM Jerzy Wieczorek",
+"nier": "Fortuny",
+"dz": "146502_8 1217 22/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.174.2016.RLE"
+}
+},
+{
+"d": "2016-10-24",
+"c": {
+"inw": "budowa hurtowni z zapleczem socjalnym oraz zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "HYPOM Jerzy Wieczorek",
+"nier": "Fortuny",
+"dz": "146502_8 1217 22/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.174.2016.RLE"
+}
+},
+{
+"d": "2016-10-21",
+"c": {
+"inw": "przebudowa m częsci budynku nr 56 wraz ze zmianą sposbu użytkowania magazynu na pomieszczenia szkolno-laboratoryjne inżynierii materiałów budowlanych WIG wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "WAT",
+"nier": "Kaliskiego 2 / gen. Sylwestra",
+"dz": "146502_8 0811 10/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.187.2016.MSZ"
+}
+},
+{
+"d": "2016-10-21",
+"c": {
+"inw": "budowa budynku usługowo-magazynowego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Dywizjonu 303",
+"dz": "146502_8 0615 43/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.177.2016. MSZ"
+}
+},
+{
+"d": "2016-10-18",
+"c": {
+"inw": "wniosek o zmianę dec. nr 23/2016 z dn. 04.02.16 poprzez zatwiedzenie projektu zamiennego na budowę budynku mieszkalnego wielorodzinnego z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Robyg Osiedle Kameralne Sp. z o.o.",
+"nier": "Połczyńska",
+"dz": "146502_8 1214 199/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.170.2016.HWI"
+}
+},
+{
+"d": "2016-10-18",
+"c": {
+"inw": "wniosek o zmianę dec. nr 23/2016 z dn. 04.02.16 poprzez zatwiedzenie projektu zamiennego na budowę budynku mieszkalnego wielorodzinnego z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Robyg Osiedle Kameralne Sp. z o.o.",
+"nier": "Połczyńska",
+"dz": "146502_8 1214 181/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.170.2016.HWI"
+}
+},
+{
+"d": "2016-10-17",
+"c": {
+"inw": "budowa instalacji gazowej dla budynku usługowego w trakcie rozbudowy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PAGG sp. z o.o.",
+"nier": "Pirenejska 2C",
+"dz": "146502_8 0809 172/54",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.6.2016.LKO (173)"
+}
+},
+{
+"d": "2016-10-17",
+"c": {
+"inw": "przebudowa budynku mieszkalnego jednorodzinnego oraz termomodernizacja wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Telefoniczna 2",
+"dz": "146502_8 0801 100",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.164.2016.KDK"
+}
+},
+{
+"d": "2016-10-14",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego w zabudowie bliźniaczej wraz z wiatą garażową oraz częściowa rozbiórka i przebudowa istniejącego budynku mieszkalnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Oświatowa 19",
+"dz": "146502_8 1115 84",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.165.2016.ECI"
+}
+},
+{
+"d": "2016-10-14",
+"c": {
+"inw": "budowa zespołu budynków mieszkalnych wielorodzinnych z usługami w parterze, garażami podziemnymi, zagospodarowaniem terenu i infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Cordia Żyrardów Sp. z o.o.",
+"nier": "Lazurowa",
+"dz": "146502_8 1315 44/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.163.2016.HWI"
+}
+},
+{
+"d": "2016-10-14",
+"c": {
+"inw": "budowa zespołu budynków mieszkalnych wielorodzinnych z usługami w parterze, garażami podziemnymi, zagospodarowaniem terenu i infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Cordia Żyrardów Sp. z o.o.",
+"nier": "Lazurowa",
+"dz": "146502_8 1315 44/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.163.2016.HWI"
+}
+},
+{
+"d": "2016-10-13",
+"c": {
+"inw": "budowa garażu budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Kruszyńska 22",
+"dz": "146502_8 1115 76/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.172.2016.RLE"
+}
+},
+{
+"d": "2016-10-10",
+"c": {
+"inw": "budowa drogi publicznej kategorii gminnej, łącznika drogowego wraz z infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "Marvipol Development 2 Sp. z o.o.",
+"nier": "",
+"dz": "146502_8 1311 31/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.162.2016.HWI"
+}
+},
+{
+"d": "2016-10-10",
+"c": {
+"inw": "budowa drogi publicznej kategorii gminnej, łącznika drogowego wraz z infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "Marvipol Development 2 Sp. z o.o.",
+"nier": "",
+"dz": "146502_8 1311 32/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.162.2016.HWI"
+}
+},
+{
+"d": "2016-10-10",
+"c": {
+"inw": "budowa drogi publicznej kategorii gminnej, łącznika drogowego wraz z infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "Marvipol Development 2 Sp. z o.o.",
+"nier": "",
+"dz": "146502_8 1311 32/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.162.2016.HWI"
+}
+},
+{
+"d": "2016-10-10",
+"c": {
+"inw": "budowa drogi publicznej kategorii gminnej, łącznika drogowego wraz z infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "Marvipol Development 2 Sp. z o.o.",
+"nier": "",
+"dz": "146502_8 1311 33",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.162.2016.HWI"
+}
+},
+{
+"d": "2016-10-10",
+"c": {
+"inw": "budowa drogi publicznej kategorii gminnej, łącznika drogowego wraz z infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "Marvipol Development 2 Sp. z o.o.",
+"nier": "",
+"dz": "146502_8 1311 34/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.162.2016.HWI"
+}
+},
+{
+"d": "2016-10-10",
+"c": {
+"inw": "budowa drogi publicznej kategorii gminnej, łącznika drogowego wraz z infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "Marvipol Development 2 Sp. z o.o.",
+"nier": "",
+"dz": "146502_8 1311 34/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.162.2016.HWI"
+}
+},
+{
+"d": "2016-10-10",
+"c": {
+"inw": "budowa drogi publicznej kategorii gminnej, łącznika drogowego wraz z infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "Marvipol Development 2 Sp. z o.o.",
+"nier": "",
+"dz": "146502_8 1311 47/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.162.2016.HWI"
+}
+},
+{
+"d": "2016-10-10",
+"c": {
+"inw": "budowa drogi publicznej kategorii gminnej, łącznika drogowego wraz z infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "Marvipol Development 2 Sp. z o.o.",
+"nier": "",
+"dz": "146502_8 1311 47/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.162.2016.HWI"
+}
+},
+{
+"d": "2016-10-10",
+"c": {
+"inw": "budowa drogi publicznej kategorii gminnej, łącznika drogowego wraz z infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "Marvipol Development 2 Sp. z o.o.",
+"nier": "",
+"dz": "146502_8 1311 47/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.162.2016.HWI"
+}
+},
+{
+"d": "2016-10-10",
+"c": {
+"inw": "budowa drogi publicznej kategorii gminnej, łącznika drogowego wraz z infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "Marvipol Development 2 Sp. z o.o.",
+"nier": "",
+"dz": "146502_8 1311 47/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.162.2016.HWI"
+}
+},
+{
+"d": "2016-10-10",
+"c": {
+"inw": "budowa drogi publicznej kategorii gminnej, łącznika drogowego wraz z infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "Marvipol Development 2 Sp. z o.o.",
+"nier": "",
+"dz": "146502_8 1311 20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.162.2016.HWI"
+}
+},
+{
+"d": "2016-10-06",
+"c": {
+"inw": "Budowa parkingu dla samochodów osobowych mieszkańców istniejącego osiedla mieszkaniowego wielorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "Spółdzielnia Mieszkaniowa \"Górczewska\"",
+"nier": "Irzykowskiego / Karola",
+"dz": "146502_8 1112 16/36",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.166.2016.RLE"
+}
+},
+{
+"d": "2016-09-30",
+"c": {
+"inw": "rozbiórka budynku garażu rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Legionowa 18",
+"dz": "146502_8 1213 29/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6741.13.2016.ECI (163)"
+}
+},
+{
+"d": "2016-09-29",
+"c": {
+"inw": "budowa instalacji gazu do budynku mieszkalnego jednorodzinnego dwulokalowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Łokuciewskiego 9 / płk. Witolda",
+"dz": "146502_8 1102 18",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.169.2016.MSZ"
+}
+},
+{
+"d": "2016-09-29",
+"c": {
+"inw": "budynek mieszkalny jednorodzinny dwulokalowy budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Łokuciewskiego 9 / płk. Witolda",
+"dz": "146502_8 1102 18",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.168.2016.MSZ"
+}
+},
+{
+"d": "2016-09-28",
+"c": {
+"inw": "rozbudowa budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Sobczaka 23 / Michała",
+"dz": "146502_8 0802 164",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.156.2016.KDK"
+}
+},
+{
+"d": "2016-09-27",
+"c": {
+"inw": "budowa wewnętrznej instalacji gazowej do budynku mieszkalno-gospodarczego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Lustrzana 1",
+"dz": "146502_8 1213 123/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.157.2016.LKO (159)"
+}
+},
+{
+"d": "2016-09-27",
+"c": {
+"inw": "budowa budynku gospodarczego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Batalionów Chłopskich 85",
+"dz": "146502_8 1302 10/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.161.2016.RLE"
+}
+},
+{
+"d": "2016-09-26",
+"c": {
+"inw": "budowa instalacji gazowej zewnętrznej dla projektowanych dwóch budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Strzelców 9",
+"dz": "146502_8 1214 38",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.155.2016.LKO (157)"
+}
+},
+{
+"d": "2016-09-26",
+"c": {
+"inw": "budowa instalacji gazowej zewnętrznej dla projektowanych dwóch budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Strzelców 9",
+"dz": "146502_8 1214 39",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.155.2016.LKO (157)"
+}
+},
+{
+"d": "2016-09-23",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Oświatowa 6A",
+"dz": "146502_8 1115 119/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.154.2016.ECI (155)"
+}
+},
+{
+"d": "2016-09-23",
+"c": {
+"inw": "zespół budynków mieszkalnych wielorodzinnych z usługami i garażem podziemnym oraz niezbędną infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Profbud Sp. z o.o. Sp. k.",
+"nier": "Waldorffa 41 / Jerzego",
+"dz": "146502_8 1501 77/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.151.2016.KDK (156)"
+}
+},
+{
+"d": "2016-09-20",
+"c": {
+"inw": "rozbudowa garażu w budynku mieszkalnym jednorodzinnym wraz ze zmianą sposobu użytkowania na pomieszczenie gospodarcze rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Telewizyjna 32A",
+"dz": "146502_8 0803 50/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.149.2016.KDK (153)"
+}
+},
+{
+"d": "2016-09-20",
+"c": {
+"inw": "rozbudowa garażu w budynku mieszkalnym jednorodzinnym wraz ze zmianą sposobu użytkowania na pomieszczenie gospodarcze rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Telewizyjna 32A",
+"dz": "146502_8 0803 50/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.149.2016.KDK (153)"
+}
+},
+{
+"d": "2016-09-20",
+"c": {
+"inw": "rozbudowa garażu w budynku mieszkalnym jednorodzinnym wraz ze zmianą sposobu użytkowania na pomieszczenie gospodarcze rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Telewizyjna 32A",
+"dz": "146502_8 0803 50/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.149.2016.KDK (153)"
+}
+},
+{
+"d": "2016-09-19",
+"c": {
+"inw": "przebudowa okna balkonowego w lok. nr 3 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Obrońców Tobruku 18A",
+"dz": "146502_8 1501 45/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.148.2016.KDK (150)"
+}
+},
+{
+"d": "2016-09-14",
+"c": {
+"inw": "budowa instalacji gazowej w budynku mieszkalnym jednorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Akantu 1",
+"dz": "146502_8 0802 87",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.147.2016.ECI (149)"
+}
+},
+{
+"d": "2016-09-08",
+"c": {
+"inw": "przebudowa części budynku handlowo-usługowego na lokal handlowy sieci sklepów JYSK wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "TESCO Polska Sp. z o.o.",
+"nier": "Górczewska 218",
+"dz": "146502_8 1103 78/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.143.2016.ECI"
+}
+},
+{
+"d": "2016-09-07",
+"c": {
+"inw": "rozbiórka zbiornika mazutu nr 2 wraz z urządzeniami i instalacjami, estakadą rurociągów, nawierzchnią dna i obwałowaniami misy olejowej  na terenie Ciepłowni Wola rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGNiG Termika S.A.",
+"nier": "Połczyńska 21",
+"dz": "146502_8 1217 61/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.142.2016.ECI (147A)"
+}
+},
+{
+"d": "2016-09-07",
+"c": {
+"inw": "rozbiórka zbiornika mazutu nr 2 wraz z urządzeniami i instalacjami, estakadą rurociągów, nawierzchnią dna i obwałowaniami misy olejowej  na terenie Ciepłowni Wola rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGNiG Termika S.A.",
+"nier": "Połczyńska 21",
+"dz": "146502_8 1217 62",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.142.2016.ECI (147A)"
+}
+},
+{
+"d": "2016-09-07",
+"c": {
+"inw": "rozbiórka zbiornika mazutu nr 2 wraz z urządzeniami i instalacjami, estakadą rurociągów, nawierzchnią dna i obwałowaniami misy olejowej  na terenie Ciepłowni Wola rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGNiG Termika S.A.",
+"nier": "Połczyńska 21",
+"dz": "146502_8 1217 88",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.142.2016.ECI (147A)"
+}
+},
+{
+"d": "2016-09-06",
+"c": {
+"inw": "budowa instalacji gazowej do budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Moździerzy",
+"dz": "146502_8 1311 16/4",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.140.2016.ECI (147)"
+}
+},
+{
+"d": "2016-09-06",
+"c": {
+"inw": "budowa oświetlenia siłowni plenerowej budowa nowego/nowych obiektów budowlanych",
+"wn": "m.st Warszawa",
+"nier": "Żołnierzy Wyklętych",
+"dz": "146502_8 0810 446/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.146.2016.KDK (145)"
+}
+},
+{
+"d": "2016-09-06",
+"c": {
+"inw": "budowa oświetlenia siłowni plenerowej budowa nowego/nowych obiektów budowlanych",
+"wn": "m.st Warszawa",
+"nier": "Żołnierzy Wyklętych",
+"dz": "146502_8 0810 446/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.146.2016.KDK (145)"
+}
+},
+{
+"d": "2016-09-02",
+"c": {
+"inw": "budowa instalacji gazowej dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kruszyńska",
+"dz": "146502_8 1115 110",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.139.2016.ECI (144)"
+}
+},
+{
+"d": "2016-09-02",
+"c": {
+"inw": "budowa instalacji gazowej dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kruszyńska",
+"dz": "146502_8 1115 109/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.139.2016.ECI (144)"
+}
+},
+{
+"d": "2016-09-01",
+"c": {
+"inw": "przebudowa okien balkonowych w lok. nr 1 budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Obrońców Tobruku 18A",
+"dz": "146502_8 1501 45/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.144.2016.KDK (143)"
+}
+},
+{
+"d": "2016-09-01",
+"c": {
+"inw": "przebudowa i rozbudowa budynku Szkoły Podstawowej nr 306 ul. Tkaczy 27 rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "m.st Warszawa",
+"nier": "Tkaczy 27",
+"dz": "146502_8 1212 62/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.150.2016.RLE"
+}
+},
+{
+"d": "2016-09-01",
+"c": {
+"inw": "przebudowa i rozbudowa budynku Szkoły Podstawowej nr 306 ul. Tkaczy 27 rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "m.st Warszawa",
+"nier": "Tkaczy 27",
+"dz": "146502_8 1212 62/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.150.2016.RLE"
+}
+},
+{
+"d": "2016-09-01",
+"c": {
+"inw": "przebudowa i rozbudowa budynku Szkoły Podstawowej nr 306 ul. Tkaczy 27 rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "m.st Warszawa",
+"nier": "Tkaczy 27",
+"dz": "146502_8 1212 62/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.150.2016.RLE"
+}
+},
+{
+"d": "2016-09-01",
+"c": {
+"inw": "przebudowa i rozbudowa budynku Szkoły Podstawowej nr 306 ul. Tkaczy 27 rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "m.st Warszawa",
+"nier": "Tkaczy 27",
+"dz": "146502_8 1212 62/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.150.2016.RLE"
+}
+},
+{
+"d": "2016-09-01",
+"c": {
+"inw": "przebudowa i rozbudowa budynku Szkoły Podstawowej nr 306 ul. Tkaczy 27 rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "m.st Warszawa",
+"nier": "Tkaczy 27",
+"dz": "146502_8 1212 62/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.150.2016.RLE"
+}
+},
+{
+"d": "2016-09-01",
+"c": {
+"inw": "przebudowa i rozbudowa budynku Szkoły Podstawowej nr 306 ul. Tkaczy 27 rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "m.st Warszawa",
+"nier": "Tkaczy 27",
+"dz": "146502_8 1212 62/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.150.2016.RLE"
+}
+},
+{
+"d": "2016-09-01",
+"c": {
+"inw": "przebudowa i rozbudowa budynku Szkoły Podstawowej nr 306 ul. Tkaczy 27 rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "m.st Warszawa",
+"nier": "Tkaczy 27",
+"dz": "146502_8 1212 62/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.150.2016.RLE"
+}
+},
+{
+"d": "2016-08-31",
+"c": {
+"inw": "budowa instalacji gazowej w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "IDEAL INVEST Sp. z o.o.",
+"nier": "Kruszyńska 40A",
+"dz": "146502_8 1114 59",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.138.2016.ECI (141)"
+}
+},
+{
+"d": "2016-08-26",
+"c": {
+"inw": "rozbiórka budynku garażowo-warsztatowego nr 157 rozbiórka istniejącego obiektu budowlanego",
+"wn": "WAT",
+"nier": "Kaliskiego / gen. Sylwestra",
+"dz": "146502_8 0811 10/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6741.12.2016.LKO. (140)"
+}
+},
+{
+"d": "2016-08-22",
+"c": {
+"inw": "budowa instalacji gazowej dla budynku gospodarczego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Szeligowska 33A",
+"dz": "146502_8 1306 4/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.133.2016.LKO"
+}
+},
+{
+"d": "2016-08-19",
+"c": {
+"inw": "rozbiórka kotła K1 i trzech kotłotów EO125 wraz z ich urządzeniami i instalacjami w kotłowni w Ciepłowni Wola rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGNiG Termika S.A",
+"nier": "Połczyńska 21",
+"dz": "146502_8 1217 61/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6741.11.2016.LKO (136)"
+}
+},
+{
+"d": "2016-08-17",
+"c": {
+"inw": "budowa systemu świetlnego oznaczenia pola FATO, wizualnego wskaźnika kąta podejścia HAPI, systemu wizualnego naprowadzania azymutalnego SAGA oraz latarni lądowiskowej F-30 budowa nowego/nowych obiektów budowlanych",
+"wn": "SP ZOZ Lotnicze Pogotowie Ratunkowe",
+"nier": "Księżycowa 5",
+"dz": "146502_8 1001 7/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.132.2016.KDK (132)"
+}
+},
+{
+"d": "2016-08-17",
+"c": {
+"inw": "Przebudowa, dostosowanie do wymogów ppoż budynku mieszlanego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkniowa \"Jelonki\"",
+"nier": "Synów Pułku 10",
+"dz": "146502_8 1209 128/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.136.2016.RLE"
+}
+},
+{
+"d": "2016-08-17",
+"c": {
+"inw": "Przebudowa, dostosowanie do wymogów ppoż budynku mieszlanego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkniowa \"Jelonki\"",
+"nier": "Synów Pułku 10",
+"dz": "146502_8 1209 128/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.136.2016.RLE"
+}
+},
+{
+"d": "2016-08-10",
+"c": {
+"inw": "budowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Moździerzy 2",
+"dz": "146502_8 1311 16/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A-6740.129.2016.ECI (131)"
+}
+},
+{
+"d": "2016-08-08",
+"c": {
+"inw": "rozbudowa i przebudowa budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Bawełniana 21",
+"dz": "146502_8 0801 39",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.127.2016.KDK (130)"
+}
+},
+{
+"d": "2016-08-08",
+"c": {
+"inw": "rozbudowa i przebudowa budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Bawełniana 21",
+"dz": "146502_8 0801 40",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.127.2016.KDK (130)"
+}
+},
+{
+"d": "2016-08-05",
+"c": {
+"inw": "budowa instalacji gazu dla budynku małej poligrafii wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "ExpressMap Polska Sp. z o.o.",
+"nier": "Miejska 4A i 6",
+"dz": "146502_8 1212 150",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.126.2016.LKO (128)"
+}
+},
+{
+"d": "2016-08-05",
+"c": {
+"inw": "budowa instalacji gazu dla budynku małej poligrafii wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "ExpressMap Polska Sp. z o.o.",
+"nier": "Miejska 4A i 6",
+"dz": "146502_8 1212 152",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.126.2016.LKO (128)"
+}
+},
+{
+"d": "2016-08-05",
+"c": {
+"inw": "wykonanie otworów w ścianach działowych lok. nr 12 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Morcinka 2 / Gustawa",
+"dz": "146502_8 0808 65/20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.125.2016.KDK (129)"
+}
+},
+{
+"d": "2016-08-01",
+"c": {
+"inw": "budowa budynku apteki ogólnodostępnej wraz z zagospodarowaniem terenu i niezbędną infrastrukturą techniczną przy CH Kaufland budowa nowego/nowych obiektów budowlanych",
+"wn": "Apteki Miejskie Sp. z o.o.",
+"nier": "Batalionów Chłopskich 73",
+"dz": "146502_8 1305 6/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.124.2016.RLE (126)"
+}
+},
+{
+"d": "2016-08-01",
+"c": {
+"inw": "przebudowa pomieszczeń handlowych na slep perfumeryjno-drogeryjny Rossmann oraz umieszczenie reklamy na elewcji budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Rossmann Supermarkety Drogeryjne Polska Sp. z o.o",
+"nier": "Powstańców Śląskich",
+"dz": "146502_8 1501 16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.121.2016.KDK (127)"
+}
+},
+{
+"d": "2016-07-29",
+"c": {
+"inw": "sieć gazowa DN 160 mm z rur PE wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa Lokatorsko-Własnościowa \"Rozłogi\"",
+"nier": "Rozłogi",
+"dz": "146502_8 1206 22/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.119.2016.LKO (124)"
+}
+},
+{
+"d": "2016-07-29",
+"c": {
+"inw": "sieć gazowa DN 160 mm z rur PE wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa Lokatorsko-Własnościowa \"Rozłogi\"",
+"nier": "Rozłogi",
+"dz": "146502_8 1206 22/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.119.2016.LKO (124)"
+}
+},
+{
+"d": "2016-07-29",
+"c": {
+"inw": "sieć gazowa DN 160 mm z rur PE wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa Lokatorsko-Własnościowa \"Rozłogi\"",
+"nier": "Rozłogi",
+"dz": "146502_8 1206 22/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.119.2016.LKO (124)"
+}
+},
+{
+"d": "2016-07-29",
+"c": {
+"inw": "sieć gazowa DN 160 mm z rur PE wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa Lokatorsko-Własnościowa \"Rozłogi\"",
+"nier": "Rozłogi",
+"dz": "146502_8 1205 68/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.119.2016.LKO (124)"
+}
+},
+{
+"d": "2016-07-29",
+"c": {
+"inw": "sieć gazowa DN 160 mm z rur PE wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa Lokatorsko-Własnościowa \"Rozłogi\"",
+"nier": "Rozłogi",
+"dz": "146502_8 1205 68/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.119.2016.LKO (124)"
+}
+},
+{
+"d": "2016-07-22",
+"c": {
+"inw": "rozbudowa i nadbudowa wraz z dociepleniem budynku jednorodzinnego wolno stojącego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Miejska 18",
+"dz": "146502_8 1212 47",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.122.2016.RLE (121)"
+}
+},
+{
+"d": "2016-07-22",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Drzeworytników 103",
+"dz": "146502_8 1207 24",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.123.2016.RLE (120)"
+}
+},
+{
+"d": "2016-07-15",
+"c": {
+"inw": "powiększenie otworu okiennego w lok. użytkowym nr 1 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Fabiańska 2",
+"dz": "146502_8 1005 656",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.130.2016.MSZ (118)"
+}
+},
+{
+"d": "2016-07-13",
+"c": {
+"inw": "budowa wentylacji mechanicznej dla budynku mpodstacji trakcyjnej \"Wrocławska\" wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie Sp. z o.o.",
+"nier": "Wrocławska 6B",
+"dz": "146502_8 0804 16/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.116.2016.2016.KDK (116)"
+}
+},
+{
+"d": "2016-07-07",
+"c": {
+"inw": "przebudowa części budynku nr 100 WAT na laboratorium wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "12 Terenowy Oddział Lotniskowy w Warszawie",
+"nier": "Kaliskiego 2 / gen. Sylwestra",
+"dz": "146502_8 0811 10/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.114.2016.MSZ (134)"
+}
+},
+{
+"d": "2016-07-07",
+"c": {
+"inw": "przebudowa wiaty wejściowej na przedsionek wejściowy w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"Jelonki\"",
+"nier": "Puszczy Solskiej 3",
+"dz": "146502_8 1207 106/20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A..6740.113.2016.ECI (176)"
+}
+},
+{
+"d": "2016-07-07",
+"c": {
+"inw": "przebudowa wiaty wejściowej na przedsionek wejściowy w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"Jelonki\"",
+"nier": "Puszczy Solskiej 3",
+"dz": "146502_8 1207 106/21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A..6740.113.2016.ECI (176)"
+}
+},
+{
+"d": "2016-07-07",
+"c": {
+"inw": "przebudowa wiaty wejściowej na przedsionek wejściowy w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"Jelonki\"",
+"nier": "Puszczy Solskiej 3",
+"dz": "146502_8 1207 106/30",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A..6740.113.2016.ECI (176)"
+}
+},
+{
+"d": "2016-07-07",
+"c": {
+"inw": "przebudowa wiaty wejściowej na przedsionek wejściowy w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"Jelonki\"",
+"nier": "Sucharskiego 8 / mjr. Henryka",
+"dz": "146502_8 1208 7/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.111.2016.ECI (113)"
+}
+},
+{
+"d": "2016-07-07",
+"c": {
+"inw": "przebudowa wiaty wejściowej na przedsionek wejściowy w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"Jelonki\"",
+"nier": "Borowej Góry 5",
+"dz": "146502_8 1208 22/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.112.2016.ECI (175)"
+}
+},
+{
+"d": "2016-07-06",
+"c": {
+"inw": "wydzielenie pożarowe istniejącej klatki schodowej w celu spełnienia warunków ewakuacyjnych w budynku biurowym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Instytut Energetyki Instytut Badawczy",
+"nier": "Mory 8",
+"dz": "146502_8 1312 8/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.117.2016.HWI"
+}
+},
+{
+"d": "2016-07-06",
+"c": {
+"inw": "budowa budynku biurowo-usługowego budowa nowego/nowych obiektów budowlanych",
+"wn": "AUTO LUX 58 Sławomir Uszyński",
+"nier": "Połczyńska 58",
+"dz": "146502_8 1213 136",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.118.2016.HWI (112)"
+}
+},
+{
+"d": "2016-07-05",
+"c": {
+"inw": "rozbiórka dwóch budynków mieszkalnych jednorodzinnych rozbiórka istniejącego obiektu budowlanego",
+"wn": "Agencja Handlowo-Usługowa Targowiska i Hale Sp. z o.o.",
+"nier": "Powstańców Śląskich 50",
+"dz": "146502_8 1114 11",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6741.9.2016.ECI (108)"
+}
+},
+{
+"d": "2016-07-05",
+"c": {
+"inw": "budowa instalacji gazowej w lokalu użytkowym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "\"Sąsiedzi\" s.c. K. Sobesto K. Wierzbowska",
+"nier": "Radiowa 24",
+"dz": "146502_8 0803 11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.105.2016.LKO (109)"
+}
+},
+{
+"d": "2016-07-05",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z przychodnią lekarską w parterze i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Agencja Handlowo-Usługowa \"Targowiska i Hale\" Sp. z o.o.",
+"nier": "Powstańców Śląskich 50",
+"dz": "146502_8 1114 11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.107.2016.ECI (107)"
+}
+},
+{
+"d": "2016-07-04",
+"c": {
+"inw": "wniosek o zmianę dec. nr 71/20161 z dn. 19.04.16 poprzez zatwierdzenie projektu zamiennego na budowę budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Kruszyńska 2, 2A",
+"dz": "146502_8 1115 100",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.106.2016.ECI (105)"
+}
+},
+{
+"d": "2016-07-04",
+"c": {
+"inw": "wniosek o zmianę dec. nr 71/20161 z dn. 19.04.16 poprzez zatwierdzenie projektu zamiennego na budowę budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Kruszyńska 2, 2A",
+"dz": "146502_8 1115 111",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.106.2016.ECI (105)"
+}
+},
+{
+"d": "2016-07-04",
+"c": {
+"inw": "wniosek o zmianę dec. nr 71/20161 z dn. 19.04.16 poprzez zatwierdzenie projektu zamiennego na budowę budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Kruszyńska 2, 2A",
+"dz": "146502_8 1115 109",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.106.2016.ECI (105)"
+}
+},
+{
+"d": "2016-07-04",
+"c": {
+"inw": "rozbudowa i nadbudowa budynku mieszkalnego jednorodzinnego w zabudowie szeregowej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Bolimowska 5",
+"dz": "146502_8 1005 512",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.115.2016.MSZ (106)"
+}
+},
+{
+"d": "2016-07-01",
+"c": {
+"inw": "zabudowa mieszkalna wielorodzinna z usługami na parterze i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "CGLS Sp. z o.o.",
+"nier": "Jana Olbrachta",
+"dz": "146502_8 1111 22/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.103.2016.HWI (104)"
+}
+},
+{
+"d": "2016-07-01",
+"c": {
+"inw": "zabudowa mieszkalna wielorodzinna z usługami na parterze i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "CGLS Sp. z o.o.",
+"nier": "Jana Olbrachta",
+"dz": "146502_8 1111 22/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.103.2016.HWI (104)"
+}
+},
+{
+"d": "2016-07-01",
+"c": {
+"inw": "zabudowa mieszkalna wielorodzinna z usługami na parterze i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "CGLS Sp. z o.o.",
+"nier": "Jana Olbrachta",
+"dz": "146502_8 1111 22/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.103.2016.HWI (104)"
+}
+},
+{
+"d": "2016-07-01",
+"c": {
+"inw": "budowa zabudowy mieszkaniowej wielorodzinnej z usługami na parterze i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "CGL VIII Sp. z o.o. Sp. k.",
+"nier": "Jana Olbrachta",
+"dz": "146502_8 1111 22/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.104.2016.HWI (103)"
+}
+},
+{
+"d": "2016-07-01",
+"c": {
+"inw": "budowa zabudowy mieszkaniowej wielorodzinnej z usługami na parterze i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "CGL VIII Sp. z o.o. Sp. k.",
+"nier": "Jana Olbrachta",
+"dz": "146502_8 1111 22/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.104.2016.HWI (103)"
+}
+},
+{
+"d": "2016-06-30",
+"c": {
+"inw": "wykonanie otworów okiennych w ścianie zewnętrznej budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Obrońców Tobruku 25",
+"dz": "146502_8 1501 53/25",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.101.2016.KDK (102)"
+}
+},
+{
+"d": "2016-06-30",
+"c": {
+"inw": "wykonanie otworów okiennych w ścianie zewnętrznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Obrońców Tobruku 25",
+"dz": "146502_8 1501 53/25",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.102.2016.KDK (174)"
+}
+},
+{
+"d": "2016-06-30",
+"c": {
+"inw": "przebudowa parkingu wraz z przebudową infrastruktury technicznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Porsche Inter Auto Polska Sp. z o.o.",
+"nier": "Połczyńska 107 i 109",
+"dz": "146502_8 1313 37/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.110.2016.RLE (100)"
+}
+},
+{
+"d": "2016-06-30",
+"c": {
+"inw": "budowa budynku gospodarczego i szczelnego zbiornika na nieczystości płynne budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Szeligowska 33A",
+"dz": "146502_8 1306 4/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.109.2016.RLE (99)"
+}
+},
+{
+"d": "2016-06-24",
+"c": {
+"inw": "budowa instalacji gazowej w budynku biurowo-szkoleniowym \"Tarczowni\" wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "WAT",
+"nier": "Kocjana 70A / Antoniego",
+"dz": "146502_8 1002 35",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.97.2016.LKO (98)"
+}
+},
+{
+"d": "2016-06-16",
+"c": {
+"inw": "wykonanie otworu drzwiowego między lokalami nr 58 i 59 w budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Widawska 3",
+"dz": "146502_8 0805 3/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.93.2016.KDK (96)"
+}
+},
+{
+"d": "2016-06-15",
+"c": {
+"inw": "roboty budowlane polegające na poszerzeniu otworu okiennegow budynku mieszklanym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Grodkowska 4",
+"dz": "146502_8 1104 86/16",
+"rodz": "",
+"nr": "UD-WAB-A.6740.99.2016.RLE"
+}
+},
+{
+"d": "2016-06-14",
+"c": {
+"inw": "przebudowa lok. mieszkalnego w budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Łagowska 3",
+"dz": "146502_8 1106 16/34",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.98.2016.RLE (93)"
+}
+},
+{
+"d": "2016-06-07",
+"c": {
+"inw": "budynek wielorodzinny z dwupoziomowym parkingiem podziemnym i infrastrukturą techniczną. Projekt zamienny do dec. nr 86/2015 z dn. 29.04.15 budowa nowego/nowych obiektów budowlanych",
+"wn": "DWP Sp. z o.o.",
+"nier": "Powstańców Śląskich 52, 52A",
+"dz": "146502_8 1114 9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.94.2016.KDK (91)"
+}
+},
+{
+"d": "2016-06-07",
+"c": {
+"inw": "budynek wielorodzinny z dwupoziomowym parkingiem podziemnym i infrastrukturą techniczną. Projekt zamienny do dec. nr 86/2015 z dn. 29.04.15 budowa nowego/nowych obiektów budowlanych",
+"wn": "DWP Sp. z o.o.",
+"nier": "Powstańców Śląskich 52, 52A",
+"dz": "146502_8 1114 10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.94.2016.KDK (91)"
+}
+},
+{
+"d": "2016-06-06",
+"c": {
+"inw": "wniosek o zmianę decyzji Nr 51/2015 z dnia 10.03.2015r. - zamienny projekt budowlany w zakresie pzt i projektu architektoniczno-budowlanego budowa nowego/nowych obiektów budowlanych",
+"wn": "Robyg Young City Sp. z o.o.",
+"nier": "Batalionów Chłopskich",
+"dz": "146502_8 1302 9/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.90.2016.HWI"
+}
+},
+{
+"d": "2016-06-06",
+"c": {
+"inw": "zmiana decyzji nr 18/2015 z dnia 26.01.2015r. - zamienny projekt budowlany w zakresie pzt i projektu architektoniczno-budowlanego budowa nowego/nowych obiektów budowlanych",
+"wn": "Robyg Young City Sp. z o.o.",
+"nier": "Szeligowska",
+"dz": "146502_8 1302 9/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.91.2016.HWI"
+}
+},
+{
+"d": "2016-06-01",
+"c": {
+"inw": "wniosek o zmianę dec. nr 199/2010 z dn. 23.09.10, nr 95/2013 z dn. 09.05.13, nr 134/2014 z dn. 30.07.14 w zakresie projektu zagospodarowania terenu. Budowa budynku jednorodzinnego. budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Bawełniana 25",
+"dz": "146502_8 0801 33",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.87.2016.KDK (87)"
+}
+},
+{
+"d": "2016-05-24",
+"c": {
+"inw": "rozbudowa budynku mieszkalnego jednorodzinnego w zabudowie bliźniaczej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Iskry 25",
+"dz": "146502_8 1005 323",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.84.2016.MSZ (84)"
+}
+},
+{
+"d": "2016-05-24",
+"c": {
+"inw": "budowa sieci elektroenergetycznych podziemnych SN/nN oraz słupów SN/nN wraz z demontażem sieci elektroenergetycznej podziemnej i nadziemnej budowa nowego/nowych obiektów budowlanych",
+"wn": "RWE Stoen Operator Sp. z o.o.",
+"nier": "Połczyńska",
+"dz": "146502_8 1308 40/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.86.2016.HWI (85)"
+}
+},
+{
+"d": "2016-05-24",
+"c": {
+"inw": "budowa sieci elektroenergetycznych podziemnych SN/nN oraz słupów SN/nN wraz z demontażem sieci elektroenergetycznej podziemnej i nadziemnej budowa nowego/nowych obiektów budowlanych",
+"wn": "RWE Stoen Operator Sp. z o.o.",
+"nier": "Połczyńska",
+"dz": "146502_8 1308 62/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.86.2016.HWI (85)"
+}
+},
+{
+"d": "2016-05-24",
+"c": {
+"inw": "budowa sieci elektroenergetycznych podziemnych SN/nN oraz słupów SN/nN wraz z demontażem sieci elektroenergetycznej podziemnej i nadziemnej budowa nowego/nowych obiektów budowlanych",
+"wn": "RWE Stoen Operator Sp. z o.o.",
+"nier": "Połczyńska",
+"dz": "146502_8 1308 62/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.86.2016.HWI (85)"
+}
+},
+{
+"d": "2016-05-24",
+"c": {
+"inw": "budowa sieci elektroenergetycznych podziemnych SN/nN oraz słupów SN/nN wraz z demontażem sieci elektroenergetycznej podziemnej i nadziemnej budowa nowego/nowych obiektów budowlanych",
+"wn": "RWE Stoen Operator Sp. z o.o.",
+"nier": "Połczyńska",
+"dz": "146502_8 1308 62/15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.86.2016.HWI (85)"
+}
+},
+{
+"d": "2016-05-24",
+"c": {
+"inw": "budowa sieci elektroenergetycznych podziemnych SN/nN oraz słupów SN/nN wraz z demontażem sieci elektroenergetycznej podziemnej i nadziemnej budowa nowego/nowych obiektów budowlanych",
+"wn": "RWE Stoen Operator Sp. z o.o.",
+"nier": "Połczyńska",
+"dz": "146502_8 1308 62/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.86.2016.HWI (85)"
+}
+},
+{
+"d": "2016-05-24",
+"c": {
+"inw": "budowa sieci elektroenergetycznych podziemnych SN/nN oraz słupów SN/nN wraz z demontażem sieci elektroenergetycznej podziemnej i nadziemnej budowa nowego/nowych obiektów budowlanych",
+"wn": "RWE Stoen Operator Sp. z o.o.",
+"nier": "Połczyńska",
+"dz": "146502_8 1308 62/17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.86.2016.HWI (85)"
+}
+},
+{
+"d": "2016-05-24",
+"c": {
+"inw": "budowa sieci elektroenergetycznych podziemnych SN/nN oraz słupów SN/nN wraz z demontażem sieci elektroenergetycznej podziemnej i nadziemnej budowa nowego/nowych obiektów budowlanych",
+"wn": "RWE Stoen Operator Sp. z o.o.",
+"nier": "Połczyńska",
+"dz": "146502_8 1308 43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.86.2016.HWI (85)"
+}
+},
+{
+"d": "2016-05-24",
+"c": {
+"inw": "budowa sieci elektroenergetycznych podziemnych SN/nN oraz słupów SN/nN wraz z demontażem sieci elektroenergetycznej podziemnej i nadziemnej budowa nowego/nowych obiektów budowlanych",
+"wn": "RWE Stoen Operator Sp. z o.o.",
+"nier": "Połczyńska",
+"dz": "146502_8 1308 44",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.86.2016.HWI (85)"
+}
+},
+{
+"d": "2016-05-24",
+"c": {
+"inw": "budowa sieci elektroenergetycznych podziemnych SN/nN oraz słupów SN/nN wraz z demontażem sieci elektroenergetycznej podziemnej i nadziemnej budowa nowego/nowych obiektów budowlanych",
+"wn": "RWE Stoen Operator Sp. z o.o.",
+"nier": "Połczyńska",
+"dz": "146502_8 1308 45",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.86.2016.HWI (85)"
+}
+},
+{
+"d": "2016-05-24",
+"c": {
+"inw": "budowa instalacji gazowej do projektowanej hali magazynowej z częscią socjalną wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Szeligowska",
+"dz": "146502_8 1301 6/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.85.2016.LKO (86)"
+}
+},
+{
+"d": "2016-05-23",
+"c": {
+"inw": "rozbudowa i nadbudowa budynku jednorodzinnego. Projekt zamienny do dec. nr 256/2014 z dn. 23.12.14 rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Kunickiego 31 / Stanisława",
+"dz": "146502_8 0803 30",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.82.2016.KDK (83)"
+}
+},
+{
+"d": "2016-05-16",
+"c": {
+"inw": "docieplenie budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa Górczewska",
+"nier": "Szwankowskiego 5 / Eugeniusza",
+"dz": "146502_8 1109 4/76",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.75.2016.LKO"
+}
+},
+{
+"d": "2016-05-16",
+"c": {
+"inw": "docieplenie budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa Górczewska",
+"nier": "Szwankowskiego 7 / Eugeniusza",
+"dz": "146502_8 1109 4/76",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.76.2016.LKO"
+}
+},
+{
+"d": "2016-05-12",
+"c": {
+"inw": "rozbudowa budynku warsztatowego (wbudowanie nowej bramy oraz drzwi ewakuacyjnych) rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Instytut Techniczny Wojsk Lotniczych",
+"nier": "Bolesława 6 / Księcia",
+"dz": "146502_8 1501 66/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.72.2016.KDK (75)"
+}
+},
+{
+"d": "2016-05-11",
+"c": {
+"inw": "przebudowa częsci pomieszczeń w budynku biurowo-technicznym BRUO IEN na potrzeby komercyjnego CPD wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Exatel S.A.",
+"nier": "Mory 8",
+"dz": "146502_8 1312 8/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.77.2016.RLE (74)"
+}
+},
+{
+"d": "2016-05-10",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Miejska",
+"dz": "146502_8 1212 35/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.73.2016.RLE (73)"
+}
+},
+{
+"d": "2016-05-09",
+"c": {
+"inw": "docieplenie północnej elewacji szczytowej budynku wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"Lazurowa\"",
+"nier": "Lazurowa 4",
+"dz": "146502_8 1205 56",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.71.2016.RLE (72)"
+}
+},
+{
+"d": "2016-04-29",
+"c": {
+"inw": "przebudowa budynku pływalni i centrum rehabilitacji żołnierzy w Studium Wychowania Fizycznego WAT wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "WAT",
+"nier": "Kartezjusza 1",
+"dz": "146502_8 1003 322",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.70.2016.MSZ (71)"
+}
+},
+{
+"d": "2016-04-28",
+"c": {
+"inw": "rozbudowa budynku nr 12 rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Instytut Techniczny Wojsk Lotniczych",
+"nier": "Bolesława 6 / Księcia",
+"dz": "146502_8 1501 66/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.66.2016.KDK (70)"
+}
+},
+{
+"d": "2016-04-26",
+"c": {
+"inw": "budowa zespołu budynków mieszkalnych wielorodzinnych ze wspólnym garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Mercury-City Villa Sp. z o.o Sp. K",
+"nier": "Narwik 18",
+"dz": "146502_8 1314 32/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB.A.6740.65.2016.RLE (68)"
+}
+},
+{
+"d": "2016-04-26",
+"c": {
+"inw": "rozbudowa i przebudowa budynku nr 137 WAT na laboratorium badań systemu laserowego dużej mocy rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "WAT",
+"nier": "2",
+"dz": "146502_8 0811 10/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.69.2016.MSZ (67)"
+}
+},
+{
+"d": "2016-04-26",
+"c": {
+"inw": "wymiana instalacji wewnętrznej gazu wraz z wyniesieniem kurków głównych na elewację budynków wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa \"Radiowa 21\"",
+"nier": "Radiowa 21, 21A, 23, 23A, 25, 25A, 25B, 25C",
+"dz": "146502_8 1002 15/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.67.2016.MSZ (69)"
+}
+},
+{
+"d": "2016-04-26",
+"c": {
+"inw": "wymiana instalacji wewnętrznej gazu wraz z wyniesieniem kurków głównych na elewację budynków wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa \"Radiowa 21\"",
+"nier": "Radiowa 21, 21A, 23, 23A, 25, 25A, 25B, 25C",
+"dz": "146502_8 1002 15/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.67.2016.MSZ (69)"
+}
+},
+{
+"d": "2016-04-26",
+"c": {
+"inw": "wymiana instalacji wewnętrznej gazu wraz z wyniesieniem kurków głównych na elewację budynków wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa \"Radiowa 21\"",
+"nier": "Radiowa 21, 21A, 23, 23A, 25, 25A, 25B, 25C",
+"dz": "146502_8 1002 15/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.67.2016.MSZ (69)"
+}
+},
+{
+"d": "2016-04-26",
+"c": {
+"inw": "wymiana instalacji wewnętrznej gazu wraz z wyniesieniem kurków głównych na elewację budynków wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa \"Radiowa 21\"",
+"nier": "Radiowa 21, 21A, 23, 23A, 25, 25A, 25B, 25C",
+"dz": "146502_8 1002 15/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.67.2016.MSZ (69)"
+}
+},
+{
+"d": "2016-04-26",
+"c": {
+"inw": "wymiana instalacji wewnętrznej gazu wraz z wyniesieniem kurków głównych na elewację budynków wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa \"Radiowa 21\"",
+"nier": "Radiowa 21, 21A, 23, 23A, 25, 25A, 25B, 25C",
+"dz": "146502_8 1002 15/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.67.2016.MSZ (69)"
+}
+},
+{
+"d": "2016-04-26",
+"c": {
+"inw": "wymiana instalacji wewnętrznej gazu wraz z wyniesieniem kurków głównych na elewację budynków wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa \"Radiowa 21\"",
+"nier": "Radiowa 21, 21A, 23, 23A, 25, 25A, 25B, 25C",
+"dz": "146502_8 1002 15/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.67.2016.MSZ (69)"
+}
+},
+{
+"d": "2016-04-25",
+"c": {
+"inw": "wykonanie otworów w ścianie żelbetonowej lok. nr 802 na ostatniej kondygnacji budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "NOVA-TOR Sp. z o.o.",
+"nier": "Grodkowska 3",
+"dz": "146502_8 1104 137/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.64.2016.KDK (65)"
+}
+},
+{
+"d": "2016-04-25",
+"c": {
+"inw": "wykonanie otworów w ścianie żelbetonowej lok. nr 802 na ostatniej kondygnacji budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "NOVA-TOR Sp. z o.o.",
+"nier": "Grodkowska 3",
+"dz": "146502_8 1104 132/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.64.2016.KDK (65)"
+}
+},
+{
+"d": "2016-04-25",
+"c": {
+"inw": "budowa hali magazynowej z częścią socjalną budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Szeligowska",
+"dz": "146502_8 1301 6/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.63.2016.RLE (66)"
+}
+},
+{
+"d": "2016-04-22",
+"c": {
+"inw": "częściowa wymiana docieplenia budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"Wola\"",
+"nier": "Gołuchowska 13",
+"dz": "146502_8 0804 3/15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.68.2016.MSZ (64)"
+}
+},
+{
+"d": "2016-04-20",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 mm wraz z infrastrukturą towarzyszącą oraz przebudową kolidującego uzbrojenia budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "Lazurowa",
+"dz": "146502_8 1109 9/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.60/2016.LKO (63)"
+}
+},
+{
+"d": "2016-04-19",
+"c": {
+"inw": "przebudowa lokalu mieszkalnego w budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kaden-Bandrowskiego 5 / Juliusza",
+"dz": "146502_8 0805 3/23",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.61.2016.KDK (62)"
+}
+},
+{
+"d": "2016-04-18",
+"c": {
+"inw": "przebudowa - dostosowanie do wymogów ppoż. budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"Jelonki\"",
+"nier": "Borowej Góry 8",
+"dz": "146502_8 1208 18/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.62.2016.RLE (61)"
+}
+},
+{
+"d": "2016-04-18",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolno stojącego z garażem budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Akantu 22",
+"dz": "146502_8 0802 191",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.55.2016.KDK (57)"
+}
+},
+{
+"d": "2016-04-13",
+"c": {
+"inw": "przebudowa 54 oddziału PKO BP SA w Centrum Handlowym \"Tesco\" wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Powszechna Kasa Oszczędności BP S.A.",
+"nier": "Połczyńska 121",
+"dz": "146502_8 1313 29/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.59.2016.RLE (56)"
+}
+},
+{
+"d": "2016-04-08",
+"c": {
+"inw": "rozbudowa, nadbudowa i przebudowa budynku mieszkalnego jednorodzinnego nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Podkowińska 5",
+"dz": "146502_8 1005 268",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.52.2016.MSZ (55)"
+}
+},
+{
+"d": "2016-04-07",
+"c": {
+"inw": "rozbudowa, przebudowa i nadbudowa budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Okrętowa 74A",
+"dz": "146502_8 1207 10",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.54.2016.RLE (53)"
+}
+},
+{
+"d": "2016-04-07",
+"c": {
+"inw": "budowa instalacji gazu dla budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Słomiana",
+"dz": "146502_8 1212 26/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.49/2016.LKO (54)"
+}
+},
+{
+"d": "2016-04-06",
+"c": {
+"inw": "przebudowa budynku mieszkalno-usługowego zwiazana ze zmianą sposobu użytkowania na lokal mieszklany rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Reżyserska 5",
+"dz": "146502_8 1207 59",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.53.2016.RLE"
+}
+},
+{
+"d": "2016-04-06",
+"c": {
+"inw": "przebudowa budynku mieszkalno-usługowego zwiazana ze zmianą sposobu użytkowania na lokal mieszklany rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Reżyserska 5",
+"dz": "146502_8 1207 60",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.53.2016.RLE"
+}
+},
+{
+"d": "2016-04-06",
+"c": {
+"inw": "przebudowa budynku mieszkalno-usługowego zwiazana ze zmianą sposobu użytkowania na lokal mieszklany rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Reżyserska 5",
+"dz": "146502_8 1207 61",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.53.2016.RLE"
+}
+},
+{
+"d": "2016-04-06",
+"c": {
+"inw": "budowa linii kablowej SN 15kV, przebudowa istniejącej linii kablowej oraz demontaż fragmentu istniejącej linii budowa nowego/nowych obiektów budowlanych",
+"wn": "Profbud-1 Sp. z o.o. Sp. K.",
+"nier": "Waldorffa / Jerzego",
+"dz": "146502_8 1501 77/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.46.2016.LKO (51)"
+}
+},
+{
+"d": "2016-04-06",
+"c": {
+"inw": "budowa linii kablowej SN 15kV, przebudowa istniejącej linii kablowej oraz demontaż fragmentu istniejącej linii budowa nowego/nowych obiektów budowlanych",
+"wn": "Profbud-1 Sp. z o.o. Sp. K.",
+"nier": "Waldorffa / Jerzego",
+"dz": "146502_8 1501 77/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.46.2016.LKO (51)"
+}
+},
+{
+"d": "2016-04-01",
+"c": {
+"inw": "rozbudowa budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Cieplarniana 12",
+"dz": "146502_8 1005 344",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.47.2016.MSZ(48)"
+}
+},
+{
+"d": "2016-04-01",
+"c": {
+"inw": "budowa instalacji gazowej dla budynku mieszkalnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Lustrzana 17",
+"dz": "146502_8 1211 173/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.44.2016.LKO(47)"
+}
+},
+{
+"d": "2016-04-01",
+"c": {
+"inw": "budowa hali magazynowej z zapleczem socjalno-sanitarnym wraz z instalacjami i urządzeniami technicznymi oraz zmiana sposobu użytkowania garażu na pomieszczenie usługowe napraw mechanicznych pojazdów samochodowych budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Szeligowska 26B",
+"dz": "146502_8 1305 8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.50.2016.RLE (49)"
+}
+},
+{
+"d": "2016-04-01",
+"c": {
+"inw": "rozbudowa budynku mieszkalnego jednorodzinnego w zabudowie szeregowej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Radziejowicka 5",
+"dz": "146502_8 1005 628",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.48.2016 MSZ (50)"
+}
+},
+{
+"d": "2016-03-31",
+"c": {
+"inw": "przebudowa sklepu samoobsługowego spożywczo-przemysłowego \"Biedronka\" wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Jeronimo Martins Polska S.A.",
+"nier": "Szadkowskiego 1 / ppłk. Wacława",
+"dz": "146502_8 0806 3/32",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.42.2016.KDK (46)"
+}
+},
+{
+"d": "2016-03-31",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Dom Development S.A",
+"nier": "Pełczyńskiego / gen. Tadeusza",
+"dz": "146502_8 1103 57/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.43.2016.LKO (44)"
+}
+},
+{
+"d": "2016-03-31",
+"c": {
+"inw": "budowa sieci kanalizacji ogólnospławnej budowa nowego/nowych obiektów budowlanych",
+"wn": "Dom Development S.A.",
+"nier": "Pełczyńskiego / gen. Tadeusza",
+"dz": "146502_8 1103 57/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.41.2016.LKO (45)"
+}
+},
+{
+"d": "2016-03-25",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Drzeworytników 55",
+"dz": "146502_8 1211 81/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WOM-KOB/1847/16 (42)"
+}
+},
+{
+"d": "2016-03-24",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym i niezbędną infrastrukturą techniczną oraz roazbiórka kolidującego garażu podziemnego z wyłączeniem sieci i przyłączy budowa nowego/nowych obiektów budowlanych",
+"wn": "PRK 7 Nieruchomości Sp. z o.o.",
+"nier": "Górczewska",
+"dz": "146502_8 1102 111/41",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WOM-KOB/1823/16 (41)"
+}
+},
+{
+"d": "2016-03-24",
+"c": {
+"inw": "budowa instalacji gazu do budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kopalniana",
+"dz": "146502_8 1310 4/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WOM-KOB/1812/16 (40)"
+}
+},
+{
+"d": "2016-03-21",
+"c": {
+"inw": "rozbiórka budynku gospodarczego i garażu rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Oświatowa",
+"dz": "146502_8 1114 111",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WOM-KOB/1656/16 (37)"
+}
+},
+{
+"d": "2016-03-18",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego, budynku gospodarczego oraz dwóch budynków garażowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Lustrzana 6",
+"dz": "146502_8 1213 16",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WOM-KOB/1643/16 (36)"
+}
+},
+{
+"d": "2016-03-17",
+"c": {
+"inw": "rozbudowa, nadbudowa i zmiana sposobu użytkowania budynku jednorodzinnego na budynek mieszkalno-usługowy oraz wyburzenie budynku gospodarczego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Strąkowa 48",
+"dz": "146502_8 1114 54",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WOM-KOB/1612/16 (35)"
+}
+},
+{
+"d": "2016-03-17",
+"c": {
+"inw": "instalacja okien w połaci dachowej pomiędzy istniejącymi krokwiami bez naruszania konstrukcji w budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Powstańców Śląskich 108C",
+"dz": "146502_8 0806 3/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WOM-KOB/1612/16 (34)"
+}
+},
+{
+"d": "2016-03-14",
+"c": {
+"inw": "budowa i przebudowa magistral wodociągowych wraz z infrastrukturą towarzyszącą oraz przebudowa kolidującego uzbrojenia budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st Warszawie S.A",
+"nier": "Powstańców Śląskich",
+"dz": "146502_8 1113 81/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WOM-KOB/1428/16 (32)"
+}
+},
+{
+"d": "2016-03-14",
+"c": {
+"inw": "budowa i przebudowa magistral wodociągowych wraz z infrastrukturą towarzyszącą oraz przebudowa kolidującego uzbrojenia budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st Warszawie S.A",
+"nier": "Powstańców Śląskich",
+"dz": "146502_8 1112 57/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WOM-KOB/1428/16 (32)"
+}
+},
+{
+"d": "2016-03-07",
+"c": {
+"inw": "projekt budowlany zamienny dla Przychodni Konsultacyjnej z Zespołem Chirurgii Jednego Dnia oraz Izbą Apteczną dla ZOZ Centrum Optyczno Okulistycznego Szeliga (zzmiana dec. nr 223/10 z dn. 15.10.10) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Spychowska 2",
+"dz": "146502_8 1005 657",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WOM-KOB/1147/16 (29)"
+}
+},
+{
+"d": "2016-03-07",
+"c": {
+"inw": "rozbudowa budynku mieszkalnego jednorodzinnego, przebudowa instalacji garażowej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Korfantego 10 / Wojciecha",
+"dz": "146502_8 0810 417",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WOM-KOB/4211/16 (30)"
+}
+},
+{
+"d": "2016-03-07",
+"c": {
+"inw": "rozbudowa budynku mieszkalnego jednorodzinnego, przebudowa instalacji garażowej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Korfantego 10 / Wojciecha",
+"dz": "146502_8 0810 419",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WOM-KOB/4211/16 (30)"
+}
+},
+{
+"d": "2016-03-04",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego wraz z parkingiem podziemnym i zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "Marvipol Development 2 Sp. z o.o.",
+"nier": "Szeligowska",
+"dz": "146502_8 1311 31/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WOM-KOB/1082/16 (28)"
+}
+},
+{
+"d": "2016-03-03",
+"c": {
+"inw": "rozbudowa salonu samochodowego Carservis \"Połczyńska Moto Transus\" rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Moto Transus Sp. z o.o.",
+"nier": "Połczyńska 33",
+"dz": "146502_8 1217 11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WOM-KOB/1009/16 (27)"
+}
+},
+{
+"d": "2016-03-03",
+"c": {
+"inw": "rozbudowa salonu samochodowego Carservis \"Połczyńska Moto Transus\" rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Moto Transus Sp. z o.o.",
+"nier": "Połczyńska 33",
+"dz": "146502_8 1217 12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WOM-KOB/1009/16 (27)"
+}
+},
+{
+"d": "2016-03-03",
+"c": {
+"inw": "rozbudowa salonu samochodowego Carservis \"Połczyńska Moto Transus\" rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Moto Transus Sp. z o.o.",
+"nier": "Połczyńska 33",
+"dz": "146502_8 1217 97",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WOM-KOB/1009/16 (27)"
+}
+},
+{
+"d": "2016-03-03",
+"c": {
+"inw": "rozbudowa salonu samochodowego Carservis \"Połczyńska Moto Transus\" rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Moto Transus Sp. z o.o.",
+"nier": "Połczyńska 33",
+"dz": "146502_8 1217 14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WOM-KOB/1009/16 (27)"
+}
+},
+{
+"d": "2016-03-03",
+"c": {
+"inw": "rozbudowa salonu samochodowego Carservis \"Połczyńska Moto Transus\" rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Moto Transus Sp. z o.o.",
+"nier": "Połczyńska 33",
+"dz": "146502_8 1217 31/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WOM-KOB/1009/16 (27)"
+}
+},
+{
+"d": "2016-03-03",
+"c": {
+"inw": "rozbudowa salonu samochodowego Carservis \"Połczyńska Moto Transus\" rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Moto Transus Sp. z o.o.",
+"nier": "Połczyńska 33",
+"dz": "146502_8 1217 30/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WOM-KOB/1009/16 (27)"
+}
+},
+{
+"d": "2016-02-26",
+"c": {
+"inw": "przebudowa, rozbudowa i nadbudowa istniejącego budynku magazynowo-warsztatowego nr 118 wraz z uzupełnieniem o funkcję biurową i rozbiórkę części istniejącego budynku rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Wojskowe Centralne Biuro Konstrukcyjne S.A.",
+"nier": "",
+"dz": "146502_8 0811 10/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WOM-KOB/798/16 (24)"
+}
+},
+{
+"d": "2016-02-25",
+"c": {
+"inw": "wniosek o zmianę dec. nr 215/15 z dn. 01.10.15 poprzez zatwierdzenie projektu zamiennego dot. budowy dwóch budynków, handlowo-usługowego oraz szkoły z przedszkolem budowa nowego/nowych obiektów budowlanych",
+"wn": "DEA Sp. z o.o.",
+"nier": "Lazurowa",
+"dz": "146502_8 1305 7/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WOM-KOB/757/16 (23)"
+}
+},
+{
+"d": "2016-02-22",
+"c": {
+"inw": "instalacja zbiornikowa gazu płynnego wraz z przyłączem, zbiornik 4850 ltr podziemny do budynku - kaplica z częścią mieszkalną budowa nowego/nowych obiektów budowlanych",
+"wn": "Parafia Rzymskokatolicka Św. Jana Pawła II w Warszawie",
+"nier": "Obrońców Tobruku 48",
+"dz": "146502_8 1501 57",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WOM-KOB/540/16 (21)"
+}
+},
+{
+"d": "2016-02-22",
+"c": {
+"inw": "budowa sieci kanalizacji ogólnospławnej wraz z przyłączami, zasilającej istniejące i projektowane budynki budowa nowego/nowych obiektów budowlanych",
+"wn": "APP.O Sp z o.o.",
+"nier": "",
+"dz": "146502_8 1002 11/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WOM-KOB/577/16 (22)"
+}
+},
+{
+"d": "2016-02-19",
+"c": {
+"inw": "budowa pawilonu sprzedaży samochodów osobowych wraz niezbędną infrastrukturą techniczną , parkingami, zjazdem, pylonem reklamowym i masztami flagowymi, instalacjami - gazową, wodną, kanalizacyjną i elektryczną. budowa nowego/nowych obiektów budowlanych",
+"wn": "Porsche Inter Auto Polska Sp. z o.o.",
+"nier": "Połczyńska 120",
+"dz": "",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WOM-KOB/506/16 (20)"
+}
+},
+{
+"d": "2016-02-09",
+"c": {
+"inw": "budowa sieci elektroenergetycznej podziemnej nN wraz z demontażem siec elektroenergetycznej podziemnej i nadziemnej oraz słupa nNi budowa nowego/nowych obiektów budowlanych",
+"wn": "RWE Stoen Operator Sp. z o.o.",
+"nier": "Połczyńska",
+"dz": "146502_8 1308 46",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WOM-KO/2673/16 (19)"
+}
+},
+{
+"d": "2016-02-09",
+"c": {
+"inw": "budowa sieci elektroenergetycznej podziemnej nN wraz z demontażem siec elektroenergetycznej podziemnej i nadziemnej oraz słupa nNi budowa nowego/nowych obiektów budowlanych",
+"wn": "RWE Stoen Operator Sp. z o.o.",
+"nier": "Połczyńska",
+"dz": "146502_8 1308 47",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WOM-KO/2673/16 (19)"
+}
+},
+{
+"d": "2016-02-09",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Kruszyńska 2",
+"dz": "146502_8 1115 111",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WOM-KOB/229/16 (18)"
+}
+},
+{
+"d": "2016-02-09",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Kruszyńska 2",
+"dz": "146502_8 1115 110",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WOM-KOB/229/16 (18)"
+}
+},
+{
+"d": "2016-02-09",
+"c": {
+"inw": "budowa sieci elektroenergetycznej podziemnej nN wraz z demontażem siec elektroenergetycznej podziemnej i nadziemnej oraz słupa nNi budowa nowego/nowych obiektów budowlanych",
+"wn": "RWE Stoen Operator Sp. z o.o.",
+"nier": "Połczyńska",
+"dz": "146502_8 1308 51",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WOM-KO/2673/16 (19)"
+}
+},
+{
+"d": "2016-02-09",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Kruszyńska 2",
+"dz": "146502_8 1115 109",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WOM-KOB/229/16 (18)"
+}
+},
+{
+"d": "2016-02-03",
+"c": {
+"inw": "termomodernizacja budynku nr 68 na terenie WAT wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "WAT",
+"nier": "Kaliskiego 2 / gen. Sylwestra",
+"dz": "146502_8 0511 10/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WOM-KOB/93/16 (15)"
+}
+},
+{
+"d": "2016-02-03",
+"c": {
+"inw": "instalacja gazowa do budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Batalionów Chłopskich 78B",
+"dz": "146502_8 1315 62",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WOM-KOB/97/16 (16)"
+}
+},
+{
+"d": "2016-02-03",
+"c": {
+"inw": "termomodernizacja budynku nr 54 na terenie WAT wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "WAT",
+"nier": "Kaliskiego 2 / gen. Sylwestra",
+"dz": "146502_8 0511 10/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WOM-KOB/92/16 (14)"
+}
+},
+{
+"d": "2016-01-29",
+"c": {
+"inw": "rozbiórka budynku salonu samochodowego Grupy Fiat rozbiórka istniejącego obiektu budowlanego",
+"wn": "MOTO TRANSUS Sp. z o.o.",
+"nier": "Połczyńska 33",
+"dz": "146502_8 1217 97",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WOM-KOB/13/16 (13)"
+}
+},
+{
+"d": "2016-01-29",
+"c": {
+"inw": "rozbiórka budynku salonu samochodowego Grupy Fiat rozbiórka istniejącego obiektu budowlanego",
+"wn": "MOTO TRANSUS Sp. z o.o.",
+"nier": "Połczyńska 33",
+"dz": "146502_8 1217 31/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WOM-KOB/13/16 (13)"
+}
+},
+{
+"d": "2016-01-25",
+"c": {
+"inw": "budowa zespołu budynków mieszkalnych wielorodzinnych z usługami, garażem podziemnym oraz niezbędną infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Profbud-2 Sp. z o.o. Sp. K.",
+"nier": "Waldorffa / Jerzego",
+"dz": "",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WOM-OB-AB/82/16 (10)"
+}
+},
+{
+"d": "2016-01-19",
+"c": {
+"inw": "wniosek o zmianę dec. nr 47/2015 z dn. 02.03.2015 w zakresie zmiany projektu zagospodarowania terenu oraz wydania pozwolenia na budowę nośników reklamowych z logo firmy budowa nowego/nowych obiektów budowlanych",
+"wn": "TRUMPF Polska Sp. z o.o. Sp. K.",
+"nier": "Połczyńska 111",
+"dz": "146502_8 1313 37/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WOM-OB-AB/54/16 (7)"
+}
+},
+{
+"d": "2016-01-18",
+"c": {
+"inw": "przebudowa budynku usługowo-handlowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "ADAPHARM Sp. z o.o.",
+"nier": "Wyki 11 / Kazimierza",
+"dz": "146502_8 1112 3/21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WOM-OB-AB/50/15 (6)"
+}
+},
+{
+"d": "2016-01-13",
+"c": {
+"inw": "budowa instalacji gazowej do pawilonu usługowo-handlowego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Czumy 6A / gen. Waleriana",
+"dz": "146502_8 1110 5/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WOM-OB-AB/28/16 (4)"
+}
+},
+{
+"d": "2016-01-13",
+"c": {
+"inw": "zabudowa otworu w stropie lokalu mieszkalnego w celu podziału mieszkania dwupoziomowego na dwa lok. mieszkalne nr 23 i 23A wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Widawska 23",
+"dz": "146502_8 0807 2/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WOM-OB-AB/30/16 (6)"
+}
+},
+{
+"d": "2016-01-12",
+"c": {
+"inw": "przebudowa i rozbudowa budynku Szkoły Podstawowej nr 306 w celu utworzenia oddziałów przedszkolnych, wraz z instalacjami wewnętrznymi, rampami i schodami zewnętrznymi, dojściami i placami zabaw rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "m.st. Warszawa Dzielnica Bemowo",
+"nier": "Tkaczy 27",
+"dz": "146502_8 1212 62/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WOM-OB-AB/25/16 (3)"
+}
+},
+{
+"d": "2016-01-12",
+"c": {
+"inw": "przebudowa i rozbudowa budynku Szkoły Podstawowej nr 306 w celu utworzenia oddziałów przedszkolnych, wraz z instalacjami wewnętrznymi, rampami i schodami zewnętrznymi, dojściami i placami zabaw rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "m.st. Warszawa Dzielnica Bemowo",
+"nier": "Tkaczy 27",
+"dz": "146502_8 1212 62/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WOM-OB-AB/25/16 (3)"
+}
+},
+{
+"d": "2016-01-12",
+"c": {
+"inw": "budowa budynku żłobka piętrowego z częściowym podpiwniczeniem wraz z zagospodarowaniem terenu, drogami wewnętrznymi, parkingami, dojściami i placami zabaw. Miejscem do gromadzenia odpadów stałych budowa nowego/nowych obiektów budowlanych",
+"wn": "m.st. Warszawa, Dzielnica Bemowo",
+"nier": "Obrońców Tobruku",
+"dz": "146502_8 1501 73/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WOM-OB-AB/24/16 (2)"
+}
+},
+{
+"d": "2016-01-12",
+"c": {
+"inw": "przebudowa i rozbudowa budynku Szkoły Podstawowej nr 306 w celu utworzenia oddziałów przedszkolnych, wraz z instalacjami wewnętrznymi, rampami i schodami zewnętrznymi, dojściami i placami zabaw rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "m.st. Warszawa Dzielnica Bemowo",
+"nier": "Tkaczy 27",
+"dz": "146502_8 1212 62/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WOM-OB-AB/25/16 (3)"
+}
+},
+{
+"d": "2016-01-12",
+"c": {
+"inw": "przebudowa i rozbudowa budynku Szkoły Podstawowej nr 306 w celu utworzenia oddziałów przedszkolnych, wraz z instalacjami wewnętrznymi, rampami i schodami zewnętrznymi, dojściami i placami zabaw rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "m.st. Warszawa Dzielnica Bemowo",
+"nier": "Tkaczy 27",
+"dz": "146502_8 1212 62/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WOM-OB-AB/25/16 (3)"
+}
+},
+{
+"d": "2016-01-12",
+"c": {
+"inw": "przebudowa i rozbudowa budynku Szkoły Podstawowej nr 306 w celu utworzenia oddziałów przedszkolnych, wraz z instalacjami wewnętrznymi, rampami i schodami zewnętrznymi, dojściami i placami zabaw rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "m.st. Warszawa Dzielnica Bemowo",
+"nier": "Tkaczy 27",
+"dz": "146502_8 1212 62/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WOM-OB-AB/25/16 (3)"
+}
+},
+{
+"d": "2016-01-12",
+"c": {
+"inw": "przebudowa i rozbudowa budynku Szkoły Podstawowej nr 306 w celu utworzenia oddziałów przedszkolnych, wraz z instalacjami wewnętrznymi, rampami i schodami zewnętrznymi, dojściami i placami zabaw rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "m.st. Warszawa Dzielnica Bemowo",
+"nier": "Tkaczy 27",
+"dz": "146502_8 1212 62/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WOM-OB-AB/25/16 (3)"
+}
+},
+{
+"d": "2016-01-12",
+"c": {
+"inw": "przebudowa i rozbudowa budynku Szkoły Podstawowej nr 306 w celu utworzenia oddziałów przedszkolnych, wraz z instalacjami wewnętrznymi, rampami i schodami zewnętrznymi, dojściami i placami zabaw rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "m.st. Warszawa Dzielnica Bemowo",
+"nier": "Tkaczy 27",
+"dz": "146502_8 1212 62/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WOM-OB-AB/25/16 (3)"
+}
+},
+{
+"d": "2016-01-11",
+"c": {
+"inw": "przebudowa budynku laboratorium teledetekcji nr 114, dostosowanie do nowych potrzeb rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Wojskowa Akademia Techniczna",
+"nier": "Kaliskiego 2 / gen. Sylwestra",
+"dz": "146502_8 0811 10/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WOM-OB-AB/19/16 (1)"
+}
+}
+]
+},
+{
+"id": "dec_pnb",
+"name": "Decyzje o pozwoleniu na budowę",
+"short": "Decyzje PnB",
+"desc": "Decyzje o pozwoleniu na budowę wydane przez organ architektoniczno-budowlany dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer decyzji",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2016-12-30",
+"c": {
+"inw": "uzupełnienie stropu w budynku kotłowni w ciepłowni Wola wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PGNIG Termika S.A.",
+"nier": "Połczyńska 21",
+"dz": "146502_8 1217 61/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "262/2016"
+}
+},
+{
+"d": "2016-12-23",
+"c": {
+"inw": "budowa drogi publicznej kategorii gminnej, łącznika drogowego wraz z infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "Marvipol Development 2 Sp. z o.o.",
+"nier": "",
+"dz": "146502_8 1311 31/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 260/2016"
+}
+},
+{
+"d": "2016-12-23",
+"c": {
+"inw": "budowa drogi publicznej kategorii gminnej, łącznika drogowego wraz z infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "Marvipol Development 2 Sp. z o.o.",
+"nier": "",
+"dz": "146502_8 1311 32/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 260/2016"
+}
+},
+{
+"d": "2016-12-23",
+"c": {
+"inw": "budowa drogi publicznej kategorii gminnej, łącznika drogowego wraz z infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "Marvipol Development 2 Sp. z o.o.",
+"nier": "",
+"dz": "146502_8 1311 32/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 260/2016"
+}
+},
+{
+"d": "2016-12-23",
+"c": {
+"inw": "budowa drogi publicznej kategorii gminnej, łącznika drogowego wraz z infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "Marvipol Development 2 Sp. z o.o.",
+"nier": "",
+"dz": "146502_8 1311 33",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 260/2016"
+}
+},
+{
+"d": "2016-12-23",
+"c": {
+"inw": "budowa drogi publicznej kategorii gminnej, łącznika drogowego wraz z infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "Marvipol Development 2 Sp. z o.o.",
+"nier": "",
+"dz": "146502_8 1311 34/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 260/2016"
+}
+},
+{
+"d": "2016-12-23",
+"c": {
+"inw": "budowa drogi publicznej kategorii gminnej, łącznika drogowego wraz z infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "Marvipol Development 2 Sp. z o.o.",
+"nier": "",
+"dz": "146502_8 1311 34/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 260/2016"
+}
+},
+{
+"d": "2016-12-23",
+"c": {
+"inw": "budowa drogi publicznej kategorii gminnej, łącznika drogowego wraz z infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "Marvipol Development 2 Sp. z o.o.",
+"nier": "",
+"dz": "146502_8 1311 47/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 260/2016"
+}
+},
+{
+"d": "2016-12-23",
+"c": {
+"inw": "budowa drogi publicznej kategorii gminnej, łącznika drogowego wraz z infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "Marvipol Development 2 Sp. z o.o.",
+"nier": "",
+"dz": "146502_8 1311 47/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 260/2016"
+}
+},
+{
+"d": "2016-12-23",
+"c": {
+"inw": "budowa drogi publicznej kategorii gminnej, łącznika drogowego wraz z infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "Marvipol Development 2 Sp. z o.o.",
+"nier": "",
+"dz": "146502_8 1311 47/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 260/2016"
+}
+},
+{
+"d": "2016-12-23",
+"c": {
+"inw": "budowa drogi publicznej kategorii gminnej, łącznika drogowego wraz z infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "Marvipol Development 2 Sp. z o.o.",
+"nier": "",
+"dz": "146502_8 1311 47/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 260/2016"
+}
+},
+{
+"d": "2016-12-23",
+"c": {
+"inw": "budowa drogi publicznej kategorii gminnej, łącznika drogowego wraz z infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "Marvipol Development 2 Sp. z o.o.",
+"nier": "",
+"dz": "146502_8 1311 20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 260/2016"
+}
+},
+{
+"d": "2016-12-22",
+"c": {
+"inw": "budowa budynku usługowo-magazynowego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Dywizjonu 303",
+"dz": "146502_8 0615 43/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 259/2016"
+}
+},
+{
+"d": "2016-12-21",
+"c": {
+"inw": "przebudowa budynku mieszkalnego jednorodzinnego w zakresie zmiany otworów okiennych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Spychowska 6",
+"dz": "146502_8 1005 10",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 258/2016"
+}
+},
+{
+"d": "2016-12-21",
+"c": {
+"inw": "budowa garażu budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Kruszyńska 22",
+"dz": "146502_8 1115 76/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "357/2016"
+}
+},
+{
+"d": "2016-12-20",
+"c": {
+"inw": "przebudowa budynku mieszkalnego jednorodzinnego oraz termomodernizacja wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Telefoniczna 2",
+"dz": "146502_8 0801 100",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "decyzja 255/2016"
+}
+},
+{
+"d": "2016-12-15",
+"c": {
+"inw": "budowa instalacji gazowej dla realizowanego budynku usługowo-biurowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "UWICOM Krzysztof Lipka",
+"nier": "Szeligowska 19",
+"dz": "146502_8 1311 2/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja 253/2016"
+}
+},
+{
+"d": "2016-12-15",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Okrętowa 21",
+"dz": "146502_8 1211 125/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 252/2016"
+}
+},
+{
+"d": "2016-12-09",
+"c": {
+"inw": "budowa hali magazynowej z zapleczem socjalno-sanitarnym wraz z instalacjami i urządzeniami technicznymi oraz zmiana sposobu użytkowania garażu na pomieszczenie usługowe napraw mechanicznych pojazdów samochodowych budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Szeligowska 26B",
+"dz": "146502_8 1305 8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "251/2016"
+}
+},
+{
+"d": "2016-12-08",
+"c": {
+"inw": "budowa hurtowni z zapleczem socjalnym oraz zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "HYPOM Jerzy Wieczorek",
+"nier": "Fortuny",
+"dz": "146502_8 1216 105",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 249/2016"
+}
+},
+{
+"d": "2016-12-08",
+"c": {
+"inw": "budowa hurtowni z zapleczem socjalnym oraz zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "HYPOM Jerzy Wieczorek",
+"nier": "Fortuny",
+"dz": "146502_8 1216 106/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 249/2016"
+}
+},
+{
+"d": "2016-12-08",
+"c": {
+"inw": "budowa hurtowni z zapleczem socjalnym oraz zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "HYPOM Jerzy Wieczorek",
+"nier": "Fortuny",
+"dz": "146502_8 1216 106/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 249/2016"
+}
+},
+{
+"d": "2016-12-08",
+"c": {
+"inw": "budowa hurtowni z zapleczem socjalnym oraz zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "HYPOM Jerzy Wieczorek",
+"nier": "Fortuny",
+"dz": "146502_8 1216 107/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 249/2016"
+}
+},
+{
+"d": "2016-12-08",
+"c": {
+"inw": "budowa hurtowni z zapleczem socjalnym oraz zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "HYPOM Jerzy Wieczorek",
+"nier": "Fortuny",
+"dz": "146502_8 1216 107/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 249/2016"
+}
+},
+{
+"d": "2016-12-08",
+"c": {
+"inw": "budowa hurtowni z zapleczem socjalnym oraz zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "HYPOM Jerzy Wieczorek",
+"nier": "Fortuny",
+"dz": "146502_8 1216 107/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 249/2016"
+}
+},
+{
+"d": "2016-12-08",
+"c": {
+"inw": "budowa hurtowni z zapleczem socjalnym oraz zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "HYPOM Jerzy Wieczorek",
+"nier": "Fortuny",
+"dz": "146502_8 1216 114",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 249/2016"
+}
+},
+{
+"d": "2016-12-08",
+"c": {
+"inw": "budowa hurtowni z zapleczem socjalnym oraz zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "HYPOM Jerzy Wieczorek",
+"nier": "Fortuny",
+"dz": "146502_8 1216 115",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 249/2016"
+}
+},
+{
+"d": "2016-12-08",
+"c": {
+"inw": "budowa hurtowni z zapleczem socjalnym oraz zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "HYPOM Jerzy Wieczorek",
+"nier": "Fortuny",
+"dz": "146502_8 1216 116",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 249/2016"
+}
+},
+{
+"d": "2016-12-08",
+"c": {
+"inw": "przebudowa sal 3.3, 3.7, 3.8 w budynku nr 75 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "WAT",
+"nier": "Kaliskiego 2 / gen. Sylwestra",
+"dz": "146502_8 0811 10/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 248/2016"
+}
+},
+{
+"d": "2016-12-08",
+"c": {
+"inw": "budowa hurtowni z zapleczem socjalnym oraz zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "HYPOM Jerzy Wieczorek",
+"nier": "Fortuny",
+"dz": "146502_8 1217 22/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 249/2016"
+}
+},
+{
+"d": "2016-12-08",
+"c": {
+"inw": "budowa hurtowni z zapleczem socjalnym oraz zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "HYPOM Jerzy Wieczorek",
+"nier": "Fortuny",
+"dz": "146502_8 1217 22/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 249/2016"
+}
+},
+{
+"d": "2016-12-08",
+"c": {
+"inw": "budowa hurtowni z zapleczem socjalnym oraz zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "HYPOM Jerzy Wieczorek",
+"nier": "Fortuny",
+"dz": "146502_8 1217 22/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 249/2016"
+}
+},
+{
+"d": "2016-12-06",
+"c": {
+"inw": "budowa budynku gospodarczego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Batalionów Chłopskich 85",
+"dz": "146502_8 1302 10/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "247/2016"
+}
+},
+{
+"d": "2016-12-02",
+"c": {
+"inw": "budowa instalacji gazu do budynku mieszkalnego jednorodzinnego dwulokalowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Łokuciewskiego 9 / płk. Witolda",
+"dz": "146502_8 1102 18",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 245/2016"
+}
+},
+{
+"d": "2016-12-02",
+"c": {
+"inw": "budynek mieszkalny jednorodzinny dwulokalowy budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Łokuciewskiego 9 / płk. Witolda",
+"dz": "146502_8 1102 18",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 246/2015"
+}
+},
+{
+"d": "2016-12-01",
+"c": {
+"inw": "rozbiórka budynku garażu rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Legionowa 18",
+"dz": "146502_8 1213 29/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 242/2016"
+}
+},
+{
+"d": "2016-11-28",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Oświatowa 6A",
+"dz": "146502_8 1115 119/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 239/2016"
+}
+},
+{
+"d": "2016-11-24",
+"c": {
+"inw": "budowa budynku biurowo-usługowego budowa nowego/nowych obiektów budowlanych",
+"wn": "AUTO LUX 58 Sławomir Uszyński",
+"nier": "Połczyńska 58",
+"dz": "146502_8 1213 136",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 237/2016"
+}
+},
+{
+"d": "2016-11-24",
+"c": {
+"inw": "zespół budynków mieszkalnych wielorodzinnych z usługami i garażem podziemnym oraz niezbędną infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Profbud Sp. z o.o. Sp. k.",
+"nier": "Waldorffa 41 / Jerzego",
+"dz": "146502_8 1501 77/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 238/2016"
+}
+},
+{
+"d": "2016-11-21",
+"c": {
+"inw": "budowa instalacji gazowej dla budynku usługowego w trakcie rozbudowy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PAGG sp. z o.o.",
+"nier": "Pirenejska 2C",
+"dz": "146502_8 0809 172/54",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 235/2016"
+}
+},
+{
+"d": "2016-11-21",
+"c": {
+"inw": "budowa instalacji gazowej zewnętrznej dla projektowanych dwóch budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Strzelców 9",
+"dz": "146502_8 1214 38",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 234/2016"
+}
+},
+{
+"d": "2016-11-21",
+"c": {
+"inw": "budowa instalacji gazowej zewnętrznej dla projektowanych dwóch budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Strzelców 9",
+"dz": "146502_8 1214 39",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 234/2016"
+}
+},
+{
+"d": "2016-11-21",
+"c": {
+"inw": "przebudowa okna balkonowego w lok. nr 3 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Obrońców Tobruku 18A",
+"dz": "146502_8 1501 45/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 233/2016"
+}
+},
+{
+"d": "2016-11-16",
+"c": {
+"inw": "rozbudowa garażu w budynku mieszkalnym jednorodzinnym wraz ze zmianą sposobu użytkowania na pomieszczenie gospodarcze rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Telewizyjna 32A",
+"dz": "146502_8 0803 50/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 232/2016"
+}
+},
+{
+"d": "2016-11-16",
+"c": {
+"inw": "rozbudowa garażu w budynku mieszkalnym jednorodzinnym wraz ze zmianą sposobu użytkowania na pomieszczenie gospodarcze rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Telewizyjna 32A",
+"dz": "146502_8 0803 50/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 232/2016"
+}
+},
+{
+"d": "2016-11-16",
+"c": {
+"inw": "rozbudowa garażu w budynku mieszkalnym jednorodzinnym wraz ze zmianą sposobu użytkowania na pomieszczenie gospodarcze rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Telewizyjna 32A",
+"dz": "146502_8 0803 50/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 232/2016"
+}
+},
+{
+"d": "2016-11-10",
+"c": {
+"inw": "budowa instalacji gazowej w budynku mieszkalnym jednorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Akantu 1",
+"dz": "146502_8 0802 87",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 230/2016"
+}
+},
+{
+"d": "2016-11-08",
+"c": {
+"inw": "budowa instalacji gazowej do budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Moździerzy",
+"dz": "146502_8 1311 16/4",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 228/2016"
+}
+},
+{
+"d": "2016-11-08",
+"c": {
+"inw": "budowa oświetlenia siłowni plenerowej budowa nowego/nowych obiektów budowlanych",
+"wn": "m.st Warszawa",
+"nier": "Żołnierzy Wyklętych",
+"dz": "146502_8 0810 446/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 229/2016"
+}
+},
+{
+"d": "2016-11-08",
+"c": {
+"inw": "budowa oświetlenia siłowni plenerowej budowa nowego/nowych obiektów budowlanych",
+"wn": "m.st Warszawa",
+"nier": "Żołnierzy Wyklętych",
+"dz": "146502_8 0810 446/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 229/2016"
+}
+},
+{
+"d": "2016-11-07",
+"c": {
+"inw": "budowa wewnętrznej instalacji gazowej do budynku mieszkalno-gospodarczego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Lustrzana 1",
+"dz": "146502_8 1213 123/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 225/2016"
+}
+},
+{
+"d": "2016-11-02",
+"c": {
+"inw": "budowa instalacji gazowej w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "IDEAL INVEST Sp. z o.o.",
+"nier": "Kruszyńska 40A",
+"dz": "146502_8 1114 59",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 223/2016"
+}
+},
+{
+"d": "2016-10-28",
+"c": {
+"inw": "budowa instalacji gazowej dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kruszyńska",
+"dz": "146502_8 1115 110",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 222/2016"
+}
+},
+{
+"d": "2016-10-28",
+"c": {
+"inw": "budowa instalacji gazowej dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kruszyńska",
+"dz": "146502_8 1115 109/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 222/2016"
+}
+},
+{
+"d": "2016-10-26",
+"c": {
+"inw": "rozbiórka budynku garażowo-warsztatowego nr 157 rozbiórka istniejącego obiektu budowlanego",
+"wn": "WAT",
+"nier": "Kaliskiego / gen. Sylwestra",
+"dz": "146502_8 0811 10/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 219/2016"
+}
+},
+{
+"d": "2016-10-26",
+"c": {
+"inw": "przebudowa pomieszczeń handlowych na slep perfumeryjno-drogeryjny Rossmann oraz umieszczenie reklamy na elewcji budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Rossmann Supermarkety Drogeryjne Polska Sp. z o.o",
+"nier": "Powstańców Śląskich",
+"dz": "146502_8 1501 16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 221/2016"
+}
+},
+{
+"d": "2016-10-26",
+"c": {
+"inw": "przebudowa i rozbudowa budynku Szkoły Podstawowej nr 306 ul. Tkaczy 27 rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "m.st Warszawa",
+"nier": "Tkaczy 27",
+"dz": "146502_8 1212 62/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.150.2016"
+}
+},
+{
+"d": "2016-10-26",
+"c": {
+"inw": "przebudowa i rozbudowa budynku Szkoły Podstawowej nr 306 ul. Tkaczy 27 rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "m.st Warszawa",
+"nier": "Tkaczy 27",
+"dz": "146502_8 1212 62/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.150.2016"
+}
+},
+{
+"d": "2016-10-26",
+"c": {
+"inw": "przebudowa i rozbudowa budynku Szkoły Podstawowej nr 306 ul. Tkaczy 27 rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "m.st Warszawa",
+"nier": "Tkaczy 27",
+"dz": "146502_8 1212 62/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.150.2016"
+}
+},
+{
+"d": "2016-10-26",
+"c": {
+"inw": "przebudowa i rozbudowa budynku Szkoły Podstawowej nr 306 ul. Tkaczy 27 rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "m.st Warszawa",
+"nier": "Tkaczy 27",
+"dz": "146502_8 1212 62/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.150.2016"
+}
+},
+{
+"d": "2016-10-26",
+"c": {
+"inw": "przebudowa i rozbudowa budynku Szkoły Podstawowej nr 306 ul. Tkaczy 27 rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "m.st Warszawa",
+"nier": "Tkaczy 27",
+"dz": "146502_8 1212 62/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.150.2016"
+}
+},
+{
+"d": "2016-10-26",
+"c": {
+"inw": "przebudowa i rozbudowa budynku Szkoły Podstawowej nr 306 ul. Tkaczy 27 rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "m.st Warszawa",
+"nier": "Tkaczy 27",
+"dz": "146502_8 1212 62/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.150.2016"
+}
+},
+{
+"d": "2016-10-26",
+"c": {
+"inw": "przebudowa i rozbudowa budynku Szkoły Podstawowej nr 306 ul. Tkaczy 27 rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "m.st Warszawa",
+"nier": "Tkaczy 27",
+"dz": "146502_8 1212 62/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.150.2016"
+}
+},
+{
+"d": "2016-10-24",
+"c": {
+"inw": "wniosek o zmianę dec. nr 71/20161 z dn. 19.04.16 poprzez zatwierdzenie projektu zamiennego na budowę budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Kruszyńska 2, 2A",
+"dz": "146502_8 1115 100",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 216/2016"
+}
+},
+{
+"d": "2016-10-24",
+"c": {
+"inw": "wniosek o zmianę dec. nr 71/20161 z dn. 19.04.16 poprzez zatwierdzenie projektu zamiennego na budowę budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Kruszyńska 2, 2A",
+"dz": "146502_8 1115 111",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 216/2016"
+}
+},
+{
+"d": "2016-10-24",
+"c": {
+"inw": "wniosek o zmianę dec. nr 71/20161 z dn. 19.04.16 poprzez zatwierdzenie projektu zamiennego na budowę budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Kruszyńska 2, 2A",
+"dz": "146502_8 1115 109",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 216/2016"
+}
+},
+{
+"d": "2016-10-24",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z przychodnią lekarską w parterze i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Agencja Handlowo-Usługowa \"Targowiska i Hale\" Sp. z o.o.",
+"nier": "Powstańców Śląskich 50",
+"dz": "146502_8 1114 11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 217/2016"
+}
+},
+{
+"d": "2016-10-20",
+"c": {
+"inw": "Przebudowa, dostosowanie do wymogów ppoż budynku mieszlanego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkniowa \"Jelonki\"",
+"nier": "Synów Pułku 10",
+"dz": "146502_8 1209 128/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "215/2016"
+}
+},
+{
+"d": "2016-10-20",
+"c": {
+"inw": "Przebudowa, dostosowanie do wymogów ppoż budynku mieszlanego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkniowa \"Jelonki\"",
+"nier": "Synów Pułku 10",
+"dz": "146502_8 1209 128/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "215/2016"
+}
+},
+{
+"d": "2016-10-17",
+"c": {
+"inw": "rozbiórka zbiornika mazutu nr 2 wraz z urządzeniami i instalacjami, estakadą rurociągów, nawierzchnią dna i obwałowaniami misy olejowej  na terenie Ciepłowni Wola rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGNiG Termika S.A.",
+"nier": "Połczyńska 21",
+"dz": "146502_8 1217 61/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 208/2016"
+}
+},
+{
+"d": "2016-10-17",
+"c": {
+"inw": "rozbiórka zbiornika mazutu nr 2 wraz z urządzeniami i instalacjami, estakadą rurociągów, nawierzchnią dna i obwałowaniami misy olejowej  na terenie Ciepłowni Wola rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGNiG Termika S.A.",
+"nier": "Połczyńska 21",
+"dz": "146502_8 1217 62",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 208/2016"
+}
+},
+{
+"d": "2016-10-17",
+"c": {
+"inw": "rozbiórka zbiornika mazutu nr 2 wraz z urządzeniami i instalacjami, estakadą rurociągów, nawierzchnią dna i obwałowaniami misy olejowej  na terenie Ciepłowni Wola rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGNiG Termika S.A.",
+"nier": "Połczyńska 21",
+"dz": "146502_8 1217 88",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 208/2016"
+}
+},
+{
+"d": "2016-10-10",
+"c": {
+"inw": "budowa systemu świetlnego oznaczenia pola FATO, wizualnego wskaźnika kąta podejścia HAPI, systemu wizualnego naprowadzania azymutalnego SAGA oraz latarni lądowiskowej F-30 budowa nowego/nowych obiektów budowlanych",
+"wn": "SP ZOZ Lotnicze Pogotowie Ratunkowe",
+"nier": "Księżycowa 5",
+"dz": "146502_8 1001 7/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 204/2016"
+}
+},
+{
+"d": "2016-10-10",
+"c": {
+"inw": "rozbudowa i przebudowa budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Bawełniana 21",
+"dz": "146502_8 0801 39",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 207/2016"
+}
+},
+{
+"d": "2016-10-10",
+"c": {
+"inw": "rozbudowa i przebudowa budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Bawełniana 21",
+"dz": "146502_8 0801 40",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 207/2016"
+}
+},
+{
+"d": "2016-10-04",
+"c": {
+"inw": "wykonanie otworów w ścianach działowych lok. nr 12 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Morcinka 2 / Gustawa",
+"dz": "146502_8 0808 65/20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 203/2016"
+}
+},
+{
+"d": "2016-10-04",
+"c": {
+"inw": "przebudowa okien balkonowych w lok. nr 1 budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Obrońców Tobruku 18A",
+"dz": "146502_8 1501 45/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 200/2016"
+}
+},
+{
+"d": "2016-10-04",
+"c": {
+"inw": "budowa budynku gospodarczego i szczelnego zbiornika na nieczystości płynne budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Szeligowska 33A",
+"dz": "146502_8 1306 4/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 202/2016"
+}
+},
+{
+"d": "2016-09-30",
+"c": {
+"inw": "budowa budynku apteki ogólnodostępnej wraz z zagospodarowaniem terenu i niezbędną infrastrukturą techniczną przy CH Kaufland budowa nowego/nowych obiektów budowlanych",
+"wn": "Apteki Miejskie Sp. z o.o.",
+"nier": "Batalionów Chłopskich 73",
+"dz": "146502_8 1305 6/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 199/2016"
+}
+},
+{
+"d": "2016-09-27",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Drzeworytników 103",
+"dz": "146502_8 1207 24",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 197/2016"
+}
+},
+{
+"d": "2016-09-22",
+"c": {
+"inw": "budowa zabudowy mieszkaniowej wielorodzinnej z usługami na parterze i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "CGL VIII Sp. z o.o. Sp. k.",
+"nier": "Jana Olbrachta",
+"dz": "146502_8 1111 22/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 196/2016"
+}
+},
+{
+"d": "2016-09-22",
+"c": {
+"inw": "budowa zabudowy mieszkaniowej wielorodzinnej z usługami na parterze i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "CGL VIII Sp. z o.o. Sp. k.",
+"nier": "Jana Olbrachta",
+"dz": "146502_8 1111 22/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 196/2016"
+}
+},
+{
+"d": "2016-09-19",
+"c": {
+"inw": "rozbudowa i nadbudowa wraz z dociepleniem budynku jednorodzinnego wolno stojącego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Miejska 18",
+"dz": "146502_8 1212 47",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 192/2016"
+}
+},
+{
+"d": "2016-09-19",
+"c": {
+"inw": "powiększenie otworu okiennego w lok. użytkowym nr 1 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Fabiańska 2",
+"dz": "146502_8 1005 656",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 195/2016"
+}
+},
+{
+"d": "2016-09-19",
+"c": {
+"inw": "budowa instalacji gazu dla budynku małej poligrafii wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "ExpressMap Polska Sp. z o.o.",
+"nier": "Miejska 4A i 6",
+"dz": "146502_8 1212 150",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 193/2016"
+}
+},
+{
+"d": "2016-09-19",
+"c": {
+"inw": "budowa instalacji gazu dla budynku małej poligrafii wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "ExpressMap Polska Sp. z o.o.",
+"nier": "Miejska 4A i 6",
+"dz": "146502_8 1212 152",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 193/2016"
+}
+},
+{
+"d": "2016-09-19",
+"c": {
+"inw": "budowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Moździerzy 2",
+"dz": "146502_8 1311 16/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 194/2016"
+}
+},
+{
+"d": "2016-09-12",
+"c": {
+"inw": "budowa wentylacji mechanicznej dla budynku mpodstacji trakcyjnej \"Wrocławska\" wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie Sp. z o.o.",
+"nier": "Wrocławska 6B",
+"dz": "146502_8 0804 16/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 191/2016"
+}
+},
+{
+"d": "2016-09-09",
+"c": {
+"inw": "rozbiórka kotła K1 i trzech kotłotów EO125 wraz z ich urządzeniami i instalacjami w kotłowni w Ciepłowni Wola rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGNiG Termika S.A",
+"nier": "Połczyńska 21",
+"dz": "146502_8 1217 61/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "189/2016"
+}
+},
+{
+"d": "2016-09-09",
+"c": {
+"inw": "wydzielenie pożarowe istniejącej klatki schodowej w celu spełnienia warunków ewakuacyjnych w budynku biurowym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Instytut Energetyki Instytut Badawczy",
+"nier": "Mory 8",
+"dz": "146502_8 1312 8/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 188/2016"
+}
+},
+{
+"d": "2016-09-09",
+"c": {
+"inw": "budynek wielorodzinny z dwupoziomowym parkingiem podziemnym i infrastrukturą techniczną. Projekt zamienny do dec. nr 86/2015 z dn. 29.04.15 budowa nowego/nowych obiektów budowlanych",
+"wn": "DWP Sp. z o.o.",
+"nier": "Powstańców Śląskich 52, 52A",
+"dz": "146502_8 1114 9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 190/2016"
+}
+},
+{
+"d": "2016-09-09",
+"c": {
+"inw": "budynek wielorodzinny z dwupoziomowym parkingiem podziemnym i infrastrukturą techniczną. Projekt zamienny do dec. nr 86/2015 z dn. 29.04.15 budowa nowego/nowych obiektów budowlanych",
+"wn": "DWP Sp. z o.o.",
+"nier": "Powstańców Śląskich 52, 52A",
+"dz": "146502_8 1114 10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 190/2016"
+}
+},
+{
+"d": "2016-09-08",
+"c": {
+"inw": "zabudowa mieszkalna wielorodzinna z usługami na parterze i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "CGLS Sp. z o.o.",
+"nier": "Jana Olbrachta",
+"dz": "146502_8 1111 22/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 186/2016"
+}
+},
+{
+"d": "2016-09-08",
+"c": {
+"inw": "zabudowa mieszkalna wielorodzinna z usługami na parterze i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "CGLS Sp. z o.o.",
+"nier": "Jana Olbrachta",
+"dz": "146502_8 1111 22/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 186/2016"
+}
+},
+{
+"d": "2016-09-08",
+"c": {
+"inw": "zabudowa mieszkalna wielorodzinna z usługami na parterze i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "CGLS Sp. z o.o.",
+"nier": "Jana Olbrachta",
+"dz": "146502_8 1111 22/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 186/2016"
+}
+},
+{
+"d": "2016-09-05",
+"c": {
+"inw": "sieć gazowa DN 160 mm z rur PE wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa Lokatorsko-Własnościowa \"Rozłogi\"",
+"nier": "Rozłogi",
+"dz": "146502_8 1206 22/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 185/2016"
+}
+},
+{
+"d": "2016-09-05",
+"c": {
+"inw": "sieć gazowa DN 160 mm z rur PE wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa Lokatorsko-Własnościowa \"Rozłogi\"",
+"nier": "Rozłogi",
+"dz": "146502_8 1206 22/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 185/2016"
+}
+},
+{
+"d": "2016-09-05",
+"c": {
+"inw": "sieć gazowa DN 160 mm z rur PE wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa Lokatorsko-Własnościowa \"Rozłogi\"",
+"nier": "Rozłogi",
+"dz": "146502_8 1206 22/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 185/2016"
+}
+},
+{
+"d": "2016-09-05",
+"c": {
+"inw": "sieć gazowa DN 160 mm z rur PE wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa Lokatorsko-Własnościowa \"Rozłogi\"",
+"nier": "Rozłogi",
+"dz": "146502_8 1205 68/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 185/2016"
+}
+},
+{
+"d": "2016-09-05",
+"c": {
+"inw": "sieć gazowa DN 160 mm z rur PE wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa Lokatorsko-Własnościowa \"Rozłogi\"",
+"nier": "Rozłogi",
+"dz": "146502_8 1205 68/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 185/2016"
+}
+},
+{
+"d": "2016-09-02",
+"c": {
+"inw": "budowa instalacji gazowej w lokalu użytkowym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "\"Sąsiedzi\" s.c. K. Sobesto K. Wierzbowska",
+"nier": "Radiowa 24",
+"dz": "146502_8 0803 11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 183/2016"
+}
+},
+{
+"d": "2016-08-31",
+"c": {
+"inw": "przebudowa parkingu wraz z przebudową infrastruktury technicznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Porsche Inter Auto Polska Sp. z o.o.",
+"nier": "Połczyńska 107 i 109",
+"dz": "146502_8 1313 37/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 180A"
+}
+},
+{
+"d": "2016-08-29",
+"c": {
+"inw": "rozbudowa i nadbudowa budynku mieszkalnego jednorodzinnego w zabudowie szeregowej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Bolimowska 5",
+"dz": "146502_8 1005 512",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 179/2016"
+}
+},
+{
+"d": "2016-08-23",
+"c": {
+"inw": "przebudowa wiaty wejściowej na przedsionek wejściowy w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"Jelonki\"",
+"nier": "Puszczy Solskiej 3",
+"dz": "146502_8 1207 106/20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 176/2016"
+}
+},
+{
+"d": "2016-08-23",
+"c": {
+"inw": "przebudowa wiaty wejściowej na przedsionek wejściowy w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"Jelonki\"",
+"nier": "Puszczy Solskiej 3",
+"dz": "146502_8 1207 106/21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 176/2016"
+}
+},
+{
+"d": "2016-08-23",
+"c": {
+"inw": "przebudowa wiaty wejściowej na przedsionek wejściowy w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"Jelonki\"",
+"nier": "Puszczy Solskiej 3",
+"dz": "146502_8 1207 106/30",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 176/2016"
+}
+},
+{
+"d": "2016-08-23",
+"c": {
+"inw": "przebudowa wiaty wejściowej na przedsionek wejściowy w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"Jelonki\"",
+"nier": "Sucharskiego 8 / mjr. Henryka",
+"dz": "146502_8 1208 7/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 177/2016"
+}
+},
+{
+"d": "2016-08-23",
+"c": {
+"inw": "przebudowa wiaty wejściowej na przedsionek wejściowy w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"Jelonki\"",
+"nier": "Borowej Góry 5",
+"dz": "146502_8 1208 22/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 175/2016"
+}
+},
+{
+"d": "2016-08-23",
+"c": {
+"inw": "budowa instalacji gazowej do projektowanej hali magazynowej z częscią socjalną wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Szeligowska",
+"dz": "146502_8 1301 6/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 178/2016"
+}
+},
+{
+"d": "2016-08-22",
+"c": {
+"inw": "wykonanie otworów okiennych w ścianie zewnętrznej budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Obrońców Tobruku 25",
+"dz": "146502_8 1501 53/25",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 173/2016"
+}
+},
+{
+"d": "2016-08-22",
+"c": {
+"inw": "rozbiórka dwóch budynków mieszkalnych jednorodzinnych rozbiórka istniejącego obiektu budowlanego",
+"wn": "Agencja Handlowo-Usługowa Targowiska i Hale Sp. z o.o.",
+"nier": "Powstańców Śląskich 50",
+"dz": "146502_8 1114 11",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 172/2016"
+}
+},
+{
+"d": "2016-08-22",
+"c": {
+"inw": "wykonanie otworów okiennych w ścianie zewnętrznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Obrońców Tobruku 25",
+"dz": "146502_8 1501 53/25",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 174/2016"
+}
+},
+{
+"d": "2016-08-19",
+"c": {
+"inw": "przebudowa części budynku nr 100 WAT na laboratorium wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "12 Terenowy Oddział Lotniskowy w Warszawie",
+"nier": "Kaliskiego 2 / gen. Sylwestra",
+"dz": "146502_8 0811 10/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 166/.2016"
+}
+},
+{
+"d": "2016-08-19",
+"c": {
+"inw": "budowa instalacji gazowej w budynku biurowo-szkoleniowym \"Tarczowni\" wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "WAT",
+"nier": "Kocjana 70A / Antoniego",
+"dz": "146502_8 1002 35",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 171/2016"
+}
+},
+{
+"d": "2016-08-19",
+"c": {
+"inw": "wniosek o zmianę dec. nr 199/2010 z dn. 23.09.10, nr 95/2013 z dn. 09.05.13, nr 134/2014 z dn. 30.07.14 w zakresie projektu zagospodarowania terenu. Budowa budynku jednorodzinnego. budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Bawełniana 25",
+"dz": "146502_8 0801 33",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 170/2016"
+}
+},
+{
+"d": "2016-08-17",
+"c": {
+"inw": "roboty budowlane polegające na poszerzeniu otworu okiennegow budynku mieszklanym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Grodkowska 4",
+"dz": "146502_8 1104 86/16",
+"rodz": "",
+"nr": "164/2016"
+}
+},
+{
+"d": "2016-08-17",
+"c": {
+"inw": "przebudowa lok. mieszkalnego w budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Łagowska 3",
+"dz": "146502_8 1106 16/34",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 165/2016"
+}
+},
+{
+"d": "2016-08-09",
+"c": {
+"inw": "wniosek o zmianę decyzji Nr 51/2015 z dnia 10.03.2015r. - zamienny projekt budowlany w zakresie pzt i projektu architektoniczno-budowlanego budowa nowego/nowych obiektów budowlanych",
+"wn": "Robyg Young City Sp. z o.o.",
+"nier": "Batalionów Chłopskich",
+"dz": "146502_8 1302 9/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 159/2016"
+}
+},
+{
+"d": "2016-08-09",
+"c": {
+"inw": "zmiana decyzji nr 18/2015 z dnia 26.01.2015r. - zamienny projekt budowlany w zakresie pzt i projektu architektoniczno-budowlanego budowa nowego/nowych obiektów budowlanych",
+"wn": "Robyg Young City Sp. z o.o.",
+"nier": "Szeligowska",
+"dz": "146502_8 1302 9/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 160/2016"
+}
+},
+{
+"d": "2016-08-01",
+"c": {
+"inw": "wykonanie otworu drzwiowego między lokalami nr 58 i 59 w budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Widawska 3",
+"dz": "146502_8 0805 3/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 154/2016"
+}
+},
+{
+"d": "2016-07-27",
+"c": {
+"inw": "rozbudowa budynku warsztatowego (wbudowanie nowej bramy oraz drzwi ewakuacyjnych) rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Instytut Techniczny Wojsk Lotniczych",
+"nier": "Bolesława 6 / Księcia",
+"dz": "146502_8 1501 66/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 153/2016"
+}
+},
+{
+"d": "2016-07-25",
+"c": {
+"inw": "rozbudowa i nadbudowa budynku jednorodzinnego. Projekt zamienny do dec. nr 256/2014 z dn. 23.12.14 rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Kunickiego 31 / Stanisława",
+"dz": "146502_8 0803 30",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 150/2016"
+}
+},
+{
+"d": "2016-07-08",
+"c": {
+"inw": "przebudowa budynku mieszkalno-usługowego zwiazana ze zmianą sposobu użytkowania na lokal mieszklany rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Reżyserska 5",
+"dz": "146502_8 1207 59",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "147/2016"
+}
+},
+{
+"d": "2016-07-08",
+"c": {
+"inw": "przebudowa budynku mieszkalno-usługowego zwiazana ze zmianą sposobu użytkowania na lokal mieszklany rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Reżyserska 5",
+"dz": "146502_8 1207 60",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "147/2016"
+}
+},
+{
+"d": "2016-07-08",
+"c": {
+"inw": "przebudowa budynku mieszkalno-usługowego zwiazana ze zmianą sposobu użytkowania na lokal mieszklany rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Reżyserska 5",
+"dz": "146502_8 1207 61",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "147/2016"
+}
+},
+{
+"d": "2016-07-08",
+"c": {
+"inw": "budowa hali magazynowej z częścią socjalną budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Szeligowska",
+"dz": "146502_8 1301 6/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "148/2016"
+}
+},
+{
+"d": "2016-07-05",
+"c": {
+"inw": "docieplenie budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa Górczewska",
+"nier": "Szwankowskiego 5 / Eugeniusza",
+"dz": "146502_8 1109 4/76",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 140/2016"
+}
+},
+{
+"d": "2016-07-05",
+"c": {
+"inw": "docieplenie budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa Górczewska",
+"nier": "Szwankowskiego 7 / Eugeniusza",
+"dz": "146502_8 1109 4/76",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 141/2016"
+}
+},
+{
+"d": "2016-06-30",
+"c": {
+"inw": "przebudowa budynku pływalni i centrum rehabilitacji żołnierzy w Studium Wychowania Fizycznego WAT wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "WAT",
+"nier": "Kartezjusza 1",
+"dz": "146502_8 1003 322",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 136/2016"
+}
+},
+{
+"d": "2016-06-28",
+"c": {
+"inw": "wykonanie otworów w ścianie żelbetonowej lok. nr 802 na ostatniej kondygnacji budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "NOVA-TOR Sp. z o.o.",
+"nier": "Grodkowska 3",
+"dz": "146502_8 1104 137/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 135/2016"
+}
+},
+{
+"d": "2016-06-28",
+"c": {
+"inw": "wykonanie otworów w ścianie żelbetonowej lok. nr 802 na ostatniej kondygnacji budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "NOVA-TOR Sp. z o.o.",
+"nier": "Grodkowska 3",
+"dz": "146502_8 1104 132/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 135/2016"
+}
+},
+{
+"d": "2016-06-28",
+"c": {
+"inw": "przebudowa częsci pomieszczeń w budynku biurowo-technicznym BRUO IEN na potrzeby komercyjnego CPD wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Exatel S.A.",
+"nier": "Mory 8",
+"dz": "146502_8 1312 8/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 134/2016"
+}
+},
+{
+"d": "2016-06-28",
+"c": {
+"inw": "budowa sieci elektroenergetycznych podziemnych SN/nN oraz słupów SN/nN wraz z demontażem sieci elektroenergetycznej podziemnej i nadziemnej budowa nowego/nowych obiektów budowlanych",
+"wn": "RWE Stoen Operator Sp. z o.o.",
+"nier": "Połczyńska",
+"dz": "146502_8 1308 40/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 132/2016"
+}
+},
+{
+"d": "2016-06-28",
+"c": {
+"inw": "budowa sieci elektroenergetycznych podziemnych SN/nN oraz słupów SN/nN wraz z demontażem sieci elektroenergetycznej podziemnej i nadziemnej budowa nowego/nowych obiektów budowlanych",
+"wn": "RWE Stoen Operator Sp. z o.o.",
+"nier": "Połczyńska",
+"dz": "146502_8 1308 62/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 132/2016"
+}
+},
+{
+"d": "2016-06-28",
+"c": {
+"inw": "budowa sieci elektroenergetycznych podziemnych SN/nN oraz słupów SN/nN wraz z demontażem sieci elektroenergetycznej podziemnej i nadziemnej budowa nowego/nowych obiektów budowlanych",
+"wn": "RWE Stoen Operator Sp. z o.o.",
+"nier": "Połczyńska",
+"dz": "146502_8 1308 62/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 132/2016"
+}
+},
+{
+"d": "2016-06-28",
+"c": {
+"inw": "budowa sieci elektroenergetycznych podziemnych SN/nN oraz słupów SN/nN wraz z demontażem sieci elektroenergetycznej podziemnej i nadziemnej budowa nowego/nowych obiektów budowlanych",
+"wn": "RWE Stoen Operator Sp. z o.o.",
+"nier": "Połczyńska",
+"dz": "146502_8 1308 62/15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 132/2016"
+}
+},
+{
+"d": "2016-06-28",
+"c": {
+"inw": "budowa sieci elektroenergetycznych podziemnych SN/nN oraz słupów SN/nN wraz z demontażem sieci elektroenergetycznej podziemnej i nadziemnej budowa nowego/nowych obiektów budowlanych",
+"wn": "RWE Stoen Operator Sp. z o.o.",
+"nier": "Połczyńska",
+"dz": "146502_8 1308 62/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 132/2016"
+}
+},
+{
+"d": "2016-06-28",
+"c": {
+"inw": "budowa sieci elektroenergetycznych podziemnych SN/nN oraz słupów SN/nN wraz z demontażem sieci elektroenergetycznej podziemnej i nadziemnej budowa nowego/nowych obiektów budowlanych",
+"wn": "RWE Stoen Operator Sp. z o.o.",
+"nier": "Połczyńska",
+"dz": "146502_8 1308 62/17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 132/2016"
+}
+},
+{
+"d": "2016-06-28",
+"c": {
+"inw": "budowa sieci elektroenergetycznych podziemnych SN/nN oraz słupów SN/nN wraz z demontażem sieci elektroenergetycznej podziemnej i nadziemnej budowa nowego/nowych obiektów budowlanych",
+"wn": "RWE Stoen Operator Sp. z o.o.",
+"nier": "Połczyńska",
+"dz": "146502_8 1308 43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 132/2016"
+}
+},
+{
+"d": "2016-06-28",
+"c": {
+"inw": "budowa sieci elektroenergetycznych podziemnych SN/nN oraz słupów SN/nN wraz z demontażem sieci elektroenergetycznej podziemnej i nadziemnej budowa nowego/nowych obiektów budowlanych",
+"wn": "RWE Stoen Operator Sp. z o.o.",
+"nier": "Połczyńska",
+"dz": "146502_8 1308 44",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 132/2016"
+}
+},
+{
+"d": "2016-06-28",
+"c": {
+"inw": "budowa sieci elektroenergetycznych podziemnych SN/nN oraz słupów SN/nN wraz z demontażem sieci elektroenergetycznej podziemnej i nadziemnej budowa nowego/nowych obiektów budowlanych",
+"wn": "RWE Stoen Operator Sp. z o.o.",
+"nier": "Połczyńska",
+"dz": "146502_8 1308 45",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 132/2016"
+}
+},
+{
+"d": "2016-06-28",
+"c": {
+"inw": "rozbudowa budynku nr 12 rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Instytut Techniczny Wojsk Lotniczych",
+"nier": "Bolesława 6 / Księcia",
+"dz": "146502_8 1501 66/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 133/2016"
+}
+},
+{
+"d": "2016-06-24",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym i niezbędną infrastrukturą techniczną oraz roazbiórka kolidującego garażu podziemnego z wyłączeniem sieci i przyłączy budowa nowego/nowych obiektów budowlanych",
+"wn": "PRK 7 Nieruchomości Sp. z o.o.",
+"nier": "Górczewska",
+"dz": "146502_8 1102 111/41",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 131/2016"
+}
+},
+{
+"d": "2016-06-23",
+"c": {
+"inw": "częściowa wymiana docieplenia budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"Wola\"",
+"nier": "Gołuchowska 13",
+"dz": "146502_8 0804 3/15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 129/2016"
+}
+},
+{
+"d": "2016-06-20",
+"c": {
+"inw": "przebudowa - dostosowanie do wymogów ppoż. budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"Jelonki\"",
+"nier": "Borowej Góry 8",
+"dz": "146502_8 1208 18/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 128/2016"
+}
+},
+{
+"d": "2016-06-20",
+"c": {
+"inw": "rozbudowa i przebudowa budynku nr 137 WAT na laboratorium badań systemu laserowego dużej mocy rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "WAT",
+"nier": "2",
+"dz": "146502_8 0811 10/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 126/2016"
+}
+},
+{
+"d": "2016-06-15",
+"c": {
+"inw": "przebudowa 54 oddziału PKO BP SA w Centrum Handlowym \"Tesco\" wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Powszechna Kasa Oszczędności BP S.A.",
+"nier": "Połczyńska 121",
+"dz": "146502_8 1313 29/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 125/2016"
+}
+},
+{
+"d": "2016-06-15",
+"c": {
+"inw": "docieplenie północnej elewacji szczytowej budynku wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"Lazurowa\"",
+"nier": "Lazurowa 4",
+"dz": "146502_8 1205 56",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 123/2016"
+}
+},
+{
+"d": "2016-06-15",
+"c": {
+"inw": "przebudowa lokalu mieszkalnego w budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kaden-Bandrowskiego 5 / Juliusza",
+"dz": "146502_8 0805 3/23",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 122/2016"
+}
+},
+{
+"d": "2016-06-15",
+"c": {
+"inw": "rozbudowa, przebudowa i nadbudowa budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Okrętowa 74A",
+"dz": "146502_8 1207 10",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 124/2016"
+}
+},
+{
+"d": "2016-06-14",
+"c": {
+"inw": "rozbudowa budynku mieszkalnego jednorodzinnego w zabudowie bliźniaczej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Iskry 25",
+"dz": "146502_8 1005 323",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 117/2016"
+}
+},
+{
+"d": "2016-06-14",
+"c": {
+"inw": "budowa zespołu budynków mieszkalnych wielorodzinnych ze wspólnym garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Mercury-City Villa Sp. z o.o Sp. K",
+"nier": "Narwik 18",
+"dz": "146502_8 1314 32/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 118/2016"
+}
+},
+{
+"d": "2016-06-14",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 mm wraz z infrastrukturą towarzyszącą oraz przebudową kolidującego uzbrojenia budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "Lazurowa",
+"dz": "146502_8 1109 9/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 119/2016"
+}
+},
+{
+"d": "2016-06-14",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Drzeworytników 55",
+"dz": "146502_8 1211 81/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 116/2016"
+}
+},
+{
+"d": "2016-06-10",
+"c": {
+"inw": "przebudowa sklepu samoobsługowego spożywczo-przemysłowego \"Biedronka\" wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Jeronimo Martins Polska S.A.",
+"nier": "Szadkowskiego 1 / ppłk. Wacława",
+"dz": "146502_8 0806 3/32",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 115/2016"
+}
+},
+{
+"d": "2016-06-02",
+"c": {
+"inw": "budowa pawilonu sprzedaży samochodów osobowych wraz niezbędną infrastrukturą techniczną , parkingami, zjazdem, pylonem reklamowym i masztami flagowymi, instalacjami - gazową, wodną, kanalizacyjną i elektryczną. budowa nowego/nowych obiektów budowlanych",
+"wn": "Porsche Inter Auto Polska Sp. z o.o.",
+"nier": "Połczyńska 120",
+"dz": "",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 111/2016"
+}
+},
+{
+"d": "2016-06-02",
+"c": {
+"inw": "budowa osiedlowej sieci ciepłowniczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Dom Development S.A",
+"nier": "Pełczyńskiego / gen. Tadeusza",
+"dz": "146502_8 1103 57/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 113/2016"
+}
+},
+{
+"d": "2016-06-02",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Miejska",
+"dz": "146502_8 1212 35/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 110/2016"
+}
+},
+{
+"d": "2016-06-02",
+"c": {
+"inw": "rozbudowa budynku mieszkalnego jednorodzinnego w zabudowie szeregowej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Radziejowicka 5",
+"dz": "146502_8 1005 628",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 112/2016"
+}
+},
+{
+"d": "2016-05-27",
+"c": {
+"inw": "budowa sieci kanalizacji ogólnospławnej budowa nowego/nowych obiektów budowlanych",
+"wn": "Dom Development S.A.",
+"nier": "Pełczyńskiego / gen. Tadeusza",
+"dz": "146502_8 1103 57/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 107/2016"
+}
+},
+{
+"d": "2016-05-27",
+"c": {
+"inw": "instalacja okien w połaci dachowej pomiędzy istniejącymi krokwiami bez naruszania konstrukcji w budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Powstańców Śląskich 108C",
+"dz": "146502_8 0806 3/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 106/2016"
+}
+},
+{
+"d": "2016-05-25",
+"c": {
+"inw": "budowa instalacji gazowej dla budynku mieszkalnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Lustrzana 17",
+"dz": "146502_8 1211 173/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 103/2016"
+}
+},
+{
+"d": "2016-05-25",
+"c": {
+"inw": "rozbudowa, nadbudowa i przebudowa budynku mieszkalnego jednorodzinnego nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Podkowińska 5",
+"dz": "146502_8 1005 268",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 105/2016"
+}
+},
+{
+"d": "2016-05-25",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolno stojącego z garażem budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Akantu 22",
+"dz": "146502_8 0802 191",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 102/2016"
+}
+},
+{
+"d": "2016-05-25",
+"c": {
+"inw": "wymiana instalacji wewnętrznej gazu wraz z wyniesieniem kurków głównych na elewację budynków wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa \"Radiowa 21\"",
+"nier": "Radiowa 21, 21A, 23, 23A, 25, 25A, 25B, 25C",
+"dz": "146502_8 1002 15/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 104/2016"
+}
+},
+{
+"d": "2016-05-25",
+"c": {
+"inw": "wymiana instalacji wewnętrznej gazu wraz z wyniesieniem kurków głównych na elewację budynków wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa \"Radiowa 21\"",
+"nier": "Radiowa 21, 21A, 23, 23A, 25, 25A, 25B, 25C",
+"dz": "146502_8 1002 15/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 104/2016"
+}
+},
+{
+"d": "2016-05-25",
+"c": {
+"inw": "wymiana instalacji wewnętrznej gazu wraz z wyniesieniem kurków głównych na elewację budynków wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa \"Radiowa 21\"",
+"nier": "Radiowa 21, 21A, 23, 23A, 25, 25A, 25B, 25C",
+"dz": "146502_8 1002 15/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 104/2016"
+}
+},
+{
+"d": "2016-05-25",
+"c": {
+"inw": "wymiana instalacji wewnętrznej gazu wraz z wyniesieniem kurków głównych na elewację budynków wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa \"Radiowa 21\"",
+"nier": "Radiowa 21, 21A, 23, 23A, 25, 25A, 25B, 25C",
+"dz": "146502_8 1002 15/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 104/2016"
+}
+},
+{
+"d": "2016-05-25",
+"c": {
+"inw": "wymiana instalacji wewnętrznej gazu wraz z wyniesieniem kurków głównych na elewację budynków wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa \"Radiowa 21\"",
+"nier": "Radiowa 21, 21A, 23, 23A, 25, 25A, 25B, 25C",
+"dz": "146502_8 1002 15/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 104/2016"
+}
+},
+{
+"d": "2016-05-25",
+"c": {
+"inw": "wymiana instalacji wewnętrznej gazu wraz z wyniesieniem kurków głównych na elewację budynków wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa \"Radiowa 21\"",
+"nier": "Radiowa 21, 21A, 23, 23A, 25, 25A, 25B, 25C",
+"dz": "146502_8 1002 15/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 104/2016"
+}
+},
+{
+"d": "2016-05-23",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego wraz z parkingiem podziemnym i zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "Marvipol Development 2 Sp. z o.o.",
+"nier": "Szeligowska",
+"dz": "146502_8 1311 31/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 100/2016"
+}
+},
+{
+"d": "2016-05-18",
+"c": {
+"inw": "rozbudowa budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Cieplarniana 12",
+"dz": "146502_8 1005 344",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 99/2016"
+}
+},
+{
+"d": "2016-05-17",
+"c": {
+"inw": "budowa instalacji gazu do budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kopalniana",
+"dz": "146502_8 1310 4/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 97/2016"
+}
+},
+{
+"d": "2016-05-17",
+"c": {
+"inw": "budowa linii kablowej SN 15kV, przebudowa istniejącej linii kablowej oraz demontaż fragmentu istniejącej linii budowa nowego/nowych obiektów budowlanych",
+"wn": "Profbud-1 Sp. z o.o. Sp. K.",
+"nier": "Waldorffa / Jerzego",
+"dz": "146502_8 1501 77/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 98/2016"
+}
+},
+{
+"d": "2016-05-17",
+"c": {
+"inw": "budowa linii kablowej SN 15kV, przebudowa istniejącej linii kablowej oraz demontaż fragmentu istniejącej linii budowa nowego/nowych obiektów budowlanych",
+"wn": "Profbud-1 Sp. z o.o. Sp. K.",
+"nier": "Waldorffa / Jerzego",
+"dz": "146502_8 1501 77/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 98/2016"
+}
+},
+{
+"d": "2016-05-16",
+"c": {
+"inw": "budowa instalacji gazu dla budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Słomiana",
+"dz": "146502_8 1212 26/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 93/2016"
+}
+},
+{
+"d": "2016-05-09",
+"c": {
+"inw": "rozbudowa, nadbudowa i zmiana sposobu użytkowania budynku jednorodzinnego na budynek mieszkalno-usługowy oraz wyburzenie budynku gospodarczego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Strąkowa 48",
+"dz": "146502_8 1114 54",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 85/2016"
+}
+},
+{
+"d": "2016-05-06",
+"c": {
+"inw": "rozbudowa budynku mieszkalnego jednorodzinnego, przebudowa instalacji garażowej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Korfantego 10 / Wojciecha",
+"dz": "146502_8 0810 417",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 84/2016"
+}
+},
+{
+"d": "2016-05-06",
+"c": {
+"inw": "rozbudowa budynku mieszkalnego jednorodzinnego, przebudowa instalacji garażowej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Korfantego 10 / Wojciecha",
+"dz": "146502_8 0810 419",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 84/2016"
+}
+},
+{
+"d": "2016-04-28",
+"c": {
+"inw": "przebudowa, rozbudowa i nadbudowa istniejącego budynku magazynowo-warsztatowego nr 118 wraz z uzupełnieniem o funkcję biurową i rozbiórkę części istniejącego budynku rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Wojskowe Centralne Biuro Konstrukcyjne S.A.",
+"nier": "",
+"dz": "146502_8 0811 10/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 81/2016"
+}
+},
+{
+"d": "2016-04-26",
+"c": {
+"inw": "budowa i przebudowa magistral wodociągowych wraz z infrastrukturą towarzyszącą oraz przebudowa kolidującego uzbrojenia budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st Warszawie S.A",
+"nier": "Powstańców Śląskich",
+"dz": "146502_8 1113 81/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 79/2016"
+}
+},
+{
+"d": "2016-04-26",
+"c": {
+"inw": "budowa i przebudowa magistral wodociągowych wraz z infrastrukturą towarzyszącą oraz przebudowa kolidującego uzbrojenia budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st Warszawie S.A",
+"nier": "Powstańców Śląskich",
+"dz": "146502_8 1112 57/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 79/2016"
+}
+},
+{
+"d": "2016-04-25",
+"c": {
+"inw": "projekt budowlany zamienny dla Przychodni Konsultacyjnej z Zespołem Chirurgii Jednego Dnia oraz Izbą Apteczną dla ZOZ Centrum Optyczno Okulistycznego Szeliga (zzmiana dec. nr 223/10 z dn. 15.10.10) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Spychowska 2",
+"dz": "146502_8 1005 657",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 78/2016"
+}
+},
+{
+"d": "2016-04-22",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego, budynku gospodarczego oraz dwóch budynków garażowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Lustrzana 6",
+"dz": "146502_8 1213 16",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 76/2016"
+}
+},
+{
+"d": "2016-04-22",
+"c": {
+"inw": "rozbiórka budynku gospodarczego i garażu rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Oświatowa",
+"dz": "146502_8 1114 111",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 77/2016"
+}
+},
+{
+"d": "2016-04-19",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Kruszyńska 2",
+"dz": "146502_8 1115 111",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 71/2016"
+}
+},
+{
+"d": "2016-04-19",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Kruszyńska 2",
+"dz": "146502_8 1115 110",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 71/2016"
+}
+},
+{
+"d": "2016-04-19",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Kruszyńska 2",
+"dz": "146502_8 1115 109",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 71/2016"
+}
+},
+{
+"d": "2016-04-06",
+"c": {
+"inw": "instalacja zbiornikowa gazu płynnego wraz z przyłączem, zbiornik 4850 ltr podziemny do budynku - kaplica z częścią mieszkalną budowa nowego/nowych obiektów budowlanych",
+"wn": "Parafia Rzymskokatolicka Św. Jana Pawła II w Warszawie",
+"nier": "Obrońców Tobruku 48",
+"dz": "146502_8 1501 57",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 67/2016"
+}
+},
+{
+"d": "2016-04-01",
+"c": {
+"inw": "wniosek o zmianę dec. nr 215/15 z dn. 01.10.15 poprzez zatwierdzenie projektu zamiennego dot. budowy dwóch budynków, handlowo-usługowego oraz szkoły z przedszkolem budowa nowego/nowych obiektów budowlanych",
+"wn": "DEA Sp. z o.o.",
+"nier": "Lazurowa",
+"dz": "146502_8 1305 7/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 65/2016"
+}
+},
+{
+"d": "2016-03-30",
+"c": {
+"inw": "termomodernizacja budynku nr 68 na terenie WAT wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "WAT",
+"nier": "Kaliskiego 2 / gen. Sylwestra",
+"dz": "146502_8 0511 10/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 61/2016"
+}
+},
+{
+"d": "2016-03-30",
+"c": {
+"inw": "termomodernizacja budynku nr 54 na terenie WAT wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "WAT",
+"nier": "Kaliskiego 2 / gen. Sylwestra",
+"dz": "146502_8 0511 10/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 62/2016"
+}
+},
+{
+"d": "2016-03-29",
+"c": {
+"inw": "rozbudowa salonu samochodowego Carservis \"Połczyńska Moto Transus\" rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Moto Transus Sp. z o.o.",
+"nier": "Połczyńska 33",
+"dz": "146502_8 1217 11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 60/2016"
+}
+},
+{
+"d": "2016-03-29",
+"c": {
+"inw": "rozbudowa salonu samochodowego Carservis \"Połczyńska Moto Transus\" rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Moto Transus Sp. z o.o.",
+"nier": "Połczyńska 33",
+"dz": "146502_8 1217 12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 60/2016"
+}
+},
+{
+"d": "2016-03-29",
+"c": {
+"inw": "rozbudowa salonu samochodowego Carservis \"Połczyńska Moto Transus\" rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Moto Transus Sp. z o.o.",
+"nier": "Połczyńska 33",
+"dz": "146502_8 1217 97",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 60/2016"
+}
+},
+{
+"d": "2016-03-29",
+"c": {
+"inw": "rozbudowa salonu samochodowego Carservis \"Połczyńska Moto Transus\" rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Moto Transus Sp. z o.o.",
+"nier": "Połczyńska 33",
+"dz": "146502_8 1217 14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 60/2016"
+}
+},
+{
+"d": "2016-03-29",
+"c": {
+"inw": "rozbudowa salonu samochodowego Carservis \"Połczyńska Moto Transus\" rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Moto Transus Sp. z o.o.",
+"nier": "Połczyńska 33",
+"dz": "146502_8 1217 31/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 60/2016"
+}
+},
+{
+"d": "2016-03-29",
+"c": {
+"inw": "rozbudowa salonu samochodowego Carservis \"Połczyńska Moto Transus\" rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Moto Transus Sp. z o.o.",
+"nier": "Połczyńska 33",
+"dz": "146502_8 1217 30/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 60/2016"
+}
+},
+{
+"d": "2016-03-23",
+"c": {
+"inw": "budowa sieci kanalizacji ogólnospławnej wraz z przyłączami, zasilającej istniejące i projektowane budynki budowa nowego/nowych obiektów budowlanych",
+"wn": "APP.O Sp z o.o.",
+"nier": "",
+"dz": "146502_8 1002 11/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 58/2016"
+}
+},
+{
+"d": "2016-03-23",
+"c": {
+"inw": "przebudowa budynku usługowo-handlowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "ADAPHARM Sp. z o.o.",
+"nier": "Wyki 11 / Kazimierza",
+"dz": "146502_8 1112 3/21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 59/2016"
+}
+},
+{
+"d": "2016-03-15",
+"c": {
+"inw": "budowa zespołu budynków mieszkalnych wielorodzinnych z usługami, garażem podziemnym oraz niezbędną infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Profbud-2 Sp. z o.o. Sp. K.",
+"nier": "Waldorffa / Jerzego",
+"dz": "",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 54/2016"
+}
+},
+{
+"d": "2016-03-11",
+"c": {
+"inw": "przebudowa budynku laboratorium teledetekcji nr 114, dostosowanie do nowych potrzeb rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Wojskowa Akademia Techniczna",
+"nier": "Kaliskiego 2 / gen. Sylwestra",
+"dz": "146502_8 0811 10/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 53/2016"
+}
+},
+{
+"d": "2016-03-07",
+"c": {
+"inw": "instalacja gazowa do budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Batalionów Chłopskich 78B",
+"dz": "146502_8 1315 62",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 51/2016"
+}
+},
+{
+"d": "2016-03-02",
+"c": {
+"inw": "budowa domu jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Kruszyńska 29",
+"dz": "146502_8 1114 49",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 50/2016"
+}
+},
+{
+"d": "2016-03-01",
+"c": {
+"inw": "budowa sieci elektroenergetycznej podziemnej nN wraz z demontażem siec elektroenergetycznej podziemnej i nadziemnej oraz słupa nNi budowa nowego/nowych obiektów budowlanych",
+"wn": "RWE Stoen Operator Sp. z o.o.",
+"nier": "Połczyńska",
+"dz": "146502_8 1308 46",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 49/2016"
+}
+},
+{
+"d": "2016-03-01",
+"c": {
+"inw": "budowa sieci elektroenergetycznej podziemnej nN wraz z demontażem siec elektroenergetycznej podziemnej i nadziemnej oraz słupa nNi budowa nowego/nowych obiektów budowlanych",
+"wn": "RWE Stoen Operator Sp. z o.o.",
+"nier": "Połczyńska",
+"dz": "146502_8 1308 47",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 49/2016"
+}
+},
+{
+"d": "2016-03-01",
+"c": {
+"inw": "budowa sieci elektroenergetycznej podziemnej nN wraz z demontażem siec elektroenergetycznej podziemnej i nadziemnej oraz słupa nNi budowa nowego/nowych obiektów budowlanych",
+"wn": "RWE Stoen Operator Sp. z o.o.",
+"nier": "Połczyńska",
+"dz": "146502_8 1308 51",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 49/2016"
+}
+},
+{
+"d": "2016-02-26",
+"c": {
+"inw": "budowa instalacji gazowej do pawilonu usługowo-handlowego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Czumy 6A / gen. Waleriana",
+"dz": "146502_8 1110 5/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 39/2016"
+}
+},
+{
+"d": "2016-02-25",
+"c": {
+"inw": "wniosek o zmianę dec. nr 47/2015 z dn. 02.03.2015 w zakresie zmiany projektu zagospodarowania terenu oraz wydania pozwolenia na budowę nośników reklamowych z logo firmy budowa nowego/nowych obiektów budowlanych",
+"wn": "TRUMPF Polska Sp. z o.o. Sp. K.",
+"nier": "Połczyńska 111",
+"dz": "146502_8 1313 37/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 45/2016"
+}
+},
+{
+"d": "2016-02-18",
+"c": {
+"inw": "rozbiórka budynku salonu samochodowego Grupy Fiat rozbiórka istniejącego obiektu budowlanego",
+"wn": "MOTO TRANSUS Sp. z o.o.",
+"nier": "Połczyńska 33",
+"dz": "146502_8 1217 97",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 42/2016"
+}
+},
+{
+"d": "2016-02-18",
+"c": {
+"inw": "rozbiórka budynku salonu samochodowego Grupy Fiat rozbiórka istniejącego obiektu budowlanego",
+"wn": "MOTO TRANSUS Sp. z o.o.",
+"nier": "Połczyńska 33",
+"dz": "146502_8 1217 31/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 42/2016"
+}
+},
+{
+"d": "2016-02-12",
+"c": {
+"inw": "przebudowa i rozbudowa budynku Szkoły Podstawowej nr 306 w celu utworzenia oddziałów przedszkolnych, wraz z instalacjami wewnętrznymi, rampami i schodami zewnętrznymi, dojściami i placami zabaw rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "m.st. Warszawa Dzielnica Bemowo",
+"nier": "Tkaczy 27",
+"dz": "146502_8 1212 62/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 32/2016"
+}
+},
+{
+"d": "2016-02-12",
+"c": {
+"inw": "przebudowa i rozbudowa budynku Szkoły Podstawowej nr 306 w celu utworzenia oddziałów przedszkolnych, wraz z instalacjami wewnętrznymi, rampami i schodami zewnętrznymi, dojściami i placami zabaw rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "m.st. Warszawa Dzielnica Bemowo",
+"nier": "Tkaczy 27",
+"dz": "146502_8 1212 62/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 32/2016"
+}
+},
+{
+"d": "2016-02-12",
+"c": {
+"inw": "budowa budynku żłobka piętrowego z częściowym podpiwniczeniem wraz z zagospodarowaniem terenu, drogami wewnętrznymi, parkingami, dojściami i placami zabaw. Miejscem do gromadzenia odpadów stałych budowa nowego/nowych obiektów budowlanych",
+"wn": "m.st. Warszawa, Dzielnica Bemowo",
+"nier": "Obrońców Tobruku",
+"dz": "146502_8 1501 73/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 37/2016"
+}
+},
+{
+"d": "2016-02-12",
+"c": {
+"inw": "przebudowa i rozbudowa budynku Szkoły Podstawowej nr 306 w celu utworzenia oddziałów przedszkolnych, wraz z instalacjami wewnętrznymi, rampami i schodami zewnętrznymi, dojściami i placami zabaw rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "m.st. Warszawa Dzielnica Bemowo",
+"nier": "Tkaczy 27",
+"dz": "146502_8 1212 62/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 32/2016"
+}
+},
+{
+"d": "2016-02-12",
+"c": {
+"inw": "przebudowa i rozbudowa budynku Szkoły Podstawowej nr 306 w celu utworzenia oddziałów przedszkolnych, wraz z instalacjami wewnętrznymi, rampami i schodami zewnętrznymi, dojściami i placami zabaw rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "m.st. Warszawa Dzielnica Bemowo",
+"nier": "Tkaczy 27",
+"dz": "146502_8 1212 62/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 32/2016"
+}
+},
+{
+"d": "2016-02-12",
+"c": {
+"inw": "przebudowa i rozbudowa budynku Szkoły Podstawowej nr 306 w celu utworzenia oddziałów przedszkolnych, wraz z instalacjami wewnętrznymi, rampami i schodami zewnętrznymi, dojściami i placami zabaw rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "m.st. Warszawa Dzielnica Bemowo",
+"nier": "Tkaczy 27",
+"dz": "146502_8 1212 62/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 32/2016"
+}
+},
+{
+"d": "2016-02-12",
+"c": {
+"inw": "rozbudowa i przebudowa parkingu rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Wojskowa Akademia Techniczna",
+"nier": "Kaliskiego 2 / gen. Sylwestra",
+"dz": "146502_8 0811 10/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 33/2016"
+}
+},
+{
+"d": "2016-02-12",
+"c": {
+"inw": "przebudowa i rozbudowa budynku Szkoły Podstawowej nr 306 w celu utworzenia oddziałów przedszkolnych, wraz z instalacjami wewnętrznymi, rampami i schodami zewnętrznymi, dojściami i placami zabaw rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "m.st. Warszawa Dzielnica Bemowo",
+"nier": "Tkaczy 27",
+"dz": "146502_8 1212 62/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 32/2016"
+}
+},
+{
+"d": "2016-02-12",
+"c": {
+"inw": "zabudowa otworu w stropie lokalu mieszkalnego w celu podziału mieszkania dwupoziomowego na dwa lok. mieszkalne nr 23 i 23A wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Widawska 23",
+"dz": "146502_8 0807 2/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 39/2016"
+}
+},
+{
+"d": "2016-02-12",
+"c": {
+"inw": "przebudowa i rozbudowa budynku Szkoły Podstawowej nr 306 w celu utworzenia oddziałów przedszkolnych, wraz z instalacjami wewnętrznymi, rampami i schodami zewnętrznymi, dojściami i placami zabaw rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "m.st. Warszawa Dzielnica Bemowo",
+"nier": "Tkaczy 27",
+"dz": "146502_8 1212 62/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 32/2016"
+}
+}
+]
+}
+]
+}

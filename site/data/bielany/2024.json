@@ -1,0 +1,5427 @@
+{
+"district": "bielany",
+"year": 2024,
+"generated": "2026-11-24T21:21:03+01:00",
+"total": 485,
+"registers": [
+{
+"id": "wn_pnb",
+"name": "Wnioski o pozwolenie na budowę",
+"short": "Wnioski PnB",
+"desc": "Wnioski o pozwolenie na budowę złożone do organu architektoniczno-budowlanego dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer wniosku",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2024-12-23",
+"c": {
+"inw": "Remont elewacji, balkonów oraz attyki ponad dachem w budynku mieszkalnym wielorodzinnym z usługami wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa nieruchomości przy Al. Zjednoczenia 1",
+"nier": "Aleja Zjednoczenia 1",
+"dz": "146504_8 0507 74",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/24261/24"
+}
+},
+{
+"d": "2024-12-20",
+"c": {
+"inw": "przebudowa przegrody zewnętrznej dachu poprzez wykonanie okien połaciowych i wyłazu dachowego oraz termomodernizację wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Żeromskiego 8 / Stefana",
+"dz": "146504_8 0508 50",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/399283/24"
+}
+},
+{
+"d": "2024-12-19",
+"c": {
+"inw": "przebudowa budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu szybu windowego oraz dźwigu w klatce nr IX do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa",
+"nier": "Aleja Władysława Reymonta 23",
+"dz": "146504_8 0806 140",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/24025/24"
+}
+},
+{
+"d": "2024-12-19",
+"c": {
+"inw": "przebudowa budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu szybu windowego oraz dźwigu w klatce nr IX do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa",
+"nier": "Aleja Władysława Reymonta 23",
+"dz": "146504_8 0806 137",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/24025/24"
+}
+},
+{
+"d": "2024-12-19",
+"c": {
+"inw": "przebudowa budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu szybu windowego oraz dźwigu w klatce nr IX do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa",
+"nier": "Aleja Władysława Reymonta 23",
+"dz": "146504_8 0806 124/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/24025/24"
+}
+},
+{
+"d": "2024-12-19",
+"c": {
+"inw": "przebudowa budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu szybu windowego oraz dźwigu w klatce nr IX do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa",
+"nier": "Aleja Władysława Reymonta 23",
+"dz": "146504_8 0806 7/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/24025/24"
+}
+},
+{
+"d": "2024-12-19",
+"c": {
+"inw": "przebudowa budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu szybu windowego oraz dźwigu w klatce nr IX do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa",
+"nier": "Aleja Władysława Reymonta 23",
+"dz": "146504_8 0806 131/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/24025/24"
+}
+},
+{
+"d": "2024-12-18",
+"c": {
+"inw": "rozbiórka dwóch budynków rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Jadwigi 10 / Królowej",
+"dz": "146504_8 1004 30",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/23969/24"
+}
+},
+{
+"d": "2024-12-18",
+"c": {
+"inw": "budowa sześciu budynków jednorodzinnych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "JMG Concept 2 sp.zo.o.",
+"nier": "Pułkowa",
+"dz": "146504_8 1006 87",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/23974/24"
+}
+},
+{
+"d": "2024-12-16",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych jednorodzinnych dwulokalowych w zabudowie bliźniaczej wraz ze zbiornikami bezodpływowymi budowa nowego/nowych obiektów budowlanych",
+"wn": "PFN Capital Sp.zo.o. Sp.k.",
+"nier": "Wólczyńska 307a",
+"dz": "146504_8 1205 9/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/23769/24"
+}
+},
+{
+"d": "2024-12-13",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Bogusławskiego 20 / Wojciecha",
+"dz": "146504_8 0809 216",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/23681/24"
+}
+},
+{
+"d": "2024-12-13",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Bogusławskiego 20 / Wojciecha",
+"dz": "146504_8 0809 217",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/23681/24"
+}
+},
+{
+"d": "2024-12-13",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Bogusławskiego 20 / Wojciecha",
+"dz": "146504_8 0809 218",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/23681/24"
+}
+},
+{
+"d": "2024-12-12",
+"c": {
+"inw": "budowa zespołu czterech budynków mieszkalnych jednorodzinnych wolnostojących dwulokalowych wraz z urządzeniam budowlanymi budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Jamki",
+"dz": "146504_8 1001 44",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/393428/24"
+}
+},
+{
+"d": "2024-12-12",
+"c": {
+"inw": "budowa zespołu czterech budynków mieszkalnych jednorodzinnych wolnostojących dwulokalowych wraz z urządzeniam budowlanymi budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Jamki",
+"dz": "146504_8 1001 105",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/393428/24"
+}
+},
+{
+"d": "2024-12-12",
+"c": {
+"inw": "budowa zespołu czterech budynków mieszkalnych jednorodzinnych wolnostojących dwulokalowych wraz z urządzeniam budowlanymi budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Jamki",
+"dz": "146504_8 1001 115",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/393428/24"
+}
+},
+{
+"d": "2024-12-12",
+"c": {
+"inw": "budowa sieci  elektroenergetycznej kablowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Stoen Operator sp.zo.o.",
+"nier": "Oczapowskiego 107 / Michała",
+"dz": "146504_8 0804 29/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/23614/24"
+}
+},
+{
+"d": "2024-12-12",
+"c": {
+"inw": "budowa sieci  elektroenergetycznej kablowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Stoen Operator sp.zo.o.",
+"nier": "Oczapowskiego 107 / Michała",
+"dz": "146504_8 0804 2/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/23614/24"
+}
+},
+{
+"d": "2024-12-12",
+"c": {
+"inw": "budowa sieci  elektroenergetycznej kablowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Stoen Operator sp.zo.o.",
+"nier": "Oczapowskiego 107 / Michała",
+"dz": "146504_8 0502 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/23614/24"
+}
+},
+{
+"d": "2024-12-11",
+"c": {
+"inw": "zatwierdzenie projektu zamiennego do decyzji  o pozwoleniu na budowę wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Hieroglif 7",
+"dz": "146504_8 1007 55",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/23561/24"
+}
+},
+{
+"d": "2024-12-06",
+"c": {
+"inw": "rozbudowa budynku mieszkalnego jednorodzinnego w zabudowie szeregowej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Rydla 93 / Lucjana",
+"dz": "146504_8 0511 124",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "Epuap/388547/24"
+}
+},
+{
+"d": "2024-12-05",
+"c": {
+"inw": "przebudowa, nadbudowa i rozbudowa budynku mieszkalnego jednorodzinnego z garażem podziemnym, urządzeniami budowlanymi, instalacją gazową, budowa  budynku gospodarczego oraz rozbiórka budynku gospodarczego w linii ogrodzenia rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Gardocki S.A. sp.zo.o. Estate Sp. k.",
+"nier": "Farysa 48",
+"dz": "146504_8 1007 126",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/23200/24"
+}
+},
+{
+"d": "2024-12-05",
+"c": {
+"inw": "przebudowa, nadbudowa i rozbudowa budynku mieszkalnego jednorodzinnego z garażem podziemnym, urządzeniami budowlanymi, instalacją gazową, budowa  budynku gospodarczego oraz rozbiórka budynku gospodarczego w linii ogrodzenia rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Gardocki S.A. sp.zo.o. Estate Sp. k.",
+"nier": "Farysa 48",
+"dz": "146504_8 1007 127",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/23200/24"
+}
+},
+{
+"d": "2024-12-04",
+"c": {
+"inw": "rozbiórka budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Arkuszowa 161",
+"dz": "146504_8 1209 18/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/23030/24"
+}
+},
+{
+"d": "2024-12-03",
+"c": {
+"inw": "budowa naziemnego parkingu samochodowego z instalacją kanalizacji deszczowej, separatorami i studniami chłonnymii budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Opłotek",
+"dz": "146504_8 1107 9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/22929/24"
+}
+},
+{
+"d": "2024-11-28",
+"c": {
+"inw": "rozbiórka budynków handlowo-usługowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "Społem WSS \"Żoliborz\"",
+"nier": "Kasprowicza 109 / Jana",
+"dz": "146504_8 0803 6/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/2285/24"
+}
+},
+{
+"d": "2024-11-22",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego, budynku gospodarczego, garażu, budynku gospodarczego oraz szopy rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Jamki",
+"dz": "146504_8 1001 44",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/22297/24"
+}
+},
+{
+"d": "2024-11-22",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego, budynku gospodarczego, garażu, budynku gospodarczego oraz szopy rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Jamki",
+"dz": "146504_8 1001 105",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/22297/24"
+}
+},
+{
+"d": "2024-11-22",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego, budynku gospodarczego, garażu, budynku gospodarczego oraz szopy rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Jamki",
+"dz": "146504_8 1001 115",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/22297/24"
+}
+},
+{
+"d": "2024-11-20",
+"c": {
+"inw": "budowa instalacji gazowej dla budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Swarzewska 80",
+"dz": "146504_8 0508 182",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/22124/24"
+}
+},
+{
+"d": "2024-11-20",
+"c": {
+"inw": "rozbiórka pawilonu handlowego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Maszewska Investments sp.zo.o.",
+"nier": "Księżycowa 76",
+"dz": "146504_8 1214 171/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/22151/24"
+}
+},
+{
+"d": "2024-11-12",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Kluczowa 10",
+"dz": "146504_8 0814 399",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/21503/24"
+}
+},
+{
+"d": "2024-11-12",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Kluczowa 10",
+"dz": "146504_8 0814 391",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/21503/24"
+}
+},
+{
+"d": "2024-11-12",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Kluczowa 10",
+"dz": "146504_8 0814 330/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/21503/24"
+}
+},
+{
+"d": "2024-11-06",
+"c": {
+"inw": "rozbudowa instalacji fotowoltaicznej do mocy 360 kW na dachu budynku hipermarketu E. Leclerc wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Immożoli sp.zo.o.",
+"nier": "Aspekt 79",
+"dz": "146504_8 0811 3/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/21253/24"
+}
+},
+{
+"d": "2024-10-31",
+"c": {
+"inw": "przebudowa i budowa pomostów roboczych w halach remontów i obsługi tramwajów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RK/22487/24"
+}
+},
+{
+"d": "2024-10-31",
+"c": {
+"inw": "przebudowa i budowa pomostów roboczych w halach remontów i obsługi tramwajów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RK/22487/24"
+}
+},
+{
+"d": "2024-10-31",
+"c": {
+"inw": "przebudowa i budowa pomostów roboczych w halach remontów i obsługi tramwajów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RK/22487/24"
+}
+},
+{
+"d": "2024-10-31",
+"c": {
+"inw": "przebudowa i budowa pomostów roboczych w halach remontów i obsługi tramwajów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RK/22487/24"
+}
+},
+{
+"d": "2024-10-31",
+"c": {
+"inw": "przebudowa i budowa pomostów roboczych w halach remontów i obsługi tramwajów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RK/22487/24"
+}
+},
+{
+"d": "2024-10-28",
+"c": {
+"inw": "przebudowa lokalu mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Tołstoja 4 / Lwa",
+"dz": "146504_8 0802 74",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/20765/24"
+}
+},
+{
+"d": "2024-10-25",
+"c": {
+"inw": "docieplenie elewacji frontowej oraz remont balkonów w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości",
+"nier": "Marymoncka 65",
+"dz": "146504_8 0509 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/20623/24"
+}
+},
+{
+"d": "2024-10-25",
+"c": {
+"inw": "docieplenie elewacji frontowej oraz remont balkonów w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości",
+"nier": "Marymoncka 65",
+"dz": "146504_8 0509 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/20623/24"
+}
+},
+{
+"d": "2024-10-25",
+"c": {
+"inw": "remont elewacji oraz balkonów w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości",
+"nier": "Aleja Zjednoczenia 46",
+"dz": "146504_8 0505 52",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/20621/24"
+}
+},
+{
+"d": "2024-10-23",
+"c": {
+"inw": "przebudowa budynku mieszkalnego wielorodzinnego z usługami w parterze polegająca na dostosowaniu szybu windowego oraz dźwigu  do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa",
+"nier": "Alighieri 7 / Dantego",
+"dz": "146504_8 0803 3/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/352420/24"
+}
+},
+{
+"d": "2024-10-23",
+"c": {
+"inw": "przebudowa budynku mieszkalnego wielorodzinnego z usługami w parterze polegająca na dostosowaniu szybu windowego oraz dźwigu  do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa",
+"nier": "Alighieri 7 / Dantego",
+"dz": "146504_8 0803 76/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/352420/24"
+}
+},
+{
+"d": "2024-10-23",
+"c": {
+"inw": "przebudowa budynku mieszkalnego wielorodzinnego z usługami w parterze polegająca na dostosowaniu szybu windowego oraz dźwigu  do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa",
+"nier": "Alighieri 7 / Dantego",
+"dz": "146504_8 0803 94/24",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/352420/24"
+}
+},
+{
+"d": "2024-10-23",
+"c": {
+"inw": "przebudowa budynku mieszkalnego wielorodzinnego z usługami w parterze polegająca na dostosowaniu szybu windowego oraz dźwigu  do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa",
+"nier": "Alighieri 7 / Dantego",
+"dz": "146504_8 0803 95/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/352420/24"
+}
+},
+{
+"d": "2024-10-21",
+"c": {
+"inw": "przebudowa budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Dankowicka 14b",
+"dz": "146504_8 1001 112",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/350572/24"
+}
+},
+{
+"d": "2024-10-17",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Brązownicza 1",
+"dz": "146504_8 0815 68/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/20136/24"
+}
+},
+{
+"d": "2024-10-17",
+"c": {
+"inw": "przebudowa części budynku mieszk. wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Bogusławskiego 6 / Wojciecha",
+"dz": "146504_8 0809 200",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/20134/24"
+}
+},
+{
+"d": "2024-10-17",
+"c": {
+"inw": "przebudowa części budynku mieszk. wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Bogusławskiego 6 / Wojciecha",
+"dz": "146504_8 0809 157/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/20134/24"
+}
+},
+{
+"d": "2024-10-17",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Bogusławskiego 20 / Wojciecha",
+"dz": "146504_8 0815 216",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/20142/24"
+}
+},
+{
+"d": "2024-10-17",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Bogusławskiego 20 / Wojciecha",
+"dz": "146504_8 0815 217",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/20142/24"
+}
+},
+{
+"d": "2024-10-17",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Bogusławskiego 20 / Wojciecha",
+"dz": "146504_8 0815 218",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/20142/24"
+}
+},
+{
+"d": "2024-10-17",
+"c": {
+"inw": "przebudowa części budynku mieszk. wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Kluczowa 10",
+"dz": "146504_8 0814 391",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/20131/24"
+}
+},
+{
+"d": "2024-10-17",
+"c": {
+"inw": "przebudowa części budynku mieszk. wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Kluczowa 10",
+"dz": "146504_8 0814 330/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/20131/24"
+}
+},
+{
+"d": "2024-10-17",
+"c": {
+"inw": "przebudowa części budynku mieszk. wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Kluczowa 10",
+"dz": "146504_8 0814 339",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/20131/24"
+}
+},
+{
+"d": "2024-10-17",
+"c": {
+"inw": "przebudowa części budynku mieszk. wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Bogusławskiego 20 / Wojciecha",
+"dz": "146504_8 0815 216",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/20133/24"
+}
+},
+{
+"d": "2024-10-17",
+"c": {
+"inw": "przebudowa części budynku mieszk. wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Bogusławskiego 20 / Wojciecha",
+"dz": "146504_8 0815 217",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/20133/24"
+}
+},
+{
+"d": "2024-10-17",
+"c": {
+"inw": "przebudowa części budynku mieszk. wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Bogusławskiego 20 / Wojciecha",
+"dz": "146504_8 0815 218",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/20133/24"
+}
+},
+{
+"d": "2024-10-17",
+"c": {
+"inw": "przebudowa części budynku mieszk. wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Brązownicza 7",
+"dz": "146504_8 0815 101",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/20135/24"
+}
+},
+{
+"d": "2024-10-17",
+"c": {
+"inw": "przebudowa części budynku mieszk. wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Nerudy 5 / Pabla",
+"dz": "146504_8 0811 94",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/20132/24"
+}
+},
+{
+"d": "2024-10-17",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Osikowa 3",
+"dz": "146504_8 0814 379/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/20141/24"
+}
+},
+{
+"d": "2024-10-17",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Osikowa 3",
+"dz": "146504_8 0814 197",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/20141/24"
+}
+},
+{
+"d": "2024-10-17",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Osikowa 3",
+"dz": "146504_8 0814 191",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/20141/24"
+}
+},
+{
+"d": "2024-10-17",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Osikowa 3",
+"dz": "146504_8 0814 190",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/20141/24"
+}
+},
+{
+"d": "2024-10-17",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Osikowa 3",
+"dz": "146504_8 0814 187",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/20141/24"
+}
+},
+{
+"d": "2024-10-17",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Osikowa 3",
+"dz": "146504_8 0814 188",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/20141/24"
+}
+},
+{
+"d": "2024-10-17",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Osikowa 3",
+"dz": "146504_8 0814 81",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/20141/24"
+}
+},
+{
+"d": "2024-10-17",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Osikowa 3",
+"dz": "146504_8 0814 80",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/20141/24"
+}
+},
+{
+"d": "2024-10-17",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Osikowa 3",
+"dz": "146504_8 0814 384/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/20141/24"
+}
+},
+{
+"d": "2024-10-17",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejscia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Dąbrowskiej 7 / Marii",
+"dz": "146504_8 0816 81",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/20139/24"
+}
+},
+{
+"d": "2024-10-17",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dżwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Kluczowa 2",
+"dz": "146504_8 0814 383",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/20137/24"
+}
+},
+{
+"d": "2024-10-17",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dżwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Kluczowa 2",
+"dz": "146504_8 0814 240/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/20137/24"
+}
+},
+{
+"d": "2024-10-17",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Dąbrowskiej 13 / Marii",
+"dz": "146504_8 0816 99",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/20138/24"
+}
+},
+{
+"d": "2024-10-17",
+"c": {
+"inw": "przebudowa części budynku mieszk. wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Brązownicza 5",
+"dz": "146504_8 0815 95",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/20140/24"
+}
+},
+{
+"d": "2024-10-15",
+"c": {
+"inw": "zespół budynków o funkcji usługowo-magazynowej z komórkami na wynajem budowa nowego/nowych obiektów budowlanych",
+"wn": "Camel Jarosław Kościński",
+"nier": "Arkuszowa",
+"dz": "146504_8 1211 12/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Epuap/345898/24"
+}
+},
+{
+"d": "2024-10-15",
+"c": {
+"inw": "remont elewacji, balkonów oraz attyki ponad dachem w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości",
+"nier": "Kasprowicza 36 / Jana",
+"dz": "146504_8 0509 113",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/19966/24"
+}
+},
+{
+"d": "2024-10-11",
+"c": {
+"inw": "budynek zamieszkania zbiorowego i usługami , garażem podziemnym, miejscami postojowymi budowa nowego/nowych obiektów budowlanych",
+"wn": "\"Społem\" Warszawska Spółdzielnia Spożywców \"Żoliborz\"",
+"nier": "Kasprowicza 109 / Jana",
+"dz": "146504_8 0803 6/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/19840/24"
+}
+},
+{
+"d": "2024-10-10",
+"c": {
+"inw": "budowa instalacji gazowej nieskiego ciśnienia do budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Estrady 70F",
+"dz": "146504_8 1204 23/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/19775/24"
+}
+},
+{
+"d": "2024-10-10",
+"c": {
+"inw": "budowa instalacji gazowej nieskiego ciśnienia do budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Estrady 70F",
+"dz": "146504_8 1204 23/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/19775/24"
+}
+},
+{
+"d": "2024-10-04",
+"c": {
+"inw": "przebudowa stropu poddasza celem wykonania schodówn na poddasze z lokali mieszkalnych oraz przebudowa stropu dachu i ścian zewn. celem wykonania okien w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kasprowicza 60 / Jana",
+"dz": "146504_8 0501 14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/19258/24"
+}
+},
+{
+"d": "2024-10-02",
+"c": {
+"inw": "budowa czterech instalacji gazowych niskiego ciśnienia dla czterech lokali w dwóch budynkach mieszkalnych dwulokalowych budowa nowego/nowych obiektów budowlanych",
+"wn": "Yuin Nova Rokokowa 3sp.zo.o.",
+"nier": "Rokokowa",
+"dz": "146504_8 1112 6/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/19093/24"
+}
+},
+{
+"d": "2024-09-30",
+"c": {
+"inw": "przebudowa kablowej wewnętrznej linii zasilającej między budynkiem administracyjnym a budynkiem sieci i torów oraz przebudowa złącza kablowego z instalacją nowej tablicy elektrycznej w budynku sieci i torów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/23",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/18697/24"
+}
+},
+{
+"d": "2024-09-30",
+"c": {
+"inw": "przebudowa kablowej wewnętrznej linii zasilającej między budynkiem administracyjnym a budynkiem sieci i torów oraz przebudowa złącza kablowego z instalacją nowej tablicy elektrycznej w budynku sieci i torów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/18697/24"
+}
+},
+{
+"d": "2024-09-30",
+"c": {
+"inw": "przebudowa kablowej wewnętrznej linii zasilającej między budynkiem administracyjnym a budynkiem sieci i torów oraz przebudowa złącza kablowego z instalacją nowej tablicy elektrycznej w budynku sieci i torów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/18697/24"
+}
+},
+{
+"d": "2024-09-30",
+"c": {
+"inw": "budowa sieci gazowej średniego ciśnienia do budynków mieszkalnych jednorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "Polska Spółka Gazownictwa sp.zo.o.",
+"nier": "Jagiellonki / Anny",
+"dz": "146504_8 1003 63",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/18594/24"
+}
+},
+{
+"d": "2024-09-30",
+"c": {
+"inw": "budowa sieci gazowej średniego ciśnienia do budynków mieszkalnych jednorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "Polska Spółka Gazownictwa sp.zo.o.",
+"nier": "Jagiellonki / Anny",
+"dz": "146504_8 1003 59",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/18594/24"
+}
+},
+{
+"d": "2024-09-27",
+"c": {
+"inw": "przebudowa budynku przepompowni ścieków Marymont wraz  z komorami dopływowymi wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwio Wodociągów i Kanalizacji m. st. Warszawy",
+"nier": "Klaudyny 18b",
+"dz": "146504_8 0404 5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/328561/24"
+}
+},
+{
+"d": "2024-09-23",
+"c": {
+"inw": "budowa czterech budynków mieszkalnych jednorodzinnych w zabudowie b lixniaczej w tym trzy budynki jednolokalowe i jeden budynek dwulokalowy wraz z wewn. instalacją gazową budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Pułkowa 40b",
+"dz": "146504_8 1006 13/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/18067/24"
+}
+},
+{
+"d": "2024-09-13",
+"c": {
+"inw": "budowa filtra workowego z zewn. komunikacją pionową i opodestowaniem, kanałów spalin, dróg dojazdowych i utwardzeń w ramach zadania \"Przebudowa instalacji odpylania pieca łukowego i pieca kadziowego\" na terenie huty budowa nowego/nowych obiektów budowlanych",
+"wn": "ArcelorMittal Warszawa sp.zo.o.",
+"nier": "Kasprowicza 132 / Jana",
+"dz": "146504_8 1103 20/56",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/17280/24"
+}
+},
+{
+"d": "2024-09-12",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolnostojącego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Czyżyka",
+"dz": "146504_8 1001 61/4",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/17207/24"
+}
+},
+{
+"d": "2024-09-11",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Estrady 99",
+"dz": "146504_8 1201 15/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/17106/24"
+}
+},
+{
+"d": "2024-09-10",
+"c": {
+"inw": "budowa sieci wodociągowej DN 100mm budowa nowego/nowych obiektów budowlanych",
+"wn": "Proland Nieruchomości sp.zo.o.-Bielany sp.k.",
+"nier": "Jagiellonki / Anny",
+"dz": "146504_8 1003 59",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/17040/24"
+}
+},
+{
+"d": "2024-09-10",
+"c": {
+"inw": "budowa sieci wodociągowej DN 100mm budowa nowego/nowych obiektów budowlanych",
+"wn": "Proland Nieruchomości sp.zo.o.-Bielany sp.k.",
+"nier": "Jagiellonki / Anny",
+"dz": "146504_8 1003 63",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/17040/24"
+}
+},
+{
+"d": "2024-09-10",
+"c": {
+"inw": "budowa sieci kanalizacyjnej DN 200mm budowa nowego/nowych obiektów budowlanych",
+"wn": "Proland Nieruchomości sp.zo.o.Bielany sp.k.",
+"nier": "Jagiellonki / Anny",
+"dz": "146504_8 1003 59",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/17039/24"
+}
+},
+{
+"d": "2024-09-10",
+"c": {
+"inw": "budowa sieci kanalizacyjnej DN 200mm budowa nowego/nowych obiektów budowlanych",
+"wn": "Proland Nieruchomości sp.zo.o.Bielany sp.k.",
+"nier": "Jagiellonki / Anny",
+"dz": "146504_8 1003 63",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/17039/24"
+}
+},
+{
+"d": "2024-09-09",
+"c": {
+"inw": "budowa antresoli w biurze Independent Digital w budynku mieszkalno-usługowym budowa nowego/nowych obiektów budowlanych",
+"wn": "Independent Digital sp.zo.o.",
+"nier": "Aleja Słowiańska 25",
+"dz": "146504_8 0413 105",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/16842/24"
+}
+},
+{
+"d": "2024-09-05",
+"c": {
+"inw": "przebudowa budynku mieszkalnego wielorodzinnego polegająca na doposażeniu budynku w dźwig osobowy wewnętrzny wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa Domhut",
+"nier": "Perzyńskiego 9a / Włodzimierza",
+"dz": "146504_8 0512 96",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/16597/24"
+}
+},
+{
+"d": "2024-09-04",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Słonecznikowa 23",
+"dz": "146504_8 0814 56/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/16450/24"
+}
+},
+{
+"d": "2024-09-03",
+"c": {
+"inw": "budowa dwóch budynków jednorodzinnych wolno stojących budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Księżycowa 56",
+"dz": "146504_8 1210 9/16",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/307118/24"
+}
+},
+{
+"d": "2024-09-03",
+"c": {
+"inw": "budowa dwóch budynków jednorodzinnych wolno stojących budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Księżycowa 56",
+"dz": "146504_8 1210 9/14",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/307118/24"
+}
+},
+{
+"d": "2024-09-03",
+"c": {
+"inw": "budowa dwóch budynków jednorodzinnych wolno stojących budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Księżycowa 56",
+"dz": "146504_8 0813 95",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/307118/24"
+}
+},
+{
+"d": "2024-08-30",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Estrady 33",
+"dz": "146504_8 1202 38",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/16046/24"
+}
+},
+{
+"d": "2024-08-30",
+"c": {
+"inw": "Rozbudowa budynku Zespołu Szkół Nr 18 polegająca na budowie wyjścia ewakuacyjnego z sali gimnastycznej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa",
+"nier": "Żeromskiego 81 / Stefana",
+"dz": "146504_8 0511 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-III-WIR.6740.1.2024.MGR"
+}
+},
+{
+"d": "2024-08-30",
+"c": {
+"inw": "przprzebudowa lokalu mieszkalnego polegająca na wykonaniu otworu w ścianie nośnej w budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Wrzeciono 2a",
+"dz": "146504_8 0703 71",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/16017/24"
+}
+},
+{
+"d": "2024-08-29",
+"c": {
+"inw": "Rozbudowa altany śmietnikowej budynku mieszkalnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Spółdzielnia Mieszkaniowa Piaski C",
+"nier": "Kochanowskiego 32 / Jana",
+"dz": "146504_8 0601 28/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/15954/24"
+}
+},
+{
+"d": "2024-08-27",
+"c": {
+"inw": "remont pomieszczeń, parteru oraz klatek schodowych w budynku Domu Dziecka nr 1 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawskie Centrum Pomocy Rodzinie",
+"nier": "Aleja Zjednoczenia 34",
+"dz": "146504_8 0508 84",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/15665/24"
+}
+},
+{
+"d": "2024-08-23",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego z garażem w bryle budynku, zbiornikiem na nieczystości ciekłe oraz rozbiórka budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Hieroglif 3",
+"dz": "146504_8 1007 53",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/297748/24"
+}
+},
+{
+"d": "2024-08-23",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego z garażem w bryle budynku, zbiornikiem na nieczystości ciekłe oraz rozbiórka budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Hieroglif 3",
+"dz": "146504_8 1007 54",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/297748/24"
+}
+},
+{
+"d": "2024-08-20",
+"c": {
+"inw": "budowa zewnętrznej myjni przejazdowej obejmującej wiatę, kontenerowy budynek techniczny z zagospodarowaniem oraz infrastrukturą techniczną: rozbudowa zakładowej instalacji wody,  instalacji kanalizacji technologicznej , rozbudowa instalacji kanalizacji deszczowej z budową podziemnego zbiornika retencyjnego, rozbudowa instalacji elektrycznych i teletechnicznych  i rozbiórka istniejącej myjni przejazdowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Tramwaje Warszawskie sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/15233/24"
+}
+},
+{
+"d": "2024-08-20",
+"c": {
+"inw": "budowa zewnętrznej myjni przejazdowej obejmującej wiatę, kontenerowy budynek techniczny z zagospodarowaniem oraz infrastrukturą techniczną: rozbudowa zakładowej instalacji wody,  instalacji kanalizacji technologicznej , rozbudowa instalacji kanalizacji deszczowej z budową podziemnego zbiornika retencyjnego, rozbudowa instalacji elektrycznych i teletechnicznych  i rozbiórka istniejącej myjni przejazdowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Tramwaje Warszawskie sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/15233/24"
+}
+},
+{
+"d": "2024-08-20",
+"c": {
+"inw": "budowa zewnętrznej myjni przejazdowej obejmującej wiatę, kontenerowy budynek techniczny z zagospodarowaniem oraz infrastrukturą techniczną: rozbudowa zakładowej instalacji wody,  instalacji kanalizacji technologicznej , rozbudowa instalacji kanalizacji deszczowej z budową podziemnego zbiornika retencyjnego, rozbudowa instalacji elektrycznych i teletechnicznych  i rozbiórka istniejącej myjni przejazdowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Tramwaje Warszawskie sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/15233/24"
+}
+},
+{
+"d": "2024-08-20",
+"c": {
+"inw": "budowa zewnętrznej myjni przejazdowej obejmującej wiatę, kontenerowy budynek techniczny z zagospodarowaniem oraz infrastrukturą techniczną: rozbudowa zakładowej instalacji wody,  instalacji kanalizacji technologicznej , rozbudowa instalacji kanalizacji deszczowej z budową podziemnego zbiornika retencyjnego, rozbudowa instalacji elektrycznych i teletechnicznych  i rozbiórka istniejącej myjni przejazdowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Tramwaje Warszawskie sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/15233/24"
+}
+},
+{
+"d": "2024-08-20",
+"c": {
+"inw": "budowa zewnętrznej myjni przejazdowej obejmującej wiatę, kontenerowy budynek techniczny z zagospodarowaniem oraz infrastrukturą techniczną: rozbudowa zakładowej instalacji wody,  instalacji kanalizacji technologicznej , rozbudowa instalacji kanalizacji deszczowej z budową podziemnego zbiornika retencyjnego, rozbudowa instalacji elektrycznych i teletechnicznych  i rozbiórka istniejącej myjni przejazdowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Tramwaje Warszawskie sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/15233/24"
+}
+},
+{
+"d": "2024-08-20",
+"c": {
+"inw": "budowa zewnętrznej myjni przejazdowej obejmującej wiatę, kontenerowy budynek techniczny z zagospodarowaniem oraz infrastrukturą techniczną: rozbudowa zakładowej instalacji wody,  instalacji kanalizacji technologicznej , rozbudowa instalacji kanalizacji deszczowej z budową podziemnego zbiornika retencyjnego, rozbudowa instalacji elektrycznych i teletechnicznych  i rozbiórka istniejącej myjni przejazdowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Tramwaje Warszawskie sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/15233/24"
+}
+},
+{
+"d": "2024-08-20",
+"c": {
+"inw": "budowa zewnętrznej myjni przejazdowej obejmującej wiatę, kontenerowy budynek techniczny z zagospodarowaniem oraz infrastrukturą techniczną: rozbudowa zakładowej instalacji wody,  instalacji kanalizacji technologicznej , rozbudowa instalacji kanalizacji deszczowej z budową podziemnego zbiornika retencyjnego, rozbudowa instalacji elektrycznych i teletechnicznych  i rozbiórka istniejącej myjni przejazdowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Tramwaje Warszawskie sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/15233/24"
+}
+},
+{
+"d": "2024-08-20",
+"c": {
+"inw": "budowa  instalacji gazowej dla czterech projektowanych budynków jednorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "Villaforet sp.zo.o.",
+"nier": "Tułowicka",
+"dz": "146504_8 1001 46/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/15235/24"
+}
+},
+{
+"d": "2024-08-14",
+"c": {
+"inw": "rozbudowa i przebudowa budynku mieszkalnego wielorodzinnego - zabudowa podcienia z oknem na parterze rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Kiwerska 34",
+"dz": "146504_8 0402 177",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/14989/24"
+}
+},
+{
+"d": "2024-08-12",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Bogusławskiego 12a / Wojciecha",
+"dz": "146504_8 0808 56/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/14842/24"
+}
+},
+{
+"d": "2024-08-12",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Kwitnąca 15",
+"dz": "146504_8 0809 210",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/14839/24"
+}
+},
+{
+"d": "2024-08-12",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa Chomiczówka",
+"nier": "Renesansowa 21",
+"dz": "146504_8 0812 239",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/14837/24"
+}
+},
+{
+"d": "2024-08-12",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spóldzielnia Budowlano Mieszkaniowa Chomiczówka",
+"nier": "Nerudy 3 / Pabla",
+"dz": "146504_8 0811 95",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/14838/24"
+}
+},
+{
+"d": "2024-08-12",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Conrada 10 / Josepha",
+"dz": "146504_8 0811 119",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/14840/24"
+}
+},
+{
+"d": "2024-08-12",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Conrada 4 / Josepha",
+"dz": "146504_8 0816 84",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/14841/24"
+}
+},
+{
+"d": "2024-08-08",
+"c": {
+"inw": "Przebudowa lokalu mieszkalnego w budynku mieszkalnym wielorodzinnym polegająca na wykonaniu otworu w stropie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Łomiańska 13",
+"dz": "146504_8 0409 84/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/286132/24"
+}
+},
+{
+"d": "2024-08-08",
+"c": {
+"inw": "Przebudowa lokalu mieszkalnego w budynku mieszkalnym wielorodzinnym polegająca na wykonaniu otworu w stropie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Łomiańska 13",
+"dz": "146504_8 0409 287/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/286132/24"
+}
+},
+{
+"d": "2024-08-08",
+"c": {
+"inw": "Przebudowa lokalu mieszkalnego w budynku mieszkalnym wielorodzinnym polegająca na wykonaniu otworu w stropie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Łomiańska 13",
+"dz": "146504_8 0409 78",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/286132/24"
+}
+},
+{
+"d": "2024-08-02",
+"c": {
+"inw": "Budowa altan śmietnikowych i rowerowych przy budynku wielorodzinnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa",
+"nier": "Daniłowskiego 6,8 / Gustawa",
+"dz": "146504_8 0511 176",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/13982/24"
+}
+},
+{
+"d": "2024-07-31",
+"c": {
+"inw": "Budowa dwóch budynków mieszkalnych jednorodzinnych wolnostojących - etap I budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Arkuszowa 191",
+"dz": "146504_8 1211 3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/13783/24"
+}
+},
+{
+"d": "2024-07-25",
+"c": {
+"inw": "projekt zamienny budynku mieszkalnego wielorodzinnego z miejscami postojowymi w garażu podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Maszewska Investments sp.zo.o.",
+"nier": "Maszewska 11",
+"dz": "146504_8 0813 37",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/13482/24"
+}
+},
+{
+"d": "2024-07-25",
+"c": {
+"inw": "projekt zamienny budynku mieszkalnego wielorodzinnego z miejscami postojowymi w garażu podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Maszewska Investments sp.zo.o.",
+"nier": "Maszewska 11",
+"dz": "146504_8 0813 18",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/13482/24"
+}
+},
+{
+"d": "2024-07-23",
+"c": {
+"inw": "budowa drogi wewnętrznej - teren huty ArcellorMittal budowa nowego/nowych obiektów budowlanych",
+"wn": "ArcellorMittal Warszawa sp.zo.o.",
+"nier": "Kasprowicza 132 / Jana",
+"dz": "146504_8 1103 20/56",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/13386/24"
+}
+},
+{
+"d": "2024-07-19",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolno stojącego dwulokalowego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Loteryjki",
+"dz": "146504_8 1109 4/17",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/13207/24"
+}
+},
+{
+"d": "2024-07-17",
+"c": {
+"inw": "przebudowa lokalu mieszkalnego- zabudowa loggi wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Klaudyny 12/171",
+"dz": "146504_8 0404 4/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/13058/24"
+}
+},
+{
+"d": "2024-07-12",
+"c": {
+"inw": "budowa wraz z przebudową sieci wodociągowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji m.st Warszawy",
+"nier": "Niedzielskiego \"Żywiciela\" / płk. Mieczysława",
+"dz": "146504_8 0602 6/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/12895/24"
+}
+},
+{
+"d": "2024-07-12",
+"c": {
+"inw": "budowa wraz z przebudową sieci wodociągowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji m.st Warszawy",
+"nier": "Niedzielskiego \"Żywiciela\" / płk. Mieczysława",
+"dz": "146504_8 0602 6/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/12895/24"
+}
+},
+{
+"d": "2024-07-12",
+"c": {
+"inw": "budowa wraz z przebudową sieci wodociągowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji m.st Warszawy",
+"nier": "Niedzielskiego \"Żywiciela\" / płk. Mieczysława",
+"dz": "146504_8 0602 6/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/12895/24"
+}
+},
+{
+"d": "2024-07-12",
+"c": {
+"inw": "budowa wraz z przebudową sieci wodociągowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji m.st Warszawy",
+"nier": "Niedzielskiego \"Żywiciela\" / płk. Mieczysława",
+"dz": "146504_8 0602 16/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/12895/24"
+}
+},
+{
+"d": "2024-07-12",
+"c": {
+"inw": "słupy oświetleniowe istniejącego boiska piłkarskiego w ramachrewitalizacji ośrodka Hutnik cz. II budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa- Stołeczne Cemtrum Sportu Aktywna Warszawa",
+"nier": "Marymoncka 42",
+"dz": "146504_8 0901 15/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/12889/24"
+}
+},
+{
+"d": "2024-06-26",
+"c": {
+"inw": "budowa ekranu akustycznego budowa nowego/nowych obiektów budowlanych",
+"wn": "Develia Warszawa sp.zo.o.",
+"nier": "Rokokowa",
+"dz": "146504_8 1112 11/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/11830/24"
+}
+},
+{
+"d": "2024-06-26",
+"c": {
+"inw": "budowa ekranu akustycznego budowa nowego/nowych obiektów budowlanych",
+"wn": "Develia Warszawa sp.zo.o.",
+"nier": "Rokokowa",
+"dz": "146504_8 1112 11/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/11830/24"
+}
+},
+{
+"d": "2024-06-26",
+"c": {
+"inw": "przeniesienie decyzji pozwolenia na budowę nr 47/2022 z dnia 25.03.2022 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "P 2022 sp.zo.o.",
+"nier": "Bogusławskiego 27 / Wojciecha",
+"dz": "146504_8 0807 25/19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/11856/24"
+}
+},
+{
+"d": "2024-06-26",
+"c": {
+"inw": "rozbudowa, nadbudowa i przebudowa budynku mieszkalnego jednorodzinnego wraz z budową podziemnego zbiornika do gromadzenia części wód opadowych rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Bajana 10a / Jerzego",
+"dz": "146504_8 0812 166/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/11876/24"
+}
+},
+{
+"d": "2024-06-26",
+"c": {
+"inw": "rozbudowa, nadbudowa i przebudowa budynku mieszkalnego jednorodzinnego wraz z budową podziemnego zbiornika do gromadzenia części wód opadowych rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Bajana 10a / Jerzego",
+"dz": "146504_8 0812 165/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/11876/24"
+}
+},
+{
+"d": "2024-06-26",
+"c": {
+"inw": "rozbudowa, nadbudowa i przebudowa budynku mieszkalnego jednorodzinnego wraz z budową podziemnego zbiornika do gromadzenia części wód opadowych rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Bajana 10a / Jerzego",
+"dz": "146504_8 0812 133/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/11876/24"
+}
+},
+{
+"d": "2024-06-26",
+"c": {
+"inw": "rozbudowa, nadbudowa i przebudowa budynku mieszkalnego jednorodzinnego wraz z budową podziemnego zbiornika do gromadzenia części wód opadowych rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Bajana 10a / Jerzego",
+"dz": "146504_8 0812 167",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/11876/24"
+}
+},
+{
+"d": "2024-06-20",
+"c": {
+"inw": "budowa budynku dla obsługi  stanowiska przyjęcia wagonów wraz z budową urządzeń infrastruktury technicznej budowa nowego/nowych obiektów budowlanych",
+"wn": "Tramwaje Warszawskie sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/23",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/11522/24"
+}
+},
+{
+"d": "2024-06-20",
+"c": {
+"inw": "budowa budynku dla obsługi  stanowiska przyjęcia wagonów wraz z budową urządzeń infrastruktury technicznej budowa nowego/nowych obiektów budowlanych",
+"wn": "Tramwaje Warszawskie sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/22",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/11522/24"
+}
+},
+{
+"d": "2024-06-20",
+"c": {
+"inw": "budowa budynku dla obsługi  stanowiska przyjęcia wagonów wraz z budową urządzeń infrastruktury technicznej budowa nowego/nowych obiektów budowlanych",
+"wn": "Tramwaje Warszawskie sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/11522/24"
+}
+},
+{
+"d": "2024-06-20",
+"c": {
+"inw": "budowa budynku dla obsługi  stanowiska przyjęcia wagonów wraz z budową urządzeń infrastruktury technicznej budowa nowego/nowych obiektów budowlanych",
+"wn": "Tramwaje Warszawskie sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/11522/24"
+}
+},
+{
+"d": "2024-06-20",
+"c": {
+"inw": "budowa budynku dla obsługi  stanowiska przyjęcia wagonów wraz z budową urządzeń infrastruktury technicznej budowa nowego/nowych obiektów budowlanych",
+"wn": "Tramwaje Warszawskie sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/11522/24"
+}
+},
+{
+"d": "2024-06-19",
+"c": {
+"inw": "przebudowa budynku mieszkalnego wielorodzinnego w zakresie wykonania otworu i nadproża w ścianie nośnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kwitnąca 17",
+"dz": "146504_8 0809 228",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/11311/24"
+}
+},
+{
+"d": "2024-06-13",
+"c": {
+"inw": "przebudowa i rozbudowa domu jednorodzinnego w zabudowie szeregowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kleczewska 17",
+"dz": "146504_8 0511 15",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/10936/24"
+}
+},
+{
+"d": "2024-06-07",
+"c": {
+"inw": "Budowa budynku mieszkalnego jednorodzinnego wolnostojącego z zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Rudzika",
+"dz": "146504_8 1001 183",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/10610/24"
+}
+},
+{
+"d": "2024-05-29",
+"c": {
+"inw": "Zespół 6 budynków mieszkalnych czterolokalowych budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Dankowicka",
+"dz": "146504_8 1001 120/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/10155/24"
+}
+},
+{
+"d": "2024-05-28",
+"c": {
+"inw": "przebudowa przegród wewnętrznych i wymiana okien w Szkole Podstawowej nr 214 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa",
+"nier": "Fontany 1 / Antoniego",
+"dz": "146504_8 0512 83",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "WIR.271.2.2024.KOR"
+}
+},
+{
+"d": "2024-05-28",
+"c": {
+"inw": "budynek mieszkalny jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Pasterska 3",
+"dz": "146504_8 1001 97",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/10073/24"
+}
+},
+{
+"d": "2024-05-28",
+"c": {
+"inw": "budynek mieszkalny jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Pasterska 3",
+"dz": "146504_8 1001 98/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/10073/24"
+}
+},
+{
+"d": "2024-05-22",
+"c": {
+"inw": "docieplenie i remont pokrycia dachu w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości",
+"nier": "Kasprowicza 60 / Jana",
+"dz": "146504_8 0501 14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/9755/24"
+}
+},
+{
+"d": "2024-05-16",
+"c": {
+"inw": "budowa wolno stojącego dwukondygnacyjnego budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Księżycowa 32a",
+"dz": "146504_8 0814 378/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/9448/24"
+}
+},
+{
+"d": "2024-05-14",
+"c": {
+"inw": "wykonanie instalacji wentylacyjnej oddymiającej klatkę schodową i szyby dźwigowe w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa",
+"nier": "Jarzębskiego 1 / Adama",
+"dz": "146504_8 0511 180/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/9338/24"
+}
+},
+{
+"d": "2024-05-09",
+"c": {
+"inw": "budowa instalacji gazowych (3 szt.) dla dwóch projektowanych budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej oraz dla jednego projektowanego budynku mnieszkalnego jednorodzinnego wolno stojącego budowa nowego/nowych obiektów budowlanych",
+"wn": "RP3 Sp.zo.o.",
+"nier": "Estrady 25",
+"dz": "146504_8 1202 45",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/9110/24"
+}
+},
+{
+"d": "2024-05-06",
+"c": {
+"inw": "Budowa Kolektora Wiślanego Etap III - projekt zamienny budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i kanalizacji w Warszawie",
+"nier": "Farysa",
+"dz": "146504_8 0902 3/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/8867/24"
+}
+},
+{
+"d": "2024-05-06",
+"c": {
+"inw": "Budowa Kolektora Wiślanego Etap III - projekt zamienny budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i kanalizacji w Warszawie",
+"nier": "Farysa",
+"dz": "146504_8 0902 3/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/8867/24"
+}
+},
+{
+"d": "2024-05-06",
+"c": {
+"inw": "Budowa Kolektora Wiślanego Etap III - projekt zamienny budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i kanalizacji w Warszawie",
+"nier": "Farysa",
+"dz": "146504_8 0902 4/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/8867/24"
+}
+},
+{
+"d": "2024-05-06",
+"c": {
+"inw": "Budowa Kolektora Wiślanego Etap III - projekt zamienny budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i kanalizacji w Warszawie",
+"nier": "Farysa",
+"dz": "146504_8 0902 4/15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/8867/24"
+}
+},
+{
+"d": "2024-04-30",
+"c": {
+"inw": "Budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Ptasi Raj",
+"dz": "146504_8 1001 61/13",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/154141/24"
+}
+},
+{
+"d": "2024-04-26",
+"c": {
+"inw": "przebudowa budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kasprowicza 73 / Jana",
+"dz": "146504_8 0503 6",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/149596/24"
+}
+},
+{
+"d": "2024-04-16",
+"c": {
+"inw": "budowa sieci kanalizacji sanitarnej wraz z odcinkami sieci od kanału do granicy nieruchomości budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji m.st. Warszawy S.A.",
+"nier": "Księżycowa 2",
+"dz": "146504_8 0814 306",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/138070/24"
+}
+},
+{
+"d": "2024-04-16",
+"c": {
+"inw": "budowa sieci kanalizacji sanitarnej wraz z odcinkami sieci od kanału do granicy nieruchomości budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji m.st. Warszawy S.A.",
+"nier": "Księżycowa 2",
+"dz": "146504_8 0814 268",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/138070/24"
+}
+},
+{
+"d": "2024-04-16",
+"c": {
+"inw": "budowa sieci kanalizacji sanitarnej wraz z odcinkami sieci od kanału do granicy nieruchomości budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji m.st. Warszawy S.A.",
+"nier": "Księżycowa 2",
+"dz": "146504_8 0814 265/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/138070/24"
+}
+},
+{
+"d": "2024-04-16",
+"c": {
+"inw": "budowa sieci kanalizacji sanitarnej wraz z odcinkami sieci od kanału do granicy nieruchomości budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji m.st. Warszawy S.A.",
+"nier": "Księżycowa 2",
+"dz": "146504_8 0814 274/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/138070/24"
+}
+},
+{
+"d": "2024-04-16",
+"c": {
+"inw": "budowa sieci kanalizacji sanitarnej wraz z odcinkami sieci od kanału do granicy nieruchomości budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji m.st. Warszawy S.A.",
+"nier": "Księżycowa 2",
+"dz": "146504_8 0814 274/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/138070/24"
+}
+},
+{
+"d": "2024-04-16",
+"c": {
+"inw": "budowa sieci kanalizacji sanitarnej wraz z odcinkami sieci od kanału do granicy nieruchomości budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji m.st. Warszawy S.A.",
+"nier": "Księżycowa 2",
+"dz": "146504_8 0814 324",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/138070/24"
+}
+},
+{
+"d": "2024-04-16",
+"c": {
+"inw": "budowa sieci kanalizacji sanitarnej wraz z odcinkami sieci od kanału do granicy nieruchomości budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji m.st. Warszawy S.A.",
+"nier": "Księżycowa 2",
+"dz": "146504_8 0814 265/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/138070/24"
+}
+},
+{
+"d": "2024-04-16",
+"c": {
+"inw": "budowa sieci kanalizacji sanitarnej wraz z odcinkami sieci od kanału do granicy nieruchomości budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji m.st. Warszawy S.A.",
+"nier": "Księżycowa 2",
+"dz": "146504_8 0814 375",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/138070/24"
+}
+},
+{
+"d": "2024-04-16",
+"c": {
+"inw": "budowa sieci kanalizacji sanitarnej wraz z odcinkami sieci od kanału do granicy nieruchomości budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji m.st. Warszawy S.A.",
+"nier": "Księżycowa 2",
+"dz": "146504_8 0814 265/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/138070/24"
+}
+},
+{
+"d": "2024-04-16",
+"c": {
+"inw": "budowa sieci kanalizacji sanitarnej wraz z odcinkami sieci od kanału do granicy nieruchomości budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji m.st. Warszawy S.A.",
+"nier": "Księżycowa 2",
+"dz": "146504_8 0814 265/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/138070/24"
+}
+},
+{
+"d": "2024-04-16",
+"c": {
+"inw": "budowa sieci kanalizacji sanitarnej wraz z odcinkami sieci od kanału do granicy nieruchomości budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji m.st. Warszawy S.A.",
+"nier": "Księżycowa 2",
+"dz": "146504_8 0814 265/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/138070/24"
+}
+},
+{
+"d": "2024-04-16",
+"c": {
+"inw": "budowa sieci kanalizacji sanitarnej wraz z odcinkami sieci od kanału do granicy nieruchomości budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji m.st. Warszawy S.A.",
+"nier": "Księżycowa 2",
+"dz": "146504_8 0814 265/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/138070/24"
+}
+},
+{
+"d": "2024-04-16",
+"c": {
+"inw": "budowa sieci kanalizacji sanitarnej wraz z odcinkami sieci od kanału do granicy nieruchomości budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji m.st. Warszawy S.A.",
+"nier": "Księżycowa 2",
+"dz": "146504_8 0815 57",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/138070/24"
+}
+},
+{
+"d": "2024-04-16",
+"c": {
+"inw": "budowa sieci kanalizacji sanitarnej wraz z odcinkami sieci od kanału do granicy nieruchomości budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji m.st. Warszawy S.A.",
+"nier": "Księżycowa 2",
+"dz": "146504_8 0815 55",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/138070/24"
+}
+},
+{
+"d": "2024-04-16",
+"c": {
+"inw": "budowa sieci kanalizacji sanitarnej wraz z odcinkami sieci od kanału do granicy nieruchomości budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji m.st. Warszawy S.A.",
+"nier": "Księżycowa 2",
+"dz": "146504_8 0815 39",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/138070/24"
+}
+},
+{
+"d": "2024-04-16",
+"c": {
+"inw": "budowa sieci kanalizacji sanitarnej wraz z odcinkami sieci od kanału do granicy nieruchomości budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji m.st. Warszawy S.A.",
+"nier": "Księżycowa 2",
+"dz": "146504_8 0815 47/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/138070/24"
+}
+},
+{
+"d": "2024-04-12",
+"c": {
+"inw": "budowa dwóch budynków jednorodzinnych w zabudowie bliźniaczej wraz z niezbędną infrastrukturą techniczną i instalacją gazową budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Wólczyńska",
+"dz": "146504_8 1205 48/7",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/7370/24"
+}
+},
+{
+"d": "2024-04-12",
+"c": {
+"inw": "rozbiórka trzech budynków mieszkalnych jednorodzinnych rozbiórka istniejącego obiektu budowlanego",
+"wn": "PFN Capital sp.zo.o. sp.k.",
+"nier": "Wólczyńska 307a",
+"dz": "146504_8 1205 9/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/7332/24"
+}
+},
+{
+"d": "2024-04-12",
+"c": {
+"inw": "rozbiórka trzech budynków mieszkalnych jednorodzinnych rozbiórka istniejącego obiektu budowlanego",
+"wn": "PFN Capital sp.zo.o. sp.k.",
+"nier": "Wólczyńska 307a",
+"dz": "146504_8 1205 9/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/7332/24"
+}
+},
+{
+"d": "2024-04-09",
+"c": {
+"inw": "rozbiórka elektroenergetycznych sieci kablowych SN 15kV i nN 0,4Kv oraz budowa elektroenergetycznych sieci kablowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "Stoen Operator sp.zo.o.",
+"nier": "Rudnickiego / Lucjana",
+"dz": "146504_8 0602 9/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/7054/24"
+}
+},
+{
+"d": "2024-04-09",
+"c": {
+"inw": "rozbiórka elektroenergetycznych sieci kablowych SN 15kV i nN 0,4Kv oraz budowa elektroenergetycznych sieci kablowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "Stoen Operator sp.zo.o.",
+"nier": "Rudnickiego / Lucjana",
+"dz": "146504_8 0602 11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/7054/24"
+}
+},
+{
+"d": "2024-03-27",
+"c": {
+"inw": "rozbudowa wiaty śmietnikowej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Wspólnota Mieszkaniowa Rezydencje Parkowe",
+"nier": "Hieroglif 1A-2D",
+"dz": "146504_8 1007 7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/6388/24"
+}
+},
+{
+"d": "2024-03-25",
+"c": {
+"inw": "wymiana słupa stalowego oraz filara żelbetowego stanowiących elementy konstrukcji wsporczej w osi konstrukcyjnej nr 6 hali przeładunku odpadów nr inw. 1.00370 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Oczyszczania w m. st. Warszawy Sp. z o.o.",
+"nier": "Kampinoska",
+"dz": "146504_8 1212 3/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/6081/24"
+}
+},
+{
+"d": "2024-03-25",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z usługami w parterze, garażem podziemnym i zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "Marvipol Conrada Sp. z o.o.",
+"nier": "Conrada / Josepha",
+"dz": "146504_8 0807 19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/6147/24"
+}
+},
+{
+"d": "2024-03-25",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z usługami w parterze, garażem podziemnym i zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "Marvipol Conrada Sp. z o.o.",
+"nier": "Conrada / Josepha",
+"dz": "146504_8 0807 22/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/6147/24"
+}
+},
+{
+"d": "2024-03-21",
+"c": {
+"inw": "Połączenie mieszkań na I piętrze i poddaszu budynku mieszkalnego jednorodzinnego wraz ze zmianą sposobu użytkowania strychu na funkcję mieszkalną wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Cegłowska 22",
+"dz": "146504_8 0509 17",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/5912/24"
+}
+},
+{
+"d": "2024-02-29",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Balaton",
+"dz": "146504_8 1002 139/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/4071/24"
+}
+},
+{
+"d": "2024-02-27",
+"c": {
+"inw": "remont i przebudowa lokalu usługowego na przychodnię stomatologiczną w budynku parterowym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Centrum Stomatologii UNI-DENT s.c.",
+"nier": "Wolumen 18",
+"dz": "146504_8 0805 172/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/3903/24"
+}
+},
+{
+"d": "2024-02-27",
+"c": {
+"inw": "remont i przebudowa lokalu usługowego na przychodnię stomatologiczną w budynku parterowym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Centrum Stomatologii UNI-DENT s.c.",
+"nier": "Wolumen 18",
+"dz": "146504_8 0805 124/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/3903/24"
+}
+},
+{
+"d": "2024-02-27",
+"c": {
+"inw": "remont i przebudowa lokalu usługowego na przychodnię stomatologiczną w budynku parterowym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Centrum Stomatologii UNI-DENT s.c.",
+"nier": "Wolumen 18",
+"dz": "146504_8 0805 172/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/3903/24"
+}
+},
+{
+"d": "2024-02-27",
+"c": {
+"inw": "remont i przebudowa lokalu usługowego na przychodnię stomatologiczną w budynku parterowym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Centrum Stomatologii UNI-DENT s.c.",
+"nier": "Wolumen 18",
+"dz": "146504_8 0805 121/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/3903/24"
+}
+},
+{
+"d": "2024-02-26",
+"c": {
+"inw": "montaż żurawia słupowego obrotowego służącego do wyciągania pomp na obiekcie stacji pomp kanałowych \"RYTMY\" wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m. st. Warszawy S.A.",
+"nier": "Wybrzeże Gdańskie -",
+"dz": "146504_8 0902 4/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/3778/24"
+}
+},
+{
+"d": "2024-02-23",
+"c": {
+"inw": "Budynek Mieszkalny Jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Farysa 56",
+"dz": "146504_8 1007 81/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/3701/24"
+}
+},
+{
+"d": "2024-02-20",
+"c": {
+"inw": "budynek mieszkalny jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Brochowska 1",
+"dz": "146504_8 0408 80",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/3384/24"
+}
+},
+{
+"d": "2024-02-20",
+"c": {
+"inw": "budynek mieszkalny jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Brochowska 1",
+"dz": "146504_8 0408 81",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/3384/24"
+}
+},
+{
+"d": "2024-02-19",
+"c": {
+"inw": "rozbiórka budynku magazynowego do składowania czasowego odpadów rozbiórka istniejącego obiektu budowlanego",
+"wn": "ARCELORMITTAL WARSZAWA Sp. z o.o.",
+"nier": "Kasprowicza 132 / Jana",
+"dz": "146504_8 1103 20/56",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/3187/24"
+}
+},
+{
+"d": "2024-02-15",
+"c": {
+"inw": "budowa trzech budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej i wolno stojącej wraz z drogą wewnętrzną budowa nowego/nowych obiektów budowlanych",
+"wn": "RP3 Sp. z o.o.",
+"nier": "Estrady 25",
+"dz": "146504_8 1202 45",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/3063/24"
+}
+},
+{
+"d": "2024-02-13",
+"c": {
+"inw": "budowa sieci elektroenergetycznej sn budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "Frygijska",
+"dz": "146504_8 0703 41/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/2897/24"
+}
+},
+{
+"d": "2024-02-13",
+"c": {
+"inw": "budowa sieci elektroenergetycznej sn budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "Frygijska",
+"dz": "146504_8 0703 41/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/2897/24"
+}
+},
+{
+"d": "2024-02-13",
+"c": {
+"inw": "budowa sieci elektroenergetycznej sn budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "Frygijska",
+"dz": "146504_8 0703 41/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/2897/24"
+}
+},
+{
+"d": "2024-02-13",
+"c": {
+"inw": "budowa sieci elektroenergetycznej sn budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "Frygijska",
+"dz": "146504_8 0703 43/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/2897/24"
+}
+},
+{
+"d": "2024-02-13",
+"c": {
+"inw": "budowa sieci elektroenergetycznej sn budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "Frygijska",
+"dz": "146504_8 0705 2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/2897/24"
+}
+},
+{
+"d": "2024-02-13",
+"c": {
+"inw": "budowa sieci elektroenergetycznej sn budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "Frygijska",
+"dz": "146504_8 0705 24",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/2897/24"
+}
+},
+{
+"d": "2024-02-13",
+"c": {
+"inw": "budowa sieci elektroenergetycznej sn budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "Frygijska",
+"dz": "146504_8 0705 25/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/2897/24"
+}
+},
+{
+"d": "2024-02-13",
+"c": {
+"inw": "budowa sieci elektroenergetycznej sn budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "Frygijska",
+"dz": "146504_8 0705 25/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/2897/24"
+}
+},
+{
+"d": "2024-02-13",
+"c": {
+"inw": "budowa sieci elektroenergetycznej sn budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "Frygijska",
+"dz": "146504_8 0705 25/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/2897/24"
+}
+},
+{
+"d": "2024-02-13",
+"c": {
+"inw": "budowa sieci elektroenergetycznej sn budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "Frygijska",
+"dz": "146504_8 0705 27",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/2897/24"
+}
+},
+{
+"d": "2024-02-13",
+"c": {
+"inw": "budowa sieci elektroenergetycznej sn budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "Frygijska",
+"dz": "146504_8 0705 37",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/2897/24"
+}
+},
+{
+"d": "2024-02-13",
+"c": {
+"inw": "budowa sieci elektroenergetycznej sn budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "Frygijska",
+"dz": "146504_8 0705 38/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/2897/24"
+}
+},
+{
+"d": "2024-02-05",
+"c": {
+"inw": "rozbudowa mieszkania (powiększenie kuchni kosztem loggii) rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Klaudyny 38",
+"dz": "146504_8 0403 28/37",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/2201/24"
+}
+},
+{
+"d": "2024-02-01",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z usługami i zbiornikiem retencyjnym oraz instalacją gazową budowa nowego/nowych obiektów budowlanych",
+"wn": "Eko Trias sp.zo.o.",
+"nier": "Renesansowa",
+"dz": "146504_8 0812 111/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/2040/24"
+}
+},
+{
+"d": "2024-02-01",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z usługami i zbiornikiem retencyjnym oraz instalacją gazową budowa nowego/nowych obiektów budowlanych",
+"wn": "Eko Trias sp.zo.o.",
+"nier": "Renesansowa",
+"dz": "146504_8 0812 112",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/2040/24"
+}
+},
+{
+"d": "2024-02-01",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z usługami i zbiornikiem retencyjnym oraz instalacją gazową budowa nowego/nowych obiektów budowlanych",
+"wn": "Eko Trias sp.zo.o.",
+"nier": "Renesansowa",
+"dz": "146504_8 0812 224/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/2040/24"
+}
+},
+{
+"d": "2024-01-31",
+"c": {
+"inw": "montaż urządzeń i instalacji odzysku ciepła niskotemperaturowego z systemu wysokosprawnej kogeneracji o mocy 0,999 MWe budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Mała Kogeneracja Warszawa sp.zo.o.",
+"nier": "Nocznickiego 33 / Tomasza",
+"dz": "146504_8 0801 316",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/1958/24"
+}
+},
+{
+"d": "2024-01-30",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego oraz gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Technico Development I sp.zo.o.",
+"nier": "Księżycowa 30",
+"dz": "146504_8 0814 263",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/1867/24"
+}
+},
+{
+"d": "2024-01-30",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym, zagospodarowaniem terenu oraz infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Technico Development I sp.zo.o.",
+"nier": "Księżycowa",
+"dz": "146504_8 0814 263",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/1869/24"
+}
+},
+{
+"d": "2024-01-29",
+"c": {
+"inw": "przebudowa i zmiana sposobu użytkowania części pomieszczeń piwnicy w budynku użyteczności publicznej wraz z urządzeniami technicznymi wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Instytut Meteorologii i Gospodarki Wodnej",
+"nier": "Podleśna 61",
+"dz": "146504_8 0401 9/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/1702/24"
+}
+},
+{
+"d": "2024-01-25",
+"c": {
+"inw": "rozbiórka budynku hydroforni rozbiórka istniejącego obiektu budowlanego",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa",
+"nier": "Daniłowskiego 8 / Gustawa",
+"dz": "146504_8 0511 176",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/1457/24"
+}
+},
+{
+"d": "2024-01-24",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego, dwulokalowego wolno stojącego wraz z infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Pasterska",
+"dz": "146504_8 1001 8/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RK/1915/24"
+}
+},
+{
+"d": "2024-01-16",
+"c": {
+"inw": "przeniesienie decyzji pozwolenia na budowę nr 84/2023 z dnia 12.06.2023 budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator sp.zo.o.",
+"nier": "Kasprowicza / Jana",
+"dz": "146504_8 1103 20/54",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/931/24"
+}
+},
+{
+"d": "2024-01-16",
+"c": {
+"inw": "przeniesienie decyzji pozwolenia na budowę nr 153/2023 z dnia 28.09.2023 budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator sp.zo.o.",
+"nier": "Kasprowicza / Jana",
+"dz": "146504_8 1103 20/56",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/933/24"
+}
+},
+{
+"d": "2024-01-16",
+"c": {
+"inw": "przeniesienie decyzji pozwolenia na budowę nr 153/2023 z dnia 28.09.2023 budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator sp.zo.o.",
+"nier": "Kasprowicza / Jana",
+"dz": "146504_8 1103 20/54",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/933/24"
+}
+},
+{
+"d": "2024-01-12",
+"c": {
+"inw": "rekonstrukcja i odbudowa budynku mieszkalnego jednorodzinnego z częściową rozbiórką garażu wolno stojącego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Grębałowska 11",
+"dz": "146504_8 0504 26",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/743/24"
+}
+},
+{
+"d": "2024-01-12",
+"c": {
+"inw": "rekonstrukcja i odbudowa budynku mieszkalnego jednorodzinnego z częściową rozbiórką garażu wolno stojącego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Grębałowska 11",
+"dz": "146504_8 0504 107",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/743/24"
+}
+},
+{
+"d": "2024-01-12",
+"c": {
+"inw": "rozbudowa budynku mieszkalnego jednorodzinnego w zabudowie szeregowej oraz rozbiórka garażu rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Rydla 31 / Lucjana",
+"dz": "146504_8 0511 169",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/11191/24"
+}
+}
+]
+},
+{
+"id": "dec_pnb",
+"name": "Decyzje o pozwoleniu na budowę",
+"short": "Decyzje PnB",
+"desc": "Decyzje o pozwoleniu na budowę wydane przez organ architektoniczno-budowlany dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer decyzji",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2024-12-31",
+"c": {
+"inw": "przebudowa stropu poddasza celem wykonania schodówn na poddasze z lokali mieszkalnych oraz przebudowa stropu dachu i ścian zewn. celem wykonania okien w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kasprowicza 60 / Jana",
+"dz": "146504_8 0501 14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "163/BIE/PB/2024"
+}
+},
+{
+"d": "2024-12-30",
+"c": {
+"inw": "budynek zamieszkania zbiorowego i usługami , garażem podziemnym, miejscami postojowymi budowa nowego/nowych obiektów budowlanych",
+"wn": "\"Społem\" Warszawska Spółdzielnia Spożywców \"Żoliborz\"",
+"nier": "Kasprowicza 109 / Jana",
+"dz": "146504_8 0803 6/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "162/BIE/PB/2024"
+}
+},
+{
+"d": "2024-12-24",
+"c": {
+"inw": "rozbiórka budynków handlowo-usługowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "Społem WSS \"Żoliborz\"",
+"nier": "Kasprowicza 109 / Jana",
+"dz": "146504_8 0803 6/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "158/BIE/PB/2024R"
+}
+},
+{
+"d": "2024-12-24",
+"c": {
+"inw": "rozbiórka pawilonu handlowego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Maszewska Investments sp.zo.o.",
+"nier": "Księżycowa 76",
+"dz": "146504_8 1214 171/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "159/BIE/PB/2024/R"
+}
+},
+{
+"d": "2024-12-23",
+"c": {
+"inw": "przebudowa i budowa pomostów roboczych w halach remontów i obsługi tramwajów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "157/BIE/PB/2024"
+}
+},
+{
+"d": "2024-12-23",
+"c": {
+"inw": "przebudowa i budowa pomostów roboczych w halach remontów i obsługi tramwajów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "157/BIE/PB/2024"
+}
+},
+{
+"d": "2024-12-23",
+"c": {
+"inw": "przebudowa i budowa pomostów roboczych w halach remontów i obsługi tramwajów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "157/BIE/PB/2024"
+}
+},
+{
+"d": "2024-12-23",
+"c": {
+"inw": "przebudowa i budowa pomostów roboczych w halach remontów i obsługi tramwajów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "157/BIE/PB/2024"
+}
+},
+{
+"d": "2024-12-23",
+"c": {
+"inw": "przebudowa i budowa pomostów roboczych w halach remontów i obsługi tramwajów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "157/BIE/PB/2024"
+}
+},
+{
+"d": "2024-12-18",
+"c": {
+"inw": "budowa instalacji gazowej dla budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Swarzewska 80",
+"dz": "146504_8 0508 182",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "156/BIE/PB/2024"
+}
+},
+{
+"d": "2024-12-13",
+"c": {
+"inw": "przebudowa budynku mieszkalnego wielorodzinnego z usługami w parterze polegająca na dostosowaniu szybu windowego oraz dźwigu  do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa",
+"nier": "Alighieri 7 / Dantego",
+"dz": "146504_8 0803 3/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "154/bie/pb/2024"
+}
+},
+{
+"d": "2024-12-13",
+"c": {
+"inw": "przebudowa budynku mieszkalnego wielorodzinnego z usługami w parterze polegająca na dostosowaniu szybu windowego oraz dźwigu  do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa",
+"nier": "Alighieri 7 / Dantego",
+"dz": "146504_8 0803 76/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "154/bie/pb/2024"
+}
+},
+{
+"d": "2024-12-13",
+"c": {
+"inw": "przebudowa budynku mieszkalnego wielorodzinnego z usługami w parterze polegająca na dostosowaniu szybu windowego oraz dźwigu  do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa",
+"nier": "Alighieri 7 / Dantego",
+"dz": "146504_8 0803 94/24",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "154/bie/pb/2024"
+}
+},
+{
+"d": "2024-12-13",
+"c": {
+"inw": "przebudowa budynku mieszkalnego wielorodzinnego z usługami w parterze polegająca na dostosowaniu szybu windowego oraz dźwigu  do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa",
+"nier": "Alighieri 7 / Dantego",
+"dz": "146504_8 0803 95/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "154/bie/pb/2024"
+}
+},
+{
+"d": "2024-12-12",
+"c": {
+"inw": "przebudowa budynku przepompowni ścieków Marymont wraz  z komorami dopływowymi wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwio Wodociągów i Kanalizacji m. st. Warszawy",
+"nier": "Klaudyny 18b",
+"dz": "146504_8 0404 5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "NR 153 /BIE/PB/2024"
+}
+},
+{
+"d": "2024-12-03",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Brązownicza 1",
+"dz": "146504_8 0815 68/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "145/BIE/PB/2024"
+}
+},
+{
+"d": "2024-12-03",
+"c": {
+"inw": "przebudowa części budynku mieszk. wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Bogusławskiego 6 / Wojciecha",
+"dz": "146504_8 0809 200",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "139/BIE/PB/2024"
+}
+},
+{
+"d": "2024-12-03",
+"c": {
+"inw": "przebudowa części budynku mieszk. wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Bogusławskiego 6 / Wojciecha",
+"dz": "146504_8 0809 157/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "139/BIE/PB/2024"
+}
+},
+{
+"d": "2024-12-03",
+"c": {
+"inw": "rozbudowa instalacji fotowoltaicznej do mocy 360 kW na dachu budynku hipermarketu E. Leclerc wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Immożoli sp.zo.o.",
+"nier": "Aspekt 79",
+"dz": "146504_8 0811 3/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "150/BIE/PB/2024"
+}
+},
+{
+"d": "2024-12-03",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Bogusławskiego 20 / Wojciecha",
+"dz": "146504_8 0815 216",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "146/BIE/PB/2024"
+}
+},
+{
+"d": "2024-12-03",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Bogusławskiego 20 / Wojciecha",
+"dz": "146504_8 0815 217",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "146/BIE/PB/2024"
+}
+},
+{
+"d": "2024-12-03",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Bogusławskiego 20 / Wojciecha",
+"dz": "146504_8 0815 218",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "146/BIE/PB/2024"
+}
+},
+{
+"d": "2024-12-03",
+"c": {
+"inw": "przebudowa części budynku mieszk. wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Kluczowa 10",
+"dz": "146504_8 0814 391",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "142/BIE/PB/2024"
+}
+},
+{
+"d": "2024-12-03",
+"c": {
+"inw": "przebudowa części budynku mieszk. wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Kluczowa 10",
+"dz": "146504_8 0814 330/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "142/BIE/PB/2024"
+}
+},
+{
+"d": "2024-12-03",
+"c": {
+"inw": "przebudowa części budynku mieszk. wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Kluczowa 10",
+"dz": "146504_8 0814 339",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "142/BIE/PB/2024"
+}
+},
+{
+"d": "2024-12-03",
+"c": {
+"inw": "przebudowa części budynku mieszk. wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Bogusławskiego 20 / Wojciecha",
+"dz": "146504_8 0815 216",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "140/BIE/PB/2024"
+}
+},
+{
+"d": "2024-12-03",
+"c": {
+"inw": "przebudowa części budynku mieszk. wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Bogusławskiego 20 / Wojciecha",
+"dz": "146504_8 0815 217",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "140/BIE/PB/2024"
+}
+},
+{
+"d": "2024-12-03",
+"c": {
+"inw": "przebudowa części budynku mieszk. wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Bogusławskiego 20 / Wojciecha",
+"dz": "146504_8 0815 218",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "140/BIE/PB/2024"
+}
+},
+{
+"d": "2024-12-03",
+"c": {
+"inw": "przebudowa części budynku mieszk. wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Brązownicza 7",
+"dz": "146504_8 0815 101",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "138/BIE/PB/2024"
+}
+},
+{
+"d": "2024-12-03",
+"c": {
+"inw": "przebudowa części budynku mieszk. wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Nerudy 5 / Pabla",
+"dz": "146504_8 0811 94",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "141/BIE/PB/2024"
+}
+},
+{
+"d": "2024-12-03",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Kluczowa 10",
+"dz": "146504_8 0814 399",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "149/BIE/PB/2024"
+}
+},
+{
+"d": "2024-12-03",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Kluczowa 10",
+"dz": "146504_8 0814 391",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "149/BIE/PB/2024"
+}
+},
+{
+"d": "2024-12-03",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Kluczowa 10",
+"dz": "146504_8 0814 330/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "149/BIE/PB/2024"
+}
+},
+{
+"d": "2024-12-03",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Osikowa 3",
+"dz": "146504_8 0814 379/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "148/BIE/PB/2024"
+}
+},
+{
+"d": "2024-12-03",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Osikowa 3",
+"dz": "146504_8 0814 197",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "148/BIE/PB/2024"
+}
+},
+{
+"d": "2024-12-03",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Osikowa 3",
+"dz": "146504_8 0814 191",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "148/BIE/PB/2024"
+}
+},
+{
+"d": "2024-12-03",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Osikowa 3",
+"dz": "146504_8 0814 190",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "148/BIE/PB/2024"
+}
+},
+{
+"d": "2024-12-03",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Osikowa 3",
+"dz": "146504_8 0814 187",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "148/BIE/PB/2024"
+}
+},
+{
+"d": "2024-12-03",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Osikowa 3",
+"dz": "146504_8 0814 188",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "148/BIE/PB/2024"
+}
+},
+{
+"d": "2024-12-03",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Osikowa 3",
+"dz": "146504_8 0814 81",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "148/BIE/PB/2024"
+}
+},
+{
+"d": "2024-12-03",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Osikowa 3",
+"dz": "146504_8 0814 80",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "148/BIE/PB/2024"
+}
+},
+{
+"d": "2024-12-03",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Osikowa 3",
+"dz": "146504_8 0814 384/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "148/BIE/PB/2024"
+}
+},
+{
+"d": "2024-12-03",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejscia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Dąbrowskiej 7 / Marii",
+"dz": "146504_8 0816 81",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "147/BIE/PB/2024"
+}
+},
+{
+"d": "2024-12-03",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dżwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Kluczowa 2",
+"dz": "146504_8 0814 383",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "144/BIE/PB/2024"
+}
+},
+{
+"d": "2024-12-03",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dżwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Kluczowa 2",
+"dz": "146504_8 0814 240/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "144/BIE/PB/2024"
+}
+},
+{
+"d": "2024-12-03",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Dąbrowskiej 13 / Marii",
+"dz": "146504_8 0816 99",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "143/BIE/PB/2024"
+}
+},
+{
+"d": "2024-12-03",
+"c": {
+"inw": "przebudowa części budynku mieszk. wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Brązownicza 5",
+"dz": "146504_8 0815 95",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "137/BIE/PB/2024"
+}
+},
+{
+"d": "2024-12-02",
+"c": {
+"inw": "przebudowa lokalu mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Tołstoja 4 / Lwa",
+"dz": "146504_8 0802 74",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "136/BIE/PB/2024"
+}
+},
+{
+"d": "2024-11-27",
+"c": {
+"inw": "przebudowa kablowej wewnętrznej linii zasilającej między budynkiem administracyjnym a budynkiem sieci i torów oraz przebudowa złącza kablowego z instalacją nowej tablicy elektrycznej w budynku sieci i torów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/23",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "135/BIE/PB/2024"
+}
+},
+{
+"d": "2024-11-27",
+"c": {
+"inw": "przebudowa kablowej wewnętrznej linii zasilającej między budynkiem administracyjnym a budynkiem sieci i torów oraz przebudowa złącza kablowego z instalacją nowej tablicy elektrycznej w budynku sieci i torów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "135/BIE/PB/2024"
+}
+},
+{
+"d": "2024-11-27",
+"c": {
+"inw": "przebudowa kablowej wewnętrznej linii zasilającej między budynkiem administracyjnym a budynkiem sieci i torów oraz przebudowa złącza kablowego z instalacją nowej tablicy elektrycznej w budynku sieci i torów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "135/BIE/PB/2024"
+}
+},
+{
+"d": "2024-11-21",
+"c": {
+"inw": "budowa instalacji gazowej nieskiego ciśnienia do budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Estrady 70F",
+"dz": "146504_8 1204 23/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "133/BIE/PB/2024"
+}
+},
+{
+"d": "2024-11-21",
+"c": {
+"inw": "budowa instalacji gazowej nieskiego ciśnienia do budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Estrady 70F",
+"dz": "146504_8 1204 23/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "133/BIE/PB/2024"
+}
+},
+{
+"d": "2024-11-21",
+"c": {
+"inw": "budowa sieci gazowej średniego ciśnienia do budynków mieszkalnych jednorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "Polska Spółka Gazownictwa sp.zo.o.",
+"nier": "Jagiellonki / Anny",
+"dz": "146504_8 1003 63",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "134/BIE/PB/2024"
+}
+},
+{
+"d": "2024-11-21",
+"c": {
+"inw": "budowa sieci gazowej średniego ciśnienia do budynków mieszkalnych jednorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "Polska Spółka Gazownictwa sp.zo.o.",
+"nier": "Jagiellonki / Anny",
+"dz": "146504_8 1003 59",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "134/BIE/PB/2024"
+}
+},
+{
+"d": "2024-11-15",
+"c": {
+"inw": "budowa sieci wodociągowej DN 100mm budowa nowego/nowych obiektów budowlanych",
+"wn": "Proland Nieruchomości sp.zo.o.-Bielany sp.k.",
+"nier": "Jagiellonki / Anny",
+"dz": "146504_8 1003 59",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "132/BIE/PB/2024"
+}
+},
+{
+"d": "2024-11-15",
+"c": {
+"inw": "budowa sieci wodociągowej DN 100mm budowa nowego/nowych obiektów budowlanych",
+"wn": "Proland Nieruchomości sp.zo.o.-Bielany sp.k.",
+"nier": "Jagiellonki / Anny",
+"dz": "146504_8 1003 63",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "132/BIE/PB/2024"
+}
+},
+{
+"d": "2024-11-15",
+"c": {
+"inw": "budowa sieci kanalizacyjnej DN 200mm budowa nowego/nowych obiektów budowlanych",
+"wn": "Proland Nieruchomości sp.zo.o.Bielany sp.k.",
+"nier": "Jagiellonki / Anny",
+"dz": "146504_8 1003 59",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "131/BIE/PB/2024"
+}
+},
+{
+"d": "2024-11-15",
+"c": {
+"inw": "budowa sieci kanalizacyjnej DN 200mm budowa nowego/nowych obiektów budowlanych",
+"wn": "Proland Nieruchomości sp.zo.o.Bielany sp.k.",
+"nier": "Jagiellonki / Anny",
+"dz": "146504_8 1003 63",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "131/BIE/PB/2024"
+}
+},
+{
+"d": "2024-11-14",
+"c": {
+"inw": "budowa  instalacji gazowej dla czterech projektowanych budynków jednorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "Villaforet sp.zo.o.",
+"nier": "Tułowicka",
+"dz": "146504_8 1001 46/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "130/BIE/PB/2024"
+}
+},
+{
+"d": "2024-11-05",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Estrady 99",
+"dz": "146504_8 1201 15/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "126/BIE/PB/2024/R"
+}
+},
+{
+"d": "2024-11-05",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Słonecznikowa 23",
+"dz": "146504_8 0814 56/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "125/BIE/PB/2024"
+}
+},
+{
+"d": "2024-11-05",
+"c": {
+"inw": "budowa czterech instalacji gazowych niskiego ciśnienia dla czterech lokali w dwóch budynkach mieszkalnych dwulokalowych budowa nowego/nowych obiektów budowlanych",
+"wn": "Yuin Nova Rokokowa 3sp.zo.o.",
+"nier": "Rokokowa",
+"dz": "146504_8 1112 6/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "127/BIE/PB/2024"
+}
+},
+{
+"d": "2024-10-31",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolno stojącego dwulokalowego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Loteryjki",
+"dz": "146504_8 1109 4/17",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "124/BIE/PB/2024"
+}
+},
+{
+"d": "2024-10-31",
+"c": {
+"inw": "zespół budynków o funkcji usługowo-magazynowej z komórkami na wynajem budowa nowego/nowych obiektów budowlanych",
+"wn": "Camel Jarosław Kościński",
+"nier": "Arkuszowa",
+"dz": "146504_8 1211 12/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "123/BIE/PB/2024"
+}
+},
+{
+"d": "2024-10-29",
+"c": {
+"inw": "budowa filtra workowego z zewn. komunikacją pionową i opodestowaniem, kanałów spalin, dróg dojazdowych i utwardzeń w ramach zadania \"Przebudowa instalacji odpylania pieca łukowego i pieca kadziowego\" na terenie huty budowa nowego/nowych obiektów budowlanych",
+"wn": "ArcelorMittal Warszawa sp.zo.o.",
+"nier": "Kasprowicza 132 / Jana",
+"dz": "146504_8 1103 20/56",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "121/BIE/PB/2024"
+}
+},
+{
+"d": "2024-10-24",
+"c": {
+"inw": "budowa antresoli w biurze Independent Digital w budynku mieszkalno-usługowym budowa nowego/nowych obiektów budowlanych",
+"wn": "Independent Digital sp.zo.o.",
+"nier": "Aleja Słowiańska 25",
+"dz": "146504_8 0413 105",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "120?BIE/PB/2024"
+}
+},
+{
+"d": "2024-10-21",
+"c": {
+"inw": "Zespół 6 budynków mieszkalnych czterolokalowych budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Dankowicka",
+"dz": "146504_8 1001 120/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "118/BIE/PB/2024"
+}
+},
+{
+"d": "2024-10-18",
+"c": {
+"inw": "budowa dwóch budynków jednorodzinnych wolno stojących budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Księżycowa 56",
+"dz": "146504_8 1210 9/16",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "117/BIE/PB/2024"
+}
+},
+{
+"d": "2024-10-18",
+"c": {
+"inw": "budowa dwóch budynków jednorodzinnych wolno stojących budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Księżycowa 56",
+"dz": "146504_8 1210 9/14",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "117/BIE/PB/2024"
+}
+},
+{
+"d": "2024-10-18",
+"c": {
+"inw": "dwa budynki mieszkalne jednorodzinne w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Abecadło",
+"dz": "146504_8 1007 37/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "116/BIE/PB/2024"
+}
+},
+{
+"d": "2024-10-18",
+"c": {
+"inw": "budowa dwóch budynków jednorodzinnych wolno stojących budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Księżycowa 56",
+"dz": "146504_8 0813 95",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "117/BIE/PB/2024"
+}
+},
+{
+"d": "2024-10-17",
+"c": {
+"inw": "budowa wraz z przebudową sieci wodociągowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji m.st Warszawy",
+"nier": "Niedzielskiego \"Żywiciela\" / płk. Mieczysława",
+"dz": "146504_8 0602 6/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "114//BIE/PB/2024"
+}
+},
+{
+"d": "2024-10-17",
+"c": {
+"inw": "budowa wraz z przebudową sieci wodociągowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji m.st Warszawy",
+"nier": "Niedzielskiego \"Żywiciela\" / płk. Mieczysława",
+"dz": "146504_8 0602 6/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "114//BIE/PB/2024"
+}
+},
+{
+"d": "2024-10-17",
+"c": {
+"inw": "budowa wraz z przebudową sieci wodociągowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji m.st Warszawy",
+"nier": "Niedzielskiego \"Żywiciela\" / płk. Mieczysława",
+"dz": "146504_8 0602 6/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "114//BIE/PB/2024"
+}
+},
+{
+"d": "2024-10-17",
+"c": {
+"inw": "budowa wraz z przebudową sieci wodociągowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji m.st Warszawy",
+"nier": "Niedzielskiego \"Żywiciela\" / płk. Mieczysława",
+"dz": "146504_8 0602 16/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "114//BIE/PB/2024"
+}
+},
+{
+"d": "2024-10-17",
+"c": {
+"inw": "rozbudowa, nadbudowa i przebudowa budynku mieszkalnego jednorodzinnego wraz z budową podziemnego zbiornika do gromadzenia części wód opadowych rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Bajana 10a / Jerzego",
+"dz": "146504_8 0812 166/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "115/BIE/PB/2024"
+}
+},
+{
+"d": "2024-10-17",
+"c": {
+"inw": "rozbudowa, nadbudowa i przebudowa budynku mieszkalnego jednorodzinnego wraz z budową podziemnego zbiornika do gromadzenia części wód opadowych rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Bajana 10a / Jerzego",
+"dz": "146504_8 0812 165/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "115/BIE/PB/2024"
+}
+},
+{
+"d": "2024-10-17",
+"c": {
+"inw": "rozbudowa, nadbudowa i przebudowa budynku mieszkalnego jednorodzinnego wraz z budową podziemnego zbiornika do gromadzenia części wód opadowych rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Bajana 10a / Jerzego",
+"dz": "146504_8 0812 133/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "115/BIE/PB/2024"
+}
+},
+{
+"d": "2024-10-17",
+"c": {
+"inw": "rozbudowa, nadbudowa i przebudowa budynku mieszkalnego jednorodzinnego wraz z budową podziemnego zbiornika do gromadzenia części wód opadowych rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Bajana 10a / Jerzego",
+"dz": "146504_8 0812 167",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "115/BIE/PB/2024"
+}
+},
+{
+"d": "2024-10-16",
+"c": {
+"inw": "rozbudowa i przebudowa budynku mieszkalnego wielorodzinnego - zabudowa podcienia z oknem na parterze rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Kiwerska 34",
+"dz": "146504_8 0402 177",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "113 /BIE/PB/2024"
+}
+},
+{
+"d": "2024-10-04",
+"c": {
+"inw": "budowa zewnętrznej myjni przejazdowej obejmującej wiatę, kontenerowy budynek techniczny z zagospodarowaniem oraz infrastrukturą techniczną: rozbudowa zakładowej instalacji wody,  instalacji kanalizacji technologicznej , rozbudowa instalacji kanalizacji deszczowej z budową podziemnego zbiornika retencyjnego, rozbudowa instalacji elektrycznych i teletechnicznych  i rozbiórka istniejącej myjni przejazdowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Tramwaje Warszawskie sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "112/BIE/PB/2024"
+}
+},
+{
+"d": "2024-10-04",
+"c": {
+"inw": "budowa zewnętrznej myjni przejazdowej obejmującej wiatę, kontenerowy budynek techniczny z zagospodarowaniem oraz infrastrukturą techniczną: rozbudowa zakładowej instalacji wody,  instalacji kanalizacji technologicznej , rozbudowa instalacji kanalizacji deszczowej z budową podziemnego zbiornika retencyjnego, rozbudowa instalacji elektrycznych i teletechnicznych  i rozbiórka istniejącej myjni przejazdowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Tramwaje Warszawskie sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "112/BIE/PB/2024"
+}
+},
+{
+"d": "2024-10-04",
+"c": {
+"inw": "budowa zewnętrznej myjni przejazdowej obejmującej wiatę, kontenerowy budynek techniczny z zagospodarowaniem oraz infrastrukturą techniczną: rozbudowa zakładowej instalacji wody,  instalacji kanalizacji technologicznej , rozbudowa instalacji kanalizacji deszczowej z budową podziemnego zbiornika retencyjnego, rozbudowa instalacji elektrycznych i teletechnicznych  i rozbiórka istniejącej myjni przejazdowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Tramwaje Warszawskie sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "112/BIE/PB/2024"
+}
+},
+{
+"d": "2024-10-04",
+"c": {
+"inw": "budowa zewnętrznej myjni przejazdowej obejmującej wiatę, kontenerowy budynek techniczny z zagospodarowaniem oraz infrastrukturą techniczną: rozbudowa zakładowej instalacji wody,  instalacji kanalizacji technologicznej , rozbudowa instalacji kanalizacji deszczowej z budową podziemnego zbiornika retencyjnego, rozbudowa instalacji elektrycznych i teletechnicznych  i rozbiórka istniejącej myjni przejazdowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Tramwaje Warszawskie sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "112/BIE/PB/2024"
+}
+},
+{
+"d": "2024-10-04",
+"c": {
+"inw": "budowa zewnętrznej myjni przejazdowej obejmującej wiatę, kontenerowy budynek techniczny z zagospodarowaniem oraz infrastrukturą techniczną: rozbudowa zakładowej instalacji wody,  instalacji kanalizacji technologicznej , rozbudowa instalacji kanalizacji deszczowej z budową podziemnego zbiornika retencyjnego, rozbudowa instalacji elektrycznych i teletechnicznych  i rozbiórka istniejącej myjni przejazdowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Tramwaje Warszawskie sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "112/BIE/PB/2024"
+}
+},
+{
+"d": "2024-10-04",
+"c": {
+"inw": "budowa zewnętrznej myjni przejazdowej obejmującej wiatę, kontenerowy budynek techniczny z zagospodarowaniem oraz infrastrukturą techniczną: rozbudowa zakładowej instalacji wody,  instalacji kanalizacji technologicznej , rozbudowa instalacji kanalizacji deszczowej z budową podziemnego zbiornika retencyjnego, rozbudowa instalacji elektrycznych i teletechnicznych  i rozbiórka istniejącej myjni przejazdowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Tramwaje Warszawskie sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "112/BIE/PB/2024"
+}
+},
+{
+"d": "2024-10-04",
+"c": {
+"inw": "budowa zewnętrznej myjni przejazdowej obejmującej wiatę, kontenerowy budynek techniczny z zagospodarowaniem oraz infrastrukturą techniczną: rozbudowa zakładowej instalacji wody,  instalacji kanalizacji technologicznej , rozbudowa instalacji kanalizacji deszczowej z budową podziemnego zbiornika retencyjnego, rozbudowa instalacji elektrycznych i teletechnicznych  i rozbiórka istniejącej myjni przejazdowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Tramwaje Warszawskie sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "112/BIE/PB/2024"
+}
+},
+{
+"d": "2024-10-01",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego z garażem w bryle budynku, zbiornikiem na nieczystości ciekłe oraz rozbiórka budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Hieroglif 3",
+"dz": "146504_8 1007 53",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "111/BIE/PB/2024"
+}
+},
+{
+"d": "2024-10-01",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego z garażem w bryle budynku, zbiornikiem na nieczystości ciekłe oraz rozbiórka budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Hieroglif 3",
+"dz": "146504_8 1007 54",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "111/BIE/PB/2024"
+}
+},
+{
+"d": "2024-09-30",
+"c": {
+"inw": "remont pomieszczeń, parteru oraz klatek schodowych w budynku Domu Dziecka nr 1 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawskie Centrum Pomocy Rodzinie",
+"nier": "Aleja Zjednoczenia 34",
+"dz": "146504_8 0508 84",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "110/BIE/PB/2024"
+}
+},
+{
+"d": "2024-09-27",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Estrady 33",
+"dz": "146504_8 1202 38",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "109/BIE/PB/2024/R"
+}
+},
+{
+"d": "2024-09-25",
+"c": {
+"inw": "przebudowa budynku mieszkalnego wielorodzinnego w zakresie wykonania otworu i nadproża w ścianie nośnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kwitnąca 17",
+"dz": "146504_8 0809 228",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "107/BIE/PB/2024"
+}
+},
+{
+"d": "2024-09-25",
+"c": {
+"inw": "Budowa dwóch budynków mieszkalnych jednorodzinnych dwulokalowych w zabudowie bliźniaczej wraz z zagospodarowaniem terenu i infrastrukturą towarzyszącą: czterema zbiornikami na nieczystości ciekłe o poj. 10 m3 każdy budowa nowego/nowych obiektów budowlanych",
+"wn": "Felicity Green Stage Sp. z o.o.",
+"nier": "Estrady",
+"dz": "146504_8 1202 22/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "106/BIE/2024/PB"
+}
+},
+{
+"d": "2024-09-25",
+"c": {
+"inw": "Budowa dwóch budynków mieszkalnych jednorodzinnych dwulokalowych w zabudowie bliźniaczej wraz z zagospodarowaniem terenu i infrastrukturą towarzyszącą: czterema zbiornikami na nieczystości ciekłe o poj. 10 m3 każdy budowa nowego/nowych obiektów budowlanych",
+"wn": "Felicity Green Stage Sp. z o.o.",
+"nier": "Estrady",
+"dz": "146504_8 1202 22/10",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "106/BIE/2024/PB"
+}
+},
+{
+"d": "2024-09-25",
+"c": {
+"inw": "Budowa dwóch budynków mieszkalnych jednorodzinnych dwulokalowych w zabudowie bliźniaczej wraz z zagospodarowaniem terenu i infrastrukturą towarzyszącą: czterema zbiornikami na nieczystości ciekłe o poj. 10 m3 każdy budowa nowego/nowych obiektów budowlanych",
+"wn": "Felicity Green Stage Sp. z o.o.",
+"nier": "Estrady",
+"dz": "146504_8 1202 24",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "106/BIE/2024/PB"
+}
+},
+{
+"d": "2024-09-25",
+"c": {
+"inw": "przprzebudowa lokalu mieszkalnego polegająca na wykonaniu otworu w ścianie nośnej w budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Wrzeciono 2a",
+"dz": "146504_8 0703 71",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "105/BIE/PB/2024"
+}
+},
+{
+"d": "2024-09-24",
+"c": {
+"inw": "Rozbudowa altany śmietnikowej budynku mieszkalnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Spółdzielnia Mieszkaniowa Piaski C",
+"nier": "Kochanowskiego 32 / Jana",
+"dz": "146504_8 0601 28/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "104/BIE/PB/2024"
+}
+},
+{
+"d": "2024-09-24",
+"c": {
+"inw": "Rozbudowa budynku Zespołu Szkół Nr 18 polegająca na budowie wyjścia ewakuacyjnego z sali gimnastycznej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa",
+"nier": "Żeromskiego 81 / Stefana",
+"dz": "146504_8 0511 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "102/BIE/PB/2024"
+}
+},
+{
+"d": "2024-09-24",
+"c": {
+"inw": "przebudowa budynku mieszkalnego wielorodzinnego polegająca na doposażeniu budynku w dźwig osobowy wewnętrzny wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa Domhut",
+"nier": "Perzyńskiego 9a / Włodzimierza",
+"dz": "146504_8 0512 96",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "103/BIE/PB/2024"
+}
+},
+{
+"d": "2024-09-24",
+"c": {
+"inw": "Budowa altan śmietnikowych i rowerowych przy budynku wielorodzinnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa",
+"nier": "Daniłowskiego 6,8 / Gustawa",
+"dz": "146504_8 0511 176",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "101/BIE/PB/2024"
+}
+},
+{
+"d": "2024-09-16",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z usługami w parterze, garażem podziemnym i zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "Marvipol Conrada Sp. z o.o.",
+"nier": "Conrada / Josepha",
+"dz": "146504_8 0807 19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "99/BIE/PB/2024"
+}
+},
+{
+"d": "2024-09-16",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z usługami w parterze, garażem podziemnym i zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "Marvipol Conrada Sp. z o.o.",
+"nier": "Conrada / Josepha",
+"dz": "146504_8 0807 22/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "99/BIE/PB/2024"
+}
+},
+{
+"d": "2024-09-13",
+"c": {
+"inw": "Przebudowa lokalu mieszkalnego w budynku mieszkalnym wielorodzinnym polegająca na wykonaniu otworu w stropie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Łomiańska 13",
+"dz": "146504_8 0409 84/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "98/BIE/PB/2024"
+}
+},
+{
+"d": "2024-09-13",
+"c": {
+"inw": "Przebudowa lokalu mieszkalnego w budynku mieszkalnym wielorodzinnym polegająca na wykonaniu otworu w stropie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Łomiańska 13",
+"dz": "146504_8 0409 287/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "98/BIE/PB/2024"
+}
+},
+{
+"d": "2024-09-13",
+"c": {
+"inw": "Przebudowa lokalu mieszkalnego w budynku mieszkalnym wielorodzinnym polegająca na wykonaniu otworu w stropie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Łomiańska 13",
+"dz": "146504_8 0409 78",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "98/BIE/PB/2024"
+}
+},
+{
+"d": "2024-09-11",
+"c": {
+"inw": "budowa dwóch budynków handlowo-usługowych z parkingiem, urządzeniem reklamowym, stacją transformatorową i infrastrukturą towarzyszącą budowa nowego/nowych obiektów budowlanych",
+"wn": "Lidl Sp.zo.o. sp.kom.",
+"nier": "Arkuszowa",
+"dz": "146504_8 1111 169",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "96/BIE/PB/2024"
+}
+},
+{
+"d": "2024-09-11",
+"c": {
+"inw": "budowa dwóch budynków handlowo-usługowych z parkingiem, urządzeniem reklamowym, stacją transformatorową i infrastrukturą towarzyszącą budowa nowego/nowych obiektów budowlanych",
+"wn": "Lidl Sp.zo.o. sp.kom.",
+"nier": "Arkuszowa",
+"dz": "146504_8 1111 168/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "96/BIE/PB/2024"
+}
+},
+{
+"d": "2024-09-11",
+"c": {
+"inw": "budowa dwóch budynków handlowo-usługowych z parkingiem, urządzeniem reklamowym, stacją transformatorową i infrastrukturą towarzyszącą budowa nowego/nowych obiektów budowlanych",
+"wn": "Lidl Sp.zo.o. sp.kom.",
+"nier": "Arkuszowa",
+"dz": "146504_8 1111 168/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "96/BIE/PB/2024"
+}
+},
+{
+"d": "2024-09-11",
+"c": {
+"inw": "budowa dwóch budynków handlowo-usługowych z parkingiem, urządzeniem reklamowym, stacją transformatorową i infrastrukturą towarzyszącą budowa nowego/nowych obiektów budowlanych",
+"wn": "Lidl Sp.zo.o. sp.kom.",
+"nier": "Arkuszowa",
+"dz": "146504_8 1111 36/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "96/BIE/PB/2024"
+}
+},
+{
+"d": "2024-09-11",
+"c": {
+"inw": "budowa dwóch budynków handlowo-usługowych z parkingiem, urządzeniem reklamowym, stacją transformatorową i infrastrukturą towarzyszącą budowa nowego/nowych obiektów budowlanych",
+"wn": "Lidl Sp.zo.o. sp.kom.",
+"nier": "Arkuszowa",
+"dz": "146504_8 1111 35",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "96/BIE/PB/2024"
+}
+},
+{
+"d": "2024-09-11",
+"c": {
+"inw": "budowa dwóch budynków handlowo-usługowych z parkingiem, urządzeniem reklamowym, stacją transformatorową i infrastrukturą towarzyszącą budowa nowego/nowych obiektów budowlanych",
+"wn": "Lidl Sp.zo.o. sp.kom.",
+"nier": "Arkuszowa",
+"dz": "146504_8 1111 33",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "96/BIE/PB/2024"
+}
+},
+{
+"d": "2024-09-11",
+"c": {
+"inw": "budowa dwóch budynków handlowo-usługowych z parkingiem, urządzeniem reklamowym, stacją transformatorową i infrastrukturą towarzyszącą budowa nowego/nowych obiektów budowlanych",
+"wn": "Lidl Sp.zo.o. sp.kom.",
+"nier": "Arkuszowa",
+"dz": "146504_8 1111 32",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "96/BIE/PB/2024"
+}
+},
+{
+"d": "2024-09-10",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Bogusławskiego 12a / Wojciecha",
+"dz": "146504_8 0808 56/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "90/BIE/PB/2024"
+}
+},
+{
+"d": "2024-09-10",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Kwitnąca 15",
+"dz": "146504_8 0809 210",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "92/BIE/PB/2024"
+}
+},
+{
+"d": "2024-09-10",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa Chomiczówka",
+"nier": "Renesansowa 21",
+"dz": "146504_8 0812 239",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "94/BIE/PB/2024"
+}
+},
+{
+"d": "2024-09-10",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spóldzielnia Budowlano Mieszkaniowa Chomiczówka",
+"nier": "Nerudy 3 / Pabla",
+"dz": "146504_8 0811 95",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "93/BIE/PB/2024"
+}
+},
+{
+"d": "2024-09-10",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Conrada 10 / Josepha",
+"dz": "146504_8 0811 119",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "95/BIE/PB/2024"
+}
+},
+{
+"d": "2024-09-10",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Conrada 4 / Josepha",
+"dz": "146504_8 0816 84",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "91/BIE/PB/2024"
+}
+},
+{
+"d": "2024-08-28",
+"c": {
+"inw": "budowa osiedla domów mieszkalnych w zabudowie jednorodzinnej budowa nowego/nowych obiektów budowlanych",
+"wn": "Proland Nieruchomości sp.zo.o. Bielany sp.kom.",
+"nier": "Jagiellonki / Anny",
+"dz": "146504_8 1003 63",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "88/BIE/PB/2024"
+}
+},
+{
+"d": "2024-08-28",
+"c": {
+"inw": "budowa drogi wewnętrznej - teren huty ArcellorMittal budowa nowego/nowych obiektów budowlanych",
+"wn": "ArcellorMittal Warszawa sp.zo.o.",
+"nier": "Kasprowicza 132 / Jana",
+"dz": "146504_8 1103 20/56",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "87/BIE/PB/2024"
+}
+},
+{
+"d": "2024-08-26",
+"c": {
+"inw": "przebudowa lokalu mieszkalnego- zabudowa loggi wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Klaudyny 12/171",
+"dz": "146504_8 0404 4/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "86/BIE/PB/2024"
+}
+},
+{
+"d": "2024-08-13",
+"c": {
+"inw": "budowa sieci kanalizacji sanitarnej wraz z odcinkami sieci od kanału do granicy nieruchomości budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji m.st. Warszawy S.A.",
+"nier": "Księżycowa 2",
+"dz": "146504_8 0814 306",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "84/BIE/PB/2024"
+}
+},
+{
+"d": "2024-08-13",
+"c": {
+"inw": "budowa sieci kanalizacji sanitarnej wraz z odcinkami sieci od kanału do granicy nieruchomości budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji m.st. Warszawy S.A.",
+"nier": "Księżycowa 2",
+"dz": "146504_8 0814 268",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "84/BIE/PB/2024"
+}
+},
+{
+"d": "2024-08-13",
+"c": {
+"inw": "budowa sieci kanalizacji sanitarnej wraz z odcinkami sieci od kanału do granicy nieruchomości budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji m.st. Warszawy S.A.",
+"nier": "Księżycowa 2",
+"dz": "146504_8 0814 265/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "84/BIE/PB/2024"
+}
+},
+{
+"d": "2024-08-13",
+"c": {
+"inw": "budowa sieci kanalizacji sanitarnej wraz z odcinkami sieci od kanału do granicy nieruchomości budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji m.st. Warszawy S.A.",
+"nier": "Księżycowa 2",
+"dz": "146504_8 0814 274/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "84/BIE/PB/2024"
+}
+},
+{
+"d": "2024-08-13",
+"c": {
+"inw": "budowa sieci kanalizacji sanitarnej wraz z odcinkami sieci od kanału do granicy nieruchomości budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji m.st. Warszawy S.A.",
+"nier": "Księżycowa 2",
+"dz": "146504_8 0814 274/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "84/BIE/PB/2024"
+}
+},
+{
+"d": "2024-08-13",
+"c": {
+"inw": "budowa sieci kanalizacji sanitarnej wraz z odcinkami sieci od kanału do granicy nieruchomości budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji m.st. Warszawy S.A.",
+"nier": "Księżycowa 2",
+"dz": "146504_8 0814 324",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "84/BIE/PB/2024"
+}
+},
+{
+"d": "2024-08-13",
+"c": {
+"inw": "budowa sieci kanalizacji sanitarnej wraz z odcinkami sieci od kanału do granicy nieruchomości budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji m.st. Warszawy S.A.",
+"nier": "Księżycowa 2",
+"dz": "146504_8 0814 265/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "84/BIE/PB/2024"
+}
+},
+{
+"d": "2024-08-13",
+"c": {
+"inw": "budowa sieci kanalizacji sanitarnej wraz z odcinkami sieci od kanału do granicy nieruchomości budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji m.st. Warszawy S.A.",
+"nier": "Księżycowa 2",
+"dz": "146504_8 0814 375",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "84/BIE/PB/2024"
+}
+},
+{
+"d": "2024-08-13",
+"c": {
+"inw": "budowa sieci kanalizacji sanitarnej wraz z odcinkami sieci od kanału do granicy nieruchomości budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji m.st. Warszawy S.A.",
+"nier": "Księżycowa 2",
+"dz": "146504_8 0814 265/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "84/BIE/PB/2024"
+}
+},
+{
+"d": "2024-08-13",
+"c": {
+"inw": "budowa sieci kanalizacji sanitarnej wraz z odcinkami sieci od kanału do granicy nieruchomości budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji m.st. Warszawy S.A.",
+"nier": "Księżycowa 2",
+"dz": "146504_8 0814 265/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "84/BIE/PB/2024"
+}
+},
+{
+"d": "2024-08-13",
+"c": {
+"inw": "budowa sieci kanalizacji sanitarnej wraz z odcinkami sieci od kanału do granicy nieruchomości budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji m.st. Warszawy S.A.",
+"nier": "Księżycowa 2",
+"dz": "146504_8 0814 265/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "84/BIE/PB/2024"
+}
+},
+{
+"d": "2024-08-13",
+"c": {
+"inw": "budowa sieci kanalizacji sanitarnej wraz z odcinkami sieci od kanału do granicy nieruchomości budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji m.st. Warszawy S.A.",
+"nier": "Księżycowa 2",
+"dz": "146504_8 0814 265/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "84/BIE/PB/2024"
+}
+},
+{
+"d": "2024-08-13",
+"c": {
+"inw": "budowa sieci kanalizacji sanitarnej wraz z odcinkami sieci od kanału do granicy nieruchomości budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji m.st. Warszawy S.A.",
+"nier": "Księżycowa 2",
+"dz": "146504_8 0815 57",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "84/BIE/PB/2024"
+}
+},
+{
+"d": "2024-08-13",
+"c": {
+"inw": "budowa sieci kanalizacji sanitarnej wraz z odcinkami sieci od kanału do granicy nieruchomości budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji m.st. Warszawy S.A.",
+"nier": "Księżycowa 2",
+"dz": "146504_8 0815 55",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "84/BIE/PB/2024"
+}
+},
+{
+"d": "2024-08-13",
+"c": {
+"inw": "budowa sieci kanalizacji sanitarnej wraz z odcinkami sieci od kanału do granicy nieruchomości budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji m.st. Warszawy S.A.",
+"nier": "Księżycowa 2",
+"dz": "146504_8 0815 39",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "84/BIE/PB/2024"
+}
+},
+{
+"d": "2024-08-13",
+"c": {
+"inw": "budowa sieci kanalizacji sanitarnej wraz z odcinkami sieci od kanału do granicy nieruchomości budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji m.st. Warszawy S.A.",
+"nier": "Księżycowa 2",
+"dz": "146504_8 0815 47/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "84/BIE/PB/2024"
+}
+},
+{
+"d": "2024-08-12",
+"c": {
+"inw": "budowa budynku dla obsługi  stanowiska przyjęcia wagonów wraz z budową urządzeń infrastruktury technicznej budowa nowego/nowych obiektów budowlanych",
+"wn": "Tramwaje Warszawskie sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/23",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "83/BIE/PB/2024"
+}
+},
+{
+"d": "2024-08-12",
+"c": {
+"inw": "budowa budynku dla obsługi  stanowiska przyjęcia wagonów wraz z budową urządzeń infrastruktury technicznej budowa nowego/nowych obiektów budowlanych",
+"wn": "Tramwaje Warszawskie sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/22",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "83/BIE/PB/2024"
+}
+},
+{
+"d": "2024-08-12",
+"c": {
+"inw": "budowa budynku dla obsługi  stanowiska przyjęcia wagonów wraz z budową urządzeń infrastruktury technicznej budowa nowego/nowych obiektów budowlanych",
+"wn": "Tramwaje Warszawskie sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "83/BIE/PB/2024"
+}
+},
+{
+"d": "2024-08-12",
+"c": {
+"inw": "budowa budynku dla obsługi  stanowiska przyjęcia wagonów wraz z budową urządzeń infrastruktury technicznej budowa nowego/nowych obiektów budowlanych",
+"wn": "Tramwaje Warszawskie sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "83/BIE/PB/2024"
+}
+},
+{
+"d": "2024-08-12",
+"c": {
+"inw": "budowa budynku dla obsługi  stanowiska przyjęcia wagonów wraz z budową urządzeń infrastruktury technicznej budowa nowego/nowych obiektów budowlanych",
+"wn": "Tramwaje Warszawskie sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "83/BIE/PB/2024"
+}
+},
+{
+"d": "2024-08-05",
+"c": {
+"inw": "przebudowa i rozbudowa domu jednorodzinnego w zabudowie szeregowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kleczewska 17",
+"dz": "146504_8 0511 15",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "82/BIE/PB/2024"
+}
+},
+{
+"d": "2024-07-26",
+"c": {
+"inw": "budowa myjni wraz z infrastrukturą towarzyszącą budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Wólczyńska",
+"dz": "146504_8 1110 171/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "78/BIE/PB/2024"
+}
+},
+{
+"d": "2024-07-26",
+"c": {
+"inw": "Połączenie mieszkań na I piętrze i poddaszu budynku mieszkalnego jednorodzinnego wraz ze zmianą sposobu użytkowania strychu na funkcję mieszkalną wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Cegłowska 22",
+"dz": "146504_8 0509 17",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "76/BIE/PB/2024"
+}
+},
+{
+"d": "2024-07-26",
+"c": {
+"inw": "słupy oświetleniowe istniejącego boiska piłkarskiego w ramachrewitalizacji ośrodka Hutnik cz. II budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa- Stołeczne Cemtrum Sportu Aktywna Warszawa",
+"nier": "Marymoncka 42",
+"dz": "146504_8 0901 15/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "77 /BIE/PB/2024"
+}
+},
+{
+"d": "2024-07-24",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego, dwulokalowego wolno stojącego wraz z infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Pasterska",
+"dz": "146504_8 1001 8/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "75/BIE/PB/2024"
+}
+},
+{
+"d": "2024-07-23",
+"c": {
+"inw": "przebudowa budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kasprowicza 73 / Jana",
+"dz": "146504_8 0503 6",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "74/BIE/PB/2024"
+}
+},
+{
+"d": "2024-07-19",
+"c": {
+"inw": "budowa ekranu akustycznego budowa nowego/nowych obiektów budowlanych",
+"wn": "Develia Warszawa sp.zo.o.",
+"nier": "Rokokowa",
+"dz": "146504_8 1112 11/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "73/BIE/PB/2024"
+}
+},
+{
+"d": "2024-07-19",
+"c": {
+"inw": "budowa ekranu akustycznego budowa nowego/nowych obiektów budowlanych",
+"wn": "Develia Warszawa sp.zo.o.",
+"nier": "Rokokowa",
+"dz": "146504_8 1112 11/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "73/BIE/PB/2024"
+}
+},
+{
+"d": "2024-07-16",
+"c": {
+"inw": "przeniesienie decyzji pozwolenia na budowę nr 47/2022 z dnia 25.03.2022 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "P 2022 sp.zo.o.",
+"nier": "Bogusławskiego 27 / Wojciecha",
+"dz": "146504_8 0807 25/19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "72/BIE/PB/2024/P"
+}
+},
+{
+"d": "2024-07-10",
+"c": {
+"inw": "docieplenie i remont pokrycia dachu w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości",
+"nier": "Kasprowicza 60 / Jana",
+"dz": "146504_8 0501 14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "70/BIE/PB/2024"
+}
+},
+{
+"d": "2024-07-08",
+"c": {
+"inw": "budowa budynku usługowego z częścią mieszkalną i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "ZUC Invest sp.zo.o. Sp.k.",
+"nier": "Kasprowicza 16 / Jana",
+"dz": "146504_8 0509 120/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "69 /BIE/PB/2024"
+}
+},
+{
+"d": "2024-07-08",
+"c": {
+"inw": "budowa budynku usługowego z częścią mieszkalną i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "ZUC Invest sp.zo.o. Sp.k.",
+"nier": "Kasprowicza 16 / Jana",
+"dz": "146504_8 0509 151/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "69 /BIE/PB/2024"
+}
+},
+{
+"d": "2024-07-08",
+"c": {
+"inw": "budowa budynku usługowego z częścią mieszkalną i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "ZUC Invest sp.zo.o. Sp.k.",
+"nier": "Kasprowicza 16 / Jana",
+"dz": "146504_8 0509 157/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "69 /BIE/PB/2024"
+}
+},
+{
+"d": "2024-07-08",
+"c": {
+"inw": "budowa budynku usługowego z częścią mieszkalną i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "ZUC Invest sp.zo.o. Sp.k.",
+"nier": "Kasprowicza 16 / Jana",
+"dz": "146504_8 0509 157/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "69 /BIE/PB/2024"
+}
+},
+{
+"d": "2024-07-08",
+"c": {
+"inw": "budowa budynku usługowego z częścią mieszkalną i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "ZUC Invest sp.zo.o. Sp.k.",
+"nier": "Kasprowicza 16 / Jana",
+"dz": "146504_8 0509 157/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "69 /BIE/PB/2024"
+}
+},
+{
+"d": "2024-07-08",
+"c": {
+"inw": "budowa budynku usługowego z częścią mieszkalną i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "ZUC Invest sp.zo.o. Sp.k.",
+"nier": "Kasprowicza 16 / Jana",
+"dz": "146504_8 0509 157/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "69 /BIE/PB/2024"
+}
+},
+{
+"d": "2024-06-27",
+"c": {
+"inw": "Budowa budynku mieszkalnego jednorodzinnego wolnostojącego z zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Rudzika",
+"dz": "146504_8 1001 183",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "68/BIE/PB/2024"
+}
+},
+{
+"d": "2024-06-25",
+"c": {
+"inw": "przebudowa przegród wewnętrznych i wymiana okien w Szkole Podstawowej nr 214 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa",
+"nier": "Fontany 1 / Antoniego",
+"dz": "146504_8 0512 83",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "66/BIE/PB/2024"
+}
+},
+{
+"d": "2024-06-25",
+"c": {
+"inw": "Budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Ptasi Raj",
+"dz": "146504_8 1001 61/13",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "65/BIE/PB/2024"
+}
+},
+{
+"d": "2024-06-18",
+"c": {
+"inw": "budynek mieszkalny jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Pasterska 3",
+"dz": "146504_8 1001 97",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "64/BIE/PB/2024"
+}
+},
+{
+"d": "2024-06-18",
+"c": {
+"inw": "budynek mieszkalny jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Pasterska 3",
+"dz": "146504_8 1001 98/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "64/BIE/PB/2024"
+}
+},
+{
+"d": "2024-06-10",
+"c": {
+"inw": "budynek mieszkalny jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Brochowska 1",
+"dz": "146504_8 0408 80",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "62/BIE/PB/2024"
+}
+},
+{
+"d": "2024-06-10",
+"c": {
+"inw": "budynek mieszkalny jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Brochowska 1",
+"dz": "146504_8 0408 81",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "62/BIE/PB/2024"
+}
+},
+{
+"d": "2024-06-07",
+"c": {
+"inw": "Budowa Kolektora Wiślanego Etap III - projekt zamienny budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i kanalizacji w Warszawie",
+"nier": "Farysa",
+"dz": "146504_8 0902 3/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "60/BIE/PB/2024/Z"
+}
+},
+{
+"d": "2024-06-07",
+"c": {
+"inw": "Budowa Kolektora Wiślanego Etap III - projekt zamienny budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i kanalizacji w Warszawie",
+"nier": "Farysa",
+"dz": "146504_8 0902 3/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "60/BIE/PB/2024/Z"
+}
+},
+{
+"d": "2024-06-07",
+"c": {
+"inw": "Budowa Kolektora Wiślanego Etap III - projekt zamienny budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i kanalizacji w Warszawie",
+"nier": "Farysa",
+"dz": "146504_8 0902 4/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "60/BIE/PB/2024/Z"
+}
+},
+{
+"d": "2024-06-07",
+"c": {
+"inw": "Budowa Kolektora Wiślanego Etap III - projekt zamienny budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i kanalizacji w Warszawie",
+"nier": "Farysa",
+"dz": "146504_8 0902 4/15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "60/BIE/PB/2024/Z"
+}
+},
+{
+"d": "2024-06-07",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolno stojącego z wentylacją mechaniczną i bezodpływowym zbiornikiem na nieczystości ciekłe budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Wólczyńska 300P",
+"dz": "146504_8 1203 51/9",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "61/BIE/PB/2024"
+}
+},
+{
+"d": "2024-06-07",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolno stojącego z wentylacją mechaniczną i bezodpływowym zbiornikiem na nieczystości ciekłe budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Wólczyńska 300P",
+"dz": "146504_8 1203 51/7",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "61/BIE/PB/2024"
+}
+},
+{
+"d": "2024-06-06",
+"c": {
+"inw": "wykonanie instalacji wentylacyjnej oddymiającej klatkę schodową i szyby dźwigowe w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa",
+"nier": "Jarzębskiego 1 / Adama",
+"dz": "146504_8 0511 180/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "58/BIE/PB/2024"
+}
+},
+{
+"d": "2024-06-04",
+"c": {
+"inw": "rozbudowa wiaty śmietnikowej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Wspólnota Mieszkaniowa Rezydencje Parkowe",
+"nier": "Hieroglif 1A-2D",
+"dz": "146504_8 1007 7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "56/BIE/PB/2024"
+}
+},
+{
+"d": "2024-06-03",
+"c": {
+"inw": "budowa instalacji gazowych (3 szt.) dla dwóch projektowanych budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej oraz dla jednego projektowanego budynku mnieszkalnego jednorodzinnego wolno stojącego budowa nowego/nowych obiektów budowlanych",
+"wn": "RP3 Sp.zo.o.",
+"nier": "Estrady 25",
+"dz": "146504_8 1202 45",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "55/BIE/PB/2024"
+}
+},
+{
+"d": "2024-05-24",
+"c": {
+"inw": "rekonstrukcja i odbudowa budynku mieszkalnego jednorodzinnego z częściową rozbiórką garażu wolno stojącego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Grębałowska 11",
+"dz": "146504_8 0504 26",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "52/BIE/PB/2024"
+}
+},
+{
+"d": "2024-05-24",
+"c": {
+"inw": "rekonstrukcja i odbudowa budynku mieszkalnego jednorodzinnego z częściową rozbiórką garażu wolno stojącego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Grębałowska 11",
+"dz": "146504_8 0504 107",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "52/BIE/PB/2024"
+}
+},
+{
+"d": "2024-05-20",
+"c": {
+"inw": "rozbiórka elektroenergetycznych sieci kablowych SN 15kV i nN 0,4Kv oraz budowa elektroenergetycznych sieci kablowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "Stoen Operator sp.zo.o.",
+"nier": "Rudnickiego / Lucjana",
+"dz": "146504_8 0602 9/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "48/BIE/PB/2024/R"
+}
+},
+{
+"d": "2024-05-20",
+"c": {
+"inw": "rozbiórka elektroenergetycznych sieci kablowych SN 15kV i nN 0,4Kv oraz budowa elektroenergetycznych sieci kablowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "Stoen Operator sp.zo.o.",
+"nier": "Rudnickiego / Lucjana",
+"dz": "146504_8 0602 11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "48/BIE/PB/2024/R"
+}
+},
+{
+"d": "2024-05-20",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym, zagospodarowaniem terenu oraz infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Technico Development I sp.zo.o.",
+"nier": "Księżycowa",
+"dz": "146504_8 0814 263",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "47/BIE/PB/2024"
+}
+},
+{
+"d": "2024-05-10",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Balaton",
+"dz": "146504_8 1002 139/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "46/BIE/PB/2024"
+}
+},
+{
+"d": "2024-05-09",
+"c": {
+"inw": "przebudowa i zmiana sposobu użytkowania części pomieszczeń piwnicy w budynku użyteczności publicznej wraz z urządzeniami technicznymi wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Instytut Meteorologii i Gospodarki Wodnej",
+"nier": "Podleśna 61",
+"dz": "146504_8 0401 9/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "49/BIE/PB/2024"
+}
+},
+{
+"d": "2024-04-29",
+"c": {
+"inw": "remont i przebudowa lokalu usługowego na przychodnię stomatologiczną w budynku parterowym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Centrum Stomatologii UNI-DENT s.c.",
+"nier": "Wolumen 18",
+"dz": "146504_8 0805 172/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "44/BIE/PB/2024"
+}
+},
+{
+"d": "2024-04-29",
+"c": {
+"inw": "remont i przebudowa lokalu usługowego na przychodnię stomatologiczną w budynku parterowym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Centrum Stomatologii UNI-DENT s.c.",
+"nier": "Wolumen 18",
+"dz": "146504_8 0805 124/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "44/BIE/PB/2024"
+}
+},
+{
+"d": "2024-04-29",
+"c": {
+"inw": "remont i przebudowa lokalu usługowego na przychodnię stomatologiczną w budynku parterowym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Centrum Stomatologii UNI-DENT s.c.",
+"nier": "Wolumen 18",
+"dz": "146504_8 0805 172/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "44/BIE/PB/2024"
+}
+},
+{
+"d": "2024-04-29",
+"c": {
+"inw": "remont i przebudowa lokalu usługowego na przychodnię stomatologiczną w budynku parterowym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Centrum Stomatologii UNI-DENT s.c.",
+"nier": "Wolumen 18",
+"dz": "146504_8 0805 121/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "44/BIE/PB/2024"
+}
+},
+{
+"d": "2024-04-26",
+"c": {
+"inw": "rozbiórka trzech budynków mieszkalnych jednorodzinnych rozbiórka istniejącego obiektu budowlanego",
+"wn": "PFN Capital sp.zo.o. sp.k.",
+"nier": "Wólczyńska 307a",
+"dz": "146504_8 1205 9/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "41/BIE/2024/R"
+}
+},
+{
+"d": "2024-04-26",
+"c": {
+"inw": "rozbiórka trzech budynków mieszkalnych jednorodzinnych rozbiórka istniejącego obiektu budowlanego",
+"wn": "PFN Capital sp.zo.o. sp.k.",
+"nier": "Wólczyńska 307a",
+"dz": "146504_8 1205 9/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "41/BIE/2024/R"
+}
+},
+{
+"d": "2024-04-26",
+"c": {
+"inw": "Przebudowa i zmiana sposobu użytkowania budynku mieszkalnego na budynek użyteczności publicznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa",
+"nier": "Perzyńskiego 10a / Włodzimierza",
+"dz": "146504_8 0513 113",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "40/BIE/PB/2024"
+}
+},
+{
+"d": "2024-04-26",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z usługami i zbiornikiem retencyjnym oraz instalacją gazową budowa nowego/nowych obiektów budowlanych",
+"wn": "Eko Trias sp.zo.o.",
+"nier": "Renesansowa",
+"dz": "146504_8 0812 111/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "43/BIE/PB/2024"
+}
+},
+{
+"d": "2024-04-26",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z usługami i zbiornikiem retencyjnym oraz instalacją gazową budowa nowego/nowych obiektów budowlanych",
+"wn": "Eko Trias sp.zo.o.",
+"nier": "Renesansowa",
+"dz": "146504_8 0812 112",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "43/BIE/PB/2024"
+}
+},
+{
+"d": "2024-04-26",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z usługami i zbiornikiem retencyjnym oraz instalacją gazową budowa nowego/nowych obiektów budowlanych",
+"wn": "Eko Trias sp.zo.o.",
+"nier": "Renesansowa",
+"dz": "146504_8 0812 224/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "43/BIE/PB/2024"
+}
+},
+{
+"d": "2024-04-25",
+"c": {
+"inw": "budowa sieci elektroenergetycznej sn budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "Frygijska",
+"dz": "146504_8 0703 41/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "38/BIE/PB/2024"
+}
+},
+{
+"d": "2024-04-25",
+"c": {
+"inw": "budowa sieci elektroenergetycznej sn budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "Frygijska",
+"dz": "146504_8 0703 41/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "38/BIE/PB/2024"
+}
+},
+{
+"d": "2024-04-25",
+"c": {
+"inw": "budowa sieci elektroenergetycznej sn budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "Frygijska",
+"dz": "146504_8 0703 41/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "38/BIE/PB/2024"
+}
+},
+{
+"d": "2024-04-25",
+"c": {
+"inw": "budowa sieci elektroenergetycznej sn budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "Frygijska",
+"dz": "146504_8 0703 43/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "38/BIE/PB/2024"
+}
+},
+{
+"d": "2024-04-25",
+"c": {
+"inw": "rozbudowa mieszkania (powiększenie kuchni kosztem loggii) rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Klaudyny 38",
+"dz": "146504_8 0403 28/37",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "37/BIE/PB/2024"
+}
+},
+{
+"d": "2024-04-25",
+"c": {
+"inw": "budowa sieci elektroenergetycznej sn budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "Frygijska",
+"dz": "146504_8 0705 2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "38/BIE/PB/2024"
+}
+},
+{
+"d": "2024-04-25",
+"c": {
+"inw": "budowa sieci elektroenergetycznej sn budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "Frygijska",
+"dz": "146504_8 0705 24",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "38/BIE/PB/2024"
+}
+},
+{
+"d": "2024-04-25",
+"c": {
+"inw": "budowa sieci elektroenergetycznej sn budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "Frygijska",
+"dz": "146504_8 0705 25/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "38/BIE/PB/2024"
+}
+},
+{
+"d": "2024-04-25",
+"c": {
+"inw": "budowa sieci elektroenergetycznej sn budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "Frygijska",
+"dz": "146504_8 0705 25/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "38/BIE/PB/2024"
+}
+},
+{
+"d": "2024-04-25",
+"c": {
+"inw": "budowa sieci elektroenergetycznej sn budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "Frygijska",
+"dz": "146504_8 0705 25/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "38/BIE/PB/2024"
+}
+},
+{
+"d": "2024-04-25",
+"c": {
+"inw": "budowa sieci elektroenergetycznej sn budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "Frygijska",
+"dz": "146504_8 0705 27",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "38/BIE/PB/2024"
+}
+},
+{
+"d": "2024-04-25",
+"c": {
+"inw": "budowa sieci elektroenergetycznej sn budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "Frygijska",
+"dz": "146504_8 0705 37",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "38/BIE/PB/2024"
+}
+},
+{
+"d": "2024-04-25",
+"c": {
+"inw": "budowa sieci elektroenergetycznej sn budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "Frygijska",
+"dz": "146504_8 0705 38/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "38/BIE/PB/2024"
+}
+},
+{
+"d": "2024-04-24",
+"c": {
+"inw": "budowa trzech budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej i wolno stojącej wraz z drogą wewnętrzną budowa nowego/nowych obiektów budowlanych",
+"wn": "RP3 Sp. z o.o.",
+"nier": "Estrady 25",
+"dz": "146504_8 1202 45",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "36/BIE/PB/2024"
+}
+},
+{
+"d": "2024-04-18",
+"c": {
+"inw": "wymiana słupa stalowego oraz filara żelbetowego stanowiących elementy konstrukcji wsporczej w osi konstrukcyjnej nr 6 hali przeładunku odpadów nr inw. 1.00370 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Oczyszczania w m. st. Warszawy Sp. z o.o.",
+"nier": "Kampinoska",
+"dz": "146504_8 1212 3/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "33/BIE/PB/2024"
+}
+},
+{
+"d": "2024-04-16",
+"c": {
+"inw": "montaż żurawia słupowego obrotowego służącego do wyciągania pomp na obiekcie stacji pomp kanałowych \"RYTMY\" wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m. st. Warszawy S.A.",
+"nier": "Wybrzeże Gdańskie -",
+"dz": "146504_8 0902 4/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "32/BIE/PB/2024"
+}
+},
+{
+"d": "2024-04-11",
+"c": {
+"inw": "remont dachu budynku mieszkalnego jednorodzinnego w zabudowie szeregowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Hajoty 62",
+"dz": "146504_8 0508 157",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "29/BIE/PB/2024"
+}
+},
+{
+"d": "2024-04-09",
+"c": {
+"inw": "rozbudowa tarasu domu jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Babicka 7",
+"dz": "146504_8 0509 42",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "28/BIE/PB/2024"
+}
+},
+{
+"d": "2024-03-19",
+"c": {
+"inw": "rozbiórka budynku magazynowego do składowania czasowego odpadów rozbiórka istniejącego obiektu budowlanego",
+"wn": "ARCELORMITTAL WARSZAWA Sp. z o.o.",
+"nier": "Kasprowicza 132 / Jana",
+"dz": "146504_8 1103 20/56",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "31/BIE/PB/2024"
+}
+},
+{
+"d": "2024-03-14",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego oraz gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Technico Development I sp.zo.o.",
+"nier": "Księżycowa 30",
+"dz": "146504_8 0814 263",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "25/BIE/PB/2024/R"
+}
+},
+{
+"d": "2024-03-08",
+"c": {
+"inw": "zamienny projekt budowlany- zabudowa usługowo-magazynowa budowa nowego/nowych obiektów budowlanych",
+"wn": "Technical Service Polska Marcin Mikulski",
+"nier": "Opłotek 40",
+"dz": "146504_8 1106 62",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "24/BIE/PB/2024/Z"
+}
+},
+{
+"d": "2024-03-08",
+"c": {
+"inw": "zamienny projekt budowlany- zabudowa usługowo-magazynowa budowa nowego/nowych obiektów budowlanych",
+"wn": "Technical Service Polska Marcin Mikulski",
+"nier": "Opłotek 40",
+"dz": "146504_8 1106 61",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "24/BIE/PB/2024/Z"
+}
+},
+{
+"d": "2024-03-08",
+"c": {
+"inw": "zamienny projekt budowlany- zabudowa usługowo-magazynowa budowa nowego/nowych obiektów budowlanych",
+"wn": "Technical Service Polska Marcin Mikulski",
+"nier": "Opłotek 40",
+"dz": "146504_8 1106 60",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "24/BIE/PB/2024/Z"
+}
+},
+{
+"d": "2024-03-08",
+"c": {
+"inw": "zamienny projekt budowlany- zabudowa usługowo-magazynowa budowa nowego/nowych obiektów budowlanych",
+"wn": "Technical Service Polska Marcin Mikulski",
+"nier": "Opłotek 40",
+"dz": "146504_8 1106 59",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "24/BIE/PB/2024/Z"
+}
+},
+{
+"d": "2024-03-08",
+"c": {
+"inw": "zamienny projekt budowlany- zabudowa usługowo-magazynowa budowa nowego/nowych obiektów budowlanych",
+"wn": "Technical Service Polska Marcin Mikulski",
+"nier": "Opłotek 40",
+"dz": "146504_8 1106 40",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "24/BIE/PB/2024/Z"
+}
+},
+{
+"d": "2024-03-08",
+"c": {
+"inw": "zamienny projekt budowlany- zabudowa usługowo-magazynowa budowa nowego/nowych obiektów budowlanych",
+"wn": "Technical Service Polska Marcin Mikulski",
+"nier": "Opłotek 40",
+"dz": "146504_8 1106 39",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "24/BIE/PB/2024/Z"
+}
+},
+{
+"d": "2024-03-07",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z lokalami usługowymi oraz garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Bogusławskiego Invest sp.zo.o.",
+"nier": "Bogusławskiego / Wojciecha",
+"dz": "146504_8 0807 25/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "23/BIE/PB/2024"
+}
+},
+{
+"d": "2024-03-07",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z lokalami usługowymi oraz garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Bogusławskiego Invest sp.zo.o.",
+"nier": "Bogusławskiego / Wojciecha",
+"dz": "146504_8 0807 25/18",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "23/BIE/PB/2024"
+}
+},
+{
+"d": "2024-03-07",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z lokalami usługowymi oraz garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Bogusławskiego Invest sp.zo.o.",
+"nier": "Bogusławskiego / Wojciecha",
+"dz": "146504_8 0807 25/19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "23/BIE/PB/2024"
+}
+},
+{
+"d": "2024-03-06",
+"c": {
+"inw": "budowa buynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Wólczyńska 311",
+"dz": "146504_8 1205 5/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "22/BIE/PB/2024"
+}
+},
+{
+"d": "2024-03-04",
+"c": {
+"inw": "rozbiórka budynku hydroforni rozbiórka istniejącego obiektu budowlanego",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa",
+"nier": "Daniłowskiego 8 / Gustawa",
+"dz": "146504_8 0511 176",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "21/BIE/PB/2024/R"
+}
+},
+{
+"d": "2024-02-21",
+"c": {
+"inw": "przebudowa powierzchni magazynowej wraz ze zmianą sposobu użytkowania części lokalu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CCC S.A.",
+"nier": "Zgrupowania AK \"Kampinos\" 15",
+"dz": "146504_8 1104 4/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "19/BIE/PB/2024"
+}
+},
+{
+"d": "2024-02-21",
+"c": {
+"inw": "przebudowa powierzchni magazynowej wraz ze zmianą sposobu użytkowania części lokalu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CCC S.A.",
+"nier": "Zgrupowania AK \"Kampinos\" 15",
+"dz": "146504_8 1104 4/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "19/BIE/PB/2024"
+}
+},
+{
+"d": "2024-02-21",
+"c": {
+"inw": "rozbudowa budynku mieszkalnego jednorodzinnego w zabudowie szeregowej oraz rozbiórka garażu rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Rydla 31 / Lucjana",
+"dz": "146504_8 0511 169",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "20/BIE/PB/2024"
+}
+},
+{
+"d": "2024-02-15",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego z wbudowanym garażem budowa nowego/nowych obiektów budowlanych",
+"wn": "Selteni HPF Investment sp.zo.o. S.K.A",
+"nier": "Jagiellonki 8 / Anny",
+"dz": "146504_8 1004 50",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "16/BIE/PB/2024"
+}
+},
+{
+"d": "2024-02-14",
+"c": {
+"inw": "remont i przebudowa budynku mieszkalnego jednorodzinnego oraz rozbudowa o ogród zimowy i taras wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Zuga 9 / Bogumiła",
+"dz": "146504_8 0509 79",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "15/BIE/PB/2024"
+}
+},
+{
+"d": "2024-02-14",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolno stojącego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Arkuszowa 66",
+"dz": "146504_8 1208 95",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "14/BIE/PB/2024"
+}
+},
+{
+"d": "2024-02-14",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolno stojącego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Arkuszowa 66",
+"dz": "146504_8 1208 92",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "14/BIE/PB/2024"
+}
+},
+{
+"d": "2024-02-08",
+"c": {
+"inw": "budowa pawilonu handlowego przy bramie Północnej na Cmentarzu Komunalnym Północnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa- Zarząd Cmentarzy Komunalnych",
+"nier": "Wólczyńska",
+"dz": "146504_8 1307 245",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "11/BIE/PA/2024"
+}
+},
+{
+"d": "2024-02-08",
+"c": {
+"inw": "budowa pawilonu handlowego przy bramie Północnej na Cmentarzu Komunalnym Północnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa- Zarząd Cmentarzy Komunalnych",
+"nier": "Wólczyńska",
+"dz": "146504_8 1307 244",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "11/BIE/PA/2024"
+}
+},
+{
+"d": "2024-02-08",
+"c": {
+"inw": "budowa pawilonu handlowego przy bramie Północnej na Cmentarzu Komunalnym Północnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa- Zarząd Cmentarzy Komunalnych",
+"nier": "Wólczyńska",
+"dz": "146504_8 1307 130",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "11/BIE/PA/2024"
+}
+},
+{
+"d": "2024-02-08",
+"c": {
+"inw": "budowa pawilonu handlowego przy bramie Północnej na Cmentarzu Komunalnym Północnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa- Zarząd Cmentarzy Komunalnych",
+"nier": "Wólczyńska",
+"dz": "146504_8 1307 131",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "11/BIE/PA/2024"
+}
+},
+{
+"d": "2024-02-08",
+"c": {
+"inw": "budowa pawilonu handlowego przy bramie Północnej na Cmentarzu Komunalnym Północnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa- Zarząd Cmentarzy Komunalnych",
+"nier": "Wólczyńska",
+"dz": "146504_8 1307 132",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "11/BIE/PA/2024"
+}
+},
+{
+"d": "2024-02-08",
+"c": {
+"inw": "budowa pawilonu handlowego przy bramie Północnej na Cmentarzu Komunalnym Północnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa- Zarząd Cmentarzy Komunalnych",
+"nier": "Wólczyńska",
+"dz": "146504_8 1307 134",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "11/BIE/PA/2024"
+}
+},
+{
+"d": "2024-02-08",
+"c": {
+"inw": "budowa pawilonu handlowego przy Bramie Południowej na Cmentarzu Komunalnym Północnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa-Zarząd Cmentarzy Komunalnych",
+"nier": "Wólczyńska",
+"dz": "146504_8 1307 134",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "11/BIE/PB/2024"
+}
+},
+{
+"d": "2024-02-08",
+"c": {
+"inw": "budowa pawilonu handlowego przy Bramie Południowej na Cmentarzu Komunalnym Północnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa-Zarząd Cmentarzy Komunalnych",
+"nier": "Wólczyńska",
+"dz": "146504_8 1307 132",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "11/BIE/PB/2024"
+}
+},
+{
+"d": "2024-02-08",
+"c": {
+"inw": "budowa pawilonu handlowego przy Bramie Południowej na Cmentarzu Komunalnym Północnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa-Zarząd Cmentarzy Komunalnych",
+"nier": "Wólczyńska",
+"dz": "146504_8 1307 131",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "11/BIE/PB/2024"
+}
+},
+{
+"d": "2024-02-08",
+"c": {
+"inw": "budowa pawilonu handlowego przy Bramie Południowej na Cmentarzu Komunalnym Północnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa-Zarząd Cmentarzy Komunalnych",
+"nier": "Wólczyńska",
+"dz": "146504_8 1307 130",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "11/BIE/PB/2024"
+}
+},
+{
+"d": "2024-02-08",
+"c": {
+"inw": "budowa pawilonu handlowego przy Bramie Południowej na Cmentarzu Komunalnym Północnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa-Zarząd Cmentarzy Komunalnych",
+"nier": "Wólczyńska",
+"dz": "146504_8 1307 244",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "11/BIE/PB/2024"
+}
+},
+{
+"d": "2024-02-08",
+"c": {
+"inw": "budowa pawilonu handlowego przy Bramie Południowej na Cmentarzu Komunalnym Północnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa-Zarząd Cmentarzy Komunalnych",
+"nier": "Wólczyńska",
+"dz": "146504_8 1307 245",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "11/BIE/PB/2024"
+}
+},
+{
+"d": "2024-02-06",
+"c": {
+"inw": "Wzmocnienie konstrukcji stropu, montaż instalacji chłodniczej oraz paneli akustycznych na potrzeby serwerowni w budynku IMGW - Państwowego Instytutu Badawczego w Warszawie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Instytut Meteorologii i Gospodarki Wodnej - Państwowy Instytut Badawczy",
+"nier": "Podleśna 61",
+"dz": "146504_8 0401 9/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "9/BIE/PB/2024"
+}
+},
+{
+"d": "2024-02-05",
+"c": {
+"inw": "przeniesienie decyzji pozwolenia na budowę nr 84/2023 z dnia 12.06.2023 budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator sp.zo.o.",
+"nier": "Kasprowicza / Jana",
+"dz": "146504_8 1103 20/54",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "7/BIE/PB/2024/P"
+}
+},
+{
+"d": "2024-02-05",
+"c": {
+"inw": "remont i przebudowa budynku biurowo-pomocniczego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polskie Sieci Elektroenergetyczne S.A.",
+"nier": "Estrady 50",
+"dz": "146504_8 1206 58/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "8/BIE/PB/2024"
+}
+},
+{
+"d": "2024-02-05",
+"c": {
+"inw": "przeniesienie decyzji pozwolenia na budowę nr 153/2023 z dnia 28.09.2023 budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator sp.zo.o.",
+"nier": "Kasprowicza / Jana",
+"dz": "146504_8 1103 20/56",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6/BIE/PB/2024/P"
+}
+},
+{
+"d": "2024-02-05",
+"c": {
+"inw": "przeniesienie decyzji pozwolenia na budowę nr 153/2023 z dnia 28.09.2023 budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator sp.zo.o.",
+"nier": "Kasprowicza / Jana",
+"dz": "146504_8 1103 20/54",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6/BIE/PB/2024/P"
+}
+},
+{
+"d": "2024-02-01",
+"c": {
+"inw": "budowa instalacji fotowoltaicznej o łącznej mocy do 205 kW na dachu budynku i parkingu Hipermarketu budowa nowego/nowych obiektów budowlanych",
+"wn": "IMMOŻoli sp.zo.o.",
+"nier": "Aspekt 79",
+"dz": "146504_8 0811 3/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "5/BIE/PB/2024"
+}
+},
+{
+"d": "2024-02-01",
+"c": {
+"inw": "budowa instalacji fotowoltaicznej o łącznej mocy do 205 kW na dachu budynku i parkingu Hipermarketu budowa nowego/nowych obiektów budowlanych",
+"wn": "IMMOŻoli sp.zo.o.",
+"nier": "Aspekt 79",
+"dz": "146504_8 0811 4/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "5/BIE/PB/2024"
+}
+},
+{
+"d": "2024-01-05",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z lokalem usługowym, garażem podziemnym oraz zjazdem i wewnętrzna intalacją gazową budowa nowego/nowych obiektów budowlanych",
+"wn": "OPATOWSKA Sp. z o.o.",
+"nier": "Opatowska",
+"dz": "146504_8 0407 84",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "1/BIE/PB/2024"
+}
+}
+]
+}
+]
+}

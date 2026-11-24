@@ -1,0 +1,2337 @@
+{
+"district": "bemowo",
+"year": 2026,
+"generated": "2026-11-24T21:21:02+01:00",
+"total": 194,
+"registers": [
+{
+"id": "wn_pnb",
+"name": "Wnioski o pozwolenie na budowę",
+"short": "Wnioski PnB",
+"desc": "Wnioski o pozwolenie na budowę złożone do organu architektoniczno-budowlanego dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer wniosku",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2026-08-06",
+"c": {
+"inw": "Przebudowa ścian zewnętrznych poleagjąca na dociepleniu, remont elementów elewacyjnych, remont termoizolacji stropu poddasza oraz remont hydrolizacji ścian zewnętrznych budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Komenda Stołeczna Policji",
+"nier": "Uniejowska 9",
+"dz": "146502_8 0804 3/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.61.2026.MSE"
+}
+},
+{
+"d": "2026-06-30",
+"c": {
+"inw": "Przebudowa budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu szybu windowego oraz dźwigu w klatce nr I,II.III,IV do korzystania z poziomu wejścia do budynku a także wykonaniu dodatkowych przystanków windy na poziomie 8 piętra w klatce nr I i III wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa GÓRCZEWSKA",
+"nier": "Czumy 4a / gen. Waleriana",
+"dz": "146502_8 1110 5/73",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.51.2026.ASC"
+}
+},
+{
+"d": "2026-06-30",
+"c": {
+"inw": "Przebudowa budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu szybu windowego oraz dźwigu w klatce nr II, III, V, VI do korzystania z poziomu wejścia do budynku a także wykonaniu dodatkowego przystanku na poziomie 8 piętra w kl. II,III,V. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"Górczewska\"",
+"nier": "Czumy 14 / gen. Waleriana",
+"dz": "146502_8 1110 5/57",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.54.2026.EDO"
+}
+},
+{
+"d": "2026-05-21",
+"c": {
+"inw": "Przebudowa i nadbudowa budynku mieszkalnego jednorodzinnego nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Szczotkarska 52",
+"dz": "146502_8 1214 106",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.38.2026.MSE"
+}
+},
+{
+"d": "2026-05-18",
+"c": {
+"inw": "Przebudowa lokalu mieszkalnego polegająca na wykonaniu otworu w stropie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Powstańców Śląskich 1",
+"dz": "146502_8 1214 190/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.47.2026.EDO"
+}
+},
+{
+"d": "2026-05-18",
+"c": {
+"inw": "zmiana sposobu użytkowania na placówkę medyczną i robotami budowlanymi w tym wzmocnienie konstrukcji wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Lux Med Sp. z o.o.",
+"nier": "Połczyńska 104",
+"dz": "146502_8 1311 21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.52.2026.EDO"
+}
+},
+{
+"d": "2026-05-07",
+"c": {
+"inw": "Budowa instalacji fotowoltaicznej o mocy 250 kWp na carporcie wraz z niezbędną infrastrukturą towarzyszącą wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Leroy-Merlin Inwestycje Sp. z o.o.",
+"nier": "Połczyńska 121",
+"dz": "146502_8 1313 4/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.39.2026.MSE"
+}
+},
+{
+"d": "2026-05-07",
+"c": {
+"inw": "Budowa instalacji fotowoltaicznej o mocy 250 kWp na carporcie wraz z niezbędną infrastrukturą towarzyszącą wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Leroy-Merlin Inwestycje Sp. z o.o.",
+"nier": "Połczyńska 121",
+"dz": "146502_8 1313 6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.39.2026.MSE"
+}
+},
+{
+"d": "2026-05-07",
+"c": {
+"inw": "Budowa instalacji fotowoltaicznej o mocy 250 kWp na carporcie wraz z niezbędną infrastrukturą towarzyszącą wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Leroy-Merlin Inwestycje Sp. z o.o.",
+"nier": "Połczyńska 121",
+"dz": "146502_8 1313 9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.39.2026.MSE"
+}
+},
+{
+"d": "2026-05-07",
+"c": {
+"inw": "Budowa instalacji fotowoltaicznej o mocy 250 kWp na carporcie wraz z niezbędną infrastrukturą towarzyszącą wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Leroy-Merlin Inwestycje Sp. z o.o.",
+"nier": "Połczyńska 121",
+"dz": "146502_8 1313 29/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.39.2026.MSE"
+}
+},
+{
+"d": "2026-05-04",
+"c": {
+"inw": "przebudowa lokalu mieszkalnego w budynku mieszkalnym wielorodzinnym – wykonanie otworów w ścianie konstrukcyjnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Bożka 6 / Arki",
+"dz": "146502_8 1106 16/31",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Ud-I-WAB-A.6740.31.2026.ECZ"
+}
+},
+{
+"d": "2026-04-29",
+"c": {
+"inw": "Rozbiórka 2 budynków w tym: 1 budynek mieszkalny jednorodzinny i 1 budynek niemieszkalny magazynowy rozbiórka istniejącego obiektu budowlanego",
+"wn": "Pan Bartosz Dziubak i Pani Paula Ślusarczyk Dziubak",
+"nier": "Kruszyńska 3",
+"dz": "146502_8 1115 68",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.12.2026.ASC"
+}
+},
+{
+"d": "2026-04-14",
+"c": {
+"inw": "Rozbiórka części istniejącego zagospodarowania terenu, fragmentu zachodniego skrzydła budynku objemującego halę sportową i łącznik oraz wiatę śmietnikową przy Szkole Podstawowej z Oddziałami Integracyjnymi nr 82 rozbiórka istniejącego obiektu budowlanego",
+"wn": "Miasto Stołeczne Warszawa",
+"nier": "Konarskiego 20 / Stanisława",
+"dz": "146502_8 1104 126",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.11.2026.ASZ"
+}
+},
+{
+"d": "2026-04-14",
+"c": {
+"inw": "Rozbiórka części istniejącego zagospodarowania terenu, fragmentu zachodniego skrzydła budynku objemującego halę sportową i łącznik oraz wiatę śmietnikową przy Szkole Podstawowej z Oddziałami Integracyjnymi nr 82 rozbiórka istniejącego obiektu budowlanego",
+"wn": "Miasto Stołeczne Warszawa",
+"nier": "Konarskiego 20 / Stanisława",
+"dz": "146502_8 1104 127",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.11.2026.ASZ"
+}
+},
+{
+"d": "2026-03-20",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej, dwulokalowych wraz z rozbiórką istniejacych budynków budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Szeligowska 27",
+"dz": "146502_8 1306 11",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.14.2026.ECZ"
+}
+},
+{
+"d": "2026-03-18",
+"c": {
+"inw": "Przebudowy budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu szybu windowego oraz dźwigu z poziomu wejścia do budynku oraz wykonanie dodatkowego przystanku na ostatniej kondygnacji w klatce nr II i IV wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa Górczewska",
+"nier": "Kossutha 2 / Lajosa",
+"dz": "146502_8 1110 5/41",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.16.2026.MKR"
+}
+},
+{
+"d": "2026-03-17",
+"c": {
+"inw": "Rozbudowa budynków mieszkalnych wielorodzinnych w zakresie zmiany sposobu użytkowania części dachów technicznych na tarasy użytkowe wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "YIT Development Sp. z o.o.",
+"nier": "Landwarowska",
+"dz": "146502_8 1315 43/28",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.30.2026.MKR"
+}
+},
+{
+"d": "2026-03-11",
+"c": {
+"inw": "przebudowia i rozbudowa budynku mieszkalnego jednorodzinnego w zabudowie szeregowej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Borzęcińska 13",
+"dz": "146505_8 1005 677",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.12.2026.ECZ"
+}
+},
+{
+"d": "2026-03-10",
+"c": {
+"inw": "Przebudowa budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu szybu windowego oraz dźwigu w klatce nr II i VI do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa Górczewska",
+"nier": "Muszlowa 1",
+"dz": "146502_8 1113 22/22",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.17.2026.MKR"
+}
+},
+{
+"d": "2026-03-10",
+"c": {
+"inw": "przebudowa budynku mieszkalnego wielorodzinnego polegająca na dostospowaniu szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku i ostatniej kondygnacji w klatce nr IV wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SPÓŁDZIENIA MIESZKANIOWA GÓRCZEWSKA",
+"nier": "Szwankowskiego 8 / Eugeniusza",
+"dz": "146508_8 1109 4/64",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.11.2026.ECZ"
+}
+},
+{
+"d": "2026-02-25",
+"c": {
+"inw": "Rozbiórka piwniczki ziemnej rozbiórka istniejącego obiektu budowlanego",
+"wn": "HI PROEJKT XLI SP. Z O.O.",
+"nier": "Waldorffa 24 / Jerzego",
+"dz": "146502_8 1501 35/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6741.6.2026.MSE"
+}
+},
+{
+"d": "2026-01-27",
+"c": {
+"inw": "Rozbiórka istniejącego budynku mieszkalnego jednorodzinnego i budynku gospodarczego oraz budowa budynku mieszkalnego jednorodzinnego wraz z instalacją gazową, budowa budynku gospodarczego i wiaty budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Sternicza 91",
+"dz": "146502_8 1214 10",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.5.2026.MSE"
+}
+},
+{
+"d": "2026-01-21",
+"c": {
+"inw": "Rozbiórka budynku mieszkalnego jednorodzinnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Sobczaka 14 / Michała",
+"dz": "146502_8 0802 148",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6741.4.2026.MSE"
+}
+},
+{
+"d": "2026-01-11",
+"c": {
+"inw": "Rozbiórka przybudówki przyległej od strony południowej do stacji transformatorowej  nr 8637 rozbiórka istniejącego obiektu budowlanego",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "Dźwigowa 55A",
+"dz": "146502_8 1217 42",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6741.3.2026.MKR"
+}
+},
+{
+"d": "2026-01-08",
+"c": {
+"inw": "Rozbiórka budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Spravia Sp. z o.o.",
+"nier": "Narwik",
+"dz": "146502_8 1314 74",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6741.2.2026.MKR"
+}
+}
+]
+},
+{
+"id": "dec_pnb",
+"name": "Decyzje o pozwoleniu na budowę",
+"short": "Decyzje PnB",
+"desc": "Decyzje o pozwoleniu na budowę wydane przez organ architektoniczno-budowlany dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer decyzji",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2026-10-22",
+"c": {
+"inw": "Przebudowa i nadbudowa budynku mieszkalnego jednorodzinnego nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Szczotkarska 52",
+"dz": "146502_8 1214 106",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "126/BEM/PB/2026"
+}
+},
+{
+"d": "2026-10-09",
+"c": {
+"inw": "Przebudowa budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu szybu windowego oraz dźwigu w klatce nr I,II.III,IV do korzystania z poziomu wejścia do budynku a także wykonaniu dodatkowych przystanków windy na poziomie 8 piętra w klatce nr I i III wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa GÓRCZEWSKA",
+"nier": "Czumy 4a / gen. Waleriana",
+"dz": "146502_8 1110 5/73",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "122/BEM/PB/2026"
+}
+},
+{
+"d": "2026-10-09",
+"c": {
+"inw": "Przebudowa budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu szybu windowego oraz dźwigu w klatce nr II, III, V, VI do korzystania z poziomu wejścia do budynku a także wykonaniu dodatkowego przystanku na poziomie 8 piętra w kl. II,III,V. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"Górczewska\"",
+"nier": "Czumy 14 / gen. Waleriana",
+"dz": "146502_8 1110 5/57",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "123/BEM/PB/2026"
+}
+},
+{
+"d": "2026-10-05",
+"c": {
+"inw": "Przebudowa ścian zewnętrznych poleagjąca na dociepleniu, remont elementów elewacyjnych, remont termoizolacji stropu poddasza oraz remont hydrolizacji ścian zewnętrznych budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Komenda Stołeczna Policji",
+"nier": "Uniejowska 9",
+"dz": "146502_8 0804 3/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "114/BEM/PB/2026"
+}
+},
+{
+"d": "2026-09-29",
+"c": {
+"inw": "Budowa instalacji fotowoltaicznej o mocy 250 kWp na carporcie wraz z niezbędną infrastrukturą towarzyszącą wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Leroy-Merlin Inwestycje Sp. z o.o.",
+"nier": "Połczyńska 121",
+"dz": "146502_8 1313 4/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "111/BEM/PB/2026"
+}
+},
+{
+"d": "2026-09-29",
+"c": {
+"inw": "Budowa instalacji fotowoltaicznej o mocy 250 kWp na carporcie wraz z niezbędną infrastrukturą towarzyszącą wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Leroy-Merlin Inwestycje Sp. z o.o.",
+"nier": "Połczyńska 121",
+"dz": "146502_8 1313 6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "111/BEM/PB/2026"
+}
+},
+{
+"d": "2026-09-29",
+"c": {
+"inw": "Budowa instalacji fotowoltaicznej o mocy 250 kWp na carporcie wraz z niezbędną infrastrukturą towarzyszącą wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Leroy-Merlin Inwestycje Sp. z o.o.",
+"nier": "Połczyńska 121",
+"dz": "146502_8 1313 9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "111/BEM/PB/2026"
+}
+},
+{
+"d": "2026-09-29",
+"c": {
+"inw": "Budowa instalacji fotowoltaicznej o mocy 250 kWp na carporcie wraz z niezbędną infrastrukturą towarzyszącą wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Leroy-Merlin Inwestycje Sp. z o.o.",
+"nier": "Połczyńska 121",
+"dz": "146502_8 1313 29/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "111/BEM/PB/2026"
+}
+},
+{
+"d": "2026-09-08",
+"c": {
+"inw": "Przebudowa lokalu mieszkalnego polegająca na wykonaniu otworu w stropie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Powstańców Śląskich 1",
+"dz": "146502_8 1214 190/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "105/BEM/PB/2026"
+}
+},
+{
+"d": "2026-09-04",
+"c": {
+"inw": "Budowa dwóch budynków mieszkalnych jednorodzinnych wolno stojących z dopuszczeniem kondygnacji podziemnych pod każdym z budynków budowa nowego/nowych obiektów budowlanych",
+"wn": "HI Waldorffa I Sp. z o.o.",
+"nier": "Waldorffa / Jerzego",
+"dz": "145602_8 1501 35/11",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "104/BEM/PB/2026"
+}
+},
+{
+"d": "2026-08-24",
+"c": {
+"inw": "zmiana sposobu użytkowania na placówkę medyczną i robotami budowlanymi w tym wzmocnienie konstrukcji wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Lux Med Sp. z o.o.",
+"nier": "Połczyńska 104",
+"dz": "146502_8 1311 21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "100/BEM/PB/2026"
+}
+},
+{
+"d": "2026-08-20",
+"c": {
+"inw": "Remont, przebudowa i rozbudowa istniejącego budynku oraz zmiana sposobu użytkowania budynku na funkcję mieszkalną jednorodzinną rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "HI Projekt XLI Sp. z o.o.",
+"nier": "Waldorffa 24 / Jerzego",
+"dz": "146502_8 1501 35/8",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "98/BEM/PB/2026"
+}
+},
+{
+"d": "2026-08-20",
+"c": {
+"inw": "Remont, przebudowa i rozbudowa istniejącego budynku oraz zmiana sposobu użytkowania budynku na funkcję mieszkalną jednorodzinną rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "HI Projekt XLI Sp. z o.o.",
+"nier": "Waldorffa 24 / Jerzego",
+"dz": "146502_8 1501 35/9",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "98/BEM/PB/2026"
+}
+},
+{
+"d": "2026-08-20",
+"c": {
+"inw": "Remont, przebudowa i rozbudowa istniejącego budynku oraz zmiana sposobu użytkowania budynku na funkcję mieszkalną jednorodzinną rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "HI Projekt XLI Sp. z o.o.",
+"nier": "Waldorffa 24 / Jerzego",
+"dz": "146502_8 1501 35/7",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "98/BEM/PB/2026"
+}
+},
+{
+"d": "2026-07-23",
+"c": {
+"inw": "Budowa budynku mieszkalnego jednorodzinnego z lokalem usługowym budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Powstańców Śląskich 22",
+"dz": "146502_8 1209 10",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "85/BEM/PB/2026"
+}
+},
+{
+"d": "2026-07-15",
+"c": {
+"inw": "Rozbiórka 2 budynków w tym: 1 budynek mieszkalny jednorodzinny i 1 budynek niemieszkalny magazynowy rozbiórka istniejącego obiektu budowlanego",
+"wn": "Pan Bartosz Dziubak i Pani Paula Ślusarczyk Dziubak",
+"nier": "Kruszyńska 3",
+"dz": "146502_8 1115 68",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "80/BEM/PB/2026/R"
+}
+},
+{
+"d": "2026-07-13",
+"c": {
+"inw": "Budynek mieszkalny wielorodzinny z usługą w parterze, z garażem podziemnym, elementami zagospodarowania terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "Develia Vita Sp. z o.o.",
+"nier": "Sochaczewska",
+"dz": "146502_8 1307 43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "78/bem/pb/2026"
+}
+},
+{
+"d": "2026-07-01",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej, dwulokalowych wraz z rozbiórką istniejacych budynków budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Szeligowska 27",
+"dz": "146502_8 1306 11",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "76/BEM/PB/2026"
+}
+},
+{
+"d": "2026-06-18",
+"c": {
+"inw": "Przebudowy budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu szybu windowego oraz dźwigu z poziomu wejścia do budynku oraz wykonanie dodatkowego przystanku na ostatniej kondygnacji w klatce nr II i IV wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa Górczewska",
+"nier": "Kossutha 2 / Lajosa",
+"dz": "146502_8 1110 5/41",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-I-WAB-A.6740.16.2026.MKR"
+}
+},
+{
+"d": "2026-06-16",
+"c": {
+"inw": "przebudowa lokalu mieszkalnego w budynku mieszkalnym wielorodzinnym – wykonanie otworów w ścianie konstrukcyjnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Bożka 6 / Arki",
+"dz": "146502_8 1106 16/31",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "69/BEM/PB/2026"
+}
+},
+{
+"d": "2026-06-11",
+"c": {
+"inw": "przebudowia i rozbudowa budynku mieszkalnego jednorodzinnego w zabudowie szeregowej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Borzęcińska 13",
+"dz": "146505_8 1005 677",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "65/BEM/PB/2026"
+}
+},
+{
+"d": "2026-06-09",
+"c": {
+"inw": "Rozbudowa budynków mieszkalnych wielorodzinnych w zakresie zmiany sposobu użytkowania części dachów technicznych na tarasy użytkowe wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "YIT Development Sp. z o.o.",
+"nier": "Landwarowska",
+"dz": "146502_8 1315 43/28",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "63/BEM/PB/2026"
+}
+},
+{
+"d": "2026-06-09",
+"c": {
+"inw": "Przebudowa części budynku usługowego kategorii XVI, XVII wraz z budową schodów zewnętrznych, z zmianą sposobu użytkowania z warsztatu samochodowego na klub fitness  w Warszawie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "82",
+"dz": "146502_8 1311 46",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "64/BEM/PB/2026"
+}
+},
+{
+"d": "2026-06-09",
+"c": {
+"inw": "Przebudowa części budynku usługowego kategorii XVI, XVII wraz z budową schodów zewnętrznych, z zmianą sposobu użytkowania z warsztatu samochodowego na klub fitness  w Warszawie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "82",
+"dz": "146502_8 1311 45",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "64/BEM/PB/2026"
+}
+},
+{
+"d": "2026-06-09",
+"c": {
+"inw": "Przebudowa części budynku usługowego kategorii XVI, XVII wraz z budową schodów zewnętrznych, z zmianą sposobu użytkowania z warsztatu samochodowego na klub fitness  w Warszawie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "82",
+"dz": "146502_8 1311 44",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "64/BEM/PB/2026"
+}
+},
+{
+"d": "2026-06-02",
+"c": {
+"inw": "Przebudowa budynku mieszkalnego wielorodzinnego polegająca na dostosowaniu szybu windowego oraz dźwigu w klatce nr II i VI do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa Górczewska",
+"nier": "Muszlowa 1",
+"dz": "146502_8 1113 22/22",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "62/BEM/PB/2026"
+}
+},
+{
+"d": "2026-05-20",
+"c": {
+"inw": "Rozbiórka części istniejącego zagospodarowania terenu, fragmentu zachodniego skrzydła budynku objemującego halę sportową i łącznik oraz wiatę śmietnikową przy Szkole Podstawowej z Oddziałami Integracyjnymi nr 82 rozbiórka istniejącego obiektu budowlanego",
+"wn": "Miasto Stołeczne Warszawa",
+"nier": "Konarskiego 20 / Stanisława",
+"dz": "146502_8 1104 126",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "58/BEM/PB/2026/R"
+}
+},
+{
+"d": "2026-05-20",
+"c": {
+"inw": "Rozbiórka części istniejącego zagospodarowania terenu, fragmentu zachodniego skrzydła budynku objemującego halę sportową i łącznik oraz wiatę śmietnikową przy Szkole Podstawowej z Oddziałami Integracyjnymi nr 82 rozbiórka istniejącego obiektu budowlanego",
+"wn": "Miasto Stołeczne Warszawa",
+"nier": "Konarskiego 20 / Stanisława",
+"dz": "146502_8 1104 127",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "58/BEM/PB/2026/R"
+}
+},
+{
+"d": "2026-05-20",
+"c": {
+"inw": "Budowa osiedla 10 budynków mieszkalnych jednorodzinnych w zabudowie szeregowej wraz z droga wewnętrzną budowa nowego/nowych obiektów budowlanych",
+"wn": "Dievs sp z o.o.",
+"nier": "Kopalniana",
+"dz": "146502_8 1310 3/6",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "59/BEM/PB/2026"
+}
+},
+{
+"d": "2026-05-20",
+"c": {
+"inw": "Budowa osiedla 10 budynków mieszkalnych jednorodzinnych w zabudowie szeregowej wraz z droga wewnętrzną budowa nowego/nowych obiektów budowlanych",
+"wn": "Dievs sp z o.o.",
+"nier": "Kopalniana",
+"dz": "146502_8 1310 3/7",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "59/BEM/PB/2026"
+}
+},
+{
+"d": "2026-05-20",
+"c": {
+"inw": "Budowa osiedla 10 budynków mieszkalnych jednorodzinnych w zabudowie szeregowej wraz z droga wewnętrzną budowa nowego/nowych obiektów budowlanych",
+"wn": "Dievs sp z o.o.",
+"nier": "Kopalniana",
+"dz": "146502_8 1310 18",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "59/BEM/PB/2026"
+}
+},
+{
+"d": "2026-05-20",
+"c": {
+"inw": "Budowa osiedla 10 budynków mieszkalnych jednorodzinnych w zabudowie szeregowej wraz z droga wewnętrzną budowa nowego/nowych obiektów budowlanych",
+"wn": "Dievs sp z o.o.",
+"nier": "Kopalniana",
+"dz": "146502_8 1310 4/31",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "59/BEM/PB/2026"
+}
+},
+{
+"d": "2026-05-18",
+"c": {
+"inw": "Rozbiórka budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Spravia Sp. z o.o.",
+"nier": "Narwik",
+"dz": "146502_8 1314 74",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "57/BEM/PB/2026/R"
+}
+},
+{
+"d": "2026-04-28",
+"c": {
+"inw": "Budowa budynku gospodarczego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Lustrzana 39",
+"dz": "146502_8 1211 158",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "53/BEM/PB/2026"
+}
+},
+{
+"d": "2026-04-17",
+"c": {
+"inw": "Budynek mieszkalny wielorodzinny z garażem podziemnym i niezbędną infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Ronson Development Zaborowska Sp. z o.o.",
+"nier": "Zaborowska",
+"dz": "165402_8 0615 92",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "43/BEM/PB/2026"
+}
+},
+{
+"d": "2026-04-17",
+"c": {
+"inw": "Rozbiórka budynku mieszkalnego jednorodzinnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Sobczaka 14 / Michała",
+"dz": "146502_8 0802 148",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "42/BEM/PB/2026/R"
+}
+},
+{
+"d": "2026-04-17",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym i niezbędną infrastruktura techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Ronson Development Marynin Sp. z o.o.",
+"nier": "Marynin",
+"dz": "146502_8 0615 86",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "44/BEM/PB/2026"
+}
+},
+{
+"d": "2026-04-16",
+"c": {
+"inw": "Rozbiórka istniejącego budynku mieszkalnego jednorodzinnego i budynku gospodarczego oraz budowa budynku mieszkalnego jednorodzinnego wraz z instalacją gazową, budowa budynku gospodarczego i wiaty budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Sternicza 91",
+"dz": "146502_8 1214 10",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "41/BEM/PB/2026"
+}
+},
+{
+"d": "2026-04-15",
+"c": {
+"inw": "Rozbiórka piwniczki ziemnej rozbiórka istniejącego obiektu budowlanego",
+"wn": "HI PROEJKT XLI SP. Z O.O.",
+"nier": "Waldorffa 24 / Jerzego",
+"dz": "146502_8 1501 35/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/BEM/PB/2026/R"
+}
+},
+{
+"d": "2026-03-30",
+"c": {
+"inw": "przebudowa budynku mieszkalnego wielorodzinnego polegająca na dostospowaniu szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku i ostatniej kondygnacji w klatce nr IV wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SPÓŁDZIENIA MIESZKANIOWA GÓRCZEWSKA",
+"nier": "Szwankowskiego 8 / Eugeniusza",
+"dz": "146508_8 1109 4/64",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "32/BEM/PB/2026"
+}
+},
+{
+"d": "2026-03-17",
+"c": {
+"inw": "Rozbiórka przybudówki przyległej od strony południowej do stacji transformatorowej  nr 8637 rozbiórka istniejącego obiektu budowlanego",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "Dźwigowa 55A",
+"dz": "146502_8 1217 42",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "29/BEM/PB/2026/R"
+}
+},
+{
+"d": "2026-03-05",
+"c": {
+"inw": "Budowa zespołu budynków mieszkalnych z garażem podziemnym oraz zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "GH Development 7 Sp. z o.o.",
+"nier": "Batalionów Chłopskich",
+"dz": "146502_8 1302 3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "27/BEM/ZA/2026"
+}
+},
+{
+"d": "2026-03-05",
+"c": {
+"inw": "Budowa zespołu budynków mieszkalnych z garażem podziemnym oraz zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "GH Development 7 Sp. z o.o.",
+"nier": "Batalionów Chłopskich",
+"dz": "146502_8 1302 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "27/BEM/ZA/2026"
+}
+},
+{
+"d": "2026-02-12",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wraz z infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Kryształowa 26",
+"dz": "146502_8 1113 13",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "19/BEM/PB/2026"
+}
+},
+{
+"d": "2026-02-11",
+"c": {
+"inw": "remont, przebudowa i termomodernizacja istniejącego budynku mieszkalnego jednorodzinnego w zabudowie bliźniaczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Justyna i Jakub Krajnik",
+"nier": "Dobrzańskiego \"Hubala\" 8 / Henryka",
+"dz": "146502_8 1005 373",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "18/BEM/PB/2026"
+}
+},
+{
+"d": "2026-02-04",
+"c": {
+"inw": "Przebudowa lokalu mieszkalnego nr 27 oraz 28 w budynku mieszkalnym  wielorodzinnym polegającej na wykonaniu otworu w ścianie konstrukcyjnej między lokalami wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Rodła 1",
+"dz": "146502_8 0810 444/30",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "15/BEM/PB/2026"
+}
+},
+{
+"d": "2026-02-04",
+"c": {
+"inw": "Przebudowa budynku mieszkalnego jednorodzinnego z nadbudową, ze zmianą sposobu użytkowania wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kruszyńska 12",
+"dz": "146508_2 1115 94",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "16/BEM/PB/2026"
+}
+},
+{
+"d": "2026-02-03",
+"c": {
+"inw": "Budowa wewnętrznej instalacji gazowej dla bud. mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Otrębuska 4",
+"dz": "146502_8 1005 679/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "14/BEM/PB/2026"
+}
+},
+{
+"d": "2026-01-28",
+"c": {
+"inw": "PRZEBUDOWA KORYTARZA OBOK MIESZKANIA ARCHIMEDESA 3/38 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "3",
+"dz": "146502_8 1004 7/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "8/BEM/PB/2026"
+}
+},
+{
+"d": "2026-01-16",
+"c": {
+"inw": "Przebudowa budynku mieszkalnego wielorodzinnego-remont, wymiana i montaż stolarki okiennej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Komendant Stołeczny Policji w Warszawie",
+"nier": "Uniejowska 9",
+"dz": "146502_8 0804 3/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6/BEM/PB/2026"
+}
+},
+{
+"d": "2026-01-07",
+"c": {
+"inw": "Przebudowa przegrody zewnętrznej w zakresie powiększenia otworu okiennego w budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Wrocławska 25",
+"nier": "Wrocławska 25",
+"dz": "146502_8 0809 172/19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "2/BEM/PB/2026"
+}
+}
+]
+},
+{
+"id": "dec_wz",
+"name": "Decyzje o warunkach zabudowy",
+"short": "Decyzje WZ",
+"desc": "Informacja o wydanych decyzjach w sprawie warunków zabudowy.",
+"file": "dec_wz_2026_00_Informacja_o_wydanych_decyzjach_w_sprawie_warunk_w_20aa78.xlsx",
+"url": "https://cdn.um.warszawa.pl/documents/40444/174175540/Informacja+o+wydanych+decyzjach+w+sprawie+warunk%C3%B3w+zabudowy+2026.xlsx/06d79593-91c1-fd6d-9ed4-78a8d018e66b?t=1794906722821",
+"cols": [
+{
+"k": "nr",
+"l": "Nr decyzji",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Streszczenie ustaleń",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Wnioskodawca",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Nieruchomość (ulica)",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2026-10-30",
+"c": {
+"nr": "68/BEM/WZ/2026/U",
+"data": "30.10.2026",
+"wn": "Spółdzielnia Mieszkanowa \"Górczewska\"",
+"nier": "ul. Czumy 14",
+"dz": "5/57 z ob. 6-11-10",
+"inw": "umorzenie postępowania"
+}
+},
+{
+"d": "2026-10-27",
+"c": {
+"nr": "67/BEM/WZ/2026/U",
+"data": "27.10.2026",
+"wn": "Spółdzielnia Mieszkanowa \"Górczewska\"",
+"nier": "ul. Czumy 4A",
+"dz": "5/73 z ob. 6-11-10",
+"inw": "umorzenie postępowania"
+}
+},
+{
+"d": "2026-10-19",
+"c": {
+"nr": "66/BEM/WZ/2026",
+"data": "19.10.2026",
+"wn": "osoba fizyczna",
+"nier": "ul. Dywizjonu 303",
+"dz": "87/5 z ob. 6-11-02",
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym"
+}
+},
+{
+"d": "2026-10-16",
+"c": {
+"nr": "65/BEM/WZ/2026/P",
+"data": "16.10.2026",
+"wn": "osoba fizyczna",
+"nier": "ul. Sobczaka 14",
+"dz": "148 z ob. 6-08-02",
+"inw": "przeniesienie"
+}
+},
+{
+"d": "2026-10-14",
+"c": {
+"nr": "64/BEM/WZ/2026/W",
+"data": "14.10.2026",
+"wn": "Jansan sp. z o.o.",
+"nier": "ul. Pirenejska",
+"dz": "172/27, 172/28 z ob. 6-08-09",
+"inw": "wygaśnięcie"
+}
+},
+{
+"d": "2026-10-02",
+"c": {
+"nr": "62/BEM/WZ/2026",
+"data": "02.10.2026",
+"wn": "Archibiuro Sp. z o.o.",
+"nier": "ul. Dywizjonu 303",
+"dz": "87/9 z ob. 6-11-02",
+"inw": "budowa budynku mieszkalnego wielorodzinnego"
+}
+},
+{
+"d": "2026-10-02",
+"c": {
+"nr": "63/BEM/WZ/2026/U",
+"data": "02.10.2026",
+"wn": "Ascot Development Polska Sp. z o.o.",
+"nier": "ul. Andyjska 2",
+"dz": "170, 171 z ob. 6-08-09",
+"inw": "umorzenie"
+}
+},
+{
+"d": "2026-09-24",
+"c": {
+"nr": "60/BEM/WZ/2026/O",
+"data": "24.09.2026",
+"wn": "AMS S.A.",
+"nier": "ul. Górczewska 228",
+"dz": "111/38 z ob. 6-11-02",
+"inw": "odmowa"
+}
+},
+{
+"d": "2026-09-24",
+"c": {
+"nr": "61/BEM/WZ/2026/O",
+"data": "24.09.2026",
+"wn": "AMS S.A.",
+"nier": "ul. Górczewska 228",
+"dz": "111/38 z ob. 6-11-02",
+"inw": "odmowa"
+}
+},
+{
+"d": "2026-09-23",
+"c": {
+"nr": "58/BEM/WZ/2026/O",
+"data": "23.09.2026",
+"wn": "AMS S.A.",
+"nier": "ul. Górczewska 228",
+"dz": "111/38 z ob. 6-11-02",
+"inw": "odmowa"
+}
+},
+{
+"d": "2026-09-23",
+"c": {
+"nr": "59/BEM/WZ/2026/U",
+"data": "23.09.2026",
+"wn": "Domel Sp. z o.o.",
+"nier": "ul. Podmiejska 1",
+"dz": "5/16 z ob. 6-08-10",
+"inw": "umorzenie"
+}
+},
+{
+"d": "2026-09-22",
+"c": {
+"nr": "55/BEM/WZ/2026/O",
+"data": "22.09.2026",
+"wn": "AMS S.A.",
+"nier": "ul. Górczewska 228",
+"dz": "111/38 z ob. 6-11-02",
+"inw": "odmowa"
+}
+},
+{
+"d": "2026-09-22",
+"c": {
+"nr": "56/BEM/WZ/2026/O",
+"data": "22.09.2026",
+"wn": "AMS S.A.",
+"nier": "ul. Górczewska 228",
+"dz": "111/38 z ob. 6-11-02",
+"inw": "odmowa"
+}
+},
+{
+"d": "2026-09-22",
+"c": {
+"nr": "57/BEM/WZ/2026/O",
+"data": "22.09.2026",
+"wn": "AMS S.A.",
+"nier": "ul. Górczewska 228",
+"dz": "111/38 z ob. 6-11-02",
+"inw": "odmowa"
+}
+},
+{
+"d": "2026-09-09",
+"c": {
+"nr": "53/BEM/WZ/2026/O",
+"data": "09.09.2026",
+"wn": "Develia Vita sp. z o.o.",
+"nier": "ul. Marynin",
+"dz": "47/2, 48/2, 49/8 z ob. 6-06-15",
+"inw": "odmowa"
+}
+},
+{
+"d": "2026-09-09",
+"c": {
+"nr": "54/BEM/WZ/2026/U",
+"data": "09.09.2026",
+"wn": "Home Invest Group Sp. z o.o.",
+"nier": "ul. J. Waldorffa",
+"dz": "35/11 z ob. 6-15-01",
+"inw": "umorzenie postępowania"
+}
+},
+{
+"d": "2026-09-08",
+"c": {
+"nr": "52/BEM/WZ/2026",
+"data": "08.09.2026",
+"wn": "Jeronimo Martins Polska S.A.",
+"nier": "ul. Czumy",
+"dz": "5/40 z ob. 6-11-10",
+"inw": "budowa wolno stojącej wiaty systemowej"
+}
+},
+{
+"d": "2026-08-28",
+"c": {
+"nr": "51/BEM/WZ/2026/U",
+"data": "28.08.2026",
+"wn": "osoba fizyczna",
+"nier": "ul. Szeligowska 13",
+"dz": "31/1 z ob. 6-13-11",
+"inw": "umorzenie"
+}
+},
+{
+"d": "2026-08-20",
+"c": {
+"nr": "49/BEM/WZ/2026/U",
+"data": "20.08.2026",
+"wn": "osoba fizyczna",
+"nier": "ul. Człuchowska",
+"dz": "23/1, 23/2, 23/3 z ob. 6-12-06",
+"inw": "umorzenie"
+}
+},
+{
+"d": "2026-08-20",
+"c": {
+"nr": "50/BEM/WZ/2026/U",
+"data": "20.08.2026",
+"wn": "osoba fizyczna",
+"nier": "ul. Podmiejska 17",
+"dz": "5/8 z ob. 6-08-10",
+"inw": "umorzenie"
+}
+},
+{
+"d": "2026-08-12",
+"c": {
+"nr": "48/BEM/WZ/2026",
+"data": "12.08.2026",
+"wn": "Archibiuro Sp. z o.o.",
+"nier": "ul. Dywizjonu 303",
+"dz": "87/10 z ob. 6-11-02",
+"inw": "budowa drogi pożarowej"
+}
+},
+{
+"d": "2026-07-20",
+"c": {
+"nr": "47/BEM/WZ/2026/U",
+"data": "20.07.2026",
+"wn": "osoba fizyczna",
+"nier": "ul. Waldorffa 39",
+"dz": "77/20 z ob. 6-15-01",
+"inw": "umorzenie"
+}
+},
+{
+"d": "2026-06-30",
+"c": {
+"nr": "42/BEM/WZ/2026/Z",
+"data": "30.06.2026",
+"wn": "HI Projrkt XLI Sp. z o.o.",
+"nier": "ul. Waldorffa",
+"dz": "35/9 z ob. 6-15-01",
+"inw": "zmiana decyzji ostatecznej nr 40/BEM/WZ/2025 z dnia 31.07.2025"
+}
+},
+{
+"d": "2026-06-30",
+"c": {
+"nr": "43/BEM/WZ/2026/U",
+"data": "30.06.2026",
+"wn": "osoba fizyczna",
+"nier": "ul. Okrętowa 64A",
+"dz": "2 z ob. 6-12-11",
+"inw": "umorzenie postępowania"
+}
+},
+{
+"d": "2026-06-30",
+"c": {
+"nr": "44/BEM/WZ/2026/U",
+"data": "30.06.2026",
+"wn": "osoba fizyczna",
+"nier": "ul. Brygadzistów 19",
+"dz": "186 z ob. 6-12-12",
+"inw": "umorzenie postępowania"
+}
+},
+{
+"d": "2026-06-30",
+"c": {
+"nr": "45/BEM/WZ/2026/U",
+"data": "30.06.2026",
+"wn": "osoba fizyczna",
+"nier": "ul. Brygadzistów 19",
+"dz": "186 z ob. 6-12-12",
+"inw": "umorzenie postępowania"
+}
+},
+{
+"d": "2026-06-30",
+"c": {
+"nr": "46/BEM/WZ/2026/O",
+"data": "30.06.2026",
+"wn": "Develia Warszawa Sp.z o.o.",
+"nier": "ul. Szeligowska",
+"dz": "3/6, 4/16 z ob. 6-13-03",
+"inw": "odmowa"
+}
+},
+{
+"d": "2026-06-24",
+"c": {
+"nr": "41/BEM/WZ/2026/U",
+"data": "24.06.2026",
+"wn": "Develia Vita sp. z o.o.",
+"nier": "ul. Waldorffa 39",
+"dz": "77/20 z ob. 6-15-01",
+"inw": "umorzenie postępowania"
+}
+},
+{
+"d": "2026-06-12",
+"c": {
+"nr": "40/BEM/WZ/2026",
+"data": "12.06.2026",
+"wn": "osoba fizyczna",
+"nier": "ul. Telefoniczna 28",
+"dz": "32 z ob. 6-08-01",
+"inw": "przebudowa, rozbudowa i nadbudowa budynku mieszkalnego jednoridznnego wolno stojącego"
+}
+},
+{
+"d": "2026-06-11",
+"c": {
+"nr": "39/BEM/WZ/2026/U",
+"data": "11.06.2026",
+"wn": "osoba fizyczna",
+"nier": "rejon ul. Zaborowskiej i ul. Marynin",
+"dz": "76, 80/2, 80/3, 80/5, 83, 84 z ob. 6-06-15",
+"inw": "umorzenie postępowania"
+}
+},
+{
+"d": "2026-06-03",
+"c": {
+"nr": "38/BEM/WZ/2026",
+"data": "03.06.2026",
+"wn": "osoba fizyczna",
+"nier": "ul. Sobczaka 8",
+"dz": "18, 19 z ob. 6-08-02",
+"inw": "zmiana ostatecznej decyzji nr WZ-103/2021 z dnia 16.06.2021"
+}
+},
+{
+"d": "2026-05-29",
+"c": {
+"nr": "37/BEM/WZ/2026",
+"data": "29.05.2026",
+"wn": "osoba fizyczna",
+"nier": "ul. Bułhaka 15",
+"dz": "122 z ob. 6-10-05",
+"inw": "nadbudowa budynku jednorodzinnego"
+}
+},
+{
+"d": "2026-05-26",
+"c": {
+"nr": "36/BEM/WZ/2026/U",
+"data": "26.05.2026",
+"wn": "Spółdzielnia Mieszkaniowa \"Lazurowa\"",
+"nier": "ul. Lazurowa 8 i 10",
+"dz": "39, 42, 43, 44, 49/1, 49/2, 47/1, 40/1, 40/2, 47/2 z ob. 6-12-05",
+"inw": "umorzenie postępowania"
+}
+},
+{
+"d": "2026-05-22",
+"c": {
+"nr": "35/BEM/WZ/2026/U",
+"data": "22.05.2026",
+"wn": "osoba fizyczna",
+"nier": "ul. Górczewska",
+"dz": "78/1, 78/8, 78/6, 78/7 z ob. 6-11-03",
+"inw": "umorzenie postępowania"
+}
+},
+{
+"d": "2026-05-13",
+"c": {
+"nr": "33/BEM/WZ/2026/P",
+"data": "13.05.2026",
+"wn": "Greenfields RE Sp. z o.o.",
+"nier": "ul. Zaborowska",
+"dz": "91 z ob. 6-06-15",
+"inw": "przeniesienie decyzji WZ-10/2020 z dnia 5.02.2020"
+}
+},
+{
+"d": "2026-05-13",
+"c": {
+"nr": "34/BEM/WZ/2026/P",
+"data": "13.05.2026",
+"wn": "Greenfields RE Sp. z o.o.",
+"nier": "ul. Zaborowska",
+"dz": "88, 89, 90, 87/2 z ob. 6-06-15",
+"inw": "przeniesienie decyzji WZ-35/2021 z dnia 17.02.2021"
+}
+},
+{
+"d": "2026-05-07",
+"c": {
+"nr": "32/BEM/WZ/2026/W",
+"data": "07.05.2026",
+"wn": "Towarzystwo Budownictwa Społecznego Warszawa Pólnoc Sp. z o.o.",
+"nier": "ul. Połczyńska 88",
+"dz": "40/2, 40/1 z ob. 6-13-11",
+"inw": "wygaśnięcie decyzji WZ-142/2022 z dn. 06.12.2022"
+}
+},
+{
+"d": "2026-04-28",
+"c": {
+"nr": "31/BEM/WZ/2026",
+"data": "28.04.2026",
+"wn": "Archibiuro Sp. z o.o.",
+"nier": "ul. Dywizjonu 303",
+"dz": "87/2, 87/3, 87/6, 87/7 z ob. 6-11-02",
+"inw": "budowa dwóch budynków mieszkalnych wielorodzinnych z usługami nieuciążliwymi w parterach budynku nr 1"
+}
+},
+{
+"d": "2026-04-27",
+"c": {
+"nr": "30/BEM/WZ/2026",
+"data": "27.04.2026",
+"wn": "osoba fizyczna",
+"nier": "ul. Drzeworytników",
+"dz": "183/2 z ob. 6-12-11",
+"inw": "umorzenie postępowania"
+}
+},
+{
+"d": "2026-04-20",
+"c": {
+"nr": "29/BEM/WZ/2026/U",
+"data": "20.04.2026",
+"wn": "osoba fizyczna",
+"nier": "ul. Tkaczy 28",
+"dz": "106 z ob. 6-12-12",
+"inw": "umorzenie postępowania"
+}
+},
+{
+"d": "2026-04-15",
+"c": {
+"nr": "27/BEM/WZ/2026",
+"data": "15.04.2026",
+"wn": "osoba fizyczna",
+"nier": "ul. Sobczaka 31",
+"dz": "52 z ob. 6-08-03",
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolnostojącego"
+}
+},
+{
+"d": "2026-04-15",
+"c": {
+"nr": "28/BEM/WZ/2026",
+"data": "15.04.2026",
+"wn": "osoba fizyczna",
+"nier": "ul. Reżyserska 17",
+"dz": "79 z ob. 6-12-07",
+"inw": "umorzenie postępowania"
+}
+},
+{
+"d": "2026-04-14",
+"c": {
+"nr": "26/BEM/WZ/2026/P",
+"data": "14.04.2026",
+"wn": "Greenfields RE sp. z o.o.",
+"nier": "ul. Zaborowska",
+"dz": "88, 89, 90 z ob. 6-06-15",
+"inw": "dec. przenosząca dec. nr WZ-34/2021 z dn. 17.02.2021"
+}
+},
+{
+"d": "2026-04-10",
+"c": {
+"nr": "24/BEM/WZ/2026",
+"data": "10.04.2026",
+"wn": "osoba fizyczna",
+"nier": "ul. Telewizyjna 20",
+"dz": "169 z ob. 6-08-02",
+"inw": "przebudowa, rozbudowa i nadbudowa budynku mieszkalnego jednorodzinnego"
+}
+},
+{
+"d": "2026-04-10",
+"c": {
+"nr": "25/BEM/WZ/2026/O",
+"data": "10.04.2026",
+"wn": "Rokla Construction&Consulting Sp. z o.o.",
+"nier": "ul. Szeligowska 91",
+"dz": "3/3 z ob. 6-13-03",
+"inw": "odmowa"
+}
+},
+{
+"d": "2026-04-09",
+"c": {
+"nr": "22/BEM/WZ/2026/U",
+"data": "09.04.2026",
+"wn": "osoba fizyczna",
+"nier": "ul. Lazurowa",
+"dz": "12/10 z ob. 6-13-05",
+"inw": "umorzenie postępowania"
+}
+},
+{
+"d": "2026-04-09",
+"c": {
+"nr": "23/BEM/WZ/2026/U",
+"data": "09.04.2026",
+"wn": "osoba fizyczna",
+"nier": "ul. Sternicza 91",
+"dz": "10 z ob. 6-12-14",
+"inw": "umorzenie postępowania"
+}
+},
+{
+"d": "2026-03-30",
+"c": {
+"nr": "21/BEM/WZ/2026/U",
+"data": "30.03.2026",
+"wn": "osoba fizyczna",
+"nier": "ul. Okrętowa 95",
+"dz": "33 z ob. 6-12-07",
+"inw": "umorzenie postępowania"
+}
+},
+{
+"d": "2026-03-26",
+"c": {
+"nr": "20/BEM/WZ/2026/P",
+"data": "26.03.2026",
+"wn": "Develia Nita sp. z o.o.",
+"nier": "ul. Wieśniacza",
+"dz": "37/6, 38/4 z ob. 6-11-04",
+"inw": "przeniesienie decyzji WZ"
+}
+},
+{
+"d": "2026-03-25",
+"c": {
+"nr": "17/BEM/WZ/2026/U",
+"data": "25.03.2026",
+"wn": "Develia Warszawa Sp. z o.o.",
+"nier": "ul. Szeligowska",
+"dz": "4/9, 4/14 z ob. 6-13-03",
+"inw": "umorzenie postępowania"
+}
+},
+{
+"d": "2026-03-25",
+"c": {
+"nr": "18/BEM/WZ/2026/U",
+"data": "25.03.2026",
+"wn": "Develia Warszawa Sp. z o.o.",
+"nier": "ul. Szeligowska",
+"dz": "4/17 z ob. 6-13-03",
+"inw": "umorzenie postępowania"
+}
+},
+{
+"d": "2026-03-25",
+"c": {
+"nr": "19/BEM/WZ/2026/U",
+"data": "25.03.2026",
+"wn": "osoba fizyczna",
+"nier": "ul. Drzeworytników 31",
+"dz": "116/1 z ob. 6-12-11",
+"inw": "umorzenie postępowania"
+}
+},
+{
+"d": "2026-03-13",
+"c": {
+"nr": "16/BEM/WZ/2026/U",
+"data": "13.03.2026",
+"wn": "Develia Warszawa Sp. z o.o.",
+"nier": "ul. Szeligowska",
+"dz": "dz. 4/15 z ob. 6-13-03",
+"inw": "umorzenie postępowania"
+}
+},
+{
+"d": "2026-03-12",
+"c": {
+"nr": "15/BEM/WZ/2026/U",
+"data": "12.03.2026",
+"wn": "osoba fizyczna",
+"nier": "ul. Sobczaka 8",
+"dz": "dz. 18, 19 z ob. 6-08-02",
+"inw": "umorzenie postępowania"
+}
+},
+{
+"d": "2026-03-10",
+"c": {
+"nr": "14/BEM/WZ/2026/U",
+"data": "10.03.2026",
+"wn": "osoba fizyczna",
+"nier": "ul. Okrętowa 105, 105A",
+"dz": "dz. 113/1, 113/2 z ob. 6-12-07",
+"inw": "umorzenie postępowania"
+}
+},
+{
+"d": "2026-03-09",
+"c": {
+"nr": "13/BEM/WZ/2026/U",
+"data": "09.03.2026",
+"wn": "osoba fizyczna",
+"nier": "ul. Szeligowska 28",
+"dz": "dz. /1 z ob. 6-13-05",
+"inw": "wygaśnięcie decyzji"
+}
+},
+{
+"d": "2026-03-04",
+"c": {
+"nr": "12/BEM/WZ/2026/U",
+"data": "04.03.2026",
+"wn": "osoba fizyczna",
+"nier": "ul. Sobczaka 31",
+"dz": "dz. 52 z ob. 6-08-03",
+"inw": "umorzenie postępowania"
+}
+},
+{
+"d": "2026-02-19",
+"c": {
+"nr": "11/BEM/WZ/2026/U",
+"data": "19.02.2026",
+"wn": "ACER RE sp. z o.o.",
+"nier": "ul. Oświatowa 12",
+"dz": "dz. 115/1, 115/25 z ob. 6-11-15",
+"inw": "umorzenie postępowania"
+}
+},
+{
+"d": "2026-02-12",
+"c": {
+"nr": "10/BEM/WZ/2026",
+"data": "12.02.2026",
+"wn": "osoba fizyczna",
+"nier": "ul. Siemienowicza 27",
+"dz": "dz. 215 z ob. 6-10-03",
+"inw": "rozbudowa, nadbudowa i przebudowa budynku mieszkalnego jednorodzinnego wraz z wewnętrznymi instalacjami: wodno-kanalizacyjną, gazową i energii elektrycznej"
+}
+},
+{
+"d": "2026-02-11",
+"c": {
+"nr": "9/BEM/WZ/2026/O",
+"data": "11.02.2026",
+"wn": "osoba fizyczna",
+"nier": "ul. Górczewska 228F",
+"dz": "dz. 94/2 z ob. 6-11-02",
+"inw": "odmowa"
+}
+},
+{
+"d": "2026-02-10",
+"c": {
+"nr": "8/BEM/WZ/2026/U",
+"data": "10.02.2026",
+"wn": "osoba fizyczna",
+"nier": "ul. Sternicza 103",
+"dz": "dz. 78, 161 z ob. 6-12-13",
+"inw": "umorzenie postępowania"
+}
+},
+{
+"d": "2026-02-06",
+"c": {
+"nr": "5/BEM/WZ/2026/U",
+"data": "06.02.2026",
+"wn": "Rokla Construction&Consulting Sp. z o.o.",
+"nier": "ul. Szeligowska",
+"dz": "dz. 3/5 z ob. 6-13-03",
+"inw": "umorzenie postępowania"
+}
+},
+{
+"d": "2026-02-06",
+"c": {
+"nr": "6/BEM/WZ/2026/U",
+"data": "06.02.2026",
+"wn": "Rokla Construction&Consulting Sp. z o.o.",
+"nier": "ul. Szeligowska",
+"dz": "dz. 4/17 z ob. 6-13-03",
+"inw": "umorzenie postępowania"
+}
+},
+{
+"d": "2026-02-06",
+"c": {
+"nr": "7/BEM/WZ/2026/W",
+"data": "06.02.2026",
+"wn": "Usługi dla Oświaty sp. z o.o.",
+"nier": "ul. Sternicza 97",
+"dz": "dz. 7 z ob. 6-12-14",
+"inw": "wygaśnięcie decyzji"
+}
+},
+{
+"d": "2026-02-03",
+"c": {
+"nr": "4/BEM/WZ/2026/W",
+"data": "03.02.2026",
+"wn": "osoba fizyczna",
+"nier": "ul. Szeligowska",
+"dz": "dz. 4/7 z ob. 6-13-01",
+"inw": "wygaśnięcie decyzji"
+}
+},
+{
+"d": "2026-01-30",
+"c": {
+"nr": "3/BEM/WZ/2026/W",
+"data": "30.01.2026",
+"wn": "osoba fizyczna",
+"nier": "ul. Połczyńska 82",
+"dz": "dz. 44, 45, 46 z ob. 6-13-11",
+"inw": "wygaśnięcie decyzji"
+}
+},
+{
+"d": "2026-01-29",
+"c": {
+"nr": "2/BEM/WZ/2026/U",
+"data": "29.01.2026",
+"wn": "osoba fizyczna",
+"nier": "ul. Legionowa 5",
+"dz": "dz. 146, 147/1 z ob. 6-12-13",
+"inw": "umorzenie postępowania"
+}
+},
+{
+"d": "2026-01-05",
+"c": {
+"nr": "1/BEM/WZ/2026/U",
+"data": "05.01.2026",
+"wn": "osoba fizyczna",
+"nier": "ul. Kunickiego 49",
+"dz": "dz. 91 z ob. 6-08-03",
+"inw": "umorzenie postępowania"
+}
+}
+]
+},
+{
+"id": "dec_icp",
+"name": "Decyzje o lokalizacji inwestycji celu publicznego",
+"short": "Decyzje ICP",
+"desc": "Informacja o wydanych decyzjach w sprawie o ustalenie lokalizacji inwestycji celu publicznego o znaczeniu powiatowym i gminnym.",
+"file": "dec_icp_2026_00_Informacja_o_wydanych_decyzjach_w_sprawie_o_ustale_ccaab5.xlsx",
+"url": "https://cdn.um.warszawa.pl/documents/40444/174175540/Informacja+o+wydanych+decyzjach+w+sprawie+o+ustalenie+lokalizacji+inwestycji+celu+publicznego+o+znaczeniu+powiatowym+i+gminnym+2026.xlsx/e8689e3c-818e-ecb0-f5ee-79c697a341a1?t=1794906722583",
+"cols": [
+{
+"k": "nr",
+"l": "Nr decyzji",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Streszczenie ustaleń",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Wnioskodawca",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Nieruchomość (ulica)",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2026-10-22",
+"c": {
+"nr": "6/BEM/CP/2026",
+"data": "22.10.2026",
+"wn": "Stoen Operator sp. z o.o.",
+"inw": "budowa sieci elektroenergetycznej niskiego napięcia 0,4 kV",
+"nier": "ul. Posejdona",
+"dz": "dz. 249 z ob. 6-08-11"
+}
+},
+{
+"d": "2026-09-03",
+"c": {
+"nr": "5/BEM/CP/2026",
+"data": "03.09.2026",
+"wn": "m.st.warszawa",
+"inw": "budowa osiedlowej sieci ciepłowniczej",
+"nier": "ul. Konarskiego 20",
+"dz": "dz. 126 z ob. 6-11-04"
+}
+},
+{
+"d": "2026-06-12",
+"c": {
+"nr": "4/BEM/CP/2026",
+"data": "12.06.2026",
+"wn": "Viktoria Dom S.A.",
+"inw": "budowa i przebudowa sieci wodociągowej",
+"nier": "ul. Batalionów Chłopskich i Lazurowa",
+"dz": "dz. 51/1 z ob. 6-13-15"
+}
+},
+{
+"d": "2026-03-20",
+"c": {
+"nr": "3/BEM/CP/2026",
+"data": "20.03.2026",
+"wn": "Stoen Operator sp. z o.o.",
+"inw": "budowa miejskiej kontenerowej stacji dwutransformatorowej 15/0,4 kV",
+"nier": "ul. Marynin",
+"dz": "dz. 84 z ob. 6-06-15"
+}
+},
+{
+"d": "2026-01-22",
+"c": {
+"nr": "2/BEM/CP/2026",
+"data": "22.01.2026",
+"wn": "Stoen Operator sp. z o.o.",
+"inw": "budowa sieci elektroenegetycznej kablowej o napięciu do 1kV",
+"nier": "ul. Lazurowa/ ul. Dywizjonu 303",
+"dz": "dz. 25/2 z ob. 6-10-07; dz. 3 i 6 z ob. 6-08-11"
+}
+},
+{
+"d": "2026-01-15",
+"c": {
+"nr": "1/BEM/CP/2026/U",
+"data": "15.01.2026",
+"wn": "Stoen Operator sp. z o.o.",
+"inw": "budowa miejskiej kontenerowej stacji transformatorowej 15/0,4 kV - umorzenie postępowania",
+"nier": "ul. Wrocławska",
+"dz": "dz. 3/24 z ob. 6-08-05"
+}
+}
+]
+},
+{
+"id": "wn_wz",
+"name": "Wszczęte postępowania (WZ/ICP)",
+"short": "Wnioski WZ/ICP",
+"desc": "Informacja o wszczętych postępowaniach o warunkach zabudowy i ustaleniu lokalizacji inwestycji celu publicznego.",
+"file": "wn_wz_2026_00_Informacja_o_wszcz_tych_post_powaniach_o_warunkach_f1da1d.xlsx",
+"url": "https://cdn.um.warszawa.pl/documents/40444/174175540/Informacja+o+wszcz%C4%99tych+post%C4%99powaniach+o+warunkach+zabudowy+i+ustaleniu+lokalizacji+inwestycji+celu+publicznego+2026.xlsx/3934b975-8b03-1247-51e3-2b84896c7997?t=1794906722245",
+"cols": [
+{
+"k": "nr",
+"l": "Znak sprawy",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Nazwa inwestycji",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Wnioskodawca",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Adres inwestycji",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2026-10-23",
+"c": {
+"nr": "UD-I-WAB-B.6730.31.2026 (JKO)",
+"data": "23.10.2026",
+"wn": "osoba fizyczna",
+"inw": "budowa budynku mieszkalnego jednorodzinnego, budowa murków oporowych",
+"nier": "ul. Rozalińska 28",
+"dz": "dz. 750 z ob. 6-10-05"
+}
+},
+{
+"d": "2026-10-22",
+"c": {
+"nr": "UD-I-WAB-B.6730.29.2026 JKO",
+"data": "22.10.2026",
+"wn": "osoba fizyczna",
+"inw": "budowa budynku usługowego",
+"nier": "ul. Dywizjonu 303",
+"dz": "dz. 1 z ob. 6-11-02"
+}
+},
+{
+"d": "2026-10-22",
+"c": {
+"nr": "UD-I-WAB-B.6730.32.2026 (JKO)",
+"data": "22.10.2026",
+"wn": "osoba fizyczna",
+"inw": "zmiana sposobu użytkowania pawilonu na siłownię/klub fitness",
+"nier": "ul. Wyki 11",
+"dz": "dz. 3/21, 10/6, 10/2 z ob. 6-11-12"
+}
+},
+{
+"d": "2026-10-01",
+"c": {
+"nr": "UD-I-WAB-B.6730.52.2026.MBG",
+"data": "01.10.2026",
+"wn": "osoba fizyczna",
+"inw": "przebudowa, rozbudowa i nadbudowa budynu mieszkalnego jednorodzinnego, budowa wiaty postojowej dla samochodu osobowego",
+"nier": "ul. Kunickiego 25",
+"dz": "dz. 23 z ob. 6-08-03"
+}
+},
+{
+"d": "2026-09-21",
+"c": {
+"nr": "UD-I-WAB-B.6730.46.2026.MBO UD-I-WAB-B.6730.13.2026 (MBG-EZD)",
+"data": "21.09.2026",
+"wn": "osoba fizyczna",
+"inw": "wniosek o zmianę dec. 37/BEM/WZ/2025 z 16.07.2025 rozbudowa i przebudowa budynku mieszkalnego jednorodzinnego w zabudowie bliźniaczej",
+"nier": "ul. Mendelejewa 25",
+"dz": "dz. 114 z ob. 6-10-03"
+}
+},
+{
+"d": "2026-09-17",
+"c": {
+"nr": "UD-I-WAB-B.6730.57.2026.MBG",
+"data": "17.09.2026",
+"wn": "osoba fizyczna",
+"inw": "przebudowa, rozbudowa i nadbudowa budynku mieszkalnego jednorodzinnego",
+"nier": "ul. Oryszewska 14",
+"dz": "dz. 666 z ob. 6-10-05"
+}
+},
+{
+"d": "2026-09-10",
+"c": {
+"nr": "UD-I-WAB-B.6730.11.2026.MBO",
+"data": "10.09.2026",
+"wn": "Spółdzielnia Mieszkaniowa Górczewska",
+"inw": "przebudowa budynku mieszkalnego wielorodzinnego (wykonanie nowego otworu drzwiowego do szybu windowego) wraz ze zmianą sposobu użytkowania pomieszczenia składowania odpadów stałych na hol wejściowy do budynku (klatka I, II, III, IV) także na wykonaniu dodatkowego przystanku windy na poziomie 8 piętra (klatka i i IV)",
+"nier": "ul. Czumy 14",
+"dz": "dz. 5/57 z ob. 6-11-10"
+}
+},
+{
+"d": "2026-09-08",
+"c": {
+"nr": "UD-I-WAB-B.6730.58.2026.MBG",
+"data": "08.09.2026",
+"wn": "osoba fizyczna",
+"inw": "rozbudowa i przebudowa segmentu w budynku mieszkalnym jednorodzinnym bliźniaczym",
+"nier": "ul. Iskry 36",
+"dz": "dz. 21 z ob. 6-10-05"
+}
+},
+{
+"d": "2026-08-27",
+"c": {
+"nr": "UD-I-WAB-B.6730.56.2026.MCR",
+"data": "27.08.2026",
+"wn": "osoba fizyczna",
+"inw": "rozbudowa i przebudowa budynku mieszkalnego jednorodzinnego wolnostojącego",
+"nier": "ul. Dostępna 58",
+"dz": "dz. 206 z ob. 6-08-03"
+}
+},
+{
+"d": "2026-08-18",
+"c": {
+"nr": "UD-I-WAB-B.6730.50.2026.MBG",
+"data": "18.08.2026",
+"wn": "osoba fizyczna",
+"inw": "budowa budynku mieszkalnego wielorodzinnegoz lokalem usługowym w parterze (usługi nieuciążliwe), garażem podziemnym z zewn. Windą samochodową",
+"nier": "ul. Drogomilska",
+"dz": "dz. 45 z ob. 6-11-13"
+}
+},
+{
+"d": "2026-08-14",
+"c": {
+"nr": "UD-I-WAB-B.6730.55.2026.KBO",
+"data": "14.08.2026",
+"wn": "m.st. Warszawa",
+"inw": "altana ogrodowa przeznacona do celów edukacyjnych",
+"nier": "ul. Irzykowskiego 1A",
+"dz": "dz. 513, 5/4, 5/5, 60 z ob. 6-11-12"
+}
+},
+{
+"d": "2026-08-12",
+"c": {
+"nr": "UD-I-WAB-B.6730.48.2026.KBO",
+"data": "12.08.2026",
+"wn": "osoba fizyczna",
+"inw": "budowa budynku mieszkalnego wielorodzinnegoz lokalem usługowym w parterze (usługi nieuciążliwe), garażem podziemnym z zewn. Windą samochodową",
+"nier": "ul. Drogomilska",
+"dz": "dz. 45, 82 z ob. 6-11-13"
+}
+},
+{
+"d": "2026-07-27",
+"c": {
+"nr": "UD-I-WAB-B.6730.44.2026.MBG",
+"data": "27.07.2026",
+"wn": "osoba fizyczna",
+"inw": "rozbudowa, nadbudowa i przebudowa budynku mieszkalnego jednorodzinnego",
+"nier": "ul. Bułhaka 7",
+"dz": "dz. 130 z ob.6-10-05"
+}
+},
+{
+"d": "2026-07-22",
+"c": {
+"nr": "UD-I-WAB-B.6730.51.2026.MBG",
+"data": "22.07.2026",
+"wn": "osoba fizyczna",
+"inw": "rozbudowa budynku mieszkalnego jednorodzinnego w zabudowie szeregowej",
+"nier": "ul. Kocjana 53",
+"dz": "dz. 796 z ob. 6-10-05"
+}
+},
+{
+"d": "2026-07-22",
+"c": {
+"nr": "UD-I-WAB-B.6730.54.2026.JKO",
+"data": "22.07.2026",
+"wn": "osoba fizyczna",
+"inw": "nadbudowa i rozbudowa budynku mieszkalnego jednorodzinnego wolno stojącego",
+"nier": "ul. Sobczaka 13",
+"dz": "dz. 159 z ob. 6-08-02"
+}
+},
+{
+"d": "2026-07-20",
+"c": {
+"nr": "UD-I-WAB-B.6730.38.2026.JKO",
+"data": "20.07.2026",
+"wn": "Develia Warszawa Sp. z o.o.",
+"inw": "budowa budynku usługowego z garażem na dachu, drogą wewnętrzną, parkingami na terenie i na dachu, zbiornikiem wody do celów p. poż, zbiornikiem retencyjnym szczelnym na wody opadowe, niezbędną infrastrukturą techniczną, zagospodarowaniem terenu",
+"nier": "ul. Szeligowska",
+"dz": "dz. 4/9, 4/14, 4/15 z ob. 6-13-03"
+}
+},
+{
+"d": "2026-07-20",
+"c": {
+"nr": "UD-I-WAB-B.6730.39.2026.KBO",
+"data": "20.07.2026",
+"wn": "Rokla Construction & Consulting Sp. z o.o.",
+"inw": "budowa budynku usługowego z garażem na dachu, drogą wewnętrzną, parkingami na terenie i na dachu, zbiornikiem retencyjnym szczelnym na wody opadowe, niezbędną infrastrukturą techniczną, zagospodarowaniem terenu",
+"nier": "ul. Szeligowska",
+"dz": "dz. 3/5, 3/6, 4/16, 4/17 z ob. 6-13-03"
+}
+},
+{
+"d": "2026-07-18",
+"c": {
+"nr": "UD-I-WAB-B.6733.3.2026.MCR",
+"data": "18.07.2026",
+"wn": "Stoen Operator Sp. z o.o.",
+"inw": "budowa linii kablowej niskiego napięcia 0,4kV",
+"nier": "ul. Posejdona",
+"dz": "dz. 164/1, 248, 249 z ob.6-08-11"
+}
+},
+{
+"d": "2026-07-15",
+"c": {
+"nr": "UD-I-WAB-B.6730.42.2026.JKO",
+"data": "15.07.2026",
+"wn": "osoba fizyczna",
+"inw": "przebudowa istniejącego budynku mieszkalnego jednorodzinnego wolnostojącego i budowa budynku mieszkalnego, jednorodzinnego w celu sworzenia zabudowy bliźniaczej",
+"nier": "ul. W. Thommeego 18",
+"dz": "dz. 38, 40, 41 z ob.6-08-03"
+}
+},
+{
+"d": "2026-07-09",
+"c": {
+"nr": "UD-I-WAB-B.6730.33.2026.MCR",
+"data": "09.07.2026",
+"wn": "Joinlabs Sp. z o.o.",
+"inw": "budowa garażu o charakterze gospodarczym",
+"nier": "ul. Wrocławska",
+"dz": "17 z ob. 6-08-04"
+}
+},
+{
+"d": "2026-07-09",
+"c": {
+"nr": "UD-I-WAB-B.6730.36.2026.ATA",
+"data": "09.07.2026",
+"wn": "osoba fizyczna",
+"inw": "przebudowa , rozbudowa i nadbudowa budynku mieszkalnego jednorodzinnego wolnostojącego",
+"nier": "ul. Telewizyjna 20",
+"dz": "dz. 169 z ob. 6-08-02"
+}
+},
+{
+"d": "2026-07-01",
+"c": {
+"nr": "UD-I-WAB-B.6730.43.2026.MCR",
+"data": "01.07.2026",
+"wn": "osoba fizyczna",
+"inw": "rozbudowa, przebudowa i nadbudowa istniejącego budynku mieszkalnego jednorodzinnego",
+"nier": "ul. Hucisko 7",
+"dz": "dz. 450 z ob. 6-10-05"
+}
+},
+{
+"d": "2026-06-25",
+"c": {
+"nr": "UD-I-WAB-B.6730.37.2026.KBO",
+"data": "25.06.2026",
+"wn": "osoba fizyczna",
+"inw": "budowa budynku mieszkalnego wielorodzinnego z parkingiem podziemnym, usługami w parterze wraz z infrastrukturą w tym podziemnym zbiornikiem szczelnym na wody opadowe",
+"nier": "ul. Okoliczna 11",
+"dz": "dz. 36 z ob. 6-11-13"
+}
+},
+{
+"d": "2026-06-01",
+"c": {
+"nr": "UD-I-WAB-B.6730.41.2026.JKO",
+"data": "01.06.2026",
+"wn": "osoba fizyczna",
+"inw": "nadbudowa budynku mieszkalnego jednorodzinnego wolnostojącego",
+"nier": "ul. Marynin 21C",
+"dz": "dz. 97 z ob. 6-06-15"
+}
+},
+{
+"d": "2026-05-27",
+"c": {
+"nr": "UD-I-WAB-B.6730.34.2026.MCR",
+"data": "27.05.2026",
+"wn": "osoba fizyczna",
+"inw": "zmiana sposobu użytkowania lokalu usługowego na cele przychodni rehabilitacyjnej",
+"nier": "ul. Świętochowkiego 2",
+"dz": "dz. 4/52 z ob. 6-11-09"
+}
+},
+{
+"d": "2026-05-20",
+"c": {
+"nr": "UD-I-WAB-B.6730.28.2026.MBG",
+"data": "20.05.2026",
+"wn": "osoba fizyczna",
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym i usługami podstawowymi (bytowymi) w parterze wraz z rozbudową odcinka drogi wewnętrznej",
+"nier": "ul. Marynin",
+"dz": "dz. 65, 66, 67, 68/5 z ob. 6-06-15"
+}
+},
+{
+"d": "2026-05-20",
+"c": {
+"nr": "UD-I-WAB-B.6730.30.2026.MBG",
+"data": "20.05.2026",
+"wn": "osoba fizyczna",
+"inw": "Budowa budynku biurowego z garażem podziemnym wraz z rozbudowąodcinka drogi wewnętrznej",
+"nier": "ul. Marynin",
+"dz": "dz. 65, 66, 67, 68/5 z ob. 6-06-15"
+}
+},
+{
+"d": "2026-05-20",
+"c": {
+"nr": "UD-I-WAB-B.6730.29.2026.MBG",
+"data": "20.05.2026",
+"wn": "osoba fizyczna",
+"inw": "Budowa budynku biurowego wraz z rozbudową odcinka drogi wewnętrznej",
+"nier": "ul. Marynin",
+"dz": "dz. 78, 66, 67, 68/5, 87/2 z ob. 6-06-15"
+}
+},
+{
+"d": "2026-05-11",
+"c": {
+"nr": "UD-I-WAB-B.6730.25.2026.MBG",
+"data": "11.05.2026",
+"wn": "Stroer Polska Sp. z o.o.",
+"inw": "nośnik reklamowy",
+"nier": "ul. Lazurowa/Człuchowska",
+"dz": "dz. 3/37 z ob. 6-11-12"
+}
+},
+{
+"d": "2026-04-23",
+"c": {
+"nr": "UD-I-WAB-B.6730.23.2026.MBO",
+"data": "23.04.2026",
+"wn": "Domel Sp. z o.o.",
+"inw": "zmiana sposobu użytkowania istniejącego budynku biurowego na budynek mieszkalny wielorodzinny",
+"nier": "ul. Podmiejska 1",
+"dz": "dz. 5/16 z ob. 6-08-10"
+}
+},
+{
+"d": "2026-04-22",
+"c": {
+"nr": "UD-I-WAB-B.6730.26.2026.KBO",
+"data": "22.04.2026",
+"wn": "osoba fizyczna",
+"inw": "budowa wielorodzinnego budynku mieszkalnego z garażem podziemnym i parkingiem na poziomie terenu",
+"nier": "ul. Jeździecka 6, 8 ul. Dębicka 26, 28, 28A,30",
+"dz": "dz. 47/1, 48/1, 49, 50, 51, 82 z ob. 6-11-04"
+}
+},
+{
+"d": "2026-04-21",
+"c": {
+"nr": "UD-I-WAB-B.6730.17.2026.JKO",
+"data": "21.04.2026",
+"wn": "AMS S.A.",
+"inw": "budowa tablicy reklamowej do dwóch słupków stalowych w celu legalizacji",
+"nier": "ul. Górczewska 228",
+"dz": "dz. 111/38 z ob. 6-11-02"
+}
+},
+{
+"d": "2026-04-21",
+"c": {
+"nr": "UD-I-WAB-B.6730.20.2026.KBO",
+"data": "21.04.2026",
+"wn": "AMS S.A.",
+"inw": "budowa tablicy reklamowej do dwóch słupków stalowych w celu legalizacji",
+"nier": "ul. Górczewska 228",
+"dz": "dz. 111/38 z ob. 6-11-02"
+}
+},
+{
+"d": "2026-04-21",
+"c": {
+"nr": "UD-I-WAB-B.6730.18.2026.MBG",
+"data": "21.04.2026",
+"wn": "AMS S.A.",
+"inw": "budowa tablicy reklamowej do dwóch słupków stalowych w celu legalizacji",
+"nier": "ul. Górczewska 228",
+"dz": "dz. 111/38 z ob. 6-11-02"
+}
+},
+{
+"d": "2026-04-21",
+"c": {
+"nr": "UD-I-WAB-B.6730.10.2026.ATA",
+"data": "21.04.2026",
+"wn": "AMS S.A.",
+"inw": "budowa tablicy reklamowej do dwóch słupków stalowych w celu legalizacji",
+"nier": "ul. Górczewska 228",
+"dz": "dz. 111/38 z ob. 6-11-02"
+}
+},
+{
+"d": "2026-04-21",
+"c": {
+"nr": "UD-I-WAB-B.6730.9.2026.ATA",
+"data": "21.04.2026",
+"wn": "AMS S.A.",
+"inw": "budowa tablicy reklamowej do dwóch słupków stalowych w celu legalizacji",
+"nier": "ul. Górczewska 228",
+"dz": "dz. 111/38 z ob. 6-11-02"
+}
+},
+{
+"d": "2026-04-21",
+"c": {
+"nr": "UD-I-WAB-B.6730.19.2026.MBG",
+"data": "21.04.2026",
+"wn": "AMS S.A.",
+"inw": "budowa tablicy reklamowej do dwóch słupków stalowych w celu legalizacji",
+"nier": "ul. Górczewska 228",
+"dz": "dz. 111/38 z ob. 6-11-02"
+}
+},
+{
+"d": "2026-04-14",
+"c": {
+"nr": "UD-I-WAB-B.6730.11.2026.MBO",
+"data": "14.04.2026",
+"wn": "Spółdzielnia Mieszkaniowa Górczewska",
+"inw": "przebudowa budynku mieszkalnego wielorodzinnego (wykonanie nowego otworu drzwiowego do szybu windowego) wraz ze zmianą sposobu użytkowania pomieszczenia składowania odpadów stałych na hol wejściowy do budynku (klatka I, II, III, IV) także na wykonaniu dodatkowego przystanku windy na poziomie 8 piętra (klatka i i IV)",
+"nier": "ul. Czumy 14",
+"dz": "dz. 5/57 z ob. 6-11-10"
+}
+},
+{
+"d": "2026-04-14",
+"c": {
+"nr": "UD-I-WAB-B.6730.27.2026.MBG",
+"data": "14.04.2026",
+"wn": "osoba fizyczna",
+"inw": "rozbudowa, przebudowa, nadbudowa budynku mieszkalnego jednorodzinnego w zabudowie bliźniaczej. Budowa muru oporowego przy projektowanym zjeździe do garażu",
+"nier": "ul. Rozalińska 28",
+"dz": "dz. 750 z ob. 6-10-05"
+}
+},
+{
+"d": "2026-03-30",
+"c": {
+"nr": "UD-I-WAB-B.6730.21.2026.KBO",
+"data": "30.03.2026",
+"wn": "Spółdzielnia Mieszkaniowa Górczewska",
+"inw": "przebudowa budynku mieszkalnego wielorodzinnego (wykonanie nowego otworu drzwiowego do szybu windowego) wraz ze zmianą sposobu użytkowania pomieszczenia składowania odpadów stałych na hol wejściowy do budynku (klatka I, II, III, IV) także na wykonaniu dodatkowego przystanku windy na poziomie 8 piętra (klatka i i IV)",
+"nier": "ul. Czumy 4A",
+"dz": "dz. 5/73 z ob. 6-11-10"
+}
+},
+{
+"d": "2026-02-27",
+"c": {
+"nr": "UD-I-WAB-B.6730.8.2026.MBO",
+"data": "27.02.2026",
+"wn": "osoba fizyczna",
+"inw": "rozbudowa i termomodernizacja domu szeregowego jednorodzinnego",
+"nier": "ul. Hucisko 19",
+"dz": "dz. 406 z ob. 6-10-05"
+}
+},
+{
+"d": "2026-02-16",
+"c": {
+"nr": "UD-I-WAB-B.6733.3.2026.ATA",
+"data": "16.02.2026",
+"wn": "Stoen Operator Sp. z o.o.",
+"inw": "budowa miejskiej kontenerowej stacji dwutransformatorowej 15/04 kV",
+"nier": "ul. Marynin",
+"dz": "dz. 84 z ob. 6-06-15"
+}
+},
+{
+"d": "2026-02-12",
+"c": {
+"nr": "UD-I-WAB-B.6730.101.2025.KBO",
+"data": "12.02.2026",
+"wn": "HI Projekt XLI Sp. z o.o.",
+"inw": "zmiana decyzji nr 40/BEM/WZ/2025 z dnia 31.07.2025",
+"nier": "ul. Waldorffa",
+"dz": "dz. 35/9 z ob. 6-15-01"
+}
+},
+{
+"d": "2026-02-03",
+"c": {
+"nr": "UD-I-WAB-B.6730.82.2025.KBO",
+"data": "03.02.2026",
+"wn": "Jeronimo Martins Polska S.A.",
+"inw": "budowa wiaty systemowej wolnostojącej",
+"nier": "ul. Czumy 3",
+"dz": "dz. 5/40 z ob. 6-11-10"
+}
+}
+]
+}
+]
+}

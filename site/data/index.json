@@ -1,5 +1,5 @@
 {
-"generated": "2026-11-19T23:24:34+01:00",
+"generated": "2026-11-24T21:24:56+01:00",
 "districts": [
 {
 "slug": "bemowo",
@@ -17,54 +17,55 @@
 },
 {
 "year": 2018,
-"total": 379,
-"registers": 2
+"total": 597,
+"registers": 4
 },
 {
 "year": 2019,
-"total": 493,
-"registers": 2
+"total": 733,
+"registers": 4
 },
 {
 "year": 2020,
-"total": 351,
-"registers": 2
+"total": 665,
+"registers": 5
 },
 {
 "year": 2021,
-"total": 281,
-"registers": 2
+"total": 634,
+"registers": 5
 },
 {
 "year": 2022,
-"total": 294,
-"registers": 2
+"total": 529,
+"registers": 5
 },
 {
 "year": 2023,
-"total": 297,
-"registers": 2
+"total": 499,
+"registers": 5
 },
 {
 "year": 2024,
-"total": 253,
-"registers": 2
+"total": 330,
+"registers": 4
 },
 {
 "year": 2025,
-"total": 154,
-"registers": 2
+"total": 286,
+"registers": 5
 },
 {
 "year": 2026,
-"total": 76,
-"registers": 2
+"total": 194,
+"registers": 5
 }
 ],
-"total": 3582,
+"total": 5471,
 "default": 2026,
 "sources": [
-"GUNB"
+"GUNB",
+"Bemowo (strona dzielnicy)"
 ]
 },
 {
@@ -123,11 +124,11 @@
 },
 {
 "year": 2026,
-"total": 1109,
+"total": 1113,
 "registers": 2
 }
 ],
-"total": 19796,
+"total": 19800,
 "default": 2026,
 "sources": [
 "GUNB"
@@ -215,54 +216,55 @@
 },
 {
 "year": 2018,
-"total": 1613,
-"registers": 2
+"total": 1901,
+"registers": 4
 },
 {
 "year": 2019,
-"total": 1197,
-"registers": 2
+"total": 1481,
+"registers": 4
 },
 {
 "year": 2020,
-"total": 1107,
-"registers": 2
+"total": 1346,
+"registers": 5
 },
 {
 "year": 2021,
-"total": 871,
-"registers": 2
+"total": 1144,
+"registers": 6
 },
 {
 "year": 2022,
-"total": 918,
-"registers": 2
+"total": 1136,
+"registers": 6
 },
 {
 "year": 2023,
-"total": 792,
-"registers": 2
+"total": 997,
+"registers": 6
 },
 {
 "year": 2024,
-"total": 807,
-"registers": 2
+"total": 982,
+"registers": 6
 },
 {
 "year": 2025,
-"total": 571,
-"registers": 2
+"total": 738,
+"registers": 6
 },
 {
 "year": 2026,
-"total": 379,
-"registers": 2
+"total": 538,
+"registers": 6
 }
 ],
-"total": 11091,
+"total": 13099,
 "default": 2026,
 "sources": [
-"GUNB"
+"GUNB",
+"Mokotów (strona dzielnicy)"
 ]
 },
 {
@@ -454,11 +456,11 @@
 },
 {
 "year": 2026,
-"total": 252,
+"total": 258,
 "registers": 2
 }
 ],
-"total": 6240,
+"total": 6246,
 "default": 2026,
 "sources": [
 "GUNB"
@@ -520,11 +522,11 @@
 },
 {
 "year": 2026,
-"total": 148,
+"total": 166,
 "registers": 2
 }
 ],
-"total": 2609,
+"total": 2627,
 "default": 2026,
 "sources": [
 "GUNB"
@@ -556,44 +558,45 @@
 },
 {
 "year": 2020,
-"total": 803,
-"registers": 2
+"total": 839,
+"registers": 3
 },
 {
 "year": 2021,
-"total": 716,
-"registers": 2
+"total": 835,
+"registers": 3
 },
 {
 "year": 2022,
-"total": 735,
-"registers": 2
+"total": 838,
+"registers": 3
 },
 {
 "year": 2023,
-"total": 630,
-"registers": 2
+"total": 724,
+"registers": 3
 },
 {
 "year": 2024,
-"total": 748,
-"registers": 2
+"total": 816,
+"registers": 3
 },
 {
 "year": 2025,
-"total": 775,
-"registers": 2
+"total": 844,
+"registers": 3
 },
 {
 "year": 2026,
-"total": 552,
-"registers": 2
+"total": 589,
+"registers": 3
 }
 ],
-"total": 10218,
+"total": 10744,
 "default": 2026,
 "sources": [
-"GUNB"
+"GUNB",
+"Śródmieście (strona dzielnicy)"
 ]
 },
 {
@@ -627,39 +630,40 @@
 },
 {
 "year": 2021,
-"total": 647,
-"registers": 2
+"total": 747,
+"registers": 5
 },
 {
 "year": 2022,
-"total": 537,
-"registers": 2
+"total": 642,
+"registers": 5
 },
 {
 "year": 2023,
-"total": 531,
-"registers": 2
+"total": 590,
+"registers": 5
 },
 {
 "year": 2024,
-"total": 307,
-"registers": 2
+"total": 385,
+"registers": 5
 },
 {
 "year": 2025,
-"total": 257,
-"registers": 2
+"total": 291,
+"registers": 5
 },
 {
 "year": 2026,
-"total": 270,
-"registers": 2
+"total": 296,
+"registers": 5
 }
 ],
-"total": 6082,
+"total": 6484,
 "default": 2026,
 "sources": [
-"GUNB"
+"GUNB",
+"Targówek (strona dzielnicy)"
 ]
 },
 {
@@ -769,11 +773,11 @@
 },
 {
 "year": 2026,
-"total": 167,
+"total": 173,
 "registers": 2
 }
 ],
-"total": 7447,
+"total": 7453,
 "default": 2026,
 "sources": [
 "GUNB"
@@ -805,8 +809,8 @@
 },
 {
 "year": 2020,
-"total": 1551,
-"registers": 2
+"total": 2158,
+"registers": 4
 },
 {
 "year": 2021,
@@ -835,14 +839,15 @@
 },
 {
 "year": 2026,
-"total": 1364,
-"registers": 2
+"total": 2248,
+"registers": 5
 }
 ],
-"total": 20846,
+"total": 22337,
 "default": 2026,
 "sources": [
-"GUNB"
+"GUNB",
+"Wawer (strona dzielnicy)"
 ]
 },
 {
@@ -937,44 +942,45 @@
 },
 {
 "year": 2020,
-"total": 592,
-"registers": 2
+"total": 731,
+"registers": 5
 },
 {
 "year": 2021,
-"total": 986,
-"registers": 2
+"total": 1106,
+"registers": 5
 },
 {
 "year": 2022,
-"total": 732,
-"registers": 2
+"total": 883,
+"registers": 5
 },
 {
 "year": 2023,
-"total": 651,
-"registers": 2
+"total": 835,
+"registers": 5
 },
 {
 "year": 2024,
-"total": 637,
-"registers": 2
+"total": 822,
+"registers": 5
 },
 {
 "year": 2025,
-"total": 677,
-"registers": 2
+"total": 1025,
+"registers": 5
 },
 {
 "year": 2026,
-"total": 669,
-"registers": 2
+"total": 1057,
+"registers": 5
 }
 ],
-"total": 8710,
+"total": 10225,
 "default": 2026,
 "sources": [
-"GUNB"
+"GUNB",
+"Wilanów (strona dzielnicy)"
 ]
 },
 {
@@ -1094,16 +1100,16 @@
 },
 {
 "year": 2025,
-"total": 348,
+"total": 355,
 "registers": 2
 },
 {
 "year": 2026,
-"total": 301,
+"total": 310,
 "registers": 2
 }
 ],
-"total": 5077,
+"total": 5093,
 "default": 2026,
 "sources": [
 "GUNB"

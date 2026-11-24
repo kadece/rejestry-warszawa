@@ -1,0 +1,4547 @@
+{
+"district": "praga-poludnie",
+"year": 2024,
+"generated": "2026-11-24T21:22:48+01:00",
+"total": 405,
+"registers": [
+{
+"id": "wn_pnb",
+"name": "Wnioski o pozwolenie na budowę",
+"short": "Wnioski PnB",
+"desc": "Wnioski o pozwolenie na budowę złożone do organu architektoniczno-budowlanego dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer wniosku",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2024-12-30",
+"c": {
+"inw": "PRZEBUDOWA LOKALI MIESZKALNYCH W BUDYNKACH MIESZKALNYCH WIELORODZINNYCH wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Grochowska 325 i 327",
+"dz": "146507_8 0531 10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/39187/24/PHO"
+}
+},
+{
+"d": "2024-12-30",
+"c": {
+"inw": "PRZEBUDOWA LOKALI MIESZKALNYCH W BUDYNKACH MIESZKALNYCH WIELORODZINNYCH wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Grochowska 325 i 327",
+"dz": "146507_8 0531 9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/39187/24/PHO"
+}
+},
+{
+"d": "2024-12-30",
+"c": {
+"inw": "PRZEBUDOWA LOKALU MIESZKALNEGO W BUDYNKU MIESZKALNYM WIELORODZINNYM wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Grochowska 325",
+"dz": "146507_8 0531 10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/39186/24/PHO"
+}
+},
+{
+"d": "2024-12-20",
+"c": {
+"inw": "BUDOWA BUDYNKU MIESZKALNEGO WIELORODZINNEGO Z USŁUGAMI W PARTERZE I GARAŻEM PODZIEMNYM ORAZ NIEZBĘDNĄ INFRASTRUKTURĄ TECHNICZNĄ I ZAGOSPODAROWANIEM TERENU budowa nowego/nowych obiektów budowlanych",
+"wn": "KORSO MIŃSKA SP Z O.O.",
+"nier": "Mińska",
+"dz": "146507_8 0202 31",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/38697/24/PHO"
+}
+},
+{
+"d": "2024-12-09",
+"c": {
+"inw": "ROBOTY BUDOWLANE - ZMIANA LOKALIZACJI ŚCIAN DZIAŁKOWYCH, WYKONANIE NOWEJ ŚCIANY DZIAŁOWEJ, WYBICIE OTWORU DRZWIOWEGO wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Walecznych 25",
+"dz": "146507_8 0103 221",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/37445/24/AWR"
+}
+},
+{
+"d": "2024-12-06",
+"c": {
+"inw": "BUDOWA INSTALACJI GAZOWEJ DLA LOKALU MIESZKALNEGO wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Zakopiańska 32",
+"dz": "146507_8 0112 141",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/37269/24/AWR"
+}
+},
+{
+"d": "2024-11-29",
+"c": {
+"inw": "PRZEBUDOWA INSTALACJI GAZOWEJ W BUDYNKU MIESZKALNYM WIELORODZINNYM wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Aldony 7 / Królowej",
+"dz": "146507_8 0109 116",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/36622/24/AWR"
+}
+},
+{
+"d": "2024-11-29",
+"c": {
+"inw": "BUDOWA BUDYNKU TECHNICZNEGO CNG WRAZ Z INSTALACJĄ GAZU NA TERENIE I AGREGATEM ZASILANIA AWARYJNEGO DLA POTRZEB SPÓŁKI MIEJSKIEJ ZAKŁADÓW AUTOBUSOWYCH ODDZ .PRZEWÓZ R-3 \"OSTROBRAMSKA\" budowa nowego/nowych obiektów budowlanych",
+"wn": "MIEJSKIE ZAKŁADY AUTOBUSOWE SP. Z O.O.",
+"nier": "Ostrobramska 38",
+"dz": "146507_8 0519 10/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/36531/24/FSO"
+}
+},
+{
+"d": "2024-11-27",
+"c": {
+"inw": "PRZEBYDOWA ELEWACJI LOKALU USŁUGOWEGO U10 NA PARTERZE W ZAKRESIE WYMIANY STAŁEJ KWATERY WITRYNY NA DRZWI wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SPÓŁDZIELNIA MIESZKANIOWA „GOCŁAW-LOTNISKO”",
+"nier": "Umińskiego 2 / Władysława",
+"dz": "146507_8 0606 47/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/36203/24/FSO"
+}
+},
+{
+"d": "2024-11-27",
+"c": {
+"inw": "PRZEBYDOWA ELEWACJI LOKALU USŁUGOWEGO U10 NA PARTERZE W ZAKRESIE WYMIANY STAŁEJ KWATERY WITRYNY NA DRZWI wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SPÓŁDZIELNIA MIESZKANIOWA „GOCŁAW-LOTNISKO”",
+"nier": "Umińskiego 2 / Władysława",
+"dz": "146507_8 0606 47/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/36203/24/FSO"
+}
+},
+{
+"d": "2024-11-22",
+"c": {
+"inw": "ROZBUDOWA I PRZEBUDOWA POMIESZCZEŃ W BUDYNKU NR 7 DLA POTRZEB PROSEKTORIUM WRAZ Z NIEZBĘDNĄ PRZEBUDOWĄ INFRASTRUKTURY PODZIEMNEJ, UKŁADEM DROGOWYM, PARKINGIEM DLA SAMOCHODÓW OSOBOWYCH OGRODZEŃ Z BRAMAMI OD ZEWNĄTRZ OD STRONY ULICY GARWOLIŃSKIEJ I WEWNĘTRZYCH ORAZ ROZBIÓRKA CZĘŚCI WIATY NA WĘGIEL NA TERENIE WOJSKOWEGO INSTYTUTU MEDYCZNEGO rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "WOJSKOWY INSTYTUT MEDYCZNY PAŃSTWOWY INSTYTUT BADAWCZY",
+"nier": "Szaserów 128",
+"dz": "146507_8 0403 8/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/35856/24/PHO"
+}
+},
+{
+"d": "2024-11-21",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z lokalami usługowymi i garażem podziemnym wraz z zagospodarowaniem terenu i instalacją gazową wewnętrzną i zbiornikiem retencyjnym budowa nowego/nowych obiektów budowlanych",
+"wn": "KRZYSZTOF POSTRZYGACZ INVESTMENTS",
+"nier": "Berneńska 4",
+"dz": "146507_8 0122 52",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/376211/24/AWR"
+}
+},
+{
+"d": "2024-11-14",
+"c": {
+"inw": "PRZEBUDOWA ELEMENTU KONSTRUKCYJNEGO LOKALU HANDLOWO-USŁUGOWEGO wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "IG30 SP. Z O.O.",
+"nier": "Igańska 30",
+"dz": "146507_8 0505 25/17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "PEUM/8306/24/PHO"
+}
+},
+{
+"d": "2024-11-07",
+"c": {
+"inw": "PRZEBUDOWA OTWORÓW OKIENNYCH W ŚCIANACH ZEWNĘTRZNYCH W LOKALU MIESZKALNYM NR 2 W BUDYNKU MIESZKALNYM WIELORODZINNYM wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Nizinna 10",
+"dz": "146507_8 0407 8/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/34305/24/PHO"
+}
+},
+{
+"d": "2024-11-01",
+"c": {
+"inw": "PROJEKT PRZEBUDOWY BUDYNKU MIESZKALNEGO WIELORODZINNEGO W CZĘŚCI MIESZKALNEJ LOKALI NR 21 ORAZ 22 POLEGAJĄCEJ NA UTWORZENIU OTWORU W ŚCIANIE NOŚNEJ wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Libijska 14C",
+"dz": "146507_8 0124 41",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/360532/24/FSO"
+}
+},
+{
+"d": "2024-10-31",
+"c": {
+"inw": "DWA BUDYNKI MIESZKALNE WIELORODZINNE Z GARAŻAMI PODZIEMNYMI I USŁUGAMI W PARTERZE, DOJAZDEM , DOJŚCIEM I INFRASTRUKTURĄ TECHNICZNĄ budowa nowego/nowych obiektów budowlanych",
+"wn": "MATHEO INVEST SP. Z O.O.",
+"nier": "Sztabowa",
+"dz": "146507_8 0416 6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/33787/24/JDO"
+}
+},
+{
+"d": "2024-10-31",
+"c": {
+"inw": "DWA BUDYNKI MIESZKALNE WIELORODZINNE Z GARAŻAMI PODZIEMNYMI I USŁUGAMI W PARTERZE, DOJAZDEM , DOJŚCIEM I INFRASTRUKTURĄ TECHNICZNĄ budowa nowego/nowych obiektów budowlanych",
+"wn": "MATHEO INVEST SP. Z O.O.",
+"nier": "Sztabowa",
+"dz": "146507_8 0416 7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/33787/24/JDO"
+}
+},
+{
+"d": "2024-10-28",
+"c": {
+"inw": "BUDOWA CHODNIKA ŁĄCZĄCEGO STACJĘ KOLEJOWĄ WARSZAWA GROCHÓW Z ULICĄ PRZEWORSKĄ budowa nowego/nowych obiektów budowlanych",
+"wn": "PREZYDENT M.ST. WARSZAWY",
+"nier": "Przeworska",
+"dz": "146507_8 0212 1/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WIR-IN.6740.10.2024.PKA/PHO"
+}
+},
+{
+"d": "2024-10-28",
+"c": {
+"inw": "BUDOWA CHODNIKA ŁĄCZĄCEGO STACJĘ KOLEJOWĄ WARSZAWA GROCHÓW Z ULICĄ PRZEWORSKĄ budowa nowego/nowych obiektów budowlanych",
+"wn": "PREZYDENT M.ST. WARSZAWY",
+"nier": "Przeworska",
+"dz": "146507_8 0212 6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WIR-IN.6740.10.2024.PKA/PHO"
+}
+},
+{
+"d": "2024-10-28",
+"c": {
+"inw": "BUDOWA CHODNIKA ŁĄCZĄCEGO STACJĘ KOLEJOWĄ WARSZAWA GROCHÓW Z ULICĄ PRZEWORSKĄ budowa nowego/nowych obiektów budowlanych",
+"wn": "PREZYDENT M.ST. WARSZAWY",
+"nier": "Przeworska",
+"dz": "146507_8 0212 7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WIR-IN.6740.10.2024.PKA/PHO"
+}
+},
+{
+"d": "2024-10-28",
+"c": {
+"inw": "BUDOWA CHODNIKA ŁĄCZĄCEGO STACJĘ KOLEJOWĄ WARSZAWA GROCHÓW Z ULICĄ PRZEWORSKĄ budowa nowego/nowych obiektów budowlanych",
+"wn": "PREZYDENT M.ST. WARSZAWY",
+"nier": "Przeworska",
+"dz": "146507_8 0212 10/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WIR-IN.6740.10.2024.PKA/PHO"
+}
+},
+{
+"d": "2024-10-28",
+"c": {
+"inw": "BUDOWA ŁĄCZNIKA POMIĘDZY BUDYNKAMI \"I\", A BUDYNKAMI \"A,B,C,D,F\" ORAZ PRZEBUDOWA KLATKI SCHODOWEJ W BUDYNKU \"B\" budowa nowego/nowych obiektów budowlanych",
+"wn": "PCO S.A.",
+"nier": "Nowaka-Jeziorańskiego 28 / Jana",
+"dz": "146507_8 0521 4/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/33218/24/FSO"
+}
+},
+{
+"d": "2024-10-28",
+"c": {
+"inw": "BUDOWA ŁĄCZNIKA POMIĘDZY BUDYNKAMI \"I\", A BUDYNKAMI \"A,B,C,D,F\" ORAZ PRZEBUDOWA KLATKI SCHODOWEJ W BUDYNKU \"B\" budowa nowego/nowych obiektów budowlanych",
+"wn": "PCO S.A.",
+"nier": "Nowaka-Jeziorańskiego 28 / Jana",
+"dz": "146507_8 0521 4/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/33218/24/FSO"
+}
+},
+{
+"d": "2024-10-28",
+"c": {
+"inw": "BUDOWA ŁĄCZNIKA POMIĘDZY BUDYNKAMI \"I\", A BUDYNKAMI \"A,B,C,D,F\" ORAZ PRZEBUDOWA KLATKI SCHODOWEJ W BUDYNKU \"B\" budowa nowego/nowych obiektów budowlanych",
+"wn": "PCO S.A.",
+"nier": "Nowaka-Jeziorańskiego 28 / Jana",
+"dz": "146507_8 0521 4/29",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/33218/24/FSO"
+}
+},
+{
+"d": "2024-10-28",
+"c": {
+"inw": "BUDOWA ŁĄCZNIKA POMIĘDZY BUDYNKAMI \"I\", A BUDYNKAMI \"A,B,C,D,F\" ORAZ PRZEBUDOWA KLATKI SCHODOWEJ W BUDYNKU \"B\" budowa nowego/nowych obiektów budowlanych",
+"wn": "PCO S.A.",
+"nier": "Nowaka-Jeziorańskiego 28 / Jana",
+"dz": "146507_8 0521 4/36",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/33218/24/FSO"
+}
+},
+{
+"d": "2024-10-24",
+"c": {
+"inw": "PRZEBUDOWA BUDYNKU SZKOŁY PODSTAWOWEJ NR 185 DLA DOSTOSOWANIA DO WYMAGAŃ OCHRONY PRZECIWPOŻAROWEJ wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MASTO STOŁECZNE WARSZAWA DZIELNICA PRAGA-POŁUDNIE",
+"nier": "Bora-Komorowskiego 31 / gen. Tadeusza",
+"dz": "146507_8 0603 25",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM0ROB/33022/24/FSO"
+}
+},
+{
+"d": "2024-10-24",
+"c": {
+"inw": "PRZEBUDOWA BUDYNKU SZKOŁY PODSTAWOWEJ NR 185 DLA DOSTOSOWANIA DO WYMAGAŃ OCHRONY PRZECIWPOŻAROWEJ wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MASTO STOŁECZNE WARSZAWA DZIELNICA PRAGA-POŁUDNIE",
+"nier": "Bora-Komorowskiego 31 / gen. Tadeusza",
+"dz": "146507_8 0603 28/25",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM0ROB/33022/24/FSO"
+}
+},
+{
+"d": "2024-10-21",
+"c": {
+"inw": "BUDOWA SIECI WODOCIĄGOWEJ PO POŁUDNIOWEJ STRONIE OD UL. GROCHOWSKIEJ NA ODCINKU OD WŁĄCZENIA DO WODOCIĄGU DN 250 (ZADANIE 1)W REJONIE UL. MIĘDZYBORSKIEJ DO ZŁĄCZENIA Z PROJEKTOWANĄ SIECIĄ DN 300 (ZADANIE 3) W AL. WASZYNGTONA W WARSZAWIE budowa nowego/nowych obiektów budowlanych",
+"wn": "MIEJSKIE PRZEDSIĘBIORSTWO WODOCIĄGÓW I KANALIZACJI W M.ST. WARSZAWIE S.A.",
+"nier": "Grochowska",
+"dz": "146507_8 0501 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/32594/24/PHO"
+}
+},
+{
+"d": "2024-10-21",
+"c": {
+"inw": "BUDOWA SIECI WODOCIĄGOWEJ PO POŁUDNIOWEJ STRONIE OD UL. GROCHOWSKIEJ NA ODCINKU OD WŁĄCZENIA DO WODOCIĄGU DN 250 (ZADANIE 1)W REJONIE UL. MIĘDZYBORSKIEJ DO ZŁĄCZENIA Z PROJEKTOWANĄ SIECIĄ DN 300 (ZADANIE 3) W AL. WASZYNGTONA W WARSZAWIE budowa nowego/nowych obiektów budowlanych",
+"wn": "MIEJSKIE PRZEDSIĘBIORSTWO WODOCIĄGÓW I KANALIZACJI W M.ST. WARSZAWIE S.A.",
+"nier": "Grochowska",
+"dz": "146507_8 0501 48",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/32594/24/PHO"
+}
+},
+{
+"d": "2024-10-21",
+"c": {
+"inw": "BUDOWA SIECI WODOCIĄGOWEJ PO POŁUDNIOWEJ STRONIE OD UL. GROCHOWSKIEJ NA ODCINKU OD WŁĄCZENIA DO WODOCIĄGU DN 250 (ZADANIE 1)W REJONIE UL. MIĘDZYBORSKIEJ DO ZŁĄCZENIA Z PROJEKTOWANĄ SIECIĄ DN 300 (ZADANIE 3) W AL. WASZYNGTONA W WARSZAWIE budowa nowego/nowych obiektów budowlanych",
+"wn": "MIEJSKIE PRZEDSIĘBIORSTWO WODOCIĄGÓW I KANALIZACJI W M.ST. WARSZAWIE S.A.",
+"nier": "Grochowska",
+"dz": "146507_8 0501 95/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/32594/24/PHO"
+}
+},
+{
+"d": "2024-10-21",
+"c": {
+"inw": "PRZEBUDOWA BUDYNKU ŻŁOBKA NR 33 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "ZESPÓŁ ŻŁOBKÓW M.ST. WARSZAWY",
+"nier": "Umińskiego 9 / Władysława",
+"dz": "146507_8 0606 19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/32561/24/FSO"
+}
+},
+{
+"d": "2024-10-21",
+"c": {
+"inw": "BUDOWA SIECI WODOCIĄGOWEJ PO POŁUDNIOWEJ STRONIE OD UL. GROCHOWSKIEJ NA ODCINKU OD WŁĄCZENIA DO WODOCIĄGU DN 250 (ZADANIE 1)W REJONIE UL. MIĘDZYBORSKIEJ DO ZŁĄCZENIA Z PROJEKTOWANĄ SIECIĄ DN 300 (ZADANIE 3) W AL. WASZYNGTONA W WARSZAWIE budowa nowego/nowych obiektów budowlanych",
+"wn": "MIEJSKIE PRZEDSIĘBIORSTWO WODOCIĄGÓW I KANALIZACJI W M.ST. WARSZAWIE S.A.",
+"nier": "Grochowska",
+"dz": "146507_8 0532 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/32594/24/PHO"
+}
+},
+{
+"d": "2024-10-16",
+"c": {
+"inw": "ROZBIÓRKA OBIEKTU BUDOWLANEGO rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Krypska 31",
+"dz": "146507_8 0505 11",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB//PHO/"
+}
+},
+{
+"d": "2024-10-15",
+"c": {
+"inw": "REMONT ELEWACJI BUDYNKU PRZY GROCHOWSKIEJ 248 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "WSPÓLNOTA MIESZKANIOWA NIERUCHOMOŚCI",
+"nier": "Grochowska 248",
+"dz": "146507_8 0406 92",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/32110/24/PHO"
+}
+},
+{
+"d": "2024-10-15",
+"c": {
+"inw": "PRZEBUDOWA BUDYNKU \"B\" W ZAKRESIE ZAKŁADU DIAGNOSTYKI OBRAZOWEJ wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SZPITAL DZIECIĘCY IM. PROF. DOK. MED. JANA BOGDANOWICZA",
+"nier": "Niekłańska 4/24",
+"dz": "146507_8 0110 81",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/32025/24/AWR"
+}
+},
+{
+"d": "2024-10-14",
+"c": {
+"inw": "BUDOWA URZĄDZENIA REKREACYJNEGO W FORMIE PLATFORMY STARTOWEJ BALONU WIDOKOWEGO NA UWIĘZI Z ZABUDOWĄ TOWARZYSZĄCĄ O FUNKCJI USŁUGOWEJ ORAZ INFRASTRUKTURĄ TECHNICZNĄ budowa nowego/nowych obiektów budowlanych",
+"wn": "AIR SHIP ADVENTURE SP. Z O.O.",
+"nier": "Aleja Księcia Józefa Poniatowskiego 1",
+"dz": "146507_8 0101 12/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/31871/24/PHO"
+}
+},
+{
+"d": "2024-10-11",
+"c": {
+"inw": "BUDOWA BUDYNKU PRODUKCYJNEGO Z CZĘŚCIĄ BIUROWĄ budowa nowego/nowych obiektów budowlanych",
+"wn": "PCO S.A.",
+"nier": "Nowaka-Jeziorańskiego 28 / Jana",
+"dz": "146507_8 0521 4/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/344147/24/FSO"
+}
+},
+{
+"d": "2024-10-11",
+"c": {
+"inw": "BUDOWA BUDYNKU PRODUKCYJNEGO Z CZĘŚCIĄ BIUROWĄ budowa nowego/nowych obiektów budowlanych",
+"wn": "PCO S.A.",
+"nier": "Nowaka-Jeziorańskiego 28 / Jana",
+"dz": "146507_8 0521 4/29",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/344147/24/FSO"
+}
+},
+{
+"d": "2024-10-11",
+"c": {
+"inw": "BUDOWA BUDYNKU PRODUKCYJNEGO Z CZĘŚCIĄ BIUROWĄ budowa nowego/nowych obiektów budowlanych",
+"wn": "PCO S.A.",
+"nier": "Nowaka-Jeziorańskiego 28 / Jana",
+"dz": "146507_8 0521 8/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/344147/24/FSO"
+}
+},
+{
+"d": "2024-10-11",
+"c": {
+"inw": "BUDOWA BUDYNKU PRODUKCYJNEGO Z CZĘŚCIĄ BIUROWĄ budowa nowego/nowych obiektów budowlanych",
+"wn": "PCO S.A.",
+"nier": "Nowaka-Jeziorańskiego 28 / Jana",
+"dz": "146507_8 0521 4/64",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/344147/24/FSO"
+}
+},
+{
+"d": "2024-10-11",
+"c": {
+"inw": "BUDOWA BUDYNKU PRODUKCYJNEGO Z CZĘŚCIĄ BIUROWĄ budowa nowego/nowych obiektów budowlanych",
+"wn": "PCO S.A.",
+"nier": "Nowaka-Jeziorańskiego 28 / Jana",
+"dz": "146507_8 0521 8/21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/344147/24/FSO"
+}
+},
+{
+"d": "2024-10-11",
+"c": {
+"inw": "BUDOWA BUDYNKU PRODUKCYJNEGO Z CZĘŚCIĄ BIUROWĄ budowa nowego/nowych obiektów budowlanych",
+"wn": "PCO S.A.",
+"nier": "Nowaka-Jeziorańskiego 28 / Jana",
+"dz": "146507_8 0521 4/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/344147/24/FSO"
+}
+},
+{
+"d": "2024-10-11",
+"c": {
+"inw": "BUDOWA BUDYNKU PRODUKCYJNEGO Z CZĘŚCIĄ BIUROWĄ budowa nowego/nowych obiektów budowlanych",
+"wn": "PCO S.A.",
+"nier": "Nowaka-Jeziorańskiego 28 / Jana",
+"dz": "146507_8 0521 4/36",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/344147/24/FSO"
+}
+},
+{
+"d": "2024-10-11",
+"c": {
+"inw": "PRZEBUDOWA I ZMIANA SPOSOBU UŻYTKOWANIA CZĘŚCI POMIESZCZEŃ W BLOKU SO BUDYNKU NR 18 DLA POTRZEB REGIONALNEGO CENTRUM MEDYCYNY CYFROWEJ, WOJSKOWEGO CENTRUM KRIWIODAWSTWA I KRWIOLECZNICTWA ORAZ GABINETÓW STOMATOLOGICZNYCH WIM wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "WOJSKOWY INSTYTUT MEDYCZNY PAŃSTWOWY INSTYTUT BADAWCZY",
+"nier": "Szaserów 128",
+"dz": "146507_8 0403 8/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/31854/24/PHO"
+}
+},
+{
+"d": "2024-10-10",
+"c": {
+"inw": "4 BUDYNKI MIESZKALNE, JEDNORODZINNE W ZABUDOWIE BLIŹNIACZEJ budowa nowego/nowych obiektów budowlanych",
+"wn": "ENER EKO GRZEGORZ PIEŃKOWSKI I ARKADIUSZ ŻUKOWSKI S.C.",
+"nier": "Makowska 23",
+"dz": "146507_8 0712 20",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/342244/24/JDO"
+}
+},
+{
+"d": "2024-10-09",
+"c": {
+"inw": "REMONT ORAZ OCIEPLENIE BUDYNKU MIESZKLANEGO WIELORODZINNEGO Z USŁUGAMI W PARTERZE wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "WSPÓLNOTA MIESZAKNIOWA UL. GROCHOWSKA 241",
+"nier": "Grochowska 241",
+"dz": "146507_8 0501 51/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/341823/24/PHO"
+}
+},
+{
+"d": "2024-10-08",
+"c": {
+"inw": "PRZEBUDOWA BUDYNKU MIESZKALNEGO WIELORODZINNEGO POLEGAJĄCA NA DOSTOSOWANIU SZYBU WINDOWEGO ORAZ DŹWIGU W KLATCE NR IV DO KORZYSTANIA Z POZIOMU WEJŚCIA DO BUDYNKU wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SPÓŁDZIELNIA MIESZKANIOWA ORLIK-JANTAR",
+"nier": "Guderskiego 3 / Konrada",
+"dz": "146507_8 0605 50",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/340586/24/FSO"
+}
+},
+{
+"d": "2024-10-08",
+"c": {
+"inw": "PRZEBUDOWA BUDYNKU MIESZKALNEGO WIELORODZINNEGO POLEGAJĄCA NA DOSTOSOWANIU SZYBU WINDOWEGO ORAZ DŹWIGU W KLATCE NR III DO KORZYSTANIA Z POZIOMU WEJŚCIA DO BUDYNKU wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SPÓŁDZIELNIA MIESZKANIOWA ORLIK-JANTAR",
+"nier": "Awionetki RWD 3",
+"dz": "146507_8 0605 49",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/340594/24/FSO"
+}
+},
+{
+"d": "2024-10-03",
+"c": {
+"inw": "REMONT ELEWACJI ORAZ BALKONÓW wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Walecznych 21",
+"dz": "146507_8 0103 217",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/30964/24/AWR"
+}
+},
+{
+"d": "2024-10-03",
+"c": {
+"inw": "PRZEBUDOWA MIESZKANIA W BUDYNKU wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Berezyńska 27A",
+"dz": "146507_8 0103 91",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/30987/24/AWR"
+}
+},
+{
+"d": "2024-10-02",
+"c": {
+"inw": "PRZEBUDOWA-POWIĘKSZENIE OTWORÓW OKIENNYCH W ŚCIANIE ZEWNĘTRZNEJ-ELEWACJI wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Grochowska 357",
+"dz": "146507_8 0204 20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/30774/24/PHO"
+}
+},
+{
+"d": "2024-09-30",
+"c": {
+"inw": "PRZEBUDOWA, ROZBUDOWA I NADBUDOWA PAWILONU III WRAZ Z INNYMI NIEZBĘDNYMI POMIESZCZENIAMI NA TERENIE SZPITALA wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SZPITAL GROCHOWSKI IM. DR MED. RAFAŁA MASZTAKA SP. Z O.O.",
+"nier": "Grenadierów 51/57",
+"dz": "146507_8 0502 75/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/30582/24/AWR"
+}
+},
+{
+"d": "2024-09-30",
+"c": {
+"inw": "PRZEBUDOWA PRZEGRÓD ZEWNĘTRZNYCH W BUDYNKU LAKIERNI wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MIEJSKIE ZAKŁADY AUTOBUSOWE",
+"nier": "Ostrobramska 38",
+"dz": "146507_8 0519 10/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/30375/24"
+}
+},
+{
+"d": "2024-09-30",
+"c": {
+"inw": "PRZEBUDOWA PRZEGRÓD ZEWNĘTRZNYCH W BUDYNKU LAKIERNI wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MIEJSKIE ZAKŁADY AUTOBUSOWE",
+"nier": "Ostrobramska 38",
+"dz": "146507_8 0519 8/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/30375/24"
+}
+},
+{
+"d": "2024-09-26",
+"c": {
+"inw": "BUDOWA WEWNĘTRZNEJ INSTALACJI GAZU wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "ZAKŁAD GOSPODAROWANIA NIERUCHOMOŚCIAMI W DZIELNICY PRAGA-POŁUDNIE",
+"nier": "Stoczkowska 8",
+"dz": "146507_8 0413 40",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/29667/24/FSO"
+}
+},
+{
+"d": "2024-09-26",
+"c": {
+"inw": "ROZBIÓRKA ISTNIEJĄCEGO BUDYNKU MIESZKALNEGO rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Naddnieprzańska 18A",
+"dz": "146507_8 0714 61/4",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/29850/24/JDO"
+}
+},
+{
+"d": "2024-09-23",
+"c": {
+"inw": "PRZEBUDOWA KLATKI SCHODOWEJ W POZIOMIE PIWNIC ORAZ ZAINSTALOWANIE PODNOŚNIKA OSOBOWEGO WEWNĘTRZNEGO W KLATCE SCHODOWEJ wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kobielska 1",
+"dz": "146507_8 0407 147",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/29088/24/PHO"
+}
+},
+{
+"d": "2024-09-20",
+"c": {
+"inw": "BUDOWA TRZECH MIKROINSTALACJI FOTOWOLTAICZNYCH O ŁĄCZNEJ MOCY ZAINSTALOWANEJ 104,5 kW WRAZ Z NIEZBĘDNĄ INFRASTRUKTURĄ wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SZPITAL GROCHOWSKI IM. DR MED. RAFAŁA MASZTAKA SP. Z O. O.",
+"nier": "Grenadierów 51",
+"dz": "146507_8 0502 75/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/28817/24"
+}
+},
+{
+"d": "2024-09-17",
+"c": {
+"inw": "BUDOWA BUDYNKU MIESZKALNEGO WIELORODZINNEGO Z GARAŻEM PODZIEMNYM budowa nowego/nowych obiektów budowlanych",
+"wn": "MYCIELSKIEGO SP. Z O.O.",
+"nier": "Mycielskiego 3 / Ludwika",
+"dz": "146507_8 0406 34/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/28393/24/PHO"
+}
+},
+{
+"d": "2024-09-16",
+"c": {
+"inw": "ROZBIÓRKA BUDYNKU NIEMIESZKALNEGO (BUDYNEK i - INNY) W GRANICY DZIAŁKI rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Żółkiewskiego / Stanisława",
+"dz": "146507_8 0411 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/28293/24/JDO"
+}
+},
+{
+"d": "2024-09-12",
+"c": {
+"inw": "REMONT INSTALACJI WODY ZIMNEJ I KANALIZACJI. BUDOWA INSTALACJI CIEPŁEJ WODY I CYRKULACJI wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "WSPÓLNOTA MIESZKANIOWA LIPSKA 26",
+"nier": "Lipska 26",
+"dz": "146507_8 0104 87",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/27868/24/AWR"
+}
+},
+{
+"d": "2024-09-11",
+"c": {
+"inw": "PRZEBUDOWA DACHU WRAZ Z ADAPTACJĄ STRYCHU rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Kawcza 53",
+"dz": "146507_8 0509 56",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/27651/24/FSO"
+}
+},
+{
+"d": "2024-09-06",
+"c": {
+"inw": "WYMIANA FASADY W LOKALU USŁUGOWYM wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "FANCY FOODS SP. Z O.O.",
+"nier": "Walecznych 74",
+"dz": "146507_8 0111 32",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/27050/24/AWR"
+}
+},
+{
+"d": "2024-08-28",
+"c": {
+"inw": "PRZEBUDOWA OKIEN W ELEWACJI BUDYNKU BIUROWO-USŁUGOWEGO ARTIUM PROMENADA wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "G-CITY POLAND SP. Z O.O.",
+"nier": "Ostrobramska 75C",
+"dz": "146507_8 0524 22",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/25852/24/FSO"
+}
+},
+{
+"d": "2024-08-28",
+"c": {
+"inw": "PRZEBUDOWA OKIEN W ELEWACJI BUDYNKU BIUROWO-USŁUGOWEGO ARTIUM PROMENADA wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "G-CITY POLAND SP. Z O.O.",
+"nier": "Ostrobramska 75C",
+"dz": "146507_8 0524 24",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/25852/24/FSO"
+}
+},
+{
+"d": "2024-08-27",
+"c": {
+"inw": "PRZEBUDOWA (ZABUDOWA TARASU) BUDYNKU JEDNORODZINNEGO W ZABUDOWIE BLIŹNIACZEJ wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Poselska 13A",
+"dz": "146507_8 0108 64",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/25645/24/AWR"
+}
+},
+{
+"d": "2024-08-26",
+"c": {
+"inw": "PROJEKT INWENTARYZACJI STANU ISTNIEJĄCEGO ORAZ PROJEKT ROZBIÓRKI BUDYNKÓW Z TOWARZYSZĄCĄ INFRASTRUKTURĄ rozbiórka istniejącego obiektu budowlanego",
+"wn": "PROJECT DEVELOPMENT GRUP SP. Z O.O.",
+"nier": "Jordanowska 8",
+"dz": "146507_8 0714 59/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-KO/15885/24/JDO"
+}
+},
+{
+"d": "2024-08-14",
+"c": {
+"inw": "PRZEBUDOWA Z NADBUDOWĄ BUDYNKU MIESZKALNEGO WIELORODZINNEGO WRAZ Z NIEZBĘDNĄ INFRASTRUKTURĄ TECHNICZNĄ nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "MIASTO STOŁECZNE WARSZAWA, ZAKŁAD GOSPODAROWANIA NIERUCHOMOŚCIAMI W DZIELNICY PRAGA POŁUDNIE M.ST. WARSZAWY",
+"nier": "Lubartowska 22",
+"dz": "146507_8 0412 106/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/24301/24/FSO"
+}
+},
+{
+"d": "2024-08-14",
+"c": {
+"inw": "PRZEBUDOWA Z NADBUDOWĄ BUDYNKU MIESZKALNEGO WIELORODZINNEGO WRAZ Z NIEZBĘDNĄ INFRASTRUKTURĄ TECHNICZNĄ nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "MIASTO STOŁECZNE WARSZAWA, ZAKŁAD GOSPODAROWANIA NIERUCHOMOŚCIAMI W DZIELNICY PRAGA POŁUDNIE M.ST. WARSZAWY",
+"nier": "Lubartowska 22",
+"dz": "146507_8 0412 106/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/24301/24/FSO"
+}
+},
+{
+"d": "2024-08-14",
+"c": {
+"inw": "PRZEBUDOWA Z NADBUDOWĄ BUDYNKU MIESZKALNEGO WIELORODZINNEGO WRAZ Z NIEZBĘDNĄ INFRASTRUKTURĄ TECHNICZNĄ nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "MIASTO STOŁECZNE WARSZAWA, ZAKŁAD GOSPODAROWANIA NIERUCHOMOŚCIAMI W DZIELNICY PRAGA POŁUDNIE M.ST. WARSZAWY",
+"nier": "Lubartowska 22",
+"dz": "146507_8 0412 103",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/24301/24/FSO"
+}
+},
+{
+"d": "2024-08-12",
+"c": {
+"inw": "DOCIEPLENIE STROPODACHU I REMONT DACHU BUDYNKÓW PRZY UL. AWIONETKI RWD 1 AWIONETKI RWD 3 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SPÓŁDZIELNIA MIESZKANIOWA \"ORLIK-JANTAR\"",
+"nier": "Awionetki RWD 1,3",
+"dz": "146507_8 0605 49",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/23836/24"
+}
+},
+{
+"d": "2024-08-09",
+"c": {
+"inw": "PRZEBUDOWA STACJI ELEKTROENERGETYCZNEJ RSM DĄBRÓWKI wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "STOEN OPERATOR SP. Z O.O.",
+"nier": "Dąbrówki 21",
+"dz": "146507_8 0104 62",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/23701/24/AWR"
+}
+},
+{
+"d": "2024-08-09",
+"c": {
+"inw": "PROJEKT BUDOWLANY PRZEBUDOWY BUDYNKU GOSPODARCZEGO POLEGAJĄCY NA POWIĘKSZENIU OTWORU DRZWIOWEGO POD BRAMĘ GARAŻOWĄ, WYBURZENIU CZĘŚCI ŚCIANEK DZIAŁOWYCH WEWNĘTRZNYCH ORAZ REMONTU WEWNĘTRZNEGO BUDYNKU wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "ZGROMADZENIE SIÓSTR MATKI BOŻEJ MIŁOSIERDZIA",
+"nier": "Hetmańska 44",
+"dz": "146507_8 0411 7/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/23645/24/JDO"
+}
+},
+{
+"d": "2024-08-06",
+"c": {
+"inw": "PRZEBUDOWA WINDY ZEWNĘTRZNEJ PRZY BUDYNKU ZESPOŁU SZKÓŁ NR 5 IM. STEFANA KISIELEWSKIEGO wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "URZĄD M. ST. WARSZAWY",
+"nier": "Szczawnicka 1",
+"dz": "146507_8 0513 13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/23161/24/FSO"
+}
+},
+{
+"d": "2024-07-30",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z lokalami usługowymi, z garażem na parterze i garażem podziemnym wraz z rozbiórką garaży i wiaty śmietnikowej budowa nowego/nowych obiektów budowlanych",
+"wn": "GOLDEN INVESTMENTS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+"nier": "Lubiniecka",
+"dz": "146507_8 0412 135/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/22190/24/FSO"
+}
+},
+{
+"d": "2024-07-30",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z lokalami usługowymi, z garażem na parterze i garażem podziemnym wraz z rozbiórką garaży i wiaty śmietnikowej budowa nowego/nowych obiektów budowlanych",
+"wn": "GOLDEN INVESTMENTS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+"nier": "Lubiniecka",
+"dz": "146507_8 0412 137/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/22190/24/FSO"
+}
+},
+{
+"d": "2024-07-30",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z lokalami usługowymi, z garażem na parterze i garażem podziemnym wraz z rozbiórką garaży i wiaty śmietnikowej budowa nowego/nowych obiektów budowlanych",
+"wn": "GOLDEN INVESTMENTS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+"nier": "Lubiniecka",
+"dz": "146507_8 0412 137/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/22190/24/FSO"
+}
+},
+{
+"d": "2024-07-30",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z lokalami usługowymi, z garażem na parterze i garażem podziemnym wraz z rozbiórką garaży i wiaty śmietnikowej budowa nowego/nowych obiektów budowlanych",
+"wn": "GOLDEN INVESTMENTS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+"nier": "Lubiniecka",
+"dz": "146507_8 0412 137/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/22190/24/FSO"
+}
+},
+{
+"d": "2024-07-30",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z lokalami usługowymi, z garażem na parterze i garażem podziemnym wraz z rozbiórką garaży i wiaty śmietnikowej budowa nowego/nowych obiektów budowlanych",
+"wn": "GOLDEN INVESTMENTS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+"nier": "Lubiniecka",
+"dz": "146507_8 0412 137/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/22190/24/FSO"
+}
+},
+{
+"d": "2024-07-30",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z lokalami usługowymi, z garażem na parterze i garażem podziemnym wraz z rozbiórką garaży i wiaty śmietnikowej budowa nowego/nowych obiektów budowlanych",
+"wn": "GOLDEN INVESTMENTS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+"nier": "Lubiniecka",
+"dz": "146507_8 0412 137/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/22190/24/FSO"
+}
+},
+{
+"d": "2024-07-30",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z lokalami usługowymi, z garażem na parterze i garażem podziemnym wraz z rozbiórką garaży i wiaty śmietnikowej budowa nowego/nowych obiektów budowlanych",
+"wn": "GOLDEN INVESTMENTS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+"nier": "Lubiniecka",
+"dz": "146507_8 0412 137/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/22190/24/FSO"
+}
+},
+{
+"d": "2024-07-30",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z lokalami usługowymi, z garażem na parterze i garażem podziemnym wraz z rozbiórką garaży i wiaty śmietnikowej budowa nowego/nowych obiektów budowlanych",
+"wn": "GOLDEN INVESTMENTS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+"nier": "Lubiniecka",
+"dz": "146507_8 0412 137/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/22190/24/FSO"
+}
+},
+{
+"d": "2024-07-30",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z lokalami usługowymi, z garażem na parterze i garażem podziemnym wraz z rozbiórką garaży i wiaty śmietnikowej budowa nowego/nowych obiektów budowlanych",
+"wn": "GOLDEN INVESTMENTS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+"nier": "Lubiniecka",
+"dz": "146507_8 0412 228",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/22190/24/FSO"
+}
+},
+{
+"d": "2024-07-26",
+"c": {
+"inw": "PRZEBUDOWA MIESZKANIA 3 i 8 BUDYNKU MIESZKLANEGO WIELORODZINNEGO W POSTACI WYKONANIA OTWORU W STROPIE W CELU POŁĄCZENIA DWÓCH LOKALI wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Styrska 13",
+"dz": "146507_8 0416 120",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/21937/24/FSO"
+}
+},
+{
+"d": "2024-07-23",
+"c": {
+"inw": "Projekt budowy wewnątrzbudynkowej instalacji światłowodowej oraz montaż mufy wraz z kablem w osłonie rury RL w piwnicy budynku przy ul. Katowicka 8 w Warszawie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "ŚWIATŁOWÓD INWESTYCJE SP. Z O.O.",
+"nier": "Katowicka 8",
+"dz": "146507_8 0108 69",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/270661/24/AWR"
+}
+},
+{
+"d": "2024-07-22",
+"c": {
+"inw": "PRZEBUDOWA ELEWACJI POLEGAJĄCA NA POWIĘKSZENIU ISTNIEJĄCEGO OTWORU OKIENNEGO wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Dąbrowiecka 8",
+"dz": "146507_8 0108 49",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/21567/24/AWR"
+}
+},
+{
+"d": "2024-07-18",
+"c": {
+"inw": "ROZBIÓRKA BUDYNKÓW AEROKLUBU WRSZAWSKIEGO HANGARU NR 1 i 2 rozbiórka istniejącego obiektu budowlanego",
+"wn": "DANTEX HOLDING SP. Z O.O.",
+"nier": "Wał Miedzeszyński 646",
+"dz": "146507_8 0603 14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/21259/24/AWR"
+}
+},
+{
+"d": "2024-07-15",
+"c": {
+"inw": "PRZEBUDOWA BUDYNKU MIESZKALNEGO JEDNORODZINNEGO W ZABUDOWIE SZEREGOWEJ wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Obrońców 21",
+"dz": "146507_8 0107 69",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/21002/24/AWR"
+}
+},
+{
+"d": "2024-07-12",
+"c": {
+"inw": "PRZEBUDOWA LOKALU MIESZKALNEGO W BUDYNKU MIESZKALNYM WIELORODZINNYM wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Zwycięzców 4B",
+"dz": "146507_8 0112 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/263272/24/AWR"
+}
+},
+{
+"d": "2024-07-11",
+"c": {
+"inw": "PRZEBUDOWA WEWNĘTRZNEJ INSTALACJI GAZOWEJ W BUDYNKU MIESZKALNYM WIELORODZINNYM wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "WSPÓŁWŁAŚCICIELE NIERUCHOMOŚCI PRZY UL. WALECZNYCH 44",
+"nier": "Walecznych 44",
+"dz": "146507_8 0109 62",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/20721/24/AWR"
+}
+},
+{
+"d": "2024-07-10",
+"c": {
+"inw": "REMONT ELEWACJI ORAZ BALKONÓW WRAZ Z ICH ROZBUDOWĄ W ZAKRESIE POWIĘKSZENIA PŁYTY NOŚNEJ, WYMIANA BALUSTRAD, REMONT I PRZEDŁUŻENIE DASZKÓW NAD BALKONAMI BUDYNKU MIESZKALNEGO WIELORODZINNEGO wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SPÓŁDZIELNIA MIESZKANIOWA \"GOCŁAW-LOTNISKO\"",
+"nier": "Mikołajczyka 6 / Stanisława",
+"dz": "146507_8 0607 3/41",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/20590/24/FSO"
+}
+},
+{
+"d": "2024-07-09",
+"c": {
+"inw": "PRZEBICIE STROPU I BUDOWA SCHODÓW POMIĘDZY LOKALAMI MIESZKALNYMI ZLOKALIZOWANYMI PRZY UL. PODSKARBIŃSKIEJ 9, LOKALE NR 45 I 47 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Podskarbińska 9",
+"dz": "146507_8 0208 13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/20536/24/PHO"
+}
+},
+{
+"d": "2024-07-02",
+"c": {
+"inw": "BUDYNEK O PRZEZNACZENIU TURYSTYCZNYM Z APARTAMENTAMI HOTELOWYMI Z USŁUGAMI W PARERZE ORAZ GARAŻEM PODZIEMNYM I PARKINGIEM NAZIEMNYM budowa nowego/nowych obiektów budowlanych",
+"wn": "HOTEL GROCHOWSKA SP. Z O.O.",
+"nier": "Grochowska",
+"dz": "146507_8 0530 21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/19830/24/FSO"
+}
+},
+{
+"d": "2024-07-02",
+"c": {
+"inw": "BUDYNEK O PRZEZNACZENIU TURYSTYCZNYM Z APARTAMENTAMI HOTELOWYMI Z USŁUGAMI W PARERZE ORAZ GARAŻEM PODZIEMNYM I PARKINGIEM NAZIEMNYM budowa nowego/nowych obiektów budowlanych",
+"wn": "HOTEL GROCHOWSKA SP. Z O.O.",
+"nier": "Grochowska",
+"dz": "146507_8 0530 20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/19830/24/FSO"
+}
+},
+{
+"d": "2024-07-02",
+"c": {
+"inw": "BUDOWA ULICY ŻUPNICZEJ W RAMACH REALIZACJI ZESPOŁU MIESZKANIOWEGO W WARSZAWIE WRAZ Z ODWODNIENIEM, OŚWIETLENIEM I KANAŁE TECHNOLOGICZNYM NA ODCINKU 163M BUDOWA JEZDNI ORAZ NA ODCINKU 373M BUDOWA ZATOK, ŚCIEŻKI ROWEROWEJ I CHODNIKÓW budowa nowego/nowych obiektów budowlanych",
+"wn": "VICTORIA DOM S.A.",
+"nier": "Żupnicza",
+"dz": "146507_8 0203 11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/19801/24/PHO"
+}
+},
+{
+"d": "2024-07-02",
+"c": {
+"inw": "BUDOWA ULICY ŻUPNICZEJ W RAMACH REALIZACJI ZESPOŁU MIESZKANIOWEGO W WARSZAWIE WRAZ Z ODWODNIENIEM, OŚWIETLENIEM I KANAŁE TECHNOLOGICZNYM NA ODCINKU 163M BUDOWA JEZDNI ORAZ NA ODCINKU 373M BUDOWA ZATOK, ŚCIEŻKI ROWEROWEJ I CHODNIKÓW budowa nowego/nowych obiektów budowlanych",
+"wn": "VICTORIA DOM S.A.",
+"nier": "Żupnicza",
+"dz": "146507_8 0203 10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/19801/24/PHO"
+}
+},
+{
+"d": "2024-07-02",
+"c": {
+"inw": "BUDOWA ULICY ŻUPNICZEJ W RAMACH REALIZACJI ZESPOŁU MIESZKANIOWEGO W WARSZAWIE WRAZ Z ODWODNIENIEM, OŚWIETLENIEM I KANAŁE TECHNOLOGICZNYM NA ODCINKU 163M BUDOWA JEZDNI ORAZ NA ODCINKU 373M BUDOWA ZATOK, ŚCIEŻKI ROWEROWEJ I CHODNIKÓW budowa nowego/nowych obiektów budowlanych",
+"wn": "VICTORIA DOM S.A.",
+"nier": "Żupnicza",
+"dz": "146507_8 0203 8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/19801/24/PHO"
+}
+},
+{
+"d": "2024-07-02",
+"c": {
+"inw": "PRZEBUDOWA ISTNIEJĄCEJ STACJI GAZOWEJ ŚREDNIEGO CIŚNIENIA wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MODERNA HOLDING SP. Z O.O.",
+"nier": "Zamoyskiego 24A / Jana",
+"dz": "146507_8 0204 7/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-KO/12423/24/PHO"
+}
+},
+{
+"d": "2024-06-28",
+"c": {
+"inw": "wniosek o wydanie decyzji o zmianie pozwolenia na budowę 3/PPD/PB/2024 budynek mieszkalny wielorodzinny z usługami w parterze i garażem podziemnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa GOCŁAW LOTNISKO",
+"nier": "Złotej Wilgi 2",
+"dz": "146507_8 0606 14/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/19491/24"
+}
+},
+{
+"d": "2024-06-26",
+"c": {
+"inw": "PROJEKT ARCHITEKTONICZNO-BUDOWLANY INSTALACJI GAZOWEJ DLA BUDYNKU MIESZKALNEGO WIELORODZINNEGO budowa nowego/nowych obiektów budowlanych",
+"wn": "FORUS SP. Z O.O.",
+"nier": "Pokrzywnicka 11",
+"dz": "146507_8 0405 117",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/19217/24/FSO"
+}
+},
+{
+"d": "2024-06-24",
+"c": {
+"inw": "ZESPÓŁ BUDYNKÓW MIESZKALNYCH WIELORODZINNYCH Z GARAŻEM PODZIEMNYM I INFRASTRUKTURĄ TECHNICZNĄ budowa nowego/nowych obiektów budowlanych",
+"wn": "ANEO INVESTMENT SP. Z O.O.",
+"nier": "Karczewska",
+"dz": "146507_8 0507 31/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/18853/24/FSO"
+}
+},
+{
+"d": "2024-06-24",
+"c": {
+"inw": "ZESPÓŁ BUDYNKÓW MIESZKALNYCH WIELORODZINNYCH Z GARAŻEM PODZIEMNYM I INFRASTRUKTURĄ TECHNICZNĄ budowa nowego/nowych obiektów budowlanych",
+"wn": "ANEO INVESTMENT SP. Z O.O.",
+"nier": "Karczewska",
+"dz": "146507_8 0507 31/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/18853/24/FSO"
+}
+},
+{
+"d": "2024-06-24",
+"c": {
+"inw": "ZESPÓŁ BUDYNKÓW MIESZKALNYCH WIELORODZINNYCH Z GARAŻEM PODZIEMNYM I INFRASTRUKTURĄ TECHNICZNĄ budowa nowego/nowych obiektów budowlanych",
+"wn": "ANEO INVESTMENT SP. Z O.O.",
+"nier": "Karczewska",
+"dz": "146507_8 0507 36/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/18853/24/FSO"
+}
+},
+{
+"d": "2024-06-24",
+"c": {
+"inw": "ZESPÓŁ BUDYNKÓW MIESZKALNYCH WIELORODZINNYCH Z GARAŻEM PODZIEMNYM I INFRASTRUKTURĄ TECHNICZNĄ budowa nowego/nowych obiektów budowlanych",
+"wn": "ANEO INVESTMENT SP. Z O.O.",
+"nier": "Karczewska",
+"dz": "146507_8 0507 36/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/18853/24/FSO"
+}
+},
+{
+"d": "2024-06-24",
+"c": {
+"inw": "ZESPÓŁ BUDYNKÓW MIESZKALNYCH WIELORODZINNYCH Z GARAŻEM PODZIEMNYM I INFRASTRUKTURĄ TECHNICZNĄ budowa nowego/nowych obiektów budowlanych",
+"wn": "ANEO INVESTMENT SP. Z O.O.",
+"nier": "Karczewska",
+"dz": "146507_8 0507 107",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/18853/24/FSO"
+}
+},
+{
+"d": "2024-06-19",
+"c": {
+"inw": "ROBOTY BUDOWLANE POLEGAJĄCE NA WYMIANIE RUR SPUSTOWYCH ORAZ RYNIEN I OBRÓBEK BLACHARSKICH NA DACHU wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "URZĄD M.ST. WARSZAWY ZAKŁAD GOSPODAROWANIA NIERUCHOMOŚCIAMI W DZIELNICY PRAGA-POŁUDNIE",
+"nier": "Skaryszewska 15",
+"dz": "146507_8 0201 6/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/18564/24/PHO"
+}
+},
+{
+"d": "2024-06-19",
+"c": {
+"inw": "PRZEBUDOWA I ZMIANA SPOSOBU UŻYTKOWANIA CZĘŚCI PARTERU BUDYNKU PARAFIALNEGO NA ŻŁOBEK, URZĄDZENIE OGÓLNODOSTĘPNEGO PLACU ZABAW I WYDZIELENIE MIEJSC PARKINGOWYCH wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PPHU BTP ANNA KUNSTLE PRZEDSZKOLE ANGLOJĘZYCZNE \"HAPPY TIME\" PRYWATNA SZKOŁA PODSTAWOWA \"WONDERFUL YEARS SCHOOL\" ŻŁOBEK ABRAKADABRA",
+"nier": "Ateńska 12",
+"dz": "146507_8 0123 3/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/18501/24/AWR"
+}
+},
+{
+"d": "2024-06-17",
+"c": {
+"inw": "REMONT FRAGMENTU ŚCIANY WSCHODNIEJ BUDYNKU UŻYTECZNOŚCI PUBLICZNEJ wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SKARB PAŃSTWA REPREZENTOWANY PRZEZ DYREKTORA ODDZIAŁU REGIONALNEGO KRUS W WARSZAWIE PANA ZENONA KOWALEWSKIEGO",
+"nier": "Mińska 25",
+"dz": "146507_8 0202 24",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/18250/24/PHO"
+}
+},
+{
+"d": "2024-06-11",
+"c": {
+"inw": "ROZBIÓRKA BUDYNKU MIESZKALNEGO WIELORODZINNEGO WYŁĄCZONEGO Z EKSPLOATACJI rozbiórka istniejącego obiektu budowlanego",
+"wn": "MYCIELSKIEGO SP. Z O.O.",
+"nier": "Mycielskiego 2 i 3 / Ludwika",
+"dz": "146507_8 0406 34/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/17794/24/PHO"
+}
+},
+{
+"d": "2024-06-07",
+"c": {
+"inw": "ZMIZNA SPOSOBU UŻYTKOWANIA MODUŁOWEGO SZPITALA WOJSKOWEGO INSTYTUTU MADYCZNEGO PAŃSTWOWEGO INSTYTUTU BADAWCZEGO wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "WOJSKOWY INSTYTUT MEDYCZNY PAŃSTWOWY INSTYTUT BADAWCZY",
+"nier": "Szaserów 128",
+"dz": "146507_8 0403 8/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/17424/24/PHO"
+}
+},
+{
+"d": "2024-06-06",
+"c": {
+"inw": "ROZBUDOWA Z NADBUDOWĄ BUDYNKU MIESZKALNEGO JEDNORODZINNEGO W ZABUDWOIE SZEREGOWEJ rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Złoczowska 4",
+"dz": "146507_8 0119 131",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/230100/24/AWR"
+}
+},
+{
+"d": "2024-06-05",
+"c": {
+"inw": "ROBOTY BUDOWLANE ZWIĄZANE Z PODZIAŁEM LOKALU MIESZKALNEGO NA 2 ODRĘBNE LOKALE MIESZKALNE wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Osiecka 33",
+"dz": "146507_8 0509 178/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/17219/24/FSO"
+}
+},
+{
+"d": "2024-06-05",
+"c": {
+"inw": "REMONT ELEWACJI BUDYNKU MIESZKALNEGO WIELORODZINNEGO wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "WSPÓLNOTA MIESZKANIOWA NIERUCHOMOŚCI PRZY UL. BEREZYŃSKIEJ 29",
+"nier": "Berezyńska 29",
+"dz": "146507_8 0104 90",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/215842/24/AWR"
+}
+},
+{
+"d": "2024-05-29",
+"c": {
+"inw": "BUDOWA DROGI DLA PIESZYCH I ROWERÓW A ALEI WEDLA budowa nowego/nowych obiektów budowlanych",
+"wn": "M.ST. WARSZAWA REPREZENTOWANE PRZEZ ZASTĘPCĘ BURMISTRZA BOŻENĘ PRZYBYSZEWSKĄ I ZASTĘPCĘ BURMISTRZA KAROLA KOWALCZYKA",
+"nier": "Aleja Emila Wedla",
+"dz": "146507_8 0204 16/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WIR-I.7013.19.2022MGO/PHO"
+}
+},
+{
+"d": "2024-05-29",
+"c": {
+"inw": "BUDOWA DROGI DLA PIESZYCH I ROWERÓW A ALEI WEDLA budowa nowego/nowych obiektów budowlanych",
+"wn": "M.ST. WARSZAWA REPREZENTOWANE PRZEZ ZASTĘPCĘ BURMISTRZA BOŻENĘ PRZYBYSZEWSKĄ I ZASTĘPCĘ BURMISTRZA KAROLA KOWALCZYKA",
+"nier": "Aleja Emila Wedla",
+"dz": "146507_8 0204 15/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WIR-I.7013.19.2022MGO/PHO"
+}
+},
+{
+"d": "2024-05-29",
+"c": {
+"inw": "BUDOWA BUDYNKU MIESZKALNEGO WIELORODZINNEGO WRAZ Z LOKALAMI USŁUGOWYMI, GARAŻEM PODZIEMNYM NIEZBĘDNĄ INFRASTRUKTURĄ TECHICZNA I ZAGOSPODAROWANIEM TERENU budowa nowego/nowych obiektów budowlanych",
+"wn": "JJ RESIDENTIAL SP. Z O.O.",
+"nier": "Sulejkowska 27, 29",
+"dz": "146507_8 0515 40",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/185808/24/FSO"
+}
+},
+{
+"d": "2024-05-29",
+"c": {
+"inw": "BUDOWA BUDYNKU MIESZKALNEGO WIELORODZINNEGO WRAZ Z LOKALAMI USŁUGOWYMI, GARAŻEM PODZIEMNYM NIEZBĘDNĄ INFRASTRUKTURĄ TECHICZNA I ZAGOSPODAROWANIEM TERENU budowa nowego/nowych obiektów budowlanych",
+"wn": "JJ RESIDENTIAL SP. Z O.O.",
+"nier": "Sulejkowska 27, 29",
+"dz": "146507_8 0516 41",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/185808/24/FSO"
+}
+},
+{
+"d": "2024-05-28",
+"c": {
+"inw": "BUDYNEK MIESZKALNY WIELORODZINNY W FORMIE KAMIENICZKI budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Zapałczana 4",
+"dz": "146507_8 0415 85",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/182511/24/FSO"
+}
+},
+{
+"d": "2024-05-27",
+"c": {
+"inw": "WYKONANIE ROBÓT BUDOWLANYCH MAJĄCYCH NA CELU ZABEZPIECZENIE BUDYNKU ZESPOŁU SZKÓŁ SPECJALNYCH NR 89 PRZED NIPOŻĄDANYM DZIAŁANIEM WODY wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "M.ST. WARSZAWA REPREZENTOWANE PRZEZ DYREKTORA ZESPOŁU SZKOŁ SPECJALNYCH NR 89 W WARSZAWIE",
+"nier": "Skaryszewska 8",
+"dz": "146507_8 0201 10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/16384/24/PHO"
+}
+},
+{
+"d": "2024-05-15",
+"c": {
+"inw": "przebudowa zewnętrznej ściany budynku w zakresie powiększenia otworu okiennego kotłowni wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Towarzystwo Budownictwa Społecznego Warszawa Południe Spółka z o. o",
+"nier": "Szaserów 133",
+"dz": "146510_8 0407 10/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/15382/24"
+}
+},
+{
+"d": "2024-05-10",
+"c": {
+"inw": "BUDOWA INSTALACJI GAZOWEJ DO BUDYNKU MIESZKALNEGO JEDNORODZINNEGO budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Sztabowa 24",
+"dz": "146507_8 0415 88",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-KO/9029/24/FSO"
+}
+},
+{
+"d": "2024-05-09",
+"c": {
+"inw": "BUDOWA KONTENEROWEJ STACJI TRANSFORMATOROWEJ Sn/nn15/0,4 kV ORAZ KABLOWEJ SIECI ELEKTROENERGETYCZNEJ ŚREDNIEGO NAPIĘCIA Sn-15kV i NISKIEGO NAPIĘCIA nN-0,4 kV budowa nowego/nowych obiektów budowlanych",
+"wn": "STOEN OPERATOR SP. Z O.O.",
+"nier": "Chłopickiego / Józefa",
+"dz": "146507_8 0303 34",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/14723/24/PHO"
+}
+},
+{
+"d": "2024-05-09",
+"c": {
+"inw": "REMONT I OCIEPLENIE ELEWACJI BUDYNKU MIESZKALNEGO WIELORODZINNEGO wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "WSPÓLNOTA MIESZKANIOWA \"WSPÓLNA DROGA14\"",
+"nier": "Wspólna Droga 14",
+"dz": "146507_8 0408 12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/14764/24/FSO"
+}
+},
+{
+"d": "2024-05-09",
+"c": {
+"inw": "REMONT I OCIEPLENIE ELEWACJI BUDYNKU MIESZKALNEGO WIELORODZINNEGO wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "WSPÓLNOTA MIESZKANIOWA \"WSPÓLNA DROGA14\"",
+"nier": "Wspólna Droga 14",
+"dz": "146507_8 0408 14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/14764/24/FSO"
+}
+},
+{
+"d": "2024-05-08",
+"c": {
+"inw": "PRZEBUDOWA PRZEGRÓD ZEWNĘTRZNYCH W OBRĘBIE LOKALU HANDLOWO-USŁUGOWEGOBIEDRONKA W BUDYNKU MIESZKALNYM Z USŁUGAMI W PARTERZE wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "JERONIMO MARTINS POLSKA S.A.",
+"nier": "Aleja Jerzego Waszyngtona 96",
+"dz": "146507_8 0502 7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-KO/8897/24/PHO"
+}
+},
+{
+"d": "2024-05-08",
+"c": {
+"inw": "PRZEBUDOWA PRZEGRÓD ZEWNĘTRZNYCH W OBRĘBIE LOKALU HANDLOWO-USŁUGOWEGOBIEDRONKA W BUDYNKU MIESZKALNYM Z USŁUGAMI W PARTERZE wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "JERONIMO MARTINS POLSKA S.A.",
+"nier": "Aleja Jerzego Waszyngtona 96",
+"dz": "146507_8 0502 6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-KO/8897/24/PHO"
+}
+},
+{
+"d": "2024-04-30",
+"c": {
+"inw": "PROJEKT BUDOWLANY DOPOSAŻENIA W INSTALACJĘ CIEPŁEJ WODY, CENTRALNEGO OGRZEWANIA I KOCIOŁ GAZOWY W LOKALU MIESZKALNYM NR 3 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MIASTO STOŁECZNE WARSZAWA REPREZENTOWANE PRZEZ ZGN W DZIELNICY PRAGA-POŁUDNIE",
+"nier": "Styki 22 / Jana",
+"dz": "146507_8 0109 74",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/14197/24/AWR"
+}
+},
+{
+"d": "2024-04-26",
+"c": {
+"inw": "BUDYNEK MIESZKALNY WIELORODZINNY budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Zapałczana 4",
+"dz": "146507_8 0415 85",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/150951/24/FSO"
+}
+},
+{
+"d": "2024-04-19",
+"c": {
+"inw": "NADBUDOWA BUDYNKU MIESZKALNEGO JEDNORODZINNEGO nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Złoczowska 14A",
+"dz": "146507_8 0119 100",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/12827/24/AWR"
+}
+},
+{
+"d": "2024-04-19",
+"c": {
+"inw": "NADBUDOWA BUDYNKU MIESZKALNEGO JEDNORODZINNEGO nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Złoczowska 14A",
+"dz": "146507_8 0119 101/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/12827/24/AWR"
+}
+},
+{
+"d": "2024-04-12",
+"c": {
+"inw": "POŁACZENIE SĄSIEDNICH LOKALI MIESZKALNYCH JAKO JEDEN LOKAL MIESZKALNY W BUDYNKU WIELORODZINNYM wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Łukowska 31",
+"dz": "146507_8 0515 68/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/11971/24/FSO"
+}
+},
+{
+"d": "2024-04-11",
+"c": {
+"inw": "ROZBUDOWA BUDYNKU MIESZKALNEGO WIELORODZINNEGO O SZYB DŹWIGOWY WRAZ Z ZADASZENIEM NA PARTERZE rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "SPÓŁDZIELNIA MIESZKANIOWA \"OSOWSKA\"",
+"nier": "Szaserów 113",
+"dz": "146507_8 0408 7/27",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/11935/24/FSO"
+}
+},
+{
+"d": "2024-04-11",
+"c": {
+"inw": "PRZEBUDOWA CZĘŚCI BUDYNKU NR 4 PIT-RADWAR S.A. WRAZ ZE ZMIZNĄ SPOSOBU UŻYTKOWANIA CZĘŚCI POMIESZCZEŃ: NA PARTERZE Z POMIESZCZEŃ OCHRONY NA POMIESZCZENIA MAGAZYNOWE, NA POZIOMIE +2 Z POMIESZCZEŃ WARSZTATOWYCH, MAGAZYNOWYCH, POMIESZCZEŃ KIEROWNICTWA I ARCHIWUM ADMINISTRACJI NA POMIESZCZENIA MAGAZYNOWE I BIUROWE, POWIĄZANE FUNKCJONALNIE ZE STREFĄ MAGAZYNOWĄ wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PIT-RADWAR S.A.",
+"nier": "Poligonowa 30",
+"dz": "146507_8 0521 4/24",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/11931/24/AWR"
+}
+},
+{
+"d": "2024-04-11",
+"c": {
+"inw": "ROZBUDOWA BUDYNKU MIESZKALNEGO WIELORODZINNEGO O SZYB DŹWIGOWY WRAZ Z ZADASZENIEM NA PARTERZE rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "SPÓŁDZIELNIA MIESZKANIOWA \"OSOWSKA\"",
+"nier": "Szaserów 115",
+"dz": "146507_8 0408 7/26",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/11937/24/FSO"
+}
+},
+{
+"d": "2024-04-11",
+"c": {
+"inw": "ROZBUDOWA BUDYNKU MIESZKALNEGO WIELORODZINNEGO O SZYB DŹWIGOWY WRAZ Z ZADASZENIEM NA PARTERZE rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "SPÓŁDZIELNIA \"OSOWSKA\"",
+"nier": "Szaserów 121",
+"dz": "146507_8 0408 7/15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/11936/24/FSO"
+}
+},
+{
+"d": "2024-04-11",
+"c": {
+"inw": "ROZBUDOWA BUDYNKU MIESZKALNEGO WIELORODZINNEGO O SZYB DŹWIGOWY WRAZ Z ZADASZENIEM NA PARTERZE rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "SPÓŁDZIELNIA MIESZKANIOWA \"OSOWSKA\"",
+"nier": "Garwolińska 18",
+"dz": "146507_8 0408 7/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/11938/24/FSO"
+}
+},
+{
+"d": "2024-04-10",
+"c": {
+"inw": "PROJEKT BUDOWLANY ROZBIÓRKI SZYBU WINDOWEGO PRZY BUDYNKU \"A\" rozbiórka istniejącego obiektu budowlanego",
+"wn": "BEATA MAŁGORZATA MYDŁOWSKA \"SZKOŁY BEATY MYDŁOWSKIEJ\"",
+"nier": "Kaleńska 3",
+"dz": "146507_8 0406 91",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/11810/24/PHO"
+}
+},
+{
+"d": "2024-04-09",
+"c": {
+"inw": "ZESPÓŁ DWÓCH BUDYNKÓW MIESZKALNYCH WIELORODZINNYCH Z GARAŻEM W PARTERZE I PARKINGIEM PODZIEMNYM budowa nowego/nowych obiektów budowlanych",
+"wn": "TPPI S.A.",
+"nier": "Serocka 21, 23",
+"dz": "146507_8 0412 51",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/11642/24/FSO"
+}
+},
+{
+"d": "2024-04-09",
+"c": {
+"inw": "ZESPÓŁ DWÓCH BUDYNKÓW MIESZKALNYCH WIELORODZINNYCH Z GARAŻEM W PARTERZE I PARKINGIEM PODZIEMNYM budowa nowego/nowych obiektów budowlanych",
+"wn": "TPPI S.A.",
+"nier": "Serocka 21, 23",
+"dz": "146507_8 0412 52",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/11642/24/FSO"
+}
+},
+{
+"d": "2024-04-09",
+"c": {
+"inw": "ZESPÓŁ DWÓCH BUDYNKÓW MIESZKALNYCH WIELORODZINNYCH Z GARAŻEM W PARTERZE I PARKINGIEM PODZIEMNYM budowa nowego/nowych obiektów budowlanych",
+"wn": "TPPI S.A.",
+"nier": "Serocka 21, 23",
+"dz": "146507_8 0412 54",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/11642/24/FSO"
+}
+},
+{
+"d": "2024-04-08",
+"c": {
+"inw": "REMONT ELEWACJI ORAZ BALKONU wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "WSPÓLNOTA MIESZKANIOWA OSIECKA 41",
+"nier": "Osiecka 41",
+"dz": "146507_8 0509 132",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/11528/24/FSO"
+}
+},
+{
+"d": "2024-04-08",
+"c": {
+"inw": "REMONT ELEWACJI ORAZ BALKONU wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "WSPÓLNOTA MIESZKANIOWA OSIECKA 41",
+"nier": "Osiecka 41",
+"dz": "146507_8 0509 131",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/11528/24/FSO"
+}
+},
+{
+"d": "2024-04-08",
+"c": {
+"inw": "BUDOWA INSTALACJI GAZOWEJ WEWNĘTRZNEJ W BUDYNKU WIELORODZINNYM Z GARAŻEM NADZIEMNYM wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SPÓŁDZIELNIA BUDOWNICTWA MIESZKANIOWEGO \"TARAS\"",
+"nier": "Koprzywiańska 1B",
+"dz": "146507_8 0416 136",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/11544/24/FSO"
+}
+},
+{
+"d": "2024-04-06",
+"c": {
+"inw": "ROZBUDOWA I PRZEBUDOWA BUDYNKU ZWIĄZANA Z BUDOWĄ SZYBU DLA DŹWIGU OSOBOWEGO WRAZ Z ROZBIÓRKĄ POMIESZCZENIA GOSPODARCZEGO (KOMORY ZSYPU)I POMIESZCZEŃ ZSYPOWYCH rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "SPÓŁDZIELNIA MIESZKANIOWA \"PRZYCZÓŁEK GROCHOWSKI\"",
+"nier": "Kwarciana 1",
+"dz": "146507_8 0525 33",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/125633/24/FSO"
+}
+},
+{
+"d": "2024-04-06",
+"c": {
+"inw": "ROZBUDOWA I PRZEBUDOWA BUDYNKU ZWIĄZANA Z BUDOWĄ SZYBU DLA DŹWIGU OSOBOWEGO WRAZ Z ROZBIÓRKĄ POMIESZCZENIA GOSPODARCZEGO (KOMORY ZSYPU)I POMIESZCZEŃ ZSYPOWYCH rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "SPÓŁDZIELNIA MIESZKANIOWA \"PRZYCZÓŁEK GROCHOWSKI\"",
+"nier": "Kwarciana 1",
+"dz": "146507_8 0525 21/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/125633/24/FSO"
+}
+},
+{
+"d": "2024-04-05",
+"c": {
+"inw": "ROZBUDOWA I PRZEBUDOWA BUDYNKU SZKOŁY PODSTAWOWEJ NR 255 WRAZ Z ROZBIÓRKĄ CZĘŚCI MIESZKALNEJ BUDYNKU SZKOLNEGO rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "MIASTO ST. WARSZAWA DZIELNICA PRAGA POŁUDNIE",
+"nier": "Kamionkowska 36/44",
+"dz": "146507_8 0206 80",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/11366/24/PHO"
+}
+},
+{
+"d": "2024-04-05",
+"c": {
+"inw": "ROZBUDOWA I PRZEBUDOWA BUDYNKU SZKOŁY PODSTAWOWEJ NR 255 WRAZ Z ROZBIÓRKĄ CZĘŚCI MIESZKALNEJ BUDYNKU SZKOLNEGO rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "MIASTO ST. WARSZAWA DZIELNICA PRAGA POŁUDNIE",
+"nier": "Kamionkowska 36/44",
+"dz": "146507_8 0206 78",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/11366/24/PHO"
+}
+},
+{
+"d": "2024-03-28",
+"c": {
+"inw": "BUDOWA BUDYNKU MIESZKALNEGO WIELORODZINNEGO Z GARAŻEM PODZIEMNYM WRAZ Z NIEZBEDNĄ INFRASTRUKTURĄ I ZAGOSPODAROWANIEM TERENU budowa nowego/nowych obiektów budowlanych",
+"wn": "ZJEDNOCZONE PRZEDSIĘBIORSTWA ROZRYWKOWE S.A.",
+"nier": "Żółkiewskiego 56 A / Stanisława",
+"dz": "146507_8 0411 2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/10564/24/FSO"
+}
+},
+{
+"d": "2024-03-27",
+"c": {
+"inw": "BUDYNEK MIESZKALNY WIELORODZINNY Z GARAŻEM WIELOSTANOWISKOWYM NADZIEMNYM W BRYLE BUDYNKU ORAZ URZĄDZENIAMI BUDOWLANYMI W TYM Z INSTALACJĄ GAZOWĄ budowa nowego/nowych obiektów budowlanych",
+"wn": "VIGO 1 SP. Z O. O.",
+"nier": "Zapałczana 9",
+"dz": "146507_8 0415 66",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/10373/24"
+}
+},
+{
+"d": "2024-03-22",
+"c": {
+"inw": "REMONT, PRZEBUDOWA I NADBUDOWA ISTNIEJĄCEGO BUDYNKU, NA BUDYNEK REKREACYJNO-USŁUGOWY - ZMIANA POZWOLENIA NA BUDOWĘ 76/22 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "KŁOBUCKA PROJEKT sp. z o.o",
+"nier": "Wał Miedzeszyński 389",
+"dz": "146507_8 0121 6/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/9901/24/AWR"
+}
+},
+{
+"d": "2024-03-22",
+"c": {
+"inw": "PRZEBUDOWA BUDYNKU WIELORODZINNEGO POLEGAJĄCA NA DOSTOSOWANIU HOLU WEJŚCIOWEGO, SZYBU WINDOWEGO ORAZ DŹWIGU W KLATKACH 1 i 2 DO KORZYSTANIA Z POZIOMU WEJŚCIA DO BUDYNKU wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SPÓŁDZIELNIA MIESZKANIOWA ORLIK-JANTAR",
+"nier": "Bora-Komorowskiego 33 / gen. Tadeusza",
+"dz": "086101_1 0002 39/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/9831/24"
+}
+},
+{
+"d": "2024-03-20",
+"c": {
+"inw": "ROZBIÓRKA BUDYNKU USŁUGOWEGO rozbiórka istniejącego obiektu budowlanego",
+"wn": "SYRENA VIII SP. Z O.O.",
+"nier": "Siennicka 29",
+"dz": "146507_8 0211 8/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/9537/24/PHO"
+}
+},
+{
+"d": "2024-03-20",
+"c": {
+"inw": "BUDOWA BUDYNKU MIESZKALNEGO WIELORODZONNEGO Z USŁUGAMI W PARTERZE, GARAŻEM PODZIEMNYM budowa nowego/nowych obiektów budowlanych",
+"wn": "CONSTI SP. Z O.O.",
+"nier": "Tarnowiecka 33",
+"dz": "146507_8 0509 190/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/9457/24/FSO"
+}
+},
+{
+"d": "2024-03-20",
+"c": {
+"inw": "BUDOWA BUDYNKU MIESZKALNEGO WIELORODZONNEGO Z USŁUGAMI W PARTERZE, GARAŻEM PODZIEMNYM budowa nowego/nowych obiektów budowlanych",
+"wn": "CONSTI SP. Z O.O.",
+"nier": "Tarnowiecka 33",
+"dz": "146507_8 0509 190/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/9457/24/FSO"
+}
+},
+{
+"d": "2024-03-20",
+"c": {
+"inw": "BUDOWA BUDYNKU MIESZKALNEGO WIELORODZONNEGO Z USŁUGAMI W PARTERZE, GARAŻEM PODZIEMNYM budowa nowego/nowych obiektów budowlanych",
+"wn": "CONSTI SP. Z O.O.",
+"nier": "Tarnowiecka 33",
+"dz": "146507_8 0509 191",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/9457/24/FSO"
+}
+},
+{
+"d": "2024-03-20",
+"c": {
+"inw": "BUDOWA BUDYNKU MIESZKALNEGO WIELORODZONNEGO Z USŁUGAMI W PARTERZE, GARAŻEM PODZIEMNYM budowa nowego/nowych obiektów budowlanych",
+"wn": "CONSTI SP. Z O.O.",
+"nier": "Tarnowiecka 33",
+"dz": "146507_8 0509 193",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/9457/24/FSO"
+}
+},
+{
+"d": "2024-03-20",
+"c": {
+"inw": "BUDYNEK MIESZKALNY WIELORODZINNY Z GARAŻEM PODZIEMNYM budowa nowego/nowych obiektów budowlanych",
+"wn": "SYRENA VIII SP. Z O.O.",
+"nier": "Siennicka 29",
+"dz": "146507_8 0211 8/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/9539/24/PHO"
+}
+},
+{
+"d": "2024-03-19",
+"c": {
+"inw": "WYKONANIE OTWORU W ŚCIANIE KONSTRUKCYJNEJ BUDYNKU wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Guderskiego 7 / Konrada",
+"dz": "146507_8 0605 50",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/9266/24/JGA"
+}
+},
+{
+"d": "2024-03-18",
+"c": {
+"inw": "ROZBUDOWA, NADBUDOWA I PRZEBUDOWA BUDYNKU MIESZKALNEGO JEDNORODZINNEGO rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Marsa 13",
+"dz": "146507_8 0714 98",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/9177/24/FSO"
+}
+},
+{
+"d": "2024-03-15",
+"c": {
+"inw": "BUDOWA BUDYNKU MIESZKALNEGO WIELORODZINNEGO Z GARAŻEM PODZIEMNYM WRAZ Z ZAGOSPODAROWANIEM TERENU budowa nowego/nowych obiektów budowlanych",
+"wn": "KOMO MARIANNA I KRZYSZTOF ORZESZAK SP. J",
+"nier": "Krypska 33",
+"dz": "146507_8 0505 12/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/9051/24/FSO"
+}
+},
+{
+"d": "2024-03-14",
+"c": {
+"inw": "PRZEBUDOWA DACHU, WYKONANIE SCHODÓW I PRZEBUDOWA LOKALU 2 W BUDYNKU MIESZKALNYM JEDNORODZINNYM wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kawcza 53",
+"dz": "146507_8 0509 56",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/8719/24/FSO"
+}
+},
+{
+"d": "2024-03-11",
+"c": {
+"inw": "ROZBIÓRKA BUDYNKÓW I INNYCH - BUDYNEK NR 1, 3, 33 - WRAZ Z ELEMENTAMI ARCH. ZAGOSPODAROWANIA TERENU, BUDYNEK NR 34, PRZYBUDÓWKA 4C, 17A, 17B, 17C - WIATA, PRZYBUDÓWKA NR 11 , WIATY STALOWE 2A i 2 c ... rozbiórka istniejącego obiektu budowlanego",
+"wn": "GROCHOWSKA 301/305 SP. Z O. O. SP. K.",
+"nier": "Grochowska 301/305",
+"dz": "146507_8 0531 26/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/8268/24/PHO"
+}
+},
+{
+"d": "2024-03-11",
+"c": {
+"inw": "ROZBIÓRKA BUDYNKÓW I INNYCH - BUDYNEK NR 1, 3, 33 - WRAZ Z ELEMENTAMI ARCH. ZAGOSPODAROWANIA TERENU, BUDYNEK NR 34, PRZYBUDÓWKA 4C, 17A, 17B, 17C - WIATA, PRZYBUDÓWKA NR 11 , WIATY STALOWE 2A i 2 c ... rozbiórka istniejącego obiektu budowlanego",
+"wn": "GROCHOWSKA 301/305 SP. Z O. O. SP. K.",
+"nier": "Grochowska 301/305",
+"dz": "146507_8 0531 26/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/8268/24/PHO"
+}
+},
+{
+"d": "2024-03-11",
+"c": {
+"inw": "ROZBIÓRKA BUDYNKÓW I INNYCH - BUDYNEK NR 1, 3, 33 - WRAZ Z ELEMENTAMI ARCH. ZAGOSPODAROWANIA TERENU, BUDYNEK NR 34, PRZYBUDÓWKA 4C, 17A, 17B, 17C - WIATA, PRZYBUDÓWKA NR 11 , WIATY STALOWE 2A i 2 c ... rozbiórka istniejącego obiektu budowlanego",
+"wn": "GROCHOWSKA 301/305 SP. Z O. O. SP. K.",
+"nier": "Grochowska 301/305",
+"dz": "146507_8 0531 26/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/8268/24/PHO"
+}
+},
+{
+"d": "2024-03-11",
+"c": {
+"inw": "ROZBIÓRKA PIWNICY POD HALĄ NR 5 I SCHODAMI ZEWNETRZNYMI DO PIWNICY rozbiórka istniejącego obiektu budowlanego",
+"wn": "GROCHOWSKA 301/305 SP. Z O. O. SP. K.",
+"nier": "Grochowska 301/305",
+"dz": "146507_8 0531 26/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/8266/24/PHO"
+}
+},
+{
+"d": "2024-03-11",
+"c": {
+"inw": "ROZBIÓRKA OGRODZEŃ rozbiórka istniejącego obiektu budowlanego",
+"wn": "GROCHOWSKA 301/305 SP. Z O. O. SP. K.",
+"nier": "Grochowska 301/305",
+"dz": "146507_8 0531 26/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/8267/24/PHO"
+}
+},
+{
+"d": "2024-03-08",
+"c": {
+"inw": "ZMIANA ELEWACJI BUDYNKU POPRZEZ POWIĘKSZENIE TRZECH OTWORÓW OKIENNYCH W SUTERYNIE BUDYNKU DO ROZMIARU DRZWI ORAZ WYKONANIE ZEWNĘTRZNYCH SCHODÓW TERENOWYCH I PRZEBUDOWA OGRODZENIA wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Lipska 20",
+"dz": "146507_8 0103 109",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/8155/24/FSO"
+}
+},
+{
+"d": "2024-03-08",
+"c": {
+"inw": "ZMIANA ELEWACJI BUDYNKU POPRZEZ POWIĘKSZENIE TRZECH OTWORÓW OKIENNYCH W SUTERYNIE BUDYNKU DO ROZMIARU DRZWI ORAZ WYKONANIE ZEWNĘTRZNYCH SCHODÓW TERENOWYCH I PRZEBUDOWA OGRODZENIA wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Lipska 20",
+"dz": "146507_8 0103 110",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/8155/24/FSO"
+}
+},
+{
+"d": "2024-03-08",
+"c": {
+"inw": "PROJEKT POWIĘKSZENIA OTWORU DZIOENNEGO W ŚCIANIE ZEWNĘTRZNEJ W KAMIENICY WIELORODZINNEJ wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Adampolska 3",
+"dz": "146507_8 0105 74",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/8124/24/AWR"
+}
+},
+{
+"d": "2024-03-08",
+"c": {
+"inw": "BUDOWA TARASU rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Szczawnicka 12C",
+"dz": "146507_8 0513 42",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/8185/24/AWR"
+}
+},
+{
+"d": "2024-03-05",
+"c": {
+"inw": "ROZBIÓRKA BUDYNKU USŁUGOWEGO rozbiórka istniejącego obiektu budowlanego",
+"wn": "DEVELIA S.A.",
+"nier": "16",
+"dz": "146507_8 0211 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/7675/24/PHO"
+}
+},
+{
+"d": "2024-03-01",
+"c": {
+"inw": "ROZBIÓRKA BUDYNKÓW MIESZKALNO USŁUGOWEGO ORAZ GARAŻOWEGO rozbiórka istniejącego obiektu budowlanego",
+"wn": "CONSTI SP. Z O.O.",
+"nier": "Tarnowiecka 33, 33B",
+"dz": "146507_8 0509 191",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/7211/24/FSO"
+}
+},
+{
+"d": "2024-03-01",
+"c": {
+"inw": "ROZBIÓRKA BUDYNKÓW MIESZKALNO USŁUGOWEGO ORAZ GARAŻOWEGO rozbiórka istniejącego obiektu budowlanego",
+"wn": "CONSTI SP. Z O.O.",
+"nier": "Tarnowiecka 33, 33B",
+"dz": "146507_8 0509 193",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/7211/24/FSO"
+}
+},
+{
+"d": "2024-02-29",
+"c": {
+"inw": "PRZEBUDOWA I REMONT CZĘŚCI OBIEKTU BUDOWLANEGO wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Peszteńska 12",
+"dz": "146507_8 0105 104",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/7093/24/AWR"
+}
+},
+{
+"d": "2024-02-26",
+"c": {
+"inw": "BUDYNEK MIESZKALNY - OFICYNA MUROWANA NIEPODPIWNICZONA I BUDYNEK NIEMIESZKALNY - BUDYNEK GOSPODARCZY DREWNIANY rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Zapałczana 9",
+"dz": "146507_8 0415 66",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/6519/24/FSO"
+}
+},
+{
+"d": "2024-02-22",
+"c": {
+"inw": "PRZEBUDOWA I REMONT BUDYNKU DOMU STUDENCKIEGO NR 3 UNIWERSYTETU WARSZAWSKIEGO wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "UNIWERSYTET WARSZAWSKI",
+"nier": "Kickiego 12 / Ludwika",
+"dz": "146507_8 0406 22",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/6133/24/PHO"
+}
+},
+{
+"d": "2024-02-21",
+"c": {
+"inw": "Rozbiórka budynku „D\" szkolno-magazynowego ( dawnej wiaty) i dwóch magazynów blaszanych rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Kaleńska 3",
+"dz": "146507_8 0406 91",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/6099/24/PHO"
+}
+},
+{
+"d": "2024-02-20",
+"c": {
+"inw": "PRZEBUDOWA INSTALACJI GAZOWEJ W BUDYNKU MIESZKALNYM WIELORIDZINNYM wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "WSPÓLNOTA MIESZKANIOWA",
+"nier": "Chłopickiego 51 / Józefa",
+"dz": "146507_8 0306 3/22",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/5918/24/PHO"
+}
+},
+{
+"d": "2024-02-16",
+"c": {
+"inw": "PRZEBUDOWA FRAGMENTU ELEWACJI BUDYNKU GALERII HANDLOWO USŁUGOWEJ ARTIUM PROMENADA wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CH PROMENADA SP. Z O.O.",
+"nier": "Ostrobramska 75C",
+"dz": "146507_8 0524 36",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "PEUM/1541/24/JGA"
+}
+},
+{
+"d": "2024-02-16",
+"c": {
+"inw": "PRZEBUDOWA FRAGMENTU ELEWACJI BUDYNKU GALERII HANDLOWO USŁUGOWEJ ARTIUM PROMENADA wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CH PROMENADA SP. Z O.O.",
+"nier": "Ostrobramska 75C",
+"dz": "146507_8 0524 32",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "PEUM/1541/24/JGA"
+}
+},
+{
+"d": "2024-02-16",
+"c": {
+"inw": "PRZEBUDOWA FRAGMENTU ELEWACJI BUDYNKU GALERII HANDLOWO USŁUGOWEJ ARTIUM PROMENADA wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CH PROMENADA SP. Z O.O.",
+"nier": "Ostrobramska 75C",
+"dz": "146507_8 0524 31",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "PEUM/1541/24/JGA"
+}
+},
+{
+"d": "2024-02-16",
+"c": {
+"inw": "PRZEBUDOWA FRAGMENTU ELEWACJI BUDYNKU GALERII HANDLOWO USŁUGOWEJ ARTIUM PROMENADA wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CH PROMENADA SP. Z O.O.",
+"nier": "Ostrobramska 75C",
+"dz": "146507_8 0524 30",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "PEUM/1541/24/JGA"
+}
+},
+{
+"d": "2024-02-16",
+"c": {
+"inw": "PRZEBUDOWA FRAGMENTU ELEWACJI BUDYNKU GALERII HANDLOWO USŁUGOWEJ ARTIUM PROMENADA wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CH PROMENADA SP. Z O.O.",
+"nier": "Ostrobramska 75C",
+"dz": "146507_8 0524 28/30",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "PEUM/1541/24/JGA"
+}
+},
+{
+"d": "2024-02-16",
+"c": {
+"inw": "PRZEBUDOWA FRAGMENTU ELEWACJI BUDYNKU GALERII HANDLOWO USŁUGOWEJ ARTIUM PROMENADA wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CH PROMENADA SP. Z O.O.",
+"nier": "Ostrobramska 75C",
+"dz": "146507_8 0524 28/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "PEUM/1541/24/JGA"
+}
+},
+{
+"d": "2024-02-16",
+"c": {
+"inw": "PRZEBUDOWA FRAGMENTU ELEWACJI BUDYNKU GALERII HANDLOWO USŁUGOWEJ ARTIUM PROMENADA wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CH PROMENADA SP. Z O.O.",
+"nier": "Ostrobramska 75C",
+"dz": "146507_8 0524 24",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "PEUM/1541/24/JGA"
+}
+},
+{
+"d": "2024-02-16",
+"c": {
+"inw": "PRZEBUDOWA FRAGMENTU ELEWACJI BUDYNKU GALERII HANDLOWO USŁUGOWEJ ARTIUM PROMENADA wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CH PROMENADA SP. Z O.O.",
+"nier": "Ostrobramska 75C",
+"dz": "146507_8 0524 23",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "PEUM/1541/24/JGA"
+}
+},
+{
+"d": "2024-02-16",
+"c": {
+"inw": "PRZEBUDOWA FRAGMENTU ELEWACJI BUDYNKU GALERII HANDLOWO USŁUGOWEJ ARTIUM PROMENADA wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CH PROMENADA SP. Z O.O.",
+"nier": "Ostrobramska 75C",
+"dz": "146507_8 0524 22",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "PEUM/1541/24/JGA"
+}
+},
+{
+"d": "2024-02-16",
+"c": {
+"inw": "PRZEBUDOWA FRAGMENTU ELEWACJI BUDYNKU GALERII HANDLOWO USŁUGOWEJ ARTIUM PROMENADA wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CH PROMENADA SP. Z O.O.",
+"nier": "Ostrobramska 75C",
+"dz": "146507_8 0524 21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "PEUM/1541/24/JGA"
+}
+},
+{
+"d": "2024-02-16",
+"c": {
+"inw": "PRZEBUDOWA FRAGMENTU ELEWACJI BUDYNKU GALERII HANDLOWO USŁUGOWEJ ARTIUM PROMENADA wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CH PROMENADA SP. Z O.O.",
+"nier": "Ostrobramska 75C",
+"dz": "146507_8 0524 20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "PEUM/1541/24/JGA"
+}
+},
+{
+"d": "2024-02-16",
+"c": {
+"inw": "PRZEBUDOWA FRAGMENTU ELEWACJI BUDYNKU GALERII HANDLOWO USŁUGOWEJ ARTIUM PROMENADA wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CH PROMENADA SP. Z O.O.",
+"nier": "Ostrobramska 75C",
+"dz": "146507_8 0524 19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "PEUM/1541/24/JGA"
+}
+},
+{
+"d": "2024-02-16",
+"c": {
+"inw": "PRZEBUDOWA FRAGMENTU ELEWACJI BUDYNKU GALERII HANDLOWO USŁUGOWEJ ARTIUM PROMENADA wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CH PROMENADA SP. Z O.O.",
+"nier": "Ostrobramska 75C",
+"dz": "146507_8 0524 15/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "PEUM/1541/24/JGA"
+}
+},
+{
+"d": "2024-02-16",
+"c": {
+"inw": "PRZEBUDOWA FRAGMENTU ELEWACJI BUDYNKU GALERII HANDLOWO USŁUGOWEJ ARTIUM PROMENADA wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CH PROMENADA SP. Z O.O.",
+"nier": "Ostrobramska 75C",
+"dz": "146507_8 0524 16/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "PEUM/1541/24/JGA"
+}
+},
+{
+"d": "2024-02-16",
+"c": {
+"inw": "PRZEBUDOWA FRAGMENTU ELEWACJI BUDYNKU GALERII HANDLOWO USŁUGOWEJ ARTIUM PROMENADA wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CH PROMENADA SP. Z O.O.",
+"nier": "Ostrobramska 75C",
+"dz": "146507_8 0524 16/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "PEUM/1541/24/JGA"
+}
+},
+{
+"d": "2024-02-13",
+"c": {
+"inw": "zmiana pozwolenia na budowę wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "P U BART-BUD S.C. EWA I HENRYK BARTOS",
+"nier": "Naddnieprzańska 9",
+"dz": "146507_8 0713 157",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/5134/24/JGA"
+}
+},
+{
+"d": "2024-02-08",
+"c": {
+"inw": "ROZBIÓRKA BUDYNKÓW GOSPODARCZYCH WRAZ Z PRZYŁĄCZENIAMI rozbiórka istniejącego obiektu budowlanego",
+"wn": "DOBRA FORMA 2 SP. Z O.O.",
+"nier": "Mińska 17",
+"dz": "146507_8 0202 22",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/4543/24/PHO"
+}
+},
+{
+"d": "2024-01-29",
+"c": {
+"inw": "REMONT I POGŁEBIENIE PRZYZIEMIA ZABYTKOWEGO BUDYNKU wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Obrońców 15",
+"dz": "146507_8 0107 66",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/25268/24/FSO"
+}
+},
+{
+"d": "2024-01-29",
+"c": {
+"inw": "PRZEBUDOWA BUDYNKU \"E\" POZIOM -1 NA POTRZEBY ODDZIAŁU PEDIATRII wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SZPITAL DZIECIĘCY IM. PROF. DOK. MED. JANA BOGDANOWICZA",
+"nier": "Niekłańska 4/24",
+"dz": "146507_8 0110 81",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/2936/24/DSZ"
+}
+},
+{
+"d": "2024-01-22",
+"c": {
+"inw": "BUDOWA ŁĄCZNIKA POMIĘDZY BUDYNKIEM \"I\", A BUDYNKIEM \"A, B, C, D, F\" ORAZ PRZEBUDOWA KLATKI SCHODOWEJ W BUDYNKU \"B\" budowa nowego/nowych obiektów budowlanych",
+"wn": "PCO S.A.",
+"nier": "Nowaka-Jeziorańskiego 28 / Jana",
+"dz": "146507_8 0521 4/36",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/2087/24/DSZ"
+}
+},
+{
+"d": "2024-01-22",
+"c": {
+"inw": "BUDOWA ŁĄCZNIKA POMIĘDZY BUDYNKIEM \"I\", A BUDYNKIEM \"A, B, C, D, F\" ORAZ PRZEBUDOWA KLATKI SCHODOWEJ W BUDYNKU \"B\" budowa nowego/nowych obiektów budowlanych",
+"wn": "PCO S.A.",
+"nier": "Nowaka-Jeziorańskiego 28 / Jana",
+"dz": "146507_8 0521 4/29",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/2087/24/DSZ"
+}
+},
+{
+"d": "2024-01-22",
+"c": {
+"inw": "BUDOWA ŁĄCZNIKA POMIĘDZY BUDYNKIEM \"I\", A BUDYNKIEM \"A, B, C, D, F\" ORAZ PRZEBUDOWA KLATKI SCHODOWEJ W BUDYNKU \"B\" budowa nowego/nowych obiektów budowlanych",
+"wn": "PCO S.A.",
+"nier": "Nowaka-Jeziorańskiego 28 / Jana",
+"dz": "146507_8 0521 4/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/2087/24/DSZ"
+}
+},
+{
+"d": "2024-01-22",
+"c": {
+"inw": "BUDOWA ŁĄCZNIKA POMIĘDZY BUDYNKIEM \"I\", A BUDYNKIEM \"A, B, C, D, F\" ORAZ PRZEBUDOWA KLATKI SCHODOWEJ W BUDYNKU \"B\" budowa nowego/nowych obiektów budowlanych",
+"wn": "PCO S.A.",
+"nier": "Nowaka-Jeziorańskiego 28 / Jana",
+"dz": "146507_8 0521 4/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/2087/24/DSZ"
+}
+},
+{
+"d": "2024-01-19",
+"c": {
+"inw": "NADBUDOWA, PRZEBUDOWA I ROZBUDOWA BUDYNKU MIESZKALNEGO JEDNORODZINNEGO rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Aldony 14 / Królowej",
+"dz": "146507_8 0109 134",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/2000/24/FSO"
+}
+},
+{
+"d": "2024-01-18",
+"c": {
+"inw": "PRZEBUDOWA LOKALU MIESZKLANEGO NR 8 i 9 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Francuska 11 A",
+"dz": "146507_8 0108 99",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/1803/24/FSO"
+}
+},
+{
+"d": "2024-01-17",
+"c": {
+"inw": "BUDYNEK MIESZKALNY WIELORODZINNY ORAZ WIATA (ZADASZENIE MIEJSC POSTOJOWYCH Z ZIELONYM STROPODACHEM) budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Gdecka 21",
+"dz": "146507_8 0508 35",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/1600/24/FSO"
+}
+},
+{
+"d": "2024-01-17",
+"c": {
+"inw": "ROZBIÓRKA BUDYNKU MIESZKALNEGO JEDNORODZINNEGO Z PODPIWNICZENIEM I PODDADZEM rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Gdecka 21",
+"dz": "146507_8 0508 35",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/1599/24/FSO"
+}
+},
+{
+"d": "2024-01-10",
+"c": {
+"inw": "ROZBIÓRKA BUDYNKÓW SALONU SAMOCHODOWEGO rozbiórka istniejącego obiektu budowlanego",
+"wn": "MARVIPOL DEVELOPMENT S.A.",
+"nier": "Aleja Jerzego Waszyngtona 50",
+"dz": "146507_8 0111 3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/8717/24/DSZ"
+}
+},
+{
+"d": "2024-01-10",
+"c": {
+"inw": "ROZBIÓRKA BUDYNKÓW SALONU SAMOCHODOWEGO rozbiórka istniejącego obiektu budowlanego",
+"wn": "MARVIPOL DEVELOPMENT S.A.",
+"nier": "Aleja Jerzego Waszyngtona 50",
+"dz": "146507_8 0111 2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/8717/24/DSZ"
+}
+},
+{
+"d": "2024-01-09",
+"c": {
+"inw": "PRZEBUDOWA I REMONT BUDYNKU DOMU STUDENCKIEGO NR 3 UNIWERSYTETU WARSZAWSKIEGO wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "UNIWERSYTET WARSZAWSKI",
+"nier": "Kickiego 9 / Ludwika",
+"dz": "146507_8 0406 17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VI-WOM-ROB/677/24/PHO"
+}
+}
+]
+},
+{
+"id": "dec_pnb",
+"name": "Decyzje o pozwoleniu na budowę",
+"short": "Decyzje PnB",
+"desc": "Decyzje o pozwoleniu na budowę wydane przez organ architektoniczno-budowlany dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer decyzji",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2024-12-20",
+"c": {
+"inw": "PROJEKT PRZEBUDOWY BUDYNKU MIESZKALNEGO WIELORODZINNEGO W CZĘŚCI MIESZKALNEJ LOKALI NR 21 ORAZ 22 POLEGAJĄCEJ NA UTWORZENIU OTWORU W ŚCIANIE NOŚNEJ wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Libijska 14C",
+"dz": "146507_8 0124 41",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "215/PPD/PB/2024"
+}
+},
+{
+"d": "2024-12-19",
+"c": {
+"inw": "BUDOWA URZĄDZENIA REKREACYJNEGO W FORMIE PLATFORMY STARTOWEJ BALONU WIDOKOWEGO NA UWIĘZI Z ZABUDOWĄ TOWARZYSZĄCĄ O FUNKCJI USŁUGOWEJ ORAZ INFRASTRUKTURĄ TECHNICZNĄ budowa nowego/nowych obiektów budowlanych",
+"wn": "AIR SHIP ADVENTURE SP. Z O.O.",
+"nier": "Aleja Księcia Józefa Poniatowskiego 1",
+"dz": "146507_8 0101 12/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "214/PPD/PB/2024"
+}
+},
+{
+"d": "2024-12-18",
+"c": {
+"inw": "ROZBIÓRKA OBIEKTU BUDOWLANEGO rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Krypska 31",
+"dz": "146507_8 0505 11",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "213/PPD/PB/2024/R"
+}
+},
+{
+"d": "2024-12-17",
+"c": {
+"inw": "BUDOWA SIECI WODOCIĄGOWEJ PO POŁUDNIOWEJ STRONIE OD UL. GROCHOWSKIEJ NA ODCINKU OD WŁĄCZENIA DO WODOCIĄGU DN 250 (ZADANIE 1)W REJONIE UL. MIĘDZYBORSKIEJ DO ZŁĄCZENIA Z PROJEKTOWANĄ SIECIĄ DN 300 (ZADANIE 3) W AL. WASZYNGTONA W WARSZAWIE budowa nowego/nowych obiektów budowlanych",
+"wn": "MIEJSKIE PRZEDSIĘBIORSTWO WODOCIĄGÓW I KANALIZACJI W M.ST. WARSZAWIE S.A.",
+"nier": "Grochowska",
+"dz": "146507_8 0501 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "212/PPD/PB/2024"
+}
+},
+{
+"d": "2024-12-17",
+"c": {
+"inw": "BUDOWA SIECI WODOCIĄGOWEJ PO POŁUDNIOWEJ STRONIE OD UL. GROCHOWSKIEJ NA ODCINKU OD WŁĄCZENIA DO WODOCIĄGU DN 250 (ZADANIE 1)W REJONIE UL. MIĘDZYBORSKIEJ DO ZŁĄCZENIA Z PROJEKTOWANĄ SIECIĄ DN 300 (ZADANIE 3) W AL. WASZYNGTONA W WARSZAWIE budowa nowego/nowych obiektów budowlanych",
+"wn": "MIEJSKIE PRZEDSIĘBIORSTWO WODOCIĄGÓW I KANALIZACJI W M.ST. WARSZAWIE S.A.",
+"nier": "Grochowska",
+"dz": "146507_8 0501 48",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "212/PPD/PB/2024"
+}
+},
+{
+"d": "2024-12-17",
+"c": {
+"inw": "BUDOWA SIECI WODOCIĄGOWEJ PO POŁUDNIOWEJ STRONIE OD UL. GROCHOWSKIEJ NA ODCINKU OD WŁĄCZENIA DO WODOCIĄGU DN 250 (ZADANIE 1)W REJONIE UL. MIĘDZYBORSKIEJ DO ZŁĄCZENIA Z PROJEKTOWANĄ SIECIĄ DN 300 (ZADANIE 3) W AL. WASZYNGTONA W WARSZAWIE budowa nowego/nowych obiektów budowlanych",
+"wn": "MIEJSKIE PRZEDSIĘBIORSTWO WODOCIĄGÓW I KANALIZACJI W M.ST. WARSZAWIE S.A.",
+"nier": "Grochowska",
+"dz": "146507_8 0501 95/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "212/PPD/PB/2024"
+}
+},
+{
+"d": "2024-12-17",
+"c": {
+"inw": "PRZEBUDOWA BUDYNKU ŻŁOBKA NR 33 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "ZESPÓŁ ŻŁOBKÓW M.ST. WARSZAWY",
+"nier": "Umińskiego 9 / Władysława",
+"dz": "146507_8 0606 19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "211/PPD/PB/2024"
+}
+},
+{
+"d": "2024-12-17",
+"c": {
+"inw": "BUDOWA SIECI WODOCIĄGOWEJ PO POŁUDNIOWEJ STRONIE OD UL. GROCHOWSKIEJ NA ODCINKU OD WŁĄCZENIA DO WODOCIĄGU DN 250 (ZADANIE 1)W REJONIE UL. MIĘDZYBORSKIEJ DO ZŁĄCZENIA Z PROJEKTOWANĄ SIECIĄ DN 300 (ZADANIE 3) W AL. WASZYNGTONA W WARSZAWIE budowa nowego/nowych obiektów budowlanych",
+"wn": "MIEJSKIE PRZEDSIĘBIORSTWO WODOCIĄGÓW I KANALIZACJI W M.ST. WARSZAWIE S.A.",
+"nier": "Grochowska",
+"dz": "146507_8 0532 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "212/PPD/PB/2024"
+}
+},
+{
+"d": "2024-12-12",
+"c": {
+"inw": "PRZEBUDOWA PRZEGRÓD ZEWNĘTRZNYCH W BUDYNKU LAKIERNI wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MIEJSKIE ZAKŁADY AUTOBUSOWE",
+"nier": "Ostrobramska 38",
+"dz": "146507_8 0519 10/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "208/PPD/PB/2024"
+}
+},
+{
+"d": "2024-12-12",
+"c": {
+"inw": "PRZEBUDOWA PRZEGRÓD ZEWNĘTRZNYCH W BUDYNKU LAKIERNI wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MIEJSKIE ZAKŁADY AUTOBUSOWE",
+"nier": "Ostrobramska 38",
+"dz": "146507_8 0519 8/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "208/PPD/PB/2024"
+}
+},
+{
+"d": "2024-12-12",
+"c": {
+"inw": "ZESPÓŁ BUDYNKÓW MIESZKALNYCH WIELORODZINNYCH Z GARAŻEM PODZIEMNYM I INFRASTRUKTURĄ TECHNICZNĄ budowa nowego/nowych obiektów budowlanych",
+"wn": "ANEO INVESTMENT SP. Z O.O.",
+"nier": "Karczewska",
+"dz": "146507_8 0507 31/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "209/PPD/PB/2024"
+}
+},
+{
+"d": "2024-12-12",
+"c": {
+"inw": "ZESPÓŁ BUDYNKÓW MIESZKALNYCH WIELORODZINNYCH Z GARAŻEM PODZIEMNYM I INFRASTRUKTURĄ TECHNICZNĄ budowa nowego/nowych obiektów budowlanych",
+"wn": "ANEO INVESTMENT SP. Z O.O.",
+"nier": "Karczewska",
+"dz": "146507_8 0507 31/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "209/PPD/PB/2024"
+}
+},
+{
+"d": "2024-12-12",
+"c": {
+"inw": "ZESPÓŁ BUDYNKÓW MIESZKALNYCH WIELORODZINNYCH Z GARAŻEM PODZIEMNYM I INFRASTRUKTURĄ TECHNICZNĄ budowa nowego/nowych obiektów budowlanych",
+"wn": "ANEO INVESTMENT SP. Z O.O.",
+"nier": "Karczewska",
+"dz": "146507_8 0507 36/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "209/PPD/PB/2024"
+}
+},
+{
+"d": "2024-12-12",
+"c": {
+"inw": "ZESPÓŁ BUDYNKÓW MIESZKALNYCH WIELORODZINNYCH Z GARAŻEM PODZIEMNYM I INFRASTRUKTURĄ TECHNICZNĄ budowa nowego/nowych obiektów budowlanych",
+"wn": "ANEO INVESTMENT SP. Z O.O.",
+"nier": "Karczewska",
+"dz": "146507_8 0507 36/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "209/PPD/PB/2024"
+}
+},
+{
+"d": "2024-12-12",
+"c": {
+"inw": "ZESPÓŁ BUDYNKÓW MIESZKALNYCH WIELORODZINNYCH Z GARAŻEM PODZIEMNYM I INFRASTRUKTURĄ TECHNICZNĄ budowa nowego/nowych obiektów budowlanych",
+"wn": "ANEO INVESTMENT SP. Z O.O.",
+"nier": "Karczewska",
+"dz": "146507_8 0507 107",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "209/PPD/PB/2024"
+}
+},
+{
+"d": "2024-12-11",
+"c": {
+"inw": "REMONT INSTALACJI WODY ZIMNEJ I KANALIZACJI. BUDOWA INSTALACJI CIEPŁEJ WODY I CYRKULACJI wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "WSPÓLNOTA MIESZKANIOWA LIPSKA 26",
+"nier": "Lipska 26",
+"dz": "146507_8 0104 87",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "207/PPD/PB/2024"
+}
+},
+{
+"d": "2024-12-09",
+"c": {
+"inw": "PRZEBYDOWA ELEWACJI LOKALU USŁUGOWEGO U10 NA PARTERZE W ZAKRESIE WYMIANY STAŁEJ KWATERY WITRYNY NA DRZWI wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SPÓŁDZIELNIA MIESZKANIOWA „GOCŁAW-LOTNISKO”",
+"nier": "Umińskiego 2 / Władysława",
+"dz": "146507_8 0606 47/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "205/PPD/PB/2024"
+}
+},
+{
+"d": "2024-12-09",
+"c": {
+"inw": "PRZEBYDOWA ELEWACJI LOKALU USŁUGOWEGO U10 NA PARTERZE W ZAKRESIE WYMIANY STAŁEJ KWATERY WITRYNY NA DRZWI wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SPÓŁDZIELNIA MIESZKANIOWA „GOCŁAW-LOTNISKO”",
+"nier": "Umińskiego 2 / Władysława",
+"dz": "146507_8 0606 47/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "205/PPD/PB/2024"
+}
+},
+{
+"d": "2024-12-06",
+"c": {
+"inw": "PRZEBUDOWA I ZMIANA SPOSOBU UŻYTKOWANIA CZĘŚCI POMIESZCZEŃ W BLOKU SO BUDYNKU NR 18 DLA POTRZEB REGIONALNEGO CENTRUM MEDYCYNY CYFROWEJ, WOJSKOWEGO CENTRUM KRIWIODAWSTWA I KRWIOLECZNICTWA ORAZ GABINETÓW STOMATOLOGICZNYCH WIM wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "WOJSKOWY INSTYTUT MEDYCZNY PAŃSTWOWY INSTYTUT BADAWCZY",
+"nier": "Szaserów 128",
+"dz": "146507_8 0403 8/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "204/PPD/PB/2024"
+}
+},
+{
+"d": "2024-12-03",
+"c": {
+"inw": "BUDOWA ŁĄCZNIKA POMIĘDZY BUDYNKAMI \"I\", A BUDYNKAMI \"A,B,C,D,F\" ORAZ PRZEBUDOWA KLATKI SCHODOWEJ W BUDYNKU \"B\" budowa nowego/nowych obiektów budowlanych",
+"wn": "PCO S.A.",
+"nier": "Nowaka-Jeziorańskiego 28 / Jana",
+"dz": "146507_8 0521 4/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "202/PPD/PB/2024/Z"
+}
+},
+{
+"d": "2024-12-03",
+"c": {
+"inw": "BUDOWA ŁĄCZNIKA POMIĘDZY BUDYNKAMI \"I\", A BUDYNKAMI \"A,B,C,D,F\" ORAZ PRZEBUDOWA KLATKI SCHODOWEJ W BUDYNKU \"B\" budowa nowego/nowych obiektów budowlanych",
+"wn": "PCO S.A.",
+"nier": "Nowaka-Jeziorańskiego 28 / Jana",
+"dz": "146507_8 0521 4/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "202/PPD/PB/2024/Z"
+}
+},
+{
+"d": "2024-12-03",
+"c": {
+"inw": "BUDOWA ŁĄCZNIKA POMIĘDZY BUDYNKAMI \"I\", A BUDYNKAMI \"A,B,C,D,F\" ORAZ PRZEBUDOWA KLATKI SCHODOWEJ W BUDYNKU \"B\" budowa nowego/nowych obiektów budowlanych",
+"wn": "PCO S.A.",
+"nier": "Nowaka-Jeziorańskiego 28 / Jana",
+"dz": "146507_8 0521 4/29",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "202/PPD/PB/2024/Z"
+}
+},
+{
+"d": "2024-12-03",
+"c": {
+"inw": "BUDOWA ŁĄCZNIKA POMIĘDZY BUDYNKAMI \"I\", A BUDYNKAMI \"A,B,C,D,F\" ORAZ PRZEBUDOWA KLATKI SCHODOWEJ W BUDYNKU \"B\" budowa nowego/nowych obiektów budowlanych",
+"wn": "PCO S.A.",
+"nier": "Nowaka-Jeziorańskiego 28 / Jana",
+"dz": "146507_8 0521 4/36",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "202/PPD/PB/2024/Z"
+}
+},
+{
+"d": "2024-12-03",
+"c": {
+"inw": "PRZEBUDOWA BUDYNKU SZKOŁY PODSTAWOWEJ NR 185 DLA DOSTOSOWANIA DO WYMAGAŃ OCHRONY PRZECIWPOŻAROWEJ wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MASTO STOŁECZNE WARSZAWA DZIELNICA PRAGA-POŁUDNIE",
+"nier": "Bora-Komorowskiego 31 / gen. Tadeusza",
+"dz": "146507_8 0603 25",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "201/PPD/PB/2024"
+}
+},
+{
+"d": "2024-12-03",
+"c": {
+"inw": "PRZEBUDOWA BUDYNKU SZKOŁY PODSTAWOWEJ NR 185 DLA DOSTOSOWANIA DO WYMAGAŃ OCHRONY PRZECIWPOŻAROWEJ wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MASTO STOŁECZNE WARSZAWA DZIELNICA PRAGA-POŁUDNIE",
+"nier": "Bora-Komorowskiego 31 / gen. Tadeusza",
+"dz": "146507_8 0603 28/25",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "201/PPD/PB/2024"
+}
+},
+{
+"d": "2024-12-02",
+"c": {
+"inw": "4 BUDYNKI MIESZKALNE, JEDNORODZINNE W ZABUDOWIE BLIŹNIACZEJ budowa nowego/nowych obiektów budowlanych",
+"wn": "ENER EKO GRZEGORZ PIEŃKOWSKI I ARKADIUSZ ŻUKOWSKI S.C.",
+"nier": "Makowska 23",
+"dz": "146507_8 0712 20",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "199/PPD/PB/2024"
+}
+},
+{
+"d": "2024-12-02",
+"c": {
+"inw": "WYMIANA FASADY W LOKALU USŁUGOWYM wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "FANCY FOODS SP. Z O.O.",
+"nier": "Walecznych 74",
+"dz": "146507_8 0111 32",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "200/PPD/PB/2024"
+}
+},
+{
+"d": "2024-11-22",
+"c": {
+"inw": "PRZEBUDOWA KLATKI SCHODOWEJ W POZIOMIE PIWNIC ORAZ ZAINSTALOWANIE PODNOŚNIKA OSOBOWEGO WEWNĘTRZNEGO W KLATCE SCHODOWEJ wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kobielska 1",
+"dz": "146507_8 0407 147",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "196/PPD/PB/2024"
+}
+},
+{
+"d": "2024-11-22",
+"c": {
+"inw": "ROZBIÓRKA BUDYNKU NIEMIESZKALNEGO (BUDYNEK i - INNY) W GRANICY DZIAŁKI rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Żółkiewskiego / Stanisława",
+"dz": "146507_8 0411 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "197/PPD/PB/2024/R"
+}
+},
+{
+"d": "2024-11-15",
+"c": {
+"inw": "BUDOWA BUDYNKU PRODUKCYJNEGO Z CZĘŚCIĄ BIUROWĄ budowa nowego/nowych obiektów budowlanych",
+"wn": "PCO S.A.",
+"nier": "Nowaka-Jeziorańskiego 28 / Jana",
+"dz": "146507_8 0521 4/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "193/PPD/PB/2024"
+}
+},
+{
+"d": "2024-11-15",
+"c": {
+"inw": "BUDOWA BUDYNKU PRODUKCYJNEGO Z CZĘŚCIĄ BIUROWĄ budowa nowego/nowych obiektów budowlanych",
+"wn": "PCO S.A.",
+"nier": "Nowaka-Jeziorańskiego 28 / Jana",
+"dz": "146507_8 0521 4/29",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "193/PPD/PB/2024"
+}
+},
+{
+"d": "2024-11-15",
+"c": {
+"inw": "BUDOWA BUDYNKU PRODUKCYJNEGO Z CZĘŚCIĄ BIUROWĄ budowa nowego/nowych obiektów budowlanych",
+"wn": "PCO S.A.",
+"nier": "Nowaka-Jeziorańskiego 28 / Jana",
+"dz": "146507_8 0521 8/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "193/PPD/PB/2024"
+}
+},
+{
+"d": "2024-11-15",
+"c": {
+"inw": "BUDOWA BUDYNKU PRODUKCYJNEGO Z CZĘŚCIĄ BIUROWĄ budowa nowego/nowych obiektów budowlanych",
+"wn": "PCO S.A.",
+"nier": "Nowaka-Jeziorańskiego 28 / Jana",
+"dz": "146507_8 0521 4/64",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "193/PPD/PB/2024"
+}
+},
+{
+"d": "2024-11-15",
+"c": {
+"inw": "BUDOWA BUDYNKU PRODUKCYJNEGO Z CZĘŚCIĄ BIUROWĄ budowa nowego/nowych obiektów budowlanych",
+"wn": "PCO S.A.",
+"nier": "Nowaka-Jeziorańskiego 28 / Jana",
+"dz": "146507_8 0521 8/21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "193/PPD/PB/2024"
+}
+},
+{
+"d": "2024-11-15",
+"c": {
+"inw": "BUDOWA BUDYNKU PRODUKCYJNEGO Z CZĘŚCIĄ BIUROWĄ budowa nowego/nowych obiektów budowlanych",
+"wn": "PCO S.A.",
+"nier": "Nowaka-Jeziorańskiego 28 / Jana",
+"dz": "146507_8 0521 4/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "193/PPD/PB/2024"
+}
+},
+{
+"d": "2024-11-15",
+"c": {
+"inw": "BUDOWA BUDYNKU PRODUKCYJNEGO Z CZĘŚCIĄ BIUROWĄ budowa nowego/nowych obiektów budowlanych",
+"wn": "PCO S.A.",
+"nier": "Nowaka-Jeziorańskiego 28 / Jana",
+"dz": "146507_8 0521 4/36",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "193/PPD/PB/2024"
+}
+},
+{
+"d": "2024-11-15",
+"c": {
+"inw": "PRZEBUDOWA Z NADBUDOWĄ BUDYNKU MIESZKALNEGO WIELORODZINNEGO WRAZ Z NIEZBĘDNĄ INFRASTRUKTURĄ TECHNICZNĄ nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "MIASTO STOŁECZNE WARSZAWA, ZAKŁAD GOSPODAROWANIA NIERUCHOMOŚCIAMI W DZIELNICY PRAGA POŁUDNIE M.ST. WARSZAWY",
+"nier": "Lubartowska 22",
+"dz": "146507_8 0412 106/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "194/PPD/PB/2024"
+}
+},
+{
+"d": "2024-11-15",
+"c": {
+"inw": "PRZEBUDOWA Z NADBUDOWĄ BUDYNKU MIESZKALNEGO WIELORODZINNEGO WRAZ Z NIEZBĘDNĄ INFRASTRUKTURĄ TECHNICZNĄ nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "MIASTO STOŁECZNE WARSZAWA, ZAKŁAD GOSPODAROWANIA NIERUCHOMOŚCIAMI W DZIELNICY PRAGA POŁUDNIE M.ST. WARSZAWY",
+"nier": "Lubartowska 22",
+"dz": "146507_8 0412 106/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "194/PPD/PB/2024"
+}
+},
+{
+"d": "2024-11-15",
+"c": {
+"inw": "PRZEBUDOWA Z NADBUDOWĄ BUDYNKU MIESZKALNEGO WIELORODZINNEGO WRAZ Z NIEZBĘDNĄ INFRASTRUKTURĄ TECHNICZNĄ nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "MIASTO STOŁECZNE WARSZAWA, ZAKŁAD GOSPODAROWANIA NIERUCHOMOŚCIAMI W DZIELNICY PRAGA POŁUDNIE M.ST. WARSZAWY",
+"nier": "Lubartowska 22",
+"dz": "146507_8 0412 103",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "194/PPD/PB/2024"
+}
+},
+{
+"d": "2024-11-15",
+"c": {
+"inw": "ROZBUDOWA Z NADBUDOWĄ BUDYNKU MIESZKALNEGO JEDNORODZINNEGO W ZABUDWOIE SZEREGOWEJ rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Złoczowska 4",
+"dz": "146507_8 0119 131",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "195/PPD/PB/2024"
+}
+},
+{
+"d": "2024-11-14",
+"c": {
+"inw": "REMONT ELEWACJI ORAZ BALKONÓW wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Walecznych 21",
+"dz": "146507_8 0103 217",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "192/PPD/PB/2024"
+}
+},
+{
+"d": "2024-11-12",
+"c": {
+"inw": "REMONT ELEWACJI BUDYNKU MIESZKALNEGO WIELORODZINNEGO wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "WSPÓLNOTA MIESZKANIOWA NIERUCHOMOŚCI PRZY UL. BEREZYŃSKIEJ 29",
+"nier": "Berezyńska 29",
+"dz": "146507_8 0104 90",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "191/PPD/PB/2024"
+}
+},
+{
+"d": "2024-11-07",
+"c": {
+"inw": "PROJEKT INWENTARYZACJI STANU ISTNIEJĄCEGO ORAZ PROJEKT ROZBIÓRKI BUDYNKÓW Z TOWARZYSZĄCĄ INFRASTRUKTURĄ rozbiórka istniejącego obiektu budowlanego",
+"wn": "PROJECT DEVELOPMENT GRUP SP. Z O.O.",
+"nier": "Jordanowska 8",
+"dz": "146507_8 0714 59/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "190/PPD/PB/2024/R"
+}
+},
+{
+"d": "2024-11-06",
+"c": {
+"inw": "PRZEBUDOWA (ZABUDOWA TARASU) BUDYNKU JEDNORODZINNEGO W ZABUDOWIE BLIŹNIACZEJ wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Poselska 13A",
+"dz": "146507_8 0108 64",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "188/PPD/PB/2024"
+}
+},
+{
+"d": "2024-10-31",
+"c": {
+"inw": "PRZEBUDOWA BUDYNKU MIESZKALNEGO WIELORODZINNEGO POLEGAJĄCA NA DOSTOSOWANIU SZYBU WINDOWEGO ORAZ DŹWIGU W KLATCE NR IV DO KORZYSTANIA Z POZIOMU WEJŚCIA DO BUDYNKU wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SPÓŁDZIELNIA MIESZKANIOWA ORLIK-JANTAR",
+"nier": "Guderskiego 3 / Konrada",
+"dz": "146507_8 0605 50",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "186/PPD/PB/2024"
+}
+},
+{
+"d": "2024-10-31",
+"c": {
+"inw": "PRZEBUDOWA BUDYNKU MIESZKALNEGO WIELORODZINNEGO POLEGAJĄCA NA DOSTOSOWANIU SZYBU WINDOWEGO ORAZ DŹWIGU W KLATCE NR III DO KORZYSTANIA Z POZIOMU WEJŚCIA DO BUDYNKU wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SPÓŁDZIELNIA MIESZKANIOWA ORLIK-JANTAR",
+"nier": "Awionetki RWD 3",
+"dz": "146507_8 0605 49",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "185/PPD/PB/2024"
+}
+},
+{
+"d": "2024-10-31",
+"c": {
+"inw": "ROZBIÓRKA ISTNIEJĄCEGO BUDYNKU MIESZKALNEGO rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Naddnieprzańska 18A",
+"dz": "146507_8 0714 61/4",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "187/PPD/PB/2024/R"
+}
+},
+{
+"d": "2024-10-30",
+"c": {
+"inw": "Projekt budowy wewnątrzbudynkowej instalacji światłowodowej oraz montaż mufy wraz z kablem w osłonie rury RL w piwnicy budynku przy ul. Katowicka 8 w Warszawie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "ŚWIATŁOWÓD INWESTYCJE SP. Z O.O.",
+"nier": "Katowicka 8",
+"dz": "146507_8 0108 69",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "182/PPD/PB/2024"
+}
+},
+{
+"d": "2024-10-30",
+"c": {
+"inw": "PRZEBUDOWA-POWIĘKSZENIE OTWORÓW OKIENNYCH W ŚCIANIE ZEWNĘTRZNEJ-ELEWACJI wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Grochowska 357",
+"dz": "146507_8 0204 20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "183/PPD/PB/2024"
+}
+},
+{
+"d": "2024-10-25",
+"c": {
+"inw": "PRZEBUDOWA DACHU WRAZ Z ADAPTACJĄ STRYCHU rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Kawcza 53",
+"dz": "146507_8 0509 56",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "181/PPD/PB/2024"
+}
+},
+{
+"d": "2024-10-24",
+"c": {
+"inw": "PRZEBUDOWA OKIEN W ELEWACJI BUDYNKU BIUROWO-USŁUGOWEGO ARTIUM PROMENADA wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "G-CITY POLAND SP. Z O.O.",
+"nier": "Ostrobramska 75C",
+"dz": "146507_8 0524 22",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "178/PPD/PB/2024"
+}
+},
+{
+"d": "2024-10-24",
+"c": {
+"inw": "PRZEBUDOWA OKIEN W ELEWACJI BUDYNKU BIUROWO-USŁUGOWEGO ARTIUM PROMENADA wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "G-CITY POLAND SP. Z O.O.",
+"nier": "Ostrobramska 75C",
+"dz": "146507_8 0524 24",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "178/PPD/PB/2024"
+}
+},
+{
+"d": "2024-10-22",
+"c": {
+"inw": "ROZBIÓRKA BUDYNKÓW AEROKLUBU WRSZAWSKIEGO HANGARU NR 1 i 2 rozbiórka istniejącego obiektu budowlanego",
+"wn": "DANTEX HOLDING SP. Z O.O.",
+"nier": "Wał Miedzeszyński 646",
+"dz": "146507_8 0603 14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "176/PPD/PB/2024/R"
+}
+},
+{
+"d": "2024-10-22",
+"c": {
+"inw": "PRZEBUDOWA ELEWACJI POLEGAJĄCA NA POWIĘKSZENIU ISTNIEJĄCEGO OTWORU OKIENNEGO wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Dąbrowiecka 8",
+"dz": "146507_8 0108 49",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "177/PPD/PB/2024"
+}
+},
+{
+"d": "2024-10-21",
+"c": {
+"inw": "BUDOWA TARASU rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Szczawnicka 12C",
+"dz": "146507_8 0513 42",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "174/PPD/PB/2024"
+}
+},
+{
+"d": "2024-10-17",
+"c": {
+"inw": "BUDOWA INSTALACJI GAZOWEJ DO BUDYNKU MIESZKALNEGO JEDNORODZINNEGO budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Sztabowa 24",
+"dz": "146507_8 0415 88",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "172/PPD/PB/2024"
+}
+},
+{
+"d": "2024-10-14",
+"c": {
+"inw": "BUDOWA TRZECH MIKROINSTALACJI FOTOWOLTAICZNYCH O ŁĄCZNEJ MOCY ZAINSTALOWANEJ 104,5 kW WRAZ Z NIEZBĘDNĄ INFRASTRUKTURĄ wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SZPITAL GROCHOWSKI IM. DR MED. RAFAŁA MASZTAKA SP. Z O. O.",
+"nier": "Grenadierów 51",
+"dz": "146507_8 0502 75/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "168/PPD/PB/2024"
+}
+},
+{
+"d": "2024-10-07",
+"c": {
+"inw": "PRZEBUDOWA STACJI ELEKTROENERGETYCZNEJ RSM DĄBRÓWKI wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "STOEN OPERATOR SP. Z O.O.",
+"nier": "Dąbrówki 21",
+"dz": "146507_8 0104 62",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "166/PPD/PB/2024"
+}
+},
+{
+"d": "2024-10-07",
+"c": {
+"inw": "BUDYNEK MIESZKALNY WIELORODZINNY W FORMIE KAMIENICZKI budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Zapałczana 4",
+"dz": "146507_8 0415 85",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "165/PPD/PB/2024"
+}
+},
+{
+"d": "2024-10-07",
+"c": {
+"inw": "PRZEBUDOWA LOKALU MIESZKALNEGO W BUDYNKU MIESZKALNYM WIELORODZINNYM wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Zwycięzców 4B",
+"dz": "146507_8 0112 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "164/PPD/PB/2024"
+}
+},
+{
+"d": "2024-10-07",
+"c": {
+"inw": "BUDYNEK MIESZKALNY WIELORODZINNY budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Zapałczana 4",
+"dz": "146507_8 0415 85",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "165/PPD/PB/2024"
+}
+},
+{
+"d": "2024-10-01",
+"c": {
+"inw": "PROJEKT ARCHITEKTONICZNO-BUDOWLANY INSTALACJI GAZOWEJ DLA BUDYNKU MIESZKALNEGO WIELORODZINNEGO budowa nowego/nowych obiektów budowlanych",
+"wn": "FORUS SP. Z O.O.",
+"nier": "Pokrzywnicka 11",
+"dz": "146507_8 0405 117",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "162/PPD/PB/2024"
+}
+},
+{
+"d": "2024-09-23",
+"c": {
+"inw": "BUDOWA BUDYNKU MIESZKALNEGO WIELORODZINNEGO Z GARAŻEM PODZIEMNYM WRAZ Z ZAGOSPODAROWANIEM TERENU budowa nowego/nowych obiektów budowlanych",
+"wn": "KOMO MARIANNA I KRZYSZTOF ORZESZAK SP. J",
+"nier": "Krypska 33",
+"dz": "146507_8 0505 12/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "161/PPD/PB/2024"
+}
+},
+{
+"d": "2024-09-20",
+"c": {
+"inw": "PROJEKT BUDOWLANY PRZEBUDOWY BUDYNKU GOSPODARCZEGO POLEGAJĄCY NA POWIĘKSZENIU OTWORU DRZWIOWEGO POD BRAMĘ GARAŻOWĄ, WYBURZENIU CZĘŚCI ŚCIANEK DZIAŁOWYCH WEWNĘTRZNYCH ORAZ REMONTU WEWNĘTRZNEGO BUDYNKU wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "ZGROMADZENIE SIÓSTR MATKI BOŻEJ MIŁOSIERDZIA",
+"nier": "Hetmańska 44",
+"dz": "146507_8 0411 7/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "158/PPD/PB/2024"
+}
+},
+{
+"d": "2024-09-19",
+"c": {
+"inw": "DOCIEPLENIE STROPODACHU I REMONT DACHU BUDYNKÓW PRZY UL. AWIONETKI RWD 1 AWIONETKI RWD 3 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SPÓŁDZIELNIA MIESZKANIOWA \"ORLIK-JANTAR\"",
+"nier": "Awionetki RWD 1,3",
+"dz": "146507_8 0605 49",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "156/PPD/PB/2024"
+}
+},
+{
+"d": "2024-09-16",
+"c": {
+"inw": "POŁACZENIE SĄSIEDNICH LOKALI MIESZKALNYCH JAKO JEDEN LOKAL MIESZKALNY W BUDYNKU WIELORODZINNYM wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Łukowska 31",
+"dz": "146507_8 0515 68/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "153/PPD/PB/2024"
+}
+},
+{
+"d": "2024-09-09",
+"c": {
+"inw": "PRZEBICIE STROPU I BUDOWA SCHODÓW POMIĘDZY LOKALAMI MIESZKALNYMI ZLOKALIZOWANYMI PRZY UL. PODSKARBIŃSKIEJ 9, LOKALE NR 45 I 47 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Podskarbińska 9",
+"dz": "146507_8 0208 13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "147/PPD/PB/2024"
+}
+},
+{
+"d": "2024-09-09",
+"c": {
+"inw": "ZMIZNA SPOSOBU UŻYTKOWANIA MODUŁOWEGO SZPITALA WOJSKOWEGO INSTYTUTU MADYCZNEGO PAŃSTWOWEGO INSTYTUTU BADAWCZEGO wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "WOJSKOWY INSTYTUT MEDYCZNY PAŃSTWOWY INSTYTUT BADAWCZY",
+"nier": "Szaserów 128",
+"dz": "146507_8 0403 8/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "148/PPD/PB/2024"
+}
+},
+{
+"d": "2024-09-09",
+"c": {
+"inw": "PRZEBUDOWA MIESZKANIA 3 i 8 BUDYNKU MIESZKLANEGO WIELORODZINNEGO W POSTACI WYKONANIA OTWORU W STROPIE W CELU POŁĄCZENIA DWÓCH LOKALI wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Styrska 13",
+"dz": "146507_8 0416 120",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "149/PPD/PB/2024"
+}
+},
+{
+"d": "2024-08-29",
+"c": {
+"inw": "REMONT, PRZEBUDOWA I NADBUDOWA ISTNIEJĄCEGO BUDYNKU, NA BUDYNEK REKREACYJNO-USŁUGOWY - ZMIANA POZWOLENIA NA BUDOWĘ 76/22 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "KŁOBUCKA PROJEKT sp. z o.o",
+"nier": "Wał Miedzeszyński 389",
+"dz": "146507_8 0121 6/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "146/PPD/PB/2024/Z"
+}
+},
+{
+"d": "2024-08-28",
+"c": {
+"inw": "BUDOWA BUDYNKU MIESZKALNEGO WIELORODZINNEGO WRAZ Z LOKALAMI USŁUGOWYMI, GARAŻEM PODZIEMNYM NIEZBĘDNĄ INFRASTRUKTURĄ TECHICZNA I ZAGOSPODAROWANIEM TERENU budowa nowego/nowych obiektów budowlanych",
+"wn": "JJ RESIDENTIAL SP. Z O.O.",
+"nier": "Sulejkowska 27, 29",
+"dz": "146507_8 0515 40",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "144/PPD/PB/2024"
+}
+},
+{
+"d": "2024-08-28",
+"c": {
+"inw": "BUDOWA BUDYNKU MIESZKALNEGO WIELORODZINNEGO WRAZ Z LOKALAMI USŁUGOWYMI, GARAŻEM PODZIEMNYM NIEZBĘDNĄ INFRASTRUKTURĄ TECHICZNA I ZAGOSPODAROWANIEM TERENU budowa nowego/nowych obiektów budowlanych",
+"wn": "JJ RESIDENTIAL SP. Z O.O.",
+"nier": "Sulejkowska 27, 29",
+"dz": "146507_8 0516 41",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "144/PPD/PB/2024"
+}
+},
+{
+"d": "2024-08-28",
+"c": {
+"inw": "BUDYNEK MIESZKALNY WIELORODZINNY Z GARAŻEM WIELOSTANOWISKOWYM NADZIEMNYM W BRYLE BUDYNKU ORAZ URZĄDZENIAMI BUDOWLANYMI W TYM Z INSTALACJĄ GAZOWĄ budowa nowego/nowych obiektów budowlanych",
+"wn": "VIGO 1 SP. Z O. O.",
+"nier": "Zapałczana 9",
+"dz": "146507_8 0415 66",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "145/PPD/PB/2024"
+}
+},
+{
+"d": "2024-08-27",
+"c": {
+"inw": "BUDOWA BUDYNKU MIESZKALNEGO WIELORODZINNEGO Z GARAŻEM PODZIEMNYM WRAZ Z NIEZBEDNĄ INFRASTRUKTURĄ I ZAGOSPODAROWANIEM TERENU budowa nowego/nowych obiektów budowlanych",
+"wn": "ZJEDNOCZONE PRZEDSIĘBIORSTWA ROZRYWKOWE S.A.",
+"nier": "Żółkiewskiego 56 A / Stanisława",
+"dz": "146507_8 0411 2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "143/PPD/PB/2024"
+}
+},
+{
+"d": "2024-08-26",
+"c": {
+"inw": "ROBOTY BUDOWLANE POLEGAJĄCE NA WYMIANIE RUR SPUSTOWYCH ORAZ RYNIEN I OBRÓBEK BLACHARSKICH NA DACHU wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "URZĄD M.ST. WARSZAWY ZAKŁAD GOSPODAROWANIA NIERUCHOMOŚCIAMI W DZIELNICY PRAGA-POŁUDNIE",
+"nier": "Skaryszewska 15",
+"dz": "146507_8 0201 6/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "142/PPD/PB/2024"
+}
+},
+{
+"d": "2024-08-26",
+"c": {
+"inw": "BUDOWA DROGI DLA PIESZYCH I ROWERÓW A ALEI WEDLA budowa nowego/nowych obiektów budowlanych",
+"wn": "M.ST. WARSZAWA REPREZENTOWANE PRZEZ ZASTĘPCĘ BURMISTRZA BOŻENĘ PRZYBYSZEWSKĄ I ZASTĘPCĘ BURMISTRZA KAROLA KOWALCZYKA",
+"nier": "Aleja Emila Wedla",
+"dz": "146507_8 0204 16/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "141/PPD/PB/2024"
+}
+},
+{
+"d": "2024-08-26",
+"c": {
+"inw": "BUDOWA DROGI DLA PIESZYCH I ROWERÓW A ALEI WEDLA budowa nowego/nowych obiektów budowlanych",
+"wn": "M.ST. WARSZAWA REPREZENTOWANE PRZEZ ZASTĘPCĘ BURMISTRZA BOŻENĘ PRZYBYSZEWSKĄ I ZASTĘPCĘ BURMISTRZA KAROLA KOWALCZYKA",
+"nier": "Aleja Emila Wedla",
+"dz": "146507_8 0204 15/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "141/PPD/PB/2024"
+}
+},
+{
+"d": "2024-08-26",
+"c": {
+"inw": "wniosek o wydanie decyzji o zmianie pozwolenia na budowę 3/PPD/PB/2024 budynek mieszkalny wielorodzinny z usługami w parterze i garażem podziemnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa GOCŁAW LOTNISKO",
+"nier": "Złotej Wilgi 2",
+"dz": "146507_8 0606 14/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "139/PPD/PB/2024/Z"
+}
+},
+{
+"d": "2024-08-26",
+"c": {
+"inw": "PRZEBUDOWA ISTNIEJĄCEJ STACJI GAZOWEJ ŚREDNIEGO CIŚNIENIA wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MODERNA HOLDING SP. Z O.O.",
+"nier": "Zamoyskiego 24A / Jana",
+"dz": "146507_8 0204 7/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "140/PPD/PB/2024"
+}
+},
+{
+"d": "2024-08-23",
+"c": {
+"inw": "PRZEBUDOWA WINDY ZEWNĘTRZNEJ PRZY BUDYNKU ZESPOŁU SZKÓŁ NR 5 IM. STEFANA KISIELEWSKIEGO wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "URZĄD M. ST. WARSZAWY",
+"nier": "Szczawnicka 1",
+"dz": "146507_8 0513 13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "138/PPD/PB/2024"
+}
+},
+{
+"d": "2024-08-20",
+"c": {
+"inw": "BUDOWA ULICY ŻUPNICZEJ W RAMACH REALIZACJI ZESPOŁU MIESZKANIOWEGO W WARSZAWIE WRAZ Z ODWODNIENIEM, OŚWIETLENIEM I KANAŁE TECHNOLOGICZNYM NA ODCINKU 163M BUDOWA JEZDNI ORAZ NA ODCINKU 373M BUDOWA ZATOK, ŚCIEŻKI ROWEROWEJ I CHODNIKÓW budowa nowego/nowych obiektów budowlanych",
+"wn": "VICTORIA DOM S.A.",
+"nier": "Żupnicza",
+"dz": "146507_8 0203 11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "137/PPD/PB/2024"
+}
+},
+{
+"d": "2024-08-20",
+"c": {
+"inw": "BUDOWA ULICY ŻUPNICZEJ W RAMACH REALIZACJI ZESPOŁU MIESZKANIOWEGO W WARSZAWIE WRAZ Z ODWODNIENIEM, OŚWIETLENIEM I KANAŁE TECHNOLOGICZNYM NA ODCINKU 163M BUDOWA JEZDNI ORAZ NA ODCINKU 373M BUDOWA ZATOK, ŚCIEŻKI ROWEROWEJ I CHODNIKÓW budowa nowego/nowych obiektów budowlanych",
+"wn": "VICTORIA DOM S.A.",
+"nier": "Żupnicza",
+"dz": "146507_8 0203 10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "137/PPD/PB/2024"
+}
+},
+{
+"d": "2024-08-20",
+"c": {
+"inw": "BUDOWA ULICY ŻUPNICZEJ W RAMACH REALIZACJI ZESPOŁU MIESZKANIOWEGO W WARSZAWIE WRAZ Z ODWODNIENIEM, OŚWIETLENIEM I KANAŁE TECHNOLOGICZNYM NA ODCINKU 163M BUDOWA JEZDNI ORAZ NA ODCINKU 373M BUDOWA ZATOK, ŚCIEŻKI ROWEROWEJ I CHODNIKÓW budowa nowego/nowych obiektów budowlanych",
+"wn": "VICTORIA DOM S.A.",
+"nier": "Żupnicza",
+"dz": "146507_8 0203 8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "137/PPD/PB/2024"
+}
+},
+{
+"d": "2024-08-19",
+"c": {
+"inw": "BUDYNEK O PRZEZNACZENIU TURYSTYCZNYM Z APARTAMENTAMI HOTELOWYMI Z USŁUGAMI W PARERZE ORAZ GARAŻEM PODZIEMNYM I PARKINGIEM NAZIEMNYM budowa nowego/nowych obiektów budowlanych",
+"wn": "HOTEL GROCHOWSKA SP. Z O.O.",
+"nier": "Grochowska",
+"dz": "146507_8 0530 21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "134/PPD/PB/2024/Z"
+}
+},
+{
+"d": "2024-08-19",
+"c": {
+"inw": "BUDYNEK O PRZEZNACZENIU TURYSTYCZNYM Z APARTAMENTAMI HOTELOWYMI Z USŁUGAMI W PARERZE ORAZ GARAŻEM PODZIEMNYM I PARKINGIEM NAZIEMNYM budowa nowego/nowych obiektów budowlanych",
+"wn": "HOTEL GROCHOWSKA SP. Z O.O.",
+"nier": "Grochowska",
+"dz": "146507_8 0530 20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "134/PPD/PB/2024/Z"
+}
+},
+{
+"d": "2024-08-13",
+"c": {
+"inw": "PRZEBUDOWA WEWNĘTRZNEJ INSTALACJI GAZOWEJ W BUDYNKU MIESZKALNYM WIELORODZINNYM wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "WSPÓŁWŁAŚCICIELE NIERUCHOMOŚCI PRZY UL. WALECZNYCH 44",
+"nier": "Walecznych 44",
+"dz": "146507_8 0109 62",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "133/PPD/PB/2024"
+}
+},
+{
+"d": "2024-08-08",
+"c": {
+"inw": "REMONT ELEWACJI ORAZ BALKONÓW WRAZ Z ICH ROZBUDOWĄ W ZAKRESIE POWIĘKSZENIA PŁYTY NOŚNEJ, WYMIANA BALUSTRAD, REMONT I PRZEDŁUŻENIE DASZKÓW NAD BALKONAMI BUDYNKU MIESZKALNEGO WIELORODZINNEGO wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SPÓŁDZIELNIA MIESZKANIOWA \"GOCŁAW-LOTNISKO\"",
+"nier": "Mikołajczyka 6 / Stanisława",
+"dz": "146507_8 0607 3/41",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "128/PPD/PB/2024"
+}
+},
+{
+"d": "2024-08-08",
+"c": {
+"inw": "ZESPÓŁ DWÓCH BUDYNKÓW MIESZKALNYCH WIELORODZINNYCH Z GARAŻEM W PARTERZE I PARKINGIEM PODZIEMNYM budowa nowego/nowych obiektów budowlanych",
+"wn": "TPPI S.A.",
+"nier": "Serocka 21, 23",
+"dz": "146507_8 0412 51",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "127/PPD/PB/2024"
+}
+},
+{
+"d": "2024-08-08",
+"c": {
+"inw": "ZESPÓŁ DWÓCH BUDYNKÓW MIESZKALNYCH WIELORODZINNYCH Z GARAŻEM W PARTERZE I PARKINGIEM PODZIEMNYM budowa nowego/nowych obiektów budowlanych",
+"wn": "TPPI S.A.",
+"nier": "Serocka 21, 23",
+"dz": "146507_8 0412 52",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "127/PPD/PB/2024"
+}
+},
+{
+"d": "2024-08-08",
+"c": {
+"inw": "ZESPÓŁ DWÓCH BUDYNKÓW MIESZKALNYCH WIELORODZINNYCH Z GARAŻEM W PARTERZE I PARKINGIEM PODZIEMNYM budowa nowego/nowych obiektów budowlanych",
+"wn": "TPPI S.A.",
+"nier": "Serocka 21, 23",
+"dz": "146507_8 0412 54",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "127/PPD/PB/2024"
+}
+},
+{
+"d": "2024-08-07",
+"c": {
+"inw": "WYKONANIE ROBÓT BUDOWLANYCH MAJĄCYCH NA CELU ZABEZPIECZENIE BUDYNKU ZESPOŁU SZKÓŁ SPECJALNYCH NR 89 PRZED NIPOŻĄDANYM DZIAŁANIEM WODY wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "M.ST. WARSZAWA REPREZENTOWANE PRZEZ DYREKTORA ZESPOŁU SZKOŁ SPECJALNYCH NR 89 W WARSZAWIE",
+"nier": "Skaryszewska 8",
+"dz": "146507_8 0201 10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "125/PPD/PB/2024"
+}
+},
+{
+"d": "2024-08-07",
+"c": {
+"inw": "REMONT FRAGMENTU ŚCIANY WSCHODNIEJ BUDYNKU UŻYTECZNOŚCI PUBLICZNEJ wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SKARB PAŃSTWA REPREZENTOWANY PRZEZ DYREKTORA ODDZIAŁU REGIONALNEGO KRUS W WARSZAWIE PANA ZENONA KOWALEWSKIEGO",
+"nier": "Mińska 25",
+"dz": "146507_8 0202 24",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "126/PPD/PB/2024"
+}
+},
+{
+"d": "2024-08-05",
+"c": {
+"inw": "ROBOTY BUDOWLANE ZWIĄZANE Z PODZIAŁEM LOKALU MIESZKALNEGO NA 2 ODRĘBNE LOKALE MIESZKALNE wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Osiecka 33",
+"dz": "146507_8 0509 178/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "120/PPD/PB/2024"
+}
+},
+{
+"d": "2024-08-05",
+"c": {
+"inw": "ROZBUDOWA BUDYNKU MIESZKALNEGO WIELORODZINNEGO O SZYB DŹWIGOWY WRAZ Z ZADASZENIEM NA PARTERZE rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "SPÓŁDZIELNIA MIESZKANIOWA \"OSOWSKA\"",
+"nier": "Szaserów 113",
+"dz": "146507_8 0408 7/27",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "119/PPD/PB/2024"
+}
+},
+{
+"d": "2024-08-05",
+"c": {
+"inw": "PRZEBUDOWA I ZMIANA SPOSOBU UŻYTKOWANIA CZĘŚCI PARTERU BUDYNKU PARAFIALNEGO NA ŻŁOBEK, URZĄDZENIE OGÓLNODOSTĘPNEGO PLACU ZABAW I WYDZIELENIE MIEJSC PARKINGOWYCH wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PPHU BTP ANNA KUNSTLE PRZEDSZKOLE ANGLOJĘZYCZNE \"HAPPY TIME\" PRYWATNA SZKOŁA PODSTAWOWA \"WONDERFUL YEARS SCHOOL\" ŻŁOBEK ABRAKADABRA",
+"nier": "Ateńska 12",
+"dz": "146507_8 0123 3/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "123/PPD/PB/2024"
+}
+},
+{
+"d": "2024-08-05",
+"c": {
+"inw": "ROZBIÓRKA BUDYNKU MIESZKALNEGO WIELORODZINNEGO WYŁĄCZONEGO Z EKSPLOATACJI rozbiórka istniejącego obiektu budowlanego",
+"wn": "MYCIELSKIEGO SP. Z O.O.",
+"nier": "Mycielskiego 2 i 3 / Ludwika",
+"dz": "146507_8 0406 34/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "121/PPD/PB/2024/R"
+}
+},
+{
+"d": "2024-08-05",
+"c": {
+"inw": "BUDYNEK MIESZKALNY WIELORODZINNY Z GARAŻEM PODZIEMNYM budowa nowego/nowych obiektów budowlanych",
+"wn": "SYRENA VIII SP. Z O.O.",
+"nier": "Siennicka 29",
+"dz": "146507_8 0211 8/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "122/PPD/PB/2024"
+}
+},
+{
+"d": "2024-08-05",
+"c": {
+"inw": "ROZBUDOWA BUDYNKU MIESZKALNEGO WIELORODZINNEGO O SZYB DŹWIGOWY WRAZ Z ZADASZENIEM NA PARTERZE rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "SPÓŁDZIELNIA MIESZKANIOWA \"OSOWSKA\"",
+"nier": "Garwolińska 18",
+"dz": "146507_8 0408 7/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "118/PPD/PB/2024"
+}
+},
+{
+"d": "2024-07-19",
+"c": {
+"inw": "PRZEBUDOWA I ROZBUDOWA BUDYNKU MIESZKALNEGO JEDNORODZINNEGO rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "ALEKSANDRIA RESIDENCE PROSTA SPÓŁKA AKCYJNA",
+"nier": "Gruzińska 3",
+"dz": "146507_8 0103 187",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "112/PPD/PB/2024"
+}
+},
+{
+"d": "2024-07-17",
+"c": {
+"inw": "REMONT I OCIEPLENIE ELEWACJI BUDYNKU MIESZKALNEGO WIELORODZINNEGO wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "WSPÓLNOTA MIESZKANIOWA \"WSPÓLNA DROGA14\"",
+"nier": "Wspólna Droga 14",
+"dz": "146507_8 0408 12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "111/PPD/PB/2024"
+}
+},
+{
+"d": "2024-07-17",
+"c": {
+"inw": "REMONT I OCIEPLENIE ELEWACJI BUDYNKU MIESZKALNEGO WIELORODZINNEGO wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "WSPÓLNOTA MIESZKANIOWA \"WSPÓLNA DROGA14\"",
+"nier": "Wspólna Droga 14",
+"dz": "146507_8 0408 14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "111/PPD/PB/2024"
+}
+},
+{
+"d": "2024-07-15",
+"c": {
+"inw": "przebudowa zewnętrznej ściany budynku w zakresie powiększenia otworu okiennego kotłowni wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Towarzystwo Budownictwa Społecznego Warszawa Południe Spółka z o. o",
+"nier": "Szaserów 133",
+"dz": "146510_8 0407 10/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "110/PPD/PB/2024"
+}
+},
+{
+"d": "2024-07-12",
+"c": {
+"inw": "ROZBUDOWA I PRZEBUDOWA BUDYNKU ZWIĄZANA Z BUDOWĄ SZYBU DLA DŹWIGU OSOBOWEGO WRAZ Z ROZBIÓRKĄ POMIESZCZENIA GOSPODARCZEGO (KOMORY ZSYPU)I POMIESZCZEŃ ZSYPOWYCH rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "SPÓŁDZIELNIA MIESZKANIOWA \"PRZYCZÓŁEK GROCHOWSKI\"",
+"nier": "Kwarciana 1",
+"dz": "146507_8 0525 33",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "109/PPD/PB/2024"
+}
+},
+{
+"d": "2024-07-12",
+"c": {
+"inw": "ROZBUDOWA I PRZEBUDOWA BUDYNKU ZWIĄZANA Z BUDOWĄ SZYBU DLA DŹWIGU OSOBOWEGO WRAZ Z ROZBIÓRKĄ POMIESZCZENIA GOSPODARCZEGO (KOMORY ZSYPU)I POMIESZCZEŃ ZSYPOWYCH rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "SPÓŁDZIELNIA MIESZKANIOWA \"PRZYCZÓŁEK GROCHOWSKI\"",
+"nier": "Kwarciana 1",
+"dz": "146507_8 0525 21/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "109/PPD/PB/2024"
+}
+},
+{
+"d": "2024-07-10",
+"c": {
+"inw": "ROZBUDOWA BUDYNKU MIESZKALNEGO WIELORODZINNEGO O SZYB DŹWIGOWY WRAZ Z ZADASZENIEM NA PARTERZE rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "SPÓŁDZIELNIA \"OSOWSKA\"",
+"nier": "Szaserów 121",
+"dz": "146507_8 0408 7/15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "108/PPD/PB/2024"
+}
+},
+{
+"d": "2024-07-05",
+"c": {
+"inw": "BUDOWA BUDYNKU MIESZKALNEGO WIELORODZINNEGO budowa nowego/nowych obiektów budowlanych",
+"wn": "PRZEDSIĘBIORSTWO \"TYNKBUD-1\" SP.Z O.O.",
+"nier": "Prochowa 21",
+"dz": "146507_8 0407 64/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "107/PPD/PB/2024"
+}
+},
+{
+"d": "2024-07-05",
+"c": {
+"inw": "BUDOWA BUDYNKU MIESZKALNEGO WIELORODZINNEGO budowa nowego/nowych obiektów budowlanych",
+"wn": "PRZEDSIĘBIORSTWO \"TYNKBUD-1\" SP.Z O.O.",
+"nier": "Prochowa 21",
+"dz": "146507_8 0407 55",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "107/PPD/PB/2024"
+}
+},
+{
+"d": "2024-07-01",
+"c": {
+"inw": "NADBUDOWA BUDYNKU MIESZKALNEGO JEDNORODZINNEGO nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Złoczowska 14A",
+"dz": "146507_8 0119 100",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "104/PPD/PB/2024"
+}
+},
+{
+"d": "2024-07-01",
+"c": {
+"inw": "NADBUDOWA BUDYNKU MIESZKALNEGO JEDNORODZINNEGO nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Złoczowska 14A",
+"dz": "146507_8 0119 101/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "104/PPD/PB/2024"
+}
+},
+{
+"d": "2024-07-01",
+"c": {
+"inw": "PRZEBUDOWA I REMONT CZĘŚCI OBIEKTU BUDOWLANEGO wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Peszteńska 12",
+"dz": "146507_8 0105 104",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "105/PPD/PB/2024"
+}
+},
+{
+"d": "2024-06-28",
+"c": {
+"inw": "PROJEKT BUDOWLANY DOPOSAŻENIA W INSTALACJĘ CIEPŁEJ WODY, CENTRALNEGO OGRZEWANIA I KOCIOŁ GAZOWY W LOKALU MIESZKALNYM NR 3 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MIASTO STOŁECZNE WARSZAWA REPREZENTOWANE PRZEZ ZGN W DZIELNICY PRAGA-POŁUDNIE",
+"nier": "Styki 22 / Jana",
+"dz": "146507_8 0109 74",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "103/PPD/PB/2024"
+}
+},
+{
+"d": "2024-06-27",
+"c": {
+"inw": "PROJEKT BUDOWLANY ROZBIÓRKI SZYBU WINDOWEGO PRZY BUDYNKU \"A\" rozbiórka istniejącego obiektu budowlanego",
+"wn": "BEATA MAŁGORZATA MYDŁOWSKA \"SZKOŁY BEATY MYDŁOWSKIEJ\"",
+"nier": "Kaleńska 3",
+"dz": "146507_8 0406 91",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "97/PPD/PB/2024/R"
+}
+},
+{
+"d": "2024-06-27",
+"c": {
+"inw": "BUDOWA KONTENEROWEJ STACJI TRANSFORMATOROWEJ Sn/nn15/0,4 kV ORAZ KABLOWEJ SIECI ELEKTROENERGETYCZNEJ ŚREDNIEGO NAPIĘCIA Sn-15kV i NISKIEGO NAPIĘCIA nN-0,4 kV budowa nowego/nowych obiektów budowlanych",
+"wn": "STOEN OPERATOR SP. Z O.O.",
+"nier": "Chłopickiego / Józefa",
+"dz": "146507_8 0303 34",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "101/PPD/PB/2024/Z"
+}
+},
+{
+"d": "2024-06-27",
+"c": {
+"inw": "PRZEBUDOWA PRZEGRÓD ZEWNĘTRZNYCH W OBRĘBIE LOKALU HANDLOWO-USŁUGOWEGOBIEDRONKA W BUDYNKU MIESZKALNYM Z USŁUGAMI W PARTERZE wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "JERONIMO MARTINS POLSKA S.A.",
+"nier": "Aleja Jerzego Waszyngtona 96",
+"dz": "146507_8 0502 7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "100/PPD/PB/2024"
+}
+},
+{
+"d": "2024-06-27",
+"c": {
+"inw": "PRZEBUDOWA PRZEGRÓD ZEWNĘTRZNYCH W OBRĘBIE LOKALU HANDLOWO-USŁUGOWEGOBIEDRONKA W BUDYNKU MIESZKALNYM Z USŁUGAMI W PARTERZE wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "JERONIMO MARTINS POLSKA S.A.",
+"nier": "Aleja Jerzego Waszyngtona 96",
+"dz": "146507_8 0502 6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "100/PPD/PB/2024"
+}
+},
+{
+"d": "2024-06-24",
+"c": {
+"inw": "BUDOWA BUDYNKU MIESZKALNEGO WIELORODZINNEGO \"WILGA VI-BIS\" Z GARAŻEM W PRZYZIEMIU ORAZ MIEJSCAMI POSTOJOWYMI NAZIEMNYMI budowa nowego/nowych obiektów budowlanych",
+"wn": "SPÓŁDZIELNIA MIESZKANIOWA GOCŁAW LOTNISKO",
+"nier": "Nowaka-Jeziorańskiego / Jana",
+"dz": "146507_8 0608 8/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "96/PPD/PB/2024"
+}
+},
+{
+"d": "2024-06-24",
+"c": {
+"inw": "BUDOWA BUDYNKU MIESZKALNEGO WIELORODZINNEGO \"WILGA VI-BIS\" Z GARAŻEM W PRZYZIEMIU ORAZ MIEJSCAMI POSTOJOWYMI NAZIEMNYMI budowa nowego/nowych obiektów budowlanych",
+"wn": "SPÓŁDZIELNIA MIESZKANIOWA GOCŁAW LOTNISKO",
+"nier": "Nowaka-Jeziorańskiego / Jana",
+"dz": "146507_8 0608 10/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "96/PPD/PB/2024"
+}
+},
+{
+"d": "2024-06-13",
+"c": {
+"inw": "ROZBUDOWA, NADBUDOWA I PRZEBUDOWA BUDYNKU MIESZKALNEGO JEDNORODZINNEGO rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Marsa 13",
+"dz": "146507_8 0714 98",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "94/PPD/PB/2024"
+}
+},
+{
+"d": "2024-06-05",
+"c": {
+"inw": "ROZBUDOWA I PRZEBUDOWA BUDYNKU SZKOŁY PODSTAWOWEJ NR 255 WRAZ Z ROZBIÓRKĄ CZĘŚCI MIESZKALNEJ BUDYNKU SZKOLNEGO rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "MIASTO ST. WARSZAWA DZIELNICA PRAGA POŁUDNIE",
+"nier": "Kamionkowska 36/44",
+"dz": "146507_8 0206 80",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "93/PPD/PB/2024"
+}
+},
+{
+"d": "2024-06-05",
+"c": {
+"inw": "ROZBUDOWA I PRZEBUDOWA BUDYNKU SZKOŁY PODSTAWOWEJ NR 255 WRAZ Z ROZBIÓRKĄ CZĘŚCI MIESZKALNEJ BUDYNKU SZKOLNEGO rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "MIASTO ST. WARSZAWA DZIELNICA PRAGA POŁUDNIE",
+"nier": "Kamionkowska 36/44",
+"dz": "146507_8 0206 78",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "93/PPD/PB/2024"
+}
+},
+{
+"d": "2024-05-31",
+"c": {
+"inw": "BUDOWA BUDYNKU MIESZKALNEGO WIELORODZONNEGO Z USŁUGAMI W PARTERZE, GARAŻEM PODZIEMNYM budowa nowego/nowych obiektów budowlanych",
+"wn": "CONSTI SP. Z O.O.",
+"nier": "Tarnowiecka 33",
+"dz": "146507_8 0509 190/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "91/PPD/PB/2024"
+}
+},
+{
+"d": "2024-05-31",
+"c": {
+"inw": "BUDOWA BUDYNKU MIESZKALNEGO WIELORODZONNEGO Z USŁUGAMI W PARTERZE, GARAŻEM PODZIEMNYM budowa nowego/nowych obiektów budowlanych",
+"wn": "CONSTI SP. Z O.O.",
+"nier": "Tarnowiecka 33",
+"dz": "146507_8 0509 190/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "91/PPD/PB/2024"
+}
+},
+{
+"d": "2024-05-31",
+"c": {
+"inw": "BUDOWA BUDYNKU MIESZKALNEGO WIELORODZONNEGO Z USŁUGAMI W PARTERZE, GARAŻEM PODZIEMNYM budowa nowego/nowych obiektów budowlanych",
+"wn": "CONSTI SP. Z O.O.",
+"nier": "Tarnowiecka 33",
+"dz": "146507_8 0509 191",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "91/PPD/PB/2024"
+}
+},
+{
+"d": "2024-05-31",
+"c": {
+"inw": "BUDOWA BUDYNKU MIESZKALNEGO WIELORODZONNEGO Z USŁUGAMI W PARTERZE, GARAŻEM PODZIEMNYM budowa nowego/nowych obiektów budowlanych",
+"wn": "CONSTI SP. Z O.O.",
+"nier": "Tarnowiecka 33",
+"dz": "146507_8 0509 193",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "91/PPD/PB/2024"
+}
+},
+{
+"d": "2024-05-29",
+"c": {
+"inw": "WYKONANIE OTWORU W ŚCIANIE KONSTRUKCYJNEJ BUDYNKU wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Guderskiego 7 / Konrada",
+"dz": "146507_8 0605 50",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "90/PPD/PB/2024"
+}
+},
+{
+"d": "2024-05-21",
+"c": {
+"inw": "BUDOWA INSTALACJI GAZOWEJ WEWNĘTRZNEJ W BUDYNKU WIELORODZINNYM Z GARAŻEM NADZIEMNYM wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SPÓŁDZIELNIA BUDOWNICTWA MIESZKANIOWEGO \"TARAS\"",
+"nier": "Koprzywiańska 1B",
+"dz": "146507_8 0416 136",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "89/PPD/PB/2024"
+}
+},
+{
+"d": "2024-05-10",
+"c": {
+"inw": "ROZBIÓRKA BUDYNKU USŁUGOWEGO rozbiórka istniejącego obiektu budowlanego",
+"wn": "SYRENA VIII SP. Z O.O.",
+"nier": "Siennicka 29",
+"dz": "146507_8 0211 8/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "85?PPD/PB/2024/R"
+}
+},
+{
+"d": "2024-05-09",
+"c": {
+"inw": "ROZBIÓRKA BUDYNKÓW I INNYCH - BUDYNEK NR 1, 3, 33 - WRAZ Z ELEMENTAMI ARCH. ZAGOSPODAROWANIA TERENU, BUDYNEK NR 34, PRZYBUDÓWKA 4C, 17A, 17B, 17C - WIATA, PRZYBUDÓWKA NR 11 , WIATY STALOWE 2A i 2 c ... rozbiórka istniejącego obiektu budowlanego",
+"wn": "GROCHOWSKA 301/305 SP. Z O. O. SP. K.",
+"nier": "Grochowska 301/305",
+"dz": "146507_8 0531 26/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "81/PPD/PB/2024/R"
+}
+},
+{
+"d": "2024-05-09",
+"c": {
+"inw": "ROZBIÓRKA BUDYNKÓW I INNYCH - BUDYNEK NR 1, 3, 33 - WRAZ Z ELEMENTAMI ARCH. ZAGOSPODAROWANIA TERENU, BUDYNEK NR 34, PRZYBUDÓWKA 4C, 17A, 17B, 17C - WIATA, PRZYBUDÓWKA NR 11 , WIATY STALOWE 2A i 2 c ... rozbiórka istniejącego obiektu budowlanego",
+"wn": "GROCHOWSKA 301/305 SP. Z O. O. SP. K.",
+"nier": "Grochowska 301/305",
+"dz": "146507_8 0531 26/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "81/PPD/PB/2024/R"
+}
+},
+{
+"d": "2024-05-09",
+"c": {
+"inw": "ROZBIÓRKA BUDYNKÓW I INNYCH - BUDYNEK NR 1, 3, 33 - WRAZ Z ELEMENTAMI ARCH. ZAGOSPODAROWANIA TERENU, BUDYNEK NR 34, PRZYBUDÓWKA 4C, 17A, 17B, 17C - WIATA, PRZYBUDÓWKA NR 11 , WIATY STALOWE 2A i 2 c ... rozbiórka istniejącego obiektu budowlanego",
+"wn": "GROCHOWSKA 301/305 SP. Z O. O. SP. K.",
+"nier": "Grochowska 301/305",
+"dz": "146507_8 0531 26/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "81/PPD/PB/2024/R"
+}
+},
+{
+"d": "2024-05-09",
+"c": {
+"inw": "ROZBUDOWA BUDYNKU MIESZKALNEGO WIELORODZINNEGO O SZYB DŹWIGOWY WRAZ Z ZADASZENIEM NA PARTERZE rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "SPÓŁDZIELNIA MIESZKANIOWA \"OSOWSKA\"",
+"nier": "Szaserów 115",
+"dz": "146507_8 0408 7/26",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "84/PPD/PB/2024"
+}
+},
+{
+"d": "2024-05-09",
+"c": {
+"inw": "ROZBIÓRKA PIWNICY POD HALĄ NR 5 I SCHODAMI ZEWNETRZNYMI DO PIWNICY rozbiórka istniejącego obiektu budowlanego",
+"wn": "GROCHOWSKA 301/305 SP. Z O. O. SP. K.",
+"nier": "Grochowska 301/305",
+"dz": "146507_8 0531 26/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "82?PPD/PB/2024/R"
+}
+},
+{
+"d": "2024-05-09",
+"c": {
+"inw": "ROZBIÓRKA OGRODZEŃ rozbiórka istniejącego obiektu budowlanego",
+"wn": "GROCHOWSKA 301/305 SP. Z O. O. SP. K.",
+"nier": "Grochowska 301/305",
+"dz": "146507_8 0531 26/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "83/PPD/PB/2024/R"
+}
+},
+{
+"d": "2024-05-06",
+"c": {
+"inw": "PRZEBUDOWA BUDYNKU WIELORODZINNEGO POLEGAJĄCA NA DOSTOSOWANIU HOLU WEJŚCIOWEGO, SZYBU WINDOWEGO ORAZ DŹWIGU W KLATKACH 1 i 2 DO KORZYSTANIA Z POZIOMU WEJŚCIA DO BUDYNKU wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SPÓŁDZIELNIA MIESZKANIOWA ORLIK-JANTAR",
+"nier": "Bora-Komorowskiego 33 / gen. Tadeusza",
+"dz": "086101_1 0002 39/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "80/PPD/PB/2024"
+}
+},
+{
+"d": "2024-04-30",
+"c": {
+"inw": "ROZBIÓRKA BUDYNKU USŁUGOWEGO rozbiórka istniejącego obiektu budowlanego",
+"wn": "DEVELIA S.A.",
+"nier": "16",
+"dz": "146507_8 0211 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "79/PPD/PB/2024/R"
+}
+},
+{
+"d": "2024-04-26",
+"c": {
+"inw": "PRZEBUDOWA I REMONT GŁÓWNEGO SKRZYDŁA SZKOŁY PODSTAWOWEJ wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MIASTO ST. WARSZAWA - DZIELNICA PRAGA POŁUDNIE",
+"nier": "Kwatery Głównej 13",
+"dz": "146507_8 0414 22",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "78/PPD/PB/2024"
+}
+},
+{
+"d": "2024-04-23",
+"c": {
+"inw": "BUDYNEK MIESZKALNY WIELORODZINNY ORAZ WIATA (ZADASZENIE MIEJSC POSTOJOWYCH Z ZIELONYM STROPODACHEM) budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Gdecka 21",
+"dz": "146507_8 0508 35",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "75/PPD/PB/2024"
+}
+},
+{
+"d": "2024-04-19",
+"c": {
+"inw": "zmiana pozwolenia na budowę wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "P U BART-BUD S.C. EWA I HENRYK BARTOS",
+"nier": "Naddnieprzańska 9",
+"dz": "146507_8 0713 157",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "73/PPD/PB/2024/Z"
+}
+},
+{
+"d": "2024-04-19",
+"c": {
+"inw": "BUDOWA BUDYNKU MIESZKALNEGO WIELORODZINNEGO budowa nowego/nowych obiektów budowlanych",
+"wn": "P.U.BART-BUD S.C. EWA I HENRYK BARTOS",
+"nier": "Naddnieprzańska 9",
+"dz": "146507_8 0713 157",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "73/PPD/PB/2024/Z"
+}
+},
+{
+"d": "2024-04-19",
+"c": {
+"inw": "ROZBUDOWA Z PRZEBUDOWĄ ISTNIEJĄCEGO SKLEPU LIDL O POMIESZCZENIE SKUPU BUTELEK rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "LIDL SP. Z O.O. SP. K.",
+"nier": "Bora-Komorowskiego 14A / gen. Tadeusza",
+"dz": "146507_8 0606 10/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "74/PPD/PB/2024"
+}
+},
+{
+"d": "2024-04-18",
+"c": {
+"inw": "PRZEBUDOWA I REMONT BUDYNKU DOMU STUDENCKIEGO NR 3 UNIWERSYTETU WARSZAWSKIEGO wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "UNIWERSYTET WARSZAWSKI",
+"nier": "Kickiego 12 / Ludwika",
+"dz": "146507_8 0406 22",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "71/PPD/PB/2024"
+}
+},
+{
+"d": "2024-04-18",
+"c": {
+"inw": "PRZEBUDOWA DACHU, WYKONANIE SCHODÓW I PRZEBUDOWA LOKALU 2 W BUDYNKU MIESZKALNYM JEDNORODZINNYM wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kawcza 53",
+"dz": "146507_8 0509 56",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "72/PPD/PB/2024"
+}
+},
+{
+"d": "2024-04-17",
+"c": {
+"inw": "wzmocnienie stropów drewnianych w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota mieszkaniowa Nieruchomości Tomasza Zana 22",
+"nier": "Zana 22 / Tomasza",
+"dz": "146507_8 0410 78",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "69/PPD/PB/2024"
+}
+},
+{
+"d": "2024-04-17",
+"c": {
+"inw": "PRZEBUDOWA INSTALACJI GAZOWEJ W BUDYNKU MIESZKALNYM WIELORIDZINNYM wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "WSPÓLNOTA MIESZKANIOWA",
+"nier": "Chłopickiego 51 / Józefa",
+"dz": "146507_8 0306 3/22",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "70/PPD/PB/2024"
+}
+},
+{
+"d": "2024-04-11",
+"c": {
+"inw": "ROZBIÓRKA BUDYNKÓW MIESZKALNO USŁUGOWEGO ORAZ GARAŻOWEGO rozbiórka istniejącego obiektu budowlanego",
+"wn": "CONSTI SP. Z O.O.",
+"nier": "Tarnowiecka 33, 33B",
+"dz": "146507_8 0509 191",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "65/PPD/PB/2024/R"
+}
+},
+{
+"d": "2024-04-11",
+"c": {
+"inw": "ROZBIÓRKA BUDYNKÓW MIESZKALNO USŁUGOWEGO ORAZ GARAŻOWEGO rozbiórka istniejącego obiektu budowlanego",
+"wn": "CONSTI SP. Z O.O.",
+"nier": "Tarnowiecka 33, 33B",
+"dz": "146507_8 0509 193",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "65/PPD/PB/2024/R"
+}
+},
+{
+"d": "2024-04-08",
+"c": {
+"inw": "PRZEBUDOWA (MODERNIZACJA)POMIESZCZEŃ KONDYGNACJI PRZEZIEMIA NA POTRZEBY CENTRALNEJ STERYLIZATORNII W BUDYNKU SZPITALNYM  \"A\" wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SZPITAL DZIECĘCY IM. PROF. DOK. MED. JANA BOGDANOWICZA",
+"nier": "Niekłańska 4/24",
+"dz": "146507_8 0110 81",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "62/PPD/PB/2024"
+}
+},
+{
+"d": "2024-04-08",
+"c": {
+"inw": "Rozbiórka budynku „D\" szkolno-magazynowego ( dawnej wiaty) i dwóch magazynów blaszanych rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Kaleńska 3",
+"dz": "146507_8 0406 91",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "63/PPD/PB/2024/R"
+}
+},
+{
+"d": "2024-04-04",
+"c": {
+"inw": "PRZEBUDOWA LOKALU MIESZKLANEGO NR 8 i 9 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Francuska 11 A",
+"dz": "146507_8 0108 99",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "60/PPD/PB/2024"
+}
+},
+{
+"d": "2024-04-03",
+"c": {
+"inw": "REMONT I POGŁEBIENIE PRZYZIEMIA ZABYTKOWEGO BUDYNKU wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Obrońców 15",
+"dz": "146507_8 0107 66",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "58/PPD/PB/2024"
+}
+},
+{
+"d": "2024-04-03",
+"c": {
+"inw": "Rozbiórka budynku mieszkalnego jednorodzinnego wraz z garażem rozbiórka istniejącego obiektu budowlanego",
+"wn": "SASPOL Aleksander Jakuszew",
+"nier": "Zapałczana 4",
+"dz": "146507_8 0415 85",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "59/PPD/PB/2024/R"
+}
+},
+{
+"d": "2024-04-02",
+"c": {
+"inw": "przebudowa, rozbudowa i nadbudowa budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Zakopiańska 24",
+"dz": "146507_8 0112 161",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "57/PPD/PB/2024"
+}
+},
+{
+"d": "2024-03-26",
+"c": {
+"inw": "PRZEBUDOWA FRAGMENTU ELEWACJI BUDYNKU GALERII HANDLOWO USŁUGOWEJ ARTIUM PROMENADA wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CH PROMENADA SP. Z O.O.",
+"nier": "Ostrobramska 75C",
+"dz": "146507_8 0524 36",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "49/PPD/PB/2024"
+}
+},
+{
+"d": "2024-03-26",
+"c": {
+"inw": "PRZEBUDOWA FRAGMENTU ELEWACJI BUDYNKU GALERII HANDLOWO USŁUGOWEJ ARTIUM PROMENADA wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CH PROMENADA SP. Z O.O.",
+"nier": "Ostrobramska 75C",
+"dz": "146507_8 0524 32",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "49/PPD/PB/2024"
+}
+},
+{
+"d": "2024-03-26",
+"c": {
+"inw": "PRZEBUDOWA FRAGMENTU ELEWACJI BUDYNKU GALERII HANDLOWO USŁUGOWEJ ARTIUM PROMENADA wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CH PROMENADA SP. Z O.O.",
+"nier": "Ostrobramska 75C",
+"dz": "146507_8 0524 31",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "49/PPD/PB/2024"
+}
+},
+{
+"d": "2024-03-26",
+"c": {
+"inw": "PRZEBUDOWA FRAGMENTU ELEWACJI BUDYNKU GALERII HANDLOWO USŁUGOWEJ ARTIUM PROMENADA wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CH PROMENADA SP. Z O.O.",
+"nier": "Ostrobramska 75C",
+"dz": "146507_8 0524 30",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "49/PPD/PB/2024"
+}
+},
+{
+"d": "2024-03-26",
+"c": {
+"inw": "PRZEBUDOWA FRAGMENTU ELEWACJI BUDYNKU GALERII HANDLOWO USŁUGOWEJ ARTIUM PROMENADA wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CH PROMENADA SP. Z O.O.",
+"nier": "Ostrobramska 75C",
+"dz": "146507_8 0524 28/30",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "49/PPD/PB/2024"
+}
+},
+{
+"d": "2024-03-26",
+"c": {
+"inw": "PRZEBUDOWA FRAGMENTU ELEWACJI BUDYNKU GALERII HANDLOWO USŁUGOWEJ ARTIUM PROMENADA wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CH PROMENADA SP. Z O.O.",
+"nier": "Ostrobramska 75C",
+"dz": "146507_8 0524 28/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "49/PPD/PB/2024"
+}
+},
+{
+"d": "2024-03-26",
+"c": {
+"inw": "PRZEBUDOWA FRAGMENTU ELEWACJI BUDYNKU GALERII HANDLOWO USŁUGOWEJ ARTIUM PROMENADA wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CH PROMENADA SP. Z O.O.",
+"nier": "Ostrobramska 75C",
+"dz": "146507_8 0524 24",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "49/PPD/PB/2024"
+}
+},
+{
+"d": "2024-03-26",
+"c": {
+"inw": "PRZEBUDOWA FRAGMENTU ELEWACJI BUDYNKU GALERII HANDLOWO USŁUGOWEJ ARTIUM PROMENADA wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CH PROMENADA SP. Z O.O.",
+"nier": "Ostrobramska 75C",
+"dz": "146507_8 0524 23",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "49/PPD/PB/2024"
+}
+},
+{
+"d": "2024-03-26",
+"c": {
+"inw": "PRZEBUDOWA FRAGMENTU ELEWACJI BUDYNKU GALERII HANDLOWO USŁUGOWEJ ARTIUM PROMENADA wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CH PROMENADA SP. Z O.O.",
+"nier": "Ostrobramska 75C",
+"dz": "146507_8 0524 22",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "49/PPD/PB/2024"
+}
+},
+{
+"d": "2024-03-26",
+"c": {
+"inw": "PRZEBUDOWA FRAGMENTU ELEWACJI BUDYNKU GALERII HANDLOWO USŁUGOWEJ ARTIUM PROMENADA wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CH PROMENADA SP. Z O.O.",
+"nier": "Ostrobramska 75C",
+"dz": "146507_8 0524 21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "49/PPD/PB/2024"
+}
+},
+{
+"d": "2024-03-26",
+"c": {
+"inw": "PRZEBUDOWA FRAGMENTU ELEWACJI BUDYNKU GALERII HANDLOWO USŁUGOWEJ ARTIUM PROMENADA wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CH PROMENADA SP. Z O.O.",
+"nier": "Ostrobramska 75C",
+"dz": "146507_8 0524 20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "49/PPD/PB/2024"
+}
+},
+{
+"d": "2024-03-26",
+"c": {
+"inw": "PRZEBUDOWA FRAGMENTU ELEWACJI BUDYNKU GALERII HANDLOWO USŁUGOWEJ ARTIUM PROMENADA wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CH PROMENADA SP. Z O.O.",
+"nier": "Ostrobramska 75C",
+"dz": "146507_8 0524 19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "49/PPD/PB/2024"
+}
+},
+{
+"d": "2024-03-26",
+"c": {
+"inw": "PRZEBUDOWA FRAGMENTU ELEWACJI BUDYNKU GALERII HANDLOWO USŁUGOWEJ ARTIUM PROMENADA wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CH PROMENADA SP. Z O.O.",
+"nier": "Ostrobramska 75C",
+"dz": "146507_8 0524 15/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "49/PPD/PB/2024"
+}
+},
+{
+"d": "2024-03-26",
+"c": {
+"inw": "PRZEBUDOWA FRAGMENTU ELEWACJI BUDYNKU GALERII HANDLOWO USŁUGOWEJ ARTIUM PROMENADA wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CH PROMENADA SP. Z O.O.",
+"nier": "Ostrobramska 75C",
+"dz": "146507_8 0524 16/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "49/PPD/PB/2024"
+}
+},
+{
+"d": "2024-03-26",
+"c": {
+"inw": "PRZEBUDOWA FRAGMENTU ELEWACJI BUDYNKU GALERII HANDLOWO USŁUGOWEJ ARTIUM PROMENADA wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CH PROMENADA SP. Z O.O.",
+"nier": "Ostrobramska 75C",
+"dz": "146507_8 0524 16/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "49/PPD/PB/2024"
+}
+},
+{
+"d": "2024-03-25",
+"c": {
+"inw": "BUDYNEK MIESZKALNY - OFICYNA MUROWANA NIEPODPIWNICZONA I BUDYNEK NIEMIESZKALNY - BUDYNEK GOSPODARCZY DREWNIANY rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Zapałczana 9",
+"dz": "146507_8 0415 66",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "47/PPD/PB/2024/R"
+}
+},
+{
+"d": "2024-03-25",
+"c": {
+"inw": "PRZEBUDOWA BUDYNKU \"E\" POZIOM -1 NA POTRZEBY ODDZIAŁU PEDIATRII wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SZPITAL DZIECIĘCY IM. PROF. DOK. MED. JANA BOGDANOWICZA",
+"nier": "Niekłańska 4/24",
+"dz": "146507_8 0110 81",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "45/PPD/PB/2024"
+}
+},
+{
+"d": "2024-03-25",
+"c": {
+"inw": "ROZBIÓRKA BUDYNKU MIESZKALNEGO JEDNORODZINNEGO Z PODPIWNICZENIEM I PODDADZEM rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Gdecka 21",
+"dz": "146507_8 0508 35",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "48/PPD/PB/2024/R"
+}
+},
+{
+"d": "2024-03-20",
+"c": {
+"inw": "NADBUDOWA, PRZEBUDOWA I ROZBUDOWA BUDYNKU MIESZKALNEGO JEDNORODZINNEGO rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Aldony 14 / Królowej",
+"dz": "146507_8 0109 134",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "41/PPD/PB/2024"
+}
+},
+{
+"d": "2024-03-20",
+"c": {
+"inw": "BUDYNEK MIESZKALNY WIELORODZINNY Z USŁUGAMI W PARTERZE I GARAŻEM PODZIEMNYM, Z ZAGOSPODAROWANIEM TERENU I NIEZBĘDNĄ INFRASTRUKTURĄ budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Podskarbińska",
+"dz": "146507_8 0211 2/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "40/PPD/PB/2024"
+}
+},
+{
+"d": "2024-03-12",
+"c": {
+"inw": "BUDOWA INSTALACJI GAZU W LOKALU NIEMIESZKALNYM W BUDYNKU MIESZKALNYM WIELORODZINNYM wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Dąbrówki 9/11",
+"dz": "146507_8 0104 110",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/PPD/PB/2024"
+}
+},
+{
+"d": "2024-03-11",
+"c": {
+"inw": "BUDOWA ŁĄCZNIKA POMIĘDZY BUDYNKIEM \"I\", A BUDYNKIEM \"A, B, C, D, F\" ORAZ PRZEBUDOWA KLATKI SCHODOWEJ W BUDYNKU \"B\" budowa nowego/nowych obiektów budowlanych",
+"wn": "PCO S.A.",
+"nier": "Nowaka-Jeziorańskiego 28 / Jana",
+"dz": "146507_8 0521 4/36",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "37/PPD/PB/2024"
+}
+},
+{
+"d": "2024-03-11",
+"c": {
+"inw": "BUDOWA ŁĄCZNIKA POMIĘDZY BUDYNKIEM \"I\", A BUDYNKIEM \"A, B, C, D, F\" ORAZ PRZEBUDOWA KLATKI SCHODOWEJ W BUDYNKU \"B\" budowa nowego/nowych obiektów budowlanych",
+"wn": "PCO S.A.",
+"nier": "Nowaka-Jeziorańskiego 28 / Jana",
+"dz": "146507_8 0521 4/29",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "37/PPD/PB/2024"
+}
+},
+{
+"d": "2024-03-11",
+"c": {
+"inw": "BUDOWA ŁĄCZNIKA POMIĘDZY BUDYNKIEM \"I\", A BUDYNKIEM \"A, B, C, D, F\" ORAZ PRZEBUDOWA KLATKI SCHODOWEJ W BUDYNKU \"B\" budowa nowego/nowych obiektów budowlanych",
+"wn": "PCO S.A.",
+"nier": "Nowaka-Jeziorańskiego 28 / Jana",
+"dz": "146507_8 0521 4/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "37/PPD/PB/2024"
+}
+},
+{
+"d": "2024-03-11",
+"c": {
+"inw": "BUDOWA ŁĄCZNIKA POMIĘDZY BUDYNKIEM \"I\", A BUDYNKIEM \"A, B, C, D, F\" ORAZ PRZEBUDOWA KLATKI SCHODOWEJ W BUDYNKU \"B\" budowa nowego/nowych obiektów budowlanych",
+"wn": "PCO S.A.",
+"nier": "Nowaka-Jeziorańskiego 28 / Jana",
+"dz": "146507_8 0521 4/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "37/PPD/PB/2024"
+}
+},
+{
+"d": "2024-03-06",
+"c": {
+"inw": "POWIĘKSZENIE OTWORU W ŚCIANIE NOŚNEJ Z ZASTOSOWANIEM NADPROŻA STALOWEGO wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Berezyńska 13",
+"dz": "146507_8 0103 121",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "36/PPD/PB/2024"
+}
+},
+{
+"d": "2024-03-06",
+"c": {
+"inw": "PRZEBUDOWA I REMONT BUDYNKU DOMU STUDENCKIEGO NR 3 UNIWERSYTETU WARSZAWSKIEGO wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "UNIWERSYTET WARSZAWSKI",
+"nier": "Kickiego 9 / Ludwika",
+"dz": "146507_8 0406 17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "35/PPD/PB/2024"
+}
+},
+{
+"d": "2024-03-05",
+"c": {
+"inw": "PRZEBUDOWA BUDYNKU MIESZKALNEGO WIELORODZINNEGO O POWIĘKSZENIE OTWORU OKIENNEGO wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Makowska 155",
+"dz": "146507_8 0306 3/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "33/PPD/PB/2024"
+}
+},
+{
+"d": "2024-03-05",
+"c": {
+"inw": "ROZBIÓRKA BUDYNKÓW GOSPODARCZYCH WRAZ Z PRZYŁĄCZENIAMI rozbiórka istniejącego obiektu budowlanego",
+"wn": "DOBRA FORMA 2 SP. Z O.O.",
+"nier": "Mińska 17",
+"dz": "146507_8 0202 22",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "34/PPD/PB/2024/R"
+}
+},
+{
+"d": "2024-03-04",
+"c": {
+"inw": "BUDOWA DROGI GMINNEJ budowa nowego/nowych obiektów budowlanych",
+"wn": "DOM DEVELOPMENT S.A.",
+"nier": "",
+"dz": "146507_8 0212 9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "32/PPD/PB/2024"
+}
+},
+{
+"d": "2024-03-04",
+"c": {
+"inw": "BUDOWA DROGI GMINNEJ budowa nowego/nowych obiektów budowlanych",
+"wn": "DOM DEVELOPMENT S.A.",
+"nier": "",
+"dz": "146507_8 0211 5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "32/PPD/PB/2024"
+}
+},
+{
+"d": "2024-02-29",
+"c": {
+"inw": "DOSTAWY ORAZ MONTAŻU ZEWNĘTRZNYCH NOŚNIKÓW INFORMACJI DEDYKOWANYCH DO DYNAMICZNEGO WYŚWIETLANIA TREŚCI W FORMIE CYFROWEJ wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PL.2012+ SP. Z O.O.",
+"nier": "Aleja Księcia Józefa Poniatowskiego",
+"dz": "146507_8 0101 12/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "30/PPD/PB/2024"
+}
+},
+{
+"d": "2024-02-29",
+"c": {
+"inw": "ROZBIÓRKA BUDYNKÓW SALONU SAMOCHODOWEGO rozbiórka istniejącego obiektu budowlanego",
+"wn": "MARVIPOL DEVELOPMENT S.A.",
+"nier": "Aleja Jerzego Waszyngtona 50",
+"dz": "146507_8 0111 3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "31/PPD/PB/2024/R"
+}
+},
+{
+"d": "2024-02-29",
+"c": {
+"inw": "ROZBIÓRKA BUDYNKÓW SALONU SAMOCHODOWEGO rozbiórka istniejącego obiektu budowlanego",
+"wn": "MARVIPOL DEVELOPMENT S.A.",
+"nier": "Aleja Jerzego Waszyngtona 50",
+"dz": "146507_8 0111 2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "31/PPD/PB/2024/R"
+}
+},
+{
+"d": "2024-02-27",
+"c": {
+"inw": "NADBUDOWA, ROZBUDOWA I PRZEBUDOWA BUDYNKU BIUROWO-USŁUGOWEGO rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Jubilerska 8",
+"dz": "146507_8 0529 29/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "29/PPD/PB/2024"
+}
+},
+{
+"d": "2024-02-12",
+"c": {
+"inw": "TERMOMODERNIZACJA BUDYNKÓW NR 31, 32, 23 BLOKÓW E3 i E2/3 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "WOJSKOWY INSTYTUT MEDYCZNY PAŃSTWOWY INSTYTUT BADAWCZY",
+"nier": "Szaserów 128",
+"dz": "146507_8 0403 8/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "15/PPD/PB/2024"
+}
+},
+{
+"d": "2024-02-12",
+"c": {
+"inw": "PRZEBUDOWA I ROZBUDOWA BUDYNKU MIESZKALNEGO JEDNORODZINNEGO rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Katowicka 24",
+"dz": "146507_8 0107 78",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "17/PPD/PB/2024"
+}
+},
+{
+"d": "2024-02-12",
+"c": {
+"inw": "PRZEBUDOWA POMIESZCZEŃ DLA POTRZEB PORADNI CHORÓB PIERSI Z PRACOWNIĄ MAMMOGRAFII wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "WOJSKOWY INSTYTUT MEDYCZNY PAŃSTWOWY INSTYTUT BADAWCZY",
+"nier": "Szaserów 128",
+"dz": "146507_8 0403 8/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "16/PPD/PB/2024"
+}
+},
+{
+"d": "2024-02-12",
+"c": {
+"inw": "DOBUDOWA SZYBU DŻWIGOWEGO SAMONOŚNEGO WRAZ Z DŻWIGIEM ELEKTRYCZNYM DLA BUDYNKU MIESZKALNEGO WIELORODZINNEGO rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "WSÓLNOTA MIESZKANIOWA NIERUCHOMOŚCI PRZY UL. WASZYNGTONA 14A",
+"nier": "Aleja Jerzego Waszyngtona 14A",
+"dz": "146507_8 0105 6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "18/PPD/PB/2024"
+}
+},
+{
+"d": "2024-01-30",
+"c": {
+"inw": "BUDOWA BUDYNKU MIESZKALNEGO WIELORODZINNEGO Z USŁUGAMI W PARTERZE I GARAŻEM PODZIEMNYM budowa nowego/nowych obiektów budowlanych",
+"wn": "DOBRA FORMA 2 SP. Z O.O.",
+"nier": "Mińska",
+"dz": "146507_8 0202 31",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "12/PPD/PB/2024"
+}
+},
+{
+"d": "2024-01-29",
+"c": {
+"inw": "PRAIJEK BUDOWLANY ROZBIÓRKA BUDYNKÓW MIESZKALNYCH I GOSPODARCZYCH ORAZ BUDYNKU GARAŻOWEGO rozbiórka istniejącego obiektu budowlanego",
+"wn": "JJ RESIDENTIAL SP. Z O.O.",
+"nier": "Sulejkowska 27 , 29",
+"dz": "146507_8 0515 41",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "11/PPD/PB/2024/R"
+}
+},
+{
+"d": "2024-01-29",
+"c": {
+"inw": "PRAIJEK BUDOWLANY ROZBIÓRKA BUDYNKÓW MIESZKALNYCH I GOSPODARCZYCH ORAZ BUDYNKU GARAŻOWEGO rozbiórka istniejącego obiektu budowlanego",
+"wn": "JJ RESIDENTIAL SP. Z O.O.",
+"nier": "Sulejkowska 27 , 29",
+"dz": "146507_8 0515 40",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "11/PPD/PB/2024/R"
+}
+},
+{
+"d": "2024-01-26",
+"c": {
+"inw": "Rozbiórka budynku mieszkalnego oraz rozbiórka budynku gospodarczo-garażowego rozbiórka istniejącego obiektu budowlanego",
+"wn": "ENER EKO GRZEGORZ PIEŃKOWSKI I ARKADIUSZ ŻUKOWSKI S.C.",
+"nier": "Makowska 23",
+"dz": "146507_8 0712 20",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "9/PPD/PB/2024/R"
+}
+},
+{
+"d": "2024-01-12",
+"c": {
+"inw": "BUDOWA STACJI BAZOWEJ TELEFONII KOMÓRKOWEJ P4 \"WAR2251A\" WRAZ Z NIEZBĘDNĄ INFRASTRUKTURĄ TECHNICZNĄ budowa nowego/nowych obiektów budowlanych",
+"wn": "P4 SP. Z O.O.",
+"nier": "Suchodolska 24",
+"dz": "146507_8 0502 72",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6/PPD/PB/2024"
+}
+},
+{
+"d": "2024-01-05",
+"c": {
+"inw": "BUDYNEK MIESZKALNY WIELORODZINNY Z USŁUGAMI W PARTERZE I GARAŻEM PODZIEMNYM budowa nowego/nowych obiektów budowlanych",
+"wn": "SPÓŁDZIELNIA MIESZKANIOWA GOCŁAW LOTNISKO",
+"nier": "Złotej Wilgi 2",
+"dz": "146507_8 0606 14/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "3/PPD/PB/2024"
+}
+}
+]
+}
+]
+}

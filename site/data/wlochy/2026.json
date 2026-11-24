@@ -1,0 +1,61 @@
+{
+"district": "wlochy",
+"year": 2026,
+"generated": "2026-11-24T21:24:53+01:00",
+"total": 1,
+"registers": [
+{
+"id": "dec_pnb",
+"name": "Decyzje o pozwoleniu na budowę",
+"short": "Decyzje PnB",
+"desc": "Decyzje o pozwoleniu na budowę wydane przez organ architektoniczno-budowlany dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer decyzji",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2026-01-12",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Łopuszańska 235 Sp. z o.o.",
+"nier": "Łopuszańska 36",
+"dz": "146517_8 0501 39",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVI-WAB-AAB.6740.141.2025.KDU"
+}
+}
+]
+}
+]
+}

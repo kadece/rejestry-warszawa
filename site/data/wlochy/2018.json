@@ -1,0 +1,554 @@
+{
+"district": "wlochy",
+"year": 2018,
+"generated": "2026-11-24T21:24:53+01:00",
+"total": 42,
+"registers": [
+{
+"id": "wn_pnb",
+"name": "Wnioski o pozwolenie na budowę",
+"short": "Wnioski PnB",
+"desc": "Wnioski o pozwolenie na budowę złożone do organu architektoniczno-budowlanego dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer wniosku",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2018-12-14",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego z garażem budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Śląska",
+"dz": "146517_8 0814 204",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "6740.269.2018.DPA (KOB/14886/18)"
+}
+},
+{
+"d": "2018-12-14",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego z garażem budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Śląska",
+"dz": "146517_8 0814 203",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "6740.269.2018.DPA (KOB/14886/18)"
+}
+},
+{
+"d": "2018-12-10",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Belvedere Nieruchomości Sp. z o.o.",
+"nier": "Globusowa 46",
+"dz": "146517_8 0808 90",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.272.2018.ASO (KOB/14650/18)"
+}
+},
+{
+"d": "2018-11-21",
+"c": {
+"inw": "przebudowa oraz zmiana sposobu użytkowania części budynku gospodarczego na lokal mieszkalny z częścią garażową wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Latarnika 15",
+"dz": "146517_8 0818 49",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "6740.257.2018.DPA (KOB/13828/18)"
+}
+},
+{
+"d": "2018-11-15",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego (budynek \"A\") z częścią usługową i garażem podziemnym oraz niezbędną infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "DANTEX Sp. z o.o. SK",
+"nier": "Szybka 7",
+"dz": "146517_8 0721 21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.251.2018.DPA (KOB/13579/18)"
+}
+},
+{
+"d": "2018-11-15",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego (budynek \"A\") z częścią usługową i garażem podziemnym oraz niezbędną infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "DANTEX Sp. z o.o. SK",
+"nier": "Szybka 7",
+"dz": "146517_8 0721 19/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.251.2018.DPA (KOB/13579/18)"
+}
+},
+{
+"d": "2018-11-08",
+"c": {
+"inw": "przebudowa budynku biurowo - magazynowego wraz z zagospodarowaniem terenu i infrastrukturą techniczną wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Bolero Investments 2 Sp. z o.o.",
+"nier": "Równoległa 4",
+"dz": "146517_8 0501 32/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.243.2018.DPA (KOB/13374/18)"
+}
+},
+{
+"d": "2018-10-04",
+"c": {
+"inw": "przebudowa i rozbudowa budynku usługowego z funkcją mieszkalną rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Łuczek 4 i 6",
+"dz": "146517_8 0806 133",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.211.2018 (KOB/11865/18)"
+}
+},
+{
+"d": "2018-10-04",
+"c": {
+"inw": "przebudowa i rozbudowa budynku usługowego z funkcją mieszkalną rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Łuczek 4 i 6",
+"dz": "146517_8 0806 131",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.211.2018 (KOB/11865/18)"
+}
+},
+{
+"d": "2018-08-30",
+"c": {
+"inw": "budowa małego domu wielorodzinnego wraz z wewnętrzną instalacją gazową budowa nowego/nowych obiektów budowlanych",
+"wn": "MARS Sp. z o.o. Sp. k.",
+"nier": "Poziomkowa 6",
+"dz": "146517_8 0811 23",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.179.2018.DPA (KOB/10290/18)"
+}
+},
+{
+"d": "2018-08-24",
+"c": {
+"inw": "budowa budynku sześciooddziałowego przedszkola modułowego budowa nowego/nowych obiektów budowlanych",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Parowcowa",
+"dz": "146517_8 0801 34/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.174.2018.DPA (KK/59/18)"
+}
+},
+{
+"d": "2018-08-24",
+"c": {
+"inw": "budowa budynku sześciooddziałowego przedszkola modułowego budowa nowego/nowych obiektów budowlanych",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Parowcowa",
+"dz": "146517_8 0801 34/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.174.2018.DPA (KK/59/18)"
+}
+},
+{
+"d": "2018-08-24",
+"c": {
+"inw": "budowa budynku sześciooddziałowego przedszkola modułowego budowa nowego/nowych obiektów budowlanych",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Parowcowa",
+"dz": "146517_8 0801 34/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.174.2018.DPA (KK/59/18)"
+}
+},
+{
+"d": "2018-08-24",
+"c": {
+"inw": "budowa budynku sześciooddziałowego przedszkola modułowego budowa nowego/nowych obiektów budowlanych",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Parowcowa",
+"dz": "146517_8 0801 34/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.174.2018.DPA (KK/59/18)"
+}
+},
+{
+"d": "2018-08-24",
+"c": {
+"inw": "budowa budynku sześciooddziałowego przedszkola modułowego budowa nowego/nowych obiektów budowlanych",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Parowcowa",
+"dz": "146517_8 0801 13/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.174.2018.DPA (KK/59/18)"
+}
+},
+{
+"d": "2018-08-24",
+"c": {
+"inw": "budowa budynku sześciooddziałowego przedszkola modułowego budowa nowego/nowych obiektów budowlanych",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Parowcowa",
+"dz": "146517_8 0801 13/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.174.2018.DPA (KK/59/18)"
+}
+},
+{
+"d": "2018-08-24",
+"c": {
+"inw": "budowa budynku sześciooddziałowego przedszkola modułowego budowa nowego/nowych obiektów budowlanych",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Parowcowa",
+"dz": "146517_8 0801 17/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.174.2018.DPA (KK/59/18)"
+}
+},
+{
+"d": "2018-08-21",
+"c": {
+"inw": "rozbiórka budynku gospodarczego, budowa budynku jednorodzinnego oraz rozbudowa i nadbudowa istniejącego budynku jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Wszemirowska 3/5",
+"dz": "146517_8 0819 152",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "6740.170.2018.DPA (KOB/9785/18)"
+}
+},
+{
+"d": "2018-07-23",
+"c": {
+"inw": "budowa budynku hotelowego wraz z garażem podziemnym, instalacjami i urządzeniami technicznymi budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Słowicza 28, 30",
+"dz": "146517_8 0403 93/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.157.2018.DPA (KOB/8593/18)"
+}
+},
+{
+"d": "2018-07-23",
+"c": {
+"inw": "budowa budynku hotelowego wraz z garażem podziemnym, instalacjami i urządzeniami technicznymi budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Słowicza 28, 30",
+"dz": "146517_8 0403 92",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.157.2018.DPA (KOB/8593/18)"
+}
+},
+{
+"d": "2018-07-23",
+"c": {
+"inw": "budowa budynku hotelowego wraz z garażem podziemnym, instalacjami i urządzeniami technicznymi budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Słowicza 28, 30",
+"dz": "146517_8 0403 93/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.157.2018.DPA (KOB/8593/18)"
+}
+},
+{
+"d": "2018-07-05",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego dwulokalowego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Drukarzy 30",
+"dz": "146517_8 0812 5",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "6740.139.2018.DPA (KOB/7917/18)"
+}
+},
+{
+"d": "2018-07-05",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego dwulokalowego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Drukarzy 30",
+"dz": "146517_8 0812 6",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "6740.139.2018.DPA (KOB/7917/18)"
+}
+},
+{
+"d": "2018-06-15",
+"c": {
+"inw": "budowa budynku usługowo-hotelowego (z ewentualnym wykorzystaniem konstrukcji istniejącego budynku mieszkalnego jednorodzinnego) budowa nowego/nowych obiektów budowlanych",
+"wn": "EUROWIOSE Sp. z o.o.",
+"nier": "Światowa 19",
+"dz": "146517_8 0720 85",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.217.2019.DPA (KOB/10147/19)"
+}
+}
+]
+},
+{
+"id": "dec_pnb",
+"name": "Decyzje o pozwoleniu na budowę",
+"short": "Decyzje PnB",
+"desc": "Decyzje o pozwoleniu na budowę wydane przez organ architektoniczno-budowlany dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer decyzji",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2018-12-21",
+"c": {
+"inw": "rozbiórka budynku gospodarczego, budowa budynku jednorodzinnego oraz rozbudowa i nadbudowa istniejącego budynku jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Wszemirowska 3/5",
+"dz": "146517_8 0819 152",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "306/2018"
+}
+},
+{
+"d": "2018-12-20",
+"c": {
+"inw": "przebudowa i rozbudowa budynku usługowego z funkcją mieszkalną rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Łuczek 4 i 6",
+"dz": "146517_8 0806 133",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "304/2018"
+}
+},
+{
+"d": "2018-12-20",
+"c": {
+"inw": "przebudowa i rozbudowa budynku usługowego z funkcją mieszkalną rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Łuczek 4 i 6",
+"dz": "146517_8 0806 131",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "304/2018"
+}
+},
+{
+"d": "2018-12-05",
+"c": {
+"inw": "przebudowa budynku biurowo - magazynowego wraz z zagospodarowaniem terenu i infrastrukturą techniczną wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Bolero Investments 2 Sp. z o.o.",
+"nier": "Równoległa 4",
+"dz": "146517_8 0501 32/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "286/2018"
+}
+},
+{
+"d": "2018-11-30",
+"c": {
+"inw": "budowa małego domu wielorodzinnego wraz z wewnętrzną instalacją gazową budowa nowego/nowych obiektów budowlanych",
+"wn": "MARS Sp. z o.o. Sp. k.",
+"nier": "Poziomkowa 6",
+"dz": "146517_8 0811 23",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "280/2018"
+}
+},
+{
+"d": "2018-10-12",
+"c": {
+"inw": "budowa budynku hotelowego wraz z garażem podziemnym, instalacjami i urządzeniami technicznymi budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Słowicza 28, 30",
+"dz": "146517_8 0403 93/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "241/2018"
+}
+},
+{
+"d": "2018-10-12",
+"c": {
+"inw": "budowa budynku hotelowego wraz z garażem podziemnym, instalacjami i urządzeniami technicznymi budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Słowicza 28, 30",
+"dz": "146517_8 0403 92",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "241/2018"
+}
+},
+{
+"d": "2018-10-12",
+"c": {
+"inw": "budowa budynku hotelowego wraz z garażem podziemnym, instalacjami i urządzeniami technicznymi budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Słowicza 28, 30",
+"dz": "146517_8 0403 93/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "241/2018"
+}
+},
+{
+"d": "2018-09-21",
+"c": {
+"inw": "budowa budynku usługowo-hotelowego (z ewentualnym wykorzystaniem konstrukcji istniejącego budynku mieszkalnego jednorodzinnego) budowa nowego/nowych obiektów budowlanych",
+"wn": "EUROWIOSE Sp. z o.o.",
+"nier": "Światowa 19",
+"dz": "146517_8 0720 85",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "216/2018"
+}
+},
+{
+"d": "2018-09-18",
+"c": {
+"inw": "budowa budynku sześciooddziałowego przedszkola modułowego budowa nowego/nowych obiektów budowlanych",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Parowcowa",
+"dz": "146517_8 0801 34/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "211/2018"
+}
+},
+{
+"d": "2018-09-18",
+"c": {
+"inw": "budowa budynku sześciooddziałowego przedszkola modułowego budowa nowego/nowych obiektów budowlanych",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Parowcowa",
+"dz": "146517_8 0801 34/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "211/2018"
+}
+},
+{
+"d": "2018-09-18",
+"c": {
+"inw": "budowa budynku sześciooddziałowego przedszkola modułowego budowa nowego/nowych obiektów budowlanych",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Parowcowa",
+"dz": "146517_8 0801 34/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "211/2018"
+}
+},
+{
+"d": "2018-09-18",
+"c": {
+"inw": "budowa budynku sześciooddziałowego przedszkola modułowego budowa nowego/nowych obiektów budowlanych",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Parowcowa",
+"dz": "146517_8 0801 34/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "211/2018"
+}
+},
+{
+"d": "2018-09-18",
+"c": {
+"inw": "budowa budynku sześciooddziałowego przedszkola modułowego budowa nowego/nowych obiektów budowlanych",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Parowcowa",
+"dz": "146517_8 0801 13/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "211/2018"
+}
+},
+{
+"d": "2018-09-18",
+"c": {
+"inw": "budowa budynku sześciooddziałowego przedszkola modułowego budowa nowego/nowych obiektów budowlanych",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Parowcowa",
+"dz": "146517_8 0801 13/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "211/2018"
+}
+},
+{
+"d": "2018-09-18",
+"c": {
+"inw": "budowa budynku sześciooddziałowego przedszkola modułowego budowa nowego/nowych obiektów budowlanych",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Parowcowa",
+"dz": "146517_8 0801 17/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "211/2018"
+}
+},
+{
+"d": "2018-02-05",
+"c": {
+"inw": "Budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Sabały 29",
+"dz": "146517_8 0406 22/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "13/2018"
+}
+},
+{
+"d": "2018-01-09",
+"c": {
+"inw": "Przebudowa i rozbudowa budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Galaktyki 23",
+"dz": "146517_8 0808 232",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "02/2018"
+}
+}
+]
+}
+]
+}

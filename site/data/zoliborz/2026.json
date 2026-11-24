@@ -1,0 +1,994 @@
+{
+"district": "zoliborz",
+"year": 2026,
+"generated": "2026-11-24T21:24:53+01:00",
+"total": 82,
+"registers": [
+{
+"id": "wn_pnb",
+"name": "Wnioski o pozwolenie na budowę",
+"short": "Wnioski PnB",
+"desc": "Wnioski o pozwolenie na budowę złożone do organu architektoniczno-budowlanego dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer wniosku",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2026-07-13",
+"c": {
+"inw": "przebudowa ścian zewnętrznych klatek schodowych w zakresie otworów okiennych w budynku internatu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Agencja Mienia Wojskowego",
+"nier": "Elbląska 8",
+"dz": "146519_8 0201 5/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.35.2026.PFE"
+}
+},
+{
+"d": "2026-06-19",
+"c": {
+"inw": "przebudowa pomieszczenia technicznego wraz z aranżacją na potrzeby wózkowni i rowerowni w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa Fenix",
+"nier": "",
+"dz": "146519_8 0107 11/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.30.2026"
+}
+},
+{
+"d": "2026-06-19",
+"c": {
+"inw": "przebudowa pomieszczenia technicznego wraz z aranżacją na potrzeby wózkowni i rowerowni w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa Fenix",
+"nier": "",
+"dz": "146519_8 0107 11/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.30.2026"
+}
+},
+{
+"d": "2026-05-08",
+"c": {
+"inw": "rozbiórka budynku wycofanej z użytkowania stacji transformatorowej zlokalizowanej na terenie stacji RPZ Słodowiec rozbiórka istniejącego obiektu budowlanego",
+"wn": "STOEN Operator Sp. z o.o.",
+"nier": "Włościańska 1",
+"dz": "146519_8 0203 9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6741.2.2026.PFE"
+}
+},
+{
+"d": "2026-04-27",
+"c": {
+"inw": "remont płyt balkonowych w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"FENIX\"",
+"nier": "Plac Thomasa Woodrowa Wilsona 4",
+"dz": "146519_8 0107 11/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.22.2026.MOS"
+}
+},
+{
+"d": "2026-04-27",
+"c": {
+"inw": "docieplenie elewacji oraz remont balkonów budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"POTOCKA\"",
+"nier": "Potocka 33",
+"dz": "146519_8 0101 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.23.2026.MOS"
+}
+},
+{
+"d": "2026-04-27",
+"c": {
+"inw": "docieplenie elewacji oraz remont balkonów budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"POTOCKA\"",
+"nier": "Potocka 33",
+"dz": "146519_8 0101 73",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.23.2026.MOS"
+}
+},
+{
+"d": "2026-04-27",
+"c": {
+"inw": "docieplenie elewacji oraz remont balkonów budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"POTOCKA\"",
+"nier": "Potocka 33",
+"dz": "146519_8 0101 67",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.23.2026.MOS"
+}
+},
+{
+"d": "2026-04-27",
+"c": {
+"inw": "docieplenie elewacji oraz remont balkonów budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"POTOCKA\"",
+"nier": "Potocka 33",
+"dz": "146519_8 0101 9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.23.2026.MOS"
+}
+},
+{
+"d": "2026-04-22",
+"c": {
+"inw": "przebudowa budynku mieszkalnego jednorodzinnego w zabudowie szeregowej wraz z rozbudową kondygnacji piwnicy i parteru oraz zmianą spoosbu użytkowania pomieszczeń nieużytkowych na użytkowe rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Wieniawskiego 6j / Henryka",
+"dz": "146519_8 0114 151",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "6740.20.2026.BSZ"
+}
+},
+{
+"d": "2026-03-23",
+"c": {
+"inw": "termomodernizacja elementów budynku mieszkalnego wielorodzinnego i projekt wyburzeń garażu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Egida IT Solutions sp. z o. o.",
+"nier": "Promyka 9 / Kazimierza",
+"dz": "146519_8 0108 19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.14.2026.MOS"
+}
+},
+{
+"d": "2026-03-19",
+"c": {
+"inw": "remont ganku domu jednorodzinnego, w tym odsłoniecie istniejacych ścian przyziemia, wykonanie izolacji przeciwwodnych ścian budynku, wykoannie fundamentów , schodów wejsciowych o daszka, naprawa izolacji, wykonanie izolacji i pokrycia daszka, prace malarskie i wykończeniowe wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Drohicka 3",
+"dz": "146519_8 0102 20",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "6740.13.2026.MOS"
+}
+},
+{
+"d": "2026-03-16",
+"c": {
+"inw": "remont elewacji i przebudowa budynku mieszkalnego jednorodzinnego w zabudowie szeregowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kaniowska 8",
+"dz": "146519_8 0113 56",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "6740.12.2026.MMI"
+}
+},
+{
+"d": "2026-03-10",
+"c": {
+"inw": "przebudowa lokalu mieszkalnego nr 152, zlokalizowanego na pierwszej kondygnacji budynku mieszkalnego wielorodzinnego przy ul. Popiełuszki 14 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Popiełuszki 14 / ks. Jerzego",
+"dz": "146519_8 0106 29/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.10.2026.PFE"
+}
+},
+{
+"d": "2026-03-03",
+"c": {
+"inw": "Przebudowa ze zmianą sposobu użytkowania pomieszczeń III pietra budynku nr 3  na potrzeby przychodni przyklinicznej  w Wojskowym InstytucieMedycyny Lotniczej w Warszawie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wojskowy Instytut Medycyny Lotniczej",
+"nier": "Krasińskiego 54/56 / Zygmunta",
+"dz": "146519_8 0210 5/43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.7.2026.PFE"
+}
+},
+{
+"d": "2026-02-06",
+"c": {
+"inw": "Przebudowa budynku mieszkalnego jednorodzinnego w zabudowie bliźniaczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Paska 6 / Jana Chryzostoma",
+"dz": "146519_8 0417 25",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "6740.3.2026.MOS"
+}
+},
+{
+"d": "2026-02-05",
+"c": {
+"inw": "Przebudowa i remont budynku mieszkalnego jednorodzinnego w zabudowie bliźniaczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Śmiała 66",
+"dz": "146519_8 0112 77",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "6740.2.2026.BSZ"
+}
+},
+{
+"d": "2026-01-16",
+"c": {
+"inw": "przebudowa wiaty śmietnikowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Bieniewicka 4",
+"nier": "Bieniewicka 4",
+"dz": "146519_8 0417 83",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.1.2026.MOS"
+}
+}
+]
+},
+{
+"id": "dec_pnb",
+"name": "Decyzje o pozwoleniu na budowę",
+"short": "Decyzje PnB",
+"desc": "Decyzje o pozwoleniu na budowę wydane przez organ architektoniczno-budowlany dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer decyzji",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2026-10-21",
+"c": {
+"inw": "budowa sieci wodociągowej DN100mm L=159,0m w ul. Lechonia wraz z przyłączami wodociągowymi na odcinku od istniejacego przewodu wodociągowego DN100mm w ul Kozietulskiego do złączenia z istniejacym przewodem wodociągowym DN150 mm w ul. Feilińskiego budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m. st. Warszawie S.A.",
+"nier": "Lechonia / Jana",
+"dz": "146519_8 0115 2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "49/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-10-21",
+"c": {
+"inw": "budowa sieci wodociągowej DN100mm L=159,0m w ul. Lechonia wraz z przyłączami wodociągowymi na odcinku od istniejacego przewodu wodociągowego DN100mm w ul Kozietulskiego do złączenia z istniejacym przewodem wodociągowym DN150 mm w ul. Feilińskiego budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m. st. Warszawie S.A.",
+"nier": "Lechonia / Jana",
+"dz": "146519_8 0114 186",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "49/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-10-21",
+"c": {
+"inw": "budowa sieci wodociągowej DN100mm L=159,0m w ul. Lechonia wraz z przyłączami wodociągowymi na odcinku od istniejacego przewodu wodociągowego DN100mm w ul Kozietulskiego do złączenia z istniejacym przewodem wodociągowym DN150 mm w ul. Feilińskiego budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m. st. Warszawie S.A.",
+"nier": "Lechonia / Jana",
+"dz": "146519_8 0114 200",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "49/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-10-21",
+"c": {
+"inw": "budowa sieci wodociągowej DN100mm L=159,0m w ul. Lechonia wraz z przyłączami wodociągowymi na odcinku od istniejacego przewodu wodociągowego DN100mm w ul Kozietulskiego do złączenia z istniejacym przewodem wodociągowym DN150 mm w ul. Feilińskiego budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m. st. Warszawie S.A.",
+"nier": "Lechonia / Jana",
+"dz": "146519_8 0114 201",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "49/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-10-12",
+"c": {
+"inw": "przebudowa pomieszczenia technicznego wraz z aranżacją na potrzeby wózkowni i rowerowni w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa Fenix",
+"nier": "",
+"dz": "146519_8 0107 11/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "48/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-10-12",
+"c": {
+"inw": "przebudowa pomieszczenia technicznego wraz z aranżacją na potrzeby wózkowni i rowerowni w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa Fenix",
+"nier": "",
+"dz": "146519_8 0107 11/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "48/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-10-07",
+"c": {
+"inw": "Projekt przebudowy i nadbudowy budynku mieszkalnego wielorodzinnego nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Lechonia 11 / Jana",
+"dz": "146519_8 0114 202",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "47/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-10-07",
+"c": {
+"inw": "Projekt przebudowy i nadbudowy budynku mieszkalnego wielorodzinnego nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Lechonia 11 / Jana",
+"dz": "146519_8 0114 203",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "47/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-10-07",
+"c": {
+"inw": "Projekt przebudowy i nadbudowy budynku mieszkalnego wielorodzinnego nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Lechonia 11 / Jana",
+"dz": "146519_8 0114 204",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "47/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-09-22",
+"c": {
+"inw": "remont płyt balkonowych w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"FENIX\"",
+"nier": "Plac Thomasa Woodrowa Wilsona 4",
+"dz": "146519_8 0107 11/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "46/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-09-18",
+"c": {
+"inw": "przebudowa ścian zewnętrznych klatek schodowych w zakresie otworów okiennych w budynku internatu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Agencja Mienia Wojskowego",
+"nier": "Elbląska 8",
+"dz": "146519_8 0201 5/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "44/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-09-15",
+"c": {
+"inw": "docieplenie elewacji oraz remont balkonów budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"POTOCKA\"",
+"nier": "Potocka 33",
+"dz": "146519_8 0101 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "43/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-09-15",
+"c": {
+"inw": "docieplenie elewacji oraz remont balkonów budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"POTOCKA\"",
+"nier": "Potocka 33",
+"dz": "146519_8 0101 73",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "43/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-09-15",
+"c": {
+"inw": "docieplenie elewacji oraz remont balkonów budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"POTOCKA\"",
+"nier": "Potocka 33",
+"dz": "146519_8 0101 67",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "43/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-09-15",
+"c": {
+"inw": "docieplenie elewacji oraz remont balkonów budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"POTOCKA\"",
+"nier": "Potocka 33",
+"dz": "146519_8 0101 9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "43/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-09-04",
+"c": {
+"inw": "Budowa budynku mieszkalnego woelorodzinnego z usługami i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa",
+"nier": "Włościańska 12",
+"dz": "146519_8 0203 3/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "42/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-09-04",
+"c": {
+"inw": "Budowa budynku mieszkalnego woelorodzinnego z usługami i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa",
+"nier": "Włościańska 12",
+"dz": "146519_8 0203 3/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "42/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-09-04",
+"c": {
+"inw": "Budowa budynku mieszkalnego woelorodzinnego z usługami i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa",
+"nier": "Włościańska 12",
+"dz": "146519_8 0203 3/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "42/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-09-04",
+"c": {
+"inw": "Budowa budynku mieszkalnego woelorodzinnego z usługami i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa",
+"nier": "Włościańska 12",
+"dz": "146519_8 0203 3/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "42/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-09-04",
+"c": {
+"inw": "Budowa budynku mieszkalnego woelorodzinnego z usługami i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa",
+"nier": "Włościańska 12",
+"dz": "146519_8 0203 3/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "42/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-08-28",
+"c": {
+"inw": "Ficowskiego na odcinku od ul. Szamockiej do ul. Dygata Warszawa budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa",
+"nier": "Ficowskiego / Jerzego",
+"dz": "146519_8 0302 22/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "40/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-08-28",
+"c": {
+"inw": "Ficowskiego na odcinku od ul. Szamockiej do ul. Dygata Warszawa budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa",
+"nier": "Ficowskiego / Jerzego",
+"dz": "146519_8 0302 13/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "40/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-08-28",
+"c": {
+"inw": "Ficowskiego na odcinku od ul. Szamockiej do ul. Dygata Warszawa budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa",
+"nier": "Ficowskiego / Jerzego",
+"dz": "146519_8 0302 13/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "40/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-08-28",
+"c": {
+"inw": "Ficowskiego na odcinku od ul. Szamockiej do ul. Dygata Warszawa budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa",
+"nier": "Ficowskiego / Jerzego",
+"dz": "146519_8 0302 21/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "40/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-08-28",
+"c": {
+"inw": "Ficowskiego na odcinku od ul. Szamockiej do ul. Dygata Warszawa budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa",
+"nier": "Ficowskiego / Jerzego",
+"dz": "146519_8 0302 22/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "40/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-08-28",
+"c": {
+"inw": "Ficowskiego na odcinku od ul. Szamockiej do ul. Dygata Warszawa budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa",
+"nier": "Ficowskiego / Jerzego",
+"dz": "146519_8 0302 3/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "40/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-08-28",
+"c": {
+"inw": "Ficowskiego na odcinku od ul. Szamockiej do ul. Dygata Warszawa budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa",
+"nier": "Ficowskiego / Jerzego",
+"dz": "146519_8 0302 7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "40/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-08-28",
+"c": {
+"inw": "Ficowskiego na odcinku od ul. Szamockiej do ul. Dygata Warszawa budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa",
+"nier": "Ficowskiego / Jerzego",
+"dz": "146519_8 0302 11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "40/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-08-26",
+"c": {
+"inw": "przebudowa budynku mieszkalnego jednorodzinnego w zabudowie szeregowej wraz z rozbudową kondygnacji piwnicy i parteru oraz zmianą spoosbu użytkowania pomieszczeń nieużytkowych na użytkowe rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Wieniawskiego 6j / Henryka",
+"dz": "146519_8 0114 151",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "39/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-08-24",
+"c": {
+"inw": "przebudowa , nadbudowa i ocieplenie elewacji i zmianie sposobu użytkowania strychu w budynku mieszkalnym wielorodzinnym nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "„Petrus-Kusztal” (L.W. Kusztal) Waldemar Kusztal",
+"nier": "Aleja Wojska Polskiego 32",
+"dz": "146519_8 0114 130",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "38/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-08-24",
+"c": {
+"inw": "przebudowa , nadbudowa i ocieplenie elewacji i zmianie sposobu użytkowania strychu w budynku mieszkalnym wielorodzinnym nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "„Petrus-Kusztal” (L.W. Kusztal) Waldemar Kusztal",
+"nier": "Aleja Wojska Polskiego 32",
+"dz": "146519_8 0114 237",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "38/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-08-24",
+"c": {
+"inw": "przebudowa , nadbudowa i ocieplenie elewacji i zmianie sposobu użytkowania strychu w budynku mieszkalnym wielorodzinnym nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "„Petrus-Kusztal” (L.W. Kusztal) Waldemar Kusztal",
+"nier": "Aleja Wojska Polskiego 32",
+"dz": "146519_8 0114 236",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "38/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-08-12",
+"c": {
+"inw": "przebudowa wiaty śmietnikowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Bieniewicka 4",
+"nier": "Bieniewicka 4",
+"dz": "146519_8 0417 83",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "35/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-08-11",
+"c": {
+"inw": "termomodernizacja elementów budynku mieszkalnego wielorodzinnego i projekt wyburzeń garażu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Egida IT Solutions sp. z o. o.",
+"nier": "Promyka 9 / Kazimierza",
+"dz": "146519_8 0108 19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "34/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-07-20",
+"c": {
+"inw": "remont elewacji i przebudowa budynku mieszkalnego jednorodzinnego w zabudowie szeregowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kaniowska 8",
+"dz": "146519_8 0113 56",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "31/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-07-08",
+"c": {
+"inw": "budowa 5 wind zewnętrznych przy budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Budowlano-Mieszkaniowa \"Żoliborz\"",
+"nier": "Plac Inwalidów 4/6/8",
+"dz": "146519_8 0115 186",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "30/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-07-03",
+"c": {
+"inw": "przebudowa, rozbudowa i remont budynku mieszkalnego jednorodzinnego w zabudowie bliźniacze rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Solskiego 9 / Ludwika",
+"dz": "146519_8 0101 129",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "29/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-06-30",
+"c": {
+"inw": "przebudowa lokalu mieszkalnego nr 152, zlokalizowanego na pierwszej kondygnacji budynku mieszkalnego wielorodzinnego przy ul. Popiełuszki 14 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Popiełuszki 14 / ks. Jerzego",
+"dz": "146519_8 0106 29/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "28/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-06-18",
+"c": {
+"inw": "Przebudowa ze zmianą sposobu użytkowania pomieszczeń III pietra budynku nr 3  na potrzeby przychodni przyklinicznej  w Wojskowym InstytucieMedycyny Lotniczej w Warszawie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wojskowy Instytut Medycyny Lotniczej",
+"nier": "Krasińskiego 54/56 / Zygmunta",
+"dz": "146519_8 0210 5/43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "24/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-06-16",
+"c": {
+"inw": "remont i przebudowa lokalu mieszkalnego nr 83 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Gdańska 2",
+"dz": "146519_8 0417 77/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "23/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-06-10",
+"c": {
+"inw": "remont ganku domu jednorodzinnego, w tym odsłoniecie istniejacych ścian przyziemia, wykonanie izolacji przeciwwodnych ścian budynku, wykoannie fundamentów , schodów wejsciowych o daszka, naprawa izolacji, wykonanie izolacji i pokrycia daszka, prace malarskie i wykończeniowe wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Drohicka 3",
+"dz": "146519_8 0102 20",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "21/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-06-09",
+"c": {
+"inw": "rozbiórka budynku wycofanej z użytkowania stacji transformatorowej zlokalizowanej na terenie stacji RPZ Słodowiec rozbiórka istniejącego obiektu budowlanego",
+"wn": "STOEN Operator Sp. z o.o.",
+"nier": "Włościańska 1",
+"dz": "146519_8 0203 9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "19/ZOL/PB/2026/R"
+}
+},
+{
+"d": "2026-05-29",
+"c": {
+"inw": "rozbudowa i przebudowa budynku mieszkalnego jednorodzinnego wraz ze zmianą zagospodarowania działii nr 102 i działki drogowej 116 oraz lokalizacją nowej furtki w istniejącym  ogrodzeniu rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Faron Investment Sp. z o. o.",
+"nier": "Krasińskiego 5 / Zygmunta",
+"dz": "146519_8 0109 102",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "17/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-05-29",
+"c": {
+"inw": "rozbudowa i przebudowa budynku mieszkalnego jednorodzinnego wraz ze zmianą zagospodarowania działii nr 102 i działki drogowej 116 oraz lokalizacją nowej furtki w istniejącym  ogrodzeniu rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Faron Investment Sp. z o. o.",
+"nier": "Krasińskiego 5 / Zygmunta",
+"dz": "146519_8 0109 116",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "17/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-05-25",
+"c": {
+"inw": "Przebudowa budynku mieszkalnego jednorodzinnego w zabudowie bliźniaczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Paska 6 / Jana Chryzostoma",
+"dz": "146519_8 0417 25",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "15/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-05-18",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego w zakresie dwóch lokali mieszkalnych nr 111 i 112 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Przasnyska 4A",
+"dz": "146519_8 0304 42",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "14/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-05-18",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego w zakresie dwóch lokali mieszkalnych nr 111 i 112 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Przasnyska 4A",
+"dz": "146519_8 0304 43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "14/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-05-18",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego w zakresie dwóch lokali mieszkalnych nr 111 i 112 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Przasnyska 4A",
+"dz": "146519_8 0304 47",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "14/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-05-18",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego w zakresie dwóch lokali mieszkalnych nr 111 i 112 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Przasnyska 4A",
+"dz": "146519_8 0304 48",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "14/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-05-18",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego w zakresie dwóch lokali mieszkalnych nr 111 i 112 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Przasnyska 4A",
+"dz": "146519_8 0304 28",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "14/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-05-18",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego w zakresie dwóch lokali mieszkalnych nr 111 i 112 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Przasnyska 4A",
+"dz": "146519_8 0304 44",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "14/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-05-18",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego w zakresie dwóch lokali mieszkalnych nr 111 i 112 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Przasnyska 4A",
+"dz": "146519_8 0304 49/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "14/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-05-18",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego w zakresie dwóch lokali mieszkalnych nr 111 i 112 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Przasnyska 4A",
+"dz": "146519_8 0304 29/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "14/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-05-18",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego w zakresie dwóch lokali mieszkalnych nr 111 i 112 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Przasnyska 4A",
+"dz": "146519_8 0304 29/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "14/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-05-18",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego w zakresie dwóch lokali mieszkalnych nr 111 i 112 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Przasnyska 4A",
+"dz": "146519_8 0304 36/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "14/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-04-14",
+"c": {
+"inw": "Przebudowa i remont budynku mieszkalnego jednorodzinnego w zabudowie bliźniaczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Śmiała 66",
+"dz": "146519_8 0112 77",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "11/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-03-20",
+"c": {
+"inw": "przebudowa lokalu mieszkalnego w budynku mieszkalnym wielorodzinnym polegająca na wykonaniu otworu w scianie konstrukcyjnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Cieszkowskiego 1/3 / Augusta",
+"dz": "146519_8 0101 174",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "9/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-02-26",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego zamieszkania zbiorowego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Mysłowicka 12 Sp. z o.o.",
+"nier": "Mysłowicka 12",
+"dz": "146519_8 0102 116",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "7/ZOL/PB/2026/R"
+}
+},
+{
+"d": "2026-02-26",
+"c": {
+"inw": "budowa drogi pożarowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Żoliborz",
+"nier": "Załuskich 1 / Braci",
+"dz": "146519_8 0203 7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-02-16",
+"c": {
+"inw": "budowa zjazdu i schodów zewnęrznych do kondyngacji podziemnej, dojścia do budynku, budowa podziemnego zbiornika wód opadowych oraz zm. Spos. Użytkowania piwnicy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Czarnieckiego 29 / Stefana",
+"dz": "146519_8 0111 60",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "5/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-02-16",
+"c": {
+"inw": "budowa zjazdu i schodów zewnęrznych do kondyngacji podziemnej, dojścia do budynku, budowa podziemnego zbiornika wód opadowych oraz zm. Spos. Użytkowania piwnicy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Czarnieckiego 29 / Stefana",
+"dz": "146519_8 0111 92",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "5/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-02-13",
+"c": {
+"inw": "przebudowa i rozbudowa budynku mieszkalnego z urządzeniami budowlanymi i instalacją gazową ze zm. Kategorii budynku z XIII na I rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "PR Sp. z o.o. sk,",
+"nier": "Śmiała 45",
+"dz": "146519_8 0112 161",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "4/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-01-30",
+"c": {
+"inw": "przebudowa i remont budynku mieszkalnego jednorodzinnego w zabudowie szeregowej wraz z budynkiem garażowym i ogrodzeniem frontowym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Forteczna 3",
+"dz": "146519_8 0112 59",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "3/ZOL/PB/2026"
+}
+},
+{
+"d": "2026-01-28",
+"c": {
+"inw": "przebudowa budynku mieszkalnego jednorodzinnego w zabudowie szeregowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kochowskiego 7 / Wespazjana",
+"dz": "146519_8 0110 28",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "1/ZOL/PB/2026"
+}
+}
+]
+}
+]
+}

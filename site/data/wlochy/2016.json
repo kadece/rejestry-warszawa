@@ -1,0 +1,2380 @@
+{
+"district": "wlochy",
+"year": 2016,
+"generated": "2026-11-24T21:24:52+01:00",
+"total": 208,
+"registers": [
+{
+"id": "wn_pnb",
+"name": "Wnioski o pozwolenie na budowę",
+"short": "Wnioski PnB",
+"desc": "Wnioski o pozwolenie na budowę złożone do organu architektoniczno-budowlanego dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer wniosku",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2016-10-07",
+"c": {
+"inw": "budynek wielorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "DWP Sp. z o.o.",
+"nier": "",
+"dz": "146517_8 0829 111",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.265.2016.IJA"
+}
+},
+{
+"d": "2016-10-07",
+"c": {
+"inw": "budynek wielorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "DWP Sp. z o.o.",
+"nier": "",
+"dz": "146517_8 0829 111",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.265.2016.IJA"
+}
+},
+{
+"d": "2016-10-07",
+"c": {
+"inw": "Budowa instalacji gazowej dla budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Koziorożca 7",
+"dz": "146517_8 0807 10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.263.2016.ASO (KOB/12185/16)"
+}
+},
+{
+"d": "2016-09-07",
+"c": {
+"inw": "Rozbiórka istniejących obiektów - parterowego budynku mieszkalnego i gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "DWP Sp. z o.o.",
+"nier": "Solipska 3",
+"dz": "146517_8 0829 111",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6741.39.2016.ASO (KOB/10663/16)"
+}
+},
+{
+"d": "2016-08-22",
+"c": {
+"inw": "Budowa wolnostojącego zbiornika zasilającego sieć hydrantową budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Zakłady Autobusowe Sp. z o.o.",
+"nier": "Kleszczowa 28",
+"dz": "146517_8 0831 34",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.218.2016.ASO (KOB/9973/16)"
+}
+},
+{
+"d": "2016-08-17",
+"c": {
+"inw": "Rozbiórka stacji bazowej telefonii komórkowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "Sferia S.A.",
+"nier": "Instalatorów 5",
+"dz": "146517_8 0502 104",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6741.38.2016.ASO (KOB/9810/16)"
+}
+},
+{
+"d": "2016-08-09",
+"c": {
+"inw": "Rozbiórka zespołu garaży rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Potrzebna 35",
+"dz": "146517_8 0809 48",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6741.37.2016.ASO (KOB/9540/16)"
+}
+},
+{
+"d": "2016-08-03",
+"c": {
+"inw": "Rozbiórka dwóch parterowych budynków warsztatowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "Arche Sp. z o.o.",
+"nier": "",
+"dz": "146517_8 0506 4/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6741.36.2016.ASO (KOB/9350/16)"
+}
+},
+{
+"d": "2016-08-03",
+"c": {
+"inw": "Rozbiórka dwóch parterowych budynków warsztatowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "Arche Sp. z o.o.",
+"nier": "",
+"dz": "146517_8 0506 4/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6741.36.2016.ASO (KOB/9350/16)"
+}
+},
+{
+"d": "2016-08-03",
+"c": {
+"inw": "Rozbiórka dwóch parterowych budynków warsztatowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "Arche Sp. z o.o.",
+"nier": "",
+"dz": "146517_8 0506 4/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6741.36.2016.ASO (KOB/9350/16)"
+}
+},
+{
+"d": "2016-08-03",
+"c": {
+"inw": "Instalacja gazowa - Hala H2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Ideal Idea Formad Sp. z o.o. Sp. k.",
+"nier": "",
+"dz": "146517_8 0705 31/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.214.2016.AKE (KOB/9339/16)"
+}
+},
+{
+"d": "2016-08-03",
+"c": {
+"inw": "Instalacja gazowa - Hala H2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Ideal Idea Formad Sp. z o.o. Sp. k.",
+"nier": "",
+"dz": "146517_8 0705 141",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.214.2016.AKE (KOB/9339/16)"
+}
+},
+{
+"d": "2016-08-03",
+"c": {
+"inw": "Instalacja gazowa - Hala H2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Ideal Idea Formad Sp. z o.o. Sp. k.",
+"nier": "",
+"dz": "146517_8 0705 143",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.214.2016.AKE (KOB/9339/16)"
+}
+},
+{
+"d": "2016-08-03",
+"c": {
+"inw": "Instalacja gazowa - Hala H1 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Ideal Idea Formad Sp.z o.o. Sp. k.",
+"nier": "",
+"dz": "146517_8 0705 31/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.213.2016.AKE (KOB/9338/16)"
+}
+},
+{
+"d": "2016-08-03",
+"c": {
+"inw": "Instalacja gazowa - Hala H1 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Ideal Idea Formad Sp.z o.o. Sp. k.",
+"nier": "",
+"dz": "146517_8 0705 141",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.213.2016.AKE (KOB/9338/16)"
+}
+},
+{
+"d": "2016-08-03",
+"c": {
+"inw": "Instalacja gazowa - Hala H1 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Ideal Idea Formad Sp.z o.o. Sp. k.",
+"nier": "",
+"dz": "146517_8 0705 143",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.213.2016.AKE (KOB/9338/16)"
+}
+},
+{
+"d": "2016-07-28",
+"c": {
+"inw": "Rozbiórka budynków: mieszkalnego i gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Medcom Sp. z o.o.",
+"nier": "Jutrzenki 78",
+"dz": "146517_8 0704 6/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6741.35.2016.ASO (KOB/9144/16)"
+}
+},
+{
+"d": "2016-07-28",
+"c": {
+"inw": "Instalacja gazowa dla budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Rejonowa 22",
+"dz": "146517_8 0809 57",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.202.2016.AKE (KOB/9116/16)"
+}
+},
+{
+"d": "2016-07-20",
+"c": {
+"inw": "Nadbudowa budynku mieszkalnego wielorodzinnego wraz z przebudową dachu, wstawieniem okien połaciowych, powiększeniem okien na kondygnacji poddasza oraz budowie balkonów na II i III kondygnacji. nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Paradox Investment Sp. z o.o. Sp. k.",
+"nier": "Tumska 40",
+"dz": "146517_8 0809 12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.180.2016.ASO (KOB/8833/16)"
+}
+},
+{
+"d": "2016-07-14",
+"c": {
+"inw": "Rozbiórka wiaty gospodarczej rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Sklepowa 15",
+"dz": "146517_8 0829 13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6741.34.2016.AKE (KOB/8670/16)"
+}
+},
+{
+"d": "2016-06-28",
+"c": {
+"inw": "Budowa instalacji zbiornikowej w budynku Hali H2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Ideal Idea Formad Sp. z o.o. Sp. k.",
+"nier": "",
+"dz": "146517_8 0705 31/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.194.2016.AKE (KOB/8061/16)"
+}
+},
+{
+"d": "2016-06-28",
+"c": {
+"inw": "Budowa instalacji zbiornikowej w budynku Hali H2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Ideal Idea Formad Sp. z o.o. Sp. k.",
+"nier": "",
+"dz": "146517_8 0705 141",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.194.2016.AKE (KOB/8061/16)"
+}
+},
+{
+"d": "2016-06-28",
+"c": {
+"inw": "Budowa instalacji zbiornikowej w budynku Hali H2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Ideal Idea Formad Sp. z o.o. Sp. k.",
+"nier": "",
+"dz": "146517_8 0705 143",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.194.2016.AKE (KOB/8061/16)"
+}
+},
+{
+"d": "2016-06-28",
+"c": {
+"inw": "Rozbudowa pawilonu handlowego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146517_8 0604 5/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.171.2016.ASO (KOB/8037/16)"
+}
+},
+{
+"d": "2016-06-28",
+"c": {
+"inw": "Rozbudowa pawilonu handlowego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146517_8 0604 5/17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.171.2016.ASO (KOB/8037/16)"
+}
+},
+{
+"d": "2016-06-28",
+"c": {
+"inw": "Budowa instalacji zbiornikowej gazu płynnego dla hali H 1 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Ideal Idea Formad Sp. z o.o.Sp.k.",
+"nier": "Działkowa",
+"dz": "146517_8 0705 31/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.194.2016.AKE (KOB/8060/16)"
+}
+},
+{
+"d": "2016-06-28",
+"c": {
+"inw": "Budowa instalacji zbiornikowej gazu płynnego dla hali H 1 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Ideal Idea Formad Sp. z o.o.Sp.k.",
+"nier": "Działkowa",
+"dz": "146517_8 0705 141",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.194.2016.AKE (KOB/8060/16)"
+}
+},
+{
+"d": "2016-06-28",
+"c": {
+"inw": "Budowa instalacji zbiornikowej gazu płynnego dla hali H 1 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Ideal Idea Formad Sp. z o.o.Sp.k.",
+"nier": "Działkowa",
+"dz": "146517_8 0705 143",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.194.2016.AKE (KOB/8060/16)"
+}
+},
+{
+"d": "2016-06-24",
+"c": {
+"inw": "Instalacja gazowa w budynku mieszkalnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Techników 8",
+"dz": "146517_8 0814 76",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.182.2016.AKE"
+}
+},
+{
+"d": "2016-06-24",
+"c": {
+"inw": "Rozbiórka budynku mieszkalnego, gospodarczego i garażu rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Na Skraju 60",
+"dz": "146517_8 0613 43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6741.33.2016.AKE"
+}
+},
+{
+"d": "2016-06-20",
+"c": {
+"inw": "Przebudowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Starowiejska 17",
+"dz": "146517_8 0812 71",
+"rodz": "",
+"nr": "6740.181.2016.ASO"
+}
+},
+{
+"d": "2016-06-17",
+"c": {
+"inw": "Przebudowa i nadbudowa budynku mieszkalnego jednorodzinnego wraz z infrastrukturą techniczną nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Tomnicka 16",
+"dz": "146517_8 0824 83",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.156.2016.ASO"
+}
+},
+{
+"d": "2016-06-17",
+"c": {
+"inw": "Budowa zespołu 3 hal magaz.-biur. - hala H 3 . Etap II budowa nowego/nowych obiektów budowlanych",
+"wn": "Ideal Idea Formad Sp. z o.o. Sp.k.",
+"nier": "Działkowa",
+"dz": "146517_8 0705 31/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.191.2016.AKE (KOB/7653/16)"
+}
+},
+{
+"d": "2016-06-17",
+"c": {
+"inw": "Budowa zespołu 3 hal magaz.-biur. - hala H 3 . Etap II budowa nowego/nowych obiektów budowlanych",
+"wn": "Ideal Idea Formad Sp. z o.o. Sp.k.",
+"nier": "Działkowa",
+"dz": "146517_8 0705 141",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.191.2016.AKE (KOB/7653/16)"
+}
+},
+{
+"d": "2016-06-17",
+"c": {
+"inw": "Budowa zespołu 3 hal magaz.-biur. - hala H 3 . Etap II budowa nowego/nowych obiektów budowlanych",
+"wn": "Ideal Idea Formad Sp. z o.o. Sp.k.",
+"nier": "Działkowa",
+"dz": "146517_8 0705 143",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.191.2016.AKE (KOB/7653/16)"
+}
+},
+{
+"d": "2016-06-16",
+"c": {
+"inw": "Przebudowa budynku mieszkalno-garażowego wraz ze zmianą sposobu użytkowania całości na cele mieszkalne wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Jutrzenki 43",
+"dz": "146517_8 0703 37/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.157.2016.ASO"
+}
+},
+{
+"d": "2016-06-16",
+"c": {
+"inw": "Przebudowa lokalu. Zmiana sposobu użytkowania wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "WSM ,,Ochota''",
+"nier": "Aleja Dwudziestolatków 3",
+"dz": "146517_8 0404 8/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.183.2016.AKE"
+}
+},
+{
+"d": "2016-06-16",
+"c": {
+"inw": "Przebudowa lokalu. Zmiana sposobu użytkowania wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "WSM ,,Ochota''",
+"nier": "Aleja Dwudziestolatków 3",
+"dz": "146517_8 0404 11/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.183.2016.AKE"
+}
+},
+{
+"d": "2016-06-10",
+"c": {
+"inw": "Budowa instalacji gazowej dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Municypalna",
+"dz": "146517_8 0708 12/8",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "6740.152.2016.ASO"
+}
+},
+{
+"d": "2016-06-07",
+"c": {
+"inw": "Przebudowa części budynku magazynowo-biurowego B4 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Piran Investments Sp. z o.o. Trajan S.J.",
+"nier": "Mineralna 15",
+"dz": "146517_8 0714 20/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.154.2016.AKE"
+}
+},
+{
+"d": "2016-06-01",
+"c": {
+"inw": "Rozbiórka 3 budynków: Socjalnego, socjalnego, biurowego. rozbiórka istniejącego obiektu budowlanego",
+"wn": "Polski Koncern Mięsny Duda S.A.",
+"nier": "",
+"dz": "146517_8 0504 49",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6741.26.2016.ASO (KOB/7019/16)"
+}
+},
+{
+"d": "2016-05-27",
+"c": {
+"inw": "Budowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kolneńska 6",
+"dz": "146517_8 0503 27",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.164.2016.AKE"
+}
+},
+{
+"d": "2016-05-27",
+"c": {
+"inw": "Budowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kolneńska 6",
+"dz": "146517_8 0503 31/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.164.2016.AKE"
+}
+},
+{
+"d": "2016-05-23",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym i wewnętrzna instalacją gazową budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Wszemirowska 4",
+"dz": "146517_8 0819 181",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.141.2016.ASO"
+}
+},
+{
+"d": "2016-05-20",
+"c": {
+"inw": "Wykonanie otworu drzwiowego oraz schodów zewnętrznych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PEC Szyszkowa Sp. z o.o.",
+"nier": "Szyszkowa 35/37",
+"dz": "146517_8 0715 15/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.158.2016.AKE"
+}
+},
+{
+"d": "2016-05-20",
+"c": {
+"inw": "Wykonanie otworu drzwiowego oraz schodów zewnętrznych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PEC Szyszkowa Sp. z o.o.",
+"nier": "Szyszkowa 35/37",
+"dz": "146517_8 0715 32/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.158.2016.AKE"
+}
+},
+{
+"d": "2016-05-19",
+"c": {
+"inw": "Instalacja gazowa wewnętrzna wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Wałowicka 23",
+"dz": "146517_9 0809 19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.132.2016.AKE"
+}
+},
+{
+"d": "2016-05-18",
+"c": {
+"inw": "Przebudowa budynku biur.-magaz.-socj.-garaż. - wykonanie antresoli wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Raf Trans Sp. z o.o.",
+"nier": "Jutrzenki 45",
+"dz": "146517_8 0703 36",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.127.2016.ASO"
+}
+},
+{
+"d": "2016-05-16",
+"c": {
+"inw": "przebudowa wnętrza hali magazynowo-biurowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polski Bank Komórek Macierzystych S.A.",
+"nier": "Działkowa 85",
+"dz": "146517_8 0708 73/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.126.2016.ASO"
+}
+},
+{
+"d": "2016-04-29",
+"c": {
+"inw": "Budowa instalacji gazowej dla budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Interhome Sp. z o.o.",
+"nier": "",
+"dz": "146517_8 0501 182",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.122.2016.AKE"
+}
+},
+{
+"d": "2016-04-29",
+"c": {
+"inw": "Instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Notecka",
+"dz": "146517_8 0804 39",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.124.2016.AKE"
+}
+},
+{
+"d": "2016-04-29",
+"c": {
+"inw": "Instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Notecka",
+"dz": "146517_8 0804 38",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.123.2016.AKE"
+}
+},
+{
+"d": "2016-04-26",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z usługami w części parteru, garażem podziemnym i niezbędną infrastrukturą - bud. ,,B'' budowa nowego/nowych obiektów budowlanych",
+"wn": "Przedsiębiorstwo Oczyszczania i Wywozu Nieczystości Sp. z o.o.",
+"nier": "Instalatorów",
+"dz": "146517_8 0501 64/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.162.2016.JSL"
+}
+},
+{
+"d": "2016-04-25",
+"c": {
+"inw": "Budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146517_8 0708 12/8",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "6740.110.2016.ASO"
+}
+},
+{
+"d": "2016-04-15",
+"c": {
+"inw": "Przebudowa elewacji dwóch budynków magazynowych wraz z budową kanału przeglądowego autobusów oraz zadaszenia pomiędzy budynkami budowa nowego/nowych obiektów budowlanych",
+"wn": "Raf Trans Sp. z o.o.",
+"nier": "Municypalna 45",
+"dz": "146517_8 0708 10/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.147.2016.JSL"
+}
+},
+{
+"d": "2016-04-15",
+"c": {
+"inw": "Przebudowa elewacji dwóch budynków magazynowych wraz z budową kanału przeglądowego autobusów oraz zadaszenia pomiędzy budynkami budowa nowego/nowych obiektów budowlanych",
+"wn": "Raf Trans Sp. z o.o.",
+"nier": "Municypalna 45",
+"dz": "146517_8 0708 5/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.147.2016.JSL"
+}
+},
+{
+"d": "2016-04-14",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z usługami w części parteru, garażem podziemnym i niezbędną infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "Przedsiębiorstwo Oczyszczania i Wywozu Nieczystości Sp. z o.o.",
+"nier": "Borsucza",
+"dz": "146517_8 0501 64/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.155.2016.JSL"
+}
+},
+{
+"d": "2016-04-12",
+"c": {
+"inw": "Budowa instalacji gazowej do budynku usługowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146517_8 0705 95",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.107.2016.ASO"
+}
+},
+{
+"d": "2016-04-08",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z usługami w części parteru, garażem podziemnym i niezbędną infrastrukturą - budynek ,,D'' budowa nowego/nowych obiektów budowlanych",
+"wn": "Przedsiębiorstwo Oczyszczania i Wywozu Nieczystości Sp. z o.o.",
+"nier": "Borsucza",
+"dz": "146517_8 0501 64/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.146.2016.JSL"
+}
+},
+{
+"d": "2016-04-06",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym i niezbędna infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "Przedsiębiorstwo Oczyszczania i Wywozu Nieczystości Sp. z o.o.",
+"nier": "Instalatorów",
+"dz": "146517_8 0501 69/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.135.2016.JSL"
+}
+},
+{
+"d": "2016-04-06",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym i niezbędna infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "Przedsiębiorstwo Oczyszczania i Wywozu Nieczystości Sp. z o.o.",
+"nier": "Instalatorów",
+"dz": "146517_8 0501 64/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.135.2016.JSL"
+}
+},
+{
+"d": "2016-04-06",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym i niezbędna infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "Przedsiębiorstwo Oczyszczania i Wywozu Nieczystości Sp. z o.o.",
+"nier": "Instalatorów",
+"dz": "146517_8 0501 65/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.135.2016.JSL"
+}
+},
+{
+"d": "2016-04-05",
+"c": {
+"inw": "Instalacja gazowa. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Szczęsna 29",
+"dz": "146517_8 0812 16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.97.2016.AKE"
+}
+},
+{
+"d": "2016-04-04",
+"c": {
+"inw": "Wykonanie drzwi zewnętrznych w budynku zespołu hal technicznych z zapleczem biurowym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Instytut Lotnictwa",
+"nier": "Aleja Krakowska 110/114",
+"dz": "146517_8 0604 2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.92.2016.ASO"
+}
+},
+{
+"d": "2016-03-24",
+"c": {
+"inw": "Budowa wewnętrznej instalacji gazowej dla zespołu 4 budynków mieszkalnych wielorodzinnych z garażem podziemnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Sklepowa 22",
+"dz": "146517_8 0822 37",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.85.2016.ASO"
+}
+},
+{
+"d": "2016-03-24",
+"c": {
+"inw": "Budowa wewnętrznej instalacji gazowej dla zespołu 4 budynków mieszkalnych wielorodzinnych z garażem podziemnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Sklepowa 22",
+"dz": "146517_8 0822 38",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.85.2016.ASO"
+}
+},
+{
+"d": "2016-03-22",
+"c": {
+"inw": "Budowa instalacji gazowej dla budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Wałowicka 25",
+"dz": "146517_8 0809 20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.81.2016.AKE"
+}
+},
+{
+"d": "2016-03-21",
+"c": {
+"inw": "Przebudowa części budynku wraz ze zmianą sposobu użytkowania wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Lux Med Sp. z o.o.",
+"nier": "Sierpnia 8 / 1",
+"dz": "146517_8 0405 4/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.100.2016.AKE"
+}
+},
+{
+"d": "2016-03-16",
+"c": {
+"inw": "przebudowa instalacji gazowej niskiego ciśnienia w budynku mieszkalnym jednorodzinnym przebudowanym na budynek mieszkalno-usługowy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Cyprysowa 22",
+"dz": "146517_8 0707 52",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.104.2016.JSL"
+}
+},
+{
+"d": "2016-03-15",
+"c": {
+"inw": "Budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Kolneńska 12",
+"dz": "146517_8 0503 38",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "6740.101.2016.JSL"
+}
+},
+{
+"d": "2016-03-10",
+"c": {
+"inw": "Budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Husarska",
+"dz": "146517_8 0824 356/5",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "6740.70.2016.ASO"
+}
+},
+{
+"d": "2016-03-09",
+"c": {
+"inw": "Budowa instalacji gaz. n/ć dla lokalu mieszkalnego w bud. mieszk. wielorodz. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Husarska 17",
+"dz": "146517_8 0824 109",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.71.2016.AKE"
+}
+},
+{
+"d": "2016-03-04",
+"c": {
+"inw": "Budowa gazociagu dystrybucyjnego s/c 160PE i przyłacza gazu s/c 32PE wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polska Spółka Gazownictwa Sp. z o.o. Oddz. w W-wie",
+"nier": "Łopuszańska 31A",
+"dz": "146517_8 0504 61",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.64.2016.ASO"
+}
+},
+{
+"d": "2016-03-02",
+"c": {
+"inw": "Budowa nadziemnego zbiornika magazynowego skroplonego azotu o poj. 32m z parownikiem budowa nowego/nowych obiektów budowlanych",
+"wn": "Janex Sławomir i Elżbieta Wiesiak Sj.",
+"nier": "Instalatorów 9",
+"dz": "146517_8 0501 16/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.63.2016.AKE"
+}
+},
+{
+"d": "2016-02-22",
+"c": {
+"inw": "Budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Jutrzenki 107/109",
+"dz": "146517_8 0701 13/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "6740.54.2016.ASO"
+}
+},
+{
+"d": "2016-02-18",
+"c": {
+"inw": "Instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Jantar 5",
+"dz": "146517_8 0720 67",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.55.2016.AKE"
+}
+},
+{
+"d": "2016-02-16",
+"c": {
+"inw": "Przebudowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Krańcowa 41 A",
+"dz": "146517_8 0825 226/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.53.2016.AKE"
+}
+},
+{
+"d": "2016-02-09",
+"c": {
+"inw": "Instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Jantar 15",
+"dz": "146517_8 0720 62",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.52.2016.AKE"
+}
+},
+{
+"d": "2016-02-05",
+"c": {
+"inw": "Przebudowa ze zmianą sposobu użytkowania budynku biurowego na hotel wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "J.W. Construction Holding S.A.",
+"nier": "Aleje Jerozolimskie 216",
+"dz": "146517_8 0831 62/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.43.2016.MKO"
+}
+},
+{
+"d": "2016-02-03",
+"c": {
+"inw": "Wykonanie dodatkowego otworu drzwiowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Instytut Lotnictwa",
+"nier": "Aleja Krakowska 110/114",
+"dz": "146517_8 0602 53/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.35.2016.MKO"
+}
+},
+{
+"d": "2016-02-02",
+"c": {
+"inw": "Budowa sieci gazowej dystrybucyjnej budowa nowego/nowych obiektów budowlanych",
+"wn": "Polska Spółka Gazownictwa Sp. z o.o.",
+"nier": "",
+"dz": "146517_8 0503 33",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.37.2016.JSL"
+}
+},
+{
+"d": "2016-02-01",
+"c": {
+"inw": "Budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "15",
+"dz": "146517_8 0821 84/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "6740.31.2016.ASO"
+}
+},
+{
+"d": "2016-02-01",
+"c": {
+"inw": "Budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "15",
+"dz": "146517_8 0821 82",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "6740.31.2016.ASO"
+}
+},
+{
+"d": "2016-02-01",
+"c": {
+"inw": "Budowa budynku biurowego budowa nowego/nowych obiektów budowlanych",
+"wn": "Jet-Printer Sp. z o.o.",
+"nier": "Serwituty",
+"dz": "146517_8 0707 48/26",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.30.2016.IJA"
+}
+},
+{
+"d": "2016-01-28",
+"c": {
+"inw": "Budowa instalacji gazowej dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Nasienna 15",
+"dz": "146517_8 0503 39",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.36.2016.JSL"
+}
+},
+{
+"d": "2016-01-27",
+"c": {
+"inw": "Budowa wewnętrznej instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Borsucza 5C",
+"dz": "146517_8 0501 197",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.21.2016.MKO"
+}
+},
+{
+"d": "2016-01-27",
+"c": {
+"inw": "Budowa wewnętrznej instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Borsucza 5E",
+"dz": "146517_8 0501 197",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.23.2016.MKO"
+}
+},
+{
+"d": "2016-01-27",
+"c": {
+"inw": "Budowa instalacji gazowej w budynku usług.-biur.-magaz. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PHUP ,,Putzsystem'' Sp. J. Marek Kopeciński, Lesław Jopek",
+"nier": "Szyszkowa 66",
+"dz": "146517_8 0709 67/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.27.2016.AKE"
+}
+},
+{
+"d": "2016-01-27",
+"c": {
+"inw": "Budowa wewnętrznej instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Borsucza 5D",
+"dz": "146517_8 0501 197",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.22.2016.MKO"
+}
+},
+{
+"d": "2016-01-27",
+"c": {
+"inw": "Budowa wewnętrznej instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Borsucza 5B",
+"dz": "146517_8 0501 197",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.20.2016.MKO"
+}
+},
+{
+"d": "2016-01-27",
+"c": {
+"inw": "Budowa wewnętrznej instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Borsucza 5F",
+"dz": "146517_8 0501 197",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.24.2016.MKO"
+}
+},
+{
+"d": "2016-01-27",
+"c": {
+"inw": "Budowa wewnętrznej instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Borsucza 5A",
+"dz": "146517_8 0501 197",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.19.2016.MKO"
+}
+},
+{
+"d": "2016-01-22",
+"c": {
+"inw": "Instalacja gazowa dla budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146517_8 0824 362",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.16.2016.AKE"
+}
+},
+{
+"d": "2016-01-22",
+"c": {
+"inw": "Instalacja gazowa dla lokalu mieszkalnego nr 3 w bud. mieszk. jedn. w zabudowie bliźniaczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Koziorożca 1",
+"dz": "146517_8 0807 20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.14.2016.ASO"
+}
+},
+{
+"d": "2016-01-21",
+"c": {
+"inw": "Budowa zespołu trzech willi miejskich z garażami podziemnymi budowa nowego/nowych obiektów budowlanych",
+"wn": "MaRS Investments Sp. z o.o.",
+"nier": "4",
+"dz": "146517_8 0829 114/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.15.2016.JSL"
+}
+},
+{
+"d": "2016-01-18",
+"c": {
+"inw": "Budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Modularna 3 C",
+"dz": "146517_8 0705 88/5",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "6740.13.2016.JSL"
+}
+},
+{
+"d": "2016-01-18",
+"c": {
+"inw": "Rozbudowa warsztatu samochodowego wraz z częścią biurowo-socjalną, magazynem oraz wewn. inst. gazową rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Łopuszańska 31A",
+"dz": "146517_8 0504 61",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.12.2016.AKE"
+}
+},
+{
+"d": "2016-01-15",
+"c": {
+"inw": "Budowa sieci wodociągowej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Borsucza 5",
+"dz": "146517_8 0501 195/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.8.2016.MKO"
+}
+},
+{
+"d": "2016-01-15",
+"c": {
+"inw": "Budowa sieci wodociągowej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Borsucza 5",
+"dz": "146517_8 0501 197",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.8.2016.MKO"
+}
+},
+{
+"d": "2016-01-15",
+"c": {
+"inw": "Budowa sieci kanalizacji sanitarnej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Borsucza 5",
+"dz": "146517_8 0501 197",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.7.2016.MKO"
+}
+},
+{
+"d": "2016-01-15",
+"c": {
+"inw": "Budowa sieci kanalizacji sanitarnej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Borsucza 5",
+"dz": "146517_8 0501 195/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.7.2016.MKO"
+}
+},
+{
+"d": "2016-01-11",
+"c": {
+"inw": "Rozbudowa i nadbudowa budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Krańcowa 2A",
+"dz": "146517_8 0825 11",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "6740.4.2016.IJA"
+}
+},
+{
+"d": "2016-01-11",
+"c": {
+"inw": "Rozbudowa i nadbudowa budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Krańcowa 2A",
+"dz": "146517_8 0825 12",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "6740.4.2016.IJA"
+}
+},
+{
+"d": "2016-01-11",
+"c": {
+"inw": "Rozbudowa i nadbudowa budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Krańcowa 2A",
+"dz": "146517_8 0825 14/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "6740.4.2016.IJA"
+}
+},
+{
+"d": "2016-01-08",
+"c": {
+"inw": "Budowa instalacji gazowej dla lokalu mieszkalnego nr 11 w budynku mieszkalnym wielorodzinnym przy ul. Globusowej 7 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Globusowa 7",
+"dz": "146517_8 0708 56",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.5.2016.ASO"
+}
+}
+]
+},
+{
+"id": "dec_pnb",
+"name": "Decyzje o pozwoleniu na budowę",
+"short": "Decyzje PnB",
+"desc": "Decyzje o pozwoleniu na budowę wydane przez organ architektoniczno-budowlany dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer decyzji",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2016-12-23",
+"c": {
+"inw": "Nadbudowa budynku mieszkalnego wielorodzinnego wraz z przebudową dachu, wstawieniem okien połaciowych, powiększeniem okien na kondygnacji poddasza oraz budowie balkonów na II i III kondygnacji. nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Paradox Investment Sp. z o.o. Sp. k.",
+"nier": "Tumska 40",
+"dz": "146517_8 0809 12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "354/2016"
+}
+},
+{
+"d": "2016-12-23",
+"c": {
+"inw": "budynek wielorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "DWP Sp. z o.o.",
+"nier": "",
+"dz": "146517_8 0829 111",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "351/2016"
+}
+},
+{
+"d": "2016-12-23",
+"c": {
+"inw": "budynek wielorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "DWP Sp. z o.o.",
+"nier": "",
+"dz": "146517_8 0829 111",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "351/2016"
+}
+},
+{
+"d": "2016-11-07",
+"c": {
+"inw": "Rozbiórka istniejących obiektów - parterowego budynku mieszkalnego i gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "DWP Sp. z o.o.",
+"nier": "Solipska 3",
+"dz": "146517_8 0829 111",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "301/2016"
+}
+},
+{
+"d": "2016-10-25",
+"c": {
+"inw": "Przebudowa i nadbudowa budynku mieszkalnego jednorodzinnego wraz z infrastrukturą techniczną nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Tomnicka 16",
+"dz": "146517_8 0824 83",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "294/2016"
+}
+},
+{
+"d": "2016-10-19",
+"c": {
+"inw": "Budowa instalacji gazowej dla budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Koziorożca 7",
+"dz": "146517_8 0807 10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "289/2016"
+}
+},
+{
+"d": "2016-10-14",
+"c": {
+"inw": "Rozbiórka stacji bazowej telefonii komórkowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "Sferia S.A.",
+"nier": "Instalatorów 5",
+"dz": "146517_8 0502 104",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "286/2016"
+}
+},
+{
+"d": "2016-09-22",
+"c": {
+"inw": "Budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146517_8 0708 12/8",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "269/2016"
+}
+},
+{
+"d": "2016-09-20",
+"c": {
+"inw": "Rozbiórka dwóch parterowych budynków warsztatowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "Arche Sp. z o.o.",
+"nier": "",
+"dz": "146517_8 0506 4/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "267/2016"
+}
+},
+{
+"d": "2016-09-20",
+"c": {
+"inw": "Rozbiórka dwóch parterowych budynków warsztatowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "Arche Sp. z o.o.",
+"nier": "",
+"dz": "146517_8 0506 4/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "267/2016"
+}
+},
+{
+"d": "2016-09-20",
+"c": {
+"inw": "Rozbiórka dwóch parterowych budynków warsztatowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "Arche Sp. z o.o.",
+"nier": "",
+"dz": "146517_8 0506 4/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "267/2016"
+}
+},
+{
+"d": "2016-09-16",
+"c": {
+"inw": "Przebudowa budynku mieszkalno-garażowego wraz ze zmianą sposobu użytkowania całości na cele mieszkalne wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Jutrzenki 43",
+"dz": "146517_8 0703 37/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "262/2016"
+}
+},
+{
+"d": "2016-09-16",
+"c": {
+"inw": "Rozbiórka zespołu garaży rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Potrzebna 35",
+"dz": "146517_8 0809 48",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "265/2016"
+}
+},
+{
+"d": "2016-09-16",
+"c": {
+"inw": "Budowa wolnostojącego zbiornika zasilającego sieć hydrantową budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Zakłady Autobusowe Sp. z o.o.",
+"nier": "Kleszczowa 28",
+"dz": "146517_8 0831 34",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "263/2016"
+}
+},
+{
+"d": "2016-09-07",
+"c": {
+"inw": "Rozbiórka budynków: mieszkalnego i gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Medcom Sp. z o.o.",
+"nier": "Jutrzenki 78",
+"dz": "146517_8 0704 6/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "248/2016"
+}
+},
+{
+"d": "2016-08-25",
+"c": {
+"inw": "Rozbiórka budynku mieszkalnego, gospodarczego i garażu rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Na Skraju 60",
+"dz": "146517_8 0613 43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "242/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "Instalacja gazowa - Hala H2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Ideal Idea Formad Sp. z o.o. Sp. k.",
+"nier": "",
+"dz": "146517_8 0705 31/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "236/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "Instalacja gazowa - Hala H2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Ideal Idea Formad Sp. z o.o. Sp. k.",
+"nier": "",
+"dz": "146517_8 0705 141",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "236/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "Instalacja gazowa - Hala H2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Ideal Idea Formad Sp. z o.o. Sp. k.",
+"nier": "",
+"dz": "146517_8 0705 143",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "236/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "Instalacja gazowa - Hala H1 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Ideal Idea Formad Sp.z o.o. Sp. k.",
+"nier": "",
+"dz": "146517_8 0705 31/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "237/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "Instalacja gazowa - Hala H1 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Ideal Idea Formad Sp.z o.o. Sp. k.",
+"nier": "",
+"dz": "146517_8 0705 141",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "237/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "Instalacja gazowa - Hala H1 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Ideal Idea Formad Sp.z o.o. Sp. k.",
+"nier": "",
+"dz": "146517_8 0705 143",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "237/2016"
+}
+},
+{
+"d": "2016-08-22",
+"c": {
+"inw": "Rozbiórka wiaty gospodarczej rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Sklepowa 15",
+"dz": "146517_8 0829 13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "233/2016"
+}
+},
+{
+"d": "2016-08-18",
+"c": {
+"inw": "Instalacja gazowa dla budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Rejonowa 22",
+"dz": "146517_8 0809 57",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "231/2016"
+}
+},
+{
+"d": "2016-08-17",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym i wewnętrzna instalacją gazową budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Wszemirowska 4",
+"dz": "146517_8 0819 181",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "223/2016"
+}
+},
+{
+"d": "2016-08-17",
+"c": {
+"inw": "Instalacja gazowa w budynku mieszkalnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Techników 8",
+"dz": "146517_8 0814 76",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "227/2016"
+}
+},
+{
+"d": "2016-08-17",
+"c": {
+"inw": "Przebudowa lokalu. Zmiana sposobu użytkowania wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "WSM ,,Ochota''",
+"nier": "Aleja Dwudziestolatków 3",
+"dz": "146517_8 0404 8/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "224/2016"
+}
+},
+{
+"d": "2016-08-17",
+"c": {
+"inw": "Przebudowa lokalu. Zmiana sposobu użytkowania wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "WSM ,,Ochota''",
+"nier": "Aleja Dwudziestolatków 3",
+"dz": "146517_8 0404 11/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "224/2016"
+}
+},
+{
+"d": "2016-08-17",
+"c": {
+"inw": "Rozbiórka 3 budynków: Socjalnego, socjalnego, biurowego. rozbiórka istniejącego obiektu budowlanego",
+"wn": "Polski Koncern Mięsny Duda S.A.",
+"nier": "",
+"dz": "146517_8 0504 49",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "222/2016"
+}
+},
+{
+"d": "2016-08-16",
+"c": {
+"inw": "Budowa zespołu 3 hal magaz.-biur. - hala H 3 . Etap II budowa nowego/nowych obiektów budowlanych",
+"wn": "Ideal Idea Formad Sp. z o.o. Sp.k.",
+"nier": "Działkowa",
+"dz": "146517_8 0705 31/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "219/2016"
+}
+},
+{
+"d": "2016-08-16",
+"c": {
+"inw": "Budowa zespołu 3 hal magaz.-biur. - hala H 3 . Etap II budowa nowego/nowych obiektów budowlanych",
+"wn": "Ideal Idea Formad Sp. z o.o. Sp.k.",
+"nier": "Działkowa",
+"dz": "146517_8 0705 141",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "219/2016"
+}
+},
+{
+"d": "2016-08-16",
+"c": {
+"inw": "Budowa zespołu 3 hal magaz.-biur. - hala H 3 . Etap II budowa nowego/nowych obiektów budowlanych",
+"wn": "Ideal Idea Formad Sp. z o.o. Sp.k.",
+"nier": "Działkowa",
+"dz": "146517_8 0705 143",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "219/2016"
+}
+},
+{
+"d": "2016-08-03",
+"c": {
+"inw": "Budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Kolneńska 12",
+"dz": "146517_8 0503 38",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "214/2016"
+}
+},
+{
+"d": "2016-08-02",
+"c": {
+"inw": "Budowa instalacji zbiornikowej w budynku Hali H2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Ideal Idea Formad Sp. z o.o. Sp. k.",
+"nier": "",
+"dz": "146517_8 0705 31/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "212/2016"
+}
+},
+{
+"d": "2016-08-02",
+"c": {
+"inw": "Budowa instalacji zbiornikowej w budynku Hali H2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Ideal Idea Formad Sp. z o.o. Sp. k.",
+"nier": "",
+"dz": "146517_8 0705 141",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "212/2016"
+}
+},
+{
+"d": "2016-08-02",
+"c": {
+"inw": "Budowa instalacji zbiornikowej w budynku Hali H2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Ideal Idea Formad Sp. z o.o. Sp. k.",
+"nier": "",
+"dz": "146517_8 0705 143",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "212/2016"
+}
+},
+{
+"d": "2016-08-02",
+"c": {
+"inw": "Przebudowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Starowiejska 17",
+"dz": "146517_8 0812 71",
+"rodz": "",
+"nr": "213/2016"
+}
+},
+{
+"d": "2016-07-27",
+"c": {
+"inw": "Budowa instalacji zbiornikowej gazu płynnego dla hali H 1 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Ideal Idea Formad Sp. z o.o.Sp.k.",
+"nier": "Działkowa",
+"dz": "146517_8 0705 31/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "208/2016"
+}
+},
+{
+"d": "2016-07-27",
+"c": {
+"inw": "Budowa instalacji zbiornikowej gazu płynnego dla hali H 1 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Ideal Idea Formad Sp. z o.o.Sp.k.",
+"nier": "Działkowa",
+"dz": "146517_8 0705 141",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "208/2016"
+}
+},
+{
+"d": "2016-07-27",
+"c": {
+"inw": "Budowa instalacji zbiornikowej gazu płynnego dla hali H 1 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Ideal Idea Formad Sp. z o.o.Sp.k.",
+"nier": "Działkowa",
+"dz": "146517_8 0705 143",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "208/2016"
+}
+},
+{
+"d": "2016-07-22",
+"c": {
+"inw": "Budowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kolneńska 6",
+"dz": "146517_8 0503 27",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "203/2016"
+}
+},
+{
+"d": "2016-07-22",
+"c": {
+"inw": "Budowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kolneńska 6",
+"dz": "146517_8 0503 31/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "203/2016"
+}
+},
+{
+"d": "2016-07-12",
+"c": {
+"inw": "Budowa instalacji gazowej dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Municypalna",
+"dz": "146517_8 0708 12/8",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "195/2016"
+}
+},
+{
+"d": "2016-07-06",
+"c": {
+"inw": "Budowa budynku biurowego budowa nowego/nowych obiektów budowlanych",
+"wn": "Jet-Printer Sp. z o.o.",
+"nier": "Serwituty",
+"dz": "146517_8 0707 48/26",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "190/2016"
+}
+},
+{
+"d": "2016-06-30",
+"c": {
+"inw": "Wykonanie otworu drzwiowego oraz schodów zewnętrznych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PEC Szyszkowa Sp. z o.o.",
+"nier": "Szyszkowa 35/37",
+"dz": "146517_8 0715 15/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "187/2016"
+}
+},
+{
+"d": "2016-06-30",
+"c": {
+"inw": "Wykonanie otworu drzwiowego oraz schodów zewnętrznych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PEC Szyszkowa Sp. z o.o.",
+"nier": "Szyszkowa 35/37",
+"dz": "146517_8 0715 32/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "187/2016"
+}
+},
+{
+"d": "2016-06-28",
+"c": {
+"inw": "Przebudowa budynku biur.-magaz.-socj.-garaż. - wykonanie antresoli wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Raf Trans Sp. z o.o.",
+"nier": "Jutrzenki 45",
+"dz": "146517_8 0703 36",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "183/2016"
+}
+},
+{
+"d": "2016-06-24",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z usługami w części parteru, garażem podziemnym i niezbędną infrastrukturą - bud. ,,B'' budowa nowego/nowych obiektów budowlanych",
+"wn": "Przedsiębiorstwo Oczyszczania i Wywozu Nieczystości Sp. z o.o.",
+"nier": "Instalatorów",
+"dz": "146517_8 0501 64/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "177/2016"
+}
+},
+{
+"d": "2016-06-24",
+"c": {
+"inw": "Przebudowa części budynku magazynowo-biurowego B4 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Piran Investments Sp. z o.o. Trajan S.J.",
+"nier": "Mineralna 15",
+"dz": "146517_8 0714 20/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "179/2016"
+}
+},
+{
+"d": "2016-06-20",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z usługami w części parteru, garażem podziemnym i niezbędną infrastrukturą - budynek ,,D'' budowa nowego/nowych obiektów budowlanych",
+"wn": "Przedsiębiorstwo Oczyszczania i Wywozu Nieczystości Sp. z o.o.",
+"nier": "Borsucza",
+"dz": "146517_8 0501 64/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "166/2016"
+}
+},
+{
+"d": "2016-06-16",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym i niezbędna infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "Przedsiębiorstwo Oczyszczania i Wywozu Nieczystości Sp. z o.o.",
+"nier": "Instalatorów",
+"dz": "146517_8 0501 69/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "161/2016"
+}
+},
+{
+"d": "2016-06-16",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym i niezbędna infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "Przedsiębiorstwo Oczyszczania i Wywozu Nieczystości Sp. z o.o.",
+"nier": "Instalatorów",
+"dz": "146517_8 0501 64/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "161/2016"
+}
+},
+{
+"d": "2016-06-16",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym i niezbędna infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "Przedsiębiorstwo Oczyszczania i Wywozu Nieczystości Sp. z o.o.",
+"nier": "Instalatorów",
+"dz": "146517_8 0501 65/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "161/2016"
+}
+},
+{
+"d": "2016-06-16",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z usługami w części parteru, garażem podziemnym i niezbędną infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "Przedsiębiorstwo Oczyszczania i Wywozu Nieczystości Sp. z o.o.",
+"nier": "Borsucza",
+"dz": "146517_8 0501 64/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "165/2016"
+}
+},
+{
+"d": "2016-06-16",
+"c": {
+"inw": "Instalacja gazowa wewnętrzna wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Wałowicka 23",
+"dz": "146517_9 0809 19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "164/2016"
+}
+},
+{
+"d": "2016-06-15",
+"c": {
+"inw": "Budowa zespołu trzech willi miejskich z garażami podziemnymi budowa nowego/nowych obiektów budowlanych",
+"wn": "MaRS Investments Sp. z o.o.",
+"nier": "4",
+"dz": "146517_8 0829 114/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "159/2016"
+}
+},
+{
+"d": "2016-06-14",
+"c": {
+"inw": "przebudowa wnętrza hali magazynowo-biurowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polski Bank Komórek Macierzystych S.A.",
+"nier": "Działkowa 85",
+"dz": "146517_8 0708 73/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "155/2016"
+}
+},
+{
+"d": "2016-06-14",
+"c": {
+"inw": "Przebudowa elewacji dwóch budynków magazynowych wraz z budową kanału przeglądowego autobusów oraz zadaszenia pomiędzy budynkami budowa nowego/nowych obiektów budowlanych",
+"wn": "Raf Trans Sp. z o.o.",
+"nier": "Municypalna 45",
+"dz": "146517_8 0708 10/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "154/2016"
+}
+},
+{
+"d": "2016-06-14",
+"c": {
+"inw": "Przebudowa elewacji dwóch budynków magazynowych wraz z budową kanału przeglądowego autobusów oraz zadaszenia pomiędzy budynkami budowa nowego/nowych obiektów budowlanych",
+"wn": "Raf Trans Sp. z o.o.",
+"nier": "Municypalna 45",
+"dz": "146517_8 0708 5/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "154/2016"
+}
+},
+{
+"d": "2016-06-03",
+"c": {
+"inw": "Instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Notecka",
+"dz": "146517_8 0804 39",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "145/2016"
+}
+},
+{
+"d": "2016-06-03",
+"c": {
+"inw": "Instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Notecka",
+"dz": "146517_8 0804 38",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "144/2016"
+}
+},
+{
+"d": "2016-05-27",
+"c": {
+"inw": "Budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Modularna 3 C",
+"dz": "146517_8 0705 88/5",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "136/2016"
+}
+},
+{
+"d": "2016-05-16",
+"c": {
+"inw": "Budowa instalacji gazowej dla budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Interhome Sp. z o.o.",
+"nier": "",
+"dz": "146517_8 0501 182",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "129/2016"
+}
+},
+{
+"d": "2016-05-11",
+"c": {
+"inw": "Instalacja gazowa. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Szczęsna 29",
+"dz": "146517_8 0812 16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "124/2016"
+}
+},
+{
+"d": "2016-04-29",
+"c": {
+"inw": "Budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Husarska",
+"dz": "146517_8 0824 356/5",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "113/2016"
+}
+},
+{
+"d": "2016-04-27",
+"c": {
+"inw": "Budowa instalacji gazowej do budynku usługowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146517_8 0705 95",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "111/2016"
+}
+},
+{
+"d": "2016-04-27",
+"c": {
+"inw": "Rozbudowa i nadbudowa budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Krańcowa 2A",
+"dz": "146517_8 0825 11",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "108/2016"
+}
+},
+{
+"d": "2016-04-27",
+"c": {
+"inw": "Rozbudowa i nadbudowa budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Krańcowa 2A",
+"dz": "146517_8 0825 12",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "108/2016"
+}
+},
+{
+"d": "2016-04-27",
+"c": {
+"inw": "Rozbudowa i nadbudowa budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Krańcowa 2A",
+"dz": "146517_8 0825 14/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "108/2016"
+}
+},
+{
+"d": "2016-04-27",
+"c": {
+"inw": "przebudowa instalacji gazowej niskiego ciśnienia w budynku mieszkalnym jednorodzinnym przebudowanym na budynek mieszkalno-usługowy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Cyprysowa 22",
+"dz": "146517_8 0707 52",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "109/2016"
+}
+},
+{
+"d": "2016-04-22",
+"c": {
+"inw": "Budowa wewnętrznej instalacji gazowej dla zespołu 4 budynków mieszkalnych wielorodzinnych z garażem podziemnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Sklepowa 22",
+"dz": "146517_8 0822 37",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "106/2016"
+}
+},
+{
+"d": "2016-04-22",
+"c": {
+"inw": "Budowa wewnętrznej instalacji gazowej dla zespołu 4 budynków mieszkalnych wielorodzinnych z garażem podziemnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Sklepowa 22",
+"dz": "146517_8 0822 38",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "106/2016"
+}
+},
+{
+"d": "2016-04-20",
+"c": {
+"inw": "Budowa instalacji gazowej dla budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Wałowicka 25",
+"dz": "146517_8 0809 20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "98/2016"
+}
+},
+{
+"d": "2016-04-20",
+"c": {
+"inw": "Przebudowa części budynku wraz ze zmianą sposobu użytkowania wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Lux Med Sp. z o.o.",
+"nier": "Sierpnia 8 / 1",
+"dz": "146517_8 0405 4/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "99/2016"
+}
+},
+{
+"d": "2016-04-18",
+"c": {
+"inw": "Budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "15",
+"dz": "146517_8 0821 84/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "95/2016"
+}
+},
+{
+"d": "2016-04-18",
+"c": {
+"inw": "Budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "15",
+"dz": "146517_8 0821 82",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "95/2016"
+}
+},
+{
+"d": "2016-04-12",
+"c": {
+"inw": "Wykonanie drzwi zewnętrznych w budynku zespołu hal technicznych z zapleczem biurowym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Instytut Lotnictwa",
+"nier": "Aleja Krakowska 110/114",
+"dz": "146517_8 0604 2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "90/2016"
+}
+},
+{
+"d": "2016-04-11",
+"c": {
+"inw": "Budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Jutrzenki 107/109",
+"dz": "146517_8 0701 13/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "87/2016"
+}
+},
+{
+"d": "2016-04-04",
+"c": {
+"inw": "Budowa sieci gazowej dystrybucyjnej budowa nowego/nowych obiektów budowlanych",
+"wn": "Polska Spółka Gazownictwa Sp. z o.o.",
+"nier": "",
+"dz": "146517_8 0503 33",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "86/2016"
+}
+},
+{
+"d": "2016-04-04",
+"c": {
+"inw": "Budowa gazociagu dystrybucyjnego s/c 160PE i przyłacza gazu s/c 32PE wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polska Spółka Gazownictwa Sp. z o.o. Oddz. w W-wie",
+"nier": "Łopuszańska 31A",
+"dz": "146517_8 0504 61",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "83/2016"
+}
+},
+{
+"d": "2016-04-04",
+"c": {
+"inw": "Budowa instalacji gaz. n/ć dla lokalu mieszkalnego w bud. mieszk. wielorodz. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Husarska 17",
+"dz": "146517_8 0824 109",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "84/2016"
+}
+},
+{
+"d": "2016-03-25",
+"c": {
+"inw": "Przebudowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Krańcowa 41 A",
+"dz": "146517_8 0825 226/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "77/2016"
+}
+},
+{
+"d": "2016-03-23",
+"c": {
+"inw": "Budowa instalacji gazowej dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Nasienna 15",
+"dz": "146517_8 0503 39",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "74/2016"
+}
+},
+{
+"d": "2016-03-22",
+"c": {
+"inw": "Instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Jantar 15",
+"dz": "146517_8 0720 62",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "73/2016"
+}
+},
+{
+"d": "2016-03-16",
+"c": {
+"inw": "Przebudowa ze zmianą sposobu użytkowania budynku biurowego na hotel wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "J.W. Construction Holding S.A.",
+"nier": "Aleje Jerozolimskie 216",
+"dz": "146517_8 0831 62/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "65/2016"
+}
+},
+{
+"d": "2016-03-14",
+"c": {
+"inw": "Rozbudowa warsztatu samochodowego wraz z częścią biurowo-socjalną, magazynem oraz wewn. inst. gazową rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Łopuszańska 31A",
+"dz": "146517_8 0504 61",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "63/2016"
+}
+},
+{
+"d": "2016-03-11",
+"c": {
+"inw": "Budowa nadziemnego zbiornika magazynowego skroplonego azotu o poj. 32m z parownikiem budowa nowego/nowych obiektów budowlanych",
+"wn": "Janex Sławomir i Elżbieta Wiesiak Sj.",
+"nier": "Instalatorów 9",
+"dz": "146517_8 0501 16/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "61/2015"
+}
+},
+{
+"d": "2016-03-04",
+"c": {
+"inw": "Instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Jantar 5",
+"dz": "146517_8 0720 67",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "56/2016"
+}
+},
+{
+"d": "2016-03-01",
+"c": {
+"inw": "Instalacja gazowa dla lokalu mieszkalnego nr 3 w bud. mieszk. jedn. w zabudowie bliźniaczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Koziorożca 1",
+"dz": "146517_8 0807 20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "53/2016"
+}
+},
+{
+"d": "2016-03-01",
+"c": {
+"inw": "Budowa instalacji gazowej dla lokalu mieszkalnego nr 11 w budynku mieszkalnym wielorodzinnym przy ul. Globusowej 7 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Globusowa 7",
+"dz": "146517_8 0708 56",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "54/2016"
+}
+},
+{
+"d": "2016-02-25",
+"c": {
+"inw": "Budowa wewnętrznej instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Borsucza 5C",
+"dz": "146517_8 0501 197",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "47/2016"
+}
+},
+{
+"d": "2016-02-25",
+"c": {
+"inw": "Budowa wewnętrznej instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Borsucza 5E",
+"dz": "146517_8 0501 197",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "49/2016"
+}
+},
+{
+"d": "2016-02-25",
+"c": {
+"inw": "Budowa wewnętrznej instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Borsucza 5D",
+"dz": "146517_8 0501 197",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "48/2016"
+}
+},
+{
+"d": "2016-02-25",
+"c": {
+"inw": "Budowa wewnętrznej instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Borsucza 5B",
+"dz": "146517_8 0501 197",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "46/2016"
+}
+},
+{
+"d": "2016-02-25",
+"c": {
+"inw": "Budowa wewnętrznej instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Borsucza 5F",
+"dz": "146517_8 0501 197",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "50/2016"
+}
+},
+{
+"d": "2016-02-25",
+"c": {
+"inw": "Budowa wewnętrznej instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Borsucza 5A",
+"dz": "146517_8 0501 197",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "45/2016"
+}
+},
+{
+"d": "2016-02-24",
+"c": {
+"inw": "Instalacja gazowa dla budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146517_8 0824 362",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "44/2016"
+}
+},
+{
+"d": "2016-02-22",
+"c": {
+"inw": "Budowa instalacji gazowej w budynku usług.-biur.-magaz. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PHUP ,,Putzsystem'' Sp. J. Marek Kopeciński, Lesław Jopek",
+"nier": "Szyszkowa 66",
+"dz": "146517_8 0709 67/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "42/2016"
+}
+},
+{
+"d": "2016-02-18",
+"c": {
+"inw": "Wykonanie dodatkowego otworu drzwiowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Instytut Lotnictwa",
+"nier": "Aleja Krakowska 110/114",
+"dz": "146517_8 0602 53/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/2016"
+}
+},
+{
+"d": "2016-02-08",
+"c": {
+"inw": "Budowa sieci wodociągowej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Borsucza 5",
+"dz": "146517_8 0501 195/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "30/2016"
+}
+},
+{
+"d": "2016-02-08",
+"c": {
+"inw": "Budowa sieci wodociągowej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Borsucza 5",
+"dz": "146517_8 0501 197",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "30/2016"
+}
+},
+{
+"d": "2016-02-08",
+"c": {
+"inw": "Budowa sieci kanalizacji sanitarnej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Borsucza 5",
+"dz": "146517_8 0501 197",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "29/216"
+}
+},
+{
+"d": "2016-02-08",
+"c": {
+"inw": "Budowa sieci kanalizacji sanitarnej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Borsucza 5",
+"dz": "146517_8 0501 195/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "29/216"
+}
+}
+]
+}
+]
+}

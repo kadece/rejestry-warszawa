@@ -1,0 +1,3502 @@
+{
+"district": "wola",
+"year": 2026,
+"generated": "2026-11-24T21:24:53+01:00",
+"total": 310,
+"registers": [
+{
+"id": "wn_pnb",
+"name": "Wnioski o pozwolenie na budowę",
+"short": "Wnioski PnB",
+"desc": "Wnioski o pozwolenie na budowę złożone do organu architektoniczno-budowlanego dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer wniosku",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2026-10-26",
+"c": {
+"inw": "przebudowa i rozbudowa budynku Urzędu Dzielnicy Wola wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa",
+"nier": "Aleja \"Solidarności\" 90",
+"dz": "146518_8 0207 114",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.280.2026.AKO"
+}
+},
+{
+"d": "2026-09-11",
+"c": {
+"inw": "remont lokalu mieszkalnego nr 19 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Leonarda 10",
+"dz": "146518_8 0311 92",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.208.2026.KME"
+}
+},
+{
+"d": "2026-08-31",
+"c": {
+"inw": "remont dwóch okien i dwóch krat zewnętrznych w lokalu U8 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Ludwiki 1",
+"dz": "146518_8 0404 37",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.163.2026.EDW"
+}
+},
+{
+"d": "2026-08-25",
+"c": {
+"inw": "przebudowa lokalu mieszkalnego nr 18 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Agawy 3",
+"dz": "146518_8 0310 58",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.134.2026.KME"
+}
+},
+{
+"d": "2026-08-25",
+"c": {
+"inw": "przebudowa w celu połączenia dwóch lokali mieszkalnych nr 5 i 5A w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Skwer kard. Stefana Wyszyńskiego 7",
+"dz": "146518_8 0206 83",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.135.2026.WKA"
+}
+},
+{
+"d": "2026-08-13",
+"c": {
+"inw": "przebudowa w celu połączenia dwóch lokali mieszkalnych nr 28 i 29 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Wolska 82",
+"dz": "146518_8 0318 202",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.125.2026.KME"
+}
+},
+{
+"d": "2026-08-13",
+"c": {
+"inw": "przebudowa i remont lokalu mieszkalnego nr 27 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Staszica 16 / Stanisława",
+"dz": "146518_8 0319 92",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.124.2026.KME"
+}
+},
+{
+"d": "2026-08-13",
+"c": {
+"inw": "instalowanie instalacji ciepłej wody użytkowej oraz wody cyrkulacyjnej CW w użytkowanym budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Nowolipie 23",
+"dz": "146518_8 0207 95/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.130.2026.AKO"
+}
+},
+{
+"d": "2026-08-12",
+"c": {
+"inw": "budowa budynku gospodarczego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Znana 12",
+"dz": "146518_8 0707 25",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.129.2026.LLA"
+}
+},
+{
+"d": "2026-08-07",
+"c": {
+"inw": "remont lokalu mieszkalnego nr 34 w budynku mieszkalnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Bema 81 / Józefa",
+"dz": "146518_8 0404 19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.123.2026.EDW"
+}
+},
+{
+"d": "2026-07-23",
+"c": {
+"inw": "remont tarasów w budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Warszawa ul. Prymasa Tysiąclecia  139/143",
+"nier": "Aleja Prymasa Tysiąclecia 139/143",
+"dz": "146518_8 0610 47",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.113.2026.KWA"
+}
+},
+{
+"d": "2026-07-17",
+"c": {
+"inw": "montaż znaków firmowych - trzech szyldów na elewacjach budynku Varso Tower wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polcom Investment VI Sp. z o.o.",
+"nier": "Chmielna 69",
+"dz": "146518_8 0110 33/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.107.2026.WKA"
+}
+},
+{
+"d": "2026-07-17",
+"c": {
+"inw": "montaż znaków firmowych - trzech szyldów na elewacjach budynku Varso Tower wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polcom Investment VI Sp. z o.o.",
+"nier": "Chmielna 69",
+"dz": "146518_8 0110 33/17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.107.2026.WKA"
+}
+},
+{
+"d": "2026-07-17",
+"c": {
+"inw": "przebudowa drogi gminnej ul. Władysława Warneńczyka wraz z przebudową i rozbudową sieci telekomunikacyjnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Dantex Holding Sp. z o.o.",
+"nier": "Władysława Warneńczyka",
+"dz": "146518_8 0504 15/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.110.2026.LLA"
+}
+},
+{
+"d": "2026-07-14",
+"c": {
+"inw": "przebudowa w celu połączenia dwóch lokali mieszkalnych nr 34 i nr 35 oraz przebudowa lokalu mieszkalnego nr 38 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Płocka 3",
+"dz": "146518_8 0404 54/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.106.2026.EDW"
+}
+},
+{
+"d": "2026-07-14",
+"c": {
+"inw": "przebudowa w celu połączenia dwóch lokali mieszkalnych nr 15 i nr 17 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Krzyżanowskiego 44 / Seweryna",
+"dz": "146518_8 0407 14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.105.2026.KRA"
+}
+},
+{
+"d": "2026-07-14",
+"c": {
+"inw": "przebudowa i remont lokalu mieszkalnego nr 18A w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Pawia 69",
+"dz": "146518_8 0204 39",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.103.2026.AKO"
+}
+},
+{
+"d": "2026-07-14",
+"c": {
+"inw": "przebudowa lokalu mieszkalnego nr 1 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Dzielna 9",
+"dz": "146518_8 0205 30",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.102.2026.AKO"
+}
+},
+{
+"d": "2026-07-14",
+"c": {
+"inw": "przebudowa w celu połączenia dwóch lokali mieszkalnych nr 20 i nr 21/22 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Pawia 71",
+"dz": "146518_8 0204 39",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.101.2026.AKO"
+}
+},
+{
+"d": "2026-07-14",
+"c": {
+"inw": "przebudowa w celu połączenia dwóch lokali mieszkalnych nr 34 i nr 35 oraz przebudowa lokalu mieszkalnego nr 38 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Sokołowska 20",
+"dz": "146518_8 0314 55",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.104.2026.KME"
+}
+},
+{
+"d": "2026-07-05",
+"c": {
+"inw": "przebudowa podcienia budynku Warszawskiego Centrum EXPO XXI wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawskie Centrum EXPO XXI Sp. z o.o.",
+"nier": "Prądzyńskiego 12/14 / Ignacego",
+"dz": "146518_8 0407 29",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.98.2026.KRA"
+}
+},
+{
+"d": "2026-07-05",
+"c": {
+"inw": "przebudowa podcienia budynku Warszawskiego Centrum EXPO XXI wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawskie Centrum EXPO XXI Sp. z o.o.",
+"nier": "Prądzyńskiego 12/14 / Ignacego",
+"dz": "146518_8 0407 30",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.98.2026.KRA"
+}
+},
+{
+"d": "2026-07-02",
+"c": {
+"inw": "remont elewacji budynku Urzędu Dzielnicy Wola wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Dzielnica Wola",
+"nier": "Aleja \"Solidarności\" 90",
+"dz": "146518_8 0207 114",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.91.2026.AKO"
+}
+},
+{
+"d": "2026-07-02",
+"c": {
+"inw": "remont elewacji budynku Urzędu Dzielnicy Wola wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Dzielnica Wola",
+"nier": "Aleja \"Solidarności\" 90",
+"dz": "146518_8 0207 127",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.91.2026.AKO"
+}
+},
+{
+"d": "2026-07-01",
+"c": {
+"inw": "budowa i rozbiórka sieci elektroenergetycznej SN w rejonie ul. Okocimskiej budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "Okocimska",
+"dz": "146518_8 0702 36/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.96.2026.KWA"
+}
+},
+{
+"d": "2026-07-01",
+"c": {
+"inw": "budowa i rozbiórka sieci elektroenergetycznej SN w rejonie ul. Okocimskiej budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "Okocimska",
+"dz": "146518_8 0702 36/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.96.2026.KWA"
+}
+},
+{
+"d": "2026-07-01",
+"c": {
+"inw": "budowa i rozbiórka sieci elektroenergetycznej SN w rejonie ul. Okocimskiej budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "Okocimska",
+"dz": "146518_8 0702 36/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.96.2026.KWA"
+}
+},
+{
+"d": "2026-07-01",
+"c": {
+"inw": "budowa i rozbiórka sieci elektroenergetycznej SN w rejonie ul. Okocimskiej budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "Okocimska",
+"dz": "146518_8 0702 39/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.96.2026.KWA"
+}
+},
+{
+"d": "2026-07-01",
+"c": {
+"inw": "budowa i demontaż kabli SN w celu modernizacji sieci w rejonie ul. Jana Olbrachta budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "Jana Olbrachta",
+"dz": "146518_8 0702 25/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.95.2026.KWA"
+}
+},
+{
+"d": "2026-07-01",
+"c": {
+"inw": "budowa i demontaż kabli SN w celu modernizacji sieci w rejonie ul. Jana Olbrachta budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "Jana Olbrachta",
+"dz": "146518_8 0702 25/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.95.2026.KWA"
+}
+},
+{
+"d": "2026-07-01",
+"c": {
+"inw": "budowa i demontaż kabli SN w celu modernizacji sieci w rejonie ul. Jana Olbrachta budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "Jana Olbrachta",
+"dz": "146518_8 0702 25/24",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.95.2026.KWA"
+}
+},
+{
+"d": "2026-07-01",
+"c": {
+"inw": "budowa i demontaż kabli SN w celu modernizacji sieci w rejonie ul. Jana Olbrachta budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "Jana Olbrachta",
+"dz": "146518_8 0702 90/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.95.2026.KWA"
+}
+},
+{
+"d": "2026-07-01",
+"c": {
+"inw": "budowa i demontaż kabli SN w celu modernizacji sieci w rejonie ul. Jana Olbrachta budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "Jana Olbrachta",
+"dz": "146518_8 0702 90/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.95.2026.KWA"
+}
+},
+{
+"d": "2026-07-01",
+"c": {
+"inw": "budowa i demontaż kabli SN w celu modernizacji sieci w rejonie ul. Jana Olbrachta budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "Jana Olbrachta",
+"dz": "146518_8 0702 90/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.95.2026.KWA"
+}
+},
+{
+"d": "2026-07-01",
+"c": {
+"inw": "budowa i demontaż kabli SN w celu modernizacji sieci w rejonie ul. Jana Olbrachta budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "Jana Olbrachta",
+"dz": "146518_8 0702 90/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.95.2026.KWA"
+}
+},
+{
+"d": "2026-07-01",
+"c": {
+"inw": "przebudowa lokalu nr 198 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Wawelberga 3 / Hipolita",
+"dz": "146518_8 0319 32",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.94.2026.KME"
+}
+},
+{
+"d": "2026-07-01",
+"c": {
+"inw": "przebudowa fundamentów polegająca na wzmocnieniu podłoża gruntowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa Centrum Wola",
+"nier": "Wolska 75",
+"dz": "146518_8 0401 25/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.92.2026.EDW"
+}
+},
+{
+"d": "2026-06-30",
+"c": {
+"inw": "przebudowa w celu połączenia dwóch lokali mieszkalnych nr 3 i 3a w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Ogrodowa 55",
+"dz": "146518_8 0101 28",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.88.2026.JOS"
+}
+},
+{
+"d": "2026-06-30",
+"c": {
+"inw": "przebudowa w celu połączenia dwóch lokali mieszkalnych nr 6 i 6a w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Żelazna 91",
+"dz": "146518_8 0101 9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.89.2026.AKO"
+}
+},
+{
+"d": "2026-06-29",
+"c": {
+"inw": "przebudowa wewnętrznej instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Złota 64/66",
+"nier": "Złota 64/66",
+"dz": "146518_8 0108 52",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.87.2026.WKA"
+}
+},
+{
+"d": "2026-06-26",
+"c": {
+"inw": "przebudowa budynku hali sportowej \"KOŁO\" wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Ośrodek Sportu i Rekreacji m.st. Warszawy w Dzielnicy Wola",
+"nier": "Obozowa 60",
+"dz": "146518_8 0605 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.90.2026.KWA"
+}
+},
+{
+"d": "2026-06-25",
+"c": {
+"inw": "budowa zewnętrznej myjni przejazdowej z zagospodarowaniem terenu i infrastrukturą techniczną, budowa kontenera technicznego wraz z zadaszeniem, budowa podestu technologicznego oraz rozbiórka istniejącej zewnętrznej myjni przejazdowej, rozbiórka  istniejącego kontenera technicznego i rozbiórka płyty istniejącego zbiornika technicznego na terenie ZRP \"Wola\" budowa nowego/nowych obiektów budowlanych",
+"wn": "Tramwaje Warszawskie Sp. z o.o.",
+"nier": "Młynarska 2",
+"dz": "146518_8 0402 17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.83.2026.EDW"
+}
+},
+{
+"d": "2026-06-24",
+"c": {
+"inw": "remont dachu w budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nowolipki 22",
+"nier": "Nowolipki 22",
+"dz": "146518_8 0205 16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.82.2026.AKO"
+}
+},
+{
+"d": "2026-06-19",
+"c": {
+"inw": "rozbiórka budynku rozbiórka istniejącego obiektu budowlanego",
+"wn": "CIRIL PROJECT TWO Sp. z o.o.",
+"nier": "Przyokopowa 5/7",
+"dz": "146518_8 0408 97/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6741.10.2026.KRA"
+}
+},
+{
+"d": "2026-06-16",
+"c": {
+"inw": "przebudowa szybu windowego LP1 polegająca na zabudowie nowej konstrukcji stalowej wraz ze szklaną elewacją wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Ingka Centres Polska Sp. z o.o.",
+"nier": "Górczewska 124",
+"dz": "146518_8 0606 91/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.78.2026.KWA"
+}
+},
+{
+"d": "2026-06-16",
+"c": {
+"inw": "remont i przebudowa części budynku na potrzeby Ośrodka Pomocy Społecznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola",
+"nier": "Młynarska 16",
+"dz": "146518_8 0316 51",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.77.2026.PTO"
+}
+},
+{
+"d": "2026-06-12",
+"c": {
+"inw": "przebudowa w celu połączenia lokali mieszkalnych 13A i 13B w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola",
+"nier": "Grzybowska 47A",
+"dz": "146518_8 0104 29",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.75.2026.JOS"
+}
+},
+{
+"d": "2026-06-12",
+"c": {
+"inw": "przebudowa lok. mieszk. nr 18 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Grzybowska 47",
+"dz": "146518_8 0104 29",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.74.2026.JOS"
+}
+},
+{
+"d": "2026-06-12",
+"c": {
+"inw": "instalowanie urządzeń fotowoltaicznych na dachu budynku o łącznej mocy 63,36 kWp wraz z infrastrukturą towarzyszącą wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa ul. Nowolipki 14",
+"nier": "Nowolipki 14",
+"dz": "146518_8 0205 34",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.76.2026.AKO"
+}
+},
+{
+"d": "2026-06-11",
+"c": {
+"inw": "przebudowa w celu połączenia dwóch lokali mieszkalnych nr 86/87 i 88 oraz remont lokalu mieszkalnego nr 25 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Ogrodowa 26A",
+"dz": "146518_8 0102 39",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.73.2026.AKO"
+}
+},
+{
+"d": "2026-06-03",
+"c": {
+"inw": "remont elewacji, balkonów, nisz okiennych, wymiana stolarki okiennej piwnic i poddasza, wymiana zadaszenia wejścia do klatki schodowej, remont i podwyższenie balustrad balkonowych budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Żytnia 61",
+"dz": "146518_8 0315 17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.110.2025.KME - ponownie"
+}
+},
+{
+"d": "2026-06-03",
+"c": {
+"inw": "remont elewacji, balkonów, nisz okiennych, wymiana stolarki okiennej piwnic i poddasza, wymiana zadaszenia wejścia do klatki schodowej, remont i podwyższenie balustrad balkonowych budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Żytnia 61",
+"dz": "146518_8 0315 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.110.2025.KME - ponownie"
+}
+},
+{
+"d": "2026-06-02",
+"c": {
+"inw": "remont 3 okien i drzwi balkonowych w lok. mieszk. nr 12 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Nowolipki 32",
+"dz": "146518_8 0204 87",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.71.2026.AKO"
+}
+},
+{
+"d": "2026-06-02",
+"c": {
+"inw": "remont drzwi z klatki schodowej do lok. mieszk. nr 60 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład  Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Magistracka 24",
+"dz": "146518_8 0610 29",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.69.2026.KWA"
+}
+},
+{
+"d": "2026-06-02",
+"c": {
+"inw": "remont 3 okien w lok. mieszkalnym nr 23 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Nowolipie 25",
+"dz": "146518_8 0207 74",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.70.2026.AKO"
+}
+},
+{
+"d": "2026-05-29",
+"c": {
+"inw": "przebudowa polegająca na zabudowie otworu w stropie piętra +1 w budynku warzelni w kompleksie \"Browary Warszawskie\" wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Nine`s Sp. z o.o.",
+"nier": "Haberbuscha i Schielego 6",
+"dz": "146518_8 0104 13/25",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.67.2026.JOS"
+}
+},
+{
+"d": "2026-05-27",
+"c": {
+"inw": "przebudowa budynku w zakresie dostosowania do wymagań przepisów przeciwpożarowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zarząd Dróg Miejskich",
+"nier": "Chmielna 120",
+"dz": "146518_8 0110 12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.66.2026.WKA"
+}
+},
+{
+"d": "2026-05-26",
+"c": {
+"inw": "remont budynku w zakresie elewacji wraz z demontażem istniejącego docieplenia, remontem prześwitu bramowego, stopni do pomieszczeń usługowych oraz balkonów wraz z wymianą zadaszenia wejścia do klatki schodowej budynku położonego przy ul. Pawiej 71 w Warszawie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Pawia 71",
+"dz": "146518_8 0204 39",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.109.2025.WKA - ponownie"
+}
+},
+{
+"d": "2026-05-22",
+"c": {
+"inw": "przebudowa części budynku biurowo-usługowego w zakresie wykonania przebić w stropie nad parterem oraz otworów dla czerpni i wyrzutni w elewacji ze zmianą sposobu użytkowania lokalu biurowo-handlowego na potrzeby Przychodni MULTIMED wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Centrum Diagnostyki Medycznej \"Multi-Med\" SA",
+"nier": "Aleja Jana Pawła II 25",
+"dz": "146518_8 0105 95/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.63.2026.JOS"
+}
+},
+{
+"d": "2026-05-15",
+"c": {
+"inw": "remont dwóch okien w lokalu mieszkalnym nr 48 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Nowolipie 31",
+"dz": "146518_8 0207 79",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.55.2026.AKO"
+}
+},
+{
+"d": "2026-05-15",
+"c": {
+"inw": "przebudowa i remont lokali mieszkalnych nr 14 i 63 oraz remont lokalu mieszkalnego nr 61 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Górczewska 15",
+"dz": "146518_8 0319 28",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.57.2026.KME"
+}
+},
+{
+"d": "2026-05-15",
+"c": {
+"inw": "przebudowa lokalu mieszkalnego nr 7 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Sienna 55",
+"dz": "146518_8 0108 70",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.60.2026.WKA"
+}
+},
+{
+"d": "2026-05-15",
+"c": {
+"inw": "remont okna z drzwiami balkonowymi w lokalu mieszkalnym nr 50 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Dzielna 17",
+"dz": "146518_8 0204 72",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.52.2026.AKO"
+}
+},
+{
+"d": "2026-05-15",
+"c": {
+"inw": "remont dwóch okien w lokalu mieszkalnym nr 14 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Nowolipie 20A",
+"dz": "146518_8 0207 59",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.56.2026.AKO"
+}
+},
+{
+"d": "2026-05-15",
+"c": {
+"inw": "remont drzwi wejściowych do lokali mieszkalnych nr 5 i 9 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Chłodna 20",
+"dz": "146518_8 0102 121",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.61.2026.JOS"
+}
+},
+{
+"d": "2026-05-15",
+"c": {
+"inw": "remont trzech okien w lokalu mieszkalnym nr 39 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy, ul. Bema 70, Warszawa",
+"nier": "Nowolipki 36",
+"dz": "146518_8 0204 75",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.53.2026.AKO"
+}
+},
+{
+"d": "2026-05-15",
+"c": {
+"inw": "remont jednego okna w lokalu mieszkalnym nr 18 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Dzielna 7B",
+"dz": "146518_8 0205 33",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.54.2026.AKO"
+}
+},
+{
+"d": "2026-05-15",
+"c": {
+"inw": "remont lokalu mieszkalnego nr 140 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Górczewska 15A",
+"dz": "146518_8 0319 33",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.58.2026.KME"
+}
+},
+{
+"d": "2026-05-11",
+"c": {
+"inw": "rozbiórka budynku przemysłowego oraz budynku technicznego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Alides Polska Properties Sp. z o.o.",
+"nier": "Studzienna 7A",
+"dz": "146518_8 0501 6/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6741.9.2026.LLA"
+}
+},
+{
+"d": "2026-05-08",
+"c": {
+"inw": "rozbiórka pozostałości (ruin) po budynku produkcyjnym rozbiórka istniejącego obiektu budowlanego",
+"wn": "Zarząd Dróg Miejskich",
+"nier": "Prądzyńskiego 15 / Ignacego",
+"dz": "146518_8 0407 42",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6741.7.2026.KRA"
+}
+},
+{
+"d": "2026-05-07",
+"c": {
+"inw": "rozbiórka budynków użytkowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "m.st. Warszawa - Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Spokojna 9",
+"dz": "146518_8 0306 8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6741.6.2026.PTO"
+}
+},
+{
+"d": "2026-05-04",
+"c": {
+"inw": "rozbiórka budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Szpital Wolski im. dr Anny Gostyńskiej Sp. z o.o.",
+"nier": "Kasprzaka 17 / Marcina",
+"dz": "146518_8 0408 17/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6741.5.2026.KRA"
+}
+},
+{
+"d": "2026-04-29",
+"c": {
+"inw": "budowa telekomunikacyjnej kanalizacji kablowej w celu usunięcia kolizji związanej z budową obiektu szpitalnego budowa nowego/nowych obiektów budowlanych",
+"wn": "Instytut Matki i Dziecka",
+"nier": "Kasprzaka 17A / Marcina",
+"dz": "146518_8 0408 14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.49.2026.KRA"
+}
+},
+{
+"d": "2026-04-27",
+"c": {
+"inw": "wykonanie tymczasowego zabezpieczenia klatki schodowej w budynku dawnej Fabryki Garbarskiej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa - Zarząd Zieleni m.st. Warszawy",
+"nier": "Okopowa 78",
+"dz": "146518_8 0201 9/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.48.2026.PTO"
+}
+},
+{
+"d": "2026-04-21",
+"c": {
+"inw": "remont budynku wielorodzinnego w zakresie elewacji, dachu, obróbek blacharskich, rur spustowych, cokołu, elementów ślusarki, płyt loggii, kratek wentylacyjnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Obozowa 66",
+"nier": "Obozowa 66",
+"dz": "146518_8 0604 185",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.45.2026.KWA"
+}
+},
+{
+"d": "2026-04-21",
+"c": {
+"inw": "rozbudowa i przebudowa budynku mieszkalnego jednorodzinnego w zabudowie bliźniaczej wraz z zagospodarowaniem terenu rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Szańcowa 11A",
+"dz": "146518_8 0701 42/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.44.2026.KWA"
+}
+},
+{
+"d": "2026-04-15",
+"c": {
+"inw": "rozbudowa i przebudowa ze zmianą sposobu użytkowania budynku portierni “H” Instytutu Matki i Dziecka na potrzeby zlokalizowania stacji transformatorowej wraz z instalowaniem instalacji wewnętrznych elektrycznych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Instytut Matki i Dziecka",
+"nier": "Kasprzaka 17A / Marcina",
+"dz": "146518_8 0408 14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.37.2026.KRA"
+}
+},
+{
+"d": "2026-03-27",
+"c": {
+"inw": "budowa instalacji zbiornikowej z podziemnym zbiornikiem na gaz płynny V=2700l dla budynku mieszkalnego wielorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości przy ul. Armatniej 8",
+"nier": "Armatnia 8",
+"dz": "146518_8 0505 29/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB.AB.6740.30.2026.LLA"
+}
+},
+{
+"d": "2026-03-26",
+"c": {
+"inw": "przebudowa  budynku w zakresie ścian konstrukcyjnych na 2 p. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Wola",
+"nier": "Aleja \"Solidarności\" 90",
+"dz": "146518_8 0207 114",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.28.2026.AKO"
+}
+},
+{
+"d": "2026-03-23",
+"c": {
+"inw": "przebudowa polegająca na dociepleniu elewacji i dachu oraz remoncie loggii i balkonów w budynku mieszkalnym wielorodzinnym przebudowa polegająca na dociepleniu elewacji i dachu oraz remoncie loggii i balkonów w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"Starówka\"",
+"nier": "Pańska 61",
+"dz": "146518_8 0108 6/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.27.2026.WKA"
+}
+},
+{
+"d": "2026-03-23",
+"c": {
+"inw": "przebudowa polegająca na dociepleniu elewacji i dachu oraz remoncie loggii i balkonów w budynku mieszkalnym wielorodzinnym przebudowa polegająca na dociepleniu elewacji i dachu oraz remoncie loggii i balkonów w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"Starówka\"",
+"nier": "Pańska 61",
+"dz": "146518_8 0108 6/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.27.2026.WKA"
+}
+},
+{
+"d": "2026-03-23",
+"c": {
+"inw": "przebudowa polegająca na dociepleniu elewacji i dachu oraz remoncie loggii i balkonów w budynku mieszkalnym wielorodzinnym przebudowa polegająca na dociepleniu elewacji i dachu oraz remoncie loggii i balkonów w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"Starówka\"",
+"nier": "Pańska 61",
+"dz": "146518_8 0108 6/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.27.2026.WKA"
+}
+},
+{
+"d": "2026-03-23",
+"c": {
+"inw": "przebudowa polegająca na dociepleniu elewacji i dachu oraz remoncie loggii i balkonów w budynku mieszkalnym wielorodzinnym przebudowa polegająca na dociepleniu elewacji i dachu oraz remoncie loggii i balkonów w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"Starówka\"",
+"nier": "Pańska 61",
+"dz": "146518_8 0108 6/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.27.2026.WKA"
+}
+},
+{
+"d": "2026-03-23",
+"c": {
+"inw": "montaż szyldów - znaków firmowych - logo na elewacji budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polcom Investnent XVIII Sp. z o.o.",
+"nier": "Burakowska 14",
+"dz": "146518_8 0302 20/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.24.2026.PTO"
+}
+},
+{
+"d": "2026-03-23",
+"c": {
+"inw": "remont balkonów, balustrad balkonowych od strony ulicy oraz bramy, dwóch furtek w prześwicie bramowym od strony ulicy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Miedziana 18",
+"nier": "Miedziana 18",
+"dz": "146518_8 0107 40",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.25.2026.WKA"
+}
+},
+{
+"d": "2026-03-23",
+"c": {
+"inw": "remont balkonów, balustrad balkonowych od strony ulicy oraz bramy, dwóch furtek w prześwicie bramowym od strony ulicy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Miedziana 18",
+"nier": "Miedziana 18",
+"dz": "146518_8 0107 32/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.25.2026.WKA"
+}
+},
+{
+"d": "2026-03-23",
+"c": {
+"inw": "budowa zadaszenia przy budynku usługowym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Ośrodek Pomocy Społecznej Dzielnicy Wola m.st. Warszawy",
+"nier": "Zawiszy 5",
+"dz": "146518_8 0310 14/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.26.2026.KME"
+}
+},
+{
+"d": "2026-03-05",
+"c": {
+"inw": "budowa instalacji elektrycznej budowa nowego/nowych obiektów budowlanych",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Ostroroga 25 / Jana",
+"dz": "146518_8 0308 19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.20.2026.KME"
+}
+},
+{
+"d": "2026-03-03",
+"c": {
+"inw": "przebudowa okien i drzwi wejściowych do budynku stacji obsługi samochodów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Bemo Motors Sp. z o.o.",
+"nier": "Ostroroga 20 / Jana",
+"dz": "146518_8 0308 56",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.18.2026.PTO"
+}
+},
+{
+"d": "2026-03-03",
+"c": {
+"inw": "przebudowa okien i drzwi wejściowych do budynku stacji obsługi samochodów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Bemo Motors Sp. z o.o.",
+"nier": "Ostroroga 20 / Jana",
+"dz": "146518_8 0308 55",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.18.2026.PTO"
+}
+},
+{
+"d": "2026-03-03",
+"c": {
+"inw": "przebudowa okien i drzwi wejściowych do budynku stacji obsługi samochodów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Bemo Motors Sp. z o.o.",
+"nier": "Ostroroga 20 / Jana",
+"dz": "146518_8 0308 54",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.18.2026.PTO"
+}
+},
+{
+"d": "2026-03-03",
+"c": {
+"inw": "przebudowa okien i drzwi wejściowych do budynku stacji obsługi samochodów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Bemo Motors Sp. z o.o.",
+"nier": "Ostroroga 20 / Jana",
+"dz": "146518_8 0308 53",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.18.2026.PTO"
+}
+},
+{
+"d": "2026-02-26",
+"c": {
+"inw": "\"remont i przebudowa budynku w zakresie zabezpieczenia przed wilgocią oraz powiększenia i wykonania nowych okien w zespole klasztornym Mniszek Bosych Zakonu Najświętszej Maryi Panny z Góry Karmel wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Klasztor Mniszek Bosych Zakonu NMP z Góry Karmel",
+"nier": "Wolska 27/29",
+"dz": "146518_8 0402 11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Ud-XVII-WAiB-AB.6740.17.2026.EDW"
+}
+},
+{
+"d": "2026-02-23",
+"c": {
+"inw": "rozbiórka częściowa budynku (oficyn bocznych) rozbiórka istniejącego obiektu budowlanego",
+"wn": "m.st. Warszawa, ZGN w Dzielnicy Wola",
+"nier": "Śliska 52",
+"dz": "146518_8 0108 30",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6741.3.2026.WKA"
+}
+},
+{
+"d": "2026-02-23",
+"c": {
+"inw": "rozbiórka częściowa budynku (oficyn bocznych) rozbiórka istniejącego obiektu budowlanego",
+"wn": "Wspólnota Mieszkaniowa ul. Śliska 54",
+"nier": "Śliska 54",
+"dz": "146518_8 0108 29",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6741.4.2026.WKA"
+}
+},
+{
+"d": "2026-02-12",
+"c": {
+"inw": "przebudowa piętra I i II budynku B w zakresie wzmocnienia części stropów wraz z remontem części elewacji polegającym na wymianie stolarki drzwiowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Instytut Matki i Dziecka",
+"nier": "Kasprzaka 17A / Marcina",
+"dz": "146518_8 0408 14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.14.2026.KRA"
+}
+},
+{
+"d": "2026-01-29",
+"c": {
+"inw": "częściowa rozbiórka budynku w obrębie parteru oraz remont i przebudowa budynku biurowego (budynek I1), instalowanie wewnętrznych instalacji: wentylacyjnej, klimatyzacyjnej, hydrantowej, wod.-kan., c.o., elektrycznej i teletechnicznej, instalowanie zewnętrznych instalacji: wentylacji mechanicznej, elektrycznej, wodnej, kanalizacji deszczowej, cieplnej i chłodniczej, budowa podjazdu terenowego, montaż agregatów chłodniczo-grzewczych wraz z fundamentami i obudowami akustycznymi, budowa kanału podziemnego związanego z instalacją wentylacji mechanicznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Orlen SA",
+"nier": "Kasprzaka 25 / Marcina",
+"dz": "146518_8 0407 48",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.13.2026.KRA"
+}
+},
+{
+"d": "2026-01-28",
+"c": {
+"inw": "Rozbudowa budynku mieszkalnego wielorodzinnego poprzez dobudowę zewnętrznego szybu windowego z przedsionkiem wraz z montażem dźwigu osobowego przystosowanego dla osób niepełnosprawnych oraz przebudowa ściany zewnętrznej w zakresie otworów okiennych rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Syreny 13B",
+"dz": "146518_8 0318 87/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.12.2026.KME"
+}
+},
+{
+"d": "2026-01-28",
+"c": {
+"inw": "Rozbudowa budynku mieszkalnego wielorodzinnego poprzez dobudowę zewnętrznego szybu windowego z przedsionkiem wraz z montażem dźwigu osobowego przystosowanego dla osób niepełnosprawnych oraz przebudowa ściany zewnętrznej w zakresie otworów okiennych rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Syreny 13B",
+"dz": "146518_8 0318 88",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.12.2026.KME"
+}
+},
+{
+"d": "2026-01-23",
+"c": {
+"inw": "rozbiórka budynku portierni na terenie Spółki Tramwaje Warszawskie rozbiórka istniejącego obiektu budowlanego",
+"wn": "Tramwaje Warszawskie Sp. z o.o.",
+"nier": "Siedmiogrodzka 20",
+"dz": "146518_8 0402 17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6741.2.2026.EDW"
+}
+},
+{
+"d": "2026-01-22",
+"c": {
+"inw": "przebudowa placu zabaw wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa",
+"nier": "Chłodna 20",
+"dz": "146518_8 0102 94",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.9.2026.AKO"
+}
+},
+{
+"d": "2026-01-19",
+"c": {
+"inw": "budowa szkoły podstawowej z oddziałami przedszkolnymi, garażem podziemnym oraz filią biblioteki publicznej wraz z zagospodarowaniem terenu oraz wewn. i zewn. infrastr. techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "m.st. Warszawa Dzielnica Wola",
+"nier": "Jana Kazimierza",
+"dz": "146518_8 0504 7/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.6.2026.LLA"
+}
+},
+{
+"d": "2026-01-19",
+"c": {
+"inw": "budowa szkoły podstawowej z oddziałami przedszkolnymi, garażem podziemnym oraz filią biblioteki publicznej wraz z zagospodarowaniem terenu oraz wewn. i zewn. infrastr. techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "m.st. Warszawa Dzielnica Wola",
+"nier": "Jana Kazimierza",
+"dz": "146518_8 0504 8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.6.2026.LLA"
+}
+},
+{
+"d": "2026-01-19",
+"c": {
+"inw": "budowa szkoły podstawowej z oddziałami przedszkolnymi, garażem podziemnym oraz filią biblioteki publicznej wraz z zagospodarowaniem terenu oraz wewn. i zewn. infrastr. techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "m.st. Warszawa Dzielnica Wola",
+"nier": "Jana Kazimierza",
+"dz": "146518_8 0504 9/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.6.2026.LLA"
+}
+},
+{
+"d": "2026-01-19",
+"c": {
+"inw": "budowa szkoły podstawowej z oddziałami przedszkolnymi, garażem podziemnym oraz filią biblioteki publicznej wraz z zagospodarowaniem terenu oraz wewn. i zewn. infrastr. techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "m.st. Warszawa Dzielnica Wola",
+"nier": "Jana Kazimierza",
+"dz": "146518_8 0504 21/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.6.2026.LLA"
+}
+},
+{
+"d": "2026-01-16",
+"c": {
+"inw": "rozbiórka wiaty magazynowej (R1023), budowa budynku magazynowego (R1023), przebudowa: budynku przemysłowo-warsztatowego (R1001), budynku socjalno-biurowego (R1002), budynku hali napraw (R1003), budynku przemysłowego (R1005) w zakresie ochrony ppoż wraz z przebudową węzła cieplnego (w budynku R1002) na terenie ZRP \"Wola\" wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie Sp. z o.o.",
+"nier": "Siedmiogrodzka 20",
+"dz": "146518_8 0402 17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.5.2026.EDW"
+}
+},
+{
+"d": "2026-01-14",
+"c": {
+"inw": "remon dziedzińca, remont garażu i niezbędnej infrastruktury wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Skarb Państwa Sąd Okręgowy w Warszawie",
+"nier": "Aleja \"Solidarności\" 127",
+"dz": "146518_8 0102 201",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.3.2026.AKO"
+}
+},
+{
+"d": "2026-01-07",
+"c": {
+"inw": "przebudowa klatek schodowych wraz z wymianą okien klatek schodowych oraz dostosowanie klatek schodowych do wymogów ochrony przeciwpożarowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"STROP\"",
+"nier": "Dzielna 21",
+"dz": "146518_8 0204 57/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.1.2026.AKO"
+}
+},
+{
+"d": "2026-01-07",
+"c": {
+"inw": "przebudowa klatek schodowych wraz z wymianą okien klatek schodowych oraz dostosowanie klatek schodowych do wymogów ochrony przeciwpożarowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"STROP\"",
+"nier": "Dzielna 21",
+"dz": "146518_8 0204 59/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.1.2026.AKO"
+}
+},
+{
+"d": "2026-01-07",
+"c": {
+"inw": "przebudowa klatek schodowych wraz z wymianą okien klatek schodowych oraz dostosowanie klatek schodowych do wymogów ochrony przeciwpożarowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"STROP\"",
+"nier": "Dzielna 21",
+"dz": "146518_8 0204 60/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVII-WAiB-AB.6740.1.2026.AKO"
+}
+}
+]
+},
+{
+"id": "dec_pnb",
+"name": "Decyzje o pozwoleniu na budowę",
+"short": "Decyzje PnB",
+"desc": "Decyzje o pozwoleniu na budowę wydane przez organ architektoniczno-budowlany dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer decyzji",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2026-11-23",
+"c": {
+"inw": "remont systemu kontroli dostępu w budynkach przy ul. Kasprzaka 25 na terenie zakładu PGNiG wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Orlen SA",
+"nier": "Kasprzaka 25 / Marcina",
+"dz": "146518_8 0407 6/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "155/WOL/PB/2026"
+}
+},
+{
+"d": "2026-11-23",
+"c": {
+"inw": "remont systemu kontroli dostępu w budynkach przy ul. Kasprzaka 25 na terenie zakładu PGNiG wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Orlen SA",
+"nier": "Kasprzaka 25 / Marcina",
+"dz": "146518_8 0407 6/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "155/WOL/PB/2026"
+}
+},
+{
+"d": "2026-11-23",
+"c": {
+"inw": "remont systemu kontroli dostępu w budynkach przy ul. Kasprzaka 25 na terenie zakładu PGNiG wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Orlen SA",
+"nier": "Kasprzaka 25 / Marcina",
+"dz": "146518_8 0407 64",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "155/WOL/PB/2026"
+}
+},
+{
+"d": "2026-11-23",
+"c": {
+"inw": "remont systemu kontroli dostępu w budynkach przy ul. Kasprzaka 25 na terenie zakładu PGNiG wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Orlen SA",
+"nier": "Kasprzaka 25 / Marcina",
+"dz": "146518_8 0407 8/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "155/WOL/PB/2026"
+}
+},
+{
+"d": "2026-11-23",
+"c": {
+"inw": "remont systemu kontroli dostępu w budynkach przy ul. Kasprzaka 25 na terenie zakładu PGNiG wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Orlen SA",
+"nier": "Kasprzaka 25 / Marcina",
+"dz": "146518_8 0407 8/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "155/WOL/PB/2026"
+}
+},
+{
+"d": "2026-11-23",
+"c": {
+"inw": "remont systemu kontroli dostępu w budynkach przy ul. Kasprzaka 25 na terenie zakładu PGNiG wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Orlen SA",
+"nier": "Kasprzaka 25 / Marcina",
+"dz": "146518_8 0407 7/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "155/WOL/PB/2026"
+}
+},
+{
+"d": "2026-11-23",
+"c": {
+"inw": "remont systemu kontroli dostępu w budynkach przy ul. Kasprzaka 25 na terenie zakładu PGNiG wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Orlen SA",
+"nier": "Kasprzaka 25 / Marcina",
+"dz": "146518_8 0407 48",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "155/WOL/PB/2026"
+}
+},
+{
+"d": "2026-11-18",
+"c": {
+"inw": "budowa budynku gospodarczego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Znana 12",
+"dz": "146518_8 0707 25",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "153/WOL/PB/2026"
+}
+},
+{
+"d": "2026-11-12",
+"c": {
+"inw": "remont dwóch okien i dwóch krat zewnętrznych w lokalu U8 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Ludwiki 1",
+"dz": "146518_8 0404 37",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "151/WOL/PB/2026"
+}
+},
+{
+"d": "2026-11-10",
+"c": {
+"inw": "remont tarasów w budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Warszawa ul. Prymasa Tysiąclecia  139/143",
+"nier": "Aleja Prymasa Tysiąclecia 139/143",
+"dz": "146518_8 0610 47",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "150/WOL/PB/2026"
+}
+},
+{
+"d": "2026-11-06",
+"c": {
+"inw": "przebudowa w celu połączenia dwóch lokali mieszkalnych nr 28 i 29 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Wolska 82",
+"dz": "146518_8 0318 202",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "146/WOL/PB/2026"
+}
+},
+{
+"d": "2026-11-06",
+"c": {
+"inw": "przebudowa w celu połączenia dwóch lokali mieszkalnych nr 15 i nr 17 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Krzyżanowskiego 44 / Seweryna",
+"dz": "146518_8 0407 14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "147/WOL/PB/2026"
+}
+},
+{
+"d": "2026-11-06",
+"c": {
+"inw": "przebudowa lokalu mieszkalnego nr 1 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Dzielna 9",
+"dz": "146518_8 0205 30",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "148/WOL/PB/2026"
+}
+},
+{
+"d": "2026-11-05",
+"c": {
+"inw": "przebudowa lokalu mieszkalnego nr 18 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Agawy 3",
+"dz": "146518_8 0310 58",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "145/WOL/PB/2026"
+}
+},
+{
+"d": "2026-11-02",
+"c": {
+"inw": "remont lokalu mieszkalnego nr 19 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Leonarda 10",
+"dz": "146518_8 0311 92",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "144/WOL/PB/2026"
+}
+},
+{
+"d": "2026-10-29",
+"c": {
+"inw": "przebudowa i rozbudowa budynku Urzędu Dzielnicy Wola wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa",
+"nier": "Aleja \"Solidarności\" 90",
+"dz": "146518_8 0207 114",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "143/WOL/PB/2026"
+}
+},
+{
+"d": "2026-10-26",
+"c": {
+"inw": "przebudowa podcienia budynku Warszawskiego Centrum EXPO XXI wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawskie Centrum EXPO XXI Sp. z o.o.",
+"nier": "Prądzyńskiego 12/14 / Ignacego",
+"dz": "146518_8 0407 29",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "142/WOL/PB/2026"
+}
+},
+{
+"d": "2026-10-26",
+"c": {
+"inw": "przebudowa podcienia budynku Warszawskiego Centrum EXPO XXI wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawskie Centrum EXPO XXI Sp. z o.o.",
+"nier": "Prądzyńskiego 12/14 / Ignacego",
+"dz": "146518_8 0407 30",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "142/WOL/PB/2026"
+}
+},
+{
+"d": "2026-10-23",
+"c": {
+"inw": "przebudowa w celu połączenia dwóch lokali mieszkalnych nr 34 i nr 35 oraz przebudowa lokalu mieszkalnego nr 38 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Płocka 3",
+"dz": "146518_8 0404 54/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "140/WOL/PB/2026"
+}
+},
+{
+"d": "2026-10-23",
+"c": {
+"inw": "instalowanie instalacji ciepłej wody użytkowej oraz wody cyrkulacyjnej CW w użytkowanym budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Nowolipie 23",
+"dz": "146518_8 0207 95/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "138/WOL/PB/2026"
+}
+},
+{
+"d": "2026-10-23",
+"c": {
+"inw": "remont lokalu mieszkalnego nr 34 w budynku mieszkalnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Bema 81 / Józefa",
+"dz": "146518_8 0404 19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "139/WOL/PB/2026"
+}
+},
+{
+"d": "2026-10-20",
+"c": {
+"inw": "budowa zewnętrznej myjni przejazdowej z zagospodarowaniem terenu i infrastrukturą techniczną, budowa kontenera technicznego wraz z zadaszeniem, budowa podestu technologicznego oraz rozbiórka istniejącej zewnętrznej myjni przejazdowej, rozbiórka  istniejącego kontenera technicznego i rozbiórka płyty istniejącego zbiornika technicznego na terenie ZRP \"Wola\" budowa nowego/nowych obiektów budowlanych",
+"wn": "Tramwaje Warszawskie Sp. z o.o.",
+"nier": "Młynarska 2",
+"dz": "146518_8 0402 17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "136/WOL/PB/2026"
+}
+},
+{
+"d": "2026-10-16",
+"c": {
+"inw": "przebudowa w celu połączenia dwóch lokali mieszkalnych nr 5 i 5A w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Skwer kard. Stefana Wyszyńskiego 7",
+"dz": "146518_8 0206 83",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "135/WOL/PB/2026"
+}
+},
+{
+"d": "2026-10-12",
+"c": {
+"inw": "przebudowa i remont lokalu mieszkalnego nr 27 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Staszica 16 / Stanisława",
+"dz": "146518_8 0319 92",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "133/WOL/PB/2026"
+}
+},
+{
+"d": "2026-10-09",
+"c": {
+"inw": "budowa i rozbiórka sieci elektroenergetycznej SN w rejonie ul. Okocimskiej budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "Okocimska",
+"dz": "146518_8 0702 36/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "132/WOL/PB/2026"
+}
+},
+{
+"d": "2026-10-09",
+"c": {
+"inw": "budowa i rozbiórka sieci elektroenergetycznej SN w rejonie ul. Okocimskiej budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "Okocimska",
+"dz": "146518_8 0702 36/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "132/WOL/PB/2026"
+}
+},
+{
+"d": "2026-10-09",
+"c": {
+"inw": "budowa i rozbiórka sieci elektroenergetycznej SN w rejonie ul. Okocimskiej budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "Okocimska",
+"dz": "146518_8 0702 36/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "132/WOL/PB/2026"
+}
+},
+{
+"d": "2026-10-09",
+"c": {
+"inw": "budowa i rozbiórka sieci elektroenergetycznej SN w rejonie ul. Okocimskiej budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "Okocimska",
+"dz": "146518_8 0702 39/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "132/WOL/PB/2026"
+}
+},
+{
+"d": "2026-10-09",
+"c": {
+"inw": "przebudowa drogi gminnej ul. Władysława Warneńczyka wraz z przebudową i rozbudową sieci telekomunikacyjnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Dantex Holding Sp. z o.o.",
+"nier": "Władysława Warneńczyka",
+"dz": "146518_8 0504 15/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "131/WOL/PB/2026"
+}
+},
+{
+"d": "2026-10-08",
+"c": {
+"inw": "przebudowa budynku hali sportowej \"KOŁO\" wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Ośrodek Sportu i Rekreacji m.st. Warszawy w Dzielnicy Wola",
+"nier": "Obozowa 60",
+"dz": "146518_8 0605 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "130/WOL/PB/2026"
+}
+},
+{
+"d": "2026-10-05",
+"c": {
+"inw": "budowa instalacji zbiornikowej z podziemnym zbiornikiem na gaz płynny V=2700l dla budynku mieszkalnego wielorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości przy ul. Armatniej 8",
+"nier": "Armatnia 8",
+"dz": "146518_8 0505 29/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "128/WOL/PB/2026"
+}
+},
+{
+"d": "2026-09-29",
+"c": {
+"inw": "rozbudowa i przebudowa budynku mieszkalnego jednorodzinnego w zabudowie bliźniaczej wraz z zagospodarowaniem terenu rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Szańcowa 11A",
+"dz": "146518_8 0701 42/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "127/WOL/PB/2026"
+}
+},
+{
+"d": "2026-09-28",
+"c": {
+"inw": "przebudowa w celu połączenia dwóch lokali mieszkalnych nr 20 i nr 21/22 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Pawia 71",
+"dz": "146518_8 0204 39",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "124/WOL/PB/2026"
+}
+},
+{
+"d": "2026-09-28",
+"c": {
+"inw": "przebudowa fundamentów polegająca na wzmocnieniu podłoża gruntowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa Centrum Wola",
+"nier": "Wolska 75",
+"dz": "146518_8 0401 25/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "125/WOL/PB/2026"
+}
+},
+{
+"d": "2026-09-25",
+"c": {
+"inw": "remont elewacji, balkonów, nisz okiennych, wymiana stolarki okiennej piwnic i poddasza, wymiana zadaszenia wejścia do klatki schodowej, remont i podwyższenie balustrad balkonowych budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Żytnia 61",
+"dz": "146518_8 0315 17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "122/WOL/PB/2026"
+}
+},
+{
+"d": "2026-09-25",
+"c": {
+"inw": "remont elewacji, balkonów, nisz okiennych, wymiana stolarki okiennej piwnic i poddasza, wymiana zadaszenia wejścia do klatki schodowej, remont i podwyższenie balustrad balkonowych budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Żytnia 61",
+"dz": "146518_8 0315 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "122/WOL/PB/2026"
+}
+},
+{
+"d": "2026-09-25",
+"c": {
+"inw": "przebudowa polegająca na zabudowie otworu w stropie piętra +1 w budynku warzelni w kompleksie \"Browary Warszawskie\" wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Nine`s Sp. z o.o.",
+"nier": "Haberbuscha i Schielego 6",
+"dz": "146518_8 0104 13/25",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "121/WOL/PB/2026"
+}
+},
+{
+"d": "2026-09-22",
+"c": {
+"inw": "przebudowa w celu połączenia dwóch lokali mieszkalnych nr 34 i nr 35 oraz przebudowa lokalu mieszkalnego nr 38 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Sokołowska 20",
+"dz": "146518_8 0314 55",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "119/WOL/PB/2026"
+}
+},
+{
+"d": "2026-09-22",
+"c": {
+"inw": "remont budynku w zakresie elewacji wraz z demontażem istniejącego docieplenia, remontem prześwitu bramowego, stopni do pomieszczeń usługowych oraz balkonów wraz z wymianą zadaszenia wejścia do klatki schodowej budynku położonego przy ul. Pawiej 71 w Warszawie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Pawia 71",
+"dz": "146518_8 0204 39",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "120/WOL/PB/2026"
+}
+},
+{
+"d": "2026-09-22",
+"c": {
+"inw": "przebudowa w celu połączenia dwóch lokali mieszkalnych nr 6 i 6a w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Żelazna 91",
+"dz": "146518_8 0101 9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "118/WOL/PB/2026"
+}
+},
+{
+"d": "2026-09-21",
+"c": {
+"inw": "przebudowa w celu połączenia dwóch lokali mieszkalnych nr 3 i 3a w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Ogrodowa 55",
+"dz": "146518_8 0101 28",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "115/WOL/PB/2026"
+}
+},
+{
+"d": "2026-09-21",
+"c": {
+"inw": "przebudowa w celu połączenia lokali mieszkalnych 13A i 13B w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola",
+"nier": "Grzybowska 47A",
+"dz": "146518_8 0104 29",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "116/WOL/PB/2026"
+}
+},
+{
+"d": "2026-09-21",
+"c": {
+"inw": "przebudowa i remont lokalu mieszkalnego nr 18A w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Pawia 69",
+"dz": "146518_8 0204 39",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "117/WOL/PB/2026"
+}
+},
+{
+"d": "2026-09-18",
+"c": {
+"inw": "budowa i demontaż kabli SN w celu modernizacji sieci w rejonie ul. Jana Olbrachta budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "Jana Olbrachta",
+"dz": "146518_8 0702 25/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "114/WOL/PB/2026"
+}
+},
+{
+"d": "2026-09-18",
+"c": {
+"inw": "budowa i demontaż kabli SN w celu modernizacji sieci w rejonie ul. Jana Olbrachta budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "Jana Olbrachta",
+"dz": "146518_8 0702 25/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "114/WOL/PB/2026"
+}
+},
+{
+"d": "2026-09-18",
+"c": {
+"inw": "budowa i demontaż kabli SN w celu modernizacji sieci w rejonie ul. Jana Olbrachta budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "Jana Olbrachta",
+"dz": "146518_8 0702 25/24",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "114/WOL/PB/2026"
+}
+},
+{
+"d": "2026-09-18",
+"c": {
+"inw": "budowa i demontaż kabli SN w celu modernizacji sieci w rejonie ul. Jana Olbrachta budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "Jana Olbrachta",
+"dz": "146518_8 0702 90/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "114/WOL/PB/2026"
+}
+},
+{
+"d": "2026-09-18",
+"c": {
+"inw": "budowa i demontaż kabli SN w celu modernizacji sieci w rejonie ul. Jana Olbrachta budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "Jana Olbrachta",
+"dz": "146518_8 0702 90/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "114/WOL/PB/2026"
+}
+},
+{
+"d": "2026-09-18",
+"c": {
+"inw": "budowa i demontaż kabli SN w celu modernizacji sieci w rejonie ul. Jana Olbrachta budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "Jana Olbrachta",
+"dz": "146518_8 0702 90/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "114/WOL/PB/2026"
+}
+},
+{
+"d": "2026-09-18",
+"c": {
+"inw": "budowa i demontaż kabli SN w celu modernizacji sieci w rejonie ul. Jana Olbrachta budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator Sp. z o.o.",
+"nier": "Jana Olbrachta",
+"dz": "146518_8 0702 90/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "114/WOL/PB/2026"
+}
+},
+{
+"d": "2026-09-15",
+"c": {
+"inw": "rozbudowa i przebudowa ze zmianą sposobu użytkowania budynku portierni “H” Instytutu Matki i Dziecka na potrzeby zlokalizowania stacji transformatorowej wraz z instalowaniem instalacji wewnętrznych elektrycznych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Instytut Matki i Dziecka",
+"nier": "Kasprzaka 17A / Marcina",
+"dz": "146518_8 0408 14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "113/WOL/PB/2026"
+}
+},
+{
+"d": "2026-09-11",
+"c": {
+"inw": "przebudowa szybu windowego LP1 polegająca na zabudowie nowej konstrukcji stalowej wraz ze szklaną elewacją wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Ingka Centres Polska Sp. z o.o.",
+"nier": "Górczewska 124",
+"dz": "146518_8 0606 91/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "112/WOL/PB/2026"
+}
+},
+{
+"d": "2026-09-11",
+"c": {
+"inw": "rozbiórka budynków użytkowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "m.st. Warszawa - Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Spokojna 9",
+"dz": "146518_8 0306 8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "110/WOL/PB/2026/R"
+}
+},
+{
+"d": "2026-09-11",
+"c": {
+"inw": "remont elewacji budynku Urzędu Dzielnicy Wola wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Dzielnica Wola",
+"nier": "Aleja \"Solidarności\" 90",
+"dz": "146518_8 0207 114",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "111/WOL/PB/2026"
+}
+},
+{
+"d": "2026-09-11",
+"c": {
+"inw": "remont elewacji budynku Urzędu Dzielnicy Wola wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Dzielnica Wola",
+"nier": "Aleja \"Solidarności\" 90",
+"dz": "146518_8 0207 127",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "111/WOL/PB/2026"
+}
+},
+{
+"d": "2026-09-04",
+"c": {
+"inw": "remont budynku wielorodzinnego w zakresie elewacji, dachu, obróbek blacharskich, rur spustowych, cokołu, elementów ślusarki, płyt loggii, kratek wentylacyjnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Obozowa 66",
+"nier": "Obozowa 66",
+"dz": "146518_8 0604 185",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "108/WOL/PB/2026"
+}
+},
+{
+"d": "2026-08-28",
+"c": {
+"inw": "budowa telekomunikacyjnej kanalizacji kablowej w celu usunięcia kolizji związanej z budową obiektu szpitalnego budowa nowego/nowych obiektów budowlanych",
+"wn": "Instytut Matki i Dziecka",
+"nier": "Kasprzaka 17A / Marcina",
+"dz": "146518_8 0408 14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "104/WOL/PB/2026"
+}
+},
+{
+"d": "2026-08-28",
+"c": {
+"inw": "przebudowa lokalu nr 198 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Wawelberga 3 / Hipolita",
+"dz": "146518_8 0319 32",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "105/WOL/PB/2026"
+}
+},
+{
+"d": "2026-08-28",
+"c": {
+"inw": "rozbiórka budynku rozbiórka istniejącego obiektu budowlanego",
+"wn": "CIRIL PROJECT TWO Sp. z o.o.",
+"nier": "Przyokopowa 5/7",
+"dz": "146518_8 0408 97/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "103/WOL/PB/2026"
+}
+},
+{
+"d": "2026-08-20",
+"c": {
+"inw": "remont i przebudowa części budynku na potrzeby Ośrodka Pomocy Społecznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola",
+"nier": "Młynarska 16",
+"dz": "146518_8 0316 51",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "102/WOL/PB/2026"
+}
+},
+{
+"d": "2026-08-20",
+"c": {
+"inw": "instalowanie urządzeń fotowoltaicznych na dachu budynku o łącznej mocy 63,36 kWp wraz z infrastrukturą towarzyszącą wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa ul. Nowolipki 14",
+"nier": "Nowolipki 14",
+"dz": "146518_8 0205 34",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "101/WOL/PB/2026"
+}
+},
+{
+"d": "2026-08-14",
+"c": {
+"inw": "wykonanie tymczasowego zabezpieczenia klatki schodowej w budynku dawnej Fabryki Garbarskiej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa - Zarząd Zieleni m.st. Warszawy",
+"nier": "Okopowa 78",
+"dz": "146518_8 0201 9/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "99/WOL/PB/2026"
+}
+},
+{
+"d": "2026-08-13",
+"c": {
+"inw": "budowa szkoły podstawowej z oddziałami przedszkolnymi, garażem podziemnym oraz filią biblioteki publicznej wraz z zagospodarowaniem terenu oraz wewn. i zewn. infrastr. techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "m.st. Warszawa Dzielnica Wola",
+"nier": "Jana Kazimierza",
+"dz": "146518_8 0504 7/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "98/WOL/PB/2026"
+}
+},
+{
+"d": "2026-08-13",
+"c": {
+"inw": "budowa szkoły podstawowej z oddziałami przedszkolnymi, garażem podziemnym oraz filią biblioteki publicznej wraz z zagospodarowaniem terenu oraz wewn. i zewn. infrastr. techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "m.st. Warszawa Dzielnica Wola",
+"nier": "Jana Kazimierza",
+"dz": "146518_8 0504 8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "98/WOL/PB/2026"
+}
+},
+{
+"d": "2026-08-13",
+"c": {
+"inw": "budowa szkoły podstawowej z oddziałami przedszkolnymi, garażem podziemnym oraz filią biblioteki publicznej wraz z zagospodarowaniem terenu oraz wewn. i zewn. infrastr. techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "m.st. Warszawa Dzielnica Wola",
+"nier": "Jana Kazimierza",
+"dz": "146518_8 0504 9/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "98/WOL/PB/2026"
+}
+},
+{
+"d": "2026-08-13",
+"c": {
+"inw": "budowa szkoły podstawowej z oddziałami przedszkolnymi, garażem podziemnym oraz filią biblioteki publicznej wraz z zagospodarowaniem terenu oraz wewn. i zewn. infrastr. techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "m.st. Warszawa Dzielnica Wola",
+"nier": "Jana Kazimierza",
+"dz": "146518_8 0504 21/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "98/WOL/PB/2026"
+}
+},
+{
+"d": "2026-08-12",
+"c": {
+"inw": "montaż znaków firmowych - trzech szyldów na elewacjach budynku Varso Tower wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polcom Investment VI Sp. z o.o.",
+"nier": "Chmielna 69",
+"dz": "146518_8 0110 33/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "96/WOL/PB/2026"
+}
+},
+{
+"d": "2026-08-12",
+"c": {
+"inw": "montaż znaków firmowych - trzech szyldów na elewacjach budynku Varso Tower wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polcom Investment VI Sp. z o.o.",
+"nier": "Chmielna 69",
+"dz": "146518_8 0110 33/17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "96/WOL/PB/2026"
+}
+},
+{
+"d": "2026-08-12",
+"c": {
+"inw": "przebudowa wewnętrznej instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Złota 64/66",
+"nier": "Złota 64/66",
+"dz": "146518_8 0108 52",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "95/WOL/PB/2026"
+}
+},
+{
+"d": "2026-08-07",
+"c": {
+"inw": "przebudowa budynku w zakresie dostosowania do wymagań przepisów przeciwpożarowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zarząd Dróg Miejskich",
+"nier": "Chmielna 120",
+"dz": "146518_8 0110 12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "94/WOL/PB/2026"
+}
+},
+{
+"d": "2026-07-31",
+"c": {
+"inw": "przebudowa lok. mieszk. nr 18 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Grzybowska 47",
+"dz": "146518_8 0104 29",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "93/WOL/PB/2026"
+}
+},
+{
+"d": "2026-07-30",
+"c": {
+"inw": "przebudowa w celu połączenia dwóch lokali mieszkalnych nr 86/87 i 88 oraz remont lokalu mieszkalnego nr 25 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Ogrodowa 26A",
+"dz": "146518_8 0102 39",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "91/WOL/PB/2026"
+}
+},
+{
+"d": "2026-07-29",
+"c": {
+"inw": "remont dachu w budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nowolipki 22",
+"nier": "Nowolipki 22",
+"dz": "146518_8 0205 16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "90/WOL/PB/2026"
+}
+},
+{
+"d": "2026-07-28",
+"c": {
+"inw": "zespół budynków o funkcji mieszkaniowo-usługowej z garażem podziemnym oraz niezbędną infrastrukturą techniczną wraz z remontem i przebudową muru oraz remontem, przebudową, nadbudową i zm. sposobu użytkowania budynków - etap 2 - remont i przebudowa muru oraz remont, przebudowa, nadbudowa i zmiana sposobu użytkowania budynków przy ul. Żelaznej 63 i Grzybowskiej 50 budowa nowego/nowych obiektów budowlanych",
+"wn": "Matexi Polska Sp. z o.o.",
+"nier": "Grzybowska 50",
+"dz": "146518_8 0104 21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "89/WOL/PB/2026"
+}
+},
+{
+"d": "2026-07-28",
+"c": {
+"inw": "zespół budynków o funkcji mieszkaniowo-usługowej z garażem podziemnym oraz niezbędną infrastrukturą techniczną wraz z remontem i przebudową muru oraz remontem, przebudową, nadbudową i zm. sposobu użytkowania budynków - etap 2 - remont i przebudowa muru oraz remont, przebudowa, nadbudowa i zmiana sposobu użytkowania budynków przy ul. Żelaznej 63 i Grzybowskiej 50 budowa nowego/nowych obiektów budowlanych",
+"wn": "Matexi Polska Sp. z o.o.",
+"nier": "Grzybowska 50",
+"dz": "146518_8 0104 22",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "89/WOL/PB/2026"
+}
+},
+{
+"d": "2026-07-28",
+"c": {
+"inw": "zespół budynków o funkcji mieszkaniowo-usługowej z garażem podziemnym oraz niezbędną infrastrukturą techniczną wraz z remontem i przebudową muru oraz remontem, przebudową, nadbudową i zm. sposobu użytkowania budynków - etap 2 - remont i przebudowa muru oraz remont, przebudowa, nadbudowa i zmiana sposobu użytkowania budynków przy ul. Żelaznej 63 i Grzybowskiej 50 budowa nowego/nowych obiektów budowlanych",
+"wn": "Matexi Polska Sp. z o.o.",
+"nier": "Grzybowska 50",
+"dz": "146518_8 0104 23",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "89/WOL/PB/2026"
+}
+},
+{
+"d": "2026-07-27",
+"c": {
+"inw": "remont drzwi z klatki schodowej do lok. mieszk. nr 60 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład  Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Magistracka 24",
+"dz": "146518_8 0610 29",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "88/WOL/PB/2026"
+}
+},
+{
+"d": "2026-07-24",
+"c": {
+"inw": "(zmiana sposobu użytkowania lokali mieszkalnych nr 1/2/4 i 3 zlokalizowanych na parterze budynku przy ul. Andrychowskiej w Warszawie (dz. ew. nr 39) na lokal usługowy oraz przebudowa i remont fragmentu przegrody zewnętrznej, wyburzenie elementów konstrukcyjnych wraz z rozbiórką schodów zewnętrznych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Andrychowska 8",
+"dz": "146518_8 0607 39",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "87/WOL/PB/2026"
+}
+},
+{
+"d": "2026-07-24",
+"c": {
+"inw": "(zmiana sposobu użytkowania lokali mieszkalnych nr 1/2/4 i 3 zlokalizowanych na parterze budynku przy ul. Andrychowskiej w Warszawie (dz. ew. nr 39) na lokal usługowy oraz przebudowa i remont fragmentu przegrody zewnętrznej, wyburzenie elementów konstrukcyjnych wraz z rozbiórką schodów zewnętrznych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Andrychowska 8",
+"dz": "146518_8 0607 38",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "87/WOL/PB/2026"
+}
+},
+{
+"d": "2026-07-24",
+"c": {
+"inw": "(zmiana sposobu użytkowania lokali mieszkalnych nr 1/2/4 i 3 zlokalizowanych na parterze budynku przy ul. Andrychowskiej w Warszawie (dz. ew. nr 39) na lokal usługowy oraz przebudowa i remont fragmentu przegrody zewnętrznej, wyburzenie elementów konstrukcyjnych wraz z rozbiórką schodów zewnętrznych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Andrychowska 8",
+"dz": "146518_8 0607 40",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "87/WOL/PB/2026"
+}
+},
+{
+"d": "2026-07-24",
+"c": {
+"inw": "(zmiana sposobu użytkowania lokali mieszkalnych nr 1/2/4 i 3 zlokalizowanych na parterze budynku przy ul. Andrychowskiej w Warszawie (dz. ew. nr 39) na lokal usługowy oraz przebudowa i remont fragmentu przegrody zewnętrznej, wyburzenie elementów konstrukcyjnych wraz z rozbiórką schodów zewnętrznych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Andrychowska 8",
+"dz": "146518_8 0607 41/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "87/WOL/PB/2026"
+}
+},
+{
+"d": "2026-07-23",
+"c": {
+"inw": "przebudowa części budynku biurowo-usługowego w zakresie wykonania przebić w stropie nad parterem oraz otworów dla czerpni i wyrzutni w elewacji ze zmianą sposobu użytkowania lokalu biurowo-handlowego na potrzeby Przychodni MULTIMED wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Centrum Diagnostyki Medycznej \"Multi-Med\" SA",
+"nier": "Aleja Jana Pawła II 25",
+"dz": "146518_8 0105 95/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "85/WOL/PB/2026"
+}
+},
+{
+"d": "2026-07-22",
+"c": {
+"inw": "częściowa rozbiórka budynku w obrębie parteru oraz remont i przebudowa budynku biurowego (budynek I1), instalowanie wewnętrznych instalacji: wentylacyjnej, klimatyzacyjnej, hydrantowej, wod.-kan., c.o., elektrycznej i teletechnicznej, instalowanie zewnętrznych instalacji: wentylacji mechanicznej, elektrycznej, wodnej, kanalizacji deszczowej, cieplnej i chłodniczej, budowa podjazdu terenowego, montaż agregatów chłodniczo-grzewczych wraz z fundamentami i obudowami akustycznymi, budowa kanału podziemnego związanego z instalacją wentylacji mechanicznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Orlen SA",
+"nier": "Kasprzaka 25 / Marcina",
+"dz": "146518_8 0407 48",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "84/WOL/PB/2026"
+}
+},
+{
+"d": "2026-07-20",
+"c": {
+"inw": "przebudowa lokalu mieszkalnego nr 7 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Sienna 55",
+"dz": "146518_8 0108 70",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "83/WOL/PB/2026"
+}
+},
+{
+"d": "2026-07-17",
+"c": {
+"inw": "Budowa czterech budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej wraz z zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "Residential Ventures Sp. z o.o.",
+"nier": "Pola 26 / Wincentego",
+"dz": "146518_8 0706 18",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "82/WOL/PB/2026"
+}
+},
+{
+"d": "2026-07-17",
+"c": {
+"inw": "Budowa czterech budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej wraz z zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "Residential Ventures Sp. z o.o.",
+"nier": "Pola 26 / Wincentego",
+"dz": "146518_8 0706 17",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "82/WOL/PB/2026"
+}
+},
+{
+"d": "2026-07-17",
+"c": {
+"inw": "remont lokalu mieszkalnego nr 140 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Górczewska 15A",
+"dz": "146518_8 0319 33",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "81/WOL/PB/2026"
+}
+},
+{
+"d": "2026-07-15",
+"c": {
+"inw": "przebudowa odcinka drogi gminnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Dantex Holding Sp. z o.o.",
+"nier": "Władysława Warneńczyka",
+"dz": "146518_8 0504 15/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "80/WOL/PB/2026/O"
+}
+},
+{
+"d": "2026-07-09",
+"c": {
+"inw": "rozbiórka budynku przemysłowego oraz budynku technicznego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Alides Polska Properties Sp. z o.o.",
+"nier": "Studzienna 7A",
+"dz": "146518_8 0501 6/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "78/WOL/PB/2026/R"
+}
+},
+{
+"d": "2026-07-07",
+"c": {
+"inw": "przebudowa i remont lokali mieszkalnych nr 14 i 63 oraz remont lokalu mieszkalnego nr 61 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Górczewska 15",
+"dz": "146518_8 0319 28",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "77/WOL/PB/2026"
+}
+},
+{
+"d": "2026-07-07",
+"c": {
+"inw": "remont 3 okien i drzwi balkonowych w lok. mieszk. nr 12 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Nowolipki 32",
+"dz": "146518_8 0204 87",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "76/WOL/PB/2026"
+}
+},
+{
+"d": "2026-07-07",
+"c": {
+"inw": "remont 3 okien w lok. mieszkalnym nr 23 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Nowolipie 25",
+"dz": "146518_8 0207 74",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "75/WOL/PB/2026"
+}
+},
+{
+"d": "2026-07-01",
+"c": {
+"inw": "remont drzwi wejściowych do lokali mieszkalnych nr 5 i 9 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Chłodna 20",
+"dz": "146518_8 0102 121",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "74/WOL/PB/2026"
+}
+},
+{
+"d": "2026-07-01",
+"c": {
+"inw": "przebudowa klatek schodowych wraz z wymianą okien klatek schodowych oraz dostosowanie klatek schodowych do wymogów ochrony przeciwpożarowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"STROP\"",
+"nier": "Dzielna 21",
+"dz": "146518_8 0204 57/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "73/WOL/PB/2026"
+}
+},
+{
+"d": "2026-07-01",
+"c": {
+"inw": "przebudowa klatek schodowych wraz z wymianą okien klatek schodowych oraz dostosowanie klatek schodowych do wymogów ochrony przeciwpożarowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"STROP\"",
+"nier": "Dzielna 21",
+"dz": "146518_8 0204 59/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "73/WOL/PB/2026"
+}
+},
+{
+"d": "2026-07-01",
+"c": {
+"inw": "przebudowa klatek schodowych wraz z wymianą okien klatek schodowych oraz dostosowanie klatek schodowych do wymogów ochrony przeciwpożarowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"STROP\"",
+"nier": "Dzielna 21",
+"dz": "146518_8 0204 60/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "73/WOL/PB/2026"
+}
+},
+{
+"d": "2026-06-30",
+"c": {
+"inw": "przebudowa polegająca na dociepleniu elewacji i dachu oraz remoncie loggii i balkonów w budynku mieszkalnym wielorodzinnym przebudowa polegająca na dociepleniu elewacji i dachu oraz remoncie loggii i balkonów w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"Starówka\"",
+"nier": "Pańska 61",
+"dz": "146518_8 0108 6/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "70/WOL/PB/2026"
+}
+},
+{
+"d": "2026-06-30",
+"c": {
+"inw": "przebudowa polegająca na dociepleniu elewacji i dachu oraz remoncie loggii i balkonów w budynku mieszkalnym wielorodzinnym przebudowa polegająca na dociepleniu elewacji i dachu oraz remoncie loggii i balkonów w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"Starówka\"",
+"nier": "Pańska 61",
+"dz": "146518_8 0108 6/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "70/WOL/PB/2026"
+}
+},
+{
+"d": "2026-06-30",
+"c": {
+"inw": "przebudowa polegająca na dociepleniu elewacji i dachu oraz remoncie loggii i balkonów w budynku mieszkalnym wielorodzinnym przebudowa polegająca na dociepleniu elewacji i dachu oraz remoncie loggii i balkonów w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"Starówka\"",
+"nier": "Pańska 61",
+"dz": "146518_8 0108 6/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "70/WOL/PB/2026"
+}
+},
+{
+"d": "2026-06-30",
+"c": {
+"inw": "przebudowa polegająca na dociepleniu elewacji i dachu oraz remoncie loggii i balkonów w budynku mieszkalnym wielorodzinnym przebudowa polegająca na dociepleniu elewacji i dachu oraz remoncie loggii i balkonów w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"Starówka\"",
+"nier": "Pańska 61",
+"dz": "146518_8 0108 6/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "70/WOL/PB/2026"
+}
+},
+{
+"d": "2026-06-30",
+"c": {
+"inw": "renowacja dachu o powierzchni 596 m2 w budynku Domu Dziecka nr 2 im. dr Janusza Korczaka wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zespół do Obsługi Placówek Opiekuńczo-Wychowawczych Nr 2",
+"nier": "Jaktorowska 6",
+"dz": "146518_8 0403 12/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "72/WOL/PB/2026"
+}
+},
+{
+"d": "2026-06-30",
+"c": {
+"inw": "\"remont i przebudowa budynku w zakresie zabezpieczenia przed wilgocią oraz powiększenia i wykonania nowych okien w zespole klasztornym Mniszek Bosych Zakonu Najświętszej Maryi Panny z Góry Karmel wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Klasztor Mniszek Bosych Zakonu NMP z Góry Karmel",
+"nier": "Wolska 27/29",
+"dz": "146518_8 0402 11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "71/WOL/PB/2026"
+}
+},
+{
+"d": "2026-06-29",
+"c": {
+"inw": "zespół budynków o funkcji mieszkaniowo-usługowej z garażem podziemnym oraz niezbędną infrastrukturą techniczną wraz z remontem i przebudową muru oraz remontem, przebudową, nadbudową i zm. sposobu użytk. budynków - projekt zamienny budowa nowego/nowych obiektów budowlanych",
+"wn": "Matexi Polska Sp. z o.o.",
+"nier": "Grzybowska 50",
+"dz": "146518_8 0104 19/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "69/WOL/PB/2026/Z"
+}
+},
+{
+"d": "2026-06-29",
+"c": {
+"inw": "zespół budynków o funkcji mieszkaniowo-usługowej z garażem podziemnym oraz niezbędną infrastrukturą techniczną wraz z remontem i przebudową muru oraz remontem, przebudową, nadbudową i zm. sposobu użytk. budynków - projekt zamienny budowa nowego/nowych obiektów budowlanych",
+"wn": "Matexi Polska Sp. z o.o.",
+"nier": "Grzybowska 50",
+"dz": "146518_8 0104 20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "69/WOL/PB/2026/Z"
+}
+},
+{
+"d": "2026-06-29",
+"c": {
+"inw": "zespół budynków o funkcji mieszkaniowo-usługowej z garażem podziemnym oraz niezbędną infrastrukturą techniczną wraz z remontem i przebudową muru oraz remontem, przebudową, nadbudową i zm. sposobu użytk. budynków - projekt zamienny budowa nowego/nowych obiektów budowlanych",
+"wn": "Matexi Polska Sp. z o.o.",
+"nier": "Grzybowska 50",
+"dz": "146518_8 0104 21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "69/WOL/PB/2026/Z"
+}
+},
+{
+"d": "2026-06-29",
+"c": {
+"inw": "zespół budynków o funkcji mieszkaniowo-usługowej z garażem podziemnym oraz niezbędną infrastrukturą techniczną wraz z remontem i przebudową muru oraz remontem, przebudową, nadbudową i zm. sposobu użytk. budynków - projekt zamienny budowa nowego/nowych obiektów budowlanych",
+"wn": "Matexi Polska Sp. z o.o.",
+"nier": "Grzybowska 50",
+"dz": "146518_8 0104 22",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "69/WOL/PB/2026/Z"
+}
+},
+{
+"d": "2026-06-29",
+"c": {
+"inw": "zespół budynków o funkcji mieszkaniowo-usługowej z garażem podziemnym oraz niezbędną infrastrukturą techniczną wraz z remontem i przebudową muru oraz remontem, przebudową, nadbudową i zm. sposobu użytk. budynków - projekt zamienny budowa nowego/nowych obiektów budowlanych",
+"wn": "Matexi Polska Sp. z o.o.",
+"nier": "Grzybowska 50",
+"dz": "146518_8 0104 23",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "69/WOL/PB/2026/Z"
+}
+},
+{
+"d": "2026-06-25",
+"c": {
+"inw": "remont dwóch okien w lokalu mieszkalnym nr 48 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Nowolipie 31",
+"dz": "146518_8 0207 79",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "66/WOL/PB/2026"
+}
+},
+{
+"d": "2026-06-25",
+"c": {
+"inw": "remont dwóch okien w lokalu mieszkalnym nr 14 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Nowolipie 20A",
+"dz": "146518_8 0207 59",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "65/WOL/PB/2026"
+}
+},
+{
+"d": "2026-06-25",
+"c": {
+"inw": "rozbiórka budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Szpital Wolski im. dr Anny Gostyńskiej Sp. z o.o.",
+"nier": "Kasprzaka 17 / Marcina",
+"dz": "146518_8 0408 17/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "68/WOL/PB/2026/R"
+}
+},
+{
+"d": "2026-06-25",
+"c": {
+"inw": "remont trzech okien w lokalu mieszkalnym nr 39 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy, ul. Bema 70, Warszawa",
+"nier": "Nowolipki 36",
+"dz": "146518_8 0204 75",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "67/WOL/PB/2026"
+}
+},
+{
+"d": "2026-06-19",
+"c": {
+"inw": "montaż szyldów - znaków firmowych - logo na elewacji budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polcom Investnent XVIII Sp. z o.o.",
+"nier": "Burakowska 14",
+"dz": "146518_8 0302 20/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "64/WOL/PB/2026"
+}
+},
+{
+"d": "2026-06-17",
+"c": {
+"inw": "Przebudowa przyłącza gazowego, instalowanie wewnętrznej instalacji gazowej, przebudowa przegrody  zewnętrznej w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Pierwsza Wojskowa Spółdzielnia Mieszkaniowa",
+"nier": "Anielewicza 28 / Mordechaja",
+"dz": "146518_8 0202 123",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "63/WOL/PB/2026"
+}
+},
+{
+"d": "2026-06-17",
+"c": {
+"inw": "Przebudowa przyłącza gazowego, instalowanie wewnętrznej instalacji gazowej, przebudowa przegrody  zewnętrznej w budynku mieszkalnym wielorodzinnym. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Pierwsza Wojskowa Spółdzielnia Mieszkaniowa",
+"nier": "Anielewicza 26 / Mordechaja",
+"dz": "146518_8 0202 123",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "62/WOL/PB/2026"
+}
+},
+{
+"d": "2026-06-17",
+"c": {
+"inw": "remont balkonów, balustrad balkonowych od strony ulicy oraz bramy, dwóch furtek w prześwicie bramowym od strony ulicy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Miedziana 18",
+"nier": "Miedziana 18",
+"dz": "146518_8 0107 40",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "61/WOL/PB/2026"
+}
+},
+{
+"d": "2026-06-17",
+"c": {
+"inw": "remont balkonów, balustrad balkonowych od strony ulicy oraz bramy, dwóch furtek w prześwicie bramowym od strony ulicy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Miedziana 18",
+"nier": "Miedziana 18",
+"dz": "146518_8 0107 32/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "61/WOL/PB/2026"
+}
+},
+{
+"d": "2026-06-12",
+"c": {
+"inw": "rozbiórka pozostałości (ruin) po budynku produkcyjnym rozbiórka istniejącego obiektu budowlanego",
+"wn": "Zarząd Dróg Miejskich",
+"nier": "Prądzyńskiego 15 / Ignacego",
+"dz": "146518_8 0407 42",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "60/WOL/PB/2026/R"
+}
+},
+{
+"d": "2026-06-08",
+"c": {
+"inw": "remont okna z drzwiami balkonowymi w lokalu mieszkalnym nr 50 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Dzielna 17",
+"dz": "146518_8 0204 72",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "58/WOL/PB/2026"
+}
+},
+{
+"d": "2026-06-08",
+"c": {
+"inw": "remont jednego okna w lokalu mieszkalnym nr 18 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Dzielna 7B",
+"dz": "146518_8 0205 33",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "59/WOL/PB/2026"
+}
+},
+{
+"d": "2026-05-29",
+"c": {
+"inw": "rozbiórka częściowa budynku (oficyn bocznych) rozbiórka istniejącego obiektu budowlanego",
+"wn": "m.st. Warszawa, ZGN w Dzielnicy Wola",
+"nier": "Śliska 52",
+"dz": "146518_8 0108 30",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "55/WOL/PB/2026/R"
+}
+},
+{
+"d": "2026-05-29",
+"c": {
+"inw": "przebudowa okien i drzwi wejściowych do budynku stacji obsługi samochodów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Bemo Motors Sp. z o.o.",
+"nier": "Ostroroga 20 / Jana",
+"dz": "146518_8 0308 56",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "54/WOL/PB/2026"
+}
+},
+{
+"d": "2026-05-29",
+"c": {
+"inw": "przebudowa okien i drzwi wejściowych do budynku stacji obsługi samochodów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Bemo Motors Sp. z o.o.",
+"nier": "Ostroroga 20 / Jana",
+"dz": "146518_8 0308 55",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "54/WOL/PB/2026"
+}
+},
+{
+"d": "2026-05-29",
+"c": {
+"inw": "przebudowa okien i drzwi wejściowych do budynku stacji obsługi samochodów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Bemo Motors Sp. z o.o.",
+"nier": "Ostroroga 20 / Jana",
+"dz": "146518_8 0308 54",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "54/WOL/PB/2026"
+}
+},
+{
+"d": "2026-05-29",
+"c": {
+"inw": "przebudowa okien i drzwi wejściowych do budynku stacji obsługi samochodów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Bemo Motors Sp. z o.o.",
+"nier": "Ostroroga 20 / Jana",
+"dz": "146518_8 0308 53",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "54/WOL/PB/2026"
+}
+},
+{
+"d": "2026-05-29",
+"c": {
+"inw": "rozbiórka częściowa budynku (oficyn bocznych) rozbiórka istniejącego obiektu budowlanego",
+"wn": "Wspólnota Mieszkaniowa ul. Śliska 54",
+"nier": "Śliska 54",
+"dz": "146518_8 0108 29",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "56/WOL/PB/2026/R"
+}
+},
+{
+"d": "2026-05-22",
+"c": {
+"inw": "budowa przyłączy wody i kanalizacji wraz ze zbiornikami retencyjnymi na wody deszczowe i likwidacja istniejących przyłączy budowa nowego/nowych obiektów budowlanych",
+"wn": "RE I Development Resde Sp. z o.o. Sp.k.",
+"nier": "Wronia",
+"dz": "146518_8 0104 16/21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "52/WOL/PB/2026"
+}
+},
+{
+"d": "2026-05-22",
+"c": {
+"inw": "budowa przyłączy wody i kanalizacji wraz ze zbiornikami retencyjnymi na wody deszczowe i likwidacja istniejących przyłączy budowa nowego/nowych obiektów budowlanych",
+"wn": "RE I Development Resde Sp. z o.o. Sp.k.",
+"nier": "Wronia",
+"dz": "146518_8 0104 2/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "52/WOL/PB/2026"
+}
+},
+{
+"d": "2026-05-22",
+"c": {
+"inw": "budowa przyłączy wody i kanalizacji wraz ze zbiornikami retencyjnymi na wody deszczowe i likwidacja istniejących przyłączy budowa nowego/nowych obiektów budowlanych",
+"wn": "RE I Development Resde Sp. z o.o. Sp.k.",
+"nier": "Wronia",
+"dz": "146518_8 0103 17/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "52/WOL/PB/2026"
+}
+},
+{
+"d": "2026-05-14",
+"c": {
+"inw": "rozbiórka wiaty magazynowej (R1023), budowa budynku magazynowego (R1023), przebudowa: budynku przemysłowo-warsztatowego (R1001), budynku socjalno-biurowego (R1002), budynku hali napraw (R1003), budynku przemysłowego (R1005) w zakresie ochrony ppoż wraz z przebudową węzła cieplnego (w budynku R1002) na terenie ZRP \"Wola\" wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie Sp. z o.o.",
+"nier": "Siedmiogrodzka 20",
+"dz": "146518_8 0402 17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "51/WOL/PB/2026"
+}
+},
+{
+"d": "2026-05-08",
+"c": {
+"inw": "budowa instalacji elektrycznej budowa nowego/nowych obiektów budowlanych",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Ostroroga 25 / Jana",
+"dz": "146518_8 0308 19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "50/WOL/PB/2026"
+}
+},
+{
+"d": "2026-05-08",
+"c": {
+"inw": "budowa elektroenergetycznej sieci kablowej w celu usunięcia kolizji związanej z budową obiektu przy ul. Kasprzaka 17A budowa nowego/nowych obiektów budowlanych",
+"wn": "Instytut Matki i Dziecka",
+"nier": "Kasprzaka 17A / Marcina",
+"dz": "146518_8 0408 14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "48/WOL/PB/2026"
+}
+},
+{
+"d": "2026-05-04",
+"c": {
+"inw": "remont budynku wielorodzinnego w zakresie elewacji, obróbek blacharskich, rur spustowych, cokołu, elementów ślusarki, płyt loggii, kratek wentylacyjnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa ul. Obozowa 74",
+"nier": "Obozowa 74",
+"dz": "146518_8 0604 181",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "46/WOL/PB/2026"
+}
+},
+{
+"d": "2026-04-30",
+"c": {
+"inw": "Rozbiórka budynku mieszkalnego wielorodzinnego, budynku garażowego, dwóch budynków gospodarczych oraz muru na granicy z działkami ew. nr 51, 53, 55/14, 55/15 (zmiana adresu inwestycji: ul. Księcia Janusza 37, dz. ew. 52/1, 52/2 i 55/15, obr. 6-06-06) rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Janusza 37 / Księcia",
+"dz": "146518_8 0606 52/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "45/WOL/PB/2026/R"
+}
+},
+{
+"d": "2026-04-30",
+"c": {
+"inw": "Rozbiórka budynku mieszkalnego wielorodzinnego, budynku garażowego, dwóch budynków gospodarczych oraz muru na granicy z działkami ew. nr 51, 53, 55/14, 55/15 (zmiana adresu inwestycji: ul. Księcia Janusza 37, dz. ew. 52/1, 52/2 i 55/15, obr. 6-06-06) rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Janusza 37 / Księcia",
+"dz": "146518_8 0606 52/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "45/WOL/PB/2026/R"
+}
+},
+{
+"d": "2026-04-28",
+"c": {
+"inw": "remon dziedzińca, remont garażu i niezbędnej infrastruktury wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Skarb Państwa Sąd Okręgowy w Warszawie",
+"nier": "Aleja \"Solidarności\" 127",
+"dz": "146518_8 0102 201",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "44/WOL/PB/2026"
+}
+},
+{
+"d": "2026-04-23",
+"c": {
+"inw": "remont elewacji wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nowolipki 28A",
+"nier": "Nowolipki 28A",
+"dz": "146518_8 0204 98",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "40/WOL/PB/2026"
+}
+},
+{
+"d": "2026-04-23",
+"c": {
+"inw": "remont elewacji wraz z balkonami i balustradami budynku mieszkalnego przy ul. Wolskiej 82 w Warszawie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa ul. Wolska 82",
+"nier": "Wolska 82",
+"dz": "146518_8 0318 186/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "38/WOL/PB/2026"
+}
+},
+{
+"d": "2026-04-23",
+"c": {
+"inw": "remont elewacji wraz z balkonami i balustradami budynku mieszkalnego przy ul. Wolskiej 82 w Warszawie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa ul. Wolska 82",
+"nier": "Wolska 82",
+"dz": "146518_8 0318 205",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "38/WOL/PB/2026"
+}
+},
+{
+"d": "2026-04-23",
+"c": {
+"inw": "remont elewacji wraz z balkonami i balustradami budynku mieszkalnego przy ul. Wolskiej 82 w Warszawie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa ul. Wolska 82",
+"nier": "Wolska 82",
+"dz": "146518_8 0318 202",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "38/WOL/PB/2026"
+}
+},
+{
+"d": "2026-04-23",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z usługami w parterze, dwupoziomowym garażem podziemnym, schronem i basenem podziemnym dla mieszkańców i murami oporowymi wraz z infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Monting Real Estate Sp. z o.o.",
+"nier": "Chłodna",
+"dz": "146518_8 0104 63/22",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/WOL/PB/2026/Z"
+}
+},
+{
+"d": "2026-04-23",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z usługami w parterze, dwupoziomowym garażem podziemnym, schronem i basenem podziemnym dla mieszkańców i murami oporowymi wraz z infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Monting Real Estate Sp. z o.o.",
+"nier": "Chłodna",
+"dz": "146518_8 0104 63/21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/WOL/PB/2026/Z"
+}
+},
+{
+"d": "2026-04-23",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z usługami w parterze, dwupoziomowym garażem podziemnym, schronem i basenem podziemnym dla mieszkańców i murami oporowymi wraz z infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Monting Real Estate Sp. z o.o.",
+"nier": "Chłodna",
+"dz": "146518_8 0104 63/18",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/WOL/PB/2026/Z"
+}
+},
+{
+"d": "2026-04-23",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z usługami w parterze, dwupoziomowym garażem podziemnym, schronem i basenem podziemnym dla mieszkańców i murami oporowymi wraz z infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Monting Real Estate Sp. z o.o.",
+"nier": "Chłodna",
+"dz": "146518_8 0104 63/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/WOL/PB/2026/Z"
+}
+},
+{
+"d": "2026-04-23",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z usługami w parterze, dwupoziomowym garażem podziemnym, schronem i basenem podziemnym dla mieszkańców i murami oporowymi wraz z infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Monting Real Estate Sp. z o.o.",
+"nier": "Chłodna",
+"dz": "146518_8 0104 63/15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/WOL/PB/2026/Z"
+}
+},
+{
+"d": "2026-04-23",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z usługami w parterze, dwupoziomowym garażem podziemnym, schronem i basenem podziemnym dla mieszkańców i murami oporowymi wraz z infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Monting Real Estate Sp. z o.o.",
+"nier": "Chłodna",
+"dz": "146518_8 0104 63/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/WOL/PB/2026/Z"
+}
+},
+{
+"d": "2026-04-23",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z usługami w parterze, dwupoziomowym garażem podziemnym, schronem i basenem podziemnym dla mieszkańców i murami oporowymi wraz z infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Monting Real Estate Sp. z o.o.",
+"nier": "Chłodna",
+"dz": "146518_8 0104 63/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/WOL/PB/2026/Z"
+}
+},
+{
+"d": "2026-04-23",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z usługami w parterze, dwupoziomowym garażem podziemnym, schronem i basenem podziemnym dla mieszkańców i murami oporowymi wraz z infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Monting Real Estate Sp. z o.o.",
+"nier": "Chłodna",
+"dz": "146518_8 0104 63/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/WOL/PB/2026/Z"
+}
+},
+{
+"d": "2026-04-23",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z usługami w parterze, dwupoziomowym garażem podziemnym, schronem i basenem podziemnym dla mieszkańców i murami oporowymi wraz z infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Monting Real Estate Sp. z o.o.",
+"nier": "Chłodna",
+"dz": "146518_8 0104 63/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/WOL/PB/2026/Z"
+}
+},
+{
+"d": "2026-04-23",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z usługami w parterze, dwupoziomowym garażem podziemnym, schronem i basenem podziemnym dla mieszkańców i murami oporowymi wraz z infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Monting Real Estate Sp. z o.o.",
+"nier": "Chłodna",
+"dz": "146518_8 0104 62/34",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/WOL/PB/2026/Z"
+}
+},
+{
+"d": "2026-04-23",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z usługami w parterze, dwupoziomowym garażem podziemnym, schronem i basenem podziemnym dla mieszkańców i murami oporowymi wraz z infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Monting Real Estate Sp. z o.o.",
+"nier": "Chłodna",
+"dz": "146518_8 0104 62/33",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/WOL/PB/2026/Z"
+}
+},
+{
+"d": "2026-04-23",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z usługami w parterze, dwupoziomowym garażem podziemnym, schronem i basenem podziemnym dla mieszkańców i murami oporowymi wraz z infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Monting Real Estate Sp. z o.o.",
+"nier": "Chłodna",
+"dz": "146518_8 0104 62/31",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/WOL/PB/2026/Z"
+}
+},
+{
+"d": "2026-04-23",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z usługami w parterze, dwupoziomowym garażem podziemnym, schronem i basenem podziemnym dla mieszkańców i murami oporowymi wraz z infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Monting Real Estate Sp. z o.o.",
+"nier": "Chłodna",
+"dz": "146518_8 0104 62/25",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/WOL/PB/2026/Z"
+}
+},
+{
+"d": "2026-04-23",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z usługami w parterze, dwupoziomowym garażem podziemnym, schronem i basenem podziemnym dla mieszkańców i murami oporowymi wraz z infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Monting Real Estate Sp. z o.o.",
+"nier": "Chłodna",
+"dz": "146518_8 0104 62/28",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/WOL/PB/2026/Z"
+}
+},
+{
+"d": "2026-04-23",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z usługami w parterze, dwupoziomowym garażem podziemnym, schronem i basenem podziemnym dla mieszkańców i murami oporowymi wraz z infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Monting Real Estate Sp. z o.o.",
+"nier": "Chłodna",
+"dz": "146518_8 0104 62/27",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/WOL/PB/2026/Z"
+}
+},
+{
+"d": "2026-04-23",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z usługami w parterze, dwupoziomowym garażem podziemnym, schronem i basenem podziemnym dla mieszkańców i murami oporowymi wraz z infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Monting Real Estate Sp. z o.o.",
+"nier": "Chłodna",
+"dz": "146518_8 0104 62/29",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/WOL/PB/2026/Z"
+}
+},
+{
+"d": "2026-04-23",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z usługami w parterze, dwupoziomowym garażem podziemnym, schronem i basenem podziemnym dla mieszkańców i murami oporowymi wraz z infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Monting Real Estate Sp. z o.o.",
+"nier": "Chłodna",
+"dz": "146518_8 0104 62/19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/WOL/PB/2026/Z"
+}
+},
+{
+"d": "2026-04-23",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z usługami w parterze, dwupoziomowym garażem podziemnym, schronem i basenem podziemnym dla mieszkańców i murami oporowymi wraz z infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Monting Real Estate Sp. z o.o.",
+"nier": "Chłodna",
+"dz": "146518_8 0104 62/17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/WOL/PB/2026/Z"
+}
+},
+{
+"d": "2026-04-23",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z usługami w parterze, dwupoziomowym garażem podziemnym, schronem i basenem podziemnym dla mieszkańców i murami oporowymi wraz z infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Monting Real Estate Sp. z o.o.",
+"nier": "Chłodna",
+"dz": "146518_8 0104 62/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/WOL/PB/2026/Z"
+}
+},
+{
+"d": "2026-04-23",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z usługami w parterze, dwupoziomowym garażem podziemnym, schronem i basenem podziemnym dla mieszkańców i murami oporowymi wraz z infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Monting Real Estate Sp. z o.o.",
+"nier": "Chłodna",
+"dz": "146518_8 0104 62/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/WOL/PB/2026/Z"
+}
+},
+{
+"d": "2026-04-21",
+"c": {
+"inw": "przebudowa placu zabaw wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa",
+"nier": "Chłodna 20",
+"dz": "146518_8 0102 94",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "37/WOL/PB/2026"
+}
+},
+{
+"d": "2026-04-16",
+"c": {
+"inw": "przebudowa piętra I i II budynku B w zakresie wzmocnienia części stropów wraz z remontem części elewacji polegającym na wymianie stolarki drzwiowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Instytut Matki i Dziecka",
+"nier": "Kasprzaka 17A / Marcina",
+"dz": "146518_8 0408 14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "36/WOL/PB/2026"
+}
+},
+{
+"d": "2026-04-10",
+"c": {
+"inw": "Rozbudowa budynku mieszkalnego wielorodzinnego poprzez dobudowę zewnętrznego szybu windowego z przedsionkiem wraz z montażem dźwigu osobowego przystosowanego dla osób niepełnosprawnych oraz przebudowa ściany zewnętrznej w zakresie otworów okiennych rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Syreny 13B",
+"dz": "146518_8 0318 87/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "35/WOL/PB/2026"
+}
+},
+{
+"d": "2026-04-10",
+"c": {
+"inw": "Rozbudowa budynku mieszkalnego wielorodzinnego poprzez dobudowę zewnętrznego szybu windowego z przedsionkiem wraz z montażem dźwigu osobowego przystosowanego dla osób niepełnosprawnych oraz przebudowa ściany zewnętrznej w zakresie otworów okiennych rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Syreny 13B",
+"dz": "146518_8 0318 88",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "35/WOL/PB/2026"
+}
+},
+{
+"d": "2026-04-09",
+"c": {
+"inw": "rozbiórka budynku portierni na terenie Spółki Tramwaje Warszawskie rozbiórka istniejącego obiektu budowlanego",
+"wn": "Tramwaje Warszawskie Sp. z o.o.",
+"nier": "Siedmiogrodzka 20",
+"dz": "146518_8 0402 17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "34/WOL/PB/2026/R"
+}
+},
+{
+"d": "2026-04-03",
+"c": {
+"inw": "przebudowa  budynku w zakresie ścian konstrukcyjnych na 2 p. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Wola",
+"nier": "Aleja \"Solidarności\" 90",
+"dz": "146518_8 0207 114",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "33/WOL/PB/2026"
+}
+},
+{
+"d": "2026-03-27",
+"c": {
+"inw": "rozbiórka częściowa budynku przy ul. Śliskiej 56 - oficyny tylnej oraz dwóch bocznych rozbiórka istniejącego obiektu budowlanego",
+"wn": "ORI Development Sp. z o.o.",
+"nier": "Śliska 56",
+"dz": "146518_8 0108 27",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "32/WOL/PB/2026/R"
+}
+},
+{
+"d": "2026-03-26",
+"c": {
+"inw": "budowa zadaszenia przy budynku usługowym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Ośrodek Pomocy Społecznej Dzielnicy Wola m.st. Warszawy",
+"nier": "Zawiszy 5",
+"dz": "146518_8 0310 14/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "31/WOL/PB/2026"
+}
+},
+{
+"d": "2026-03-24",
+"c": {
+"inw": "budowa wiaty śmietnikowej budowa nowego/nowych obiektów budowlanych",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Młynarska 16",
+"dz": "146518_8 0316 51",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "30/WOL/PB/2026"
+}
+},
+{
+"d": "2026-03-19",
+"c": {
+"inw": "budowa koncesjonowanej przez m.st. Warszawa reklamy w postaci słupa ogłoszeniowego z możliwością podświetlenia, typ historyczny, okrągły budowa nowego/nowych obiektów budowlanych",
+"wn": "Stroer Polska Sp. z o.o.",
+"nier": "Prosta",
+"dz": "146518_8 0103 31/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "29/WOL/PB/2026"
+}
+},
+{
+"d": "2026-03-12",
+"c": {
+"inw": "przystosowanie budynku szkoły do wymagań ekspertyzy i postanowień SP w zakresie ochrony pożarowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "ZPOSM I i II st. im. G. Bacewicz",
+"nier": "Tyszkiewicza 45 / Eustachego",
+"dz": "146518_8 0311 21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "28/WOL/PB/2026"
+}
+},
+{
+"d": "2026-03-11",
+"c": {
+"inw": "remont i przebudowa podwórka wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa, Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Ogrodowa 11",
+"dz": "146518_8 0102 94",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "27/WOL/PB/2026"
+}
+},
+{
+"d": "2026-03-11",
+"c": {
+"inw": "remont i przebudowa podwórka wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa, Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Ogrodowa 11",
+"dz": "146518_8 0102 91",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "27/WOL/PB/2026"
+}
+},
+{
+"d": "2026-03-11",
+"c": {
+"inw": "remont i przebudowa podwórka wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa, Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Ogrodowa 11",
+"dz": "146518_8 0102 73",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "27/WOL/PB/2026"
+}
+},
+{
+"d": "2026-03-06",
+"c": {
+"inw": "przebudowa ze zmianą sposobu użytkowania stropodachu na taras użytkowy wraz z montażem balustrad przy elewacji zachodniej i wschodniej na kondygnacji 05 klatki E wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa \"Browary Warszawskie D, F\"",
+"nier": "Krochmalna 61",
+"dz": "146518_8 0104 73/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "26/WOL/PB/2026"
+}
+},
+{
+"d": "2026-03-05",
+"c": {
+"inw": "przebudowa budynku mieszkalno-usługowego polegająca na wykonaniu napraw i izolacji ścian fundamentowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Twarda 64",
+"dz": "146518_8 0107 83/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "25/WOL/PB/2026"
+}
+},
+{
+"d": "2026-03-05",
+"c": {
+"inw": "przebudowa budynku mieszkalno-usługowego polegająca na wykonaniu napraw i izolacji ścian fundamentowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Twarda 64",
+"dz": "146518_8 0107 83/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "25/WOL/PB/2026"
+}
+},
+{
+"d": "2026-03-05",
+"c": {
+"inw": "przebudowa budynku mieszkalno-usługowego polegająca na wykonaniu napraw i izolacji ścian fundamentowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Twarda 64",
+"dz": "146518_8 0107 61",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "25/WOL/PB/2026"
+}
+},
+{
+"d": "2026-03-05",
+"c": {
+"inw": "przebudowa budynku mieszkalno-usługowego polegająca na wykonaniu napraw i izolacji ścian fundamentowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Twarda 64",
+"dz": "146518_8 0107 60",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "25/WOL/PB/2026"
+}
+},
+{
+"d": "2026-03-05",
+"c": {
+"inw": "przebudowa budynku mieszkalno-usługowego polegająca na wykonaniu napraw i izolacji ścian fundamentowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Twarda 64",
+"dz": "146518_8 0107 59/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "25/WOL/PB/2026"
+}
+},
+{
+"d": "2026-03-05",
+"c": {
+"inw": "przebudowa budynku mieszkalno-usługowego polegająca na wykonaniu napraw i izolacji ścian fundamentowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Twarda 64",
+"dz": "146518_8 0107 59/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "25/WOL/PB/2026"
+}
+},
+{
+"d": "2026-02-18",
+"c": {
+"inw": "budowa przyłączy cieplnych 2xDN125/225 i 2xDN100/200 do projektowanego budynku \"D\" i istniejącego budynku \"B\" wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Instytut Matki i Dziecka",
+"nier": "Kasprzaka 17A / Marcina",
+"dz": "146518_8 0408 14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "22/WOL/PB/2026"
+}
+},
+{
+"d": "2026-02-13",
+"c": {
+"inw": "rozbiórka żelbetowego zbiornika podziemnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Cavatina SPV23 Sp. z o.o.",
+"nier": "Chmielna 75",
+"dz": "146518_8 0109 10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "21/WOL/PB/2026/R"
+}
+},
+{
+"d": "2026-02-11",
+"c": {
+"inw": "rozbiórka wewnętrznej instalacji gazowej w lokalu usługowym rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Wolska 91",
+"dz": "146518_8 0401 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "19/WOL/PB/2026/R"
+}
+},
+{
+"d": "2026-02-10",
+"c": {
+"inw": "rozbiórka budynków przy ul. Chłodnej 45 rozbiórka istniejącego obiektu budowlanego",
+"wn": "m.st. Warszawa, pl. Bankowy 3/5, Warszawa, Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Chłodna 45",
+"dz": "146518_8 0103 6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "18/WOL/PB/2026/R"
+}
+},
+{
+"d": "2026-02-05",
+"c": {
+"inw": "budowa elektroenergetycznych sieci kablowych nn w celu uniknięcia kolizji związanych z budową obiektu budowa nowego/nowych obiektów budowlanych",
+"wn": "Instytut Matki i Dziecka",
+"nier": "Kasprzaka 17A / Marcina",
+"dz": "146518_8 0408 14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "16/WOL/PB/2026"
+}
+},
+{
+"d": "2026-02-05",
+"c": {
+"inw": "budowa elektroenergetycznych sieci kablowych nn w celu uniknięcia kolizji związanych z budową obiektu budowa nowego/nowych obiektów budowlanych",
+"wn": "Instytut Matki i Dziecka",
+"nier": "Kasprzaka 17A / Marcina",
+"dz": "146518_8 0408 13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "16/WOL/PB/2026"
+}
+},
+{
+"d": "2026-02-04",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z lokalamimusługowymi i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Volumetric LesznoSp. z o.o. Sp. k.",
+"nier": "Leszno 17A",
+"dz": "146518_8 0316 54",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "14/WOL/PB/2026"
+}
+},
+{
+"d": "2026-02-03",
+"c": {
+"inw": "rozbiórka telekomunikacyjnego obiektu budowlanego wraz z instalacją radiokomunikacyjną nr BT1105 rozbiórka istniejącego obiektu budowlanego",
+"wn": "Towerlink Poland Sp. z o.o.",
+"nier": "Prosta 69",
+"dz": "146518_8 0409 8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "12/WOL/PB/2026/R"
+}
+},
+{
+"d": "2026-01-29",
+"c": {
+"inw": "przebudowa chodnika wzdłuż zabytkowego muru cmentarza Ewangelicko-Augsburskiego w rejonie ul. Karolkowej 71 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa, Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Karolkowa 71",
+"dz": "146518_8 0312 10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "11/WOL/PB/2026"
+}
+},
+{
+"d": "2026-01-26",
+"c": {
+"inw": "nadbudowa i przebudowa części poddasza, dobudowa wiatrołapu oraz remont budynku mieszkalnego jednorodzinnego wraz z garażem wolnostojącym nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Bolecha 23",
+"dz": "146518_8 0604 96",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "10/WOL/PB/2026"
+}
+},
+{
+"d": "2026-01-14",
+"c": {
+"inw": "przebudowa budynku mieszkalnego wielorodzinnego w zakresie wnętrz pojedynczego lokalu mieszkalnego, przebudowa wewnętrznej instalacji gazowej w lokalu mieszkalnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Czorsztyńska 12",
+"dz": "146518_8 0609 92",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "9/WOL/PB/2026"
+}
+},
+{
+"d": "2026-01-14",
+"c": {
+"inw": "remont dachu na budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa Zakład Gospodarowanioa Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Rabsztyńska 4",
+"dz": "146518_8 0318 26",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6/WOL/PB/2026"
+}
+},
+{
+"d": "2026-01-14",
+"c": {
+"inw": "remont elewacji budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa ul. Gibalskiego 3",
+"nier": "Gibalskiego 3 / Edwarda",
+"dz": "146518_8 0313 89",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "7/WOL/PB/2026"
+}
+},
+{
+"d": "2026-01-14",
+"c": {
+"inw": "wykonanie przejścia pomiędzy budynkami Łucka 13 oraz lokalem użytkowym U5 Łucka 15 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "JARAL_E Sp. z o.o.",
+"nier": "Łucka",
+"dz": "146518_8 0104 43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "5/WOL/PB/2026"
+}
+},
+{
+"d": "2026-01-14",
+"c": {
+"inw": "wykonanie przejścia pomiędzy budynkami Łucka 13 oraz lokalem użytkowym U5 Łucka 15 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "JARAL_E Sp. z o.o.",
+"nier": "Łucka",
+"dz": "146518_8 0104 42/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "5/WOL/PB/2026"
+}
+},
+{
+"d": "2026-01-14",
+"c": {
+"inw": "wykonanie przejścia pomiędzy budynkami Łucka 13 oraz lokalem użytkowym U5 Łucka 15 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "JARAL_E Sp. z o.o.",
+"nier": "Łucka",
+"dz": "146518_8 0104 41/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "5/WOL/PB/2026"
+}
+},
+{
+"d": "2026-01-14",
+"c": {
+"inw": "remont dachu na budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m.st. Warszawa, Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Płocka 5",
+"dz": "146518_8 0404 53",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "8/WOL/PB/2026"
+}
+},
+{
+"d": "2026-01-13",
+"c": {
+"inw": "przebudowa Zakładu Napraw Tramwajów w zakresie dostosowania budynków do wymogów ekspertyzy technicznej stanu ochrony przeciwpożarowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie Sp. z o.o.",
+"nier": "Siedmiogrodzka 4",
+"dz": "146518_8 0402 17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "4/WOL/PB/2026"
+}
+},
+{
+"d": "2026-01-12",
+"c": {
+"inw": "remont i przebudowa budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami w Dzielnicy Wola m.st. Warszawy",
+"nier": "Krochmalna 30",
+"dz": "146518_8 0105 30/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "3/WOL/PB/2026"
+}
+},
+{
+"d": "2026-01-02",
+"c": {
+"inw": "budynek mieszkalny jednorodzinny, wolnostojący wraz ze zmianą zagospodarowania terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Strąkowa 12",
+"dz": "146518_8 0706 55/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "1/WOL/PB/2026"
+}
+}
+]
+}
+]
+}

@@ -1,0 +1,4723 @@
+{
+"district": "ursynow",
+"year": 2024,
+"generated": "2026-11-24T21:24:33+01:00",
+"total": 421,
+"registers": [
+{
+"id": "wn_pnb",
+"name": "Wnioski o pozwolenie na budowę",
+"short": "Wnioski PnB",
+"desc": "Wnioski o pozwolenie na budowę złożone do organu architektoniczno-budowlanego dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer wniosku",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2024-12-31",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbiórkę przechowalni i sortowni warzyw rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0949 9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6741.20.2024.PJA"
+}
+},
+{
+"d": "2024-12-24",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę dwupoziomowego lokalu mieszkalnego nr 13 z poddaszem użytkowym wraz z podziałem na dwa odrębne lokale mieszkalne w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1112 26",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.191.2024.PFE"
+}
+},
+{
+"d": "2024-12-23",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę wewnętrznej instalacji gazu w budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowo-Budowlana \"Imielin\"",
+"nier": "",
+"dz": "146513_8 1018 7/71",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.188.2024.MLA"
+}
+},
+{
+"d": "2024-12-23",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę wewnętrznej instalacji gazu w budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowo-Budowlana \"Imielin\"",
+"nier": "",
+"dz": "146513_8 1018 7/83",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.188.2024.MLA"
+}
+},
+{
+"d": "2024-12-23",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę wewnętrznej instalacji gazu w budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowo-Budowlana \"Imielin\"",
+"nier": "",
+"dz": "146513_8 1018 7/85",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.188.2024.MLA"
+}
+},
+{
+"d": "2024-12-20",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę trzech budynków mieszkalnych jednorodzinnych wolnostojących - adaptacja projektu typowego typu \"AMBER\" wraz z budową drogą wewnętrznej oraz niezbędną infrastrukturą techniczną, w tym trzech studni, trzech bezodpływowych zbiorników na nieczystości płynne i zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1213 3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.185.2024.PFE"
+}
+},
+{
+"d": "2024-12-20",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbiórkę budynku usługowego \"po dawnej dyskotece\" wraz z ogrodzeniem murowanym oraz zabudowy baru na patio rozbiórka istniejącego obiektu budowlanego",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Ursynów",
+"nier": "",
+"dz": "146513_8 0935 2/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6741.19.2024.ABR"
+}
+},
+{
+"d": "2024-12-19",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbiórkę budynku pawilonu typu \"LIPSK\" rozbiórka istniejącego obiektu budowlanego",
+"wn": "SMB \"Imielin\"",
+"nier": "",
+"dz": "146513_8 1022 27/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6741.18.2024.MLA"
+}
+},
+{
+"d": "2024-12-19",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę drogi dla rowerów wraz z infrastrukturą techniczną na odcinku od ul. Belgradzkiej do ul. Kazury budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Ursynów",
+"nier": "",
+"dz": "146513_8 1102 2/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.184.2024.BSE"
+}
+},
+{
+"d": "2024-12-19",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę drogi dla rowerów wraz z infrastrukturą techniczną na odcinku od ul. Belgradzkiej do ul. Kazury budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Ursynów",
+"nier": "",
+"dz": "146513_8 1216 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.184.2024.BSE"
+}
+},
+{
+"d": "2024-12-18",
+"c": {
+"inw": "Wniosek o pozwolenie na wykonanie robót budowlanych polegających na remoncie dwóch budynków mieszkalnych o nr 66/16 i 67/16 na terenie Toru Wyścigów Konnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Totalizator Sportowy Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 0815 36",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.182.2024.ABO"
+}
+},
+{
+"d": "2024-12-12",
+"c": {
+"inw": "Budowa modułowych kontenerów magazynowych na potrzeby utrzymania pomieszczeń Zakładu Epidemiologii w związku z organizacją Biobanku NIO im. Marii Skłodowskiej-Curie PIB budowa nowego/nowych obiektów budowlanych",
+"wn": "Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie Państwowy Instytut Badawczy",
+"nier": "Roentgena 5 / Wilhelma Konrada",
+"dz": "146513_8 1075 2/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.178.2024.PJA"
+}
+},
+{
+"d": "2024-12-11",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę wielkości otworu okiennego w lokalu mieszkalnym w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1107 60/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.177.2024.BSE"
+}
+},
+{
+"d": "2024-12-05",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbiórkę budynków mieszkalnych oraz innych budowli rozbiórka istniejącego obiektu budowlanego",
+"wn": "HI Projekt XXXIII Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 0814 26",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6741.16.2024.ABO"
+}
+},
+{
+"d": "2024-12-05",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbiórkę budynków mieszkalnych oraz innych budowli rozbiórka istniejącego obiektu budowlanego",
+"wn": "HI Projekt XXXIII Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 0814 23/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6741.16.2024.ABO"
+}
+},
+{
+"d": "2024-12-05",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbiórkę budynków niemieszkalnych oraz innej budowli rozbiórka istniejącego obiektu budowlanego",
+"wn": "HI Projekt XXVIII Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 0814 58",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6741.17.2024.ABO"
+}
+},
+{
+"d": "2024-12-04",
+"c": {
+"inw": "Wniosek o pozwolenie na wykonanie robót budowlanych polegających na przebudowie lokali mieszkalnych nr 18 oraz 30 w budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1022 10/32",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.175.2024.MLA"
+}
+},
+{
+"d": "2024-12-02",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku biurowego z lokalem mieszkalnym budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0834 79",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.173.2024.ABR"
+}
+},
+{
+"d": "2024-11-27",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę zewnętrznej instalacji gazu w ramach inwestycji pn.\"budowa obiektu laboratoryjno-dydaktycznego wraz z zapleczem technicznym, infrastrukturą towarzyszącą., przyłączami, ciągami komunikacyjnymi i zagospodarowaniem terenu na potrzeby innowacyjnego centrum nauk żywieniowych - ICNŻ\" wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SGGW w Warszawie",
+"nier": "",
+"dz": "146513_8 1012 114/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.172.2024.BŁA"
+}
+},
+{
+"d": "2024-11-15",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbiórkę dwóch budynków mieszkalnych, czterech budynków gospodarczych, wiaty garażowej, szklarni, studni oraz murków betonowych ogrodzeniowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0933 3/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6741.14.2024.MMA"
+}
+},
+{
+"d": "2024-11-15",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbiórkę dwóch budynków mieszkalnych, czterech budynków gospodarczych, wiaty garażowej, szklarni, studni oraz murków betonowych ogrodzeniowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0933 4/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6741.14.2024.MMA"
+}
+},
+{
+"d": "2024-11-08",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbiórkę budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1073 108",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6741.13.2024.PJA"
+}
+},
+{
+"d": "2024-11-06",
+"c": {
+"inw": "Wniosek o pozwolenie  wykonanie robót budowlanych polegających na przebudowie dwupoziomowego lokalu mieszkalnego nr 6 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1114 197",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.167.2024.MLA"
+}
+},
+{
+"d": "2024-11-06",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę mieszkania w budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1022 10/63",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.168.2024.MLA"
+}
+},
+{
+"d": "2024-11-04",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku jednorodzinnego wolnostojącego wraz z infrastrukturą techniczną, elementami zagospodarowania terenu i wszystkimi instalacjami wraz z przebudową ciągu pieszo-jezdnego budowa nowego/nowych obiektów budowlanych",
+"wn": "Organizacja Odzysku Opakowań Rebis S.A.",
+"nier": "",
+"dz": "146513_8 1118 130/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.124.2022.MMD - PONOWNE ROZPATRZENIE"
+}
+},
+{
+"d": "2024-11-04",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku jednorodzinnego wolnostojącego wraz z infrastrukturą techniczną, elementami zagospodarowania terenu i wszystkimi instalacjami wraz z przebudową ciągu pieszo-jezdnego budowa nowego/nowych obiektów budowlanych",
+"wn": "Organizacja Odzysku Opakowań Rebis S.A.",
+"nier": "",
+"dz": "146513_8 1118 2/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.124.2022.MMD - PONOWNE ROZPATRZENIE"
+}
+},
+{
+"d": "2024-10-31",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbiórkę budynku mieszkalnego jednorodzinnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0924 43",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6741.12.2024.ABR"
+}
+},
+{
+"d": "2024-10-24",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku mieszkalnego jednorodzinnego wolnostojącego z garażem w bryle budynku budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0973 51/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.159.2024.APA"
+}
+},
+{
+"d": "2024-10-21",
+"c": {
+"inw": "Wniosek o pozwolenie na wykonanie robót budowlanych polegających na wykonaniu instalacji gazowej w użytkowym budynku mieszkalnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SMB \"Imielin\"",
+"nier": "",
+"dz": "146513_8 1018 7/82",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.155.2024.ABO"
+}
+},
+{
+"d": "2024-10-14",
+"c": {
+"inw": "Wniosek o pozwolenie na wykonanie robót budowlanych polegających na przebudowie schodów zewnętrznych budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"Na Skraju\"",
+"nier": "",
+"dz": "146513_8 1029 4/58",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.151.2024.MLA"
+}
+},
+{
+"d": "2024-10-11",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku mieszkalnego jednorodzinnego wolnostojącego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0939 7/22",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.150.2024.MMA"
+}
+},
+{
+"d": "2024-10-07",
+"c": {
+"inw": "Wniosek o pozwolenie na wykonanie robót budowlanych polegających na wycięciu otworu komunikacyjnego w ścianie konstrukcyjnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1102 13/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.146.2024.MLA"
+}
+},
+{
+"d": "2024-10-04",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku o funkcji: apteka, sterylizatornia, punkt porcjowania posiłków, biura, zaplecze magazynowo-techniczne wraz z infrastrukturą techniczną i zagospodarowaniem terenu na terenie Instytutu Hematologii i Transfuzjologii budowa nowego/nowych obiektów budowlanych",
+"wn": "Instytut Hematologii i Transfuzjologii",
+"nier": "Gandhi / Indiry",
+"dz": "146513_8 1075 2/71",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.144.2024.PJA"
+}
+},
+{
+"d": "2024-10-01",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę lokalu mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1108 3/27",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.143.2024.MLA"
+}
+},
+{
+"d": "2024-09-17",
+"c": {
+"inw": "Wniosek o pozwolenie na docieplenie elewacji budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SMB \"Imielin\"",
+"nier": "",
+"dz": "146513_8 1022 10/43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.141.2024.MLA"
+}
+},
+{
+"d": "2024-09-16",
+"c": {
+"inw": "Wniosek o pozwolenie na roboty budowlane polegające na przebudowie wraz ze zmianą sposobu użytkowania budynków warsztatowo-usługowych na potrzeby Liceum Ogólnokształcące wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Fundacja Szkolna",
+"nier": "",
+"dz": "146513_8 0815 44/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.139.2024.ABO"
+}
+},
+{
+"d": "2024-09-16",
+"c": {
+"inw": "Wniosek o pozwolenie na roboty budowlane polegające na przebudowie wraz ze zmianą sposobu użytkowania budynków warsztatowo-usługowych na potrzeby Liceum Ogólnokształcące wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Fundacja Szkolna",
+"nier": "",
+"dz": "146513_8 0815 44/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.139.2024.ABO"
+}
+},
+{
+"d": "2024-09-16",
+"c": {
+"inw": "Wniosek o pozwolenie na roboty budowlane polegające na przebudowie wraz ze zmianą sposobu użytkowania budynków warsztatowo-usługowych na potrzeby Liceum Ogólnokształcące wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Fundacja Szkolna",
+"nier": "",
+"dz": "146513_8 0815 43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.139.2024.ABO"
+}
+},
+{
+"d": "2024-09-16",
+"c": {
+"inw": "Wniosek o pozwolenie na roboty budowlane polegające na przebudowie wraz ze zmianą sposobu użytkowania budynków warsztatowo-usługowych na potrzeby Liceum Ogólnokształcące wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Fundacja Szkolna",
+"nier": "",
+"dz": "146513_8 0815 51",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.139.2024.ABO"
+}
+},
+{
+"d": "2024-09-16",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę budynku mieszkalnego jednorodzinnego w zakresie zmiany okna w osiach 1-2/D na dwoje drzwi balkonowych oraz likwidacja drzwi w osiach 2/D wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0838 27/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.140.2024.MLA"
+}
+},
+{
+"d": "2024-09-13",
+"c": {
+"inw": "Wniosek o zmianę dec.41/URN/PB/2024 z 19.03.2024 - bud. mieszkalny jednorodzinny wolnostojący wraz z elementami zagospodarowania terenu i infrastrukturą techniczną (szambo, studnia) oraz budowa fragmentu wewnętrznej drogi dojazdowej wg projektu zamiennego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1213 1/13",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.138.2024.ABO"
+}
+},
+{
+"d": "2024-09-13",
+"c": {
+"inw": "Wniosek o zmianę dec.41/URN/PB/2024 z 19.03.2024 - bud. mieszkalny jednorodzinny wolnostojący wraz z elementami zagospodarowania terenu i infrastrukturą techniczną (szambo, studnia) oraz budowa fragmentu wewnętrznej drogi dojazdowej wg projektu zamiennego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1213 1/6",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.138.2024.ABO"
+}
+},
+{
+"d": "2024-09-13",
+"c": {
+"inw": "Wniosek o zmianę dec.41/URN/PB/2024 z 19.03.2024 - bud. mieszkalny jednorodzinny wolnostojący wraz z elementami zagospodarowania terenu i infrastrukturą techniczną (szambo, studnia) oraz budowa fragmentu wewnętrznej drogi dojazdowej wg projektu zamiennego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1214 7/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.138.2024.ABO"
+}
+},
+{
+"d": "2024-08-29",
+"c": {
+"inw": "Wniosek o zmianę decyzji nr 142/D/19 z 19.07.2019budynku sportu - centrum gry w squasha wraz z instalacjami: gazową, wodną, kanalizacji sanitarnej, elektryczną, wentylacji i C.O. wraz z elementami zagospodarowania terenu, miejscami postojowymi i niezbędnym uzbrojeniem terenu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0942 104",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.132.2024.MMA"
+}
+},
+{
+"d": "2024-08-28",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę dwunastu budynków mieszkalnych jednorodzinnych jednolokalowych w zabudowie bliźniaczej wraz z infrastrukturą techniczną i zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "Ampar Bis Ryszard Więcławski, Sylwester Szczęsny spółka jawna",
+"nier": "",
+"dz": "146513_8 0979 8/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.131.2024.APA (MLA)"
+}
+},
+{
+"d": "2024-08-28",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę dwunastu budynków mieszkalnych jednorodzinnych jednolokalowych w zabudowie bliźniaczej wraz z infrastrukturą techniczną i zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "Ampar Bis Ryszard Więcławski, Sylwester Szczęsny spółka jawna",
+"nier": "",
+"dz": "146513_8 0979 2/23",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.131.2024.APA (MLA)"
+}
+},
+{
+"d": "2024-08-26",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę instalacji fotowoltaicznej wraz z konstrukcją w postaci dwóch wiat wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polska Akademia Nauk- Ogród Botaniczny-Centrum Zachowania Różnorodności Biologicznej w Powsinie",
+"nier": "",
+"dz": "146513_8 1215 3/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.129.2024.PFE"
+}
+},
+{
+"d": "2024-08-14",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbiórkę budynku gospodarczego - szklarni rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Cymbalistów",
+"dz": "146513_8 0972 27/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6741.9.2024.BSE"
+}
+},
+{
+"d": "2024-08-09",
+"c": {
+"inw": "Wniosek o pozwolenie na roboty budowlane obejmujące przebudowę wejścia głównego budynku \"ZOS Koncertowa\" w zakresie dostosowania dla osób ze szczególnymi potrzebami wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Ursynowskie Centrum Sportu i Rekreakcji",
+"nier": "",
+"dz": "146513_8 1002 8/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.126.2024.BŁA"
+}
+},
+{
+"d": "2024-08-09",
+"c": {
+"inw": "Wniosek o pozwolenie na roboty budowlane obejmujące przebudowę wejścia głównego budynku \"ZOS Koncertowa\" w zakresie dostosowania dla osób ze szczególnymi potrzebami wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Ursynowskie Centrum Sportu i Rekreakcji",
+"nier": "",
+"dz": "146513_8 1002 8/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.126.2024.BŁA"
+}
+},
+{
+"d": "2024-08-09",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę zespołu dwóch budynków mieszkalnych jednorodzinnych dwulokalowych budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0950 25/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.124.2024.MMA"
+}
+},
+{
+"d": "2024-08-08",
+"c": {
+"inw": "Wniosek o pozwolenie na wykonanie otworu w ścianie konstrukcyjnej między salonem a kuchnią o wymiarach 3,32m  x 2,02 m w lokalu mieszkalnym nr 21 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1109 18/20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.123.2024.MLA"
+}
+},
+{
+"d": "2024-08-06",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę linii kablowych sn-15kV w związku z przebudową ulicy Kłobuckiej budowa nowego/nowych obiektów budowlanych",
+"wn": "NP 10 Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 0817 11/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.121.2024.ABO"
+}
+},
+{
+"d": "2024-08-06",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę linii kablowych sn-15kV w związku z przebudową ulicy Kłobuckiej budowa nowego/nowych obiektów budowlanych",
+"wn": "NP 10 Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 0817 20/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.121.2024.ABO"
+}
+},
+{
+"d": "2024-08-06",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku mieszkalnego jednorodzinnego wraz z urządzeniami budowlanymi, w tym instalacją gazową budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0944 11",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.122.2024.APA"
+}
+},
+{
+"d": "2024-08-02",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę części budynku biurowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "P491 Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 0934 162/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.119.2024.APA"
+}
+},
+{
+"d": "2024-07-31",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę drogi dla rowerów wraz z infrastrukturą techniczną wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Ursynów",
+"nier": "",
+"dz": "146513_8 1203 8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.116.2024.PFE"
+}
+},
+{
+"d": "2024-07-31",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę drogi dla rowerów wraz z infrastrukturą techniczną wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Ursynów",
+"nier": "",
+"dz": "146513_8 1203 22/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.116.2024.PFE"
+}
+},
+{
+"d": "2024-07-31",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę sieci kanalizacji deszczowej odprowadzającą wody opadowe i roztopowe z terenu istniejącej stacji paliw wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SHELL POLSKA Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 0839 15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.115.2024.ABR"
+}
+},
+{
+"d": "2024-07-31",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę sieci kanalizacji deszczowej odprowadzającą wody opadowe i roztopowe z terenu istniejącej stacji paliw wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SHELL POLSKA Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 0839 14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.115.2024.ABR"
+}
+},
+{
+"d": "2024-07-31",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę sieci kanalizacji deszczowej odprowadzającą wody opadowe i roztopowe z terenu istniejącej stacji paliw wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SHELL POLSKA Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 0839 13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.115.2024.ABR"
+}
+},
+{
+"d": "2024-07-31",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę sieci kanalizacji deszczowej odprowadzającą wody opadowe i roztopowe z terenu istniejącej stacji paliw wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SHELL POLSKA Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 0839 12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.115.2024.ABR"
+}
+},
+{
+"d": "2024-07-26",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę przegrody zewnętrznej budynku mieszkalnego polegająca na zmianie gabarytów istniejących otworów okiennych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1003 4/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.113.2024.BŁA"
+}
+},
+{
+"d": "2024-07-22",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbudowę wiaty nad boiskiem sportowym wraz z rozbudową pawilonu socjalno-klubowego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "SPS Sport - Maria Del Pilar Senise Garcia",
+"nier": "",
+"dz": "146513_8 0832 13/15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.111.2024.ABR"
+}
+},
+{
+"d": "2024-07-19",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę dwóch budynków jednorodzinnych w zabudowie bliźniaczej z garażami w bryłach budynków, budową drogi dojazdowej oraz elementów zagospodarowaniem terenu i infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "P4P Sp.z o.o.",
+"nier": "Kuropatwy",
+"dz": "146513_8 0973 45/7",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.109.2024.APA"
+}
+},
+{
+"d": "2024-07-19",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę dwóch budynków jednorodzinnych w zabudowie bliźniaczej z garażami w bryłach budynków, budową drogi dojazdowej oraz elementów zagospodarowaniem terenu i infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "P4P Sp.z o.o.",
+"nier": "Kuropatwy",
+"dz": "146513_8 0973 45/8",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.109.2024.APA"
+}
+},
+{
+"d": "2024-07-19",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę dwóch budynków jednorodzinnych w zabudowie bliźniaczej z garażami w bryłach budynków, budową drogi dojazdowej oraz elementów zagospodarowaniem terenu i infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "P4P Sp.z o.o.",
+"nier": "Kuropatwy",
+"dz": "146513_8 0973 45/39",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.109.2024.APA"
+}
+},
+{
+"d": "2024-07-19",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę dwóch budynków jednorodzinnych w zabudowie bliźniaczej z garażami w bryłach budynków oraz zagospodarowaniem terenu i infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "P4P Sp.z o.o.",
+"nier": "Kuropatwy",
+"dz": "146513_8 0973 45/37",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.110.2024.APA"
+}
+},
+{
+"d": "2024-07-16",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbiórkę obiektów budowlanych - budynku garażowego z kotłownią, kominem murowanym, ścianek fundamentowych po 2 szklarniach oraz osadnika z kręgów betonowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "Porta Silva Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 0953 39",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6741.8.2024.APA"
+}
+},
+{
+"d": "2024-07-16",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę dwóch budynków mieszkalnych wielorodzinnych z lokalami usługami w parterze, garażami podziemnymi, zagospodarowaniem terenu i infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "OAK Project 1 Sp.zo.o.",
+"nier": "",
+"dz": "146513_8 0818 4/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.138.2021.ABO - ponowne rozpatrzenie"
+}
+},
+{
+"d": "2024-07-16",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę dwóch budynków mieszkalnych wielorodzinnych z lokalami usługami w parterze, garażami podziemnymi, zagospodarowaniem terenu i infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "OAK Project 1 Sp.zo.o.",
+"nier": "",
+"dz": "146513_8 0818 5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.138.2021.ABO - ponowne rozpatrzenie"
+}
+},
+{
+"d": "2024-07-16",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę dwóch budynków mieszkalnych wielorodzinnych z lokalami usługami w parterze, garażami podziemnymi, zagospodarowaniem terenu i infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "OAK Project 1 Sp.zo.o.",
+"nier": "",
+"dz": "146513_8 0818 6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.138.2021.ABO - ponowne rozpatrzenie"
+}
+},
+{
+"d": "2024-07-16",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę dwóch budynków mieszkalnych wielorodzinnych z lokalami usługami w parterze, garażami podziemnymi, zagospodarowaniem terenu i infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "OAK Project 1 Sp.zo.o.",
+"nier": "",
+"dz": "146513_8 0818 10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.138.2021.ABO - ponowne rozpatrzenie"
+}
+},
+{
+"d": "2024-07-16",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę dwóch budynków mieszkalnych wielorodzinnych z lokalami usługami w parterze, garażami podziemnymi, zagospodarowaniem terenu i infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "OAK Project 1 Sp.zo.o.",
+"nier": "",
+"dz": "146513_8 0818 24",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.138.2021.ABO - ponowne rozpatrzenie"
+}
+},
+{
+"d": "2024-07-16",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę dwóch budynków mieszkalnych wielorodzinnych z lokalami usługami w parterze, garażami podziemnymi, zagospodarowaniem terenu i infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "OAK Project 1 Sp.zo.o.",
+"nier": "",
+"dz": "146513_8 0818 23/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.138.2021.ABO - ponowne rozpatrzenie"
+}
+},
+{
+"d": "2024-07-16",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę dwóch budynków mieszkalnych wielorodzinnych z lokalami usługami w parterze, garażami podziemnymi, zagospodarowaniem terenu i infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "OAK Project 1 Sp.zo.o.",
+"nier": "",
+"dz": "146513_8 0818 28/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.138.2021.ABO - ponowne rozpatrzenie"
+}
+},
+{
+"d": "2024-07-15",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku mieszkalnego jednorodzinnego z garażem w bryle budynku z elementami zagospodarowania terenu oraz niezbędną infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0977 8/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.108.2024.BSE"
+}
+},
+{
+"d": "2024-07-12",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę wewnętrznej ściany konstrukcyjnej lokalu mieszkalnego w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1016 8/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.105.2024.BSE"
+}
+},
+{
+"d": "2024-07-12",
+"c": {
+"inw": "Wniosek o pozwolenie na roboty budowlane obejmujące budowę instalacji gazowej do lokalu usługowego nr K-4 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "FORT 8 Sp z o.o.",
+"nier": "",
+"dz": "146513_8 1003 4/38",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.106.2024.BŁA"
+}
+},
+{
+"d": "2024-07-11",
+"c": {
+"inw": "Wniosek o zmianę dec.85/D/2023 z 24.07.2023 -budowa budynku mieszkalnego jednorodzinnego wolnostoj.wraz z infr.techn.i elem.zagosp.terenu oraz budowa fragmentu wewnętrznej drogi dojazdowej (ciągu piesz-jezdnego) wg projektu zamiennego zakresie budowy wewn.inst.gazowej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0962 1/11",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.104.2024.BSE"
+}
+},
+{
+"d": "2024-07-11",
+"c": {
+"inw": "Wniosek o zmianę dec.85/D/2023 z 24.07.2023 -budowa budynku mieszkalnego jednorodzinnego wolnostoj.wraz z infr.techn.i elem.zagosp.terenu oraz budowa fragmentu wewnętrznej drogi dojazdowej (ciągu piesz-jezdnego) wg projektu zamiennego zakresie budowy wewn.inst.gazowej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0957 26/7",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.104.2024.BSE"
+}
+},
+{
+"d": "2024-07-11",
+"c": {
+"inw": "Wniosek o zmianę dec.85/D/2023 z 24.07.2023 -budowa budynku mieszkalnego jednorodzinnego wolnostoj.wraz z infr.techn.i elem.zagosp.terenu oraz budowa fragmentu wewnętrznej drogi dojazdowej (ciągu piesz-jezdnego) wg projektu zamiennego zakresie budowy wewn.inst.gazowej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0957 27/10",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.104.2024.BSE"
+}
+},
+{
+"d": "2024-07-11",
+"c": {
+"inw": "Wniosek o zmianę dec.85/D/2023 z 24.07.2023 -budowa budynku mieszkalnego jednorodzinnego wolnostoj.wraz z infr.techn.i elem.zagosp.terenu oraz budowa fragmentu wewnętrznej drogi dojazdowej (ciągu piesz-jezdnego) wg projektu zamiennego zakresie budowy wewn.inst.gazowej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0957 27/7",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.104.2024.BSE"
+}
+},
+{
+"d": "2024-07-11",
+"c": {
+"inw": "Wniosek o zmianę dec.85/D/2023 z 24.07.2023 -budowa budynku mieszkalnego jednorodzinnego wolnostoj.wraz z infr.techn.i elem.zagosp.terenu oraz budowa fragmentu wewnętrznej drogi dojazdowej (ciągu piesz-jezdnego) wg projektu zamiennego zakresie budowy wewn.inst.gazowej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0957 27/9",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.104.2024.BSE"
+}
+},
+{
+"d": "2024-07-11",
+"c": {
+"inw": "Wniosek o zmianę dec.85/D/2023 z 24.07.2023 -budowa budynku mieszkalnego jednorodzinnego wolnostoj.wraz z infr.techn.i elem.zagosp.terenu oraz budowa fragmentu wewnętrznej drogi dojazdowej (ciągu piesz-jezdnego) wg projektu zamiennego zakresie budowy wewn.inst.gazowej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0957 51",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.104.2024.BSE"
+}
+},
+{
+"d": "2024-07-10",
+"c": {
+"inw": "Wniosek o pozwolenie na wykonanie robót budowlanych polegających na o pozwolenie na wykonanie robót budowlanych polegających na przebudowie lokalu dwupoziomowego na dwa lokale jednopoziomowe mieszkalne wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1105 4/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.103.2024.MLA"
+}
+},
+{
+"d": "2024-07-09",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę i rozbudowę budynku mieszkalnego jednorodzinnego w zabudowie szeregowej wraz z wewnętrzną instalacją gazową rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.102.2024.MLA"
+}
+},
+{
+"d": "2024-07-06",
+"c": {
+"inw": "Wniosek o pozwolenie na wykonanie robót budowlanych polegających na rozbudowie budynku mieszkalnego wielorodzinnego polegająca na dobudowie balkonów na 1, 2 i 3 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SM \"Przy Metrze\"",
+"nier": "",
+"dz": "146513_8 1106 18/20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.101.2024.MLA"
+}
+},
+{
+"d": "2024-07-01",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbiórkę parterowego domu drewnianego bez podpiwniczenia mieszkalnego jednorodzinnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "126513_8 0834 97/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6741.7.2024.ABR"
+}
+},
+{
+"d": "2024-06-26",
+"c": {
+"inw": "Wniosek o pozwolenie na remont części stacji o nr inw. 128/18 na terenie Toru Wyścigów Konnych na Służewcu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Totalizator Sportowy Sp.z o.o",
+"nier": "",
+"dz": "146513_8 0815 36",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.97.2024.ABO"
+}
+},
+{
+"d": "2024-06-24",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę abonenckiej słupowej stacji transformatorowej SN/nn 15/0,4kV wraz z elektroenergetyczną siecią kablową SN 15 kV oraz przebudową wewnętrznej linii zasilającej nn 0,4 kV budowa nowego/nowych obiektów budowlanych",
+"wn": "Dom Volvo Car Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 0972 42/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.96.2024.BSE"
+}
+},
+{
+"d": "2024-06-24",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę abonenckiej słupowej stacji transformatorowej SN/nn 15/0,4kV wraz z elektroenergetyczną siecią kablową SN 15 kV oraz przebudową wewnętrznej linii zasilającej nn 0,4 kV budowa nowego/nowych obiektów budowlanych",
+"wn": "Dom Volvo Car Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 0972 42/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.96.2024.BSE"
+}
+},
+{
+"d": "2024-06-20",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbiórkę dwóch budynków mieszkalnych jednorodzinnych wolnostojących rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0834 98/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6741.6.2024.ABR"
+}
+},
+{
+"d": "2024-06-19",
+"c": {
+"inw": "Wniosek o pozwolenie na zmianę sposobu użytkowania lokalu biurowego na dwa lokale mieszkalne wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warsfoll Zyśk, Tarnowicz Sp.j.",
+"nier": "",
+"dz": "146513_8 1111 44/17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.94.2024.MMA"
+}
+},
+{
+"d": "2024-06-19",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku mieszkalnego jednorodzinnego wolno stojącego wraz z infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0977 44",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.93.2024.BSE"
+}
+},
+{
+"d": "2024-06-19",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku mieszkalnego jednorodzinnego wolno stojącego wraz z infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0977 45",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.93.2024.BSE"
+}
+},
+{
+"d": "2024-06-19",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku mieszkalnego jednorodzinnego wolno stojącego wraz z infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0977 6/4",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.93.2024.BSE"
+}
+},
+{
+"d": "2024-05-28",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbiórkę budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0952 89/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6741.5.2024.MMA"
+}
+},
+{
+"d": "2024-05-24",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku mieszkalnego jednorodzinnego dwulokalowego wolnostojącego wraz z urządzeniami i elementami zagospodarowania terenu oraz drogą wewnętrzną w postaci ciągu pieszo-jezdnego budowa nowego/nowych obiektów budowlanych",
+"wn": "\"Madison\" Development Sp.z o.o.",
+"nier": "Katarynki",
+"dz": "146513_8 0977 3/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.84.2024.BSE"
+}
+},
+{
+"d": "2024-05-24",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku mieszkalnego jednorodzinnego dwulokalowego wolnostojącego wraz z urządzeniami i elementami zagospodarowania terenu oraz drogą wewnętrzną w postaci ciągu pieszo-jezdnego budowa nowego/nowych obiektów budowlanych",
+"wn": "\"Madison\" Development Sp.z o.o.",
+"nier": "Katarynki",
+"dz": "146513_8 0977 3/7",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.84.2024.BSE"
+}
+},
+{
+"d": "2024-05-23",
+"c": {
+"inw": "Wniosek o rozbiórkę - usunięcie kolizji słupa elektroenergetycznego oraz linii napowietrznej nN rozbiórka istniejącego obiektu budowlanego",
+"wn": "Stoen Operator Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 1077 84/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6741.3.2024.BSE"
+}
+},
+{
+"d": "2024-05-23",
+"c": {
+"inw": "Wniosek o rozbiórkę - usunięcie kolizji słupa elektroenergetycznego oraz linii napowietrznej nN rozbiórka istniejącego obiektu budowlanego",
+"wn": "Stoen Operator Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 1077 70/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6741.3.2024.BSE"
+}
+},
+{
+"d": "2024-05-23",
+"c": {
+"inw": "Wniosek o rozbiórkę - usunięcie kolizji słupa elektroenergetycznego oraz linii napowietrznej nN rozbiórka istniejącego obiektu budowlanego",
+"wn": "Stoen Operator Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 1077 70/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6741.3.2024.BSE"
+}
+},
+{
+"d": "2024-05-23",
+"c": {
+"inw": "Wniosek o rozbiórkę - usunięcie kolizji słupa elektroenergetycznego oraz linii napowietrznej nN rozbiórka istniejącego obiektu budowlanego",
+"wn": "Stoen Operator Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 1077 81/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6741.3.2024.BSE"
+}
+},
+{
+"d": "2024-05-21",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku mieszkalnego jednorodzinnego dwulokalowego w zabudowie wolnostojącej budowa nowego/nowych obiektów budowlanych",
+"wn": "DTM BUDOWNICTWO Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 0835 31/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.83.2024.ABR"
+}
+},
+{
+"d": "2024-05-21",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę instalacji gazowych dla lokali mieszkalnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1004 28/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.82.2024.BŁA"
+}
+},
+{
+"d": "2024-05-17",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1117 74/7",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.89.2023.ABR - PONOWNE ROZPATRZENIE"
+}
+},
+{
+"d": "2024-05-17",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1117 74/5",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.89.2023.ABR - PONOWNE ROZPATRZENIE"
+}
+},
+{
+"d": "2024-05-09",
+"c": {
+"inw": "Wniosek o pozwolenie na remont dachu z ociepleniem stropu nad parterem budynku na terenie Toru Wyścigów Konnych na Służewcu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Totalizator Sportowy Sp.z o.o.",
+"nier": "Puławska",
+"dz": "146513_8 0815 33/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.81.2024.MLA"
+}
+},
+{
+"d": "2024-05-07",
+"c": {
+"inw": "Wniosek o zmianę dec.157/D/2023 z 08.12.2023 r. - pozwolenie na budowę instalacji gazowej dla projektowanego budynku mieszkalnego jednorodzinnego wg projektu zamiennego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Pistacjowa 15",
+"dz": "146513_8 1035 24/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.79.2024.MLA"
+}
+},
+{
+"d": "2024-05-01",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku mieszkalnego jednorodzinnego wraz z urządzeniami budowlanymi, w tym zbiornikiem na nieczystości ciekłe (szambo szczelne) budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Fosa",
+"dz": "146513_8 1004 12",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.77.2024.BŁA"
+}
+},
+{
+"d": "2024-05-01",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbiórkę dwóch budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej oraz budynku garażowego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1004 12",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6741.2.2024.BŁA"
+}
+},
+{
+"d": "2024-04-29",
+"c": {
+"inw": "Wniosek o zmianę dec.44/D/2023 - przebudowa z rozbudową istniejącego budynku handlowego z parkingiem i infrastrukturą towarzyszącą wg projektu zamiennego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "LIDL Sp.z o.o.",
+"nier": "Pileckiego / rtm. Witolda",
+"dz": "146513_8 1079 49/42",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.72.2024.EBE"
+}
+},
+{
+"d": "2024-04-29",
+"c": {
+"inw": "Wniosek o zmianę dec.44/D/2023 - przebudowa z rozbudową istniejącego budynku handlowego z parkingiem i infrastrukturą towarzyszącą wg projektu zamiennego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "LIDL Sp.z o.o.",
+"nier": "Pileckiego / rtm. Witolda",
+"dz": "146513_8 1079 49/51",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.72.2024.EBE"
+}
+},
+{
+"d": "2024-04-29",
+"c": {
+"inw": "Wniosek o zmianę dec.44/D/2023 - przebudowa z rozbudową istniejącego budynku handlowego z parkingiem i infrastrukturą towarzyszącą wg projektu zamiennego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "LIDL Sp.z o.o.",
+"nier": "Pileckiego / rtm. Witolda",
+"dz": "146513_8 1079 48/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.72.2024.EBE"
+}
+},
+{
+"d": "2024-04-29",
+"c": {
+"inw": "Wniosek o zmianę dec.44/D/2023 - przebudowa z rozbudową istniejącego budynku handlowego z parkingiem i infrastrukturą towarzyszącą wg projektu zamiennego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "LIDL Sp.z o.o.",
+"nier": "Pileckiego / rtm. Witolda",
+"dz": "146513_8 1079 58/18",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.72.2024.EBE"
+}
+},
+{
+"d": "2024-04-29",
+"c": {
+"inw": "Wniosek o zmianę dec.44/D/2023 - przebudowa z rozbudową istniejącego budynku handlowego z parkingiem i infrastrukturą towarzyszącą wg projektu zamiennego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "LIDL Sp.z o.o.",
+"nier": "Pileckiego / rtm. Witolda",
+"dz": "146513_8 1079 58/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.72.2024.EBE"
+}
+},
+{
+"d": "2024-04-22",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku samorządowej instytucji kultury tj. Miejsca Aktywności Lokalnej wraz z zagospodarowaniem terenu i niezbędną infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa",
+"nier": "",
+"dz": "146513_8 0962 75/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.67.2024.ABO"
+}
+},
+{
+"d": "2024-04-22",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku samorządowej instytucji kultury tj. Miejsca Aktywności Lokalnej wraz z zagospodarowaniem terenu i niezbędną infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa",
+"nier": "",
+"dz": "146513_8 0962 75/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.67.2024.ABO"
+}
+},
+{
+"d": "2024-04-22",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku samorządowej instytucji kultury tj. Miejsca Aktywności Lokalnej wraz z zagospodarowaniem terenu i niezbędną infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa",
+"nier": "",
+"dz": "146513_8 0962 75/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.67.2024.ABO"
+}
+},
+{
+"d": "2024-04-22",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku samorządowej instytucji kultury tj. Miejsca Aktywności Lokalnej wraz z zagospodarowaniem terenu i niezbędną infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa",
+"nier": "",
+"dz": "146513_8 0962 75/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.67.2024.ABO"
+}
+},
+{
+"d": "2024-04-22",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę otworu okiennego w elewacji budynku mieszkalnego wielorodzinnego w części przyległej do lokalu mieszkalnego nr 2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1114 195",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.66.2024.MLA"
+}
+},
+{
+"d": "2024-04-19",
+"c": {
+"inw": "Wniosek o pozwolenie na remont elewacji i chodników wraz z robotami towarzyszącymi dwóch budynków mieszkalnych o nr ew.51/16 i 52/16 na terenie TWKS wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Totalizator Sportowy Sp.z o.o.",
+"nier": "Puławska",
+"dz": "146513_8 0815 33/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.65.2024.ABO"
+}
+},
+{
+"d": "2024-04-11",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbiórkę budynku mieszkalnego jednorodzinnego i budynku garażowego rozbiórka istniejącego obiektu budowlanego",
+"wn": "DTM Budownictwo Sp.z o.o.",
+"nier": "Krasnowolska",
+"dz": "146513_8 0835 31/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6741.1.2024.ABR"
+}
+},
+{
+"d": "2024-04-08",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę stalowego masztu kratowego instalacji T-Mobile Polska S.A.nr WWA_WARSZAWA _BALETOW115/81061 polegająca na wymianie konstrukcji trzonu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "T-Mobile Polska S.A.",
+"nier": "",
+"dz": "146513_8 0947 26",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.63.2024.MMA"
+}
+},
+{
+"d": "2024-04-08",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę lokalu mieszkalnego zlokalizowanego w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Villardczyków",
+"dz": "146513_8 1110 7/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.62.2024.PFE"
+}
+},
+{
+"d": "2024-03-28",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę lokalu mieszkalnego budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1027 4/17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.54.2024.MLA"
+}
+},
+{
+"d": "2024-03-18",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę otworu drzwiowego w wewnętrznej ścianie konstrukcyjnej w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1074 108",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.46.2024.MLA"
+}
+},
+{
+"d": "2024-03-11",
+"c": {
+"inw": "Wniosek o zmianę dec.115/D/2023 - budowa dwóch instalacji gazowych dla dwóch budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej wg projektu zamiennego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Pozytywki",
+"dz": "146513_8 0972 31/4",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.44.2024.BSE"
+}
+},
+{
+"d": "2024-03-07",
+"c": {
+"inw": "Wniosek o pozwolenie na powiększenie otworów w elewacji budynku U2 - dla bramy i drzwi wraz z daszkami, w parterze przy osi 22, między osiami A-C wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CH Warszawa U Sp.z o.o.",
+"nier": "Puławska 427",
+"dz": "146513_8 1077 26/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.39.2024.ABO"
+}
+},
+{
+"d": "2024-03-07",
+"c": {
+"inw": "Wniosek o pozwolenie na powiększenie otworów w elewacji budynku U2 - dla bramy i drzwi wraz z daszkami, w parterze przy osi 22, między osiami A-C wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CH Warszawa U Sp.z o.o.",
+"nier": "Puławska 427",
+"dz": "146513_8 1077 26/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.39.2024.ABO"
+}
+},
+{
+"d": "2024-03-07",
+"c": {
+"inw": "Wniosek o pozwolenie na powiększenie otworów w elewacji budynku U2 - dla bramy i drzwi wraz z daszkami, w parterze przy osi 22, między osiami A-C wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CH Warszawa U Sp.z o.o.",
+"nier": "Puławska 427",
+"dz": "146513_8 1077 26/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.39.2024.ABO"
+}
+},
+{
+"d": "2024-03-05",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku hotelowego wraz z infrastrukturą techniczną i elementami zagospodarowania terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "Cieślak Trade Sp.K.",
+"nier": "Poleczki 78",
+"dz": "146513_8 0821 5/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.41.2024.ABO"
+}
+},
+{
+"d": "2024-03-01",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę zespołu 10 budynków mieszkalnych jednorodzinnych (dwulokalowych) w zabudowie bliźniaczej wraz z infrastrukturą techniczną i elementami zagospodarowania terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "Prestiż Dom Sp.z o.o.",
+"nier": "Sarabandy",
+"dz": "146513_8 0966 20",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.36.2024.MMA"
+}
+},
+{
+"d": "2024-02-29",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku mieszkalnego jednorodzinnego, wolnostojacego z garażem w bryle budynku wraz z infrastrukturą techniczną i zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0939 12",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.30.2024.MMA"
+}
+},
+{
+"d": "2024-02-29",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku mieszkalnego jednorodzinnego, wolnostojacego z garażem w bryle budynku wraz z infrastrukturą techniczną i zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0939 7/46",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.30.2024.MMA"
+}
+},
+{
+"d": "2024-02-29",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku mieszkalnego jednorodzinnego, wolnostojacego z garażem w bryle budynku wraz z infrastrukturą techniczną i zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0939 7/43",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.30.2024.MMA"
+}
+},
+{
+"d": "2024-02-29",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę - wykonanie oddymiania klatki schodowej K-4 oraz szybów windowych w bloku \"2a\" wraz z integracją z istniejącym systemem SSP wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Instytut Hematologii i Transfuzjologii",
+"nier": "Gandhi 14 / Indiry",
+"dz": "146513_8 1075 2/71",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.34.2024.BSE"
+}
+},
+{
+"d": "2024-02-29",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę - wykonanie oddymiania klatki schodowej K-4 oraz szybów windowych w bloku \"2a\" wraz z integracją z istniejącym systemem SSP wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Instytut Hematologii i Transfuzjologii",
+"nier": "Gandhi 14 / Indiry",
+"dz": "146513_8 1075 2/39",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.34.2024.BSE"
+}
+},
+{
+"d": "2024-02-29",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę - wykonanie oddymiania klatki schodowej K-4 oraz szybów windowych w bloku \"2a\" wraz z integracją z istniejącym systemem SSP wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Instytut Hematologii i Transfuzjologii",
+"nier": "Gandhi 14 / Indiry",
+"dz": "146513_8 1075 276",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.34.2024.BSE"
+}
+},
+{
+"d": "2024-02-28",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbudowę istniejącej stacji paliw Circle K o zbiornik AdBlue z dystrybutorami wraz z instalacjami podziemnymi oraz przyłączeniami mediów do sieci wewnątrzzakładowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CIRCLE K POLSKA Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 0824 34",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.37.2024.ABO"
+}
+},
+{
+"d": "2024-02-28",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbudowę istniejącej stacji paliw Circle K o zbiornik AdBlue z dystrybutorami wraz z instalacjami podziemnymi oraz przyłączeniami mediów do sieci wewnątrzzakładowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CIRCLE K POLSKA Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 0824 37",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.37.2024.ABO"
+}
+},
+{
+"d": "2024-02-27",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku jednorodzinnego wolnostojącego wraz z instalacją gazową oraz drogi dojazdowej wraz z infrastrukturą techniczną i elementami zagospodarowania terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1213 26/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.32.2024.BSE"
+}
+},
+{
+"d": "2024-02-27",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku jednorodzinnego wolnostojącego wraz z instalacją gazową oraz drogi dojazdowej wraz z infrastrukturą techniczną i elementami zagospodarowania terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1213 28",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.32.2024.BSE"
+}
+},
+{
+"d": "2024-02-27",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku jednorodzinnego wolnostojącego wraz z instalacją gazową oraz drogi dojazdowej wraz z infrastrukturą techniczną i elementami zagospodarowania terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1213 31/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.32.2024.BSE"
+}
+},
+{
+"d": "2024-02-27",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku jednorodzinnego wolnostojącego wraz z instalacją gazową oraz drogi dojazdowej wraz z infrastrukturą techniczną i elementami zagospodarowania terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1213 32/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.32.2024.BSE"
+}
+},
+{
+"d": "2024-02-27",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku mieszkalnego wielorodzinnego z usługami w parterze, garażem podziemnym i zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "SBM \"Vistula\"",
+"nier": "Jastrzębowskiego 3 / Wojciecha Bogumiła",
+"dz": "146513_8 1009 10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.29.2024.BŁA"
+}
+},
+{
+"d": "2024-02-26",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę sieci elektroenergetycznej SN 15kV na części działek budowa nowego/nowych obiektów budowlanych",
+"wn": "STOEN Operator Sp z o.o.",
+"nier": "Kłobucka",
+"dz": "146513_8 0814 9/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.28.2024.ABO"
+}
+},
+{
+"d": "2024-02-26",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę sieci elektroenergetycznej SN 15kV na części działek budowa nowego/nowych obiektów budowlanych",
+"wn": "STOEN Operator Sp z o.o.",
+"nier": "Kłobucka",
+"dz": "146513_8 0814 9/40",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.28.2024.ABO"
+}
+},
+{
+"d": "2024-02-26",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę sieci elektroenergetycznej SN 15kV na części działek budowa nowego/nowych obiektów budowlanych",
+"wn": "STOEN Operator Sp z o.o.",
+"nier": "Kłobucka",
+"dz": "146513_8 0814 18",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.28.2024.ABO"
+}
+},
+{
+"d": "2024-02-21",
+"c": {
+"inw": "Wniosek o zmianę dec.58/D/22 z 06.04.2022 r. - budynek mieszkalny wielorodzinny z usługami i garażem podziemnym oraz towarzyszącą infrastrukturą i zagospodarowaniem terenu według projektu zamiennego budowa nowego/nowych obiektów budowlanych",
+"wn": "Spółdzielnia Mieszkaniowa \"Wyżyny\"",
+"nier": "",
+"dz": "146513_8 1104 3/38",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.25.2024.ABR"
+}
+},
+{
+"d": "2024-02-21",
+"c": {
+"inw": "Wniosek o zmianę dec.58/D/22 z 06.04.2022 r. - budynek mieszkalny wielorodzinny z usługami i garażem podziemnym oraz towarzyszącą infrastrukturą i zagospodarowaniem terenu według projektu zamiennego budowa nowego/nowych obiektów budowlanych",
+"wn": "Spółdzielnia Mieszkaniowa \"Wyżyny\"",
+"nier": "",
+"dz": "146513_8 1104 3/46",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.25.2024.ABR"
+}
+},
+{
+"d": "2024-02-14",
+"c": {
+"inw": "Wniosek o wydanie pozwolenia na budowę instalacji fotowoltaicznej o łącznej mocy do 1200 kW wraz z infrastrukturą towarzyszącą na pięciu budynkach biurowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poleczki Development Sp. z o.o.",
+"nier": "",
+"dz": "146513_8 0821 20/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.24.2024.ABO"
+}
+},
+{
+"d": "2024-02-14",
+"c": {
+"inw": "Wniosek o wydanie pozwolenia na budowę instalacji fotowoltaicznej o łącznej mocy do 1200 kW wraz z infrastrukturą towarzyszącą na pięciu budynkach biurowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poleczki Development Sp. z o.o.",
+"nier": "",
+"dz": "146513_8 0821 42",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.24.2024.ABO"
+}
+},
+{
+"d": "2024-02-14",
+"c": {
+"inw": "Wniosek o wydanie pozwolenia na budowę instalacji fotowoltaicznej o łącznej mocy do 1200 kW wraz z infrastrukturą towarzyszącą na pięciu budynkach biurowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poleczki Development Sp. z o.o.",
+"nier": "",
+"dz": "146513_8 0821 43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.24.2024.ABO"
+}
+},
+{
+"d": "2024-02-14",
+"c": {
+"inw": "Wniosek o wydanie pozwolenia na budowę instalacji fotowoltaicznej o łącznej mocy do 1200 kW wraz z infrastrukturą towarzyszącą na pięciu budynkach biurowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poleczki Development Sp. z o.o.",
+"nier": "",
+"dz": "146513_8 0821 44",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.24.2024.ABO"
+}
+},
+{
+"d": "2024-02-14",
+"c": {
+"inw": "Wniosek o wydanie pozwolenia na budowę instalacji fotowoltaicznej o łącznej mocy do 1200 kW wraz z infrastrukturą towarzyszącą na pięciu budynkach biurowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poleczki Development Sp. z o.o.",
+"nier": "",
+"dz": "146513_8 0821 45",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.24.2024.ABO"
+}
+},
+{
+"d": "2024-02-14",
+"c": {
+"inw": "Wniosek o wydanie pozwolenia na budowę instalacji fotowoltaicznej o łącznej mocy do 1200 kW wraz z infrastrukturą towarzyszącą na pięciu budynkach biurowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poleczki Development Sp. z o.o.",
+"nier": "",
+"dz": "146513_8 0821 46",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.24.2024.ABO"
+}
+},
+{
+"d": "2024-02-14",
+"c": {
+"inw": "Wniosek o wydanie pozwolenia na budowę instalacji fotowoltaicznej o łącznej mocy do 1200 kW wraz z infrastrukturą towarzyszącą na pięciu budynkach biurowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poleczki Development Sp. z o.o.",
+"nier": "",
+"dz": "146513_8 0821 47",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.24.2024.ABO"
+}
+},
+{
+"d": "2024-02-14",
+"c": {
+"inw": "Wniosek o wydanie pozwolenia na budowę instalacji fotowoltaicznej o łącznej mocy do 1200 kW wraz z infrastrukturą towarzyszącą na pięciu budynkach biurowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poleczki Development Sp. z o.o.",
+"nier": "",
+"dz": "146513_8 0821 48",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.24.2024.ABO"
+}
+},
+{
+"d": "2024-02-14",
+"c": {
+"inw": "Wniosek o wydanie pozwolenia na budowę instalacji fotowoltaicznej o łącznej mocy do 1200 kW wraz z infrastrukturą towarzyszącą na pięciu budynkach biurowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poleczki Development Sp. z o.o.",
+"nier": "",
+"dz": "146513_8 0821 53",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.24.2024.ABO"
+}
+},
+{
+"d": "2024-02-14",
+"c": {
+"inw": "Wniosek o wydanie pozwolenia na budowę instalacji fotowoltaicznej o łącznej mocy do 1200 kW wraz z infrastrukturą towarzyszącą na pięciu budynkach biurowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poleczki Development Sp. z o.o.",
+"nier": "",
+"dz": "146513_8 0821 54",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.24.2024.ABO"
+}
+},
+{
+"d": "2024-02-14",
+"c": {
+"inw": "Wniosek o wydanie pozwolenia na budowę instalacji fotowoltaicznej o łącznej mocy do 1200 kW wraz z infrastrukturą towarzyszącą na pięciu budynkach biurowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poleczki Development Sp. z o.o.",
+"nier": "",
+"dz": "146513_8 0821 55",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.24.2024.ABO"
+}
+},
+{
+"d": "2024-02-14",
+"c": {
+"inw": "Wniosek o wydanie pozwolenia na budowę instalacji fotowoltaicznej o łącznej mocy do 1200 kW wraz z infrastrukturą towarzyszącą na pięciu budynkach biurowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poleczki Development Sp. z o.o.",
+"nier": "",
+"dz": "146513_8 0821 56",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.24.2024.ABO"
+}
+},
+{
+"d": "2024-02-14",
+"c": {
+"inw": "Wniosek o wydanie pozwolenia na budowę instalacji fotowoltaicznej o łącznej mocy do 1200 kW wraz z infrastrukturą towarzyszącą na pięciu budynkach biurowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poleczki Development Sp. z o.o.",
+"nier": "",
+"dz": "146513_8 0821 57",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.24.2024.ABO"
+}
+},
+{
+"d": "2024-02-14",
+"c": {
+"inw": "Wniosek o wydanie pozwolenia na budowę instalacji fotowoltaicznej o łącznej mocy do 1200 kW wraz z infrastrukturą towarzyszącą na pięciu budynkach biurowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poleczki Development Sp. z o.o.",
+"nier": "",
+"dz": "146513_8 0821 60",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.24.2024.ABO"
+}
+},
+{
+"d": "2024-02-14",
+"c": {
+"inw": "Wniosek o wydanie pozwolenia na budowę instalacji fotowoltaicznej o łącznej mocy do 1200 kW wraz z infrastrukturą towarzyszącą na pięciu budynkach biurowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poleczki Development Sp. z o.o.",
+"nier": "",
+"dz": "146513_8 0821 61",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.24.2024.ABO"
+}
+},
+{
+"d": "2024-02-14",
+"c": {
+"inw": "Wniosek o wydanie pozwolenia na budowę instalacji fotowoltaicznej o łącznej mocy do 1200 kW wraz z infrastrukturą towarzyszącą na pięciu budynkach biurowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poleczki Development Sp. z o.o.",
+"nier": "",
+"dz": "146513_8 0821 62",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.24.2024.ABO"
+}
+},
+{
+"d": "2024-02-14",
+"c": {
+"inw": "Wniosek o wydanie pozwolenia na budowę instalacji fotowoltaicznej o łącznej mocy do 1200 kW wraz z infrastrukturą towarzyszącą na pięciu budynkach biurowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poleczki Development Sp. z o.o.",
+"nier": "",
+"dz": "146513_8 0821 63",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.24.2024.ABO"
+}
+},
+{
+"d": "2024-02-14",
+"c": {
+"inw": "Wniosek o wydanie pozwolenia na budowę instalacji fotowoltaicznej o łącznej mocy do 1200 kW wraz z infrastrukturą towarzyszącą na pięciu budynkach biurowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poleczki Development Sp. z o.o.",
+"nier": "",
+"dz": "146513_8 0821 70",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.24.2024.ABO"
+}
+},
+{
+"d": "2024-02-14",
+"c": {
+"inw": "Wniosek o wydanie pozwolenia na budowę instalacji fotowoltaicznej o łącznej mocy do 1200 kW wraz z infrastrukturą towarzyszącą na pięciu budynkach biurowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poleczki Development Sp. z o.o.",
+"nier": "",
+"dz": "146513_8 0821 71",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.24.2024.ABO"
+}
+},
+{
+"d": "2024-02-14",
+"c": {
+"inw": "Wniosek o wydanie pozwolenia na budowę instalacji fotowoltaicznej o łącznej mocy do 1200 kW wraz z infrastrukturą towarzyszącą na pięciu budynkach biurowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poleczki Development Sp. z o.o.",
+"nier": "",
+"dz": "146513_8 0821 72",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.24.2024.ABO"
+}
+},
+{
+"d": "2024-02-14",
+"c": {
+"inw": "Wniosek o wydanie pozwolenia na budowę instalacji fotowoltaicznej o łącznej mocy do 1200 kW wraz z infrastrukturą towarzyszącą na pięciu budynkach biurowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poleczki Development Sp. z o.o.",
+"nier": "",
+"dz": "146513_8 0821 73",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.24.2024.ABO"
+}
+},
+{
+"d": "2024-02-14",
+"c": {
+"inw": "Wniosek o wydanie pozwolenia na budowę instalacji fotowoltaicznej o łącznej mocy do 1200 kW wraz z infrastrukturą towarzyszącą na pięciu budynkach biurowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poleczki Development Sp. z o.o.",
+"nier": "",
+"dz": "146513_8 0821 75",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.24.2024.ABO"
+}
+},
+{
+"d": "2024-02-14",
+"c": {
+"inw": "Wniosek o wydanie pozwolenia na budowę instalacji fotowoltaicznej o łącznej mocy do 1200 kW wraz z infrastrukturą towarzyszącą na pięciu budynkach biurowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poleczki Development Sp. z o.o.",
+"nier": "",
+"dz": "146513_8 0821 76",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.24.2024.ABO"
+}
+},
+{
+"d": "2024-02-14",
+"c": {
+"inw": "Wniosek o wydanie pozwolenia na budowę instalacji fotowoltaicznej o łącznej mocy do 1200 kW wraz z infrastrukturą towarzyszącą na pięciu budynkach biurowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poleczki Development Sp. z o.o.",
+"nier": "",
+"dz": "146513_8 0821 79",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.24.2024.ABO"
+}
+},
+{
+"d": "2024-02-13",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę, remont i docieplenie budynku usługowego z pom. Biurowymi ze zmianą sposobu użytkowania części parteru na pom.labolatoryjne oraz piwnicy na biokomorę i kotłownię gazową wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polska Akademia Nauk- Ogród Botaniczny-Centrum Zachowania Różnorodności Biologicznej w Powsinie",
+"nier": "Prawdziwka",
+"dz": "146513_8 1215 3/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.21.2024.APA"
+}
+},
+{
+"d": "2024-02-06",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę dwóch budynków jednorodzinnych w zabudowie bliźniaczej wraz z budową infrastruktury technicznej i dojazdu do działki budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Katarynki",
+"dz": "146513_8 0977 26/4",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.19.2024.BSE"
+}
+},
+{
+"d": "2024-02-06",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę dwóch budynków jednorodzinnych w zabudowie bliźniaczej wraz z budową infrastruktury technicznej i dojazdu do działki budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Katarynki",
+"dz": "146513_8 0977 26/6",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.19.2024.BSE"
+}
+},
+{
+"d": "2024-02-06",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę wraz ze zmianą sposobu użytkowania z funkcji magazynowej na potrzeby Ośrodka Badawczo-Rozwojowego w osiach: A-D/1-13 w istniejącym budynku hali magazynowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakłady Farmaceutyczne \"POLFARMA\" S.A.",
+"nier": "Osmańska 7",
+"dz": "146513_8 0820 30",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.17.2024.ABO"
+}
+},
+{
+"d": "2024-02-06",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę wraz ze zmianą sposobu użytkowania z funkcji magazynowej na potrzeby Ośrodka Badawczo-Rozwojowego w osiach: A-D/1-13 w istniejącym budynku hali magazynowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakłady Farmaceutyczne \"POLFARMA\" S.A.",
+"nier": "Osmańska 7",
+"dz": "146513_8 0820 26/23",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.17.2024.ABO"
+}
+},
+{
+"d": "2024-02-06",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę wraz ze zmianą sposobu użytkowania z funkcji magazynowej na potrzeby Ośrodka Badawczo-Rozwojowego w osiach: A-D/1-13 w istniejącym budynku hali magazynowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakłady Farmaceutyczne \"POLFARMA\" S.A.",
+"nier": "Osmańska 7",
+"dz": "146513_8 0820 26/21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.17.2024.ABO"
+}
+},
+{
+"d": "2024-02-05",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku usługowo-biurowego wraz z niezbędną infrastrukturą oraz garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Puławska",
+"dz": "146513_8 0924 27",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.15.2024.ABR"
+}
+},
+{
+"d": "2024-02-05",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku usługowo-biurowego wraz z niezbędną infrastrukturą oraz garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Puławska",
+"dz": "146513_8 0924 27/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.15.2024.ABR"
+}
+},
+{
+"d": "2024-02-05",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku mieszkalnego jednorodzinnego wolnostojącego wraz z infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Kądziołeczki",
+"dz": "146513_8 0834 110/12",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.16.2024.ABR"
+}
+},
+{
+"d": "2024-02-05",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku mieszkalnego jednorodzinnego wolnostojącego wraz z infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Kądziołeczki",
+"dz": "146513_8 0834 110/13",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.16.2024.ABR"
+}
+},
+{
+"d": "2024-02-01",
+"c": {
+"inw": "Wniosek o pozwolenie na wykonanie konstrukcji nadproża stalowego w ścianie nośnej wraz z wybiciem otworu drzwiowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1022 10/37",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.13.2024.EBR"
+}
+},
+{
+"d": "2024-01-30",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę elementów zagospodarowania terenu zewnętrznego na potrzeby instalacji pomocniczych serwerowni tj. 2 kontenerowych generatorów prądu i zespołu dry-coolerów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Equinix (Poland) Sp. zo.o.",
+"nier": "",
+"dz": "146513_8 0823 25",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.12.2024.ABO"
+}
+},
+{
+"d": "2024-01-29",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę instalacji zbiornikowej na gaz płynny z pojedynczym podziemnym zbiornikiem o pojemności 4850 l wraz z przyłączem gazowym do wiaty na boiska sportowe budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0832 13/15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.11.2024.ABR"
+}
+},
+{
+"d": "2024-01-23",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę czterech budynków mieszkalnych wielorodzinnych z garażem podziemnym wraz z infrastrukturą techniczną i elementami zagospodarowania terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "Unimax Apartamenty Sp z o.o.",
+"nier": "Wyczółki",
+"dz": "146513_8 0818 93/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.10.2024.ABO"
+}
+},
+{
+"d": "2024-01-23",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę czterech budynków mieszkalnych wielorodzinnych z garażem podziemnym wraz z infrastrukturą techniczną i elementami zagospodarowania terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "Unimax Apartamenty Sp z o.o.",
+"nier": "Wyczółki",
+"dz": "146513_8 0818 93/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.10.2024.ABO"
+}
+},
+{
+"d": "2024-01-23",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę czterech budynków mieszkalnych wielorodzinnych z garażem podziemnym wraz z infrastrukturą techniczną i elementami zagospodarowania terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "Unimax Apartamenty Sp z o.o.",
+"nier": "Wyczółki",
+"dz": "146513_8 0818 94",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.10.2024.ABO"
+}
+},
+{
+"d": "2024-01-19",
+"c": {
+"inw": "Wniosek o przebudowę fragmentu budynku mieszkalnego z częścią usługową i garażami w zakresie lokalu użytkowego U2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Jerzy Petz prowadzący  działalność gospodarczą \"NZOZ MEDIQ JERZY PETZ\"",
+"nier": "",
+"dz": "146513_8 1016 2/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.8.2024.BŁA"
+}
+},
+{
+"d": "2024-01-19",
+"c": {
+"inw": "Wniosek o przebudowę fragmentu budynku mieszkalnego z częścią usługową i garażami w zakresie lokalu użytkowego U2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Jerzy Petz prowadzący  działalność gospodarczą \"NZOZ MEDIQ JERZY PETZ\"",
+"nier": "",
+"dz": "146513_8 1016 2/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.8.2024.BŁA"
+}
+},
+{
+"d": "2024-01-19",
+"c": {
+"inw": "Wniosek o przebudowę fragmentu budynku mieszkalnego z częścią usługową i garażami w zakresie lokalu użytkowego U2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Jerzy Petz prowadzący  działalność gospodarczą \"NZOZ MEDIQ JERZY PETZ\"",
+"nier": "",
+"dz": "146513_8 1016 2/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.8.2024.BŁA"
+}
+},
+{
+"d": "2024-01-19",
+"c": {
+"inw": "Wniosek o przebudowę fragmentu budynku mieszkalnego z częścią usługową i garażami w zakresie lokalu użytkowego U2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Jerzy Petz prowadzący  działalność gospodarczą \"NZOZ MEDIQ JERZY PETZ\"",
+"nier": "",
+"dz": "146513_8 1016 2/22",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.8.2024.BŁA"
+}
+},
+{
+"d": "2024-01-19",
+"c": {
+"inw": "Wniosek o przebudowę fragmentu budynku mieszkalnego z częścią usługową i garażami w zakresie lokalu użytkowego U2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Jerzy Petz prowadzący  działalność gospodarczą \"NZOZ MEDIQ JERZY PETZ\"",
+"nier": "",
+"dz": "146513_8 1016 2/23",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.8.2024.BŁA"
+}
+},
+{
+"d": "2024-01-19",
+"c": {
+"inw": "Wniosek o przebudowę fragmentu budynku mieszkalnego z częścią usługową i garażami w zakresie lokalu użytkowego U2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Jerzy Petz prowadzący  działalność gospodarczą \"NZOZ MEDIQ JERZY PETZ\"",
+"nier": "",
+"dz": "146513_8 1016 2/24",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.8.2024.BŁA"
+}
+},
+{
+"d": "2024-01-19",
+"c": {
+"inw": "Wniosek o przebudowę fragmentu budynku mieszkalnego z częścią usługową i garażami w zakresie lokalu użytkowego U2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Jerzy Petz prowadzący  działalność gospodarczą \"NZOZ MEDIQ JERZY PETZ\"",
+"nier": "",
+"dz": "146513_8 1016 2/25",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.8.2024.BŁA"
+}
+},
+{
+"d": "2024-01-19",
+"c": {
+"inw": "Wniosek o przebudowę fragmentu budynku mieszkalnego z częścią usługową i garażami w zakresie lokalu użytkowego U2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Jerzy Petz prowadzący  działalność gospodarczą \"NZOZ MEDIQ JERZY PETZ\"",
+"nier": "",
+"dz": "146513_8 1016 15/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.8.2024.BŁA"
+}
+},
+{
+"d": "2024-01-19",
+"c": {
+"inw": "Wniosek o przebudowę fragmentu budynku mieszkalnego z częścią usługową i garażami w zakresie lokalu użytkowego U2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Jerzy Petz prowadzący  działalność gospodarczą \"NZOZ MEDIQ JERZY PETZ\"",
+"nier": "",
+"dz": "146513_8 1016 15/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.8.2024.BŁA"
+}
+},
+{
+"d": "2024-01-19",
+"c": {
+"inw": "Wniosek o przebudowę fragmentu budynku mieszkalnego z częścią usługową i garażami w zakresie lokalu użytkowego U2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Jerzy Petz prowadzący  działalność gospodarczą \"NZOZ MEDIQ JERZY PETZ\"",
+"nier": "",
+"dz": "146513_8 1016 15/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.8.2024.BŁA"
+}
+},
+{
+"d": "2024-01-15",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku mieszkalnego wielorodzinnego z usługami w parterze i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "HI Project XXXVII Sp.z o.o.",
+"nier": "Kłobucka",
+"dz": "146513_8 0814 9/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.5.2024.ABO"
+}
+},
+{
+"d": "2024-01-10",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę instalacji gazowej dla potrzeb budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SBM Stokłosy",
+"nier": "Lachmana 7 / Wacława",
+"dz": "146513_8 1010 5/44",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.3.2024.EBE"
+}
+},
+{
+"d": "2024-01-10",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę instalacji gazowej dla potrzeb budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SBM Stokłosy",
+"nier": "Lachmana 7 / Wacława",
+"dz": "146513_8 1010 5/46",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.3.2024.EBE"
+}
+},
+{
+"d": "2024-01-10",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę instalacji gazowej dla potrzeb budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SBM Stokłosy",
+"nier": "Lachmana 7 / Wacława",
+"dz": "146513_8 1010 5/123",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.3.2024.EBE"
+}
+},
+{
+"d": "2024-01-05",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę stacji bazowej telefonii komórkowej P4 o numerze \"WAR1198E\" budowa nowego/nowych obiektów budowlanych",
+"wn": "P4 Sp.zo.o",
+"nier": "",
+"dz": "146513_8 0837 13/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.2.2024.ABR"
+}
+},
+{
+"d": "2024-01-05",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę stacji bazowej telefonii komórkowej P4 o numerze \"WAR1198E\" budowa nowego/nowych obiektów budowlanych",
+"wn": "P4 Sp.zo.o",
+"nier": "",
+"dz": "146513_8 0837 14/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.2.2024.ABR"
+}
+},
+{
+"d": "2024-01-04",
+"c": {
+"inw": "Wniosek o pozwolenie na  rozbudowę i nadbudowę budynku szkoły niepublicznej o część z przeznaczeniem dla psychologa szkolnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Fundacja PRIMUS",
+"nier": "",
+"dz": "146513_8 1110 33",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.1.2024.BSE"
+}
+}
+]
+},
+{
+"id": "dec_pnb",
+"name": "Decyzje o pozwoleniu na budowę",
+"short": "Decyzje PnB",
+"desc": "Decyzje o pozwoleniu na budowę wydane przez organ architektoniczno-budowlany dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer decyzji",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2024-12-20",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę dwóch budynków jednorodzinnych w zabudowie bliźniaczej z garażami w bryłach budynków, budową drogi dojazdowej oraz elementów zagospodarowaniem terenu i infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "P4P Sp.z o.o.",
+"nier": "Kuropatwy",
+"dz": "146513_8 0973 45/7",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "167/URN/PB/2024"
+}
+},
+{
+"d": "2024-12-20",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę dwóch budynków jednorodzinnych w zabudowie bliźniaczej z garażami w bryłach budynków, budową drogi dojazdowej oraz elementów zagospodarowaniem terenu i infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "P4P Sp.z o.o.",
+"nier": "Kuropatwy",
+"dz": "146513_8 0973 45/8",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "167/URN/PB/2024"
+}
+},
+{
+"d": "2024-12-20",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę dwóch budynków jednorodzinnych w zabudowie bliźniaczej z garażami w bryłach budynków, budową drogi dojazdowej oraz elementów zagospodarowaniem terenu i infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "P4P Sp.z o.o.",
+"nier": "Kuropatwy",
+"dz": "146513_8 0973 45/39",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "167/URN/PB/2024"
+}
+},
+{
+"d": "2024-12-17",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę instalacji fotowoltaicznej wraz z konstrukcją w postaci dwóch wiat wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polska Akademia Nauk- Ogród Botaniczny-Centrum Zachowania Różnorodności Biologicznej w Powsinie",
+"nier": "",
+"dz": "146513_8 1215 3/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "165/URN/PB/2024"
+}
+},
+{
+"d": "2024-12-13",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę drogi dla rowerów wraz z infrastrukturą techniczną wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Ursynów",
+"nier": "",
+"dz": "146513_8 1203 8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "164/URN/PB/2024"
+}
+},
+{
+"d": "2024-12-13",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę drogi dla rowerów wraz z infrastrukturą techniczną wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Ursynów",
+"nier": "",
+"dz": "146513_8 1203 22/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "164/URN/PB/2024"
+}
+},
+{
+"d": "2024-12-03",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę budynku mieszkalnego jednorodzinnego w zakresie zmiany okna w osiach 1-2/D na dwoje drzwi balkonowych oraz likwidacja drzwi w osiach 2/D wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0838 27/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "160/URN/PB/2024"
+}
+},
+{
+"d": "2024-11-29",
+"c": {
+"inw": "Wniosek o pozwolenie na wykonanie otworu w ścianie konstrukcyjnej między salonem a kuchnią o wymiarach 3,32m  x 2,02 m w lokalu mieszkalnym nr 21 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1109 18/20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "159/URN/PB/2024"
+}
+},
+{
+"d": "2024-11-28",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku mieszkalnego jednorodzinnego z garażem w bryle budynku z elementami zagospodarowania terenu oraz niezbędną infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0977 8/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "157/URN/PB/2024"
+}
+},
+{
+"d": "2024-11-20",
+"c": {
+"inw": "Wniosek o pozwolenie na docieplenie elewacji budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SMB \"Imielin\"",
+"nier": "",
+"dz": "146513_8 1022 10/43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "54/URN/PB/2024"
+}
+},
+{
+"d": "2024-11-18",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę dwóch budynków mieszkalnych wielorodzinnych z lokalami usługami w parterze, garażami podziemnymi, zagospodarowaniem terenu i infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "OAK Project 1 Sp.zo.o.",
+"nier": "",
+"dz": "146513_8 0818 4/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "151/URN/PB/2024"
+}
+},
+{
+"d": "2024-11-18",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę dwóch budynków mieszkalnych wielorodzinnych z lokalami usługami w parterze, garażami podziemnymi, zagospodarowaniem terenu i infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "OAK Project 1 Sp.zo.o.",
+"nier": "",
+"dz": "146513_8 0818 5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "151/URN/PB/2024"
+}
+},
+{
+"d": "2024-11-18",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę dwóch budynków mieszkalnych wielorodzinnych z lokalami usługami w parterze, garażami podziemnymi, zagospodarowaniem terenu i infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "OAK Project 1 Sp.zo.o.",
+"nier": "",
+"dz": "146513_8 0818 6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "151/URN/PB/2024"
+}
+},
+{
+"d": "2024-11-18",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę dwóch budynków mieszkalnych wielorodzinnych z lokalami usługami w parterze, garażami podziemnymi, zagospodarowaniem terenu i infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "OAK Project 1 Sp.zo.o.",
+"nier": "",
+"dz": "146513_8 0818 10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "151/URN/PB/2024"
+}
+},
+{
+"d": "2024-11-18",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę dwóch budynków mieszkalnych wielorodzinnych z lokalami usługami w parterze, garażami podziemnymi, zagospodarowaniem terenu i infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "OAK Project 1 Sp.zo.o.",
+"nier": "",
+"dz": "146513_8 0818 24",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "151/URN/PB/2024"
+}
+},
+{
+"d": "2024-11-18",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę dwóch budynków mieszkalnych wielorodzinnych z lokalami usługami w parterze, garażami podziemnymi, zagospodarowaniem terenu i infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "OAK Project 1 Sp.zo.o.",
+"nier": "",
+"dz": "146513_8 0818 23/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "151/URN/PB/2024"
+}
+},
+{
+"d": "2024-11-18",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę dwóch budynków mieszkalnych wielorodzinnych z lokalami usługami w parterze, garażami podziemnymi, zagospodarowaniem terenu i infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "OAK Project 1 Sp.zo.o.",
+"nier": "",
+"dz": "146513_8 0818 28/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "151/URN/PB/2024"
+}
+},
+{
+"d": "2024-11-06",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku mieszkalnego wielorodzinnego z usługami w parterze i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "HI Project XXXVII Sp.z o.o.",
+"nier": "Kłobucka",
+"dz": "146513_8 0814 9/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "148/URN/PB/2024"
+}
+},
+{
+"d": "2024-11-04",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku usługowo-biurowego wraz z niezbędną infrastrukturą oraz garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Puławska",
+"dz": "146513_8 0924 27",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "147/URN/PB/2024"
+}
+},
+{
+"d": "2024-11-04",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku usługowo-biurowego wraz z niezbędną infrastrukturą oraz garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Puławska",
+"dz": "146513_8 0924 27/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "147/URN/PB/2024"
+}
+},
+{
+"d": "2024-10-31",
+"c": {
+"inw": "Wniosek o pozwolenie na roboty budowlane obejmujące przebudowę wejścia głównego budynku \"ZOS Koncertowa\" w zakresie dostosowania dla osób ze szczególnymi potrzebami wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Ursynowskie Centrum Sportu i Rekreakcji",
+"nier": "",
+"dz": "146513_8 1002 8/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "144/URN/PB/2024"
+}
+},
+{
+"d": "2024-10-31",
+"c": {
+"inw": "Wniosek o pozwolenie na roboty budowlane obejmujące przebudowę wejścia głównego budynku \"ZOS Koncertowa\" w zakresie dostosowania dla osób ze szczególnymi potrzebami wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Ursynowskie Centrum Sportu i Rekreakcji",
+"nier": "",
+"dz": "146513_8 1002 8/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "144/URN/PB/2024"
+}
+},
+{
+"d": "2024-10-31",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę sieci kanalizacji deszczowej odprowadzającą wody opadowe i roztopowe z terenu istniejącej stacji paliw wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SHELL POLSKA Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 0839 15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "146/URN/PB/2024"
+}
+},
+{
+"d": "2024-10-31",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę sieci kanalizacji deszczowej odprowadzającą wody opadowe i roztopowe z terenu istniejącej stacji paliw wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SHELL POLSKA Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 0839 14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "146/URN/PB/2024"
+}
+},
+{
+"d": "2024-10-31",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę sieci kanalizacji deszczowej odprowadzającą wody opadowe i roztopowe z terenu istniejącej stacji paliw wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SHELL POLSKA Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 0839 13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "146/URN/PB/2024"
+}
+},
+{
+"d": "2024-10-31",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę sieci kanalizacji deszczowej odprowadzającą wody opadowe i roztopowe z terenu istniejącej stacji paliw wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SHELL POLSKA Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 0839 12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "146/URN/PB/2024"
+}
+},
+{
+"d": "2024-10-31",
+"c": {
+"inw": "Wniosek o zmianę dec.41/URN/PB/2024 z 19.03.2024 - bud. mieszkalny jednorodzinny wolnostojący wraz z elementami zagospodarowania terenu i infrastrukturą techniczną (szambo, studnia) oraz budowa fragmentu wewnętrznej drogi dojazdowej wg projektu zamiennego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1213 1/13",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "145/URN/PB/2024/Z"
+}
+},
+{
+"d": "2024-10-31",
+"c": {
+"inw": "Wniosek o zmianę dec.41/URN/PB/2024 z 19.03.2024 - bud. mieszkalny jednorodzinny wolnostojący wraz z elementami zagospodarowania terenu i infrastrukturą techniczną (szambo, studnia) oraz budowa fragmentu wewnętrznej drogi dojazdowej wg projektu zamiennego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1213 1/6",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "145/URN/PB/2024/Z"
+}
+},
+{
+"d": "2024-10-31",
+"c": {
+"inw": "Wniosek o zmianę dec.41/URN/PB/2024 z 19.03.2024 - bud. mieszkalny jednorodzinny wolnostojący wraz z elementami zagospodarowania terenu i infrastrukturą techniczną (szambo, studnia) oraz budowa fragmentu wewnętrznej drogi dojazdowej wg projektu zamiennego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1214 7/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "145/URN/PB/2024/Z"
+}
+},
+{
+"d": "2024-10-28",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę przegrody zewnętrznej budynku mieszkalnego polegająca na zmianie gabarytów istniejących otworów okiennych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1003 4/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "143/URN/PB/2024"
+}
+},
+{
+"d": "2024-10-25",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę części budynku biurowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "P491 Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 0934 162/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "141/URN/PB/2024"
+}
+},
+{
+"d": "2024-10-25",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku mieszkalnego jednorodzinnego wraz z urządzeniami budowlanymi, w tym instalacją gazową budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0944 11",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "140/URN/PB/2024"
+}
+},
+{
+"d": "2024-10-24",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbiórkę budynku gospodarczego - szklarni rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Cymbalistów",
+"dz": "146513_8 0972 27/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "139/URN/PB/2024/R"
+}
+},
+{
+"d": "2024-10-23",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku mieszkalnego jednorodzinnego dwulokalowego wolnostojącego wraz z urządzeniami i elementami zagospodarowania terenu oraz drogą wewnętrzną w postaci ciągu pieszo-jezdnego budowa nowego/nowych obiektów budowlanych",
+"wn": "\"Madison\" Development Sp.z o.o.",
+"nier": "Katarynki",
+"dz": "146513_8 0977 3/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "137/URN/PB/2024"
+}
+},
+{
+"d": "2024-10-23",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku mieszkalnego jednorodzinnego dwulokalowego wolnostojącego wraz z urządzeniami i elementami zagospodarowania terenu oraz drogą wewnętrzną w postaci ciągu pieszo-jezdnego budowa nowego/nowych obiektów budowlanych",
+"wn": "\"Madison\" Development Sp.z o.o.",
+"nier": "Katarynki",
+"dz": "146513_8 0977 3/7",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "137/URN/PB/2024"
+}
+},
+{
+"d": "2024-10-23",
+"c": {
+"inw": "Wniosek o pozwolenie na wykonanie robót budowlanych polegających na o pozwolenie na wykonanie robót budowlanych polegających na przebudowie lokalu dwupoziomowego na dwa lokale jednopoziomowe mieszkalne wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1105 4/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "138/URN/PB/2024"
+}
+},
+{
+"d": "2024-10-18",
+"c": {
+"inw": "Budowa budynku mieszkalnego jednorodzinnego w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Kapeli",
+"dz": "146513_8 0952 89/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "134/URN/PB/2024"
+}
+},
+{
+"d": "2024-10-17",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę abonenckiej słupowej stacji transformatorowej SN/nn 15/0,4kV wraz z elektroenergetyczną siecią kablową SN 15 kV oraz przebudową wewnętrznej linii zasilającej nn 0,4 kV budowa nowego/nowych obiektów budowlanych",
+"wn": "Dom Volvo Car Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 0972 42/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "133/URN/PB/2024"
+}
+},
+{
+"d": "2024-10-17",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę abonenckiej słupowej stacji transformatorowej SN/nn 15/0,4kV wraz z elektroenergetyczną siecią kablową SN 15 kV oraz przebudową wewnętrznej linii zasilającej nn 0,4 kV budowa nowego/nowych obiektów budowlanych",
+"wn": "Dom Volvo Car Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 0972 42/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "133/URN/PB/2024"
+}
+},
+{
+"d": "2024-10-16",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolno stojącego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Gawota",
+"dz": "146513_8 0922 8/10",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "132/URN/PB/2024"
+}
+},
+{
+"d": "2024-09-27",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku jednorodzinnego wolnostojącego wraz z instalacją gazową oraz drogi dojazdowej wraz z infrastrukturą techniczną i elementami zagospodarowania terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1213 26/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "122/URN/PB/2024"
+}
+},
+{
+"d": "2024-09-27",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku jednorodzinnego wolnostojącego wraz z instalacją gazową oraz drogi dojazdowej wraz z infrastrukturą techniczną i elementami zagospodarowania terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1213 28",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "122/URN/PB/2024"
+}
+},
+{
+"d": "2024-09-27",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku jednorodzinnego wolnostojącego wraz z instalacją gazową oraz drogi dojazdowej wraz z infrastrukturą techniczną i elementami zagospodarowania terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1213 31/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "122/URN/PB/2024"
+}
+},
+{
+"d": "2024-09-27",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku jednorodzinnego wolnostojącego wraz z instalacją gazową oraz drogi dojazdowej wraz z infrastrukturą techniczną i elementami zagospodarowania terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1213 32/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "122/URN/PB/2024"
+}
+},
+{
+"d": "2024-09-27",
+"c": {
+"inw": "Wniosek o pozwolenie na remont dachu z ociepleniem stropu nad parterem budynku na terenie Toru Wyścigów Konnych na Służewcu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Totalizator Sportowy Sp.z o.o.",
+"nier": "Puławska",
+"dz": "146513_8 0815 33/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "123/URN/PB/2024"
+}
+},
+{
+"d": "2024-09-26",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę wewnętrznej ściany konstrukcyjnej lokalu mieszkalnego w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1016 8/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "121/URN/PB/2024"
+}
+},
+{
+"d": "2024-09-26",
+"c": {
+"inw": "budowa 2 budynków mieszkalnych jednorodzinnych wolnostojących wraz z urządzeniami i elem.zagospodarowania terenu oraz ciąg pieszo-jezdny budowa nowego/nowych obiektów budowlanych",
+"wn": "Katarzyna",
+"nier": "Sarabandy",
+"dz": "146513_8 0950 25/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "120/URN/PB/2024"
+}
+},
+{
+"d": "2024-09-26",
+"c": {
+"inw": "budowa 2 budynków mieszkalnych jednorodzinnych wolnostojących wraz z urządzeniami i elem.zagospodarowania terenu oraz ciąg pieszo-jezdny budowa nowego/nowych obiektów budowlanych",
+"wn": "Katarzyna",
+"nier": "Sarabandy",
+"dz": "146513_8 0950 25/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "120/URN/PB/2024"
+}
+},
+{
+"d": "2024-09-26",
+"c": {
+"inw": "budowa 2 budynków mieszkalnych jednorodzinnych wolnostojących wraz z urządzeniami i elem.zagospodarowania terenu oraz ciąg pieszo-jezdny budowa nowego/nowych obiektów budowlanych",
+"wn": "Katarzyna",
+"nier": "Sarabandy",
+"dz": "146513_8 0950 25/4",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "120/URN/PB/2024"
+}
+},
+{
+"d": "2024-09-26",
+"c": {
+"inw": "budowa 2 budynków mieszkalnych jednorodzinnych wolnostojących wraz z urządzeniami i elem.zagospodarowania terenu oraz ciąg pieszo-jezdny budowa nowego/nowych obiektów budowlanych",
+"wn": "Katarzyna",
+"nier": "Sarabandy",
+"dz": "146513_8 0950 25/5",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "120/URN/PB/2024"
+}
+},
+{
+"d": "2024-09-18",
+"c": {
+"inw": "Wniosek o pozwolenie na remont części stacji o nr inw. 128/18 na terenie Toru Wyścigów Konnych na Służewcu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Totalizator Sportowy Sp.z o.o",
+"nier": "",
+"dz": "146513_8 0815 36",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "118/URN/PB/2024"
+}
+},
+{
+"d": "2024-09-11",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku mieszkalnego jednorodzinnego dwulokalowego w zabudowie wolnostojącej budowa nowego/nowych obiektów budowlanych",
+"wn": "DTM BUDOWNICTWO Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 0835 31/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "117/URN/PB/2024"
+}
+},
+{
+"d": "2024-09-10",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę zespołu 10 budynków mieszkalnych jednorodzinnych (dwulokalowych) w zabudowie bliźniaczej wraz z infrastrukturą techniczną i elementami zagospodarowania terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "Prestiż Dom Sp.z o.o.",
+"nier": "Sarabandy",
+"dz": "146513_8 0966 20",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "116/URN/PB/2024"
+}
+},
+{
+"d": "2024-08-29",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolnostojącego w zabudowie mieszkaniowej jednorodzinnej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Jeziorki",
+"dz": "146513_8 0939 7/21",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "114/URN/PB/2024"
+}
+},
+{
+"d": "2024-08-19",
+"c": {
+"inw": "Wniosek o zmianę dec.85/D/2023 z 24.07.2023 -budowa budynku mieszkalnego jednorodzinnego wolnostoj.wraz z infr.techn.i elem.zagosp.terenu oraz budowa fragmentu wewnętrznej drogi dojazdowej (ciągu piesz-jezdnego) wg projektu zamiennego zakresie budowy wewn.inst.gazowej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0962 1/11",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "112/URN/PB/2024"
+}
+},
+{
+"d": "2024-08-19",
+"c": {
+"inw": "Wniosek o zmianę dec.85/D/2023 z 24.07.2023 -budowa budynku mieszkalnego jednorodzinnego wolnostoj.wraz z infr.techn.i elem.zagosp.terenu oraz budowa fragmentu wewnętrznej drogi dojazdowej (ciągu piesz-jezdnego) wg projektu zamiennego zakresie budowy wewn.inst.gazowej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0957 26/7",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "112/URN/PB/2024"
+}
+},
+{
+"d": "2024-08-19",
+"c": {
+"inw": "Wniosek o zmianę dec.85/D/2023 z 24.07.2023 -budowa budynku mieszkalnego jednorodzinnego wolnostoj.wraz z infr.techn.i elem.zagosp.terenu oraz budowa fragmentu wewnętrznej drogi dojazdowej (ciągu piesz-jezdnego) wg projektu zamiennego zakresie budowy wewn.inst.gazowej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0957 27/10",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "112/URN/PB/2024"
+}
+},
+{
+"d": "2024-08-19",
+"c": {
+"inw": "Wniosek o zmianę dec.85/D/2023 z 24.07.2023 -budowa budynku mieszkalnego jednorodzinnego wolnostoj.wraz z infr.techn.i elem.zagosp.terenu oraz budowa fragmentu wewnętrznej drogi dojazdowej (ciągu piesz-jezdnego) wg projektu zamiennego zakresie budowy wewn.inst.gazowej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0957 27/7",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "112/URN/PB/2024"
+}
+},
+{
+"d": "2024-08-19",
+"c": {
+"inw": "Wniosek o zmianę dec.85/D/2023 z 24.07.2023 -budowa budynku mieszkalnego jednorodzinnego wolnostoj.wraz z infr.techn.i elem.zagosp.terenu oraz budowa fragmentu wewnętrznej drogi dojazdowej (ciągu piesz-jezdnego) wg projektu zamiennego zakresie budowy wewn.inst.gazowej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0957 27/9",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "112/URN/PB/2024"
+}
+},
+{
+"d": "2024-08-19",
+"c": {
+"inw": "Wniosek o zmianę dec.85/D/2023 z 24.07.2023 -budowa budynku mieszkalnego jednorodzinnego wolnostoj.wraz z infr.techn.i elem.zagosp.terenu oraz budowa fragmentu wewnętrznej drogi dojazdowej (ciągu piesz-jezdnego) wg projektu zamiennego zakresie budowy wewn.inst.gazowej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0957 51",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "112/URN/PB/2024"
+}
+},
+{
+"d": "2024-08-12",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbiórkę obiektów budowlanych - budynku garażowego z kotłownią, kominem murowanym, ścianek fundamentowych po 2 szklarniach oraz osadnika z kręgów betonowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "Porta Silva Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 0953 39",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "110/URN/PB/2024/R"
+}
+},
+{
+"d": "2024-08-05",
+"c": {
+"inw": "Wniosek o pozwolenie na remont elewacji i chodników wraz z robotami towarzyszącymi dwóch budynków mieszkalnych o nr ew.51/16 i 52/16 na terenie TWKS wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Totalizator Sportowy Sp.z o.o.",
+"nier": "Puławska",
+"dz": "146513_8 0815 33/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "108/URN/PB/2024"
+}
+},
+{
+"d": "2024-08-01",
+"c": {
+"inw": "Wniosek o rozbiórkę - usunięcie kolizji słupa elektroenergetycznego oraz linii napowietrznej nN rozbiórka istniejącego obiektu budowlanego",
+"wn": "Stoen Operator Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 1077 84/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "105/URN/PB/2024/R"
+}
+},
+{
+"d": "2024-08-01",
+"c": {
+"inw": "Wniosek o rozbiórkę - usunięcie kolizji słupa elektroenergetycznego oraz linii napowietrznej nN rozbiórka istniejącego obiektu budowlanego",
+"wn": "Stoen Operator Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 1077 70/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "105/URN/PB/2024/R"
+}
+},
+{
+"d": "2024-08-01",
+"c": {
+"inw": "Wniosek o rozbiórkę - usunięcie kolizji słupa elektroenergetycznego oraz linii napowietrznej nN rozbiórka istniejącego obiektu budowlanego",
+"wn": "Stoen Operator Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 1077 70/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "105/URN/PB/2024/R"
+}
+},
+{
+"d": "2024-08-01",
+"c": {
+"inw": "Wniosek o rozbiórkę - usunięcie kolizji słupa elektroenergetycznego oraz linii napowietrznej nN rozbiórka istniejącego obiektu budowlanego",
+"wn": "Stoen Operator Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 1077 81/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "105/URN/PB/2024/R"
+}
+},
+{
+"d": "2024-08-01",
+"c": {
+"inw": "Wniosek o zmianę dec.157/D/2023 z 08.12.2023 r. - pozwolenie na budowę instalacji gazowej dla projektowanego budynku mieszkalnego jednorodzinnego wg projektu zamiennego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Pistacjowa 15",
+"dz": "146513_8 1035 24/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "106/URN/PB/2024/Z"
+}
+},
+{
+"d": "2024-07-30",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbiórkę dwóch budynków mieszkalnych jednorodzinnych wolnostojących rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0834 98/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "104/URN/PB/2024/R"
+}
+},
+{
+"d": "2024-07-24",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę sieci wodociągowej Dn 100 na Skarpie Wiślanej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "Jeża",
+"dz": "146513_8 1118 17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "100/URN/PB/2024"
+}
+},
+{
+"d": "2024-07-24",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę sieci wodociągowej Dn 100 na Skarpie Wiślanej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "Jeża",
+"dz": "146513_8 1118 107/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "100/URN/PB/2024"
+}
+},
+{
+"d": "2024-07-24",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę sieci wodociągowej Dn 100 na Skarpie Wiślanej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "Jeża",
+"dz": "146513_8 1118 107/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "100/URN/PB/2024"
+}
+},
+{
+"d": "2024-07-24",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę sieci kanalizacyjnej śr.0,2m z odcinkami sieci na Skarpie Wiślanej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "Jeża",
+"dz": "146513_8 1118 104/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "101/URN/PB/2024"
+}
+},
+{
+"d": "2024-07-24",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę sieci kanalizacyjnej śr.0,2m z odcinkami sieci na Skarpie Wiślanej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "Jeża",
+"dz": "146513_8 1118 107/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "101/URN/PB/2024"
+}
+},
+{
+"d": "2024-07-24",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę sieci kanalizacyjnej śr.0,2m z odcinkami sieci na Skarpie Wiślanej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "Jeża",
+"dz": "146513_8 1118 107/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "101/URN/PB/2024"
+}
+},
+{
+"d": "2024-07-24",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę sieci kanalizacyjnej śr.0,2m z odcinkami sieci na Skarpie Wiślanej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "Jeża",
+"dz": "146513_8 1118 106/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "101/URN/PB/2024"
+}
+},
+{
+"d": "2024-07-24",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę sieci kanalizacyjnej śr.0,2m z odcinkami sieci na Skarpie Wiślanej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "Jeża",
+"dz": "146513_8 1118 23/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "101/URN/PB/2024"
+}
+},
+{
+"d": "2024-07-24",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę sieci kanalizacyjnej śr.0,2m z odcinkami sieci na Skarpie Wiślanej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "Jeża",
+"dz": "146513_8 1113 45",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "101/URN/PB/2024"
+}
+},
+{
+"d": "2024-07-24",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę sieci kanalizacyjnej śr.0,2m z odcinkami sieci na Skarpie Wiślanej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "Jeża",
+"dz": "146513_8 1113 46/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "101/URN/PB/2024"
+}
+},
+{
+"d": "2024-07-19",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbiórkę dwóch budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej oraz budynku garażowego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1004 12",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "95/URN/PB/2024/R"
+}
+},
+{
+"d": "2024-07-17",
+"c": {
+"inw": "Wniosek o pozwolenie na zmianę sposobu użytkowania lokalu biurowego na dwa lokale mieszkalne wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warsfoll Zyśk, Tarnowicz Sp.j.",
+"nier": "",
+"dz": "146513_8 1111 44/17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "94/URN/PB/2024"
+}
+},
+{
+"d": "2024-07-10",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę instalacji gazowych dla lokali mieszkalnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1004 28/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "91/URN/PB/2024"
+}
+},
+{
+"d": "2024-07-09",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę lokalu mieszkalnego nr 65 wraz z instalacją gazową w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1001 15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "90/URN/PB/2024"
+}
+},
+{
+"d": "2024-07-08",
+"c": {
+"inw": "Wniosek o zmianę dec.44/D/2023 - przebudowa z rozbudową istniejącego budynku handlowego z parkingiem i infrastrukturą towarzyszącą wg projektu zamiennego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "LIDL Sp.z o.o.",
+"nier": "Pileckiego / rtm. Witolda",
+"dz": "146513_8 1079 49/42",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "89/URN/PB/2024/Z"
+}
+},
+{
+"d": "2024-07-08",
+"c": {
+"inw": "Wniosek o zmianę dec.44/D/2023 - przebudowa z rozbudową istniejącego budynku handlowego z parkingiem i infrastrukturą towarzyszącą wg projektu zamiennego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "LIDL Sp.z o.o.",
+"nier": "Pileckiego / rtm. Witolda",
+"dz": "146513_8 1079 49/51",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "89/URN/PB/2024/Z"
+}
+},
+{
+"d": "2024-07-08",
+"c": {
+"inw": "Wniosek o zmianę dec.44/D/2023 - przebudowa z rozbudową istniejącego budynku handlowego z parkingiem i infrastrukturą towarzyszącą wg projektu zamiennego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "LIDL Sp.z o.o.",
+"nier": "Pileckiego / rtm. Witolda",
+"dz": "146513_8 1079 48/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "89/URN/PB/2024/Z"
+}
+},
+{
+"d": "2024-07-08",
+"c": {
+"inw": "Wniosek o zmianę dec.44/D/2023 - przebudowa z rozbudową istniejącego budynku handlowego z parkingiem i infrastrukturą towarzyszącą wg projektu zamiennego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "LIDL Sp.z o.o.",
+"nier": "Pileckiego / rtm. Witolda",
+"dz": "146513_8 1079 58/18",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "89/URN/PB/2024/Z"
+}
+},
+{
+"d": "2024-07-08",
+"c": {
+"inw": "Wniosek o zmianę dec.44/D/2023 - przebudowa z rozbudową istniejącego budynku handlowego z parkingiem i infrastrukturą towarzyszącą wg projektu zamiennego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "LIDL Sp.z o.o.",
+"nier": "Pileckiego / rtm. Witolda",
+"dz": "146513_8 1079 58/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "89/URN/PB/2024/Z"
+}
+},
+{
+"d": "2024-07-02",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę stalowego masztu kratowego instalacji T-Mobile Polska S.A.nr WWA_WARSZAWA _BALETOW115/81061 polegająca na wymianie konstrukcji trzonu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "T-Mobile Polska S.A.",
+"nier": "",
+"dz": "146513_8 0947 26",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "83/URN/PB/2024"
+}
+},
+{
+"d": "2024-07-01",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę otworu okiennego w elewacji budynku mieszkalnego wielorodzinnego w części przyległej do lokalu mieszkalnego nr 2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1114 195",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "82/URN/PB/2024"
+}
+},
+{
+"d": "2024-06-27",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbiórkę budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0952 89/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "80/URN/PB/2024/R"
+}
+},
+{
+"d": "2024-06-27",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę lokalu mieszkalnego zlokalizowanego w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Villardczyków",
+"dz": "146513_8 1110 7/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "81/URN/PB/2024"
+}
+},
+{
+"d": "2024-06-13",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbiórkę budynku mieszkalnego jednorodzinnego i budynku garażowego rozbiórka istniejącego obiektu budowlanego",
+"wn": "DTM Budownictwo Sp.z o.o.",
+"nier": "Krasnowolska",
+"dz": "146513_8 0835 31/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "74/URN/PB/2024"
+}
+},
+{
+"d": "2024-06-10",
+"c": {
+"inw": "Wniosek o wydanie pozwolenia na budowę instalacji fotowoltaicznej o łącznej mocy do 1200 kW wraz z infrastrukturą towarzyszącą na pięciu budynkach biurowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poleczki Development Sp. z o.o.",
+"nier": "",
+"dz": "146513_8 0821 20/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "73/URN/PB/2024"
+}
+},
+{
+"d": "2024-06-10",
+"c": {
+"inw": "Wniosek o wydanie pozwolenia na budowę instalacji fotowoltaicznej o łącznej mocy do 1200 kW wraz z infrastrukturą towarzyszącą na pięciu budynkach biurowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poleczki Development Sp. z o.o.",
+"nier": "",
+"dz": "146513_8 0821 42",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "73/URN/PB/2024"
+}
+},
+{
+"d": "2024-06-10",
+"c": {
+"inw": "Wniosek o wydanie pozwolenia na budowę instalacji fotowoltaicznej o łącznej mocy do 1200 kW wraz z infrastrukturą towarzyszącą na pięciu budynkach biurowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poleczki Development Sp. z o.o.",
+"nier": "",
+"dz": "146513_8 0821 43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "73/URN/PB/2024"
+}
+},
+{
+"d": "2024-06-10",
+"c": {
+"inw": "Wniosek o wydanie pozwolenia na budowę instalacji fotowoltaicznej o łącznej mocy do 1200 kW wraz z infrastrukturą towarzyszącą na pięciu budynkach biurowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poleczki Development Sp. z o.o.",
+"nier": "",
+"dz": "146513_8 0821 44",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "73/URN/PB/2024"
+}
+},
+{
+"d": "2024-06-10",
+"c": {
+"inw": "Wniosek o wydanie pozwolenia na budowę instalacji fotowoltaicznej o łącznej mocy do 1200 kW wraz z infrastrukturą towarzyszącą na pięciu budynkach biurowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poleczki Development Sp. z o.o.",
+"nier": "",
+"dz": "146513_8 0821 45",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "73/URN/PB/2024"
+}
+},
+{
+"d": "2024-06-10",
+"c": {
+"inw": "Wniosek o wydanie pozwolenia na budowę instalacji fotowoltaicznej o łącznej mocy do 1200 kW wraz z infrastrukturą towarzyszącą na pięciu budynkach biurowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poleczki Development Sp. z o.o.",
+"nier": "",
+"dz": "146513_8 0821 46",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "73/URN/PB/2024"
+}
+},
+{
+"d": "2024-06-10",
+"c": {
+"inw": "Wniosek o wydanie pozwolenia na budowę instalacji fotowoltaicznej o łącznej mocy do 1200 kW wraz z infrastrukturą towarzyszącą na pięciu budynkach biurowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poleczki Development Sp. z o.o.",
+"nier": "",
+"dz": "146513_8 0821 47",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "73/URN/PB/2024"
+}
+},
+{
+"d": "2024-06-10",
+"c": {
+"inw": "Wniosek o wydanie pozwolenia na budowę instalacji fotowoltaicznej o łącznej mocy do 1200 kW wraz z infrastrukturą towarzyszącą na pięciu budynkach biurowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poleczki Development Sp. z o.o.",
+"nier": "",
+"dz": "146513_8 0821 48",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "73/URN/PB/2024"
+}
+},
+{
+"d": "2024-06-10",
+"c": {
+"inw": "Wniosek o wydanie pozwolenia na budowę instalacji fotowoltaicznej o łącznej mocy do 1200 kW wraz z infrastrukturą towarzyszącą na pięciu budynkach biurowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poleczki Development Sp. z o.o.",
+"nier": "",
+"dz": "146513_8 0821 53",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "73/URN/PB/2024"
+}
+},
+{
+"d": "2024-06-10",
+"c": {
+"inw": "Wniosek o wydanie pozwolenia na budowę instalacji fotowoltaicznej o łącznej mocy do 1200 kW wraz z infrastrukturą towarzyszącą na pięciu budynkach biurowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poleczki Development Sp. z o.o.",
+"nier": "",
+"dz": "146513_8 0821 54",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "73/URN/PB/2024"
+}
+},
+{
+"d": "2024-06-10",
+"c": {
+"inw": "Wniosek o wydanie pozwolenia na budowę instalacji fotowoltaicznej o łącznej mocy do 1200 kW wraz z infrastrukturą towarzyszącą na pięciu budynkach biurowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poleczki Development Sp. z o.o.",
+"nier": "",
+"dz": "146513_8 0821 55",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "73/URN/PB/2024"
+}
+},
+{
+"d": "2024-06-10",
+"c": {
+"inw": "Wniosek o wydanie pozwolenia na budowę instalacji fotowoltaicznej o łącznej mocy do 1200 kW wraz z infrastrukturą towarzyszącą na pięciu budynkach biurowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poleczki Development Sp. z o.o.",
+"nier": "",
+"dz": "146513_8 0821 56",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "73/URN/PB/2024"
+}
+},
+{
+"d": "2024-06-10",
+"c": {
+"inw": "Wniosek o wydanie pozwolenia na budowę instalacji fotowoltaicznej o łącznej mocy do 1200 kW wraz z infrastrukturą towarzyszącą na pięciu budynkach biurowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poleczki Development Sp. z o.o.",
+"nier": "",
+"dz": "146513_8 0821 57",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "73/URN/PB/2024"
+}
+},
+{
+"d": "2024-06-10",
+"c": {
+"inw": "Wniosek o wydanie pozwolenia na budowę instalacji fotowoltaicznej o łącznej mocy do 1200 kW wraz z infrastrukturą towarzyszącą na pięciu budynkach biurowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poleczki Development Sp. z o.o.",
+"nier": "",
+"dz": "146513_8 0821 60",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "73/URN/PB/2024"
+}
+},
+{
+"d": "2024-06-10",
+"c": {
+"inw": "Wniosek o wydanie pozwolenia na budowę instalacji fotowoltaicznej o łącznej mocy do 1200 kW wraz z infrastrukturą towarzyszącą na pięciu budynkach biurowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poleczki Development Sp. z o.o.",
+"nier": "",
+"dz": "146513_8 0821 61",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "73/URN/PB/2024"
+}
+},
+{
+"d": "2024-06-10",
+"c": {
+"inw": "Wniosek o wydanie pozwolenia na budowę instalacji fotowoltaicznej o łącznej mocy do 1200 kW wraz z infrastrukturą towarzyszącą na pięciu budynkach biurowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poleczki Development Sp. z o.o.",
+"nier": "",
+"dz": "146513_8 0821 62",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "73/URN/PB/2024"
+}
+},
+{
+"d": "2024-06-10",
+"c": {
+"inw": "Wniosek o wydanie pozwolenia na budowę instalacji fotowoltaicznej o łącznej mocy do 1200 kW wraz z infrastrukturą towarzyszącą na pięciu budynkach biurowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poleczki Development Sp. z o.o.",
+"nier": "",
+"dz": "146513_8 0821 63",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "73/URN/PB/2024"
+}
+},
+{
+"d": "2024-06-10",
+"c": {
+"inw": "Wniosek o wydanie pozwolenia na budowę instalacji fotowoltaicznej o łącznej mocy do 1200 kW wraz z infrastrukturą towarzyszącą na pięciu budynkach biurowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poleczki Development Sp. z o.o.",
+"nier": "",
+"dz": "146513_8 0821 70",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "73/URN/PB/2024"
+}
+},
+{
+"d": "2024-06-10",
+"c": {
+"inw": "Wniosek o wydanie pozwolenia na budowę instalacji fotowoltaicznej o łącznej mocy do 1200 kW wraz z infrastrukturą towarzyszącą na pięciu budynkach biurowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poleczki Development Sp. z o.o.",
+"nier": "",
+"dz": "146513_8 0821 71",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "73/URN/PB/2024"
+}
+},
+{
+"d": "2024-06-10",
+"c": {
+"inw": "Wniosek o wydanie pozwolenia na budowę instalacji fotowoltaicznej o łącznej mocy do 1200 kW wraz z infrastrukturą towarzyszącą na pięciu budynkach biurowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poleczki Development Sp. z o.o.",
+"nier": "",
+"dz": "146513_8 0821 72",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "73/URN/PB/2024"
+}
+},
+{
+"d": "2024-06-10",
+"c": {
+"inw": "Wniosek o wydanie pozwolenia na budowę instalacji fotowoltaicznej o łącznej mocy do 1200 kW wraz z infrastrukturą towarzyszącą na pięciu budynkach biurowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poleczki Development Sp. z o.o.",
+"nier": "",
+"dz": "146513_8 0821 73",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "73/URN/PB/2024"
+}
+},
+{
+"d": "2024-06-10",
+"c": {
+"inw": "Wniosek o wydanie pozwolenia na budowę instalacji fotowoltaicznej o łącznej mocy do 1200 kW wraz z infrastrukturą towarzyszącą na pięciu budynkach biurowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poleczki Development Sp. z o.o.",
+"nier": "",
+"dz": "146513_8 0821 75",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "73/URN/PB/2024"
+}
+},
+{
+"d": "2024-06-10",
+"c": {
+"inw": "Wniosek o wydanie pozwolenia na budowę instalacji fotowoltaicznej o łącznej mocy do 1200 kW wraz z infrastrukturą towarzyszącą na pięciu budynkach biurowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poleczki Development Sp. z o.o.",
+"nier": "",
+"dz": "146513_8 0821 76",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "73/URN/PB/2024"
+}
+},
+{
+"d": "2024-06-10",
+"c": {
+"inw": "Wniosek o wydanie pozwolenia na budowę instalacji fotowoltaicznej o łącznej mocy do 1200 kW wraz z infrastrukturą towarzyszącą na pięciu budynkach biurowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poleczki Development Sp. z o.o.",
+"nier": "",
+"dz": "146513_8 0821 79",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "73/URN/PB/2024"
+}
+},
+{
+"d": "2024-06-10",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę otworu drzwiowego w wewnętrznej ścianie konstrukcyjnej w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1074 108",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "72/URN/PB/2024"
+}
+},
+{
+"d": "2024-06-06",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę sieci elektroenergetycznej SN 15kV na części działek budowa nowego/nowych obiektów budowlanych",
+"wn": "STOEN Operator Sp z o.o.",
+"nier": "Kłobucka",
+"dz": "146513_8 0814 9/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "71/URN/PB/2024"
+}
+},
+{
+"d": "2024-06-06",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę sieci elektroenergetycznej SN 15kV na części działek budowa nowego/nowych obiektów budowlanych",
+"wn": "STOEN Operator Sp z o.o.",
+"nier": "Kłobucka",
+"dz": "146513_8 0814 9/40",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "71/URN/PB/2024"
+}
+},
+{
+"d": "2024-06-06",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę sieci elektroenergetycznej SN 15kV na części działek budowa nowego/nowych obiektów budowlanych",
+"wn": "STOEN Operator Sp z o.o.",
+"nier": "Kłobucka",
+"dz": "146513_8 0814 18",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "71/URN/PB/2024"
+}
+},
+{
+"d": "2024-06-03",
+"c": {
+"inw": "Wniosek o pozwolenie na powiększenie otworów w elewacji budynku U2 - dla bramy i drzwi wraz z daszkami, w parterze przy osi 22, między osiami A-C wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CH Warszawa U Sp.z o.o.",
+"nier": "Puławska 427",
+"dz": "146513_8 1077 26/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "70/URN/PB/2024"
+}
+},
+{
+"d": "2024-06-03",
+"c": {
+"inw": "Wniosek o pozwolenie na powiększenie otworów w elewacji budynku U2 - dla bramy i drzwi wraz z daszkami, w parterze przy osi 22, między osiami A-C wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CH Warszawa U Sp.z o.o.",
+"nier": "Puławska 427",
+"dz": "146513_8 1077 26/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "70/URN/PB/2024"
+}
+},
+{
+"d": "2024-06-03",
+"c": {
+"inw": "Wniosek o pozwolenie na powiększenie otworów w elewacji budynku U2 - dla bramy i drzwi wraz z daszkami, w parterze przy osi 22, między osiami A-C wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CH Warszawa U Sp.z o.o.",
+"nier": "Puławska 427",
+"dz": "146513_8 1077 26/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "70/URN/PB/2024"
+}
+},
+{
+"d": "2024-05-29",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę lokalu mieszkalnego budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1027 4/17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "69/URN/PB/2024"
+}
+},
+{
+"d": "2024-05-24",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbudowę istniejącej stacji paliw Circle K o zbiornik AdBlue z dystrybutorami wraz z instalacjami podziemnymi oraz przyłączeniami mediów do sieci wewnątrzzakładowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CIRCLE K POLSKA Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 0824 34",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "68/URN/PB/2024"
+}
+},
+{
+"d": "2024-05-24",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbudowę istniejącej stacji paliw Circle K o zbiornik AdBlue z dystrybutorami wraz z instalacjami podziemnymi oraz przyłączeniami mediów do sieci wewnątrzzakładowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CIRCLE K POLSKA Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 0824 37",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "68/URN/PB/2024"
+}
+},
+{
+"d": "2024-05-24",
+"c": {
+"inw": "Wniosek o przebudowę fragmentu budynku mieszkalnego z częścią usługową i garażami w zakresie lokalu użytkowego U2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Jerzy Petz prowadzący  działalność gospodarczą \"NZOZ MEDIQ JERZY PETZ\"",
+"nier": "",
+"dz": "146513_8 1016 2/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "67/URN/PB/2024"
+}
+},
+{
+"d": "2024-05-24",
+"c": {
+"inw": "Wniosek o przebudowę fragmentu budynku mieszkalnego z częścią usługową i garażami w zakresie lokalu użytkowego U2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Jerzy Petz prowadzący  działalność gospodarczą \"NZOZ MEDIQ JERZY PETZ\"",
+"nier": "",
+"dz": "146513_8 1016 2/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "67/URN/PB/2024"
+}
+},
+{
+"d": "2024-05-24",
+"c": {
+"inw": "Wniosek o przebudowę fragmentu budynku mieszkalnego z częścią usługową i garażami w zakresie lokalu użytkowego U2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Jerzy Petz prowadzący  działalność gospodarczą \"NZOZ MEDIQ JERZY PETZ\"",
+"nier": "",
+"dz": "146513_8 1016 2/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "67/URN/PB/2024"
+}
+},
+{
+"d": "2024-05-24",
+"c": {
+"inw": "Wniosek o przebudowę fragmentu budynku mieszkalnego z częścią usługową i garażami w zakresie lokalu użytkowego U2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Jerzy Petz prowadzący  działalność gospodarczą \"NZOZ MEDIQ JERZY PETZ\"",
+"nier": "",
+"dz": "146513_8 1016 2/22",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "67/URN/PB/2024"
+}
+},
+{
+"d": "2024-05-24",
+"c": {
+"inw": "Wniosek o przebudowę fragmentu budynku mieszkalnego z częścią usługową i garażami w zakresie lokalu użytkowego U2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Jerzy Petz prowadzący  działalność gospodarczą \"NZOZ MEDIQ JERZY PETZ\"",
+"nier": "",
+"dz": "146513_8 1016 2/23",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "67/URN/PB/2024"
+}
+},
+{
+"d": "2024-05-24",
+"c": {
+"inw": "Wniosek o przebudowę fragmentu budynku mieszkalnego z częścią usługową i garażami w zakresie lokalu użytkowego U2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Jerzy Petz prowadzący  działalność gospodarczą \"NZOZ MEDIQ JERZY PETZ\"",
+"nier": "",
+"dz": "146513_8 1016 2/24",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "67/URN/PB/2024"
+}
+},
+{
+"d": "2024-05-24",
+"c": {
+"inw": "Wniosek o przebudowę fragmentu budynku mieszkalnego z częścią usługową i garażami w zakresie lokalu użytkowego U2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Jerzy Petz prowadzący  działalność gospodarczą \"NZOZ MEDIQ JERZY PETZ\"",
+"nier": "",
+"dz": "146513_8 1016 2/25",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "67/URN/PB/2024"
+}
+},
+{
+"d": "2024-05-24",
+"c": {
+"inw": "Wniosek o przebudowę fragmentu budynku mieszkalnego z częścią usługową i garażami w zakresie lokalu użytkowego U2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Jerzy Petz prowadzący  działalność gospodarczą \"NZOZ MEDIQ JERZY PETZ\"",
+"nier": "",
+"dz": "146513_8 1016 15/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "67/URN/PB/2024"
+}
+},
+{
+"d": "2024-05-24",
+"c": {
+"inw": "Wniosek o przebudowę fragmentu budynku mieszkalnego z częścią usługową i garażami w zakresie lokalu użytkowego U2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Jerzy Petz prowadzący  działalność gospodarczą \"NZOZ MEDIQ JERZY PETZ\"",
+"nier": "",
+"dz": "146513_8 1016 15/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "67/URN/PB/2024"
+}
+},
+{
+"d": "2024-05-24",
+"c": {
+"inw": "Wniosek o przebudowę fragmentu budynku mieszkalnego z częścią usługową i garażami w zakresie lokalu użytkowego U2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Jerzy Petz prowadzący  działalność gospodarczą \"NZOZ MEDIQ JERZY PETZ\"",
+"nier": "",
+"dz": "146513_8 1016 15/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "67/URN/PB/2024"
+}
+},
+{
+"d": "2024-05-23",
+"c": {
+"inw": "budowa hali magazynowej z kompleksem biurowym wraz z niezbędną infrastrukturą techniczną i drogową budowa nowego/nowych obiektów budowlanych",
+"wn": "Fal-Bruk Sp.z o.o. sp.k.",
+"nier": "Karczunkowska",
+"dz": "146513_8 0971 3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "66/URN/PB/2024"
+}
+},
+{
+"d": "2024-05-23",
+"c": {
+"inw": "budowa hali magazynowej z kompleksem biurowym wraz z niezbędną infrastrukturą techniczną i drogową budowa nowego/nowych obiektów budowlanych",
+"wn": "Fal-Bruk Sp.z o.o. sp.k.",
+"nier": "Karczunkowska",
+"dz": "146513_8 0971 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "66/URN/PB/2024"
+}
+},
+{
+"d": "2024-05-23",
+"c": {
+"inw": "budowa hali magazynowej z kompleksem biurowym wraz z niezbędną infrastrukturą techniczną i drogową budowa nowego/nowych obiektów budowlanych",
+"wn": "Fal-Bruk Sp.z o.o. sp.k.",
+"nier": "Karczunkowska",
+"dz": "146513_8 0971 5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "66/URN/PB/2024"
+}
+},
+{
+"d": "2024-04-26",
+"c": {
+"inw": "Wniosek o zmianę dec.58/D/22 z 06.04.2022 r. - budynek mieszkalny wielorodzinny z usługami i garażem podziemnym oraz towarzyszącą infrastrukturą i zagospodarowaniem terenu według projektu zamiennego budowa nowego/nowych obiektów budowlanych",
+"wn": "Spółdzielnia Mieszkaniowa \"Wyżyny\"",
+"nier": "",
+"dz": "146513_8 1104 3/38",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "59/URN/PB/2024"
+}
+},
+{
+"d": "2024-04-26",
+"c": {
+"inw": "Wniosek o zmianę dec.58/D/22 z 06.04.2022 r. - budynek mieszkalny wielorodzinny z usługami i garażem podziemnym oraz towarzyszącą infrastrukturą i zagospodarowaniem terenu według projektu zamiennego budowa nowego/nowych obiektów budowlanych",
+"wn": "Spółdzielnia Mieszkaniowa \"Wyżyny\"",
+"nier": "",
+"dz": "146513_8 1104 3/46",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "59/URN/PB/2024"
+}
+},
+{
+"d": "2024-04-26",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wraz z urządzeniami budowlanymi budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Żołny",
+"dz": "146513_8 0926 44/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "58/URN/PB/2024"
+}
+},
+{
+"d": "2024-04-25",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę - wykonanie oddymiania klatki schodowej K-4 oraz szybów windowych w bloku \"2a\" wraz z integracją z istniejącym systemem SSP wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Instytut Hematologii i Transfuzjologii",
+"nier": "Gandhi 14 / Indiry",
+"dz": "146513_8 1075 2/71",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "57/URN/PB/2024"
+}
+},
+{
+"d": "2024-04-25",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę - wykonanie oddymiania klatki schodowej K-4 oraz szybów windowych w bloku \"2a\" wraz z integracją z istniejącym systemem SSP wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Instytut Hematologii i Transfuzjologii",
+"nier": "Gandhi 14 / Indiry",
+"dz": "146513_8 1075 2/39",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "57/URN/PB/2024"
+}
+},
+{
+"d": "2024-04-25",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę - wykonanie oddymiania klatki schodowej K-4 oraz szybów windowych w bloku \"2a\" wraz z integracją z istniejącym systemem SSP wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Instytut Hematologii i Transfuzjologii",
+"nier": "Gandhi 14 / Indiry",
+"dz": "146513_8 1075 276",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "57/URN/PB/2024"
+}
+},
+{
+"d": "2024-04-22",
+"c": {
+"inw": "budowa budynku oświatowego (niepubliczna szkoła średnia) z zagospodarowaniem terenu i infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Heliantus Sp. zo.o.",
+"nier": "Kogucia",
+"dz": "146513_8 0974 53/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "56/URN/PB/2024"
+}
+},
+{
+"d": "2024-04-12",
+"c": {
+"inw": "Wniosek o zmianę dec.115/D/2023 - budowa dwóch instalacji gazowych dla dwóch budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej wg projektu zamiennego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Pozytywki",
+"dz": "146513_8 0972 31/4",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "54/URN/PB/2024"
+}
+},
+{
+"d": "2024-04-11",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę, remont i docieplenie budynku usługowego z pom. Biurowymi ze zmianą sposobu użytkowania części parteru na pom.labolatoryjne oraz piwnicy na biokomorę i kotłownię gazową wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polska Akademia Nauk- Ogród Botaniczny-Centrum Zachowania Różnorodności Biologicznej w Powsinie",
+"nier": "Prawdziwka",
+"dz": "146513_8 1215 3/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "53/URN/PB/2024"
+}
+},
+{
+"d": "2024-04-04",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę instalacji zbiornikowej na gaz płynny z pojedynczym podziemnym zbiornikiem o pojemności 4850 l wraz z przyłączem gazowym do wiaty na boiska sportowe budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0832 13/15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "51/URN/PB/2024"
+}
+},
+{
+"d": "2024-03-29",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę stacji bazowej telefonii komórkowej P4 o numerze \"WAR1198E\" budowa nowego/nowych obiektów budowlanych",
+"wn": "P4 Sp.zo.o",
+"nier": "",
+"dz": "146513_8 0837 13/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "48/URN/PB/2024"
+}
+},
+{
+"d": "2024-03-29",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę stacji bazowej telefonii komórkowej P4 o numerze \"WAR1198E\" budowa nowego/nowych obiektów budowlanych",
+"wn": "P4 Sp.zo.o",
+"nier": "",
+"dz": "146513_8 0837 14/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "48/URN/PB/2024"
+}
+},
+{
+"d": "2024-03-28",
+"c": {
+"inw": "Wniosek o pozwolenie na wykonanie konstrukcji nadproża stalowego w ścianie nośnej wraz z wybiciem otworu drzwiowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1022 10/37",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "47/URN/PB/2024"
+}
+},
+{
+"d": "2024-03-26",
+"c": {
+"inw": "Rewaloryzacja - remont dworu na Wyczółkach w Warszawie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Łączyny 53",
+"dz": "146513_8 0818 29",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "46/URN/PB/2024"
+}
+},
+{
+"d": "2024-03-26",
+"c": {
+"inw": "Rewaloryzacja - remont dworu na Wyczółkach w Warszawie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Łączyny 53",
+"dz": "146513_8 0818 30/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "46/URN/PB/2024"
+}
+},
+{
+"d": "2024-03-25",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku mieszkalnego jednorodzinnego wraz z zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Kolibrów",
+"dz": "146513_8 0926 60/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "45/URN/PB/2024"
+}
+},
+{
+"d": "2024-03-25",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku mieszkalnego jednorodzinnego wraz z zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Kolibrów",
+"dz": "146513_8 0926 60/4",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "45/URN/PB/2024"
+}
+},
+{
+"d": "2024-03-22",
+"c": {
+"inw": "budowa budynku usługowo-mieszkalnego oraz budowa magazynu, wraz z urządzeniami budowlanymi, w tym zbiornikiem na nieczystości ciekłe (szambo szczelne) budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0920 62/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "44/URN/PB/2024"
+}
+},
+{
+"d": "2024-03-20",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego oraz budowa szamba szczelnego o poj. 10m3 budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Sarabandy",
+"dz": "146513_8 0950 20/6",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "42/URN/PB/2024"
+}
+},
+{
+"d": "2024-03-19",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę 10 budynków mieszkalnych jednorodzinnych 2-lokalowych w zabudowie bliźniaczej wraz z zagospodarowaniem terenu, wewn.ciągiem pieszo-jezdnym oraz parkingiem do 26 stanowisk postojowych budowa nowego/nowych obiektów budowlanych",
+"wn": "MJ Home Development Sp.z o.o.",
+"nier": "Sarabandy",
+"dz": "146513_8 0958 14/10",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "39/URN/PB/2024"
+}
+},
+{
+"d": "2024-03-19",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę 10 budynków mieszkalnych jednorodzinnych 2-lokalowych w zabudowie bliźniaczej wraz z zagospodarowaniem terenu, wewn.ciągiem pieszo-jezdnym oraz parkingiem do 26 stanowisk postojowych budowa nowego/nowych obiektów budowlanych",
+"wn": "MJ Home Development Sp.z o.o.",
+"nier": "Sarabandy",
+"dz": "146513_8 0958 14/11",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "39/URN/PB/2024"
+}
+},
+{
+"d": "2024-03-19",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę 12 budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej w tym 6 budynków dwulokalowych wraz z infrastrukturą techniczną i zagospodarowanie terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "Bażncia Sp.z o.o",
+"nier": "Bażancia",
+"dz": "146513_8 0979 5",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "40/URN/PB/2024"
+}
+},
+{
+"d": "2024-03-19",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolnostojącego wraz z elementami zagospodarowania terenu i infrastrukturą techniczną oraz budowie fragmentu wewnętrznej drogi dojazdowej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Prawdziwka",
+"dz": "146513_8 1213 1/13",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "41/URN/PB/2024"
+}
+},
+{
+"d": "2024-03-11",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku mieszkalnego jednorodzinnego z infrastrukturą wewnętrzną i zewnętrzną, z dojściem i dojazdem budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Żołny",
+"dz": "146513_8 0926 21/7",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "38/URN/PB/2024"
+}
+},
+{
+"d": "2024-03-08",
+"c": {
+"inw": "Wniosek o pozwolenie na  rozbiórkę budynków i budowli tj.: nr 6, 11 , 12, 14, 17, 18, 19, 20, 21 rozbiórka istniejącego obiektu budowlanego",
+"wn": "Recap SPV 31 Sp.zo.o.,",
+"nier": "Taneczna",
+"dz": "146513_8 0824 24",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "37/URN/PB/2024/R"
+}
+},
+{
+"d": "2024-03-01",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku mieszkalnego jednorodzinnego wolnostojącego wraz z tymczasowym dojazdem budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Wełniana",
+"dz": "146513_8 1107 50/6",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "36/URN/PB/2024"
+}
+},
+{
+"d": "2024-03-01",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku mieszkalnego jednorodzinnego wolnostojącego wraz z tymczasowym dojazdem budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Wełniana",
+"dz": "146513_8 1107 50/4",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "36/URN/PB/2024"
+}
+},
+{
+"d": "2024-02-26",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbiórkę budynków rozbiórka istniejącego obiektu budowlanego",
+"wn": "Dream Houses Development Sp.zo.o,",
+"nier": "Jagielska",
+"dz": "146513_8 0967 36/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "34/URN/PB/2024/R"
+}
+},
+{
+"d": "2024-02-22",
+"c": {
+"inw": "Wniosek o pozwolenie na  rozbudowę i nadbudowę budynku szkoły niepublicznej o część z przeznaczeniem dla psychologa szkolnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Fundacja PRIMUS",
+"nier": "",
+"dz": "146513_8 1110 33",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "32/URN/PB/2024"
+}
+},
+{
+"d": "2024-02-22",
+"c": {
+"inw": "przebudowa, remont i docieplenie budynku usługowego wraz z rozbiórką części parteru wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polska Akademia Nauk Ogród Botaniczny - Centrum Zachowania Różnorodności Biologicznej w Powsinie",
+"nier": "Prawdziwka",
+"dz": "146513_8 1215 3/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "31/URN/PB/2024"
+}
+},
+{
+"d": "2024-02-19",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku mieszkalnego jednorodzinnego z lokalem usługowym, wraz z instalacją gazową budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Żołny",
+"dz": "146513_8 0925 121/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "30/URN/PB/2024"
+}
+},
+{
+"d": "2024-02-16",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę i zmianę sposobu użytkowania lokalu usługowego usytuowanego w parterze budynku szkoły podstawowej, z przychodni lekarskiej na salę lekcyjną i powiązaniem jej z budynkiem szkoły wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Samodzielne Koło Terenowe nr 20 STO",
+"nier": "Wiolinowa",
+"dz": "146513_8 1008 8/30",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "28/URN/PB/2024"
+}
+},
+{
+"d": "2024-02-16",
+"c": {
+"inw": "budowa budynku hotelowo-usługowego z garażem podziemnym wraz z infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Poleczki Development",
+"nier": "Hołubcowa",
+"dz": "146513_8 0821 68",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "29/URN/PB/2024"
+}
+},
+{
+"d": "2024-02-16",
+"c": {
+"inw": "budowa budynku hotelowo-usługowego z garażem podziemnym wraz z infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Poleczki Development",
+"nier": "Hołubcowa",
+"dz": "146513_8 0821 69",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "29/URN/PB/2024"
+}
+},
+{
+"d": "2024-02-16",
+"c": {
+"inw": "budowa budynku hotelowo-usługowego z garażem podziemnym wraz z infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Poleczki Development",
+"nier": "Hołubcowa",
+"dz": "146513_8 0823 58",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "29/URN/PB/2024"
+}
+},
+{
+"d": "2024-02-16",
+"c": {
+"inw": "budowa budynku hotelowo-usługowego z garażem podziemnym wraz z infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Poleczki Development",
+"nier": "Hołubcowa",
+"dz": "146513_8 0823 59",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "29/URN/PB/2024"
+}
+},
+{
+"d": "2024-02-16",
+"c": {
+"inw": "budowa budynku hotelowo-usługowego z garażem podziemnym wraz z infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Poleczki Development",
+"nier": "Hołubcowa",
+"dz": "146513_8 0823 62",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "29/URN/PB/2024"
+}
+},
+{
+"d": "2024-02-09",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych wielorodzinnych z instalacjami wewnętrznymi, garażami, miejscami postojowymi na terenie oraz altaną śmietnikową, placem zabaw, dojściami i dojazdami budowa nowego/nowych obiektów budowlanych",
+"wn": "Spółdzielnia Mieszkaniowa WOLA",
+"nier": "Gawota",
+"dz": "146513_8 0922 155/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "26/URN/PB/2024"
+}
+},
+{
+"d": "2024-02-09",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych wielorodzinnych z instalacjami wewnętrznymi, garażami, miejscami postojowymi na terenie oraz altaną śmietnikową, placem zabaw, dojściami i dojazdami budowa nowego/nowych obiektów budowlanych",
+"wn": "Spółdzielnia Mieszkaniowa WOLA",
+"nier": "Gawota",
+"dz": "146513_8 0922 155/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "26/URN/PB/2024"
+}
+},
+{
+"d": "2024-02-09",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych wielorodzinnych z instalacjami wewnętrznymi, garażami, miejscami postojowymi na terenie oraz altaną śmietnikową, placem zabaw, dojściami i dojazdami budowa nowego/nowych obiektów budowlanych",
+"wn": "Spółdzielnia Mieszkaniowa WOLA",
+"nier": "Gawota",
+"dz": "146513_8 0922 155/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "26/URN/PB/2024"
+}
+},
+{
+"d": "2024-02-08",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę instalacji gazowej dla potrzeb budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SBM Stokłosy",
+"nier": "Lachmana 7 / Wacława",
+"dz": "146513_8 1010 5/44",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "23/URN/PB/2024"
+}
+},
+{
+"d": "2024-02-08",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę instalacji gazowej dla potrzeb budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SBM Stokłosy",
+"nier": "Lachmana 7 / Wacława",
+"dz": "146513_8 1010 5/46",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "23/URN/PB/2024"
+}
+},
+{
+"d": "2024-02-08",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę instalacji gazowej dla potrzeb budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SBM Stokłosy",
+"nier": "Lachmana 7 / Wacława",
+"dz": "146513_8 1010 5/123",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "23/URN/PB/2024"
+}
+},
+{
+"d": "2024-02-06",
+"c": {
+"inw": "Wniosek o zmianę decyzji nr 128/D/2023 z 24.10.2023 w zakresie budowy budynku handlowo-usługowego wraz z wewnętrzną instalacją gazową, parkingiem naziemnym, zagospodarowaniem terenu, zbiornikiem pożarowym oraz zbiornikiem retencyjno-rozsączającym w zakresie zatwierdzenia zamiennego projektu budowlanego budowa nowego/nowych obiektów budowlanych",
+"wn": "Tower Project Sp.zo.o,",
+"nier": "Karczunkowska",
+"dz": "146513_8 0960 4/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "22/URN/PB/2024/Z"
+}
+},
+{
+"d": "2024-02-06",
+"c": {
+"inw": "Wniosek o zmianę decyzji nr 128/D/2023 z 24.10.2023 w zakresie budowy budynku handlowo-usługowego wraz z wewnętrzną instalacją gazową, parkingiem naziemnym, zagospodarowaniem terenu, zbiornikiem pożarowym oraz zbiornikiem retencyjno-rozsączającym w zakresie zatwierdzenia zamiennego projektu budowlanego budowa nowego/nowych obiektów budowlanych",
+"wn": "Tower Project Sp.zo.o,",
+"nier": "Karczunkowska",
+"dz": "146513_8 0960 4/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "22/URN/PB/2024/Z"
+}
+},
+{
+"d": "2024-02-06",
+"c": {
+"inw": "Wniosek o zmianę decyzji nr 128/D/2023 z 24.10.2023 w zakresie budowy budynku handlowo-usługowego wraz z wewnętrzną instalacją gazową, parkingiem naziemnym, zagospodarowaniem terenu, zbiornikiem pożarowym oraz zbiornikiem retencyjno-rozsączającym w zakresie zatwierdzenia zamiennego projektu budowlanego budowa nowego/nowych obiektów budowlanych",
+"wn": "Tower Project Sp.zo.o,",
+"nier": "Karczunkowska",
+"dz": "146513_8 0960 4/15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "22/URN/PB/2024/Z"
+}
+},
+{
+"d": "2024-02-06",
+"c": {
+"inw": "Wniosek o zmianę decyzji nr 128/D/2023 z 24.10.2023 w zakresie budowy budynku handlowo-usługowego wraz z wewnętrzną instalacją gazową, parkingiem naziemnym, zagospodarowaniem terenu, zbiornikiem pożarowym oraz zbiornikiem retencyjno-rozsączającym w zakresie zatwierdzenia zamiennego projektu budowlanego budowa nowego/nowych obiektów budowlanych",
+"wn": "Tower Project Sp.zo.o,",
+"nier": "Karczunkowska",
+"dz": "146513_8 0960 4/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "22/URN/PB/2024/Z"
+}
+},
+{
+"d": "2024-02-02",
+"c": {
+"inw": "budowa dwóch budynków jednorodzinnych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "EKO-DOM Sp.z o.o.",
+"nier": "Karczunkowska",
+"dz": "146513_8 0965 31",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "21/URN/PB/2024"
+}
+},
+{
+"d": "2024-01-31",
+"c": {
+"inw": "Wniosek o pozwolenie na budowe zespołu urządzeń telefonii komórkowej P4 WAR1407A. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "P4 Sp. z o.o.",
+"nier": "Kadryla",
+"dz": "146513_8 0834 75",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "19/URN/PB/2024"
+}
+},
+{
+"d": "2024-01-30",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę mieszkania w budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Małej Łąki",
+"dz": "146513_8 1108 3/29",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "18/URN/PB/2024"
+}
+},
+{
+"d": "2024-01-26",
+"c": {
+"inw": "Wniosek o pozwolenie na wykonanie otworu w ścianie murowanej w budynku mieszkalnym z garażami wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Roentgena / Wilhelma Konrada",
+"dz": "146513_8 1074 106",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "14/URN/PB/2024"
+}
+},
+{
+"d": "2024-01-26",
+"c": {
+"inw": "Wniosek o pozwolenie na wykonanie otworu w ścianie murowanej w budynku mieszkalnym z garażami wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Roentgena / Wilhelma Konrada",
+"dz": "146513_8 1074 108",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "14/URN/PB/2024"
+}
+},
+{
+"d": "2024-01-26",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbiórkę stacji paliw płynnych sieci \"CIRCLE K\" wraz z infrastrukturą techniczną rozbiórka istniejącego obiektu budowlanego",
+"wn": "Circle K Polska Sp.z o.o.",
+"nier": "Puławska",
+"dz": "146513_8 1077 14/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "15/URN/PB/2024/R"
+}
+},
+{
+"d": "2024-01-26",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbiórkę stacji paliw płynnych sieci \"CIRCLE K\" wraz z infrastrukturą techniczną rozbiórka istniejącego obiektu budowlanego",
+"wn": "Circle K Polska Sp.z o.o.",
+"nier": "Puławska",
+"dz": "146513_8 1077 20/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "15/URN/PB/2024/R"
+}
+},
+{
+"d": "2024-01-26",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbiórkę stacji paliw płynnych sieci \"CIRCLE K\" wraz z infrastrukturą techniczną rozbiórka istniejącego obiektu budowlanego",
+"wn": "Circle K Polska Sp.z o.o.",
+"nier": "Puławska",
+"dz": "146513_8 1077 109/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "15/URN/PB/2024/R"
+}
+},
+{
+"d": "2024-01-26",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbiórkę stacji paliw płynnych sieci \"CIRCLE K\" wraz z infrastrukturą techniczną rozbiórka istniejącego obiektu budowlanego",
+"wn": "Circle K Polska Sp.z o.o.",
+"nier": "Puławska",
+"dz": "146513_8 1077 110",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "15/URN/PB/2024/R"
+}
+},
+{
+"d": "2024-01-18",
+"c": {
+"inw": "przebudowa budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Jaskółcza",
+"dz": "146513_8 0973 69",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "10/URN/PB/2024/O"
+}
+},
+{
+"d": "2024-01-18",
+"c": {
+"inw": "Wniosek o zmianę pozwolenia na budowę nr 5/D/21 z 15.01.2021 dot. pozwolenie na budowę zespołu 6 budynków mieszkalnych jednorodzinnych dwulokalowych wraz z budową drogi wewnętrznej w zakresie zatwierdzenia zamiennego projektu budowlanego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SAINZ Projekt 2 Sp. z o.o.",
+"nier": "Żołny 46, 46A, 46B, 46C, 46D, 46E",
+"dz": "146513_8 0925 117/12",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "12/URN/PB/2024/Z"
+}
+},
+{
+"d": "2024-01-18",
+"c": {
+"inw": "Wniosek o zmianę pozwolenia na budowę nr 5/D/21 z 15.01.2021 dot. pozwolenie na budowę zespołu 6 budynków mieszkalnych jednorodzinnych dwulokalowych wraz z budową drogi wewnętrznej w zakresie zatwierdzenia zamiennego projektu budowlanego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SAINZ Projekt 2 Sp. z o.o.",
+"nier": "Żołny 46, 46A, 46B, 46C, 46D, 46E",
+"dz": "146513_8 0925 117/11",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "12/URN/PB/2024/Z"
+}
+},
+{
+"d": "2024-01-18",
+"c": {
+"inw": "Wniosek o zmianę pozwolenia na budowę nr 5/D/21 z 15.01.2021 dot. pozwolenie na budowę zespołu 6 budynków mieszkalnych jednorodzinnych dwulokalowych wraz z budową drogi wewnętrznej w zakresie zatwierdzenia zamiennego projektu budowlanego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SAINZ Projekt 2 Sp. z o.o.",
+"nier": "Żołny 46, 46A, 46B, 46C, 46D, 46E",
+"dz": "146513_8 0925 117/10",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "12/URN/PB/2024/Z"
+}
+},
+{
+"d": "2024-01-18",
+"c": {
+"inw": "Wniosek o zmianę pozwolenia na budowę nr 5/D/21 z 15.01.2021 dot. pozwolenie na budowę zespołu 6 budynków mieszkalnych jednorodzinnych dwulokalowych wraz z budową drogi wewnętrznej w zakresie zatwierdzenia zamiennego projektu budowlanego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SAINZ Projekt 2 Sp. z o.o.",
+"nier": "Żołny 46, 46A, 46B, 46C, 46D, 46E",
+"dz": "146513_8 0925 117/9",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "12/URN/PB/2024/Z"
+}
+},
+{
+"d": "2024-01-18",
+"c": {
+"inw": "Wniosek o zmianę pozwolenia na budowę nr 5/D/21 z 15.01.2021 dot. pozwolenie na budowę zespołu 6 budynków mieszkalnych jednorodzinnych dwulokalowych wraz z budową drogi wewnętrznej w zakresie zatwierdzenia zamiennego projektu budowlanego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SAINZ Projekt 2 Sp. z o.o.",
+"nier": "Żołny 46, 46A, 46B, 46C, 46D, 46E",
+"dz": "146513_8 0925 117/7",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "12/URN/PB/2024/Z"
+}
+},
+{
+"d": "2024-01-18",
+"c": {
+"inw": "Wniosek o zmianę pozwolenia na budowę nr 5/D/21 z 15.01.2021 dot. pozwolenie na budowę zespołu 6 budynków mieszkalnych jednorodzinnych dwulokalowych wraz z budową drogi wewnętrznej w zakresie zatwierdzenia zamiennego projektu budowlanego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SAINZ Projekt 2 Sp. z o.o.",
+"nier": "Żołny 46, 46A, 46B, 46C, 46D, 46E",
+"dz": "146513_8 0925 117/6",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "12/URN/PB/2024/Z"
+}
+},
+{
+"d": "2024-01-09",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Gawota",
+"dz": "146513_8 0922 138/4",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "6/URN/PB/2024"
+}
+},
+{
+"d": "2024-01-09",
+"c": {
+"inw": "przebudowa lokalu mieszkalnego nr 51 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Meander",
+"dz": "146513_8 1104 3/34",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "7/URN/PB/2024"
+}
+},
+{
+"d": "2024-01-08",
+"c": {
+"inw": "Wniosek o pozwolenie na wykonanie robót budowlanych poleg.na instalacji zadaszenia nad tarasem/balkonem przynależnym do lokalu w istniejącym budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1112 56/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "5/URN/PB/2024"
+}
+},
+{
+"d": "2024-01-08",
+"c": {
+"inw": "Wniosek o pozwolenie na wykonanie robót budowlanych poleg.na instalacji zadaszenia nad tarasem/balkonem przynależnym do lokalu w istniejącym budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1112 56/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "5/URN/PB/2024"
+}
+},
+{
+"d": "2024-01-08",
+"c": {
+"inw": "Wniosek o pozwolenie na wykonanie robót budowlanych poleg.na instalacji zadaszenia nad tarasem/balkonem przynależnym do lokalu w istniejącym budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1112 56/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "5/URN/PB/2024"
+}
+},
+{
+"d": "2024-01-08",
+"c": {
+"inw": "Wniosek o pozwolenie na wykonanie robót budowlanych poleg.na instalacji zadaszenia nad tarasem/balkonem przynależnym do lokalu w istn.budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1112 56/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "4/URN/PB/2024"
+}
+},
+{
+"d": "2024-01-08",
+"c": {
+"inw": "Wniosek o pozwolenie na wykonanie robót budowlanych poleg.na instalacji zadaszenia nad tarasem/balkonem przynależnym do lokalu w istn.budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1112 56/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "4/URN/PB/2024"
+}
+},
+{
+"d": "2024-01-08",
+"c": {
+"inw": "Wniosek o pozwolenie na wykonanie robót budowlanych poleg.na instalacji zadaszenia nad tarasem/balkonem przynależnym do lokalu w istn.budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1112 56/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "4/URN/PB/2024"
+}
+},
+{
+"d": "2024-01-05",
+"c": {
+"inw": "roboty budowlane polegające na wykonaniu otworu w tropie i schodów łączących lokal mieszkalny nr 14 z przydzielonym do lokalu poddasze oraz montaż dadatkowego okna połaciowego na poddaszu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Gawota",
+"dz": "146513_8 0922 155/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "2/URN/PB/2024"
+}
+},
+{
+"d": "2024-01-05",
+"c": {
+"inw": "Wniosek o pozwolenie na wykonanie otworu drzwiowego w ścianie konstrukcyjnej pomiędzy lokalami nr 5 i 6 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1001 41",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "1/URN/PB/2024"
+}
+}
+]
+}
+]
+}

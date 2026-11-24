@@ -1,0 +1,2347 @@
+{
+"district": "wlochy",
+"year": 2017,
+"generated": "2026-11-24T21:24:52+01:00",
+"total": 205,
+"registers": [
+{
+"id": "wn_pnb",
+"name": "Wnioski o pozwolenie na budowę",
+"short": "Wnioski PnB",
+"desc": "Wnioski o pozwolenie na budowę złożone do organu architektoniczno-budowlanego dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer wniosku",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2017-11-10",
+"c": {
+"inw": "Przebudowa i rozbudowa budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Galaktyki 23",
+"dz": "146517_8 0808 232",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "6740.293.2017.ASO (KOB/13968/17)"
+}
+},
+{
+"d": "2017-11-06",
+"c": {
+"inw": "Budowa sieci ciepłowniczej ,,Szczęśliwice II'' na odcinku od komory M-32 w rejonie ul. Łopuszańskiej od komory M-32/P2/P1 w rejonie ul. Popularnej w Warszawie - Zadanie 2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Pryzmaty 0",
+"dz": "146517_8 0720 101/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.292.2017.KTR (KOB/13649/17)"
+}
+},
+{
+"d": "2017-11-06",
+"c": {
+"inw": "Budowa sieci ciepłowniczej ,,Szczęśliwice II'' na odcinku od komory M-32 w rejonie ul. Łopuszańskiej od komory M-32/P2/P1 w rejonie ul. Popularnej w Warszawie - Zadanie 2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Pryzmaty 0",
+"dz": "146517_8 0720 12/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.292.2017.KTR (KOB/13649/17)"
+}
+},
+{
+"d": "2017-11-06",
+"c": {
+"inw": "Budowa sieci ciepłowniczej ,,Szczęśliwice II'' na odcinku od komory M-32 w rejonie ul. Łopuszańskiej od komory M-32/P2/P1 w rejonie ul. Popularnej w Warszawie - Zadanie 2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Pryzmaty 0",
+"dz": "146517_8 0720 10/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.292.2017.KTR (KOB/13649/17)"
+}
+},
+{
+"d": "2017-11-06",
+"c": {
+"inw": "Budowa sieci ciepłowniczej ,,Szczęśliwice II'' na odcinku od komory M-32 w rejonie ul. Łopuszańskiej od komory M-32/P2/P1 w rejonie ul. Popularnej w Warszawie - Zadanie 2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Pryzmaty 0",
+"dz": "146517_8 0721 29/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.292.2017.KTR (KOB/13649/17)"
+}
+},
+{
+"d": "2017-11-06",
+"c": {
+"inw": "Budowa sieci ciepłowniczej ,,Szczęśliwice II'' na odcinku od komory M-32 w rejonie ul. Łopuszańskiej od komory M-32/P2/P1 w rejonie ul. Popularnej w Warszawie - Zadanie 2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Pryzmaty 0",
+"dz": "146517_8 0721 24/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.292.2017.KTR (KOB/13649/17)"
+}
+},
+{
+"d": "2017-11-06",
+"c": {
+"inw": "Budowa sieci ciepłowniczej ,,Szczęśliwice II'' na odcinku od komory M-32 w rejonie ul. Łopuszańskiej od komory M-32/P2/P1 w rejonie ul. Popularnej w Warszawie - Zadanie 2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Pryzmaty 0",
+"dz": "146517_8 0721 28/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.292.2017.KTR (KOB/13649/17)"
+}
+},
+{
+"d": "2017-10-25",
+"c": {
+"inw": "Rozbiórka wiat magazynowo-warsztatowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Czereśniowa 37",
+"dz": "146517_8 0825 86",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6741.24.2017.ASO (KOB/13187)"
+}
+},
+{
+"d": "2017-10-06",
+"c": {
+"inw": "Instalacja gazowa dla budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Szczęsna 22A",
+"dz": "146517_8 0812 29",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.276.2017.KTR (KOB/12272/17)"
+}
+},
+{
+"d": "2017-09-19",
+"c": {
+"inw": "Instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Paradox Investment Sp. z o.o. 1 Sp.k.",
+"nier": "Sabały 4",
+"dz": "146517_8 0403 4/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.252.2017.KTR (KOB/11464/17)"
+}
+},
+{
+"d": "2017-09-08",
+"c": {
+"inw": "Montaż okna w ścianie zewnętrznej budynku hali magazynowej B wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PEC Szyszkowa Sp. z o.o",
+"nier": "Szyszkowa 35/37",
+"dz": "146517_8 0715 15/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.242.2017.ASO (KOB/10766/17)"
+}
+},
+{
+"d": "2017-09-08",
+"c": {
+"inw": "Montaż okna w ścianie zewnętrznej budynku hali magazynowej B wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PEC Szyszkowa Sp. z o.o",
+"nier": "Szyszkowa 35/37",
+"dz": "146517_8 0715 14/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.242.2017.ASO (KOB/10766/17)"
+}
+},
+{
+"d": "2017-09-08",
+"c": {
+"inw": "Montaż okna w ścianie zewnętrznej budynku hali magazynowej B wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PEC Szyszkowa Sp. z o.o",
+"nier": "Szyszkowa 35/37",
+"dz": "146517_8 0715 15/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.242.2017.ASO (KOB/10766/17)"
+}
+},
+{
+"d": "2017-09-08",
+"c": {
+"inw": "Montaż okna w ścianie zewnętrznej budynku hali magazynowej B wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PEC Szyszkowa Sp. z o.o",
+"nier": "Szyszkowa 35/37",
+"dz": "146517_8 0715 31/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.242.2017.ASO (KOB/10766/17)"
+}
+},
+{
+"d": "2017-09-08",
+"c": {
+"inw": "Przebudowa pomieszczenia w części garażu, wydzielonego z powierzchni garażu na zespół sanitarny z prysznicami - piętro -1 budynku D kompleksu biurowego Wiśniowy Bussines Park wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Dounby Sp. z o.o.",
+"nier": "Sierpnia 6 / 1",
+"dz": "146517_8 0405 4/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.243.2017.ASO (KOB/10753/17)"
+}
+},
+{
+"d": "2017-09-08",
+"c": {
+"inw": "Przebudowa pomieszczeń w części garazu, wydzielonego z powierzchni garażu na zespół sanitarny z prysznicami, piętro -1 w budynku E Kompleksu biurowego Wiśniowy Business Park wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Dounby Sp. z o.o.",
+"nier": "Iłżecka 26",
+"dz": "146517_8 0405 12/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.244.2017.ASO (KOB/10752/17)"
+}
+},
+{
+"d": "2017-09-04",
+"c": {
+"inw": "Budowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Promienista 23",
+"dz": "146517_8 0805 84",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.241.2017.ASO (KOB/10520/17)"
+}
+},
+{
+"d": "2017-08-28",
+"c": {
+"inw": "Budowa budynku usługowego - warsztatu elektromechaniki samochodowej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Aksamitna 1",
+"dz": "146517_8 0710 2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.206.2017.KTR (KOB/8780/17)"
+}
+},
+{
+"d": "2017-08-23",
+"c": {
+"inw": "Budowa dwóch wolnostojących nośników reklamowych budowa nowego/nowych obiektów budowlanych",
+"wn": "Niebieski Dom Sp. z o.o.",
+"nier": "Aleja Krakowska 81",
+"dz": "146517_8 0714 7/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.208.2017.JSL (KOB/9845/17)"
+}
+},
+{
+"d": "2017-08-23",
+"c": {
+"inw": "Budowa dwóch wolnostojących nośników reklamowych budowa nowego/nowych obiektów budowlanych",
+"wn": "Niebieski Dom Sp. z o.o.",
+"nier": "Aleja Krakowska 81",
+"dz": "146517_8 0714 7/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.208.2017.JSL (KOB/9845/17)"
+}
+},
+{
+"d": "2017-08-20",
+"c": {
+"inw": "Rozbudowa instalacji gazu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Parafia Rzymskokatolicka M.B. Saletyńskiej w Warszawie",
+"nier": "Popularna 46",
+"dz": "146517_8 0825 3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.236.2017.KTR (KOB/10083/17)"
+}
+},
+{
+"d": "2017-08-18",
+"c": {
+"inw": "Termomodernizacja (ocieplenie) wraz z rozbudową i przebudową budynku biurowo -laboratoryjnego D2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Instytut Lotnictwa",
+"nier": "Aleja Krakowska",
+"dz": "146517_8 0604 2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.233.2017.KTR (KOB/9592/17)"
+}
+},
+{
+"d": "2017-08-08",
+"c": {
+"inw": "Wymiana stropu I piętra istniejącego budynku mieszkalnego wielorodzinnego z lokalem handlowo-usługowym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Bolesława Chrobrego 12",
+"dz": "146517_8 0822 26/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.227.2017.KTR (KOB/9197/17)"
+}
+},
+{
+"d": "2017-08-04",
+"c": {
+"inw": "Budowa wewnętrznej instalacji gazowej dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Budki Szczęśliwickie 19",
+"dz": "146517_8 0816 22",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "6740.230.2017.JSL (KOB/9081/17)"
+}
+},
+{
+"d": "2017-07-11",
+"c": {
+"inw": "budowa instalacji gazowej w bud. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Daleszycka 8",
+"dz": "146517_8 0704 92",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVI-WAB-AAB.6740.178.2017 (UD-XVI-WOM-KOB/8169/17)"
+}
+},
+{
+"d": "2017-07-07",
+"c": {
+"inw": "Budowa sieci wodociągowej DN 150 mm L=591, 07 m w ulicy Parowcowej w W-wie na terenie dzielnicy Włochy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK w m.st. W-wie S.A.",
+"nier": "Parowcowa",
+"dz": "146517_8 0808 102/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.194.2017.KTR (KOB/8034/17)"
+}
+},
+{
+"d": "2017-07-07",
+"c": {
+"inw": "Budowa sieci wodociągowej DN 150 mm L=591, 07 m w ulicy Parowcowej w W-wie na terenie dzielnicy Włochy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK w m.st. W-wie S.A.",
+"nier": "Parowcowa",
+"dz": "146517_8 0808 102/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.194.2017.KTR (KOB/8034/17)"
+}
+},
+{
+"d": "2017-07-07",
+"c": {
+"inw": "Budowa sieci wodociągowej DN 150 mm L=591, 07 m w ulicy Parowcowej w W-wie na terenie dzielnicy Włochy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK w m.st. W-wie S.A.",
+"nier": "Parowcowa",
+"dz": "146517_8 0808 3/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.194.2017.KTR (KOB/8034/17)"
+}
+},
+{
+"d": "2017-07-07",
+"c": {
+"inw": "Budowa sieci wodociągowej DN 150 mm L=591, 07 m w ulicy Parowcowej w W-wie na terenie dzielnicy Włochy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK w m.st. W-wie S.A.",
+"nier": "Parowcowa",
+"dz": "146517_8 0801 13/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.194.2017.KTR (KOB/8034/17)"
+}
+},
+{
+"d": "2017-07-07",
+"c": {
+"inw": "Budowa sieci wodociągowej DN 150 mm L=591, 07 m w ulicy Parowcowej w W-wie na terenie dzielnicy Włochy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK w m.st. W-wie S.A.",
+"nier": "Parowcowa",
+"dz": "146517_8 0801 13/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.194.2017.KTR (KOB/8034/17)"
+}
+},
+{
+"d": "2017-07-07",
+"c": {
+"inw": "Budowa sieci wodociągowej DN 150 mm L=591, 07 m w ulicy Parowcowej w W-wie na terenie dzielnicy Włochy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK w m.st. W-wie S.A.",
+"nier": "Parowcowa",
+"dz": "146517_8 0801 13/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.194.2017.KTR (KOB/8034/17)"
+}
+},
+{
+"d": "2017-07-07",
+"c": {
+"inw": "Budowa sieci wodociągowej DN 150 mm L=591, 07 m w ulicy Parowcowej w W-wie na terenie dzielnicy Włochy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK w m.st. W-wie S.A.",
+"nier": "Parowcowa",
+"dz": "146517_8 0801 17/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.194.2017.KTR (KOB/8034/17)"
+}
+},
+{
+"d": "2017-07-07",
+"c": {
+"inw": "Budowa sieci wodociągowej DN 150 mm L=591, 07 m w ulicy Parowcowej w W-wie na terenie dzielnicy Włochy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK w m.st. W-wie S.A.",
+"nier": "Parowcowa",
+"dz": "146517_8 0801 11/26",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.194.2017.KTR (KOB/8034/17)"
+}
+},
+{
+"d": "2017-07-07",
+"c": {
+"inw": "Budowa sieci wodociągowej DN 150 mm L=591, 07 m w ulicy Parowcowej w W-wie na terenie dzielnicy Włochy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK w m.st. W-wie S.A.",
+"nier": "Parowcowa",
+"dz": "146517_8 0804 1/25",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.194.2017.KTR (KOB/8034/17)"
+}
+},
+{
+"d": "2017-07-05",
+"c": {
+"inw": "Budowa budynku biurowego ,,B'' z garażem podziemnym wraz z wewnętrznymi instalacjami wod.-kan., gazową, co, wentylacji mechanicznej, klimatyzacji i elektrycznymi budowa nowego/nowych obiektów budowlanych",
+"wn": "IGT Holding Polska Sp. z o.o.",
+"nier": "Robotnicza 11/13",
+"dz": "146517_8 0607 148",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.172.2017.KTR (KOB/7884/17)"
+}
+},
+{
+"d": "2017-07-05",
+"c": {
+"inw": "Rozbudowa istniejącego budynku biurowego ,,A'' z wewnętrznymi instalacjami wod.-kan., gazową, co, wentylacji mechanicznej, klimatyzacji i elektrycznymi rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "IGT Holding Polska Sp. z o.o.",
+"nier": "Robotnicza 11/13",
+"dz": "146517_8 0607 148",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.175.2017.KTR (KOB/7885/17)"
+}
+},
+{
+"d": "2017-06-30",
+"c": {
+"inw": "Budowa instalacji gazowej dla lokalu mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Świerszcza 6",
+"dz": "146517_8 0821 105",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.169.2017.KTR (KOB/7710/17)"
+}
+},
+{
+"d": "2017-06-21",
+"c": {
+"inw": "Wewnętrzna instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Popularna 26",
+"dz": "146517_8 0824 11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.149.2017.ASO (KOB/7298/17)"
+}
+},
+{
+"d": "2017-06-16",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z garażami budowa nowego/nowych obiektów budowlanych",
+"wn": "SG Property Sp. z o.o.",
+"nier": "Janiszowska 23A",
+"dz": "146517_8 0707 10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.148.2017.ASO (KOB/7103/17)"
+}
+},
+{
+"d": "2017-06-14",
+"c": {
+"inw": "Budowa wewnętrznej instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kraszewskiego 8 / Józefa Ignacego",
+"dz": "146517_8 0819 20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.146.2017.KTR (KOB/7072/17)"
+}
+},
+{
+"d": "2017-06-01",
+"c": {
+"inw": "Instalacja gazowa zasilana z sieci gazowej do budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Sycowska 8",
+"dz": "146517_8 0707 129",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.2.2017.KTR (KOB/6603/17)"
+}
+},
+{
+"d": "2017-06-01",
+"c": {
+"inw": "Rozbiórka garażu i części budynku jednorodzinnego oraz rozbudowa i przebudowa pozostałej po rozbiórce części budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Kolneńska 13",
+"dz": "146517_8 0504 8",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "6740.174.2017.JSL (KOB/6612/17)"
+}
+},
+{
+"d": "2017-06-01",
+"c": {
+"inw": "Budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Sabały 29",
+"dz": "146517_8 0406 22/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "6740.131.2017.ASO (KOB/6605/17)"
+}
+},
+{
+"d": "2017-06-01",
+"c": {
+"inw": "rozbiórka  budynku mieszkalnego i wiaty rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Kraszewskiego 21 / Józefa Ignacego",
+"dz": "146517_8 0818 8/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XVI-WAB-AAB.6741.15.2017.IJA"
+}
+},
+{
+"d": "2017-05-26",
+"c": {
+"inw": "Budowa budynku biurowego z lokalami handlowo-usługowo-biurowymi i garażem podziemnym wraz z przebudowa sieci ciepłowniczej z tymczasowym przełożeniem sieci w obrębie terenu inwestycji budowa nowego/nowych obiektów budowlanych",
+"wn": "ABC SPV Sp. z o.o.",
+"nier": "Gładka",
+"dz": "146517_8 0406 38",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.127.2017.IJA(KTR) (KOB/6368/17)"
+}
+},
+{
+"d": "2017-05-26",
+"c": {
+"inw": "Budowa budynku biurowego z lokalami handlowo-usługowo-biurowymi i garażem podziemnym wraz z przebudowa sieci ciepłowniczej z tymczasowym przełożeniem sieci w obrębie terenu inwestycji budowa nowego/nowych obiektów budowlanych",
+"wn": "ABC SPV Sp. z o.o.",
+"nier": "Gładka",
+"dz": "146517_8 0406 40",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.127.2017.IJA(KTR) (KOB/6368/17)"
+}
+},
+{
+"d": "2017-05-25",
+"c": {
+"inw": "Budowa instalacji gazowej w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "ZGN Włochy",
+"nier": "Janiszowska 3",
+"dz": "146517_8 0707 27",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.124.2017.ASO (KOB/6326/17)"
+}
+},
+{
+"d": "2017-05-18",
+"c": {
+"inw": "Rozbiórka dwóch budynków gospodarczych oraz budynku jednorodzinnego w stanie surowym rozbiórka istniejącego obiektu budowlanego",
+"wn": "Engave Sp. z o.o.",
+"nier": "Muszkieterów 20",
+"dz": "146517_8 0711 94",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6741.14.2017.ASO (KOB/5998/17)"
+}
+},
+{
+"d": "2017-05-18",
+"c": {
+"inw": "Budowa instalacji gazowej w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "ZGN Włochy",
+"nier": "Popularna 27",
+"dz": "146517_8 0814 36",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.117.2017.ASO (KOB/6035/17)"
+}
+},
+{
+"d": "2017-05-18",
+"c": {
+"inw": "budowa instalacji gazowej dla budynku usługowo mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kazimierza Wielkiego",
+"dz": "146517_8 0506 31/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVI-WAB-AAB.6740.119.2017.IJA"
+}
+},
+{
+"d": "2017-05-15",
+"c": {
+"inw": "Budowa indywidualnego jednorodzinnego jednolokalowego domu mieszkalnego z garażem wbudowanym budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Szczęsna 22A",
+"dz": "146517_8 0812 29",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "6740.110.2017.IJA(KTR) (KOB/5820/17)"
+}
+},
+{
+"d": "2017-05-10",
+"c": {
+"inw": "Budowa gazociągu śr. 90 PE średniego ciśnienia w ulicy Popularnej budowa nowego/nowych obiektów budowlanych",
+"wn": "PSG Sp. z o.o. Oddział Zakład Gazowniczy w W-wie",
+"nier": "Popularna",
+"dz": "146517_8 0810 101/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.135.2017.JSL (KOB/5679/17)"
+}
+},
+{
+"d": "2017-05-10",
+"c": {
+"inw": "Budowa gazociągu śr. 90 PE średniego ciśnienia w ulicy Popularnej budowa nowego/nowych obiektów budowlanych",
+"wn": "PSG Sp. z o.o. Oddział Zakład Gazowniczy w W-wie",
+"nier": "Popularna",
+"dz": "146517_8 0810 101/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.135.2017.JSL (KOB/5679/17)"
+}
+},
+{
+"d": "2017-05-09",
+"c": {
+"inw": "Instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "ZGN Włochy",
+"nier": "Konewki 1",
+"dz": "146517_8 0824 13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.107.2017.ASO (KOB/5616/17)"
+}
+},
+{
+"d": "2017-05-08",
+"c": {
+"inw": "Rozbiórka budynku mieszkalnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Przyłęcka 6",
+"dz": "146517_8 0821 56",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "6741.11.2017.ASO (KOB/5561/17)"
+}
+},
+{
+"d": "2017-05-08",
+"c": {
+"inw": "Rozbiórka budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Przyłęcka 6",
+"dz": "146517_8 0821 56",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6741.12.2017.ASO (KOB/5562/17)"
+}
+},
+{
+"d": "2017-04-26",
+"c": {
+"inw": "Budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Wilczycka 9",
+"dz": "146517_8 0824 92/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "6740.100.2017.ASO (KOB/5201/17)"
+}
+},
+{
+"d": "2017-04-26",
+"c": {
+"inw": "Rozbiórka budynku garażowego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Wilczycka 9",
+"dz": "146517_8 0824 92/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6741.10.2017.ASO (KOB/5199/17"
+}
+},
+{
+"d": "2017-04-24",
+"c": {
+"inw": "Instalacja gazowa dla zespołu trzech willi miejsckich wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MaRS Investments Sp. z o.o. Sp. kom.",
+"nier": "Ryżowa 4",
+"dz": "146517_8 0829 114/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.114.2017.JSL (KOB/5089/17)"
+}
+},
+{
+"d": "2017-04-24",
+"c": {
+"inw": "Instalacja gazowa dla zespołu trzech willi miejsckich wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MaRS Investments Sp. z o.o. Sp. kom.",
+"nier": "Ryżowa 4",
+"dz": "146517_8 0829 114/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.114.2017.JSL (KOB/5089/17)"
+}
+},
+{
+"d": "2017-04-24",
+"c": {
+"inw": "Instalacja gazowa dla zespołu trzech willi miejsckich wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MaRS Investments Sp. z o.o. Sp. kom.",
+"nier": "Ryżowa 4",
+"dz": "146517_8 0829 114/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.114.2017.JSL (KOB/5089/17)"
+}
+},
+{
+"d": "2017-04-21",
+"c": {
+"inw": "Instalacja gazowa zasilana z sieci gazowej dla dwóch budynkow mieszkalnych jednorodzinnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Solipska 11",
+"dz": "146517_8 0829 104/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.89.2017.IJA(KTR) (KOB/5008/17)"
+}
+},
+{
+"d": "2017-04-14",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym oraz rozbiórka budynków mieszkalnego i gospodarczego budowa nowego/nowych obiektów budowlanych",
+"wn": "CPM Dewelopment Sp. z o.o. Sp. kom.",
+"nier": "Pilchowicka 21",
+"dz": "146517_8 0406 195",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.113.2017.JSL (KOB/4840/17)"
+}
+},
+{
+"d": "2017-04-13",
+"c": {
+"inw": "Rozbudowa i przebudowa budynku mieszkalnego jednorodzinnego w zabudowie bliźniaczej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Czereśniowa 36A",
+"dz": "146517_8 0826 17",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "6740.108.2017.JSL (KOB/4784/17)"
+}
+},
+{
+"d": "2017-04-12",
+"c": {
+"inw": "budowa przewodu wodociągowego, budowa nowego/nowych obiektów budowlanych",
+"wn": "DTM Spółka Jawna Arleta Kuczewska Tadeusz Olchawski",
+"nier": "Krańcowa",
+"dz": "146517_8 0825 56/40",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVI-WAB-AAB.6740.84.2017.IJA"
+}
+},
+{
+"d": "2017-04-12",
+"c": {
+"inw": "budowa przewodu wodociągowego, budowa nowego/nowych obiektów budowlanych",
+"wn": "DTM Spółka Jawna Arleta Kuczewska Tadeusz Olchawski",
+"nier": "Krańcowa",
+"dz": "146517_8 0825 56/41",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVI-WAB-AAB.6740.84.2017.IJA"
+}
+},
+{
+"d": "2017-04-12",
+"c": {
+"inw": "budowa przewodu wodociągowego, budowa nowego/nowych obiektów budowlanych",
+"wn": "DTM Spółka Jawna Arleta Kuczewska Tadeusz Olchawski",
+"nier": "Krańcowa",
+"dz": "146517_8 0825 112",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVI-WAB-AAB.6740.84.2017.IJA"
+}
+},
+{
+"d": "2017-04-12",
+"c": {
+"inw": "budowa kanału ściekowego budowa nowego/nowych obiektów budowlanych",
+"wn": "DTM Spółka Jawna Arleta Kuczewska Tadeusz Olchawski",
+"nier": "Krańcowa",
+"dz": "146517_8 0825 56/40",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVI-WAB-AAB.6740.85.2017.IJA"
+}
+},
+{
+"d": "2017-04-12",
+"c": {
+"inw": "budowa kanału ściekowego budowa nowego/nowych obiektów budowlanych",
+"wn": "DTM Spółka Jawna Arleta Kuczewska Tadeusz Olchawski",
+"nier": "Krańcowa",
+"dz": "146517_8 0825 112",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVI-WAB-AAB.6740.85.2017.IJA"
+}
+},
+{
+"d": "2017-04-12",
+"c": {
+"inw": "budowa kanału ściekowego budowa nowego/nowych obiektów budowlanych",
+"wn": "DTM Spółka Jawna Arleta Kuczewska Tadeusz Olchawski",
+"nier": "Krańcowa",
+"dz": "146517_8 0825 56/41",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVI-WAB-AAB.6740.85.2017.IJA"
+}
+},
+{
+"d": "2017-04-05",
+"c": {
+"inw": "Przebudowa części budynku magazynowo- biurowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Raf Trans Sp. z o.o",
+"nier": "Municypalna 45",
+"dz": "146517_8 0708 10/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.105.2017.JSL (KOB/4419/17)"
+}
+},
+{
+"d": "2017-03-28",
+"c": {
+"inw": "budowa  zespołu budynków wielorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "Belvedere Nieruchomości Sp. z o.o.",
+"nier": "Dźwigowa",
+"dz": "146517_8 0808 88",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVI-WAB-AAB.6740.71.2017.IJA(9 ATY)"
+}
+},
+{
+"d": "2017-03-28",
+"c": {
+"inw": "budowa  zespołu budynków wielorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "Belvedere Nieruchomości Sp. z o.o.",
+"nier": "Dźwigowa",
+"dz": "146517_8 0808 92",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVI-WAB-AAB.6740.71.2017.IJA(9 ATY)"
+}
+},
+{
+"d": "2017-03-28",
+"c": {
+"inw": "budowa  zespołu budynków wielorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "Belvedere Nieruchomości Sp. z o.o.",
+"nier": "Dźwigowa",
+"dz": "146517_8 0808 93",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVI-WAB-AAB.6740.71.2017.IJA(9 ATY)"
+}
+},
+{
+"d": "2017-03-28",
+"c": {
+"inw": "budowa  zespołu budynków wielorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "Belvedere Nieruchomości Sp. z o.o.",
+"nier": "Dźwigowa",
+"dz": "146517_8 0808 94",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVI-WAB-AAB.6740.71.2017.IJA(9 ATY)"
+}
+},
+{
+"d": "2017-03-28",
+"c": {
+"inw": "budowa  zespołu budynków wielorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "Belvedere Nieruchomości Sp. z o.o.",
+"nier": "Dźwigowa",
+"dz": "146517_8 0808 95",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVI-WAB-AAB.6740.71.2017.IJA(9 ATY)"
+}
+},
+{
+"d": "2017-03-24",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Szczęsna 16",
+"dz": "146517_8 0812 25",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVI-WAB-AAB.6740.69.2017.IJA(4 ATY)"
+}
+},
+{
+"d": "2017-03-23",
+"c": {
+"inw": "Instalacja gazowa dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Na Skraju",
+"dz": "146517_8 0615 76/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "6740.103.2017.JSL (KOB/3877/17)"
+}
+},
+{
+"d": "2017-03-22",
+"c": {
+"inw": "budowy budynku mieszkalnego wielorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Promienista",
+"dz": "146517_8 0804 109/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVI-WAB-AAB.6740.65.2017.IJA"
+}
+},
+{
+"d": "2017-03-21",
+"c": {
+"inw": "Budowa sieci gazowej DN 63 Pe śr ciśnienia wraz z dwoma przyłączami do budynków mieszkalnych budowa nowego/nowych obiektów budowlanych",
+"wn": "PSG Sp. zo.o.",
+"nier": "Rybnicka",
+"dz": "146517_8 0807 1/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.102.2017.JSL (KOB/3731/17)"
+}
+},
+{
+"d": "2017-03-21",
+"c": {
+"inw": "Budowa sieci gazowej DN 63 Pe śr ciśnienia wraz z dwoma przyłączami do budynków mieszkalnych budowa nowego/nowych obiektów budowlanych",
+"wn": "PSG Sp. zo.o.",
+"nier": "Rybnicka",
+"dz": "146517_8 0807 22/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.102.2017.JSL (KOB/3731/17)"
+}
+},
+{
+"d": "2017-03-21",
+"c": {
+"inw": "Budowa sieci gazowej DN 63 Pe śr ciśnienia wraz z dwoma przyłączami do budynków mieszkalnych budowa nowego/nowych obiektów budowlanych",
+"wn": "PSG Sp. zo.o.",
+"nier": "Rybnicka",
+"dz": "146517_8 0807 22/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.102.2017.JSL (KOB/3731/17)"
+}
+},
+{
+"d": "2017-03-21",
+"c": {
+"inw": "Budowa sieci gazowej DN 63 Pe śr ciśnienia wraz z dwoma przyłączami do budynków mieszkalnych budowa nowego/nowych obiektów budowlanych",
+"wn": "PSG Sp. zo.o.",
+"nier": "Rybnicka",
+"dz": "146517_8 0807 22/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.102.2017.JSL (KOB/3731/17)"
+}
+},
+{
+"d": "2017-03-21",
+"c": {
+"inw": "Budowa sieci gazowej DN 63 Pe śr ciśnienia wraz z dwoma przyłączami do budynków mieszkalnych budowa nowego/nowych obiektów budowlanych",
+"wn": "PSG Sp. zo.o.",
+"nier": "Rybnicka",
+"dz": "146517_8 0807 22/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.102.2017.JSL (KOB/3731/17)"
+}
+},
+{
+"d": "2017-03-21",
+"c": {
+"inw": "Budowa sieci gazowej DN 63 Pe śr ciśnienia wraz z dwoma przyłączami do budynków mieszkalnych budowa nowego/nowych obiektów budowlanych",
+"wn": "PSG Sp. zo.o.",
+"nier": "Rybnicka",
+"dz": "146517_8 0807 10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.102.2017.JSL (KOB/3731/17)"
+}
+},
+{
+"d": "2017-03-21",
+"c": {
+"inw": "Budowa sieci gazowej DN 63 Pe śr ciśnienia wraz z dwoma przyłączami do budynków mieszkalnych budowa nowego/nowych obiektów budowlanych",
+"wn": "PSG Sp. zo.o.",
+"nier": "Rybnicka",
+"dz": "146517_8 0807 11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.102.2017.JSL (KOB/3731/17)"
+}
+},
+{
+"d": "2017-03-21",
+"c": {
+"inw": "przebudowa sieci SN i nN wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "INNOGY STOEN OPERATOR SP. Z O.O.,",
+"nier": "Sekundowa",
+"dz": "146517_8 0406 227/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVI-WAB-AAB.6740.62.2017.IJA"
+}
+},
+{
+"d": "2017-03-21",
+"c": {
+"inw": "przebudowa sieci SN i nN wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "INNOGY STOEN OPERATOR SP. Z O.O.,",
+"nier": "Sekundowa",
+"dz": "146517_8 0406 227/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVI-WAB-AAB.6740.62.2017.IJA"
+}
+},
+{
+"d": "2017-03-21",
+"c": {
+"inw": "przebudowa sieci SN i nN wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "INNOGY STOEN OPERATOR SP. Z O.O.,",
+"nier": "Sekundowa",
+"dz": "146517_8 0602 1/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVI-WAB-AAB.6740.62.2017.IJA"
+}
+},
+{
+"d": "2017-03-21",
+"c": {
+"inw": "przebudowa sieci SN i nN wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "INNOGY STOEN OPERATOR SP. Z O.O.,",
+"nier": "Sekundowa",
+"dz": "146517_8 0602 1/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVI-WAB-AAB.6740.62.2017.IJA"
+}
+},
+{
+"d": "2017-03-21",
+"c": {
+"inw": "przebudowa sieci SN i nN wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "INNOGY STOEN OPERATOR SP. Z O.O.,",
+"nier": "Sekundowa",
+"dz": "146517_8 0602 16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVI-WAB-AAB.6740.62.2017.IJA"
+}
+},
+{
+"d": "2017-03-18",
+"c": {
+"inw": "przebudowa dwóch budynków mieszkalnych w zabudowie bliźniaczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Hejnałowa 11B",
+"dz": "146517_8 0501 110/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XVI-WAB-AAB.6740.60.2017.IJA"
+}
+},
+{
+"d": "2017-03-18",
+"c": {
+"inw": "przebudowa dwóch budynków mieszkalnych w zabudowie bliźniaczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Hejnałowa 11B",
+"dz": "146517_8 0501 110/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XVI-WAB-AAB.6740.60.2017.IJA"
+}
+},
+{
+"d": "2017-03-14",
+"c": {
+"inw": "nadbudowa i rozbudowa budynku mieszkalnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Tapicerska 10",
+"dz": "146517_8 0406 140",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XVI-WAB-AAB.6740.56.2017.IJA"
+}
+},
+{
+"d": "2017-03-14",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym wraz z infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "NC Investment 7 Sp. z o.o.",
+"nier": "Fajansowa 3",
+"dz": "146517_8 0501 62/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.99.2017.JSL (KOB/3425/17)"
+}
+},
+{
+"d": "2017-02-24",
+"c": {
+"inw": "przebudowa dachu hali magazynowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "GRUPA TOPEX SP. z O.O. SPÓŁKA KOMANDYTOWA",
+"nier": "Pograniczna 2/4",
+"dz": "146517_8 0710 13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVI-WAB-AAB.6740.37.2017"
+}
+},
+{
+"d": "2017-02-24",
+"c": {
+"inw": "przebudowa dachu hali magazynowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "GRUPA TOPEX SP. z O.O. SPÓŁKA KOMANDYTOWA",
+"nier": "Pograniczna 2/4",
+"dz": "146517_8 0710 14/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVI-WAB-AAB.6740.37.2017"
+}
+},
+{
+"d": "2017-02-24",
+"c": {
+"inw": "przebudowa dachu hali magazynowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "GRUPA TOPEX SP. z O.O. SPÓŁKA KOMANDYTOWA",
+"nier": "Pograniczna 2/4",
+"dz": "146517_8 0710 15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVI-WAB-AAB.6740.37.2017"
+}
+},
+{
+"d": "2017-01-26",
+"c": {
+"inw": "budowa  instalacji gazowej w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Cienista 14",
+"dz": "146517_8 0807 47",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVI-WAB-AAB.6740.23.2017.IJA"
+}
+},
+{
+"d": "2017-01-26",
+"c": {
+"inw": "Budowa budynku handlowo-usługowego wraz z niezbędna infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Solipska 2",
+"dz": "146517_8 0829 87/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.33.2017.JSL (KOB/1225/17)"
+}
+},
+{
+"d": "2017-01-23",
+"c": {
+"inw": "remont elewacji budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Popularna 19",
+"nier": "Popularna 19",
+"dz": "146517_8 0810 94",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVI-WAB-AAB.6740.24.2017.IJA"
+}
+},
+{
+"d": "2017-01-05",
+"c": {
+"inw": "przebudowa obiektu hotelowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CHOPIN AIRPORT DEVELOPMENT SP.Z O.O.",
+"nier": "Żwirki i Wigury 1",
+"dz": "146517_8 0607 16/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVI-WAB-AAB.6740.9.2017.IJA"
+}
+},
+{
+"d": "2017-01-05",
+"c": {
+"inw": "Rozbudowa budynku mieszkalnego wielorodzinnego o taras (wraz z remontem elewacji i zmiana kolorystyki) rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Głubczycka 22",
+"dz": "146517_8 0818 83",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "6740.18.2017.ASO (KOB/182/17)"
+}
+}
+]
+},
+{
+"id": "dec_pnb",
+"name": "Decyzje o pozwoleniu na budowę",
+"short": "Decyzje PnB",
+"desc": "Decyzje o pozwoleniu na budowę wydane przez organ architektoniczno-budowlany dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer decyzji",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2017-11-27",
+"c": {
+"inw": "Budowa sieci ciepłowniczej ,,Szczęśliwice II'' na odcinku od komory M-32 w rejonie ul. Łopuszańskiej od komory M-32/P2/P1 w rejonie ul. Popularnej w Warszawie - Zadanie 2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Pryzmaty 0",
+"dz": "146517_8 0720 101/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "291/2017"
+}
+},
+{
+"d": "2017-11-27",
+"c": {
+"inw": "Budowa sieci ciepłowniczej ,,Szczęśliwice II'' na odcinku od komory M-32 w rejonie ul. Łopuszańskiej od komory M-32/P2/P1 w rejonie ul. Popularnej w Warszawie - Zadanie 2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Pryzmaty 0",
+"dz": "146517_8 0720 12/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "291/2017"
+}
+},
+{
+"d": "2017-11-27",
+"c": {
+"inw": "Budowa sieci ciepłowniczej ,,Szczęśliwice II'' na odcinku od komory M-32 w rejonie ul. Łopuszańskiej od komory M-32/P2/P1 w rejonie ul. Popularnej w Warszawie - Zadanie 2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Pryzmaty 0",
+"dz": "146517_8 0720 10/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "291/2017"
+}
+},
+{
+"d": "2017-11-27",
+"c": {
+"inw": "Budowa sieci ciepłowniczej ,,Szczęśliwice II'' na odcinku od komory M-32 w rejonie ul. Łopuszańskiej od komory M-32/P2/P1 w rejonie ul. Popularnej w Warszawie - Zadanie 2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Pryzmaty 0",
+"dz": "146517_8 0721 29/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "291/2017"
+}
+},
+{
+"d": "2017-11-27",
+"c": {
+"inw": "Budowa sieci ciepłowniczej ,,Szczęśliwice II'' na odcinku od komory M-32 w rejonie ul. Łopuszańskiej od komory M-32/P2/P1 w rejonie ul. Popularnej w Warszawie - Zadanie 2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Pryzmaty 0",
+"dz": "146517_8 0721 24/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "291/2017"
+}
+},
+{
+"d": "2017-11-27",
+"c": {
+"inw": "Budowa sieci ciepłowniczej ,,Szczęśliwice II'' na odcinku od komory M-32 w rejonie ul. Łopuszańskiej od komory M-32/P2/P1 w rejonie ul. Popularnej w Warszawie - Zadanie 2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Pryzmaty 0",
+"dz": "146517_8 0721 28/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "291/2017"
+}
+},
+{
+"d": "2017-11-22",
+"c": {
+"inw": "Rozbiórka wiat magazynowo-warsztatowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Czereśniowa 37",
+"dz": "146517_8 0825 86",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6741.24.2017.ASO (KOB/13187/17)"
+}
+},
+{
+"d": "2017-11-06",
+"c": {
+"inw": "Wymiana stropu I piętra istniejącego budynku mieszkalnego wielorodzinnego z lokalem handlowo-usługowym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Bolesława Chrobrego 12",
+"dz": "146517_8 0822 26/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "273/2017"
+}
+},
+{
+"d": "2017-10-30",
+"c": {
+"inw": "Montaż okna w ścianie zewnętrznej budynku hali magazynowej B wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PEC Szyszkowa Sp. z o.o",
+"nier": "Szyszkowa 35/37",
+"dz": "146517_8 0715 15/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "265/2017"
+}
+},
+{
+"d": "2017-10-30",
+"c": {
+"inw": "Montaż okna w ścianie zewnętrznej budynku hali magazynowej B wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PEC Szyszkowa Sp. z o.o",
+"nier": "Szyszkowa 35/37",
+"dz": "146517_8 0715 14/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "265/2017"
+}
+},
+{
+"d": "2017-10-30",
+"c": {
+"inw": "Montaż okna w ścianie zewnętrznej budynku hali magazynowej B wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PEC Szyszkowa Sp. z o.o",
+"nier": "Szyszkowa 35/37",
+"dz": "146517_8 0715 15/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "265/2017"
+}
+},
+{
+"d": "2017-10-30",
+"c": {
+"inw": "Montaż okna w ścianie zewnętrznej budynku hali magazynowej B wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PEC Szyszkowa Sp. z o.o",
+"nier": "Szyszkowa 35/37",
+"dz": "146517_8 0715 31/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "265/2017"
+}
+},
+{
+"d": "2017-10-27",
+"c": {
+"inw": "Budowa budynku biurowego ,,B'' z garażem podziemnym wraz z wewnętrznymi instalacjami wod.-kan., gazową, co, wentylacji mechanicznej, klimatyzacji i elektrycznymi budowa nowego/nowych obiektów budowlanych",
+"wn": "IGT Holding Polska Sp. z o.o.",
+"nier": "Robotnicza 11/13",
+"dz": "146517_8 0607 148",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "256/2017"
+}
+},
+{
+"d": "2017-10-27",
+"c": {
+"inw": "Rozbudowa istniejącego budynku biurowego ,,A'' z wewnętrznymi instalacjami wod.-kan., gazową, co, wentylacji mechanicznej, klimatyzacji i elektrycznymi rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "IGT Holding Polska Sp. z o.o.",
+"nier": "Robotnicza 11/13",
+"dz": "146517_8 0607 148",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "257/2017"
+}
+},
+{
+"d": "2017-10-26",
+"c": {
+"inw": "Przebudowa pomieszczenia w części garażu, wydzielonego z powierzchni garażu na zespół sanitarny z prysznicami - piętro -1 budynku D kompleksu biurowego Wiśniowy Bussines Park wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Dounby Sp. z o.o.",
+"nier": "Sierpnia 6 / 1",
+"dz": "146517_8 0405 4/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "255/2017"
+}
+},
+{
+"d": "2017-10-26",
+"c": {
+"inw": "Przebudowa pomieszczeń w części garazu, wydzielonego z powierzchni garażu na zespół sanitarny z prysznicami, piętro -1 w budynku E Kompleksu biurowego Wiśniowy Business Park wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Dounby Sp. z o.o.",
+"nier": "Iłżecka 26",
+"dz": "146517_8 0405 12/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "254/2017"
+}
+},
+{
+"d": "2017-10-26",
+"c": {
+"inw": "Instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Paradox Investment Sp. z o.o. 1 Sp.k.",
+"nier": "Sabały 4",
+"dz": "146517_8 0403 4/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "253/2017"
+}
+},
+{
+"d": "2017-10-25",
+"c": {
+"inw": "Instalacja gazowa dla budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Szczęsna 22A",
+"dz": "146517_8 0812 29",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "252/2017"
+}
+},
+{
+"d": "2017-10-23",
+"c": {
+"inw": "Budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Wilczycka 9",
+"dz": "146517_8 0824 92/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "248/2017"
+}
+},
+{
+"d": "2017-10-03",
+"c": {
+"inw": "Budowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Promienista 23",
+"dz": "146517_8 0805 84",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "229/2017"
+}
+},
+{
+"d": "2017-09-29",
+"c": {
+"inw": "Budowa budynku usługowego - warsztatu elektromechaniki samochodowej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Aksamitna 1",
+"dz": "146517_8 0710 2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "227/2017"
+}
+},
+{
+"d": "2017-09-26",
+"c": {
+"inw": "Budowa wewnętrznej instalacji gazowej dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Budki Szczęśliwickie 19",
+"dz": "146517_8 0816 22",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "225/2017"
+}
+},
+{
+"d": "2017-09-21",
+"c": {
+"inw": "Termomodernizacja (ocieplenie) wraz z rozbudową i przebudową budynku biurowo -laboratoryjnego D2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Instytut Lotnictwa",
+"nier": "Aleja Krakowska",
+"dz": "146517_8 0604 2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "222/2017"
+}
+},
+{
+"d": "2017-09-20",
+"c": {
+"inw": "Rozbudowa instalacji gazu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Parafia Rzymskokatolicka M.B. Saletyńskiej w Warszawie",
+"nier": "Popularna 46",
+"dz": "146517_8 0825 3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "221/2017"
+}
+},
+{
+"d": "2017-09-12",
+"c": {
+"inw": "Budowa sieci wodociągowej DN 150 mm L=591, 07 m w ulicy Parowcowej w W-wie na terenie dzielnicy Włochy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK w m.st. W-wie S.A.",
+"nier": "Parowcowa",
+"dz": "146517_8 0808 102/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "208/2017"
+}
+},
+{
+"d": "2017-09-12",
+"c": {
+"inw": "Budowa sieci wodociągowej DN 150 mm L=591, 07 m w ulicy Parowcowej w W-wie na terenie dzielnicy Włochy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK w m.st. W-wie S.A.",
+"nier": "Parowcowa",
+"dz": "146517_8 0808 102/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "208/2017"
+}
+},
+{
+"d": "2017-09-12",
+"c": {
+"inw": "Budowa sieci wodociągowej DN 150 mm L=591, 07 m w ulicy Parowcowej w W-wie na terenie dzielnicy Włochy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK w m.st. W-wie S.A.",
+"nier": "Parowcowa",
+"dz": "146517_8 0808 3/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "208/2017"
+}
+},
+{
+"d": "2017-09-12",
+"c": {
+"inw": "Budowa sieci wodociągowej DN 150 mm L=591, 07 m w ulicy Parowcowej w W-wie na terenie dzielnicy Włochy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK w m.st. W-wie S.A.",
+"nier": "Parowcowa",
+"dz": "146517_8 0801 13/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "208/2017"
+}
+},
+{
+"d": "2017-09-12",
+"c": {
+"inw": "Budowa sieci wodociągowej DN 150 mm L=591, 07 m w ulicy Parowcowej w W-wie na terenie dzielnicy Włochy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK w m.st. W-wie S.A.",
+"nier": "Parowcowa",
+"dz": "146517_8 0801 13/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "208/2017"
+}
+},
+{
+"d": "2017-09-12",
+"c": {
+"inw": "Budowa sieci wodociągowej DN 150 mm L=591, 07 m w ulicy Parowcowej w W-wie na terenie dzielnicy Włochy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK w m.st. W-wie S.A.",
+"nier": "Parowcowa",
+"dz": "146517_8 0801 13/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "208/2017"
+}
+},
+{
+"d": "2017-09-12",
+"c": {
+"inw": "Budowa sieci wodociągowej DN 150 mm L=591, 07 m w ulicy Parowcowej w W-wie na terenie dzielnicy Włochy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK w m.st. W-wie S.A.",
+"nier": "Parowcowa",
+"dz": "146517_8 0801 17/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "208/2017"
+}
+},
+{
+"d": "2017-09-12",
+"c": {
+"inw": "Budowa sieci wodociągowej DN 150 mm L=591, 07 m w ulicy Parowcowej w W-wie na terenie dzielnicy Włochy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK w m.st. W-wie S.A.",
+"nier": "Parowcowa",
+"dz": "146517_8 0801 11/26",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "208/2017"
+}
+},
+{
+"d": "2017-09-12",
+"c": {
+"inw": "Budowa sieci wodociągowej DN 150 mm L=591, 07 m w ulicy Parowcowej w W-wie na terenie dzielnicy Włochy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK w m.st. W-wie S.A.",
+"nier": "Parowcowa",
+"dz": "146517_8 0804 1/25",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "208/2017"
+}
+},
+{
+"d": "2017-09-11",
+"c": {
+"inw": "budowa instalacji gazowej w bud. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Daleszycka 8",
+"dz": "146517_8 0704 92",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "205/2017"
+}
+},
+{
+"d": "2017-09-05",
+"c": {
+"inw": "rozbiórka  budynku mieszkalnego i wiaty rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Kraszewskiego 21 / Józefa Ignacego",
+"dz": "146517_8 0818 8/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "245/2017"
+}
+},
+{
+"d": "2017-09-01",
+"c": {
+"inw": "budowa  zespołu budynków wielorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "Belvedere Nieruchomości Sp. z o.o.",
+"nier": "Dźwigowa",
+"dz": "146517_8 0808 88",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "136/2017"
+}
+},
+{
+"d": "2017-09-01",
+"c": {
+"inw": "budowa  zespołu budynków wielorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "Belvedere Nieruchomości Sp. z o.o.",
+"nier": "Dźwigowa",
+"dz": "146517_8 0808 92",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "136/2017"
+}
+},
+{
+"d": "2017-09-01",
+"c": {
+"inw": "budowa  zespołu budynków wielorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "Belvedere Nieruchomości Sp. z o.o.",
+"nier": "Dźwigowa",
+"dz": "146517_8 0808 93",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "136/2017"
+}
+},
+{
+"d": "2017-09-01",
+"c": {
+"inw": "budowa  zespołu budynków wielorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "Belvedere Nieruchomości Sp. z o.o.",
+"nier": "Dźwigowa",
+"dz": "146517_8 0808 94",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "136/2017"
+}
+},
+{
+"d": "2017-09-01",
+"c": {
+"inw": "budowa  zespołu budynków wielorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "Belvedere Nieruchomości Sp. z o.o.",
+"nier": "Dźwigowa",
+"dz": "146517_8 0808 95",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "136/2017"
+}
+},
+{
+"d": "2017-08-31",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Szczęsna 16",
+"dz": "146517_8 0812 25",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "194/2017"
+}
+},
+{
+"d": "2017-08-30",
+"c": {
+"inw": "Budowa dwóch wolnostojących nośników reklamowych budowa nowego/nowych obiektów budowlanych",
+"wn": "Niebieski Dom Sp. z o.o.",
+"nier": "Aleja Krakowska 81",
+"dz": "146517_8 0714 7/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "193/2017"
+}
+},
+{
+"d": "2017-08-30",
+"c": {
+"inw": "Budowa dwóch wolnostojących nośników reklamowych budowa nowego/nowych obiektów budowlanych",
+"wn": "Niebieski Dom Sp. z o.o.",
+"nier": "Aleja Krakowska 81",
+"dz": "146517_8 0714 7/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "193/2017"
+}
+},
+{
+"d": "2017-08-11",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z garażami budowa nowego/nowych obiektów budowlanych",
+"wn": "SG Property Sp. z o.o.",
+"nier": "Janiszowska 23A",
+"dz": "146517_8 0707 10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "177/2017"
+}
+},
+{
+"d": "2017-08-10",
+"c": {
+"inw": "Budowa indywidualnego jednorodzinnego jednolokalowego domu mieszkalnego z garażem wbudowanym budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Szczęsna 22A",
+"dz": "146517_8 0812 29",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "176/2017"
+}
+},
+{
+"d": "2017-08-07",
+"c": {
+"inw": "Rozbiórka garażu i części budynku jednorodzinnego oraz rozbudowa i przebudowa pozostałej po rozbiórce części budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Kolneńska 13",
+"dz": "146517_8 0504 8",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "169/2017"
+}
+},
+{
+"d": "2017-07-26",
+"c": {
+"inw": "Budowa instalacji gazowej dla lokalu mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Świerszcza 6",
+"dz": "146517_8 0821 105",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "161/2017"
+}
+},
+{
+"d": "2017-07-20",
+"c": {
+"inw": "Rozbiórka dwóch budynków gospodarczych oraz budynku jednorodzinnego w stanie surowym rozbiórka istniejącego obiektu budowlanego",
+"wn": "Engave Sp. z o.o.",
+"nier": "Muszkieterów 20",
+"dz": "146517_8 0711 94",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "155/2017"
+}
+},
+{
+"d": "2017-07-19",
+"c": {
+"inw": "Budowa budynku biurowego z lokalami handlowo-usługowo-biurowymi i garażem podziemnym wraz z przebudowa sieci ciepłowniczej z tymczasowym przełożeniem sieci w obrębie terenu inwestycji budowa nowego/nowych obiektów budowlanych",
+"wn": "ABC SPV Sp. z o.o.",
+"nier": "Gładka",
+"dz": "146517_8 0406 38",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "152/2017"
+}
+},
+{
+"d": "2017-07-19",
+"c": {
+"inw": "Budowa budynku biurowego z lokalami handlowo-usługowo-biurowymi i garażem podziemnym wraz z przebudowa sieci ciepłowniczej z tymczasowym przełożeniem sieci w obrębie terenu inwestycji budowa nowego/nowych obiektów budowlanych",
+"wn": "ABC SPV Sp. z o.o.",
+"nier": "Gładka",
+"dz": "146517_8 0406 40",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "152/2017"
+}
+},
+{
+"d": "2017-07-17",
+"c": {
+"inw": "Rozbudowa i przebudowa budynku mieszkalnego jednorodzinnego w zabudowie bliźniaczej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Czereśniowa 36A",
+"dz": "146517_8 0826 17",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "151/2017"
+}
+},
+{
+"d": "2017-07-13",
+"c": {
+"inw": "Instalacja gazowa zasilana z sieci gazowej do budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Sycowska 8",
+"dz": "146517_8 0707 129",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "144/2017"
+}
+},
+{
+"d": "2017-07-13",
+"c": {
+"inw": "Budowa wewnętrznej instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kraszewskiego 8 / Józefa Ignacego",
+"dz": "146517_8 0819 20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "145/2017"
+}
+},
+{
+"d": "2017-07-12",
+"c": {
+"inw": "budowa instalacji gazowej dla budynku usługowo mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kazimierza Wielkiego",
+"dz": "146517_8 0506 31/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "143/2017"
+}
+},
+{
+"d": "2017-07-06",
+"c": {
+"inw": "budowy budynku mieszkalnego wielorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Promienista",
+"dz": "146517_8 0804 109/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "56/2017"
+}
+},
+{
+"d": "2017-07-04",
+"c": {
+"inw": "Rozbiórka budynku mieszkalnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Przyłęcka 6",
+"dz": "146517_8 0821 56",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "132/2017"
+}
+},
+{
+"d": "2017-07-04",
+"c": {
+"inw": "Rozbiórka budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Przyłęcka 6",
+"dz": "146517_8 0821 56",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "133/2017"
+}
+},
+{
+"d": "2017-06-30",
+"c": {
+"inw": "Wewnętrzna instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Popularna 26",
+"dz": "146517_8 0824 11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "129/2017"
+}
+},
+{
+"d": "2017-06-27",
+"c": {
+"inw": "Budowa gazociągu śr. 90 PE średniego ciśnienia w ulicy Popularnej budowa nowego/nowych obiektów budowlanych",
+"wn": "PSG Sp. z o.o. Oddział Zakład Gazowniczy w W-wie",
+"nier": "Popularna",
+"dz": "146517_8 0810 101/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "127/2017"
+}
+},
+{
+"d": "2017-06-27",
+"c": {
+"inw": "Budowa gazociągu śr. 90 PE średniego ciśnienia w ulicy Popularnej budowa nowego/nowych obiektów budowlanych",
+"wn": "PSG Sp. z o.o. Oddział Zakład Gazowniczy w W-wie",
+"nier": "Popularna",
+"dz": "146517_8 0810 101/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "127/2017"
+}
+},
+{
+"d": "2017-06-27",
+"c": {
+"inw": "Instalacja gazowa zasilana z sieci gazowej dla dwóch budynkow mieszkalnych jednorodzinnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Solipska 11",
+"dz": "146517_8 0829 104/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "126/2017"
+}
+},
+{
+"d": "2017-06-22",
+"c": {
+"inw": "Rozbiórka budynku garażowego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Wilczycka 9",
+"dz": "146517_8 0824 92/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "123/2017"
+}
+},
+{
+"d": "2017-06-20",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym oraz rozbiórka budynków mieszkalnego i gospodarczego budowa nowego/nowych obiektów budowlanych",
+"wn": "CPM Dewelopment Sp. z o.o. Sp. kom.",
+"nier": "Pilchowicka 21",
+"dz": "146517_8 0406 195",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "118/2017"
+}
+},
+{
+"d": "2017-06-19",
+"c": {
+"inw": "nadbudowa i rozbudowa budynku mieszkalnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Tapicerska 10",
+"dz": "146517_8 0406 140",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "125/2017"
+}
+},
+{
+"d": "2017-06-16",
+"c": {
+"inw": "budowa przewodu wodociągowego, budowa nowego/nowych obiektów budowlanych",
+"wn": "DTM Spółka Jawna Arleta Kuczewska Tadeusz Olchawski",
+"nier": "Krańcowa",
+"dz": "146517_8 0825 56/40",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "148/2017"
+}
+},
+{
+"d": "2017-06-16",
+"c": {
+"inw": "budowa przewodu wodociągowego, budowa nowego/nowych obiektów budowlanych",
+"wn": "DTM Spółka Jawna Arleta Kuczewska Tadeusz Olchawski",
+"nier": "Krańcowa",
+"dz": "146517_8 0825 56/41",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "148/2017"
+}
+},
+{
+"d": "2017-06-16",
+"c": {
+"inw": "budowa przewodu wodociągowego, budowa nowego/nowych obiektów budowlanych",
+"wn": "DTM Spółka Jawna Arleta Kuczewska Tadeusz Olchawski",
+"nier": "Krańcowa",
+"dz": "146517_8 0825 112",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "148/2017"
+}
+},
+{
+"d": "2017-06-16",
+"c": {
+"inw": "Budowa instalacji gazowej w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "ZGN Włochy",
+"nier": "Janiszowska 3",
+"dz": "146517_8 0707 27",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "114/2017"
+}
+},
+{
+"d": "2017-06-16",
+"c": {
+"inw": "budowa kanału ściekowego budowa nowego/nowych obiektów budowlanych",
+"wn": "DTM Spółka Jawna Arleta Kuczewska Tadeusz Olchawski",
+"nier": "Krańcowa",
+"dz": "146517_8 0825 56/40",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "116/2017"
+}
+},
+{
+"d": "2017-06-16",
+"c": {
+"inw": "budowa kanału ściekowego budowa nowego/nowych obiektów budowlanych",
+"wn": "DTM Spółka Jawna Arleta Kuczewska Tadeusz Olchawski",
+"nier": "Krańcowa",
+"dz": "146517_8 0825 112",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "116/2017"
+}
+},
+{
+"d": "2017-06-16",
+"c": {
+"inw": "budowa kanału ściekowego budowa nowego/nowych obiektów budowlanych",
+"wn": "DTM Spółka Jawna Arleta Kuczewska Tadeusz Olchawski",
+"nier": "Krańcowa",
+"dz": "146517_8 0825 56/41",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "116/2017"
+}
+},
+{
+"d": "2017-05-26",
+"c": {
+"inw": "przebudowa dwóch budynków mieszkalnych w zabudowie bliźniaczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Hejnałowa 11B",
+"dz": "146517_8 0501 110/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "106/2017"
+}
+},
+{
+"d": "2017-05-26",
+"c": {
+"inw": "przebudowa dwóch budynków mieszkalnych w zabudowie bliźniaczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Hejnałowa 11B",
+"dz": "146517_8 0501 110/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "106/2017"
+}
+},
+{
+"d": "2017-05-25",
+"c": {
+"inw": "Przebudowa części budynku magazynowo- biurowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Raf Trans Sp. z o.o",
+"nier": "Municypalna 45",
+"dz": "146517_8 0708 10/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "105/2017"
+}
+},
+{
+"d": "2017-05-24",
+"c": {
+"inw": "Budowa instalacji gazowej w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "ZGN Włochy",
+"nier": "Popularna 27",
+"dz": "146517_8 0814 36",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "99/2017"
+}
+},
+{
+"d": "2017-05-24",
+"c": {
+"inw": "Instalacja gazowa dla zespołu trzech willi miejsckich wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MaRS Investments Sp. z o.o. Sp. kom.",
+"nier": "Ryżowa 4",
+"dz": "146517_8 0829 114/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "103/2017"
+}
+},
+{
+"d": "2017-05-24",
+"c": {
+"inw": "Instalacja gazowa dla zespołu trzech willi miejsckich wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MaRS Investments Sp. z o.o. Sp. kom.",
+"nier": "Ryżowa 4",
+"dz": "146517_8 0829 114/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "103/2017"
+}
+},
+{
+"d": "2017-05-24",
+"c": {
+"inw": "Instalacja gazowa dla zespołu trzech willi miejsckich wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MaRS Investments Sp. z o.o. Sp. kom.",
+"nier": "Ryżowa 4",
+"dz": "146517_8 0829 114/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "103/2017"
+}
+},
+{
+"d": "2017-05-24",
+"c": {
+"inw": "Budowa sieci gazowej DN 63 Pe śr ciśnienia wraz z dwoma przyłączami do budynków mieszkalnych budowa nowego/nowych obiektów budowlanych",
+"wn": "PSG Sp. zo.o.",
+"nier": "Rybnicka",
+"dz": "146517_8 0807 1/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "102/2017"
+}
+},
+{
+"d": "2017-05-24",
+"c": {
+"inw": "Budowa sieci gazowej DN 63 Pe śr ciśnienia wraz z dwoma przyłączami do budynków mieszkalnych budowa nowego/nowych obiektów budowlanych",
+"wn": "PSG Sp. zo.o.",
+"nier": "Rybnicka",
+"dz": "146517_8 0807 22/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "102/2017"
+}
+},
+{
+"d": "2017-05-24",
+"c": {
+"inw": "Budowa sieci gazowej DN 63 Pe śr ciśnienia wraz z dwoma przyłączami do budynków mieszkalnych budowa nowego/nowych obiektów budowlanych",
+"wn": "PSG Sp. zo.o.",
+"nier": "Rybnicka",
+"dz": "146517_8 0807 22/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "102/2017"
+}
+},
+{
+"d": "2017-05-24",
+"c": {
+"inw": "Budowa sieci gazowej DN 63 Pe śr ciśnienia wraz z dwoma przyłączami do budynków mieszkalnych budowa nowego/nowych obiektów budowlanych",
+"wn": "PSG Sp. zo.o.",
+"nier": "Rybnicka",
+"dz": "146517_8 0807 22/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "102/2017"
+}
+},
+{
+"d": "2017-05-24",
+"c": {
+"inw": "Budowa sieci gazowej DN 63 Pe śr ciśnienia wraz z dwoma przyłączami do budynków mieszkalnych budowa nowego/nowych obiektów budowlanych",
+"wn": "PSG Sp. zo.o.",
+"nier": "Rybnicka",
+"dz": "146517_8 0807 22/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "102/2017"
+}
+},
+{
+"d": "2017-05-24",
+"c": {
+"inw": "Budowa sieci gazowej DN 63 Pe śr ciśnienia wraz z dwoma przyłączami do budynków mieszkalnych budowa nowego/nowych obiektów budowlanych",
+"wn": "PSG Sp. zo.o.",
+"nier": "Rybnicka",
+"dz": "146517_8 0807 10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "102/2017"
+}
+},
+{
+"d": "2017-05-24",
+"c": {
+"inw": "Budowa sieci gazowej DN 63 Pe śr ciśnienia wraz z dwoma przyłączami do budynków mieszkalnych budowa nowego/nowych obiektów budowlanych",
+"wn": "PSG Sp. zo.o.",
+"nier": "Rybnicka",
+"dz": "146517_8 0807 11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "102/2017"
+}
+},
+{
+"d": "2017-05-19",
+"c": {
+"inw": "remont elewacji budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Popularna 19",
+"nier": "Popularna 19",
+"dz": "146517_8 0810 94",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "96/2017"
+}
+},
+{
+"d": "2017-05-15",
+"c": {
+"inw": "Instalacja gazowa dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Na Skraju",
+"dz": "146517_8 0615 76/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "93/2017"
+}
+},
+{
+"d": "2017-05-15",
+"c": {
+"inw": "przebudowa sieci SN i nN wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "INNOGY STOEN OPERATOR SP. Z O.O.,",
+"nier": "Sekundowa",
+"dz": "146517_8 0406 227/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "94/2017"
+}
+},
+{
+"d": "2017-05-15",
+"c": {
+"inw": "przebudowa sieci SN i nN wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "INNOGY STOEN OPERATOR SP. Z O.O.,",
+"nier": "Sekundowa",
+"dz": "146517_8 0406 227/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "94/2017"
+}
+},
+{
+"d": "2017-05-15",
+"c": {
+"inw": "przebudowa sieci SN i nN wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "INNOGY STOEN OPERATOR SP. Z O.O.,",
+"nier": "Sekundowa",
+"dz": "146517_8 0602 1/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "94/2017"
+}
+},
+{
+"d": "2017-05-15",
+"c": {
+"inw": "przebudowa sieci SN i nN wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "INNOGY STOEN OPERATOR SP. Z O.O.,",
+"nier": "Sekundowa",
+"dz": "146517_8 0602 1/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "94/2017"
+}
+},
+{
+"d": "2017-05-15",
+"c": {
+"inw": "przebudowa sieci SN i nN wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "INNOGY STOEN OPERATOR SP. Z O.O.,",
+"nier": "Sekundowa",
+"dz": "146517_8 0602 16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "94/2017"
+}
+},
+{
+"d": "2017-05-12",
+"c": {
+"inw": "Instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "ZGN Włochy",
+"nier": "Konewki 1",
+"dz": "146517_8 0824 13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "92/2017"
+}
+},
+{
+"d": "2017-04-20",
+"c": {
+"inw": "przebudowa dachu hali magazynowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "GRUPA TOPEX SP. z O.O. SPÓŁKA KOMANDYTOWA",
+"nier": "Pograniczna 2/4",
+"dz": "146517_8 0710 13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "76/2017"
+}
+},
+{
+"d": "2017-04-20",
+"c": {
+"inw": "przebudowa dachu hali magazynowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "GRUPA TOPEX SP. z O.O. SPÓŁKA KOMANDYTOWA",
+"nier": "Pograniczna 2/4",
+"dz": "146517_8 0710 14/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "76/2017"
+}
+},
+{
+"d": "2017-04-20",
+"c": {
+"inw": "przebudowa dachu hali magazynowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "GRUPA TOPEX SP. z O.O. SPÓŁKA KOMANDYTOWA",
+"nier": "Pograniczna 2/4",
+"dz": "146517_8 0710 15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "76/2017"
+}
+},
+{
+"d": "2017-03-29",
+"c": {
+"inw": "Budowa budynku handlowo-usługowego wraz z niezbędna infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Solipska 2",
+"dz": "146517_8 0829 87/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "64/2017"
+}
+},
+{
+"d": "2017-03-16",
+"c": {
+"inw": "Rozbudowa budynku mieszkalnego wielorodzinnego o taras (wraz z remontem elewacji i zmiana kolorystyki) rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Głubczycka 22",
+"dz": "146517_8 0818 83",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "60/2017"
+}
+},
+{
+"d": "2017-03-08",
+"c": {
+"inw": "przebudowa obiektu hotelowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CHOPIN AIRPORT DEVELOPMENT SP.Z O.O.",
+"nier": "Żwirki i Wigury 1",
+"dz": "146517_8 0607 16/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "51/2017"
+}
+},
+{
+"d": "2017-02-13",
+"c": {
+"inw": "budowa  instalacji gazowej w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Cienista 14",
+"dz": "146517_8 0807 47",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "31/2017"
+}
+},
+{
+"d": "2017-01-24",
+"c": {
+"inw": "Rozbudowa pawilonu handlowego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146517_8 0604 5/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "20/2017"
+}
+},
+{
+"d": "2017-01-24",
+"c": {
+"inw": "Rozbudowa pawilonu handlowego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146517_8 0604 5/17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "20/2017"
+}
+}
+]
+}
+]
+}

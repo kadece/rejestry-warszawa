@@ -1,34 +1,42 @@
 # Rejestry Warszawa — konfiguracja serwera
+# Rejestry Warszawa — konfiguracja serwera
 
 Ten plik jest samodzielny. Zawiera wszystko, co trzeba zrobić na maszynie,
-która ma aktualizować rejestry Ursusa i Pragi-Północ.
+która ma aktualizować dzielnice serwisowe (Bemowo, Mokotów, Praga-Północ,
+Śródmieście, Targówek, Ursus, Wawer, Wilanów).
 
 ---
 
 ## Co robi serwer, a czego nie robi
 
-Serwer buduje **tylko dwie dzielnice**:
+Serwer buduje **tylko osiem dzielnic serwisowych**:
 
 | Dzielnica | Źródło | Rejestry |
 |---|---|---|
-| Ursus | `ursus.um.warszawa.pl/wykazy` | 9 (WZ, PnB, LCP, ZRID, wnioski, zgłoszenia, umowy art. 16) |
+| Bemowo | `bemowo.um.warszawa.pl/jawnosc-procesu-inwestycyjnego` | WZ, ICP, wszczęte postępowania (od 2018) |
+| Mokotów | `mokotow.um.warszawa.pl/wykazy-i-informacje-o-decyzjach` + 2 archiwa | wnioski WZ/ICP, decyzje WZ i ICP (od 2018) |
 | Praga-Północ | `pragapn.um.warszawa.pl/-/ogloszenia-2` | 3 (WZ, ICP, wnioski WZ) |
+| Śródmieście | `srodmiescie.um.warszawa.pl/-/decyzje-warunki-zabudowy` | WZ (od 2020, pliki miesięczne) |
+| Targówek | `targowek.um.warszawa.pl/waw/targowek/-/warunki-zabudowy-postepowania-decyzje` | wnioski WZ/ICP, decyzje WZ, decyzje ICP (od 2021) |
+| Ursus | `ursus.um.warszawa.pl/wykazy` | 9 (WZ, PnB, LCP, ZRID, wnioski, zgłoszenia, umowy art. 16) |
+| Wawer | `wawer.um.warszawa.pl/dokumenty-budowlane` | WZ, CP (rocznik bieżący) |
+| Wilanów | `wilanow.um.warszawa.pl/waw/wilanow/wykazy-i-informacje-o-decyzjach` | wnioski WZ/ICP, decyzje WZ, decyzje ICP (od 2020) |
 
-Pozostałe **16 dzielnic** buduje GitHub Actions co poniedziałek z pliku
-zbiorczego GUNB. Nie ruszaj ich — pełny build nadpisałby 41 MB danych
+Pozostałe **10 dzielnic** buduje GitHub Actions co poniedziałek z pliku
+zbiorczego GUNB. Nie ruszaj ich — pełny build nadpisałby dane
 i zrobił ogromny diff.
 
 Powód podziału: `*.um.warszawa.pl` zwraca serwerom GitHuba HTTP 403.
 `wyszukiwarka.gunb.gov.pl` — nie.
 
 ```
-serwer                    GitHub
-──────                    ──────
-Ursus + Praga-Północ  ──►  repo (site/data/ursus, site/data/praga-polnoc)
-commit + push                    │
+serwer                          GitHub
+──────                          ──────
+8 dzielnic serwisowych  ──►  repo (site/data/bemowo … wilanow)
+        commit + push            │
                                  ▼
                           GitHub Actions
-                          16 dzielnic z GUNB
+                          10 dzielnic z GUNB
                                  │
                                  ▼
                           GitHub Pages
@@ -41,10 +49,10 @@ commit + push                    │
 * Python 3.10+
 * `git` z zapisanymi danymi dostępowymi do `kadece/rejestry-warszawa`
 * otwarta sieć do:
-  * `ursus.um.warszawa.pl`
-  * `pragapn.um.warszawa.pl`
+  * `*.um.warszawa.pl` (ursus, pragapn, bemowo, srodmiescie, wawer, mokotow…)
   * `cdn.um.warszawa.pl` (tu leżą pliki — wymaga nagłówka `Referer`,
     skrypt sam go wysyła)
+  * `wyszukiwarka.gunb.gov.pl` (plik zbiorczy PnB)
   * `github.com`
 
 Sprawdzenie dostępu — **zrób to najpierw**:
@@ -122,7 +130,7 @@ crontab -e
 Dopisz na końcu:
 
 ```cron
-# Rejestry Warszawa — Ursus i Praga-Północ, 1. i 15. dnia miesiąca o 4:10
+# Rejestry Warszawa — dzielnice serwisowe, 1. i 15. dnia miesiąca o 4:10
 10 4 1,15 * * cd /home/twoj_user/rejestry-warszawa && ./update.sh >> /var/log/rejestry.log 2>&1
 ```
 
@@ -170,7 +178,7 @@ porządne logi.
 
 ```ini
 [Unit]
-Description=Aktualizacja rejestrów Ursus i Praga-Północ
+Description=Aktualizacja dzielnic serwisowych
 After=network-online.target
 Wants=network-online.target
 
@@ -228,16 +236,16 @@ Register-ScheduledTask -TaskName "Rejestry Warszawa" -Action $action -Trigger $t
 ## Co dokładnie robi `update.sh`
 
 ```bash
-python3 -m pip install --quiet --upgrade openpyxl pdfplumber   # zależności
-python3 build.py --site-only                                   # Ursus + Praga-Północ
+python3 -m pip install --quiet --upgrade openpyxl pdfplumber xlrd   # zależności
+python3 build.py --site-only                                   # 8 dzielnic serwisowych
 rm -rf __pycache__ districts/__pycache__                       # porządki
-git add site/data/ursus site/data/praga-polnoc site/data/index.json
+git add site/data/bemowo site/data/mokotow site/data/srodmiescie site/data/targowek site/data/wawer site/data/ursus site/data/praga-polnoc site/data/wilanow site/data/index.json
 git diff --cached --quiet && exit 0                            # brak zmian → koniec
-git commit -m "Aktualizacja Ursus i Praga-Północ RRRR-MM-DD"
+git commit -m "Aktualizacja dzielnic serwisowych RRRR-MM-DD"
 git push
 ```
 
-Push uruchamia workflow, który przebudowuje 16 dzielnic z GUNB
+Push uruchamia workflow, który przebudowuje 10 dzielnic z GUNB
 i publikuje całość na GitHub Pages. Strona jest aktualna po ~2 minutach.
 
 ---
@@ -337,7 +345,7 @@ PYTHON=/usr/bin/python3 ./update.sh
 ## Czego nie robić
 
 * **Nie uruchamiaj `python3 build.py` bez `--site-only`** na serwerze —
-  nadpisze 41 MB danych z GUNB i zrobi ogromny commit.
+  nadpisze 31 MB danych z GUNB i zrobi ogromny commit.
 * **Nie commituj `raw/`** — to cache, jest w `.gitignore`.
 * **Nie ruszaj repo `rejestry-ursus`** — to osobny, zamrożony projekt.
 
@@ -348,15 +356,17 @@ PYTHON=/usr/bin/python3 ./update.sh
 ```
 build.py                 generator (--gunb-only / --site-only / --district)
 gunb.py                  plik zbiorczy GUNB
-parsers.py               XLSX/PDF → wiersze
+parsers.py               XLSX/XLS/PDF → wiersze
 districts/
   base.py                wspólna logika rocznika
   ursus.py               9 rejestrów Ursusa
   praga_polnoc.py        3 rejestry Pragi-Północ
+  bemowo/srodmiescie/wawer/mokotow/targowek/wilanow.py
+                         rejestry WZ/ICP z pozostałych stron
 templates/               index.html, style.css, app.js, logo
 site/                    WYNIK — to trafia na GitHub Pages
 raw/                     cache pobranych plików (poza repo)
-update.sh                Ursus + Praga-Północ → commit → push
+update.sh                dzielnice serwisowe → commit → push
 .github/workflows/
-  update.yml             16 dzielnic z GUNB + publikacja
+  update.yml             10 dzielnic z GUNB + publikacja
 ```

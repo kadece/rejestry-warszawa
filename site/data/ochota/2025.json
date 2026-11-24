@@ -1,0 +1,1027 @@
+{
+"district": "ochota",
+"year": 2025,
+"generated": "2026-11-24T21:22:48+01:00",
+"total": 85,
+"registers": [
+{
+"id": "wn_pnb",
+"name": "Wnioski o pozwolenie na budowę",
+"short": "Wnioski PnB",
+"desc": "Wnioski o pozwolenie na budowę złożone do organu architektoniczno-budowlanego dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer wniosku",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2025-12-23",
+"c": {
+"inw": "przebudowa przyłącza gazowego, przebudowę wewnętrznej instalacji gazowej, przebudowa przegrody zewnętrznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PierwszaWojskowa Spółdzielnia Mieszkaniowa",
+"nier": "Bobrowskiego 3 / Stefana",
+"dz": "146506_8 2030 41",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.164.2025.LHO"
+}
+},
+{
+"d": "2025-12-23",
+"c": {
+"inw": "Przebudowa Przyłącza Gazowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Pierwsza Wojskowa Spółdzielnia Mieszkaniowa",
+"nier": "Skorochód-Majewskiego / Walentego",
+"dz": "146506_8 0309 39",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.161.2025.SMA"
+}
+},
+{
+"d": "2025-12-23",
+"c": {
+"inw": "Przebudowa Przyłącza gazowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Pierwsza Wojskowa Spółdzielnia Mieszkaniowa",
+"nier": "18",
+"dz": "146506_8 0309 12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.160.2025.SMA"
+}
+},
+{
+"d": "2025-12-23",
+"c": {
+"inw": "przebudowa przyłącza gazowego - przebudowa wewnętrznej instalacji gazowej przebudowa przegrody zewnętrznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Pierwsza Wojskowa Spółdzielnia Mieszkaniowa",
+"nier": "Białobrzeska 8",
+"dz": "146506_8 2030 53",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.159.2025.MKA"
+}
+},
+{
+"d": "2025-12-18",
+"c": {
+"inw": "przebudowa stropu dwóch lokali mieszkalnych (zlokalizowanych w budynku mieszkalnym wielorodzinnym z częścia usługową w cześci parteru) polegajaca na wykonaniu otworu i ich połaczeniu wewnętrzną komunikacją pionową wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Mołdawska 12",
+"dz": "146506_8 0321 12/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.158.2025.MKA"
+}
+},
+{
+"d": "2025-12-01",
+"c": {
+"inw": "budowa stacji tlenu dla Stacji Uzdatniania Wody ,,Filtry'' budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociagów i Kanalizacji w m.st.Warszawa",
+"nier": "Koszykowa 81",
+"dz": "146506_8 0103 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.155.2025.MKA"
+}
+},
+{
+"d": "2025-12-01",
+"c": {
+"inw": "przebudowa, rozbudowa i nadbudowa budynku mieskzalnego jednorodzinnego w celu wydzielenia dwóch lokali mieszkalnych wraz z zagospodarowaniem terenu rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "26",
+"dz": "146506_8 0319 59",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.154.2025.MKA"
+}
+},
+{
+"d": "2025-12-01",
+"c": {
+"inw": "przebudowa, rozbudowa i nadbudowa budynku mieszkalnego jednorodzinnego w celu wydzielenia dwóch lokali mieszkalnych wraz z zagospodarowaniem terenu nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Lutniowa 26",
+"dz": "146506_8 0319 59",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.154.2025.MKA"
+}
+},
+{
+"d": "2025-11-25",
+"c": {
+"inw": "Nadbudowa części budynku wielorodzinnego, 7 kondygnacyjnego, położonego przy ul. Lutniowej 25 w Warszawie (na działce ew. nr 77/1 obręb 2-03-19) w obrysie tarasu lokalu mieszkalnego nr 1 położonego na 2 kondygnacji (1 piętrze) polegającej na montażu oranżerii nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Miami Labs sp. z o.o.",
+"nier": "Lutniowa 25",
+"dz": "146506_8 0319 77/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.143.2025.LHO"
+}
+},
+{
+"d": "2025-11-07",
+"c": {
+"inw": "Przebudowa lokalu użytkowego na parterze i w piwnicy budynku wielorodzinnego na potrzeby Ośrodka Pomocy Społecznej Dzielnicy Ochota wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MIASTO STOŁECZNE WARSZAWA",
+"nier": "Przemyska 11",
+"dz": "146506_8 0207 107",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.138.2025.EJA"
+}
+},
+{
+"d": "2025-10-21",
+"c": {
+"inw": "przebudowa klatki schodowej i montaż dźwigu osobowego w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Międzyzakładowe Spółdzielcze Zrzeszenie Budowy Domów Mieszkalnych \"OCHOTA\"",
+"nier": "Bohaterów 4",
+"dz": "146506_8 0303 10/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.124.2025.ALW"
+}
+},
+{
+"d": "2025-10-20",
+"c": {
+"inw": "przebudowa ze zmianą sposobu użytkowania pomieszczeń nieużytkowych na magazyn wyposażenia i sprzętu laboratoryjnego na poziomie -1 w budynku Wydziału Fizyki Uniwersytetu Warszawskiego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersytet Warszawski",
+"nier": "",
+"dz": "146506_8 0209 18/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.123.2025.ALW"
+}
+},
+{
+"d": "2025-10-20",
+"c": {
+"inw": "przebudowa klatki schodowej i montaż dżwigu osobowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Międzyzakładowe Spółdzielcze Zrzeszenie Budowy Domów Mieszkalnych \"OCHOTA\"",
+"nier": "Opaczewska 37B",
+"dz": "146506_8 0303 10/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.128.2025.MKA"
+}
+},
+{
+"d": "2025-10-20",
+"c": {
+"inw": "przebudowa klatki schodowej i montaż dźwigu osobowego w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Międzyzakładowe Spółdzielcze Zrzeszenie Budowy Domów Mieszkalnych „Ochota”",
+"nier": "Opaczewska 37",
+"dz": "146506_8 0303 10/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.126.2025.LHO"
+}
+},
+{
+"d": "2025-09-12",
+"c": {
+"inw": "przebudowa budynku użyteczności publicznej, zmiana sposobu użytkowania fragmentów budynku, instalowanie na budynku urządzeń wentylacji, instalowanie magazynu energii elektrycznej o mocy 10kW wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami w Dzielnicy Ochota m. st. Warszawy",
+"nier": "Skarżyńskiego 5 / Stanisława",
+"dz": "146506_8 0308 79/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.111.2025.ALW"
+}
+},
+{
+"d": "2025-09-12",
+"c": {
+"inw": "przebudowa budynku użyteczności publicznej, zmiana sposobu użytkowania fragmentów budynku, instalowanie na budynku urządzeń wentylacji, instalowanie magazynu energii elektrycznej o mocy 10kW wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami w Dzielnicy Ochota m. st. Warszawy",
+"nier": "Skarżyńskiego 5 / Stanisława",
+"dz": "146506_8 0308 79/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.111.2025.ALW"
+}
+},
+{
+"d": "2025-09-10",
+"c": {
+"inw": "instalowanie urządzeń telefonii komórkowej w tym antenowych konstrukcji wsporczych wraz z instalacją radiokomunikacyjną BT12336 Skra BIS wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Towerlink Poland sp. z o.o.",
+"nier": "Akademicka 5",
+"dz": "146506_8 0205 65/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.119.2025.MKA"
+}
+},
+{
+"d": "2025-08-19",
+"c": {
+"inw": "przebudowa i zmiana sposobu uzytkowania II piętra pawilonu budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Państwowa Inspekcja Pracy - Okręgowy Inspektorat Pracy",
+"nier": "Grójecka 186",
+"dz": "146506_8 0313 63",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.107.2025.MKA"
+}
+},
+{
+"d": "2025-07-22",
+"c": {
+"inw": "remont dachu, elewacji oraz balkonów w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Budowlano-Mieszkaniowa Pracowników Komunikacji",
+"nier": "Uniwersytecka 1",
+"dz": "146506_8 0205 70",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.85.2025.MKA"
+}
+},
+{
+"d": "2025-07-15",
+"c": {
+"inw": "przebudowa lokalu nr 104 w budynku mieszkalnym wielorodzinnym polegająca na wykonaniu otworu w wewnętrznej ścianie nośnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Korotyńskiego 19 / Władysława",
+"dz": "146506_8 0313 45",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.87.2025.MKA"
+}
+},
+{
+"d": "2025-07-09",
+"c": {
+"inw": "przebudowa budynku mieszkalnego wielorodzinnego polegajaca na dostosowaniu holu wejsciowego, szybu windowego oraz dzwigu do korzystania z poziomu wejścia do budynku oraz wykonania dodatkowego przystanku dzwigu na ostatniej kodygnacji wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości nr 101 przy ul. Grójeckiej",
+"nier": "Grójecka 101",
+"dz": "146506_8 0309 27",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.92.2025.MKA"
+}
+},
+{
+"d": "2025-06-30",
+"c": {
+"inw": "przebudowa -  powiększenie okna balkonowego przez usunięcie ścianki z cegły, która nie jest elementem konstrukcyjnym w lokalu nr 6 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Drawska 10",
+"dz": "146506_8 0312 5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.70.2025.ALW"
+}
+},
+{
+"d": "2025-06-12",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "BK Investment Sp z o.o.",
+"nier": "Bielska 22",
+"dz": "146506_8 0319 10/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.64.2025.MKA"
+}
+},
+{
+"d": "2025-06-05",
+"c": {
+"inw": "przebudowa budynku mieszkalnego wielorodzinnego pięciolokalowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Przy Parku 2",
+"dz": "146506_8 0312 70",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.61.2025.MKA"
+}
+},
+{
+"d": "2025-05-22",
+"c": {
+"inw": "przebudowa murku na terenie zewnętrznym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami w Dzielnicy Ochota",
+"nier": "Grójecka 47/51",
+"dz": "146506_8 0208 46",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.56.2025.ALW"
+}
+},
+{
+"d": "2025-05-22",
+"c": {
+"inw": "przebudowa murku na terenie zewnętrznym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami w Dzielnicy Ochota",
+"nier": "Grójecka 47/51",
+"dz": "146506_8 0208 48",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.56.2025.ALW"
+}
+},
+{
+"d": "2025-05-22",
+"c": {
+"inw": "przebudowa murku na terenie zewnętrznym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami w Dzielnicy Ochota",
+"nier": "Grójecka 47/51",
+"dz": "146506_8 0208 4/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.56.2025.ALW"
+}
+},
+{
+"d": "2025-05-22",
+"c": {
+"inw": "przebudowa murku na terenie zewnętrznym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami w Dzielnicy Ochota",
+"nier": "Grójecka 47/51",
+"dz": "146506_8 0208 2/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.56.2025.ALW"
+}
+},
+{
+"d": "2025-05-14",
+"c": {
+"inw": "przebudowa  budynku - klatki schodowe, kotłownia, lokal 24, zmiana sposobu  użytkowania cześci strychu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości nr 2A przy ul. Słupeckiej",
+"nier": "Słupecka 2A",
+"dz": "146506_8 0204 58",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.53.2025.MKA"
+}
+},
+{
+"d": "2025-05-07",
+"c": {
+"inw": "przebudowa lokalu mieszkalnego w budynku mieszkalnym wielorodzinnym w zakresie poszerzenia istniejacego otworu drzwiowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Raszyńska 58",
+"dz": "146506_8 0205 64",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.55.2025.MKA"
+}
+},
+{
+"d": "2025-04-04",
+"c": {
+"inw": "przebudowa polegająca na dociepleniu dachu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniwa Nieruchomoscinr 11/15 przy ul. Częstochowskiej",
+"nier": "Częstochowska 11/15",
+"dz": "146506_8 0207 49",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.36.2025.MKA"
+}
+},
+{
+"d": "2025-03-31",
+"c": {
+"inw": "Przebudowa dwóch lokali mieszkalnych nr (...) w budynku mieszkalnym wielorodzinnym polegająca na połączeniu ww. lokali poprzez przebicie stropu i wybudowanie schodów wewnętrznych pomiędzy ww. lokalami wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Szczęśliwicka 29/29A",
+"dz": "146506_8 0206 88",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.34.2025.EJA"
+}
+},
+{
+"d": "2025-03-25",
+"c": {
+"inw": "przebudowa ściany dwukondygnacyjnego lokalu mieszkalnego nr 2 przez wykonanie na parterze dodatkowego wejścia do tego lokalu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Racławicka 129",
+"dz": "146506_8 0323 65",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.33.2025.ALW"
+}
+},
+{
+"d": "2025-03-04",
+"c": {
+"inw": "przebudowa budynku mieszkalnego wielorodzinnego polegającą na wzmocnieniu stropu piwnic wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa 'Barska\"",
+"nier": "Barska 3",
+"dz": "146506_8 0204 129",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.25.2025.ALW"
+}
+},
+{
+"d": "2025-02-27",
+"c": {
+"inw": "budowa jednotorowej kablowej sieci elektroenergetycznej WN 110 kV z infrastrukturą towarzyszącą (linia swiatłowodowa) od stacji GPZ Towarowa do słupa kablowego nr 33 linii 110 kV relacji Mory-Ochota, Mory-Południowa w rejonie Al. Jerozolimskich wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Stoen Operator Sp z o.o.",
+"nier": "Aleje Jerozolimskie 144",
+"dz": "146506_8 0203 10/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.28.2025.MKA"
+}
+},
+{
+"d": "2025-02-12",
+"c": {
+"inw": "budowa pylonu cenowego i stanowiska kompresor-odkurzacz na stacji paliw Orlen wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Orlen S.A.",
+"nier": "Daleka 5",
+"dz": "146506_8 0202 26",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.16.2025.MKA"
+}
+},
+{
+"d": "2025-02-12",
+"c": {
+"inw": "przebudowa - powiększenie okna balkonowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Drawska 10B",
+"dz": "146506_8 0312 5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.21.2025.ALW"
+}
+},
+{
+"d": "2025-02-06",
+"c": {
+"inw": "powięlszenie otworu okiennego ściany południowej w budynku Teleterapii - budynek 5A wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Narodowy Instytut Onkologii im. Marii Skłodowksiej-Curie - Państwowy Instytut Badawczy z siedzibą w Warszawie",
+"nier": "Wawelska",
+"dz": "146506_8 0101 32/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.11.2025.ALW"
+}
+},
+{
+"d": "2025-02-05",
+"c": {
+"inw": "remont pomieszczeń szpitala, naprawa okladziny kamiennej schodow zewnetrznych oraz izolacji pionowych ścian fundamentów budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersyteckie Centrum Zdrowia Kobiety i Noworodka WUM sp. z o.o.",
+"nier": "Plac Sokratesa Starynkiewicza 1/3",
+"dz": "146506_8 0101 32/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.10.2025.ALW"
+}
+},
+{
+"d": "2025-02-05",
+"c": {
+"inw": "remont pomieszczeń szpitala, naprawa okladziny kamiennej schodow zewnetrznych oraz izolacji pionowych ścian fundamentów budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersyteckie Centrum Zdrowia Kobiety i Noworodka WUM sp. z o.o.",
+"nier": "Plac Sokratesa Starynkiewicza 1/3",
+"dz": "146506_8 0101 32/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.10.2025.ALW"
+}
+},
+{
+"d": "2025-01-15",
+"c": {
+"inw": "Przebudowa w celu dostosowania do aktualnych przepisów ochrony przeciwpożarowej Domu Studenckiego Politechniki Warszawskiej \"Bratniak\" wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Politechnika Warszawska",
+"nier": "Grójecka 39",
+"dz": "146506_8 0205 65/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.3.2025.LHO"
+}
+}
+]
+},
+{
+"id": "dec_pnb",
+"name": "Decyzje o pozwoleniu na budowę",
+"short": "Decyzje PnB",
+"desc": "Decyzje o pozwoleniu na budowę wydane przez organ architektoniczno-budowlany dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer decyzji",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2025-12-30",
+"c": {
+"inw": "przebudowa budynku użyteczności publicznej, zmiana sposobu użytkowania fragmentów budynku, instalowanie na budynku urządzeń wentylacji, instalowanie magazynu energii elektrycznej o mocy 10kW wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami w Dzielnicy Ochota m. st. Warszawy",
+"nier": "Skarżyńskiego 5 / Stanisława",
+"dz": "146506_8 0308 79/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "99/OCH/PB/2025"
+}
+},
+{
+"d": "2025-12-30",
+"c": {
+"inw": "przebudowa budynku użyteczności publicznej, zmiana sposobu użytkowania fragmentów budynku, instalowanie na budynku urządzeń wentylacji, instalowanie magazynu energii elektrycznej o mocy 10kW wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami w Dzielnicy Ochota m. st. Warszawy",
+"nier": "Skarżyńskiego 5 / Stanisława",
+"dz": "146506_8 0308 79/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "99/OCH/PB/2025"
+}
+},
+{
+"d": "2025-12-30",
+"c": {
+"inw": "przebudowa przyłącza gazowego, przebudowę wewnętrznej instalacji gazowej, przebudowa przegrody zewnętrznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PierwszaWojskowa Spółdzielnia Mieszkaniowa",
+"nier": "Bobrowskiego 3 / Stefana",
+"dz": "146506_8 2030 41",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "DECYZJA NR 98/OCH/PB/2025"
+}
+},
+{
+"d": "2025-12-30",
+"c": {
+"inw": "Przebudowa Przyłącza Gazowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Pierwsza Wojskowa Spółdzielnia Mieszkaniowa",
+"nier": "Skorochód-Majewskiego / Walentego",
+"dz": "146506_8 0309 39",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "102/OCH/PB/2025"
+}
+},
+{
+"d": "2025-12-30",
+"c": {
+"inw": "Przebudowa Przyłącza gazowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Pierwsza Wojskowa Spółdzielnia Mieszkaniowa",
+"nier": "18",
+"dz": "146506_8 0309 12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "101/OCH/PB/2025"
+}
+},
+{
+"d": "2025-12-30",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "BK Investment Sp z o.o.",
+"nier": "Bielska 22",
+"dz": "146506_8 0319 10/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "103/OCH/PB/2025"
+}
+},
+{
+"d": "2025-12-30",
+"c": {
+"inw": "przebudowa przyłącza gazowego - przebudowa wewnętrznej instalacji gazowej przebudowa przegrody zewnętrznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Pierwsza Wojskowa Spółdzielnia Mieszkaniowa",
+"nier": "Białobrzeska 8",
+"dz": "146506_8 2030 53",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "100/OCH/PB/2025"
+}
+},
+{
+"d": "2025-12-30",
+"c": {
+"inw": "przebudowa  budynku - klatki schodowe, kotłownia, lokal 24, zmiana sposobu  użytkowania cześci strychu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości nr 2A przy ul. Słupeckiej",
+"nier": "Słupecka 2A",
+"dz": "146506_8 0204 58",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "104/OCH/PB/2025"
+}
+},
+{
+"d": "2025-12-16",
+"c": {
+"inw": "instalowanie urządzeń telefonii komórkowej w tym antenowych konstrukcji wsporczych wraz z instalacją radiokomunikacyjną BT12336 Skra BIS wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Towerlink Poland sp. z o.o.",
+"nier": "Akademicka 5",
+"dz": "146506_8 0205 65/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "91/OCH/PB/2025"
+}
+},
+{
+"d": "2025-12-15",
+"c": {
+"inw": "Przebudowa lokalu użytkowego na parterze i w piwnicy budynku wielorodzinnego na potrzeby Ośrodka Pomocy Społecznej Dzielnicy Ochota wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MIASTO STOŁECZNE WARSZAWA",
+"nier": "Przemyska 11",
+"dz": "146506_8 0207 107",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Nr 89/OCH/PB/2025"
+}
+},
+{
+"d": "2025-12-05",
+"c": {
+"inw": "przebudowa klatki schodowej i montaż dźwigu osobowego w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Międzyzakładowe Spółdzielcze Zrzeszenie Budowy Domów Mieszkalnych „Ochota”",
+"nier": "Opaczewska 37",
+"dz": "146506_8 0303 10/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "DECYZJA NR 79/OCH/PB/2025"
+}
+},
+{
+"d": "2025-12-04",
+"c": {
+"inw": "przebudowa klatki schodowej i montaż dżwigu osobowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Międzyzakładowe Spółdzielcze Zrzeszenie Budowy Domów Mieszkalnych \"OCHOTA\"",
+"nier": "Opaczewska 37B",
+"dz": "146506_8 0303 10/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "77/OCH/PB/2025"
+}
+},
+{
+"d": "2025-12-01",
+"c": {
+"inw": "przebudowa klatki schodowej i montaż dźwigu osobowego w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Międzyzakładowe Spółdzielcze Zrzeszenie Budowy Domów Mieszkalnych \"OCHOTA\"",
+"nier": "Bohaterów 4",
+"dz": "146506_8 0303 10/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "74/OCH/PB/2025"
+}
+},
+{
+"d": "2025-11-27",
+"c": {
+"inw": "przebudowa i zmiana sposobu uzytkowania II piętra pawilonu budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Państwowa Inspekcja Pracy - Okręgowy Inspektorat Pracy",
+"nier": "Grójecka 186",
+"dz": "146506_8 0313 63",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "73/OCH/PB/2025"
+}
+},
+{
+"d": "2025-10-17",
+"c": {
+"inw": "przebudowa budynku mieszkalnego wielorodzinnego polegajaca na dostosowaniu holu wejsciowego, szybu windowego oraz dzwigu do korzystania z poziomu wejścia do budynku oraz wykonania dodatkowego przystanku dzwigu na ostatniej kodygnacji wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości nr 101 przy ul. Grójeckiej",
+"nier": "Grójecka 101",
+"dz": "146506_8 0309 27",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "62/OCH/PB/2025"
+}
+},
+{
+"d": "2025-10-14",
+"c": {
+"inw": "przebudowa lokalu nr 104 w budynku mieszkalnym wielorodzinnym polegająca na wykonaniu otworu w wewnętrznej ścianie nośnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Korotyńskiego 19 / Władysława",
+"dz": "146506_8 0313 45",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "60/OCH/PB/2025"
+}
+},
+{
+"d": "2025-10-08",
+"c": {
+"inw": "Przebudowa dwóch lokali mieszkalnych nr (...) w budynku mieszkalnym wielorodzinnym polegająca na połączeniu ww. lokali poprzez przebicie stropu i wybudowanie schodów wewnętrznych pomiędzy ww. lokalami wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Szczęśliwicka 29/29A",
+"dz": "146506_8 0206 88",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Nr 59/OCH/PB/2025"
+}
+},
+{
+"d": "2025-09-26",
+"c": {
+"inw": "remont dachu, elewacji oraz balkonów w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Budowlano-Mieszkaniowa Pracowników Komunikacji",
+"nier": "Uniwersytecka 1",
+"dz": "146506_8 0205 70",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "55/OCH/PB/2025"
+}
+},
+{
+"d": "2025-09-22",
+"c": {
+"inw": "przebudowa polegająca na dociepleniu dachu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniwa Nieruchomoscinr 11/15 przy ul. Częstochowskiej",
+"nier": "Częstochowska 11/15",
+"dz": "146506_8 0207 49",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "53/OCH/PB/2025"
+}
+},
+{
+"d": "2025-08-12",
+"c": {
+"inw": "przebudowa budynku mieszkalnego wielorodzinnego polegającą na wzmocnieniu stropu piwnic wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa 'Barska\"",
+"nier": "Barska 3",
+"dz": "146506_8 0204 129",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "44/OCH/PB/2025"
+}
+},
+{
+"d": "2025-08-07",
+"c": {
+"inw": "przebudowa -  powiększenie okna balkonowego przez usunięcie ścianki z cegły, która nie jest elementem konstrukcyjnym w lokalu nr 6 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Drawska 10",
+"dz": "146506_8 0312 5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "43/OCH/PB/2025"
+}
+},
+{
+"d": "2025-07-30",
+"c": {
+"inw": "przebudowa budynku mieszkalnego wielorodzinnego pięciolokalowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Przy Parku 2",
+"dz": "146506_8 0312 70",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "40/OCH/PB/2025"
+}
+},
+{
+"d": "2025-07-30",
+"c": {
+"inw": "przebudowa lokalu mieszkalnego w budynku mieszkalnym wielorodzinnym w zakresie poszerzenia istniejacego otworu drzwiowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Raszyńska 58",
+"dz": "146506_8 0205 64",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/OCH/PB/2025"
+}
+},
+{
+"d": "2025-06-30",
+"c": {
+"inw": "przebudowa murku na terenie zewnętrznym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami w Dzielnicy Ochota",
+"nier": "Grójecka 47/51",
+"dz": "146506_8 0208 46",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "34/OCH/PB/2025"
+}
+},
+{
+"d": "2025-06-30",
+"c": {
+"inw": "przebudowa murku na terenie zewnętrznym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami w Dzielnicy Ochota",
+"nier": "Grójecka 47/51",
+"dz": "146506_8 0208 48",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "34/OCH/PB/2025"
+}
+},
+{
+"d": "2025-06-30",
+"c": {
+"inw": "przebudowa murku na terenie zewnętrznym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami w Dzielnicy Ochota",
+"nier": "Grójecka 47/51",
+"dz": "146506_8 0208 4/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "34/OCH/PB/2025"
+}
+},
+{
+"d": "2025-06-30",
+"c": {
+"inw": "przebudowa murku na terenie zewnętrznym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami w Dzielnicy Ochota",
+"nier": "Grójecka 47/51",
+"dz": "146506_8 0208 2/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "34/OCH/PB/2025"
+}
+},
+{
+"d": "2025-06-16",
+"c": {
+"inw": "powięlszenie otworu okiennego ściany południowej w budynku Teleterapii - budynek 5A wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Narodowy Instytut Onkologii im. Marii Skłodowksiej-Curie - Państwowy Instytut Badawczy z siedzibą w Warszawie",
+"nier": "Wawelska",
+"dz": "146506_8 0101 32/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "29/OCH/PB/2025"
+}
+},
+{
+"d": "2025-06-13",
+"c": {
+"inw": "Przebudowa w celu dostosowania do aktualnych przepisów ochrony przeciwpożarowej Domu Studenckiego Politechniki Warszawskiej \"Bratniak\" wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Politechnika Warszawska",
+"nier": "Grójecka 39",
+"dz": "146506_8 0205 65/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "23/OCH/PA/2025"
+}
+},
+{
+"d": "2025-06-13",
+"c": {
+"inw": "budowa jednotorowej kablowej sieci elektroenergetycznej WN 110 kV z infrastrukturą towarzyszącą (linia swiatłowodowa) od stacji GPZ Towarowa do słupa kablowego nr 33 linii 110 kV relacji Mory-Ochota, Mory-Południowa w rejonie Al. Jerozolimskich wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Stoen Operator Sp z o.o.",
+"nier": "Aleje Jerozolimskie 144",
+"dz": "146506_8 0203 10/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "25/OCH/PB/2025"
+}
+},
+{
+"d": "2025-05-29",
+"c": {
+"inw": "przebudowa ściany dwukondygnacyjnego lokalu mieszkalnego nr 2 przez wykonanie na parterze dodatkowego wejścia do tego lokalu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Racławicka 129",
+"dz": "146506_8 0323 65",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "20/OCH/PB/2025"
+}
+},
+{
+"d": "2025-05-19",
+"c": {
+"inw": "przebudowa - powiększenie okna balkonowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Drawska 10B",
+"dz": "146506_8 0312 5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "16/OCH/PB/2025"
+}
+},
+{
+"d": "2025-05-15",
+"c": {
+"inw": "remont pomieszczeń szpitala, naprawa okladziny kamiennej schodow zewnetrznych oraz izolacji pionowych ścian fundamentów budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersyteckie Centrum Zdrowia Kobiety i Noworodka WUM sp. z o.o.",
+"nier": "Plac Sokratesa Starynkiewicza 1/3",
+"dz": "146506_8 0101 32/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "17/OCH/PB/2025"
+}
+},
+{
+"d": "2025-05-15",
+"c": {
+"inw": "remont pomieszczeń szpitala, naprawa okladziny kamiennej schodow zewnetrznych oraz izolacji pionowych ścian fundamentów budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersyteckie Centrum Zdrowia Kobiety i Noworodka WUM sp. z o.o.",
+"nier": "Plac Sokratesa Starynkiewicza 1/3",
+"dz": "146506_8 0101 32/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "17/OCH/PB/2025"
+}
+},
+{
+"d": "2025-04-17",
+"c": {
+"inw": "remont budynku wielorodzinnego i ogrodzenia, przebudowa dachu i balustrad wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa Pracowników Prywatnych i Wolnych Zawodów",
+"nier": "Orzechowska 3",
+"dz": "146506_8 0105 35",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "13/OCH/PB/2025"
+}
+},
+{
+"d": "2025-04-10",
+"c": {
+"inw": "remont polegajacy na wymianie stolatki okiennej i drzwiowej, wymianie poszycia dachu oraz termomodernizacji elewacji wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Sędziowska 5",
+"dz": "146506_8 0104 129",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "12/OCH/PB/2025"
+}
+},
+{
+"d": "2025-04-10",
+"c": {
+"inw": "remont polegajacy na wymianie stolatki okiennej i drzwiowej, wymianie poszycia dachu oraz termomodernizacji elewacji wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Sędziowska 5",
+"dz": "146506_8 0104 129",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "12/OCH/PB/2025"
+}
+},
+{
+"d": "2025-04-02",
+"c": {
+"inw": "budowa pylonu cenowego i stanowiska kompresor-odkurzacz na stacji paliw Orlen wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Orlen S.A.",
+"nier": "Daleka 5",
+"dz": "146506_8 0202 26",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "10/OCH/PB/2025"
+}
+},
+{
+"d": "2025-03-27",
+"c": {
+"inw": "przebudowa cześci pomieszczeń budynku Centrum Nowych Technologii Uniwersytetu Warszawskiego na zwierzętarnie dla małych zwierząt labolatoryjnych wraz ze zmiana sposobu uzytkowania wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersytet Wqarszawski",
+"nier": "Banacha 2c / Stefana",
+"dz": "146506_8 0209 18/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "9/OCH/PB/2025"
+}
+},
+{
+"d": "2025-02-28",
+"c": {
+"inw": "przebudowa (połaczenie) lokali nr 52 i 55 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Barska 11/13",
+"dz": "146506_8 0204 115",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6/OCH/PB/2025"
+}
+},
+{
+"d": "2025-02-10",
+"c": {
+"inw": "budowa pomnika Gabriela Narutowicza wraz z zagospodarowaniem jego otoczenia, w tym budową obiektów małej architektury, utwardzeniem terenu i instalacja urzadzeń pomnika budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa Stołeczny Zarząd Rozbudowy Miasta",
+"nier": "Narutowicza / Gabriela",
+"dz": "146506_8 0205 2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "3/OCH/PB/2025"
+}
+},
+{
+"d": "2025-02-10",
+"c": {
+"inw": "budowa pomnika Gabriela Narutowicza wraz z zagospodarowaniem jego otoczenia, w tym budową obiektów małej architektury, utwardzeniem terenu i instalacja urzadzeń pomnika budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa Stołeczny Zarząd Rozbudowy Miasta",
+"nier": "Narutowicza / Gabriela",
+"dz": "146506_8 0205 5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "3/OCH/PB/2025"
+}
+},
+{
+"d": "2025-01-31",
+"c": {
+"inw": "budynek mieszkalny wielorodzinny z częścią usługową budowa nowego/nowych obiektów budowlanych",
+"wn": "Dantex Holding Sp. z o.o.",
+"nier": "Aleja Bohaterów Września",
+"dz": "146506_8 0303 2/24",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "2/OCH/PB/2025"
+}
+},
+{
+"d": "2025-01-31",
+"c": {
+"inw": "budynek mieszkalny wielorodzinny z częścią usługową budowa nowego/nowych obiektów budowlanych",
+"wn": "Dantex Holding Sp. z o.o.",
+"nier": "Aleja Bohaterów Września",
+"dz": "146506_8 0303 2/26",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "2/OCH/PB/2025"
+}
+}
+]
+}
+]
+}

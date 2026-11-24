@@ -1,0 +1,1995 @@
+{
+"district": "ursynow",
+"year": 2026,
+"generated": "2026-11-24T21:24:33+01:00",
+"total": 173,
+"registers": [
+{
+"id": "wn_pnb",
+"name": "Wnioski o pozwolenie na budowę",
+"short": "Wnioski PnB",
+"desc": "Wnioski o pozwolenie na budowę złożone do organu architektoniczno-budowlanego dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer wniosku",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2026-09-01",
+"c": {
+"inw": "Wniosek o pozwolenie na wykonanie robót budowlanych polegających na remoncie elewacji budynku wraz z dociepleniem oraz remontem balkonów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SBM \"Ursynów\"",
+"nier": "",
+"dz": "146513_8 1021 20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.129.2026.SCE"
+}
+},
+{
+"d": "2026-08-27",
+"c": {
+"inw": "Wniosek o pozwolenie na wykonanie robót budowlanych polegających na montażu zadaszenia nad balkonem w klatce nr 1, w budynku mieszklanym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"Dębina\"",
+"nier": "",
+"dz": "146513_8 1114 16/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.108.2026.KBA(SCE)"
+}
+},
+{
+"d": "2026-08-06",
+"c": {
+"inw": "Wniosek o pozwolenie na remont i przebudowę lokali 137 i 137A znajdujących się w budynku mieszkalnym wielorodzinnym o nr inw. 60/16 na terenie Toru Wyścigów Konnych na Służewcu wraz z przebudową wewnętrznej instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Totalizator Sportowy Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 0815 36",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.95.2026.ABO"
+}
+},
+{
+"d": "2026-07-24",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku mieszkalnego jednorodzinnego z zewnętrzną podziemną instalacją gazową, wewnętrzną instalacją gazową, podziemną instalacją kanalizacji sanitarnej i podziemną instalacją elektryczną budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0933 41/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.93.2026.KRO"
+}
+},
+{
+"d": "2026-07-16",
+"c": {
+"inw": "Wniosek o pozwolenie na wykonanie robót budowlanych polegających na poszerzeniu otworu drzwiowego prowadzącego z klatki schodowej na poziomie parteru w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SBM \"Ursynów\"",
+"nier": "",
+"dz": "146513_8 1021 20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.86.2026.SCE"
+}
+},
+{
+"d": "2026-07-07",
+"c": {
+"inw": "Wniosek o pozwolenie przebudowę i rozbudowę istniejącego budynku mieszkalnego jednorodzinnego obejmującą taras, rozbudowę garażu, przebudowę dachu oraz przebudowę instalacji wewnętrznej kanalizacyjnej i gazowej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0835 8/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.80.2026.ABR"
+}
+},
+{
+"d": "2026-06-26",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę  „sieci wodociągowej DN100 mm L=126,5m w drodze dojazdowej do ul. Kurantów 13 na odcinku od istniejącego przewodu wodociągowego DN100mm w ul. Kurantów do wysokości działki nr ew. 7/12 z obrębu 1-09-68” budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st.Warszawie S.A.",
+"nier": "",
+"dz": "146513_8 0968 7/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.74.2026.BSE"
+}
+},
+{
+"d": "2026-06-26",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę  „sieci wodociągowej DN100 mm L=126,5m w drodze dojazdowej do ul. Kurantów 13 na odcinku od istniejącego przewodu wodociągowego DN100mm w ul. Kurantów do wysokości działki nr ew. 7/12 z obrębu 1-09-68” budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st.Warszawie S.A.",
+"nier": "",
+"dz": "146513_8 0968 12/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.74.2026.BSE"
+}
+},
+{
+"d": "2026-06-26",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę „kanalizacji ściekowej Ø200 mm L=131,0m w drodze dojazdowej do ul. Kurantów 13 na odcinku od istniejącego przewodu kanalizacyjnego Ø200mm w ul. Kurantów do wysokości działki nr ew. 7/12 z obrębu 1-09-68 wraz z odcinkami sieci Ø160mm L=14,0m od projektowanego kanału głównego do granic posesji przewidzianych do podłączenia do miejskiej sieci kanalizacyjnej” budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st.Warszawie",
+"nier": "",
+"dz": "146513_8 0968 7/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.75.2026.BSE"
+}
+},
+{
+"d": "2026-06-26",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę „kanalizacji ściekowej Ø200 mm L=131,0m w drodze dojazdowej do ul. Kurantów 13 na odcinku od istniejącego przewodu kanalizacyjnego Ø200mm w ul. Kurantów do wysokości działki nr ew. 7/12 z obrębu 1-09-68 wraz z odcinkami sieci Ø160mm L=14,0m od projektowanego kanału głównego do granic posesji przewidzianych do podłączenia do miejskiej sieci kanalizacyjnej” budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st.Warszawie",
+"nier": "",
+"dz": "146513_8 0968 12/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.75.2026.BSE"
+}
+},
+{
+"d": "2026-06-26",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę „kanalizacji ściekowej Ø200 mm L=131,0m w drodze dojazdowej do ul. Kurantów 13 na odcinku od istniejącego przewodu kanalizacyjnego Ø200mm w ul. Kurantów do wysokości działki nr ew. 7/12 z obrębu 1-09-68 wraz z odcinkami sieci Ø160mm L=14,0m od projektowanego kanału głównego do granic posesji przewidzianych do podłączenia do miejskiej sieci kanalizacyjnej” budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st.Warszawie",
+"nier": "",
+"dz": "146513_8 0969 11/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.75.2026.BSE"
+}
+},
+{
+"d": "2026-06-26",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę „kanalizacji ściekowej Ø200 mm L=131,0m w drodze dojazdowej do ul. Kurantów 13 na odcinku od istniejącego przewodu kanalizacyjnego Ø200mm w ul. Kurantów do wysokości działki nr ew. 7/12 z obrębu 1-09-68 wraz z odcinkami sieci Ø160mm L=14,0m od projektowanego kanału głównego do granic posesji przewidzianych do podłączenia do miejskiej sieci kanalizacyjnej” budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st.Warszawie",
+"nier": "",
+"dz": "146513_8 0969 6/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.75.2026.BSE"
+}
+},
+{
+"d": "2026-06-26",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę  „sieci wodociągowej DN100 mm L=126,5m w drodze dojazdowej do ul. Kurantów 13 na odcinku od istniejącego przewodu wodociągowego DN100mm w ul. Kurantów do wysokości działki nr ew. 7/12 z obrębu 1-09-68” budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st.Warszawie S.A.",
+"nier": "",
+"dz": "146513_8 0969 11/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.74.2026.BSE"
+}
+},
+{
+"d": "2026-06-26",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę  „sieci wodociągowej DN100 mm L=126,5m w drodze dojazdowej do ul. Kurantów 13 na odcinku od istniejącego przewodu wodociągowego DN100mm w ul. Kurantów do wysokości działki nr ew. 7/12 z obrębu 1-09-68” budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st.Warszawie S.A.",
+"nier": "",
+"dz": "146513_8 0969 6/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.74.2026.BSE"
+}
+},
+{
+"d": "2026-06-23",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbiórkę budynku mieszkalnego, parterowego, murowanego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0953 18/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6741.5.2026.APA"
+}
+},
+{
+"d": "2026-06-23",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbiórkę budynku mieszkalnego, parterowego, murowanego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0953 18/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6741.5.2026.APA"
+}
+},
+{
+"d": "2026-06-16",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku mieszkalnego jednorodzinnego wraz z niezbędną infrastrukturą techniczną, w tym instalacją gazową budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0953 45/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.68.2026.APA"
+}
+},
+{
+"d": "2026-05-29",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę magazynowej wiaty namiotowej budowa nowego/nowych obiektów budowlanych",
+"wn": "PAN Ogród Botaniczny - Centrum Zachowania Różnorodności Biologicznej w Powsinie",
+"nier": "",
+"dz": "146513_8 1215 3/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.56.2025.APA - PONOWNE ROZPATRZENIE"
+}
+},
+{
+"d": "2026-05-21",
+"c": {
+"inw": "Wniosek o pozwolenie na wykonanie robót budowlanych polegających na remoncie i przebudowie budynku nr 55/16 znajdującego się na terenie Toru Wyścigów Konnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Totalizator Sportowy Sp. z o.o.",
+"nier": "",
+"dz": "146513_8 0815 36",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.61.2026.ABO"
+}
+},
+{
+"d": "2026-04-21",
+"c": {
+"inw": "Wniosek o pozwolenie na na przebudowę dwóch lokali mieszkalnych nr 77 i 79 w budynku mieszkalnym wielorodzinnym, w zakresie elementów konstrukcyjnych w budynku wielorodzinnym, celem ich połączenia wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1016 8/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.51.2026.MMA"
+}
+},
+{
+"d": "2026-04-21",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku mieszkalnego jednorodzinnego wraz z garażem i urządzeniami budowlanymi budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0926 23/6",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.52.2026.APA"
+}
+},
+{
+"d": "2026-04-19",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę mieszkania nr 36 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1018 7/29",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.49.2026.SCE"
+}
+},
+{
+"d": "2026-04-19",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę mieszkania nr 36 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1018 7/30",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.49.2026.SCE"
+}
+},
+{
+"d": "2026-04-19",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę mieszkania nr 36 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1018 7/72",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.49.2026.SCE"
+}
+},
+{
+"d": "2026-04-09",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę 3 masztów antenowych o wys. 5m dla potrzeb realizacji instalacji radiokomunikacyjnej wraz z konstrukcją wsporczą oraz osprzętem i urządzeniami zasilającymi na dachu budynku biurowego o wys. 21m budowa nowego/nowych obiektów budowlanych",
+"wn": "Towerlink Poland Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 0952 131/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.42.2026.MMA"
+}
+},
+{
+"d": "2026-04-07",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę sieci kanalizacji sanitarnej w drodze dojazdowej do ul. Gajdy 34B budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146513_8 0952 14/26",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.41.2026.MMA"
+}
+},
+{
+"d": "2026-04-07",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę sieci kanalizacji sanitarnej w drodze dojazdowej do ul. Gajdy 34B budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146513_8 0952 26/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.41.2026.MMA"
+}
+},
+{
+"d": "2026-04-07",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę sieci kanalizacji sanitarnej w drodze dojazdowej do ul. Gajdy 34B budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146513_8 0952 28/17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.41.2026.MMA"
+}
+},
+{
+"d": "2026-04-02",
+"c": {
+"inw": "Wniosek o pozwolenie na na budowę instalacji fotowoltaicznej o mocy 700,70kWp na dachu budynku Centrum Zaawansowanych Materiałów i Technologii Politechniki Warszawskiej oraz dachu parkingu nadziemnego wraz z infrastrukturą techniczną wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Politechnika Warszawska",
+"nier": "",
+"dz": "146513_8 0824 89/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.39.2026.ABO"
+}
+},
+{
+"d": "2026-03-31",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę budynku mieszk. Wiel. Polegająca na dostosowaniu szybu windowego i dźwigu w klatce nr II i III do korzystania z poziomu wejścia do budynku oraz wykonanie dodatkowego przystanku dźwigu na ostatniej kondygnacji w klatce nr II wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"Na Skraju\"",
+"nier": "",
+"dz": "146513_8 1027 4/28",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.37.2026.SCE"
+}
+},
+{
+"d": "2026-03-20",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku mieszkalnego jednorodzinnego wolnostojącego z elementami zagospodarowania terenu i infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0974 33/9",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.34.2026.APA"
+}
+},
+{
+"d": "2026-03-12",
+"c": {
+"inw": "Wniosek o o pozwolenie na rozbiórkę budynku magazynowego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0818 88",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6741.4.2026.ABO"
+}
+},
+{
+"d": "2026-03-12",
+"c": {
+"inw": "Wniosek o pozwolenie na wykonanie robót budowlanych polegających na wyniesieniu kurka głównego i gazomierza na zewnętrzną ścianę budynku Przedszkola 352, wymiana rur gazowych wewnątrz budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa",
+"nier": "",
+"dz": "146513_8 1019 13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.25.2026.SCE"
+}
+},
+{
+"d": "2026-03-10",
+"c": {
+"inw": "Wniosek o zmianę decyzji 108/URN/PB/2025 z 9.07.2025 -budowa budynku mieszkalnego jednorodzinnego wolnostojącego z infrastrukturą techniczną (szczelnym zbiornikiem na nieczystości ciekłe i instalacją gazu) i zagospodarowaniem terenu oraz budową dojścia i dojazdu wg zamiennego projektu zagospodarowania terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0951 16",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.23.2026.MMA"
+}
+},
+{
+"d": "2026-03-06",
+"c": {
+"inw": "Wniosek o pozwolenie na wykonanie robót budowlanych polegających na przebudowie lokalu mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1002 21/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.22.2026.KRO"
+}
+},
+{
+"d": "2026-03-03",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku mieszkalnego jednorodzinnego wolnostojącego wraz z niezbędną infrastrukturą techniczną, w tym szczelnego zbiornika bezodpływowego na nieczystości ciekłe budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1214 7/12",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.21.2026.KBA"
+}
+},
+{
+"d": "2026-02-27",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbiórkę budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1035 26/18",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6741.1.2026.SCE"
+}
+},
+{
+"d": "2026-02-27",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbiórkę szklarni oraz dwóch garaży rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0974 48",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6741.2.2026.APA"
+}
+},
+{
+"d": "2026-02-26",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowie fragmentu elewacji, tj.  wstawieniu okien w ścianie wykusza na piętrze \"+10\" w budynku diagnostyczno-badawczym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Narodowy Instytut Onkologii im. Marii Skłodowskiej - Curie Państwowy Instytut Badawczy",
+"nier": "",
+"dz": "146513_8 1075 2/70",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.16.2026.PJA"
+}
+},
+{
+"d": "2026-02-02",
+"c": {
+"inw": "Wniosek o pozwolenie na wykonanie robót budowlanych polegających na wykonaniu otworu drzwiowego w ścianie nośnej w lokalu mieszkalnym nr 43 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1021 19/17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.8.2026.SCE"
+}
+},
+{
+"d": "2026-01-20",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę czterech budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej z garażami wbudowanymi w bryły budynków wraz z budową drogi wewnętrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "NOBLE PROPERTIES GROUP Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 0838 18/6",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.5.2026.APA"
+}
+},
+{
+"d": "2026-01-20",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę czterech budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej z garażami wbudowanymi w bryły budynków wraz z budową drogi wewnętrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "NOBLE PROPERTIES GROUP Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 0838 85/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.5.2026.APA"
+}
+},
+{
+"d": "2026-01-20",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę czterech budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej z garażami wbudowanymi w bryły budynków wraz z budową drogi wewnętrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "NOBLE PROPERTIES GROUP Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 0838 18/5",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.5.2026.APA"
+}
+},
+{
+"d": "2026-01-20",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę czterech budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej z garażami wbudowanymi w bryły budynków wraz z budową drogi wewnętrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "NOBLE PROPERTIES GROUP Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 0838 85/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.5.2026.APA"
+}
+},
+{
+"d": "2026-01-20",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę czterech budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej z garażami wbudowanymi w bryły budynków wraz z budową drogi wewnętrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "NOBLE PROPERTIES GROUP Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 0838 18/4",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.5.2026.APA"
+}
+},
+{
+"d": "2026-01-20",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę czterech budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej z garażami wbudowanymi w bryły budynków wraz z budową drogi wewnętrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "NOBLE PROPERTIES GROUP Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 0838 18/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.5.2026.APA"
+}
+},
+{
+"d": "2026-01-20",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę czterech budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej z garażami wbudowanymi w bryły budynków wraz z budową drogi wewnętrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "NOBLE PROPERTIES GROUP Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 0838 18/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XII-WAB-A.6740.5.2026.APA"
+}
+}
+]
+},
+{
+"id": "dec_pnb",
+"name": "Decyzje o pozwoleniu na budowę",
+"short": "Decyzje PnB",
+"desc": "Decyzje o pozwoleniu na budowę wydane przez organ architektoniczno-budowlany dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer decyzji",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2026-11-20",
+"c": {
+"inw": "Wniosek o pozwolenie na wykonanie robót budowlanych polegających na montażu zadaszenia nad balkonem w klatce nr 1, w budynku mieszklanym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"Dębina\"",
+"nier": "",
+"dz": "146513_8 1114 16/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "157/URN/PB/2026"
+}
+},
+{
+"d": "2026-11-19",
+"c": {
+"inw": "Wniosek o pozwolenie na remont i przebudowę lokali 137 i 137A znajdujących się w budynku mieszkalnym wielorodzinnym o nr inw. 60/16 na terenie Toru Wyścigów Konnych na Służewcu wraz z przebudową wewnętrznej instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Totalizator Sportowy Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 0815 36",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "153/URN/PB/2026"
+}
+},
+{
+"d": "2026-11-17",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku mieszkalnego jednorodzinnego z zewnętrzną podziemną instalacją gazową, wewnętrzną instalacją gazową, podziemną instalacją kanalizacji sanitarnej i podziemną instalacją elektryczną budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0933 41/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "151/URN/PB/2026"
+}
+},
+{
+"d": "2026-11-12",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę dwóch budynków mieszkalnych jednorodzinnych wolno stojących z garażami w bryłach budynków wraz z infrastrukturą towarzyszącą, I etap-budowa jednego budynku jednorodzinnego z garażem w bryle budynku budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0950 30/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "149/URN/PB/2026"
+}
+},
+{
+"d": "2026-11-10",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku mieszkalnego jednorodzinnego wraz z garażem i urządzeniami budowlanymi budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0926 23/6",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "147/URN/PB/2026"
+}
+},
+{
+"d": "2026-10-30",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę „kanalizacji ściekowej Ø200 mm L=131,0m w drodze dojazdowej do ul. Kurantów 13 na odcinku od istniejącego przewodu kanalizacyjnego Ø200mm w ul. Kurantów do wysokości działki nr ew. 7/12 z obrębu 1-09-68 wraz z odcinkami sieci Ø160mm L=14,0m od projektowanego kanału głównego do granic posesji przewidzianych do podłączenia do miejskiej sieci kanalizacyjnej” budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st.Warszawie",
+"nier": "",
+"dz": "146513_8 0968 7/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "138/URN/PB/2026"
+}
+},
+{
+"d": "2026-10-30",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę „kanalizacji ściekowej Ø200 mm L=131,0m w drodze dojazdowej do ul. Kurantów 13 na odcinku od istniejącego przewodu kanalizacyjnego Ø200mm w ul. Kurantów do wysokości działki nr ew. 7/12 z obrębu 1-09-68 wraz z odcinkami sieci Ø160mm L=14,0m od projektowanego kanału głównego do granic posesji przewidzianych do podłączenia do miejskiej sieci kanalizacyjnej” budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st.Warszawie",
+"nier": "",
+"dz": "146513_8 0968 12/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "138/URN/PB/2026"
+}
+},
+{
+"d": "2026-10-30",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę „kanalizacji ściekowej Ø200 mm L=131,0m w drodze dojazdowej do ul. Kurantów 13 na odcinku od istniejącego przewodu kanalizacyjnego Ø200mm w ul. Kurantów do wysokości działki nr ew. 7/12 z obrębu 1-09-68 wraz z odcinkami sieci Ø160mm L=14,0m od projektowanego kanału głównego do granic posesji przewidzianych do podłączenia do miejskiej sieci kanalizacyjnej” budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st.Warszawie",
+"nier": "",
+"dz": "146513_8 0969 11/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "138/URN/PB/2026"
+}
+},
+{
+"d": "2026-10-30",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę „kanalizacji ściekowej Ø200 mm L=131,0m w drodze dojazdowej do ul. Kurantów 13 na odcinku od istniejącego przewodu kanalizacyjnego Ø200mm w ul. Kurantów do wysokości działki nr ew. 7/12 z obrębu 1-09-68 wraz z odcinkami sieci Ø160mm L=14,0m od projektowanego kanału głównego do granic posesji przewidzianych do podłączenia do miejskiej sieci kanalizacyjnej” budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st.Warszawie",
+"nier": "",
+"dz": "146513_8 0969 6/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "138/URN/PB/2026"
+}
+},
+{
+"d": "2026-10-27",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę  „sieci wodociągowej DN100 mm L=126,5m w drodze dojazdowej do ul. Kurantów 13 na odcinku od istniejącego przewodu wodociągowego DN100mm w ul. Kurantów do wysokości działki nr ew. 7/12 z obrębu 1-09-68” budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st.Warszawie S.A.",
+"nier": "",
+"dz": "146513_8 0968 7/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "136/URN/PB/2026"
+}
+},
+{
+"d": "2026-10-27",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę  „sieci wodociągowej DN100 mm L=126,5m w drodze dojazdowej do ul. Kurantów 13 na odcinku od istniejącego przewodu wodociągowego DN100mm w ul. Kurantów do wysokości działki nr ew. 7/12 z obrębu 1-09-68” budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st.Warszawie S.A.",
+"nier": "",
+"dz": "146513_8 0968 12/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "136/URN/PB/2026"
+}
+},
+{
+"d": "2026-10-27",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę  „sieci wodociągowej DN100 mm L=126,5m w drodze dojazdowej do ul. Kurantów 13 na odcinku od istniejącego przewodu wodociągowego DN100mm w ul. Kurantów do wysokości działki nr ew. 7/12 z obrębu 1-09-68” budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st.Warszawie S.A.",
+"nier": "",
+"dz": "146513_8 0969 11/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "136/URN/PB/2026"
+}
+},
+{
+"d": "2026-10-27",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę  „sieci wodociągowej DN100 mm L=126,5m w drodze dojazdowej do ul. Kurantów 13 na odcinku od istniejącego przewodu wodociągowego DN100mm w ul. Kurantów do wysokości działki nr ew. 7/12 z obrębu 1-09-68” budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st.Warszawie S.A.",
+"nier": "",
+"dz": "146513_8 0969 6/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "136/URN/PB/2026"
+}
+},
+{
+"d": "2026-10-26",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę budynku mieszk. Wiel. Polegająca na dostosowaniu szybu windowego i dźwigu w klatce nr II i III do korzystania z poziomu wejścia do budynku oraz wykonanie dodatkowego przystanku dźwigu na ostatniej kondygnacji w klatce nr II wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"Na Skraju\"",
+"nier": "",
+"dz": "146513_8 1027 4/28",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "135/URN/PB/2026"
+}
+},
+{
+"d": "2026-10-22",
+"c": {
+"inw": "Wniosek o pozwolenie na wykonanie robót budowlanych polegających na remoncie elewacji budynku wraz z dociepleniem oraz remontem balkonów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SBM \"Ursynów\"",
+"nier": "",
+"dz": "146513_8 1021 20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "134/URN/PB/2026"
+}
+},
+{
+"d": "2026-10-14",
+"c": {
+"inw": "Wniosek o pozwolenie przebudowę i rozbudowę istniejącego budynku mieszkalnego jednorodzinnego obejmującą taras, rozbudowę garażu, przebudowę dachu oraz przebudowę instalacji wewnętrznej kanalizacyjnej i gazowej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0835 8/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "129/URN/PB/2026"
+}
+},
+{
+"d": "2026-10-06",
+"c": {
+"inw": "Wniosek o pozwolenie na wykonanie robót budowlanych polegających na poszerzeniu otworu drzwiowego prowadzącego z klatki schodowej na poziomie parteru w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SBM \"Ursynów\"",
+"nier": "",
+"dz": "146513_8 1021 20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "124/URN/PB/2026"
+}
+},
+{
+"d": "2026-10-02",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0942 26/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "123/URN/PB/2026"
+}
+},
+{
+"d": "2026-10-01",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku mieszkalnego jednorodzinnego wraz z niezbędną infrastrukturą techniczną, w tym instalacją gazową budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0953 45/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "122/URN/PB/2026"
+}
+},
+{
+"d": "2026-09-15",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę zespołu czterech budynków mieszkalnych jednorodzinnych dwulokalowych z garażami wbudowanymi w bryły budynków wraz z budową drogi wewnętrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "ASCOT POLSKA Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 1107 39/89",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "118/URN/PB/2026"
+}
+},
+{
+"d": "2026-09-15",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę zespołu czterech budynków mieszkalnych jednorodzinnych dwulokalowych z garażami wbudowanymi w bryły budynków wraz z budową drogi wewnętrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "ASCOT POLSKA Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 1107 39/90",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "118/URN/PB/2026"
+}
+},
+{
+"d": "2026-09-15",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę zespołu czterech budynków mieszkalnych jednorodzinnych dwulokalowych z garażami wbudowanymi w bryły budynków wraz z budową drogi wewnętrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "ASCOT POLSKA Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 1107 39/91",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "118/URN/PB/2026"
+}
+},
+{
+"d": "2026-09-15",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę zespołu czterech budynków mieszkalnych jednorodzinnych dwulokalowych z garażami wbudowanymi w bryły budynków wraz z budową drogi wewnętrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "ASCOT POLSKA Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 1107 39/92",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "118/URN/PB/2026"
+}
+},
+{
+"d": "2026-09-15",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę zespołu czterech budynków mieszkalnych jednorodzinnych dwulokalowych z garażami wbudowanymi w bryły budynków wraz z budową drogi wewnętrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "ASCOT POLSKA Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 1107 39/94",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "118/URN/PB/2026"
+}
+},
+{
+"d": "2026-09-11",
+"c": {
+"inw": "Wniosek o pozwolenie na wykonanie robót budowlanych polegających na remoncie i przebudowie budynku nr 55/16 znajdującego się na terenie Toru Wyścigów Konnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Totalizator Sportowy Sp. z o.o.",
+"nier": "",
+"dz": "146513_8 0815 36",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "117/URN/PB/2026"
+}
+},
+{
+"d": "2026-08-03",
+"c": {
+"inw": "o pozwolenie na rozbudowę, nadbudowę, przebudowę, remont budynku oraz zmiana sposobu użytkowania poddasza nieużytkowego na cele mieszkalne, zabytkowej willi (domu jednorodzinnego) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0834 27/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "106/URN/PB/2026"
+}
+},
+{
+"d": "2026-07-27",
+"c": {
+"inw": "Wniosek o o pozwolenie na rozbiórkę budynku magazynowego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0818 88",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "102/URN/PB/2026/R"
+}
+},
+{
+"d": "2026-07-15",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbiórkę budynku mieszkalnego, parterowego, murowanego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0953 18/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "99/URN/PB/2026/R"
+}
+},
+{
+"d": "2026-07-15",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbiórkę budynku mieszkalnego, parterowego, murowanego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0953 18/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "99/URN/PB/2026/R"
+}
+},
+{
+"d": "2026-07-10",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0834 98/4",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "97/URN/PB/2026"
+}
+},
+{
+"d": "2026-07-08",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę sieci kanalizacji sanitarnej w drodze dojazdowej do ul. Gajdy 34B budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146513_8 0952 14/26",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "94/URN/PB/2026"
+}
+},
+{
+"d": "2026-07-08",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę sieci kanalizacji sanitarnej w drodze dojazdowej do ul. Gajdy 34B budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146513_8 0952 26/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "94/URN/PB/2026"
+}
+},
+{
+"d": "2026-07-08",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę sieci kanalizacji sanitarnej w drodze dojazdowej do ul. Gajdy 34B budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146513_8 0952 28/17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "94/URN/PB/2026"
+}
+},
+{
+"d": "2026-07-07",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku mieszkalnego jednorodzinnego wolnostojącego wraz z niezbędną infrastrukturą techniczną, w tym szczelnego zbiornika bezodpływowego na nieczystości ciekłe budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1214 7/12",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "93/URN/PB/2026"
+}
+},
+{
+"d": "2026-07-03",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę 3 masztów antenowych o wys. 5m dla potrzeb realizacji instalacji radiokomunikacyjnej wraz z konstrukcją wsporczą oraz osprzętem i urządzeniami zasilającymi na dachu budynku biurowego o wys. 21m budowa nowego/nowych obiektów budowlanych",
+"wn": "Towerlink Poland Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 0952 131/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "92/URN/PB/2026"
+}
+},
+{
+"d": "2026-06-30",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę magazynowej wiaty namiotowej budowa nowego/nowych obiektów budowlanych",
+"wn": "PAN Ogród Botaniczny - Centrum Zachowania Różnorodności Biologicznej w Powsinie",
+"nier": "",
+"dz": "146513_8 1215 3/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "89/URN/PB/2026"
+}
+},
+{
+"d": "2026-06-29",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę mieszkania nr 36 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1018 7/29",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "87/URN/PB/2026"
+}
+},
+{
+"d": "2026-06-29",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę mieszkania nr 36 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1018 7/30",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "87/URN/PB/2026"
+}
+},
+{
+"d": "2026-06-29",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę mieszkania nr 36 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1018 7/72",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "87/URN/PB/2026"
+}
+},
+{
+"d": "2026-06-29",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku mieszkalnego jednorodzinnego wraz z infrastrukturą techniczną i elementami zagospodarowania terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1213 59/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "86/URN/PB/2026"
+}
+},
+{
+"d": "2026-06-17",
+"c": {
+"inw": "Wniosek o pozwolenie na na przebudowę dwóch lokali mieszkalnych nr 77 i 79 w budynku mieszkalnym wielorodzinnym, w zakresie elementów konstrukcyjnych w budynku wielorodzinnym, celem ich połączenia wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1016 8/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "82/URN/PB/2026"
+}
+},
+{
+"d": "2026-06-15",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbudowę i przebudowę budynku mieszkalnego jednorodzinnego oraz rozbiórka dwóch budynków gospodarczych i budynku garażowego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146413_8 1203 105",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "81/URN/PB/2026"
+}
+},
+{
+"d": "2026-06-15",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbudowę i przebudowę budynku mieszkalnego jednorodzinnego oraz rozbiórka dwóch budynków gospodarczych i budynku garażowego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146413_8 1203 104",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "81/URN/PB/2026"
+}
+},
+{
+"d": "2026-06-03",
+"c": {
+"inw": "Wniosek o pozwolenie na wykonanie robót budowlanych polegających na dostosowaniu holu wejściowego, szybu windowego i dźwigu do korzystania z poziomu wejścia do budynku oraz wykonaniu dodatkowego przystanku dźwigu na ostatniej kondygnacji w klatce nr I” budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"Na Skraju\"",
+"nier": "",
+"dz": "146513_8 1027 4/28",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "78/URN/PB/2026"
+}
+},
+{
+"d": "2026-06-03",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku mieszkalnego jednorodzinnego wolnostojącego z elementami zagospodarowania terenu i infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0974 33/9",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "76/URN/PB/2026"
+}
+},
+{
+"d": "2026-06-03",
+"c": {
+"inw": "wniosek o pozwolenie na budowę sieci kanalizacji sanitarnej Dn 0,2 m wraz z odcinkami sieci od kanału głównego do granic nieruchomości w ul. Dumki (odc. Trombity – Dumki 20A)” wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146513_8 0956 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "79/URN/PB/2026"
+}
+},
+{
+"d": "2026-06-03",
+"c": {
+"inw": "wniosek o pozwolenie na budowę sieci kanalizacji sanitarnej Dn 0,2 m wraz z odcinkami sieci od kanału głównego do granic nieruchomości w ul. Dumki (odc. Trombity – Dumki 20A)” wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146513_8 0956 3/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "79/URN/PB/2026"
+}
+},
+{
+"d": "2026-06-03",
+"c": {
+"inw": "wniosek o pozwolenie na budowę sieci kanalizacji sanitarnej Dn 0,2 m wraz z odcinkami sieci od kanału głównego do granic nieruchomości w ul. Dumki (odc. Trombity – Dumki 20A)” wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146513_8 0956 3/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "79/URN/PB/2026"
+}
+},
+{
+"d": "2026-06-01",
+"c": {
+"inw": "Wniosek o pozwolenie na realizację inwestycji: „Rozbiórka małej architektury, nawierzchni, Remont: pomostu, urządzeń budowlanych, nawierzchni, Przebudowa zbiornika, Budowa: małej architektury, przyłącza wodociągowego i wewnętrznej sieci wodociągowej, przyłącza elektroenergetycznego, wewnętrznej sieci elektroenergetycznej i punktów oświetleniowych, przyłącza kanalizacji deszczowej, wewnętrznej sieci kanalizacji deszczowej oraz przelewu burzowego, kanalizacji kablowej (pod przyszły monitoring), urządzenia napowietrzającego w ramach zadania: Inwentaryzacja oraz opracowanie dokumentacji projektowo – kosztorysowej Parku Moczydełko przy ul. Wełnianej w dzielnicy Ursynów – Strefa A” wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m. st. Warszawa",
+"nier": "",
+"dz": "146513_8 1107 39/21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "71/URN/PB/2026"
+}
+},
+{
+"d": "2026-06-01",
+"c": {
+"inw": "Wniosek o pozwolenie na realizację inwestycji: „Rozbiórka małej architektury, nawierzchni, Remont: pomostu, urządzeń budowlanych, nawierzchni, Przebudowa zbiornika, Budowa: małej architektury, przyłącza wodociągowego i wewnętrznej sieci wodociągowej, przyłącza elektroenergetycznego, wewnętrznej sieci elektroenergetycznej i punktów oświetleniowych, przyłącza kanalizacji deszczowej, wewnętrznej sieci kanalizacji deszczowej oraz przelewu burzowego, kanalizacji kablowej (pod przyszły monitoring), urządzenia napowietrzającego w ramach zadania: Inwentaryzacja oraz opracowanie dokumentacji projektowo – kosztorysowej Parku Moczydełko przy ul. Wełnianej w dzielnicy Ursynów – Strefa A” wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m. st. Warszawa",
+"nier": "",
+"dz": "146513_8 1107 39/59",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "71/URN/PB/2026"
+}
+},
+{
+"d": "2026-06-01",
+"c": {
+"inw": "Wniosek o pozwolenie na wykonanie robót budowlanych polegających na wyniesieniu kurka głównego i gazomierza na zewnętrzną ścianę budynku Przedszkola 352, wymiana rur gazowych wewnątrz budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa",
+"nier": "",
+"dz": "146513_8 1019 13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "73/URN/PB/2026"
+}
+},
+{
+"d": "2026-06-01",
+"c": {
+"inw": "Wniosek o pozwolenie na realizację inwestycji: „Rozbiórka elementów małej architektury, nawierzchni Budowa elementów małej architektury, nawierzchni, sieci elektroenergetyczne j, oświetlenia, kanalizacji ka blowej (pod przyszły monitoring) w ramach zadania: Inwentaryzacja oraz opracowanie dokumentacji projektowo kosztorysowej Parku Moczydełko przy ul. Wełnianej w dzielnicy Ursynów” Strefa B” wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "m. st. Warszawa",
+"nier": "",
+"dz": "146513_8 1107 39/59",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "72/URN/PB/2026"
+}
+},
+{
+"d": "2026-05-29",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbiórkę budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1035 26/18",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "70/URN/PB/2026/R"
+}
+},
+{
+"d": "2026-05-27",
+"c": {
+"inw": "wniosek o pozwolenie na budowę urządzenia do magazynowania i wydawania płynu adblue, wraz wewnętrzną instalacją elektryczną w ramach rozbudowy istniejącej Stacji Paliw budowa nowego/nowych obiektów budowlanych",
+"wn": "Shell Polska Sp. z o. o.",
+"nier": "",
+"dz": "166513_8 1077 86/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "67/URN/PB/2026"
+}
+},
+{
+"d": "2026-05-27",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę dwóch budynków w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0833 2/16",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "68/URN/PB/2026"
+}
+},
+{
+"d": "2026-05-27",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę dwóch budynków w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0833 2/15",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "68/URN/PB/2026"
+}
+},
+{
+"d": "2026-05-25",
+"c": {
+"inw": "Wniosek o zmianę decyzji 108/URN/PB/2025 z 9.07.2025 -budowa budynku mieszkalnego jednorodzinnego wolnostojącego z infrastrukturą techniczną (szczelnym zbiornikiem na nieczystości ciekłe i instalacją gazu) i zagospodarowaniem terenu oraz budową dojścia i dojazdu wg zamiennego projektu zagospodarowania terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0951 16",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "66/URN/PB/2026/Z"
+}
+},
+{
+"d": "2026-05-19",
+"c": {
+"inw": "Wniosek o pozwolenie na na budowę instalacji fotowoltaicznej o mocy 700,70kWp na dachu budynku Centrum Zaawansowanych Materiałów i Technologii Politechniki Warszawskiej oraz dachu parkingu nadziemnego wraz z infrastrukturą techniczną wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Politechnika Warszawska",
+"nier": "",
+"dz": "146513_8 0824 89/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "61/URN/PB/2026"
+}
+},
+{
+"d": "2026-05-12",
+"c": {
+"inw": "Wniosek o pozwolenie na wykonanie robót budowlanych polegających na przebudowie lokalu mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1002 21/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "59/URN/PB/2026"
+}
+},
+{
+"d": "2026-05-08",
+"c": {
+"inw": "Wniosek o zmianę decyzji 62/URN/PB/2025 z 10.04.2025 z 10.04.2025- zmiana funkcji budynku na budowę budynku usługowego o funkcji biurowo-administracyjnej z garażem wg projektu zamiennego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0920 60/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "56/URN/PB/2026/Z"
+}
+},
+{
+"d": "2026-05-05",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę czterech budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej z garażami wbudowanymi w bryły budynków wraz z budową drogi wewnętrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "NOBLE PROPERTIES GROUP Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 0838 18/6",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "54/URN/PB/2026"
+}
+},
+{
+"d": "2026-05-05",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę czterech budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej z garażami wbudowanymi w bryły budynków wraz z budową drogi wewnętrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "NOBLE PROPERTIES GROUP Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 0838 85/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "54/URN/PB/2026"
+}
+},
+{
+"d": "2026-05-05",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę czterech budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej z garażami wbudowanymi w bryły budynków wraz z budową drogi wewnętrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "NOBLE PROPERTIES GROUP Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 0838 18/5",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "54/URN/PB/2026"
+}
+},
+{
+"d": "2026-05-05",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę czterech budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej z garażami wbudowanymi w bryły budynków wraz z budową drogi wewnętrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "NOBLE PROPERTIES GROUP Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 0838 85/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "54/URN/PB/2026"
+}
+},
+{
+"d": "2026-05-05",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę czterech budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej z garażami wbudowanymi w bryły budynków wraz z budową drogi wewnętrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "NOBLE PROPERTIES GROUP Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 0838 18/4",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "54/URN/PB/2026"
+}
+},
+{
+"d": "2026-05-05",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę czterech budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej z garażami wbudowanymi w bryły budynków wraz z budową drogi wewnętrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "NOBLE PROPERTIES GROUP Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 0838 18/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "54/URN/PB/2026"
+}
+},
+{
+"d": "2026-05-05",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę czterech budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej z garażami wbudowanymi w bryły budynków wraz z budową drogi wewnętrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "NOBLE PROPERTIES GROUP Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 0838 18/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "54/URN/PB/2026"
+}
+},
+{
+"d": "2026-05-04",
+"c": {
+"inw": "Wniosek o pozwolenie na na budowę dwóch budynków jednorodzinnych w zabudowie bliźniaczej wraz z infrastruktura techniczną i elementami zagospodarowania terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1213 65",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "53/URN/PB/2026"
+}
+},
+{
+"d": "2026-04-27",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbiórkę szklarni oraz dwóch garaży rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0974 48",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "51/URN/PB/2026/R"
+}
+},
+{
+"d": "2026-04-23",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowie fragmentu elewacji, tj.  wstawieniu okien w ścianie wykusza na piętrze \"+10\" w budynku diagnostyczno-badawczym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Narodowy Instytut Onkologii im. Marii Skłodowskiej - Curie Państwowy Instytut Badawczy",
+"nier": "",
+"dz": "146513_8 1075 2/70",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "46/URN/PB/2026"
+}
+},
+{
+"d": "2026-04-22",
+"c": {
+"inw": "Wniosek o pozwolenie na nadbudowę i przebudowę budynku wielorodzinnego wraz ze zmianą sposobu użytkowania poddasza na cele mieszkalne nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146506_8 0105 43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "45/URN/PB/2026"
+}
+},
+{
+"d": "2026-04-14",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku mieszkalnego jednorodzinnego dwulokalowego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0922 18/5",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "43/URN/PB/2026"
+}
+},
+{
+"d": "2026-04-09",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku mieszkalnego jednorodzinnego ze szczelnym, bezodpływowym zbiornikiem na nieczystości płynne wraz z budową drogi wewnętrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1213 29/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "41/URN/PB/2026"
+}
+},
+{
+"d": "2026-04-09",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku mieszkalnego jednorodzinnego ze szczelnym, bezodpływowym zbiornikiem na nieczystości płynne wraz z budową drogi wewnętrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1213 29/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "41/URN/PB/2026"
+}
+},
+{
+"d": "2026-04-07",
+"c": {
+"inw": "Wniosek o pozwolenie na wykonanie robót budowlanych polegających na wykonaniu otworu drzwiowego w ścianie nośnej w lokalu mieszkalnym nr 43 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1021 19/17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "38/URN/PB/2026"
+}
+},
+{
+"d": "2026-03-23",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku mieszkalnego jednorodzinnego wolnostojącego wraz z infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Kądziołeczki",
+"dz": "146513_8 0834 110/12",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "35/URN/PB/2026"
+}
+},
+{
+"d": "2026-03-23",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku mieszkalnego jednorodzinnego wolnostojącego wraz z infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Kądziołeczki",
+"dz": "146513_8 0834 110/13",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "35/URN/PB/2026"
+}
+},
+{
+"d": "2026-03-20",
+"c": {
+"inw": "Wniosek o pozwolenie na wykonanie robót budowlanych budowlane obejmujące \"przebudowę otworu drzwiowego w wewnętrznej ścianie konstrukcyjnej w budynku mieszkalnym wielorodzinnym przy ul. Bronikowskiego 1 w Warszawie\" wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SMB \"Osiedle Kabaty\"",
+"nier": "",
+"dz": "146513_8 1111 48/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "33/URN/PB/2026"
+}
+},
+{
+"d": "2026-03-17",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku mieszkalnego jednorodzinnego wolno stojącego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0944 8/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "31/URN/PB/2026"
+}
+},
+{
+"d": "2026-03-09",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę z nadbudową budynku gospodarczego, ze zmianą sposobu użytkowania na funkcję mieszkalną jednorodzinną wraz z niezbędną infrastrukturą nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0931 4/14",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "27/URN/PB/2026"
+}
+},
+{
+"d": "2026-03-05",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę czterech budynków mieszkalnych wielorodzinnych z garażem podziemnym wraz z infrastrukturą techniczną i elementami zagospodarowania terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "Unimax Apartamenty Sp z o.o.",
+"nier": "Wyczółki",
+"dz": "146513_8 0818 93/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "25/URN/PB/2026"
+}
+},
+{
+"d": "2026-03-05",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę czterech budynków mieszkalnych wielorodzinnych z garażem podziemnym wraz z infrastrukturą techniczną i elementami zagospodarowania terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "Unimax Apartamenty Sp z o.o.",
+"nier": "Wyczółki",
+"dz": "146513_8 0818 93/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "25/URN/PB/2026"
+}
+},
+{
+"d": "2026-03-05",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę czterech budynków mieszkalnych wielorodzinnych z garażem podziemnym wraz z infrastrukturą techniczną i elementami zagospodarowania terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "Unimax Apartamenty Sp z o.o.",
+"nier": "Wyczółki",
+"dz": "146513_8 0818 94",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "25/URN/PB/2026"
+}
+},
+{
+"d": "2026-03-05",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbiórkę trzech budynków rozbiórka istniejącego obiektu budowlanego",
+"wn": "HI MOKOTÓW Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 0814 8/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "24/URN/PB/2026/R"
+}
+},
+{
+"d": "2026-02-23",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę toalety automatycznej wraz z przyłączami w Parku im. Romana Kozłowskiego budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa",
+"nier": "",
+"dz": "146513_8 1001 5/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "21URN/PB/2026"
+}
+},
+{
+"d": "2026-02-23",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę toalety automatycznej wraz z przyłączami w Parku im. Romana Kozłowskiego budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa",
+"nier": "",
+"dz": "146513_8 1001 5/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "21URN/PB/2026"
+}
+},
+{
+"d": "2026-02-17",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku mieszkalnego wielorodzinnego z usługami w parterze, garażem podziemnym i zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "SBM \"Vistula\"",
+"nier": "Jastrzębowskiego 3 / Wojciecha Bogumiła",
+"dz": "146513_8 1009 10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "18/URN/PB/2026"
+}
+},
+{
+"d": "2026-02-16",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę polegającą na dociepleniu elewacji wraz z remontem balkonów budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Budownictwa Mieszkaniowego ''Ursynów\"",
+"nier": "",
+"dz": "146513_8 1009 1/34",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "17/URN/PB/2026"
+}
+},
+{
+"d": "2026-02-16",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę polegającą na dociepleniu elewacji wraz z remontem balkonów budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Budownictwa Mieszkaniowego ''Ursynów\"",
+"nier": "",
+"dz": "146513_8 1009 1/35",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "17/URN/PB/2026"
+}
+},
+{
+"d": "2026-02-16",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę polegającą na dociepleniu elewacji wraz z remontem balkonów budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Budownictwa Mieszkaniowego ''Ursynów\"",
+"nier": "",
+"dz": "146513_8 1009 16/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "17/URN/PB/2026"
+}
+},
+{
+"d": "2026-02-16",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę polegającą na dociepleniu elewacji wraz z remontem balkonów budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Budownictwa Mieszkaniowego ''Ursynów\"",
+"nier": "",
+"dz": "146513_8 1009 16/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "17/URN/PB/2026"
+}
+},
+{
+"d": "2026-02-16",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę polegającą na dociepleniu elewacji wraz z remontem balkonów budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Budownictwa Mieszkaniowego ''Ursynów\"",
+"nier": "",
+"dz": "146513_8 1009 17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "17/URN/PB/2026"
+}
+},
+{
+"d": "2026-02-16",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę polegającą na dociepleniu elewacji wraz z remontem balkonów budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Budownictwa Mieszkaniowego ''Ursynów\"",
+"nier": "",
+"dz": "146513_8 1009 18",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "17/URN/PB/2026"
+}
+},
+{
+"d": "2026-02-16",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę polegającą na dociepleniu elewacji wraz z remontem balkonów budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Budownictwa Mieszkaniowego ''Ursynów\"",
+"nier": "",
+"dz": "146513_8 1009 19/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "17/URN/PB/2026"
+}
+},
+{
+"d": "2026-02-16",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę polegającą na dociepleniu elewacji wraz z remontem balkonów budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Budownictwa Mieszkaniowego ''Ursynów\"",
+"nier": "",
+"dz": "146513_8 1009 20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "17/URN/PB/2026"
+}
+},
+{
+"d": "2026-02-16",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę polegającą na dociepleniu elewacji wraz z remontem balkonów budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Budownictwa Mieszkaniowego ''Ursynów\"",
+"nier": "",
+"dz": "146513_8 1009 21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "17/URN/PB/2026"
+}
+},
+{
+"d": "2026-02-16",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę polegającą na dociepleniu elewacji wraz z remontem balkonów budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Budownictwa Mieszkaniowego ''Ursynów\"",
+"nier": "",
+"dz": "146513_8 1009 22/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "17/URN/PB/2026"
+}
+},
+{
+"d": "2026-02-16",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę polegającą na dociepleniu elewacji wraz z remontem balkonów budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Budownictwa Mieszkaniowego ''Ursynów\"",
+"nier": "",
+"dz": "146513_8 1009 23/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "17/URN/PB/2026"
+}
+},
+{
+"d": "2026-02-16",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbudowę i przebudowę budynku wielorodzinnego, polegająca na dobudowie balkonu podwieszonego do lokalu nr 16. rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Spółdzielnia Mieszkaniowa \"Na Skraju\"",
+"nier": "",
+"dz": "146513_8 1027 4/23",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "16/URN/PB/2026"
+}
+},
+{
+"d": "2026-02-06",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę dwóch budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej wraz z infrastrukturą towarzyszącą (tj. dwoma zbiornikami na nieczystości ciekłe o poj.do 10 m3, dwoma studniami wierconymi o gł.do 30m i poborze do 5m3) i zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0961 8/13",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "15/URN/PB/2026"
+}
+},
+{
+"d": "2026-02-06",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę dwupoziomowego lokalu mieszkalnego nr 13 z poddaszem użytkowym wraz z podziałem na dwa odrębne lokale mieszkalne w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1112 26",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "14/URN/PB/2026"
+}
+},
+{
+"d": "2026-02-04",
+"c": {
+"inw": "wniosek o pozwolenie na przebudowę budynku biurowego \"B3\" wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poleczki Madrid Office Sp.zo.o",
+"nier": "",
+"dz": "146513_8 0821 76",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "12/URN/PB/2026"
+}
+},
+{
+"d": "2026-02-04",
+"c": {
+"inw": "wniosek o pozwolenie na przebudowę budynku biurowego \"B3\" wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poleczki Madrid Office Sp.zo.o",
+"nier": "",
+"dz": "146513_8 0821 79",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "12/URN/PB/2026"
+}
+},
+{
+"d": "2026-01-30",
+"c": {
+"inw": "Wniosek o pozwolenie na wykonanie robót budowlanych polegających na przebudowie lokalu usługowego w budynku wielorodzinnym z usługami w parterze wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Doppler Instytut Sp.z o.o.",
+"nier": "",
+"dz": "146513_8 1001 15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "11/URN/PB/2026"
+}
+},
+{
+"d": "2026-01-28",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbiórkę parterowego domu drewnianego bez podpiwniczenia mieszkalnego jednorodzinnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "126513_8 0834 97/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "9/URN/PB/2026/R"
+}
+},
+{
+"d": "2026-01-26",
+"c": {
+"inw": "Wniosek o pozwolenie na rozbudowę i przebudowę hali widowiskowo-sportowej Arena Ursynów wraz z zagospodarowaniem terenu rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa (Ursynowskie Centrum Sportu i Rekreacji)",
+"nier": "",
+"dz": "146513_8 1021 18/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "8/URN/PB/2026"
+}
+},
+{
+"d": "2026-01-21",
+"c": {
+"inw": "Wniosek o zmianę decyzji 48/URN/PB/2025 z 26.03.2025 - budynek mieszkalny jednorodzinny wolnostojący z garażem w bryle budynku wraz z infrastrukturą techniczną i zagospodarowaniem terenu wg projektu zamiennego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0939 7/43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6/URN/PB/2026/Z"
+}
+},
+{
+"d": "2026-01-21",
+"c": {
+"inw": "Wniosek o zmianę decyzji 48/URN/PB/2025 z 26.03.2025 - budynek mieszkalny jednorodzinny wolnostojący z garażem w bryle budynku wraz z infrastrukturą techniczną i zagospodarowaniem terenu wg projektu zamiennego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0939 7/46",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6/URN/PB/2026/Z"
+}
+},
+{
+"d": "2026-01-21",
+"c": {
+"inw": "Wniosek o zmianę decyzji 48/URN/PB/2025 z 26.03.2025 - budynek mieszkalny jednorodzinny wolnostojący z garażem w bryle budynku wraz z infrastrukturą techniczną i zagospodarowaniem terenu wg projektu zamiennego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0939 12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6/URN/PB/2026/Z"
+}
+},
+{
+"d": "2026-01-20",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę telekomunikacyjnego obiektu budowlanego T-mobile Polska 67937 budowa nowego/nowych obiektów budowlanych",
+"wn": "T-mobile Polska S.A.",
+"nier": "",
+"dz": "146513_8 1022 4/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "5/URN/PB/2026"
+}
+},
+{
+"d": "2026-01-19",
+"c": {
+"inw": "Wniosek o pozwolenie na budowę budynku hotelowego wraz z infrastrukturą techniczną i elementami zagospodarowania terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "Cieślak Trade Sp.K.",
+"nier": "Poleczki 78",
+"dz": "146513_8 0821 5/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "3/URN/PB/2026"
+}
+},
+{
+"d": "2026-01-19",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę ściany zewnętrznej w obrębie lokalu mieszkalnego w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1112 30",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "4/URN/PB/2026"
+}
+},
+{
+"d": "2026-01-19",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę ściany zewnętrznej w obrębie lokalu mieszkalnego w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1112 29/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "4/URN/PB/2026"
+}
+},
+{
+"d": "2026-01-19",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę ściany zewnętrznej w obrębie lokalu mieszkalnego w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1112 29/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "4/URN/PB/2026"
+}
+},
+{
+"d": "2026-01-19",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę ściany zewnętrznej w obrębie lokalu mieszkalnego w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1112 29/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "4/URN/PB/2026"
+}
+},
+{
+"d": "2026-01-19",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę ściany zewnętrznej w obrębie lokalu mieszkalnego w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 1112 37",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "4/URN/PB/2026"
+}
+},
+{
+"d": "2026-01-15",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę budynku w zakresie otworów drzwiowych i okiennych wraz z wykonaniem otworu klapy oddymiającej oraz dostosowaniem budynku do obowiązujących przepisów p.poż w zakresie wskazanym w ekspertyzie technicznej stanu ochrony przeciwpożarowej z maja 2019 r. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Budownictwa Mieszkaniowego \"Ursynów\"",
+"nier": "",
+"dz": "146513_8 1009 21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "2/URN/PB/2026"
+}
+},
+{
+"d": "2026-01-15",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę budynku w zakresie otworów drzwiowych i okiennych wraz z wykonaniem otworu klapy oddymiającej oraz dostosowaniem budynku do obowiązujących przepisów p.poż w zakresie wskazanym w ekspertyzie technicznej stanu ochrony przeciwpożarowej z maja 2019 r. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Budownictwa Mieszkaniowego \"Ursynów\"",
+"nier": "",
+"dz": "146513_8 1009 23/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "2/URN/PB/2026"
+}
+},
+{
+"d": "2026-01-15",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę budynku w zakresie otworów drzwiowych i okiennych wraz z wykonaniem otworu klapy oddymiającej oraz dostosowaniem budynku do obowiązujących przepisów p.poż w zakresie wskazanym w ekspertyzie technicznej stanu ochrony przeciwpożarowej z maja 2019 r. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Budownictwa Mieszkaniowego \"Ursynów\"",
+"nier": "",
+"dz": "146513_8 1009 1/35",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "2/URN/PB/2026"
+}
+},
+{
+"d": "2026-01-15",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę budynku w zakresie otworów drzwiowych i okiennych wraz z wykonaniem otworu klapy oddymiającej oraz dostosowaniem budynku do obowiązujących przepisów p.poż w zakresie wskazanym w ekspertyzie technicznej stanu ochrony przeciwpożarowej z maja 2019 r. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Budownictwa Mieszkaniowego \"Ursynów\"",
+"nier": "",
+"dz": "146513_8 1009 22/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "2/URN/PB/2026"
+}
+},
+{
+"d": "2026-01-15",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę budynku w zakresie otworów drzwiowych i okiennych wraz z wykonaniem otworu klapy oddymiającej oraz dostosowaniem budynku do obowiązujących przepisów p.poż w zakresie wskazanym w ekspertyzie technicznej stanu ochrony przeciwpożarowej z maja 2019 r. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Budownictwa Mieszkaniowego \"Ursynów\"",
+"nier": "",
+"dz": "146513_8 1009 17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "2/URN/PB/2026"
+}
+},
+{
+"d": "2026-01-15",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę budynku w zakresie otworów drzwiowych i okiennych wraz z wykonaniem otworu klapy oddymiającej oraz dostosowaniem budynku do obowiązujących przepisów p.poż w zakresie wskazanym w ekspertyzie technicznej stanu ochrony przeciwpożarowej z maja 2019 r. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Budownictwa Mieszkaniowego \"Ursynów\"",
+"nier": "",
+"dz": "146513_8 1009 16/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "2/URN/PB/2026"
+}
+},
+{
+"d": "2026-01-15",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę budynku w zakresie otworów drzwiowych i okiennych wraz z wykonaniem otworu klapy oddymiającej oraz dostosowaniem budynku do obowiązujących przepisów p.poż w zakresie wskazanym w ekspertyzie technicznej stanu ochrony przeciwpożarowej z maja 2019 r. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Budownictwa Mieszkaniowego \"Ursynów\"",
+"nier": "",
+"dz": "146513_8 1009 16/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "2/URN/PB/2026"
+}
+},
+{
+"d": "2026-01-15",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę budynku w zakresie otworów drzwiowych i okiennych wraz z wykonaniem otworu klapy oddymiającej oraz dostosowaniem budynku do obowiązujących przepisów p.poż w zakresie wskazanym w ekspertyzie technicznej stanu ochrony przeciwpożarowej z maja 2019 r. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Budownictwa Mieszkaniowego \"Ursynów\"",
+"nier": "",
+"dz": "146513_8 1009 18",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "2/URN/PB/2026"
+}
+},
+{
+"d": "2026-01-15",
+"c": {
+"inw": "Wniosek o pozwolenie na przebudowę budynku w zakresie otworów drzwiowych i okiennych wraz z wykonaniem otworu klapy oddymiającej oraz dostosowaniem budynku do obowiązujących przepisów p.poż w zakresie wskazanym w ekspertyzie technicznej stanu ochrony przeciwpożarowej z maja 2019 r. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Budownictwa Mieszkaniowego \"Ursynów\"",
+"nier": "",
+"dz": "146513_8 1009 19/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "2/URN/PB/2026"
+}
+},
+{
+"d": "2026-01-07",
+"c": {
+"inw": "Wniosek o zmianę decyzji nr 142/D/19 z 19.07.2019budynku sportu - centrum gry w squasha wraz z instalacjami: gazową, wodną, kanalizacji sanitarnej, elektryczną, wentylacji i C.O. wraz z elementami zagospodarowania terenu, miejscami postojowymi i niezbędnym uzbrojeniem terenu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146513_8 0942 104",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "1/URN/PB/2026/Z"
+}
+}
+]
+}
+]
+}

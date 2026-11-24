@@ -1,13 +1,17 @@
-Zaktualizuj rejestry Ursusa i Pragi-Północ w tym repozytorium.
+Zaktualizuj dzielnice serwisowe w tym repozytorium.
 
 Kontekst, który musisz znać:
-- Dane idą z dwóch źródeł. Plik zbiorczy GUNB (16 dzielnic) buduje
-  GitHub Actions co tydzień — nie ruszaj go. Ty zajmujesz się tylko
-  Ursusem (ursus.um.warszawa.pl/wykazy) i Pragą-Północ
-  (pragapn.um.warszawa.pl/-/ogloszenia-2), bo te strony zwracają
+- Dane idą z dwóch źródeł. Plik zbiorczy GUNB (13 dzielnic) buduje
+  GitHub Actions co tydzień — nie ruszaj go. Ty zajmujesz się
+  dzielnicami serwisowymi, których rejestry WZ/ICP bierzemy ze stron
+  dzielnic: Bemowo (bemowo.um.warszawa.pl/jawnosc-procesu-inwestycyjnego),
+  Śródmieście (srodmiescie.um.warszawa.pl/-/decyzje-warunki-zabudowy),
+  Wawer (wawer.um.warszawa.pl/dokumenty-budowlane), Ursus
+  (ursus.um.warszawa.pl/wykazy) i Praga-Północ
+  (pragapn.um.warszawa.pl/-/ogloszenia-2) — te strony zwracają
   serwerom GitHuba HTTP 403.
 - Dlatego budujesz `python3 build.py --site-only`, nie pełny build.
-  Pełny build nadpisałby 41 MB danych z GUNB i zrobił ogromny diff.
+  Pełny build nadpisałby 31 MB danych z GUNB i zrobił ogromny diff.
 - Katalog `raw/` to cache pobranych plików. Nie usuwaj go bez powodu.
 - Manifest `site/data/index.json` jest składany ze skanu katalogu, więc
   po buildzie będzie zawierał wszystkie 18 dzielnic — to poprawne.
@@ -17,10 +21,11 @@ Zrób po kolei:
 1. Sprawdź dostęp do źródeł:
    curl -sI https://ursus.um.warszawa.pl/wykazy
    curl -sI https://pragapn.um.warszawa.pl/-/ogloszenia-2
+   curl -sI https://bemowo.um.warszawa.pl/jawnosc-procesu-inwestycyjnego
    Jeśli któreś zwróci 403 — przerwij i powiedz mi o tym, nie kombinuj.
 
 2. Zapisz obecne liczby pozycji jako punkt odniesienia:
-   python3 -c "import json;d=json.load(open('site/data/index.json'));print({x['slug']:x['total'] for x in d['districts'] if x['slug'] in ('ursus','praga-polnoc')})"
+   python3 -c "import json;d=json.load(open('site/data/index.json'));print({x['slug']:x['total'] for x in d['districts'] if x['slug'] in ('bemowo','srodmiescie','wawer','ursus','praga-polnoc')})"
 
 3. Uruchom build:
    python3 build.py --site-only
@@ -33,13 +38,17 @@ Zrób po kolei:
    i parser gubi wiersze. W logu szukaj linii:
    - "- pominięto <rejestr> (brak pliku)"
    - "! <plik>: inny dokument"
-   - "! parsowanie <plik>"
+   - "! parsowanie <pliku>"
+   Uwaga na znaną, poprawną anomalię: dla Wawra roczniki starsze niż
+   bieżący nie mają plików na stronie dzielnicy ("brak pliku") — to
+   normalne; oraz ursus rejestr_wnioskow_lcp_2019.pdf bywa "innym
+   dokumentem" (rejestr zgłoszeń) — parser celowo go pomija.
    Jeśli któraś dzielnica straciła więcej niż 5% pozycji, ZATRZYMAJ SIĘ
    i pokaż mi różnicę przed commitem.
 
 5. Jeśli wszystko wygląda dobrze, zrób commit i push:
-   git add site/data/ursus site/data/praga-polnoc site/data/index.json
-   git commit -m "Aktualizacja Ursus i Praga-Północ $(date +%Y-%m-%d)"
+   git add site/data/bemowo site/data/srodmiescie site/data/wawer site/data/ursus site/data/praga-polnoc site/data/index.json
+   git commit -m "Aktualizacja dzielnic serwisowych $(date +%Y-%m-%d)"
    git push
 
 6. Na koniec podaj mi krótkie podsumowanie w tabeli: dzielnica, pozycji

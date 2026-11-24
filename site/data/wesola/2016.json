@@ -1,0 +1,5273 @@
+{
+"district": "wesola",
+"year": 2016,
+"generated": "2026-11-24T21:24:42+01:00",
+"total": 471,
+"registers": [
+{
+"id": "wn_pnb",
+"name": "Wnioski o pozwolenie na budowę",
+"short": "Wnioski PnB",
+"desc": "Wnioski o pozwolenie na budowę złożone do organu architektoniczno-budowlanego dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer wniosku",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2016-12-30",
+"c": {
+"inw": "przebudowa i rozbudowa budynku mieszkalnego jednorodzinnego wolno stojącego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 313",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.351.2016.PBE"
+}
+},
+{
+"d": "2016-12-28",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego w zabudowie jednorodzinnej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0603 60/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.347.2016.PBE"
+}
+},
+{
+"d": "2016-12-28",
+"c": {
+"inw": "wewnętrzna instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0504 124/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.348.2016.PBE"
+}
+},
+{
+"d": "2016-12-27",
+"c": {
+"inw": "rozbudowa, nadbudowa oraz przebudowa budynku mieszkalnego jednorodzinnego - projekt zamienny rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0504 77/6",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.346.2016.PBE"
+}
+},
+{
+"d": "2016-12-23",
+"c": {
+"inw": "budynek mieszkalny wielorodzinny z usugą i garażem budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0707 6/22",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.343.2016.HOK"
+}
+},
+{
+"d": "2016-12-23",
+"c": {
+"inw": "budynek mieszkalny wielorodzinny z usugą i garażem budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0707 6/23",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.343.2016.HOK"
+}
+},
+{
+"d": "2016-12-23",
+"c": {
+"inw": "budynek mieszkalny wielorodzinny z usugą i garażem budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0707 6/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.343.2016.HOK"
+}
+},
+{
+"d": "2016-12-22",
+"c": {
+"inw": "wykonanie instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0706 42/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.339.2016.PBE"
+}
+},
+{
+"d": "2016-12-22",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolno stojącego dwulokalowego, dwóch zbiorników na nieczystości ciekłe oraz dwóch studni wierconych budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0705 28/50",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.344.2016.BGR"
+}
+},
+{
+"d": "2016-12-22",
+"c": {
+"inw": "wykonanie instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0706 42/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.340.2016.PBE"
+}
+},
+{
+"d": "2016-12-15",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0709 64/17",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.335.2016.BGR"
+}
+},
+{
+"d": "2016-12-15",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0709 64/16",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.335.2016.BGR"
+}
+},
+{
+"d": "2016-12-14",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0706 42/15",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.332.2016.HOK"
+}
+},
+{
+"d": "2016-12-09",
+"c": {
+"inw": "rozbiórka budynku gospodarczego, wiaty i śmietnika rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0503 189/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.18.2016.PBE"
+}
+},
+{
+"d": "2016-12-07",
+"c": {
+"inw": "budowa budynku usługowo-handlowego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0405 4/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.327.2016.BGR"
+}
+},
+{
+"d": "2016-12-05",
+"c": {
+"inw": "budowa sieci gazowej DN 40 PE średniego ciśnienia budowa nowego/nowych obiektów budowlanych",
+"wn": "Polska Spółka Gazownictwa Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0407 17/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.324.2016.PBE"
+}
+},
+{
+"d": "2016-12-05",
+"c": {
+"inw": "budowa sieci gazowej DN 40 PE średniego ciśnienia budowa nowego/nowych obiektów budowlanych",
+"wn": "Polska Spółka Gazownictwa Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0407 25/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.324.2016.PBE"
+}
+},
+{
+"d": "2016-12-05",
+"c": {
+"inw": "budowa sieci gazowej DN 40 PE średniego ciśnienia budowa nowego/nowych obiektów budowlanych",
+"wn": "Polska Spółka Gazownictwa Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0407 18/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.324.2016.PBE"
+}
+},
+{
+"d": "2016-12-05",
+"c": {
+"inw": "budowa sieci gazowej DN 40 PE średniego ciśnienia budowa nowego/nowych obiektów budowlanych",
+"wn": "Polska Spółka Gazownictwa Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0407 19/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.324.2016.PBE"
+}
+},
+{
+"d": "2016-12-05",
+"c": {
+"inw": "budowa sieci gazowej DN 40 PE średniego ciśnienia budowa nowego/nowych obiektów budowlanych",
+"wn": "Polska Spółka Gazownictwa Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0407 24/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.324.2016.PBE"
+}
+},
+{
+"d": "2016-12-02",
+"c": {
+"inw": "budowa instalacji gazowej w budynku mieszkalnym jednorodzinnym dwulokalowym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0202 58/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.322.2016.PBE"
+}
+},
+{
+"d": "2016-12-02",
+"c": {
+"inw": "budowa instalacji wewnętrznej gazu do budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0716 405",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.323.2016.PBE"
+}
+},
+{
+"d": "2016-12-01",
+"c": {
+"inw": "budowa pięciu budynków mieszkalnych jednorodzinnych wolnostojących i szamb budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0717 34/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.321.2016.BGR"
+}
+},
+{
+"d": "2016-12-01",
+"c": {
+"inw": "budowa pięciu budynków mieszkalnych jednorodzinnych wolnostojących i szamb budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0717 38",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.321.2016.BGR"
+}
+},
+{
+"d": "2016-11-30",
+"c": {
+"inw": "budowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0711 45",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.320.2016.PBE"
+}
+},
+{
+"d": "2016-11-25",
+"c": {
+"inw": "budowa instalacji gazowej do budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0710 236",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.319.2016.PBE"
+}
+},
+{
+"d": "2016-11-21",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolno stojącego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0304 29",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.315.2016.BGR"
+}
+},
+{
+"d": "2016-11-10",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 249",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.310.2016.BGR"
+}
+},
+{
+"d": "2016-11-09",
+"c": {
+"inw": "instalacja gazowa wraz z wyniesieniem gazomierza do linii ogrodzenia wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0302 41",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.305.2016.PBE"
+}
+},
+{
+"d": "2016-11-09",
+"c": {
+"inw": "budowa i przekrycie trzech kortów tenisowych powłoką namiotową o rozbieralnej konstrukcji szkieletowej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0303 142",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.307.2016.PBE"
+}
+},
+{
+"d": "2016-11-07",
+"c": {
+"inw": "budynek mieszkalny jednorodzinny wolno stojący budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0407 92",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.302.2016.BGR"
+}
+},
+{
+"d": "2016-11-07",
+"c": {
+"inw": "prace remontowo-budowlane w budynku Urzędu Dzielnicy Wesoła m.st. Warszawy polegające na przebudowie elewacji budynku w celu powiększenia dwóch okien w pomieszczeniu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent m.st. Warszawy reprezentowany przez Burmistrza Dzielnicy Wesoła",
+"nier": "",
+"dz": "146515_8 0603 3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.299.2016.PBE"
+}
+},
+{
+"d": "2016-11-07",
+"c": {
+"inw": "prace remontowo-budowlane w budynku Urzędu Dzielnicy Wesoła m.st. Warszawy polegające na przebudowie elewacji budynku w celu powiększenia dwóch okien w pomieszczeniu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent m.st. Warszawy reprezentowany przez Burmistrza Dzielnicy Wesoła",
+"nier": "",
+"dz": "146515_8 0603 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.299.2016.PBE"
+}
+},
+{
+"d": "2016-10-31",
+"c": {
+"inw": "budynek mieszkalny jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 337",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.298.2016.BGR"
+}
+},
+{
+"d": "2016-10-28",
+"c": {
+"inw": "instalacja gazowa dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0705 28/32",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.297.2016.PBE"
+}
+},
+{
+"d": "2016-10-27",
+"c": {
+"inw": "rozbudowa i przebudowa budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0403 83",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.296.2016.BGR"
+}
+},
+{
+"d": "2016-10-24",
+"c": {
+"inw": "instalacja gazu dla budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0711 84",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.294.2016.PBE"
+}
+},
+{
+"d": "2016-10-20",
+"c": {
+"inw": "wykonanie instalacji gazowej dla projektowanego budynku mieszkalnego jednorodzinnego dwulokalowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0603 1/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.289.2016.PBE"
+}
+},
+{
+"d": "2016-10-20",
+"c": {
+"inw": "wykonanie instalacji gazowej dla budynku mieszkalnego jednorodzinnego w zab. bliźniaczej - segment północny wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0706 114/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.288.2016.PBE"
+}
+},
+{
+"d": "2016-10-17",
+"c": {
+"inw": "przebudowa, rozbudowa budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0706 25/4",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.286.2016.BGR"
+}
+},
+{
+"d": "2016-10-17",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego w zabudowie szeregowej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0712 174",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.287.2016.BGR"
+}
+},
+{
+"d": "2016-10-13",
+"c": {
+"inw": "budynek mieszkalny jednorodzinny \"Dom w Amarantusach\" oraz zbiornik szambo szczelne o poj. 10 m3 budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0606 30",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.284.2016.BGR"
+}
+},
+{
+"d": "2016-10-13",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolnostojącego dwulokalowego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 93/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.283.2016.BGR"
+}
+},
+{
+"d": "2016-10-12",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0503 88",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.282.2016.BGR"
+}
+},
+{
+"d": "2016-10-11",
+"c": {
+"inw": "rozbudowa i przebudowa budynku mieszkalnego jednorodzinnego w zab. bliźniaczej o część parterową i wydzieloną klatkę schodową rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0203 122",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.281.2016.BGR"
+}
+},
+{
+"d": "2016-10-03",
+"c": {
+"inw": "zmiana sposobu użytkowania budynku handlowo-usługowego z zapleczem mieszkalnym na budynek jednorodzinny z usługą wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0702 119",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.270.2016.HOK"
+}
+},
+{
+"d": "2016-09-23",
+"c": {
+"inw": "rozbudowa budynku mieszkalnego jednorodzinnego jednolokalowego na budynek mieszkalny jednorodzinny dwulokalowy rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0504 84",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.266.2016.PBE"
+}
+},
+{
+"d": "2016-09-22",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego, zbiornika na wody opadowe oraz oczka wodnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 622",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.264.2016.BGR"
+}
+},
+{
+"d": "2016-09-16",
+"c": {
+"inw": "budowa budynku domu dziennego pobytu dla seniora oraz parkingu budowa nowego/nowych obiektów budowlanych",
+"wn": "Prezydent m.st. Warszawy reprezentowany przez Burmistrza Dzielnicy Wesoła",
+"nier": "",
+"dz": "146515_8 0405 57/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.257.2016.BGR"
+}
+},
+{
+"d": "2016-09-16",
+"c": {
+"inw": "budowa budynku domu dziennego pobytu dla seniora oraz parkingu budowa nowego/nowych obiektów budowlanych",
+"wn": "Prezydent m.st. Warszawy reprezentowany przez Burmistrza Dzielnicy Wesoła",
+"nier": "",
+"dz": "146515_8 0405 57/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.257.2016.BGR"
+}
+},
+{
+"d": "2016-09-16",
+"c": {
+"inw": "budowa budynku domu dziennego pobytu dla seniora oraz parkingu budowa nowego/nowych obiektów budowlanych",
+"wn": "Prezydent m.st. Warszawy reprezentowany przez Burmistrza Dzielnicy Wesoła",
+"nier": "",
+"dz": "146515_8 0405 62/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.257.2016.BGR"
+}
+},
+{
+"d": "2016-09-16",
+"c": {
+"inw": "budowa budynku domu dziennego pobytu dla seniora oraz parkingu budowa nowego/nowych obiektów budowlanych",
+"wn": "Prezydent m.st. Warszawy reprezentowany przez Burmistrza Dzielnicy Wesoła",
+"nier": "",
+"dz": "146515_8 0405 62/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.257.2016.BGR"
+}
+},
+{
+"d": "2016-09-14",
+"c": {
+"inw": "instalacja gazowa dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0504 124/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.255.2016.PBE"
+}
+},
+{
+"d": "2016-09-12",
+"c": {
+"inw": "rozbiórka budynku warsztatowego wraz z przybudówkami gospodarczymi rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0203 89",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.14.2016.PBE"
+}
+},
+{
+"d": "2016-09-07",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolno stojącego, budowa studni wierconej o wydajności 1,0 m3/d budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 40/20",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.253.2016.BGR"
+}
+},
+{
+"d": "2016-08-30",
+"c": {
+"inw": "budowa sieci kanalizacji sanitarnej f 200 PVC budowa nowego/nowych obiektów budowlanych",
+"wn": "Zespół Budowy Domów Jednorodzinnych i Wielorodzinnych Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0711 58/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.248.2016.PBE"
+}
+},
+{
+"d": "2016-08-30",
+"c": {
+"inw": "budowa sieci kanalizacji sanitarnej f 200 PVC budowa nowego/nowych obiektów budowlanych",
+"wn": "Zespół Budowy Domów Jednorodzinnych i Wielorodzinnych Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0711 58/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.248.2016.PBE"
+}
+},
+{
+"d": "2016-08-30",
+"c": {
+"inw": "budynek mieszkalny jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0712 281",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.249.2016.BGR"
+}
+},
+{
+"d": "2016-08-26",
+"c": {
+"inw": "budowa instalacji gazowej w budynku usługowym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0712 55/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.247.2016.PBE"
+}
+},
+{
+"d": "2016-08-25",
+"c": {
+"inw": "instalacja gazowa w budynku mieszkalnym jednorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0604 17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.245.2016.PBE"
+}
+},
+{
+"d": "2016-08-25",
+"c": {
+"inw": "dwie instalacje gazowe w dwóch budynkach jednorodzinnych w zab. bliźniaczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0710 34/44",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.246.2016.PBE"
+}
+},
+{
+"d": "2016-08-18",
+"c": {
+"inw": "budowa instalacji gazowej do budynku jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 528",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.238.2016.HOK"
+}
+},
+{
+"d": "2016-08-17",
+"c": {
+"inw": "budowa instalacji gazowej do budynku jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0604 18",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.237.2016.AGO"
+}
+},
+{
+"d": "2016-08-16",
+"c": {
+"inw": "budowa sieci wodociągowej DN 100 mm L=285,5 m budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0712 48/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.235.2016.AGO"
+}
+},
+{
+"d": "2016-08-09",
+"c": {
+"inw": "instalacja gazu do budynku mieszkalnego jednorodzinnego dwulokalowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 93/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.234.2016.PBE"
+}
+},
+{
+"d": "2016-08-09",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0501 238/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.233.2016.PBE"
+}
+},
+{
+"d": "2016-08-09",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0501 242",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.233.2016.PBE"
+}
+},
+{
+"d": "2016-08-09",
+"c": {
+"inw": "rozbudowa i przebudowa budynku mieszkalnego wraz ze zmianą sposobu użytkowania poddasza na cele mieszkalne rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0711 44",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.232.2016.BGR"
+}
+},
+{
+"d": "2016-08-05",
+"c": {
+"inw": "rozbiórka budynku jednorodzinnego typu \"Stolbud\" (drewniany) rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0714 98",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.13.2016.PBE"
+}
+},
+{
+"d": "2016-08-05",
+"c": {
+"inw": "budowa wolnostojącego domu jednorodzinnego z garażem jednostanowiskowym, wewnętrzna instalacja gazowa budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0503 167/6",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.231.2016.BGR"
+}
+},
+{
+"d": "2016-08-03",
+"c": {
+"inw": "budowa instalacji gazu dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0406 43/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.229.2016.PBE"
+}
+},
+{
+"d": "2016-08-01",
+"c": {
+"inw": "budowa instalacji gazowej do budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 93/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.228.2016.PBE"
+}
+},
+{
+"d": "2016-07-29",
+"c": {
+"inw": "budowa domu jednorodzinnego wolno stojącego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0202 3/4",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.227.2016.BGR"
+}
+},
+{
+"d": "2016-07-26",
+"c": {
+"inw": "budowa sieci gazowej dystrybucyjnej budowa nowego/nowych obiektów budowlanych",
+"wn": "Polska Spółka Gazownictwa Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0504 115/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.226.2016.PBE"
+}
+},
+{
+"d": "2016-07-26",
+"c": {
+"inw": "budowa sieci gazowej dystrybucyjnej budowa nowego/nowych obiektów budowlanych",
+"wn": "Polska Spółka Gazownictwa Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0504 123/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.226.2016.PBE"
+}
+},
+{
+"d": "2016-07-26",
+"c": {
+"inw": "budowa sieci gazowej dystrybucyjnej budowa nowego/nowych obiektów budowlanych",
+"wn": "Polska Spółka Gazownictwa Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0504 123/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.226.2016.PBE"
+}
+},
+{
+"d": "2016-07-26",
+"c": {
+"inw": "budowa sieci gazowej dystrybucyjnej budowa nowego/nowych obiektów budowlanych",
+"wn": "Polska Spółka Gazownictwa Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0504 123/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.226.2016.PBE"
+}
+},
+{
+"d": "2016-07-26",
+"c": {
+"inw": "budowa sieci gazowej dystrybucyjnej budowa nowego/nowych obiektów budowlanych",
+"wn": "Polska Spółka Gazownictwa Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0504 123/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.226.2016.PBE"
+}
+},
+{
+"d": "2016-07-26",
+"c": {
+"inw": "budowa sieci gazowej dystrybucyjnej budowa nowego/nowych obiektów budowlanych",
+"wn": "Polska Spółka Gazownictwa Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0504 123/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.226.2016.PBE"
+}
+},
+{
+"d": "2016-07-26",
+"c": {
+"inw": "budowa sieci gazowej dystrybucyjnej budowa nowego/nowych obiektów budowlanych",
+"wn": "Polska Spółka Gazownictwa Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0504 123/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.226.2016.PBE"
+}
+},
+{
+"d": "2016-07-26",
+"c": {
+"inw": "budowa sieci gazowej dystrybucyjnej budowa nowego/nowych obiektów budowlanych",
+"wn": "Polska Spółka Gazownictwa Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0504 123/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.226.2016.PBE"
+}
+},
+{
+"d": "2016-07-22",
+"c": {
+"inw": "instalacja gazu dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 31",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.220.2016.PBE"
+}
+},
+{
+"d": "2016-07-22",
+"c": {
+"inw": "skrócenie przyłącza do linii ogrodzenia oraz budowa instalacji gazowej do budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 313",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.221.2016.PBE"
+}
+},
+{
+"d": "2016-07-21",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0405 72/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.12.2016.PBE"
+}
+},
+{
+"d": "2016-07-19",
+"c": {
+"inw": "budowa instalacji gazu dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0501 89",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.218.2016.PBE"
+}
+},
+{
+"d": "2016-07-19",
+"c": {
+"inw": "zespół zabudowy jednorodzinnej segmentowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Vesta Development Sp. z o.o. Sp.K.A.",
+"nier": "",
+"dz": "146515_8 0202 53/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.217.2016.PBE"
+}
+},
+{
+"d": "2016-07-15",
+"c": {
+"inw": "budowa sieci wodociągowej DN 100 mm L=147,5m budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0712 158",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.212.2016.PBE"
+}
+},
+{
+"d": "2016-07-15",
+"c": {
+"inw": "instalacja gazu dla budynku mieszkalnego dwulokalowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0305 6/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.211.2016.PBE"
+}
+},
+{
+"d": "2016-07-14",
+"c": {
+"inw": "budowa instalacji gazowej dla budynku mieszkalnego wielorodzinnego z częścią usługowo-handlową wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "TT Development Sp. z o.o. 2Sp.K.",
+"nier": "",
+"dz": "146515_8 0501 1/19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.209.2016.PBE"
+}
+},
+{
+"d": "2016-07-14",
+"c": {
+"inw": "budowa instalacji gazowej dla budynku mieszkalnego wielorodzinnego z częścią usługowo-handlową wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "TT Development Sp. z o.o. 2Sp.K.",
+"nier": "",
+"dz": "146515_8 0501 1/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.210.2016.PBE"
+}
+},
+{
+"d": "2016-07-11",
+"c": {
+"inw": "budowa domu jednorodzinnego wolnostojącego z garażem w bryle budynku \"Dom przy Cyprysowej 15K\" budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0406 76",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.213.2016.PBE"
+}
+},
+{
+"d": "2016-07-08",
+"c": {
+"inw": "budowa drogi gminnej wewnętrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "Prezydent m.st. Warszawy rep. przez Burmistrza Dzielnicy Wesoła",
+"nier": "",
+"dz": "146515_8 0503 257/27",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.208.2016.ADA"
+}
+},
+{
+"d": "2016-07-07",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0409 5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.11.2016.ADA"
+}
+},
+{
+"d": "2016-07-07",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0409 7/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.11.2016.ADA"
+}
+},
+{
+"d": "2016-07-07",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0409 4/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.11.2016.ADA"
+}
+},
+{
+"d": "2016-07-07",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0409 3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.11.2016.ADA"
+}
+},
+{
+"d": "2016-07-07",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0409 4/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.11.2016.ADA"
+}
+},
+{
+"d": "2016-07-07",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0408 56",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.11.2016.ADA"
+}
+},
+{
+"d": "2016-07-07",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0603 1/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.11.2016.ADA"
+}
+},
+{
+"d": "2016-07-07",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0603 15/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.11.2016.ADA"
+}
+},
+{
+"d": "2016-07-07",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0603 15/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.11.2016.ADA"
+}
+},
+{
+"d": "2016-07-07",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0603 1/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.11.2016.ADA"
+}
+},
+{
+"d": "2016-07-07",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0603 96/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.11.2016.ADA"
+}
+},
+{
+"d": "2016-07-07",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0603 40",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.11.2016.ADA"
+}
+},
+{
+"d": "2016-07-07",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0603 89/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.11.2016.ADA"
+}
+},
+{
+"d": "2016-07-07",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0603 54",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.11.2016.ADA"
+}
+},
+{
+"d": "2016-07-07",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0603 55/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.11.2016.ADA"
+}
+},
+{
+"d": "2016-07-07",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0604 86",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.11.2016.ADA"
+}
+},
+{
+"d": "2016-07-07",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0604 85",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.11.2016.ADA"
+}
+},
+{
+"d": "2016-07-07",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0604 83/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.11.2016.ADA"
+}
+},
+{
+"d": "2016-07-07",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0604 83/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.11.2016.ADA"
+}
+},
+{
+"d": "2016-07-07",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0604 82/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.11.2016.ADA"
+}
+},
+{
+"d": "2016-07-07",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0604 80/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.11.2016.ADA"
+}
+},
+{
+"d": "2016-07-07",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0604 80/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.11.2016.ADA"
+}
+},
+{
+"d": "2016-07-07",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0604 73",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.11.2016.ADA"
+}
+},
+{
+"d": "2016-07-07",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0604 25",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.11.2016.ADA"
+}
+},
+{
+"d": "2016-07-07",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0604 2/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.11.2016.ADA"
+}
+},
+{
+"d": "2016-07-07",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0604 2/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.11.2016.ADA"
+}
+},
+{
+"d": "2016-07-07",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0604 15/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.11.2016.ADA"
+}
+},
+{
+"d": "2016-07-06",
+"c": {
+"inw": "wolnostojący budynek mieszkalny jednorodzinny z wbudowanym garażem i bezodpływowym zbiornikiem na ścieki bytowe budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0503 191/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.205.2016.BGR"
+}
+},
+{
+"d": "2016-07-05",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego z garażem w bryle budynku i szczelnego szamba V=8,84 m3 budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0602 17/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.203.2016.PBE"
+}
+},
+{
+"d": "2016-07-05",
+"c": {
+"inw": "rozbudowa budynku mieszkalnego jednorodzinnego wolnostojącego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0302 41",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.207.2016.PBE"
+}
+},
+{
+"d": "2016-07-04",
+"c": {
+"inw": "budowa sieci wodociągowej DN 80mm L=59,5 m budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0716 47/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.196.2016.BGR"
+}
+},
+{
+"d": "2016-07-04",
+"c": {
+"inw": "przebudowa wodociągu L=149 m DN 100mm budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0604 14/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.199.2016.PBE"
+}
+},
+{
+"d": "2016-07-04",
+"c": {
+"inw": "przebudowa wodociągu L=149 m DN 100mm budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0604 14/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.199.2016.PBE"
+}
+},
+{
+"d": "2016-07-04",
+"c": {
+"inw": "przebudowa wodociągu L=149 m DN 100mm budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0604 14/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.199.2016.PBE"
+}
+},
+{
+"d": "2016-07-04",
+"c": {
+"inw": "przebudowa wodociągu L=149 m DN 100mm budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0604 14/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.199.2016.PBE"
+}
+},
+{
+"d": "2016-07-04",
+"c": {
+"inw": "przebudowa wodociągu L=149 m DN 100mm budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0604 14/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.199.2016.PBE"
+}
+},
+{
+"d": "2016-07-04",
+"c": {
+"inw": "przebudowa wodociągu L=149 m DN 100mm budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0604 14/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.199.2016.PBE"
+}
+},
+{
+"d": "2016-07-04",
+"c": {
+"inw": "przebudowa wodociągu L=149 m DN 100mm budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0604 14/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.199.2016.PBE"
+}
+},
+{
+"d": "2016-07-04",
+"c": {
+"inw": "przebudowa wodociągu L=149 m DN 100mm budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0604 14/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.199.2016.PBE"
+}
+},
+{
+"d": "2016-07-04",
+"c": {
+"inw": "przebudowa wodociągu L=149 m DN 100mm budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0604 14/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.199.2016.PBE"
+}
+},
+{
+"d": "2016-07-04",
+"c": {
+"inw": "budynek mieszkalny jednorodzinny w zab. szeregowej segment A i B budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0710 42/15",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.197.2016.BGR"
+}
+},
+{
+"d": "2016-07-04",
+"c": {
+"inw": "budowa sieci kanalizacji ściekowej DN 200mm L=155,5m budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0604 9/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.198.2016.PBE"
+}
+},
+{
+"d": "2016-07-04",
+"c": {
+"inw": "budowa sieci kanalizacji ściekowej DN 200mm L=155,5m budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0604 10/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.198.2016.PBE"
+}
+},
+{
+"d": "2016-07-04",
+"c": {
+"inw": "budowa sieci kanalizacji ściekowej DN 200mm L=155,5m budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0604 14/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.198.2016.PBE"
+}
+},
+{
+"d": "2016-07-04",
+"c": {
+"inw": "budowa sieci kanalizacji ściekowej DN 200mm L=155,5m budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0604 14/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.198.2016.PBE"
+}
+},
+{
+"d": "2016-07-04",
+"c": {
+"inw": "budowa sieci kanalizacji ściekowej DN 200mm L=155,5m budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0604 14/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.198.2016.PBE"
+}
+},
+{
+"d": "2016-07-04",
+"c": {
+"inw": "budowa sieci kanalizacji ściekowej DN 200mm L=155,5m budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0604 14/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.198.2016.PBE"
+}
+},
+{
+"d": "2016-07-04",
+"c": {
+"inw": "budowa sieci kanalizacji ściekowej DN 200mm L=155,5m budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0604 14/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.198.2016.PBE"
+}
+},
+{
+"d": "2016-07-04",
+"c": {
+"inw": "budowa sieci kanalizacji ściekowej DN 200mm L=155,5m budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0604 14/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.198.2016.PBE"
+}
+},
+{
+"d": "2016-07-04",
+"c": {
+"inw": "budowa sieci kanalizacji ściekowej DN 200mm L=155,5m budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0604 14/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.198.2016.PBE"
+}
+},
+{
+"d": "2016-07-04",
+"c": {
+"inw": "budowa sieci kanalizacji ściekowej DN 200mm L=155,5m budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0604 14/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.198.2016.PBE"
+}
+},
+{
+"d": "2016-07-04",
+"c": {
+"inw": "budowa sieci kanalizacji ściekowej DN 200mm L=155,5m budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0604 14/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.198.2016.PBE"
+}
+},
+{
+"d": "2016-07-04",
+"c": {
+"inw": "budowa sieci kanalizacji ściekowej DN 200mm L=155,5m budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0604 14/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.198.2016.PBE"
+}
+},
+{
+"d": "2016-07-04",
+"c": {
+"inw": "budowa sieci kanalizacji ściekowej DN 200mm L=155,5m budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0604 14/15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.198.2016.PBE"
+}
+},
+{
+"d": "2016-07-04",
+"c": {
+"inw": "budowa sieci kanalizacji ściekowej DN 200mm L=155,5m budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0604 14/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.198.2016.PBE"
+}
+},
+{
+"d": "2016-07-04",
+"c": {
+"inw": "budowa sieci kanalizacji ściekowej DN 200mm L=155,5m budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0604 14/17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.198.2016.PBE"
+}
+},
+{
+"d": "2016-06-30",
+"c": {
+"inw": "budynek mieszkalny jednorodzinny w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0716 273",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.194.2016.ADA"
+}
+},
+{
+"d": "2016-06-28",
+"c": {
+"inw": "budowa wewnetrznej instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0710 53/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.191.2016.PBE"
+}
+},
+{
+"d": "2016-06-28",
+"c": {
+"inw": "sieć gazowa średniego ciśnienia budowa nowego/nowych obiektów budowlanych",
+"wn": "Polska Spółka Gazownictwa Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0716 453",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.192.2016.PBE"
+}
+},
+{
+"d": "2016-06-27",
+"c": {
+"inw": "remont (wymiana po trasie) części istniejącej instalacji gazowej n/c w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Plac Wojska Polskiego 135 05-075 Warszawa",
+"nier": "",
+"dz": "146515_8 0101 5/17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.189.2016.PBE"
+}
+},
+{
+"d": "2016-06-27",
+"c": {
+"inw": "remont (wymiana po trasie) części istniejącej instalacji gazowej n/c w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Plac Wojska Polskiego 133 05-075 Warszawa",
+"nier": "",
+"dz": "146515_8 0101 5/19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.190.2016.PBE"
+}
+},
+{
+"d": "2016-06-23",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego i zabudowań gospodarczo-garażowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0710 58/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.9.2016.BGR"
+}
+},
+{
+"d": "2016-06-21",
+"c": {
+"inw": "budowa instalacji gazowej do budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0706 33/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.181.2016.PBE"
+}
+},
+{
+"d": "2016-06-17",
+"c": {
+"inw": "budynek mieszkalny jednorodzinny \"Dom w Awokado\" budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0704 30",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.184.2016.BGR"
+}
+},
+{
+"d": "2016-06-16",
+"c": {
+"inw": "budowa instalacji gazu dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0305 37",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.179.2016.PBE"
+}
+},
+{
+"d": "2016-06-14",
+"c": {
+"inw": "instalacja gazowa dla budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Fiołków 15",
+"nier": "",
+"dz": "146515_8 0717 242",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.178.2016.PBE"
+}
+},
+{
+"d": "2016-06-10",
+"c": {
+"inw": "rozbudowa i częściowa rozbiórka istniejącego budynku mieszkalnego jednorodzinnego wolnostojącego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0501 150/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.169.2016.PBE"
+}
+},
+{
+"d": "2016-06-09",
+"c": {
+"inw": "wewnętrzna instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0716 413",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.168.2016.PBE"
+}
+},
+{
+"d": "2016-06-08",
+"c": {
+"inw": "budowa instalacji gazu dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0503 266",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.166.2016.PBE"
+}
+},
+{
+"d": "2016-06-08",
+"c": {
+"inw": "budowa wewnętrznej instalacji gazowej n/c wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 275",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.167.2016.PBE"
+}
+},
+{
+"d": "2016-06-07",
+"c": {
+"inw": "instalacja gazowa do budynku mieszkalnego i garażowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0713 55/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.165.2016.PBE"
+}
+},
+{
+"d": "2016-06-06",
+"c": {
+"inw": "rozbudowa, przebudowa i nadbudowa budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0404 68",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.164.2016.BGR"
+}
+},
+{
+"d": "2016-05-24",
+"c": {
+"inw": "budowa instalacji gazu dla budynku mieszkalnego jednorodzinnego w zabudowie szeregowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0712 175",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.151.2016.AGO"
+}
+},
+{
+"d": "2016-05-24",
+"c": {
+"inw": "wykonanie instalacji gazowej do budynku mieszkalnego - zmiana pozwolenia na budowę wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0502 30",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.150.2016.HOK"
+}
+},
+{
+"d": "2016-05-24",
+"c": {
+"inw": "rozbudowa lokalu mieszkalnego w budynku mieszkalnym jednorodzinnym rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0203 16/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.147.2016.PBE"
+}
+},
+{
+"d": "2016-05-24",
+"c": {
+"inw": "budowa instalacji gazowej do budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0602 79",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.152.2016.ADA"
+}
+},
+{
+"d": "2016-05-20",
+"c": {
+"inw": "budowa trzech budynków mieszkalnych jednorodzinnych z usługami w parterze, w zabudowie szeregowej i drogi wewnętrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0710 353",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.146.2016.BGR"
+}
+},
+{
+"d": "2016-05-20",
+"c": {
+"inw": "budowa trzech budynków mieszkalnych jednorodzinnych z usługami w parterze, w zabudowie szeregowej i drogi wewnętrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0710 354",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.146.2016.BGR"
+}
+},
+{
+"d": "2016-05-20",
+"c": {
+"inw": "budowa trzech budynków mieszkalnych jednorodzinnych z usługami w parterze, w zabudowie szeregowej i drogi wewnętrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0710 355",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.146.2016.BGR"
+}
+},
+{
+"d": "2016-05-20",
+"c": {
+"inw": "budowa trzech budynków mieszkalnych jednorodzinnych z usługami w parterze, w zabudowie szeregowej i drogi wewnętrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0710 31/5",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.146.2016.BGR"
+}
+},
+{
+"d": "2016-05-19",
+"c": {
+"inw": "zespół 9 budynków jednorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0202 29",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.145.2016.BGR"
+}
+},
+{
+"d": "2016-05-17",
+"c": {
+"inw": "wewnętrzna instalacja gazowa w dwóch budynkach mieszkalnych wielorodzinnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0712 21/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.144.2016.PBE"
+}
+},
+{
+"d": "2016-05-16",
+"c": {
+"inw": "wykonanie instalacji gazowej dla budynku mieszkalnego jednorodzinnego z częścią usługową wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0401 6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.141.2016.PBE"
+}
+},
+{
+"d": "2016-05-16",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0710 34/44",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.140.2016.BGR"
+}
+},
+{
+"d": "2016-05-13",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolno stojącego \"Dom w Czarnuszce 2 (G2) wersja termo\" budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0503 191/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.138.2016.BGR"
+}
+},
+{
+"d": "2016-05-13",
+"c": {
+"inw": "rozbudowa i przebudowa budynku użyteczności publicznej w Wesołej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0202 15/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.139.2016.BGR"
+}
+},
+{
+"d": "2016-05-11",
+"c": {
+"inw": "instalacja gazowa dla potrzeb budynku mieszkalnego jednorodzinnego dwulokalowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0604 102",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.133.2016.PBE"
+}
+},
+{
+"d": "2016-05-09",
+"c": {
+"inw": "budowa pięciu budynków jednorodzinnych mieszkalnych (każdy o dwóch lokalach mieszkalnych) w zabudowie szeregowej wraz z ogrodzeniem budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 560",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.132.2016.PBE"
+}
+},
+{
+"d": "2016-05-09",
+"c": {
+"inw": "budowa pięciu budynków jednorodzinnych mieszkalnych (każdy o dwóch lokalach mieszkalnych) w zabudowie szeregowej wraz z ogrodzeniem budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 561",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.132.2016.PBE"
+}
+},
+{
+"d": "2016-05-09",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego o dwóch lokalach mieszkalnych budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0716 311",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.131.2016.BGR"
+}
+},
+{
+"d": "2016-05-06",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0203 108",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.128.2016.PBE"
+}
+},
+{
+"d": "2016-05-06",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0203 109",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.128.2016.PBE"
+}
+},
+{
+"d": "2016-05-06",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0203 108",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.127.2016.PBE"
+}
+},
+{
+"d": "2016-05-06",
+"c": {
+"inw": "dwie wewnętrzne instalacje gazowe w budynkach mieszkalnych jednorodzinnych w zabudowie bliźniaczej z lokalami usługowymi wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0714 696",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.125.2016.PBE"
+}
+},
+{
+"d": "2016-05-06",
+"c": {
+"inw": "dwie wewnętrzne instalacje gazowe w budynkach mieszkalnych jednorodzinnych w zabudowie bliźniaczej z lokalami usługowymi wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0714 697",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.125.2016.PBE"
+}
+},
+{
+"d": "2016-05-06",
+"c": {
+"inw": "budowa gazociągu 63 PE wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polska Spółka Gazownictwa Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0711 247",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.126.2016.PBE"
+}
+},
+{
+"d": "2016-05-05",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Vesta Development Sp. z o.o. S.K.A.",
+"nier": "",
+"dz": "146515_8 0202 53/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.7.2016.PBE"
+}
+},
+{
+"d": "2016-04-28",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego w zabudowie bliźniaczej - projekt zamienny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0604 102",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.120.2016.PBE"
+}
+},
+{
+"d": "2016-04-28",
+"c": {
+"inw": "budowa instalacji gazu dla budynku mieszkalnego jednorodzinnego dwulokalowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0716 508",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.119.2016.PBE"
+}
+},
+{
+"d": "2016-04-28",
+"c": {
+"inw": "ocieplenie ścian zewnętrznych, remont wiatrołapów w budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości przy ul. Pogodnej 17A",
+"nier": "",
+"dz": "146515_8 0711 147/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.121.2016.PBE"
+}
+},
+{
+"d": "2016-04-25",
+"c": {
+"inw": "projekt zamienny - budowa budynku mieszkalnego jednorodzinnego w zabudowie bliźniaczej - segment północny, szamba szczelnego i miejsca na pojemniki na odpady stałe budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0706 114/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.116.2016.PBE"
+}
+},
+{
+"d": "2016-04-21",
+"c": {
+"inw": "wykonanie instalacji gazu dla budynku mieszkalnego jednorodzinnego - lokal nr 1 i nr 2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0712 177",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.113.2016.PBE"
+}
+},
+{
+"d": "2016-04-20",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wraz z instalacją gazową budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Agawy",
+"dz": "146515_8 0713 92",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.112.2016.BGR"
+}
+},
+{
+"d": "2016-04-19",
+"c": {
+"inw": "budowa rozdzielczej sieci wodociągowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0404 22/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.111.2016.PBE"
+}
+},
+{
+"d": "2016-04-19",
+"c": {
+"inw": "budowa rozdzielczej sieci wodociągowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0404 22/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.111.2016.PBE"
+}
+},
+{
+"d": "2016-04-19",
+"c": {
+"inw": "budowa rozdzielczej sieci wodociągowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0404 23/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.111.2016.PBE"
+}
+},
+{
+"d": "2016-04-19",
+"c": {
+"inw": "budowa rozdzielczej sieci wodociągowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0404 32/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.111.2016.PBE"
+}
+},
+{
+"d": "2016-04-19",
+"c": {
+"inw": "budowa rozdzielczej sieci wodociągowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0404 32/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.111.2016.PBE"
+}
+},
+{
+"d": "2016-04-19",
+"c": {
+"inw": "budowa rozdzielczej sieci wodociągowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0404 33/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.111.2016.PBE"
+}
+},
+{
+"d": "2016-04-18",
+"c": {
+"inw": "budowa instalacji gazu dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0705 28/20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.108.2016.PBE"
+}
+},
+{
+"d": "2016-04-18",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego w zab. szeregowej oraz zbiornika na wody opadowe budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0712 214",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.109.2016.BGR"
+}
+},
+{
+"d": "2016-04-18",
+"c": {
+"inw": "budowa instalacji gazu dla budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0402 51",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.110.2016.PBE"
+}
+},
+{
+"d": "2016-04-15",
+"c": {
+"inw": "wykonanie instalacji gazowej do budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0203 50/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.102.2016.PBE"
+}
+},
+{
+"d": "2016-04-12",
+"c": {
+"inw": "przebudowa lokali w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 710",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.96.2016.PBE"
+}
+},
+{
+"d": "2016-04-12",
+"c": {
+"inw": "rozbiórka wyeksploatowanego budynku I-piętrowego o czterech lokalach, bez podpiwniczenia, wolnostojącego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0501 165/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.6.2016.PBE"
+}
+},
+{
+"d": "2016-04-11",
+"c": {
+"inw": "zmiana pozwolenia na budowę - budowa kościoła i wikariatki oraz zespołu zabudowy mieszkaniowej jednorodzinnej szeregowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Parafia Rzymskokatolicka Najświętszego Serca Pana Jezusa",
+"nier": "",
+"dz": "146515_8 0710 34/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.95.2016.BGR"
+}
+},
+{
+"d": "2016-04-11",
+"c": {
+"inw": "zmiana pozwolenia na budowę - budowa kościoła i wikariatki oraz zespołu zabudowy mieszkaniowej jednorodzinnej szeregowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Parafia Rzymskokatolicka Najświętszego Serca Pana Jezusa",
+"nier": "",
+"dz": "146515_8 0710 33",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.95.2016.BGR"
+}
+},
+{
+"d": "2016-04-07",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolno stojącego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 275",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.93.2016.BGR"
+}
+},
+{
+"d": "2016-03-29",
+"c": {
+"inw": "budowa sieci elektroenergetycznej SN oraz budowa złącza kablowego SN wraz z powiązaniami z liniami kablowymi SN budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0602 69/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.82.2016.PBE"
+}
+},
+{
+"d": "2016-03-29",
+"c": {
+"inw": "budowa sieci elektroenergetycznej SN oraz budowa złącza kablowego SN wraz z powiązaniami z liniami kablowymi SN budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0602 127/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.82.2016.PBE"
+}
+},
+{
+"d": "2016-03-24",
+"c": {
+"inw": "wykonanie instalacji gazu do budynku jednorodzinnego dwulokalowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0712 167",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.75.2016.PBE"
+}
+},
+{
+"d": "2016-03-21",
+"c": {
+"inw": "budowa trzech budynków mieszkalnych jednorodzinnych w zabudowie szeregowej - projekt budowlany zamienny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0710 34/45",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.73.2016.BGR"
+}
+},
+{
+"d": "2016-03-18",
+"c": {
+"inw": "rozbiórka pozostałości rozpadającego się budynku rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0501 62/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.4.2016.PBE"
+}
+},
+{
+"d": "2016-03-15",
+"c": {
+"inw": "budowa instalacji gazowej dla budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0716 215",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.68.2016.PBE"
+}
+},
+{
+"d": "2016-03-14",
+"c": {
+"inw": "budowa instalacji gazowej w budynku mieszkalnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0716 281",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.67.2016.PBE"
+}
+},
+{
+"d": "2016-03-10",
+"c": {
+"inw": "przebudowa, rozbudowa i nadbudowa istniejącego budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0405 77",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.65.2016.BGR"
+}
+},
+{
+"d": "2016-03-09",
+"c": {
+"inw": "budowa instalacji gazowej w budynku mieszkalnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0501 176/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.59.2016.PBE"
+}
+},
+{
+"d": "2016-03-07",
+"c": {
+"inw": "budowa instalacji wewnętrznej gazu dla budynku mieszkalnego jednorodzinnego z trzema lokalami mieszkalnymi wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0712 97",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.56.2016.PBE"
+}
+},
+{
+"d": "2016-03-04",
+"c": {
+"inw": "budowa podświetlanego pylonu cenowego budowa nowego/nowych obiektów budowlanych",
+"wn": "Polski Koncern Naftowy Orlen S.A.",
+"nier": "",
+"dz": "146515_8 0707 7/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.54.2016.PBE"
+}
+},
+{
+"d": "2016-03-04",
+"c": {
+"inw": "budowa instalacji gazowej dla budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0501 102/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.53.2016.PBE"
+}
+},
+{
+"d": "2016-03-03",
+"c": {
+"inw": "przebudowa instalacji gazu do budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 142",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.52.2016.PBE"
+}
+},
+{
+"d": "2016-03-01",
+"c": {
+"inw": "przebudowa i rozbudowa budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0710 53/13",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.48.2016.BGR"
+}
+},
+{
+"d": "2016-02-26",
+"c": {
+"inw": "budowa sieci gazowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Polska Spółka Gazownictwa Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0715 572",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.45.2016.PBE"
+}
+},
+{
+"d": "2016-02-26",
+"c": {
+"inw": "instalacja gazowa do budynku mieszkalnego dwulokalowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0712 166",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.44.2016.PBE"
+}
+},
+{
+"d": "2016-02-26",
+"c": {
+"inw": "budowa sieci kablowej SN, budowa złączy kablowych SN, przebudowa sieci napowietrznej średniego oraz niskiego napięcia, przebudowa napowietrznych stacji transformatorowych 15/0,4kV budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0702 74/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.46.2016.BGR"
+}
+},
+{
+"d": "2016-02-26",
+"c": {
+"inw": "budowa sieci kablowej SN, budowa złączy kablowych SN, przebudowa sieci napowietrznej średniego oraz niskiego napięcia, przebudowa napowietrznych stacji transformatorowych 15/0,4kV budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0702 60/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.46.2016.BGR"
+}
+},
+{
+"d": "2016-02-26",
+"c": {
+"inw": "budowa sieci kablowej SN, budowa złączy kablowych SN, przebudowa sieci napowietrznej średniego oraz niskiego napięcia, przebudowa napowietrznych stacji transformatorowych 15/0,4kV budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0702 116/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.46.2016.BGR"
+}
+},
+{
+"d": "2016-02-25",
+"c": {
+"inw": "wykonanie instalacji unieszkodliwienia uciążliwych substancji zapachowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zespół Budowy Domów Jednorodzinnych i Wielorodzinnych Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0714 660",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.43.2016.PBE"
+}
+},
+{
+"d": "2016-02-19",
+"c": {
+"inw": "rozbiórka sieci napowietrznych średniego napięcia 15kV rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0702 74/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.3.2016.PBE"
+}
+},
+{
+"d": "2016-02-19",
+"c": {
+"inw": "rozbiórka sieci napowietrznych średniego napięcia 15kV rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0702 50/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.3.2016.PBE"
+}
+},
+{
+"d": "2016-02-19",
+"c": {
+"inw": "rozbiórka sieci napowietrznych średniego napięcia 15kV rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0702 97",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.3.2016.PBE"
+}
+},
+{
+"d": "2016-02-19",
+"c": {
+"inw": "rozbiórka sieci napowietrznych średniego napięcia 15kV rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0702 98",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.3.2016.PBE"
+}
+},
+{
+"d": "2016-02-19",
+"c": {
+"inw": "rozbiórka sieci napowietrznych średniego napięcia 15kV rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0702 21/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.3.2016.PBE"
+}
+},
+{
+"d": "2016-02-19",
+"c": {
+"inw": "rozbiórka sieci napowietrznych średniego napięcia 15kV rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0702 99",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.3.2016.PBE"
+}
+},
+{
+"d": "2016-02-19",
+"c": {
+"inw": "rozbiórka sieci napowietrznych średniego napięcia 15kV rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0702 100",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.3.2016.PBE"
+}
+},
+{
+"d": "2016-02-19",
+"c": {
+"inw": "rozbiórka sieci napowietrznych średniego napięcia 15kV rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0702 101",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.3.2016.PBE"
+}
+},
+{
+"d": "2016-02-19",
+"c": {
+"inw": "rozbiórka sieci napowietrznych średniego napięcia 15kV rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0702 114",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.3.2016.PBE"
+}
+},
+{
+"d": "2016-02-19",
+"c": {
+"inw": "rozbiórka sieci napowietrznych średniego napięcia 15kV rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0702 116/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.3.2016.PBE"
+}
+},
+{
+"d": "2016-02-17",
+"c": {
+"inw": "nadbudowa nad istniejącym salonem budynku mieszkalnego jednorodzinnego w zabudowie szeregowej nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 565",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.41.2016.BGR"
+}
+},
+{
+"d": "2016-02-15",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0702 27",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.39.2016.BGR"
+}
+},
+{
+"d": "2016-02-08",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego z garażem budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 450",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.33.2016.BGR"
+}
+},
+{
+"d": "2016-01-29",
+"c": {
+"inw": "instalacja gazowa dla budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 450",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.30.2016.PBE"
+}
+},
+{
+"d": "2016-01-29",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wraz ze szczelnym zbiornikiem na nieczystości ciekłe budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0704 24/8",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.31.2016.BGR"
+}
+},
+{
+"d": "2016-01-27",
+"c": {
+"inw": "rozbudowa budynku mieszkalnego dwulokalowego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0713 55/12",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.27.2016.PBE"
+}
+},
+{
+"d": "2016-01-25",
+"c": {
+"inw": "rozbiórka budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Konopnickiej 10 / Marii",
+"dz": "146515_8 0406 76",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.2.2016.PBE"
+}
+},
+{
+"d": "2016-01-18",
+"c": {
+"inw": "budowa sieci gazowej dystrybucyjnej budowa nowego/nowych obiektów budowlanych",
+"wn": "Polska Spółka Gazownictwa Sp. z o.o. Oddział w Warszawie",
+"nier": "Szermiercza",
+"dz": "146515_8 0712 99",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.12.2016.PBE"
+}
+},
+{
+"d": "2016-01-15",
+"c": {
+"inw": "instalacja gazowa w budynku mieszkalnym jednorodzinnym o dwóch lokalach wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Nowa 8",
+"dz": "146515_8 0501 81/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.10.2016.PBE"
+}
+},
+{
+"d": "2016-01-15",
+"c": {
+"inw": "projekt zamienny planu zagospodarowania działki wraz z projektem budowlanym szamba szczelnego o poj. 10 m3 budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Żytnia 23",
+"dz": "146515_8 0503 206/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.11.2016.BGR"
+}
+},
+{
+"d": "2016-01-13",
+"c": {
+"inw": "przebudowa instalacji gazu w budynku mieszkalnym wraz z wykonaniem kotłowni gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zarząd Mienia Skarbu Państwa",
+"nier": "Armii Krajowej 100",
+"dz": "146515_8 0409 7/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.6.2016.PBE"
+}
+},
+{
+"d": "2016-01-12",
+"c": {
+"inw": "instalacja gazowa dla budynku mieszkalnego dwulokalowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Malwy",
+"dz": "146515_8 0715 93/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.5.2016.PBE"
+}
+},
+{
+"d": "2016-01-08",
+"c": {
+"inw": "rozbudowa instalacji gazowej w lokalu mieszkalnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Diamentowa 9",
+"dz": "146515_8 0710 54/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.4.2016.PBE"
+}
+}
+]
+},
+{
+"id": "dec_pnb",
+"name": "Decyzje o pozwoleniu na budowę",
+"short": "Decyzje PnB",
+"desc": "Decyzje o pozwoleniu na budowę wydane przez organ architektoniczno-budowlany dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer decyzji",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2016-12-29",
+"c": {
+"inw": "budynek mieszkalny jednorodzinny \"Dom w Amarantusach\" oraz zbiornik szambo szczelne o poj. 10 m3 budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0606 30",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "166/2016"
+}
+},
+{
+"d": "2016-12-20",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 249",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "165/2016"
+}
+},
+{
+"d": "2016-12-19",
+"c": {
+"inw": "budowa instalacji gazowej do budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0710 236",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "164/2016"
+}
+},
+{
+"d": "2016-12-02",
+"c": {
+"inw": "instalacja gazowa wraz z wyniesieniem gazomierza do linii ogrodzenia wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0302 41",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "162/2016"
+}
+},
+{
+"d": "2016-12-02",
+"c": {
+"inw": "rozbudowa i przebudowa budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0403 83",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "161/2016"
+}
+},
+{
+"d": "2016-11-29",
+"c": {
+"inw": "wykonanie instalacji gazowej dla projektowanego budynku mieszkalnego jednorodzinnego dwulokalowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0603 1/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "160/2016"
+}
+},
+{
+"d": "2016-11-28",
+"c": {
+"inw": "budynek mieszkalny jednorodzinny wolno stojący budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0407 92",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "158/2016"
+}
+},
+{
+"d": "2016-11-28",
+"c": {
+"inw": "prace remontowo-budowlane w budynku Urzędu Dzielnicy Wesoła m.st. Warszawy polegające na przebudowie elewacji budynku w celu powiększenia dwóch okien w pomieszczeniu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent m.st. Warszawy reprezentowany przez Burmistrza Dzielnicy Wesoła",
+"nier": "",
+"dz": "146515_8 0603 3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "159/2016"
+}
+},
+{
+"d": "2016-11-28",
+"c": {
+"inw": "prace remontowo-budowlane w budynku Urzędu Dzielnicy Wesoła m.st. Warszawy polegające na przebudowie elewacji budynku w celu powiększenia dwóch okien w pomieszczeniu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent m.st. Warszawy reprezentowany przez Burmistrza Dzielnicy Wesoła",
+"nier": "",
+"dz": "146515_8 0603 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "159/2016"
+}
+},
+{
+"d": "2016-11-21",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolnostojącego dwulokalowego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 93/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "155/2016"
+}
+},
+{
+"d": "2016-11-15",
+"c": {
+"inw": "przebudowa, rozbudowa budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0706 25/4",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "153/2016"
+}
+},
+{
+"d": "2016-11-15",
+"c": {
+"inw": "instalacja gazowa dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0705 28/32",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "151/2016"
+}
+},
+{
+"d": "2016-11-15",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolno stojącego, budowa studni wierconej o wydajności 1,0 m3/d budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 40/20",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "154/2016"
+}
+},
+{
+"d": "2016-11-15",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0503 88",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "152/2016"
+}
+},
+{
+"d": "2016-11-14",
+"c": {
+"inw": "wykonanie instalacji gazowej dla budynku mieszkalnego jednorodzinnego w zab. bliźniaczej - segment północny wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0706 114/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "150/2016"
+}
+},
+{
+"d": "2016-11-02",
+"c": {
+"inw": "zmiana sposobu użytkowania budynku handlowo-usługowego z zapleczem mieszkalnym na budynek jednorodzinny z usługą wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0702 119",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "149/2016"
+}
+},
+{
+"d": "2016-10-31",
+"c": {
+"inw": "rozbudowa budynku mieszkalnego jednorodzinnego jednolokalowego na budynek mieszkalny jednorodzinny dwulokalowy rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0504 84",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "148/2016"
+}
+},
+{
+"d": "2016-10-31",
+"c": {
+"inw": "instalacja gazu dla budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0711 84",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "147/2016"
+}
+},
+{
+"d": "2016-10-25",
+"c": {
+"inw": "rozbiórka budynku warsztatowego wraz z przybudówkami gospodarczymi rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0203 89",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "10/2016"
+}
+},
+{
+"d": "2016-10-24",
+"c": {
+"inw": "budowa pięciu budynków jednorodzinnych mieszkalnych (każdy o dwóch lokalach mieszkalnych) w zabudowie szeregowej wraz z ogrodzeniem budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 560",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "146/2016"
+}
+},
+{
+"d": "2016-10-24",
+"c": {
+"inw": "budowa pięciu budynków jednorodzinnych mieszkalnych (każdy o dwóch lokalach mieszkalnych) w zabudowie szeregowej wraz z ogrodzeniem budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 561",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "146/2016"
+}
+},
+{
+"d": "2016-10-20",
+"c": {
+"inw": "budowa wolnostojącego domu jednorodzinnego z garażem jednostanowiskowym, wewnętrzna instalacja gazowa budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0503 167/6",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "145/2016"
+}
+},
+{
+"d": "2016-10-18",
+"c": {
+"inw": "budynek mieszkalny jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0712 281",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "144/2016"
+}
+},
+{
+"d": "2016-10-14",
+"c": {
+"inw": "budynek mieszkalny jednorodzinny w zab. szeregowej segment A i B budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0710 42/15",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "142/2016"
+}
+},
+{
+"d": "2016-10-14",
+"c": {
+"inw": "rozbudowa i przebudowa budynku mieszkalnego wraz ze zmianą sposobu użytkowania poddasza na cele mieszkalne rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0711 44",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "143/2016"
+}
+},
+{
+"d": "2016-10-11",
+"c": {
+"inw": "budowa sieci kanalizacji sanitarnej f 200 PVC budowa nowego/nowych obiektów budowlanych",
+"wn": "Zespół Budowy Domów Jednorodzinnych i Wielorodzinnych Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0711 58/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "141/2016"
+}
+},
+{
+"d": "2016-10-11",
+"c": {
+"inw": "budowa sieci kanalizacji sanitarnej f 200 PVC budowa nowego/nowych obiektów budowlanych",
+"wn": "Zespół Budowy Domów Jednorodzinnych i Wielorodzinnych Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0711 58/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "141/2016"
+}
+},
+{
+"d": "2016-09-26",
+"c": {
+"inw": "instalacja gazowa w budynku mieszkalnym jednorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0604 17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "139/2016"
+}
+},
+{
+"d": "2016-09-23",
+"c": {
+"inw": "dwie instalacje gazowe w dwóch budynkach jednorodzinnych w zab. bliźniaczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0710 34/44",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "138/2016"
+}
+},
+{
+"d": "2016-09-20",
+"c": {
+"inw": "budowa instalacji gazowej do budynku jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0604 18",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "137/2016"
+}
+},
+{
+"d": "2016-09-15",
+"c": {
+"inw": "zespół zabudowy jednorodzinnej segmentowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Vesta Development Sp. z o.o. Sp.K.A.",
+"nier": "",
+"dz": "146515_8 0202 53/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "135/2016"
+}
+},
+{
+"d": "2016-09-15",
+"c": {
+"inw": "budowa instalacji gazowej w budynku usługowym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0712 55/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "136/2016"
+}
+},
+{
+"d": "2016-09-12",
+"c": {
+"inw": "rozbiórka budynku jednorodzinnego typu \"Stolbud\" (drewniany) rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0714 98",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "9/2016"
+}
+},
+{
+"d": "2016-09-07",
+"c": {
+"inw": "budowa sieci wodociągowej DN 100 mm L=285,5 m budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0712 48/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "134/2016"
+}
+},
+{
+"d": "2016-09-07",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0501 238/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "133/2016"
+}
+},
+{
+"d": "2016-09-07",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0501 242",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "133/2016"
+}
+},
+{
+"d": "2016-09-05",
+"c": {
+"inw": "budowa sieci gazowej dystrybucyjnej budowa nowego/nowych obiektów budowlanych",
+"wn": "Polska Spółka Gazownictwa Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0504 115/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "129/2016"
+}
+},
+{
+"d": "2016-09-05",
+"c": {
+"inw": "budowa sieci gazowej dystrybucyjnej budowa nowego/nowych obiektów budowlanych",
+"wn": "Polska Spółka Gazownictwa Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0504 123/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "129/2016"
+}
+},
+{
+"d": "2016-09-05",
+"c": {
+"inw": "budowa sieci gazowej dystrybucyjnej budowa nowego/nowych obiektów budowlanych",
+"wn": "Polska Spółka Gazownictwa Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0504 123/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "129/2016"
+}
+},
+{
+"d": "2016-09-05",
+"c": {
+"inw": "budowa sieci gazowej dystrybucyjnej budowa nowego/nowych obiektów budowlanych",
+"wn": "Polska Spółka Gazownictwa Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0504 123/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "129/2016"
+}
+},
+{
+"d": "2016-09-05",
+"c": {
+"inw": "budowa sieci gazowej dystrybucyjnej budowa nowego/nowych obiektów budowlanych",
+"wn": "Polska Spółka Gazownictwa Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0504 123/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "129/2016"
+}
+},
+{
+"d": "2016-09-05",
+"c": {
+"inw": "budowa sieci gazowej dystrybucyjnej budowa nowego/nowych obiektów budowlanych",
+"wn": "Polska Spółka Gazownictwa Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0504 123/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "129/2016"
+}
+},
+{
+"d": "2016-09-05",
+"c": {
+"inw": "budowa sieci gazowej dystrybucyjnej budowa nowego/nowych obiektów budowlanych",
+"wn": "Polska Spółka Gazownictwa Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0504 123/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "129/2016"
+}
+},
+{
+"d": "2016-09-05",
+"c": {
+"inw": "budowa sieci gazowej dystrybucyjnej budowa nowego/nowych obiektów budowlanych",
+"wn": "Polska Spółka Gazownictwa Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0504 123/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "129/2016"
+}
+},
+{
+"d": "2016-09-05",
+"c": {
+"inw": "budowa trzech budynków mieszkalnych jednorodzinnych z usługami w parterze, w zabudowie szeregowej i drogi wewnętrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0710 353",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "130/2016"
+}
+},
+{
+"d": "2016-09-05",
+"c": {
+"inw": "budowa trzech budynków mieszkalnych jednorodzinnych z usługami w parterze, w zabudowie szeregowej i drogi wewnętrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0710 354",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "130/2016"
+}
+},
+{
+"d": "2016-09-05",
+"c": {
+"inw": "budowa trzech budynków mieszkalnych jednorodzinnych z usługami w parterze, w zabudowie szeregowej i drogi wewnętrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0710 355",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "130/2016"
+}
+},
+{
+"d": "2016-09-05",
+"c": {
+"inw": "budowa trzech budynków mieszkalnych jednorodzinnych z usługami w parterze, w zabudowie szeregowej i drogi wewnętrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0710 31/5",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "130/2016"
+}
+},
+{
+"d": "2016-09-02",
+"c": {
+"inw": "budynek mieszkalny jednorodzinny w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0716 273",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "127/2016"
+}
+},
+{
+"d": "2016-08-30",
+"c": {
+"inw": "budowa instalacji gazowej do budynku jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 528",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "126/2016"
+}
+},
+{
+"d": "2016-08-25",
+"c": {
+"inw": "budowa domu jednorodzinnego wolnostojącego z garażem w bryle budynku \"Dom przy Cyprysowej 15K\" budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0406 76",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "125/2016"
+}
+},
+{
+"d": "2016-08-25",
+"c": {
+"inw": "skrócenie przyłącza do linii ogrodzenia oraz budowa instalacji gazowej do budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 313",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "124/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0409 5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "8/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0409 7/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "8/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0409 4/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "8/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0409 3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "8/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0409 4/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "8/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "przebudowa wodociągu L=149 m DN 100mm budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0604 14/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "122/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "przebudowa wodociągu L=149 m DN 100mm budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0604 14/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "122/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "przebudowa wodociągu L=149 m DN 100mm budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0604 14/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "122/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "przebudowa wodociągu L=149 m DN 100mm budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0604 14/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "122/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "przebudowa wodociągu L=149 m DN 100mm budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0604 14/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "122/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "przebudowa wodociągu L=149 m DN 100mm budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0604 14/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "122/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "przebudowa wodociągu L=149 m DN 100mm budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0604 14/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "122/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "przebudowa wodociągu L=149 m DN 100mm budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0604 14/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "122/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "przebudowa wodociągu L=149 m DN 100mm budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0604 14/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "122/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0408 56",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "8/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0603 1/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "8/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0603 15/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "8/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0603 15/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "8/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0603 1/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "8/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0603 96/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "8/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0603 40",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "8/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0603 89/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "8/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0603 54",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "8/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0603 55/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "8/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0604 86",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "8/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0604 85",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "8/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0604 83/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "8/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0604 83/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "8/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0604 82/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "8/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0604 80/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "8/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0604 80/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "8/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0604 73",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "8/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0604 25",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "8/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0604 2/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "8/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0604 2/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "8/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "rozbiórka napowietrznej linii elektroenergetycznej SN 15kV i słupowej stacji transformatorowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0604 15/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "8/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "budowa sieci kanalizacji ściekowej DN 200mm L=155,5m budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0604 9/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "121/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "budowa sieci kanalizacji ściekowej DN 200mm L=155,5m budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0604 10/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "121/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "budowa sieci kanalizacji ściekowej DN 200mm L=155,5m budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0604 14/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "121/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "budowa sieci kanalizacji ściekowej DN 200mm L=155,5m budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0604 14/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "121/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "budowa sieci kanalizacji ściekowej DN 200mm L=155,5m budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0604 14/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "121/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "budowa sieci kanalizacji ściekowej DN 200mm L=155,5m budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0604 14/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "121/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "budowa sieci kanalizacji ściekowej DN 200mm L=155,5m budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0604 14/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "121/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "budowa sieci kanalizacji ściekowej DN 200mm L=155,5m budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0604 14/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "121/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "budowa sieci kanalizacji ściekowej DN 200mm L=155,5m budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0604 14/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "121/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "budowa sieci kanalizacji ściekowej DN 200mm L=155,5m budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0604 14/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "121/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "budowa sieci kanalizacji ściekowej DN 200mm L=155,5m budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0604 14/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "121/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "budowa sieci kanalizacji ściekowej DN 200mm L=155,5m budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0604 14/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "121/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "budowa sieci kanalizacji ściekowej DN 200mm L=155,5m budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0604 14/15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "121/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "budowa sieci kanalizacji ściekowej DN 200mm L=155,5m budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0604 14/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "121/2016"
+}
+},
+{
+"d": "2016-08-24",
+"c": {
+"inw": "budowa sieci kanalizacji ściekowej DN 200mm L=155,5m budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0604 14/17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "121/2016"
+}
+},
+{
+"d": "2016-08-22",
+"c": {
+"inw": "budynek mieszkalny jednorodzinny \"Dom w Awokado\" budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0704 30",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "120/2016"
+}
+},
+{
+"d": "2016-08-19",
+"c": {
+"inw": "budowa sieci wodociągowej DN 80mm L=59,5 m budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0716 47/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "118/2016"
+}
+},
+{
+"d": "2016-08-19",
+"c": {
+"inw": "instalacja gazu do budynku mieszkalnego jednorodzinnego dwulokalowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 93/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "119/2016"
+}
+},
+{
+"d": "2016-08-19",
+"c": {
+"inw": "budowa wewnetrznej instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0710 53/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "117/2016"
+}
+},
+{
+"d": "2016-08-17",
+"c": {
+"inw": "budowa instalacji gazu dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0406 43/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "116/2016"
+}
+},
+{
+"d": "2016-08-16",
+"c": {
+"inw": "budowa instalacji gazowej do budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 93/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "114/2016"
+}
+},
+{
+"d": "2016-08-16",
+"c": {
+"inw": "rozbudowa lokalu mieszkalnego w budynku mieszkalnym jednorodzinnym rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0203 16/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "115/2016"
+}
+},
+{
+"d": "2016-08-12",
+"c": {
+"inw": "rozbudowa budynku mieszkalnego jednorodzinnego wolnostojącego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0302 41",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "113/2016"
+}
+},
+{
+"d": "2016-08-12",
+"c": {
+"inw": "budowa domu jednorodzinnego wolno stojącego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0202 3/4",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "112/2016"
+}
+},
+{
+"d": "2016-08-10",
+"c": {
+"inw": "instalacja gazu dla budynku mieszkalnego dwulokalowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0305 6/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "111/2016"
+}
+},
+{
+"d": "2016-08-08",
+"c": {
+"inw": "instalacja gazu dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 31",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "110/2016"
+}
+},
+{
+"d": "2016-08-08",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0405 72/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "7/2016"
+}
+},
+{
+"d": "2016-08-05",
+"c": {
+"inw": "budowa instalacji gazu dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0501 89",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "108/2016"
+}
+},
+{
+"d": "2016-08-05",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego z garażem w bryle budynku i szczelnego szamba V=8,84 m3 budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0602 17/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "108/2016"
+}
+},
+{
+"d": "2016-08-05",
+"c": {
+"inw": "budowa sieci wodociągowej DN 100 mm L=147,5m budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0712 158",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "107/2016"
+}
+},
+{
+"d": "2016-08-04",
+"c": {
+"inw": "wolnostojący budynek mieszkalny jednorodzinny z wbudowanym garażem i bezodpływowym zbiornikiem na ścieki bytowe budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0503 191/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "106/2016"
+}
+},
+{
+"d": "2016-08-02",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolno stojącego \"Dom w Czarnuszce 2 (G2) wersja termo\" budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0503 191/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "104/2016"
+}
+},
+{
+"d": "2016-08-02",
+"c": {
+"inw": "wewnętrzna instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0716 413",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "103/2016"
+}
+},
+{
+"d": "2016-08-02",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego w zab. szeregowej oraz zbiornika na wody opadowe budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0712 214",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "105/2016"
+}
+},
+{
+"d": "2016-07-29",
+"c": {
+"inw": "budowa instalacji gazowej dla budynku mieszkalnego wielorodzinnego z częścią usługowo-handlową wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "TT Development Sp. z o.o. 2Sp.K.",
+"nier": "",
+"dz": "146515_8 0501 1/19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "102/2016"
+}
+},
+{
+"d": "2016-07-29",
+"c": {
+"inw": "budowa instalacji gazowej dla budynku mieszkalnego wielorodzinnego z częścią usługowo-handlową wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "TT Development Sp. z o.o. 2Sp.K.",
+"nier": "",
+"dz": "146515_8 0501 1/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "101/2016"
+}
+},
+{
+"d": "2016-07-27",
+"c": {
+"inw": "sieć gazowa średniego ciśnienia budowa nowego/nowych obiektów budowlanych",
+"wn": "Polska Spółka Gazownictwa Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0716 453",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "100/2016"
+}
+},
+{
+"d": "2016-07-22",
+"c": {
+"inw": "budowa wewnętrznej instalacji gazowej n/c wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 275",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "99/2016"
+}
+},
+{
+"d": "2016-07-22",
+"c": {
+"inw": "budowa instalacji gazowej do budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0706 33/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "98/2016"
+}
+},
+{
+"d": "2016-07-21",
+"c": {
+"inw": "budowa instalacji gazu dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0305 37",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "95/2016"
+}
+},
+{
+"d": "2016-07-21",
+"c": {
+"inw": "budowa drogi gminnej wewnętrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "Prezydent m.st. Warszawy rep. przez Burmistrza Dzielnicy Wesoła",
+"nier": "",
+"dz": "146515_8 0503 257/27",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "94/2016"
+}
+},
+{
+"d": "2016-07-20",
+"c": {
+"inw": "budowa sieci kablowej SN, budowa złączy kablowych SN, przebudowa sieci napowietrznej średniego oraz niskiego napięcia, przebudowa napowietrznych stacji transformatorowych 15/0,4kV budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0702 74/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "96/2016"
+}
+},
+{
+"d": "2016-07-20",
+"c": {
+"inw": "budowa sieci kablowej SN, budowa złączy kablowych SN, przebudowa sieci napowietrznej średniego oraz niskiego napięcia, przebudowa napowietrznych stacji transformatorowych 15/0,4kV budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0702 60/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "96/2016"
+}
+},
+{
+"d": "2016-07-20",
+"c": {
+"inw": "budowa sieci kablowej SN, budowa złączy kablowych SN, przebudowa sieci napowietrznej średniego oraz niskiego napięcia, przebudowa napowietrznych stacji transformatorowych 15/0,4kV budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0702 116/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "96/2016"
+}
+},
+{
+"d": "2016-07-15",
+"c": {
+"inw": "rozbudowa, przebudowa i nadbudowa budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0404 68",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "93/2016"
+}
+},
+{
+"d": "2016-07-15",
+"c": {
+"inw": "remont (wymiana po trasie) części istniejącej instalacji gazowej n/c w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Plac Wojska Polskiego 135 05-075 Warszawa",
+"nier": "",
+"dz": "146515_8 0101 5/17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "91/2016"
+}
+},
+{
+"d": "2016-07-15",
+"c": {
+"inw": "remont (wymiana po trasie) części istniejącej instalacji gazowej n/c w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Plac Wojska Polskiego 133 05-075 Warszawa",
+"nier": "",
+"dz": "146515_8 0101 5/19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "92/2016"
+}
+},
+{
+"d": "2016-07-13",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego i zabudowań gospodarczo-garażowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0710 58/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "6/2016"
+}
+},
+{
+"d": "2016-07-07",
+"c": {
+"inw": "budowa instalacji gazu dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0503 266",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "90/2016"
+}
+},
+{
+"d": "2016-07-05",
+"c": {
+"inw": "instalacja gazowa dla budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Fiołków 15",
+"nier": "",
+"dz": "146515_8 0717 242",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "88/2016"
+}
+},
+{
+"d": "2016-06-30",
+"c": {
+"inw": "zespół 9 budynków jednorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0202 29",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "85/2016"
+}
+},
+{
+"d": "2016-06-30",
+"c": {
+"inw": "wykonanie instalacji gazowej do budynku mieszkalnego - zmiana pozwolenia na budowę wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0502 30",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "86/2016"
+}
+},
+{
+"d": "2016-06-30",
+"c": {
+"inw": "rozbudowa i częściowa rozbiórka istniejącego budynku mieszkalnego jednorodzinnego wolnostojącego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0501 150/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "87/2016"
+}
+},
+{
+"d": "2016-06-29",
+"c": {
+"inw": "instalacja gazowa do budynku mieszkalnego i garażowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0713 55/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "84/2016"
+}
+},
+{
+"d": "2016-06-28",
+"c": {
+"inw": "rozbudowa i przebudowa budynku użyteczności publicznej w Wesołej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0202 15/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "83/2016"
+}
+},
+{
+"d": "2016-06-17",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego w zabudowie bliźniaczej - projekt zamienny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0604 102",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "81/2016"
+}
+},
+{
+"d": "2016-06-17",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0710 34/44",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "82/2016"
+}
+},
+{
+"d": "2016-06-15",
+"c": {
+"inw": "wykonanie instalacji gazowej dla budynku mieszkalnego jednorodzinnego z częścią usługową wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0401 6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "79/2016"
+}
+},
+{
+"d": "2016-06-14",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego o dwóch lokalach mieszkalnych budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0716 311",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "78/2016"
+}
+},
+{
+"d": "2016-06-10",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wraz z instalacją gazową budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Agawy",
+"dz": "146515_8 0713 92",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "73/2016"
+}
+},
+{
+"d": "2016-06-10",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0203 108",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "75/2016"
+}
+},
+{
+"d": "2016-06-10",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0203 109",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "75/2016"
+}
+},
+{
+"d": "2016-06-10",
+"c": {
+"inw": "wewnętrzna instalacja gazowa w dwóch budynkach mieszkalnych wielorodzinnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0712 21/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "72/2016"
+}
+},
+{
+"d": "2016-06-08",
+"c": {
+"inw": "ocieplenie ścian zewnętrznych, remont wiatrołapów w budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości przy ul. Pogodnej 17A",
+"nier": "",
+"dz": "146515_8 0711 147/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "69/2016"
+}
+},
+{
+"d": "2016-06-08",
+"c": {
+"inw": "budowa instalacji gazowej do budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0602 79",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "70/2016"
+}
+},
+{
+"d": "2016-06-07",
+"c": {
+"inw": "projekt zamienny planu zagospodarowania działki wraz z projektem budowlanym szamba szczelnego o poj. 10 m3 budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Żytnia 23",
+"dz": "146515_8 0503 206/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "66/2016"
+}
+},
+{
+"d": "2016-06-07",
+"c": {
+"inw": "budowa instalacji gazu dla budynku mieszkalnego jednorodzinnego w zabudowie szeregowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0712 175",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "67/2016"
+}
+},
+{
+"d": "2016-06-07",
+"c": {
+"inw": "zmiana pozwolenia na budowę - budowa kościoła i wikariatki oraz zespołu zabudowy mieszkaniowej jednorodzinnej szeregowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Parafia Rzymskokatolicka Najświętszego Serca Pana Jezusa",
+"nier": "",
+"dz": "146515_8 0710 34/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "65/2016"
+}
+},
+{
+"d": "2016-06-07",
+"c": {
+"inw": "zmiana pozwolenia na budowę - budowa kościoła i wikariatki oraz zespołu zabudowy mieszkaniowej jednorodzinnej szeregowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Parafia Rzymskokatolicka Najświętszego Serca Pana Jezusa",
+"nier": "",
+"dz": "146515_8 0710 33",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "65/2016"
+}
+},
+{
+"d": "2016-06-07",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Vesta Development Sp. z o.o. S.K.A.",
+"nier": "",
+"dz": "146515_8 0202 53/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "5/2016"
+}
+},
+{
+"d": "2016-06-03",
+"c": {
+"inw": "przebudowa lokali w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 710",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "63/2016"
+}
+},
+{
+"d": "2016-05-31",
+"c": {
+"inw": "instalacja gazowa dla potrzeb budynku mieszkalnego jednorodzinnego dwulokalowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0604 102",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "61/2016"
+}
+},
+{
+"d": "2016-05-30",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0203 108",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "60/2016"
+}
+},
+{
+"d": "2016-05-27",
+"c": {
+"inw": "wykonanie instalacji gazowej do budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0203 50/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "56/2016"
+}
+},
+{
+"d": "2016-05-27",
+"c": {
+"inw": "dwie wewnętrzne instalacje gazowe w budynkach mieszkalnych jednorodzinnych w zabudowie bliźniaczej z lokalami usługowymi wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0714 696",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "58/2016"
+}
+},
+{
+"d": "2016-05-27",
+"c": {
+"inw": "dwie wewnętrzne instalacje gazowe w budynkach mieszkalnych jednorodzinnych w zabudowie bliźniaczej z lokalami usługowymi wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0714 697",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "58/2016"
+}
+},
+{
+"d": "2016-05-27",
+"c": {
+"inw": "budowa gazociągu 63 PE wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polska Spółka Gazownictwa Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0711 247",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "59/2016"
+}
+},
+{
+"d": "2016-05-27",
+"c": {
+"inw": "wykonanie instalacji gazu dla budynku mieszkalnego jednorodzinnego - lokal nr 1 i nr 2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0712 177",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "57/2016"
+}
+},
+{
+"d": "2016-05-25",
+"c": {
+"inw": "budowa instalacji gazu dla budynku mieszkalnego jednorodzinnego dwulokalowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0716 508",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "55/2016"
+}
+},
+{
+"d": "2016-05-24",
+"c": {
+"inw": "budowa instalacji gazu dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0705 28/20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "54/2016"
+}
+},
+{
+"d": "2016-05-20",
+"c": {
+"inw": "budowa sieci elektroenergetycznej SN oraz budowa złącza kablowego SN wraz z powiązaniami z liniami kablowymi SN budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0602 69/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "53/2016"
+}
+},
+{
+"d": "2016-05-20",
+"c": {
+"inw": "budowa sieci elektroenergetycznej SN oraz budowa złącza kablowego SN wraz z powiązaniami z liniami kablowymi SN budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0602 127/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "53/2016"
+}
+},
+{
+"d": "2016-05-18",
+"c": {
+"inw": "budowa rozdzielczej sieci wodociągowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0404 22/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "52/2016"
+}
+},
+{
+"d": "2016-05-18",
+"c": {
+"inw": "budowa rozdzielczej sieci wodociągowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0404 22/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "52/2016"
+}
+},
+{
+"d": "2016-05-18",
+"c": {
+"inw": "budowa rozdzielczej sieci wodociągowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0404 23/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "52/2016"
+}
+},
+{
+"d": "2016-05-18",
+"c": {
+"inw": "budowa rozdzielczej sieci wodociągowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0404 32/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "52/2016"
+}
+},
+{
+"d": "2016-05-18",
+"c": {
+"inw": "budowa rozdzielczej sieci wodociągowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0404 32/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "52/2016"
+}
+},
+{
+"d": "2016-05-18",
+"c": {
+"inw": "budowa rozdzielczej sieci wodociągowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0404 33/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "52/2016"
+}
+},
+{
+"d": "2016-05-18",
+"c": {
+"inw": "budowa instalacji gazu dla budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0402 51",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "51/2016"
+}
+},
+{
+"d": "2016-05-10",
+"c": {
+"inw": "projekt zamienny - budowa budynku mieszkalnego jednorodzinnego w zabudowie bliźniaczej - segment północny, szamba szczelnego i miejsca na pojemniki na odpady stałe budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0706 114/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "50/2016"
+}
+},
+{
+"d": "2016-05-04",
+"c": {
+"inw": "rozbiórka wyeksploatowanego budynku I-piętrowego o czterech lokalach, bez podpiwniczenia, wolnostojącego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0501 165/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "4/2016"
+}
+},
+{
+"d": "2016-05-02",
+"c": {
+"inw": "rozbiórka sieci napowietrznych średniego napięcia 15kV rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0702 74/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "3/2016"
+}
+},
+{
+"d": "2016-05-02",
+"c": {
+"inw": "rozbiórka sieci napowietrznych średniego napięcia 15kV rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0702 50/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "3/2016"
+}
+},
+{
+"d": "2016-05-02",
+"c": {
+"inw": "rozbiórka sieci napowietrznych średniego napięcia 15kV rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0702 97",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "3/2016"
+}
+},
+{
+"d": "2016-05-02",
+"c": {
+"inw": "rozbiórka sieci napowietrznych średniego napięcia 15kV rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0702 98",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "3/2016"
+}
+},
+{
+"d": "2016-05-02",
+"c": {
+"inw": "rozbiórka sieci napowietrznych średniego napięcia 15kV rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0702 21/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "3/2016"
+}
+},
+{
+"d": "2016-05-02",
+"c": {
+"inw": "rozbiórka sieci napowietrznych średniego napięcia 15kV rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0702 99",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "3/2016"
+}
+},
+{
+"d": "2016-05-02",
+"c": {
+"inw": "rozbiórka sieci napowietrznych średniego napięcia 15kV rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0702 100",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "3/2016"
+}
+},
+{
+"d": "2016-05-02",
+"c": {
+"inw": "rozbiórka sieci napowietrznych średniego napięcia 15kV rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0702 101",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "3/2016"
+}
+},
+{
+"d": "2016-05-02",
+"c": {
+"inw": "rozbiórka sieci napowietrznych średniego napięcia 15kV rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0702 114",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "3/2016"
+}
+},
+{
+"d": "2016-05-02",
+"c": {
+"inw": "rozbiórka sieci napowietrznych średniego napięcia 15kV rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0702 116/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "3/2016"
+}
+},
+{
+"d": "2016-04-29",
+"c": {
+"inw": "budowa trzech budynków mieszkalnych jednorodzinnych w zabudowie szeregowej - projekt budowlany zamienny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0710 34/45",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "48/2016"
+}
+},
+{
+"d": "2016-04-29",
+"c": {
+"inw": "przebudowa, rozbudowa i nadbudowa istniejącego budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0405 77",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "49/2016"
+}
+},
+{
+"d": "2016-04-26",
+"c": {
+"inw": "budowa podświetlanego pylonu cenowego budowa nowego/nowych obiektów budowlanych",
+"wn": "Polski Koncern Naftowy Orlen S.A.",
+"nier": "",
+"dz": "146515_8 0707 7/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "47/2016"
+}
+},
+{
+"d": "2016-04-25",
+"c": {
+"inw": "rozbiórka pozostałości rozpadającego się budynku rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0501 62/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "2/2016"
+}
+},
+{
+"d": "2016-04-25",
+"c": {
+"inw": "wykonanie instalacji gazu do budynku jednorodzinnego dwulokalowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0712 167",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "47/2016"
+}
+},
+{
+"d": "2016-04-25",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolno stojącego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 275",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "45/2016"
+}
+},
+{
+"d": "2016-04-25",
+"c": {
+"inw": "przebudowa i rozbudowa budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0710 53/13",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "46/2016"
+}
+},
+{
+"d": "2016-04-22",
+"c": {
+"inw": "budowa instalacji gazowej w budynku mieszkalnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0716 281",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "44/2016"
+}
+},
+{
+"d": "2016-04-19",
+"c": {
+"inw": "nadbudowa nad istniejącym salonem budynku mieszkalnego jednorodzinnego w zabudowie szeregowej nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 565",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "43/2016"
+}
+},
+{
+"d": "2016-04-18",
+"c": {
+"inw": "budowa sieci kanalizacyjnej budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "Plac Wojska Polskiego",
+"dz": "146515_8 0401 46/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "42/2016"
+}
+},
+{
+"d": "2016-04-08",
+"c": {
+"inw": "instalacja gazowa do budynku mieszkalnego dwulokalowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0712 166",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "40/2016"
+}
+},
+{
+"d": "2016-04-07",
+"c": {
+"inw": "budowa instalacji gazowej dla budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0716 215",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/2016"
+}
+},
+{
+"d": "2016-04-07",
+"c": {
+"inw": "budowa instalacji wewnętrznej gazu dla budynku mieszkalnego jednorodzinnego z trzema lokalami mieszkalnymi wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0712 97",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "38/2016"
+}
+},
+{
+"d": "2016-04-06",
+"c": {
+"inw": "budowa instalacji gazowej w budynku mieszkalnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0501 176/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "37/2016"
+}
+},
+{
+"d": "2016-04-06",
+"c": {
+"inw": "budowa instalacji gazowej dla budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0501 102/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "36/2016"
+}
+},
+{
+"d": "2016-04-05",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wraz ze szczelnym zbiornikiem na nieczystości ciekłe budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0704 24/8",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "35/2016"
+}
+},
+{
+"d": "2016-03-30",
+"c": {
+"inw": "rozbudowa budynku mieszkalnego dwulokalowego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0713 55/12",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "34/2016"
+}
+},
+{
+"d": "2016-03-29",
+"c": {
+"inw": "przebudowa instalacji gazu do budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 142",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "33/2016"
+}
+},
+{
+"d": "2016-03-24",
+"c": {
+"inw": "rozbiórka budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Konopnickiej 10 / Marii",
+"dz": "146515_8 0406 76",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "1/2016"
+}
+},
+{
+"d": "2016-03-23",
+"c": {
+"inw": "budowa sieci gazowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Polska Spółka Gazownictwa Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0715 572",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "32/2016"
+}
+},
+{
+"d": "2016-03-22",
+"c": {
+"inw": "wykonanie instalacji unieszkodliwienia uciążliwych substancji zapachowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zespół Budowy Domów Jednorodzinnych i Wielorodzinnych Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0714 660",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "31/2016"
+}
+},
+{
+"d": "2016-03-11",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0702 27",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "30/2016"
+}
+},
+{
+"d": "2016-02-29",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego z garażem budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 450",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "29/2016"
+}
+},
+{
+"d": "2016-02-25",
+"c": {
+"inw": "instalacja gazowa dla budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 450",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "28/2016"
+}
+},
+{
+"d": "2016-02-03",
+"c": {
+"inw": "rozbudowa instalacji gazowej w lokalu mieszkalnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Diamentowa 9",
+"dz": "146515_8 0710 54/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "18/2016"
+}
+},
+{
+"d": "2016-02-03",
+"c": {
+"inw": "budowa sieci gazowej dystrybucyjnej budowa nowego/nowych obiektów budowlanych",
+"wn": "Polska Spółka Gazownictwa Sp. z o.o. Oddział w Warszawie",
+"nier": "Szermiercza",
+"dz": "146515_8 0712 99",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "19/2016"
+}
+},
+{
+"d": "2016-01-29",
+"c": {
+"inw": "przebudowa instalacji gazu w budynku mieszkalnym wraz z wykonaniem kotłowni gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zarząd Mienia Skarbu Państwa",
+"nier": "Armii Krajowej 100",
+"dz": "146515_8 0409 7/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "17/2016"
+}
+},
+{
+"d": "2016-01-29",
+"c": {
+"inw": "instalacja gazowa w budynku mieszkalnym jednorodzinnym o dwóch lokalach wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Nowa 8",
+"dz": "146515_8 0501 81/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "16/2016"
+}
+},
+{
+"d": "2016-01-28",
+"c": {
+"inw": "instalacja gazowa dla budynku mieszkalnego dwulokalowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Malwy",
+"dz": "146515_8 0715 93/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "15/2016"
+}
+}
+]
+}
+]
+}

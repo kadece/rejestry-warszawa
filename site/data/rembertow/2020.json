@@ -1,0 +1,741 @@
+{
+"district": "rembertow",
+"year": 2020,
+"generated": "2026-11-24T21:23:06+01:00",
+"total": 59,
+"registers": [
+{
+"id": "wn_pnb",
+"name": "Wnioski o pozwolenie na budowę",
+"short": "Wnioski PnB",
+"desc": "Wnioski o pozwolenie na budowę złożone do organu architektoniczno-budowlanego dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer wniosku",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2020-12-30",
+"c": {
+"inw": "budynek jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Pilarzy",
+"dz": "146509_8 0917 58/20",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII.WAB.6740.3.2021 EKO"
+}
+},
+{
+"d": "2020-12-30",
+"c": {
+"inw": "rozbudowa budynku mieszkalnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Ilskiego 85 / Franciszka",
+"dz": "146509_8 0048 137",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII.WAB.6740.6.2021 BMA"
+}
+},
+{
+"d": "2020-12-30",
+"c": {
+"inw": "budynej jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Karla 6",
+"dz": "146509_8 0074 44/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII.WAB.6740.5.2021 JKA"
+}
+},
+{
+"d": "2020-12-30",
+"c": {
+"inw": "budynek jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Pastuszków",
+"dz": "146509_8 0902 38/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII.WAB.6740.4.2021 BMA"
+}
+},
+{
+"d": "2020-12-18",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kadrowa 51",
+"dz": "146509_8 0912 59/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD_VIII.WAB.6740.174.2020 BMA"
+}
+},
+{
+"d": "2020-12-08",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Aleja gen. Antoniego Chruściela \"Montera\" 46",
+"dz": "146509_8 0927 19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII.WAB.6740.171.2020 BMA"
+}
+},
+{
+"d": "2020-11-26",
+"c": {
+"inw": "instalacja gazu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Czwartaków",
+"dz": "146509_8 0912 80",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII.WAB.6740.166.2020 BMA"
+}
+},
+{
+"d": "2020-10-26",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Szymańskiego 24 / Józefa",
+"dz": "146509_8 0710 100",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII.WAB.6740.155.2020 BMA"
+}
+},
+{
+"d": "2020-10-22",
+"c": {
+"inw": "przebudowa budynku Nr 93 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Akademia Sztuki Wojennej",
+"nier": "Gierczak 21 / Emilii",
+"dz": "146509_8 2128 2/175",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII.WAB.6740.150.2020 JKA"
+}
+},
+{
+"d": "2020-10-21",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Paderewskiego 176 / Ignacego",
+"dz": "146509_8 0906 1/59",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII.WAB.6740.147.2020 BMA"
+}
+},
+{
+"d": "2020-10-15",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Paderewskiego 99 / Ignacego",
+"dz": "146509_8 0911 89/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII.WAB.6740.145.2020 BMA"
+}
+},
+{
+"d": "2020-10-13",
+"c": {
+"inw": "Instalacja elektryczna wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Chełmżyńska 180",
+"dz": "146509_8 0802 9/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII.WAB.6740.143.2020 BMA"
+}
+},
+{
+"d": "2020-10-13",
+"c": {
+"inw": "Instalacja elektryczna wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Chełmżyńska 180",
+"dz": "146509_8 0802 23/23",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII.WAB.6740.143.2020 BMA"
+}
+},
+{
+"d": "2020-09-29",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MProjekt SP. Z O.O.",
+"nier": "Kacpury 11/13 / Antoniego",
+"dz": "146509_8 0048 7/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII.WAB.6740.131.2020 BMA"
+}
+},
+{
+"d": "2020-09-29",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MProjekt SP. Z O.O.",
+"nier": "Kacpury 11/13 / Antoniego",
+"dz": "146509_8 0048 14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII.WAB.6740.131.2020 BMA"
+}
+},
+{
+"d": "2020-09-28",
+"c": {
+"inw": "rozbudowa i przebudowa budynku handlowo-usługowego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Strażacka 104",
+"dz": "146509_8 0925 59/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII.WAB.6740.128.2020 BMA"
+}
+},
+{
+"d": "2020-09-28",
+"c": {
+"inw": "rozbudowa i przebudowa budynku handlowo-usługowego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Strażacka 104",
+"dz": "146509_8 0925 59/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII.WAB.6740.128.2020 BMA"
+}
+},
+{
+"d": "2020-09-25",
+"c": {
+"inw": "prace budowlane wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Ilskiego 2A / Franciszka",
+"dz": "146509_8 0051 66/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII.WAB.6740.126.2020 BMA"
+}
+},
+{
+"d": "2020-09-22",
+"c": {
+"inw": "przebudowa ze zmianą sposobu użytkowania poddasza ul. Smolarzy 18 (nowa ulica, której nie ma w wykazie) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Abecadło 18",
+"dz": "146509_8 0904 2/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII.WAB.6740.125.2020 BMA"
+}
+},
+{
+"d": "2020-09-21",
+"c": {
+"inw": "instalacja gazu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Konwisarska 23",
+"dz": "146509_8 0927 77/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII.WAB.6740.122.2020 BMA"
+}
+},
+{
+"d": "2020-09-21",
+"c": {
+"inw": "3 instalacje gazowe wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Szymańskiego 28A / Józefa",
+"dz": "146509_8 0710 68",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII.WAB.6740.123.2020 BMA"
+}
+},
+{
+"d": "2020-09-18",
+"c": {
+"inw": "2 instalacje gazowe wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kanonierska 6",
+"dz": "146509_8 0917 296",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII.WAB.6740.119.2020 BMA"
+}
+},
+{
+"d": "2020-09-17",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Toporowska 1A",
+"dz": "146509_8 0707 100/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII.WAB.6740.120.2020 BMA"
+}
+},
+{
+"d": "2020-08-10",
+"c": {
+"inw": "4 budynki jednorodzinne budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Szeroka",
+"dz": "146509_8 0702 16/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD_VIII.WAB.6740.97.20 JKA"
+}
+},
+{
+"d": "2020-08-05",
+"c": {
+"inw": "termomodernizacja budynku nr 6 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Akademia Sztuki Wojennej",
+"nier": "Aleja gen. Antoniego Chruściela \"Montera\"",
+"dz": "146509_8 2128 2/186",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII.WAB.6740.94.2020.JKA"
+}
+},
+{
+"d": "2020-07-27",
+"c": {
+"inw": "2 budynki jedn. budowa nowego/nowych obiektów budowlanych",
+"wn": "Markbet",
+"nier": "Magenta",
+"dz": "146509_8 0911 36/11",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII.WAB.6740.91.2020 JKA"
+}
+},
+{
+"d": "2020-07-27",
+"c": {
+"inw": "2 bud.jedn. budowa nowego/nowych obiektów budowlanych",
+"wn": "Marbet",
+"nier": "Magenta",
+"dz": "146509_8 0911 36/10",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII.WAB.6740.90.2020 JKA"
+}
+},
+{
+"d": "2020-07-14",
+"c": {
+"inw": "budynek wielorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "MD Development",
+"nier": "Witolda 16 / Księcia",
+"dz": "146509_8 0077 132",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII.WAB.6740.89.2020 JKA"
+}
+},
+{
+"d": "2020-06-26",
+"c": {
+"inw": "przebudowa, rozbudowa budynku jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Markietanki 21",
+"dz": "146509_8 0929 3/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII.WAB.6740.78.2020 JKA"
+}
+},
+{
+"d": "2020-06-09",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MD Development",
+"nier": "Witolda 16 / Księcia",
+"dz": "146509_8 0077 132",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII.WAB.6740.68.2020 JKA"
+}
+},
+{
+"d": "2020-02-19",
+"c": {
+"inw": "zatwierdzenie zmian do projektu budowlanego -remont i przebudowa budynku Nr 27 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Akademia Sztuki Wojennej",
+"nier": "Aleja gen. Antoniego Chruściela \"Montera\" 103",
+"dz": "146508_9 2128 2/180",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.26.2020 BMA"
+}
+},
+{
+"d": "2020-02-03",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Rugan",
+"nier": "",
+"dz": "146509_8 0925 70",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.15.2020 JKA"
+}
+},
+{
+"d": "2020-02-03",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Rugan",
+"nier": "",
+"dz": "146509_8 0925 71",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.15.2020 JKA"
+}
+}
+]
+},
+{
+"id": "dec_pnb",
+"name": "Decyzje o pozwoleniu na budowę",
+"short": "Decyzje PnB",
+"desc": "Decyzje o pozwoleniu na budowę wydane przez organ architektoniczno-budowlany dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer decyzji",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2020-12-28",
+"c": {
+"inw": "przebudowa budynku Nr 93 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Akademia Sztuki Wojennej",
+"nier": "Gierczak 21 / Emilii",
+"dz": "146509_8 2128 2/175",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "193/PB/2020"
+}
+},
+{
+"d": "2020-12-09",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Paderewskiego 176 / Ignacego",
+"dz": "146509_8 0906 1/59",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "183/PB/2020"
+}
+},
+{
+"d": "2020-12-04",
+"c": {
+"inw": "2 instalacje gazowe wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kanonierska 6",
+"dz": "146509_8 0917 296",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "177/PB/2020"
+}
+},
+{
+"d": "2020-11-27",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Szymańskiego 24 / Józefa",
+"dz": "146509_8 0710 100",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "170/PB/2020"
+}
+},
+{
+"d": "2020-11-27",
+"c": {
+"inw": "przebudowa ze zmianą sposobu użytkowania poddasza ul. Smolarzy 18 (nowa ulica, której nie ma w wykazie) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Abecadło 18",
+"dz": "146509_8 0904 2/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "173/PB/2020"
+}
+},
+{
+"d": "2020-11-27",
+"c": {
+"inw": "rozbudowa i przebudowa budynku handlowo-usługowego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Strażacka 104",
+"dz": "146509_8 0925 59/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "174/PB/2020"
+}
+},
+{
+"d": "2020-11-27",
+"c": {
+"inw": "rozbudowa i przebudowa budynku handlowo-usługowego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Strażacka 104",
+"dz": "146509_8 0925 59/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "174/PB/2020"
+}
+},
+{
+"d": "2020-11-27",
+"c": {
+"inw": "3 instalacje gazowe wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Szymańskiego 28A / Józefa",
+"dz": "146509_8 0710 68",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "171/PB/2020"
+}
+},
+{
+"d": "2020-10-28",
+"c": {
+"inw": "prace budowlane wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Ilskiego 2A / Franciszka",
+"dz": "146509_8 0051 66/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "156/PB/2020"
+}
+},
+{
+"d": "2020-10-12",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Toporowska 1A",
+"dz": "146509_8 0707 100/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "142/PB/2020"
+}
+},
+{
+"d": "2020-10-12",
+"c": {
+"inw": "instalacja gazu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Konwisarska 23",
+"dz": "146509_8 0927 77/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "143/PB/2020"
+}
+},
+{
+"d": "2020-10-12",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MProjekt SP. Z O.O.",
+"nier": "Kacpury 11/13 / Antoniego",
+"dz": "146509_8 0048 7/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "146/PB/2020"
+}
+},
+{
+"d": "2020-10-12",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MProjekt SP. Z O.O.",
+"nier": "Kacpury 11/13 / Antoniego",
+"dz": "146509_8 0048 14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "146/PB/2020"
+}
+},
+{
+"d": "2020-10-06",
+"c": {
+"inw": "termomodernizacja budynku nr 6 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Akademia Sztuki Wojennej",
+"nier": "Aleja gen. Antoniego Chruściela \"Montera\"",
+"dz": "146509_8 2128 2/186",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "134/PB/2020"
+}
+},
+{
+"d": "2020-09-30",
+"c": {
+"inw": "4 budynki jednorodzinne budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Szeroka",
+"dz": "146509_8 0702 16/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "129/PB/2020"
+}
+},
+{
+"d": "2020-09-18",
+"c": {
+"inw": "2 budynki jedn. budowa nowego/nowych obiektów budowlanych",
+"wn": "Markbet",
+"nier": "Magenta",
+"dz": "146509_8 0911 36/11",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "124/PB/2020"
+}
+},
+{
+"d": "2020-09-18",
+"c": {
+"inw": "2 bud.jedn. budowa nowego/nowych obiektów budowlanych",
+"wn": "Marbet",
+"nier": "Magenta",
+"dz": "146509_8 0911 36/10",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "123/PB/2020"
+}
+},
+{
+"d": "2020-08-27",
+"c": {
+"inw": "przebudowa, rozbudowa budynku jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Markietanki 21",
+"dz": "146509_8 0929 3/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "106/PB/2020"
+}
+},
+{
+"d": "2020-05-04",
+"c": {
+"inw": "zatwierdzenie zmian do projektu budowlanego -remont i przebudowa budynku Nr 27 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Akademia Sztuki Wojennej",
+"nier": "Aleja gen. Antoniego Chruściela \"Montera\" 103",
+"dz": "146508_9 2128 2/180",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "42/PB/2020"
+}
+},
+{
+"d": "2020-03-06",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Rugan",
+"nier": "",
+"dz": "146509_8 0925 70",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "33/PB/2020"
+}
+},
+{
+"d": "2020-03-06",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Rugan",
+"nier": "",
+"dz": "146509_8 0925 71",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "33/PB/2020"
+}
+},
+{
+"d": "2020-01-28",
+"c": {
+"inw": "zmiany do projektu budowlanego zatwierdzonego decyzją pozwolenia na budowę Nr 170/2019 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Pilarzy",
+"dz": "146509_8 0917 58/25",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "14/PB/2020"
+}
+},
+{
+"d": "2020-01-24",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Chłopickiego 78B / Józefa",
+"dz": "146509_8 0702 8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "11/PB/2020"
+}
+},
+{
+"d": "2020-01-24",
+"c": {
+"inw": "rozbudowa budynku magazynowego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Meblowa 1",
+"dz": "146509_8 0805 96/37",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "13/PB/2020"
+}
+},
+{
+"d": "2020-01-20",
+"c": {
+"inw": "budynek jednorodzinny dwulokalowy budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Jerzego 49",
+"dz": "146509_8 0913 12",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "9/PB/2020"
+}
+},
+{
+"d": "2020-01-10",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Szafarzy 31",
+"dz": "146509_8 0911 98",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "1/PB/2020"
+}
+}
+]
+}
+]
+}

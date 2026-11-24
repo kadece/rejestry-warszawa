@@ -1,0 +1,3459 @@
+{
+"district": "targowek",
+"year": 2026,
+"generated": "2026-11-24T21:23:40+01:00",
+"total": 296,
+"registers": [
+{
+"id": "wn_pnb",
+"name": "Wnioski o pozwolenie na budowę",
+"short": "Wnioski PnB",
+"desc": "Wnioski o pozwolenie na budowę złożone do organu architektoniczno-budowlanego dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer wniosku",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2026-08-13",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego z zagospodarowaniem terenu oraz rozbiórka istniejącego budynku mieszkalnego jednorodzinnego z garażem - zamienny w zakresie instalacji gazowej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146511_8 0923 124",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "10847; UD-X-WAB-AB.6740.90.2026.BGO"
+}
+},
+{
+"d": "2026-07-28",
+"c": {
+"inw": "budowa przekrycia membranowego przeciwsłonecznego na tarasie istniejącego budynku zaplecza sportowego na terenie Arthouse Lołowa 24 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dom Kultury \"Świt\"",
+"nier": "Kołowa 24",
+"dz": "146511_8 1009 2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "10112 ; UD-X-WAB-AB.6740.83.2026.GSL"
+}
+},
+{
+"d": "2026-07-21",
+"c": {
+"inw": "budowa budynku usługowego o funkcji magazynowej wraz z parkingiem , zewnętrznym podziemnym zbiornikiem retencyjnym i infrastrukturą towarzyszącą-zmiana pozwolenia na budowę budowa nowego/nowych obiektów budowlanych",
+"wn": "Stokado Buar sp. Z o.o.",
+"nier": "",
+"dz": "146511_8 0908 3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EDOR/202507 ; UD-X-WAB-AB.6740.82.2026.JKA"
+}
+},
+{
+"d": "2026-07-20",
+"c": {
+"inw": "budowa wolnostojącego nośnika informacyjno-reklamowego budowa nowego/nowych obiektów budowlanych",
+"wn": "Bauer Media Outdoor Poland sp. Z o.o.",
+"nier": "Rembielińska",
+"dz": "146511_8 0807 2/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EDOR/200553 ; UD-X-WAB-AB.6740.81.2026.BGO"
+}
+},
+{
+"d": "2026-07-17",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego w zabudowie bliźniaczej i budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Błotna 7",
+"dz": "146511_8 0919 199",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "9768 ; UD-X-WAB-AB.6741.24.2026.JZP"
+}
+},
+{
+"d": "2026-07-14",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych jednorodzinnych dwulokalowych z poddaszem użytkowym w zabudowie bliźniaczej-ponownie budowa nowego/nowych obiektów budowlanych",
+"wn": "HOUSEIN SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+"nier": "Perłowa 3",
+"dz": "146511_8 0917 11",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/467025 ; UD-X-WAB.6740.120.2025.BGO-ponownie"
+}
+},
+{
+"d": "2026-07-14",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych jednorodzinnych dwulokalowych z poddaszem użytkowym w zabudowie bliźniaczej-ponownie budowa nowego/nowych obiektów budowlanych",
+"wn": "HOUSEIN SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+"nier": "Perłowa 3",
+"dz": "146511_8 0917 11",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/467025 ; UD-X-WAB.6740.120.2025.BGO-ponownie"
+}
+},
+{
+"d": "2026-07-10",
+"c": {
+"inw": "budowa wewnętrznej instalacji gazowej budynku mieszkalnego jednorodzinnego wraz z odcinkiem instalacji poprowadzonym w ziemi wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Cecylii 9 / św.",
+"dz": "146511_8 1008 92",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "9439 ; UD-X-WAB-AB.6740.80.2026.PTR"
+}
+},
+{
+"d": "2026-07-08",
+"c": {
+"inw": "rozbiórka pawilonów na bazarku rozbiórka istniejącego obiektu budowlanego",
+"wn": "Stowarzyszenie  \"Bazarek Kondratowicza\"",
+"nier": "Kondratowicza / Ludwika",
+"dz": "146511_8 0813 2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "9304 ; UD-X-WAB-AB.6741.22.2026.GSL"
+}
+},
+{
+"d": "2026-07-08",
+"c": {
+"inw": "rozbiórka pawilonów na bazarku rozbiórka istniejącego obiektu budowlanego",
+"wn": "Stowarzyszenie  \"Bazarek Kondratowicza\"",
+"nier": "Kondratowicza / Ludwika",
+"dz": "146511_8 0813 3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "9304 ; UD-X-WAB-AB.6741.22.2026.GSL"
+}
+},
+{
+"d": "2026-07-08",
+"c": {
+"inw": "rozbiórka pawilonów na bazarku rozbiórka istniejącego obiektu budowlanego",
+"wn": "Stowarzyszenie  \"Bazarek Kondratowicza\"",
+"nier": "Kondratowicza / Ludwika",
+"dz": "146511_8 0813 4/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "9304 ; UD-X-WAB-AB.6741.22.2026.GSL"
+}
+},
+{
+"d": "2026-07-08",
+"c": {
+"inw": "rozbiórka pawilonów na bazarku rozbiórka istniejącego obiektu budowlanego",
+"wn": "Stowarzyszenie  \"Bazarek Kondratowicza\"",
+"nier": "Kondratowicza / Ludwika",
+"dz": "146511_8 0813 29",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "9304 ; UD-X-WAB-AB.6741.22.2026.GSL"
+}
+},
+{
+"d": "2026-07-02",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym, zagospodarowaniem terenu i parkingiem naziemnym raz niezbędną infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "K2 Residential spółka z ograniczoną odpowiedzialnością",
+"nier": "",
+"dz": "146511_8 0821 76/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EDOR/182256 ; UD-X-WAB-AB.6740.78.2026.GSL"
+}
+},
+{
+"d": "2026-07-02",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym, zagospodarowaniem terenu i parkingiem naziemnym raz niezbędną infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "K2 Residential spółka z ograniczoną odpowiedzialnością",
+"nier": "",
+"dz": "146511_8 0821 76/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EDOR/182256 ; UD-X-WAB-AB.6740.78.2026.GSL"
+}
+},
+{
+"d": "2026-06-30",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "17",
+"dz": "146511_8 0910 62",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "8944 ; UD-X-WAB-AB.6740.75.2026.PTR"
+}
+},
+{
+"d": "2026-06-29",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Bratka 3",
+"dz": "146511_8 0920 15/8",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "8798 ; UD-X-WAB-AB.6741.21.2026.JKA"
+}
+},
+{
+"d": "2026-06-29",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Bratka 3",
+"dz": "146511_8 0920 15/4",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "8798 ; UD-X-WAB-AB.6741.21.2026.JKA"
+}
+},
+{
+"d": "2026-06-29",
+"c": {
+"inw": "przebudowa dwóch placów zabaw oraz rozbiórka (demontaż) istniejących obiektów i urządzeń placów zabaw wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami w Dzielnicy Targówek",
+"nier": "Węgrowska",
+"dz": "146511_8 1013 4/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "8821 ; UD-X-WAB-AB.6740.74.2026.GSL"
+}
+},
+{
+"d": "2026-06-24",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego i budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Przewoźników 3",
+"dz": "146511_8 0916 110",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "8639 ; UD-X-WAB-AB.6741.19.2026.BGO"
+}
+},
+{
+"d": "2026-06-15",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego - zmiana pozwolenia na budowę budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Gilarska 24",
+"dz": "146511_8 0923 218",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "8141 ; UD-X-WAB-AB.6740.66.2026.BGO"
+}
+},
+{
+"d": "2026-06-12",
+"c": {
+"inw": "przebudowa przegrody zewnętrznej w zakresie zmiany otworu okiennego na drzwiowy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Trocka 4",
+"dz": "146511_8 1003 21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-X-WAB-AB.6740.65.2026.GSL"
+}
+},
+{
+"d": "2026-06-12",
+"c": {
+"inw": "przebudowa przegrody zewnętrznej w zakresie zmiany otworu okiennego na drzwiowy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Trocka 4",
+"dz": "146511_8 1003 63",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-X-WAB-AB.6740.65.2026.GSL"
+}
+},
+{
+"d": "2026-06-12",
+"c": {
+"inw": "przebudowa elewacji w zakresie wykonania nowych otworów w celu montażuinstalacji wentylacyjnej w budynku szkoły podstawowej nr 378 im. Ignacego Jana Paderewskiego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Bartnicza 8",
+"dz": "146511_8 0819 124",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-X-WAB-AB.6740.64.2026.JKA"
+}
+},
+{
+"d": "2026-06-12",
+"c": {
+"inw": "przebudowa elewacji w zakresie wykonania nowych otworów w celu montażuinstalacji wentylacyjnej w budynku szkoły podstawowej nr 378 im. Ignacego Jana Paderewskiego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Bartnicza 8",
+"dz": "146511_8 0819 123/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-X-WAB-AB.6740.64.2026.JKA"
+}
+},
+{
+"d": "2026-06-12",
+"c": {
+"inw": "przebudowa elewacji w zakresie wykonania nowych otworów w celu montażuinstalacji wentylacyjnej w budynku szkoły podstawowej nr 378 im. Ignacego Jana Paderewskiego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Bartnicza 8",
+"dz": "146511_8 0819 123/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-X-WAB-AB.6740.64.2026.JKA"
+}
+},
+{
+"d": "2026-06-12",
+"c": {
+"inw": "przebudowa elewacji w zakresie wykonania nowych otworów w celu montażuinstalacji wentylacyjnej w budynku szkoły podstawowej nr 378 im. Ignacego Jana Paderewskiego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Bartnicza 8",
+"dz": "146511_8 0819 123/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-X-WAB-AB.6740.64.2026.JKA"
+}
+},
+{
+"d": "2026-06-12",
+"c": {
+"inw": "przebudowa elewacji w zakresie wykonania nowych otworów w celu montażuinstalacji wentylacyjnej w budynku szkoły podstawowej nr 378 im. Ignacego Jana Paderewskiego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Bartnicza 8",
+"dz": "146511_8 0819 123/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-X-WAB-AB.6740.64.2026.JKA"
+}
+},
+{
+"d": "2026-06-12",
+"c": {
+"inw": "przebudowa elewacji w zakresie wykonania nowych otworów w celu montażuinstalacji wentylacyjnej w budynku szkoły podstawowej nr 378 im. Ignacego Jana Paderewskiego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Bartnicza 8",
+"dz": "146511_8 0819 123/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-X-WAB-AB.6740.64.2026.JKA"
+}
+},
+{
+"d": "2026-06-12",
+"c": {
+"inw": "przebudowa elewacji w zakresie wykonania nowych otworów w celu montażuinstalacji wentylacyjnej w budynku szkoły podstawowej nr 378 im. Ignacego Jana Paderewskiego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Bartnicza 8",
+"dz": "146511_8 0819 123/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-X-WAB-AB.6740.64.2026.JKA"
+}
+},
+{
+"d": "2026-06-12",
+"c": {
+"inw": "przebudowa elewacji w zakresie wykonania nowych otworów w celu montażuinstalacji wentylacyjnej w budynku szkoły podstawowej nr 378 im. Ignacego Jana Paderewskiego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Bartnicza 8",
+"dz": "146511_8 0819 123/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-X-WAB-AB.6740.64.2026.JKA"
+}
+},
+{
+"d": "2026-06-12",
+"c": {
+"inw": "przebudowa elewacji w zakresie wykonania nowych otworów w celu montażuinstalacji wentylacyjnej w budynku szkoły podstawowej nr 378 im. Ignacego Jana Paderewskiego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Bartnicza 8",
+"dz": "146511_8 0819 123/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-X-WAB-AB.6740.64.2026.JKA"
+}
+},
+{
+"d": "2026-06-12",
+"c": {
+"inw": "przebudowa elewacji w zakresie wykonania nowych otworów w celu montażuinstalacji wentylacyjnej w budynku szkoły podstawowej nr 378 im. Ignacego Jana Paderewskiego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Bartnicza 8",
+"dz": "146511_8 0819 123/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-X-WAB-AB.6740.64.2026.JKA"
+}
+},
+{
+"d": "2026-06-12",
+"c": {
+"inw": "przebudowa elewacji w zakresie wykonania nowych otworów w celu montażuinstalacji wentylacyjnej w budynku szkoły podstawowej nr 378 im. Ignacego Jana Paderewskiego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Bartnicza 8",
+"dz": "146511_8 0819 122",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-X-WAB-AB.6740.64.2026.JKA"
+}
+},
+{
+"d": "2026-06-12",
+"c": {
+"inw": "przebudowa elewacji w zakresie wykonania nowych otworów w celu montażuinstalacji wentylacyjnej w budynku szkoły podstawowej nr 378 im. Ignacego Jana Paderewskiego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Bartnicza 8",
+"dz": "146511_8 0819 1231",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-X-WAB-AB.6740.64.2026.JKA"
+}
+},
+{
+"d": "2026-06-02",
+"c": {
+"inw": "budowia budynku rozdzielni 110 kV oraz linii kablowych 110 kV wraz z rozbiórką części istniejącej rozdzielni napowietrznej 110 kV i niezbędną infrastrukturą techniczną na terenie stacji elektroenergetycznej 110/15 kV RPZ Bródno budowa nowego/nowych obiektów budowlanych",
+"wn": "STOEN Operator sp. Z o.o.",
+"nier": "Kowalskiego / Aleksandra",
+"dz": "146511_8 0805 12/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "7688 ; UD-X-WAB-AB.6740.61.2026.JKA"
+}
+},
+{
+"d": "2026-06-02",
+"c": {
+"inw": "budowia budynku rozdzielni 110 kV oraz linii kablowych 110 kV wraz z rozbiórką części istniejącej rozdzielni napowietrznej 110 kV i niezbędną infrastrukturą techniczną na terenie stacji elektroenergetycznej 110/15 kV RPZ Bródno budowa nowego/nowych obiektów budowlanych",
+"wn": "STOEN Operator sp. Z o.o.",
+"nier": "Kowalskiego / Aleksandra",
+"dz": "146511_8 0805 12/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "7688 ; UD-X-WAB-AB.6740.61.2026.JKA"
+}
+},
+{
+"d": "2026-06-02",
+"c": {
+"inw": "budowia budynku rozdzielni 110 kV oraz linii kablowych 110 kV wraz z rozbiórką części istniejącej rozdzielni napowietrznej 110 kV i niezbędną infrastrukturą techniczną na terenie stacji elektroenergetycznej 110/15 kV RPZ Bródno budowa nowego/nowych obiektów budowlanych",
+"wn": "STOEN Operator sp. Z o.o.",
+"nier": "Kowalskiego / Aleksandra",
+"dz": "146511_8 0805 12/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "7688 ; UD-X-WAB-AB.6740.61.2026.JKA"
+}
+},
+{
+"d": "2026-06-02",
+"c": {
+"inw": "budowia budynku rozdzielni 110 kV oraz linii kablowych 110 kV wraz z rozbiórką części istniejącej rozdzielni napowietrznej 110 kV i niezbędną infrastrukturą techniczną na terenie stacji elektroenergetycznej 110/15 kV RPZ Bródno budowa nowego/nowych obiektów budowlanych",
+"wn": "STOEN Operator sp. Z o.o.",
+"nier": "Kowalskiego / Aleksandra",
+"dz": "146511_8 0805 12/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "7688 ; UD-X-WAB-AB.6740.61.2026.JKA"
+}
+},
+{
+"d": "2026-06-02",
+"c": {
+"inw": "budowia budynku rozdzielni 110 kV oraz linii kablowych 110 kV wraz z rozbiórką części istniejącej rozdzielni napowietrznej 110 kV i niezbędną infrastrukturą techniczną na terenie stacji elektroenergetycznej 110/15 kV RPZ Bródno budowa nowego/nowych obiektów budowlanych",
+"wn": "STOEN Operator sp. Z o.o.",
+"nier": "Kowalskiego / Aleksandra",
+"dz": "146511_8 0805 12/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "7688 ; UD-X-WAB-AB.6740.61.2026.JKA"
+}
+},
+{
+"d": "2026-06-02",
+"c": {
+"inw": "budowia budynku rozdzielni 110 kV oraz linii kablowych 110 kV wraz z rozbiórką części istniejącej rozdzielni napowietrznej 110 kV i niezbędną infrastrukturą techniczną na terenie stacji elektroenergetycznej 110/15 kV RPZ Bródno budowa nowego/nowych obiektów budowlanych",
+"wn": "STOEN Operator sp. Z o.o.",
+"nier": "Kowalskiego / Aleksandra",
+"dz": "146511_8 0805 12/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "7688 ; UD-X-WAB-AB.6740.61.2026.JKA"
+}
+},
+{
+"d": "2026-06-01",
+"c": {
+"inw": "budowa wiat samochodowych (carportów) zintegrowanych z instalacją fotowoltaiczną o mocy do 50 KWP budowa nowego/nowych obiektów budowlanych",
+"wn": "Prologis Poland L Sp. z o.o.",
+"nier": "Staniewicka 5",
+"dz": "146511_8 1810 14/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "7589; UD-X-WAB-AB.6740.57.2026.JZP"
+}
+},
+{
+"d": "2026-06-01",
+"c": {
+"inw": "budowa wiat samochodowych (carportów) zintegrowanych z instalacją fotowoltaiczną o mocy do 50 KWP budowa nowego/nowych obiektów budowlanych",
+"wn": "Prologis Poland L Sp. z o.o.",
+"nier": "Staniewicka 5",
+"dz": "146511_8 1810 14/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "7589; UD-X-WAB-AB.6740.57.2026.JZP"
+}
+},
+{
+"d": "2026-06-01",
+"c": {
+"inw": "przebudowa części budynku hali produkcyjno-usługowo-magazynowej w osiach 1-4/C.2-E oraz budowa rampy przeładunkowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PDC Industrial Center 105 Sp. z o.o.",
+"nier": "Utrata 4",
+"dz": "146511_8 1114 6/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "7607; UD-X-WAB-AB.6740.58.2026.JZP"
+}
+},
+{
+"d": "2026-05-29",
+"c": {
+"inw": "budowa stacji transformatorowej, dwóch wiat nad stanowiskami do ładowania pojazdów,12 punktów ładowania pojazdów,urządzenia reklamowego (pylonu cenowego) oraz zespołu masztów flagowych wraz z infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "EKOEN Sp. z o.o.",
+"nier": "Głębocka 15",
+"dz": "146511_8 0928 31/17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "151369; UD-X-WAB-AB.6740.59.2026.JZP"
+}
+},
+{
+"d": "2026-05-27",
+"c": {
+"inw": "budowa kontenerów (5 szt.), garazu (2szt.), trybun mobilnych oraz siłowni plenerowej na terenie Arthouse Kołowa 24 budowa nowego/nowych obiektów budowlanych",
+"wn": "Miesto Stołeczne Warszawa-Dom Kultury \"Świt\" w Dzielnicy Targówek",
+"nier": "Kołowa 24",
+"dz": "146511_8 1009 2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "7331 ; UD-X-WAB-AB.6740.56.2026.GSL"
+}
+},
+{
+"d": "2026-05-20",
+"c": {
+"inw": "rozbiórka stacji bazowej telefonii komórkowej nr BT11453 Targówek Fabryczny rozbiórka istniejącego obiektu budowlanego",
+"wn": "Towerlink Poland Sp. z o.o.",
+"nier": "Przecławska 1",
+"dz": "146511_8 1110 13/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EDOR/140993 ; UD-X-WAB-AB.6741.17.2026.GSL"
+}
+},
+{
+"d": "2026-05-20",
+"c": {
+"inw": "rozbiórka stacji bazowej telefonii komórkowej nr BT11453 Targówek Fabryczny rozbiórka istniejącego obiektu budowlanego",
+"wn": "Towerlink Poland Sp. z o.o.",
+"nier": "Przecławska 1",
+"dz": "146511_8 1110 13/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EDOR/140993 ; UD-X-WAB-AB.6741.17.2026.GSL"
+}
+},
+{
+"d": "2026-05-18",
+"c": {
+"inw": "przebudowa fragmentu hali usługowo-produkcyjnej z zapleczem magazynowym i socjalno-biurowym-zmiana elewacji wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Marselan spółka z ograniczoną odpowiedzialnością spółka komandytowa",
+"nier": "Rzeczna 8",
+"dz": "146511_8 1111 54",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6889 ; UD-X-WAB-AB.6740.54.2026.GSL"
+}
+},
+{
+"d": "2026-05-15",
+"c": {
+"inw": "budowa wodnego placu zabaw wraz z kontenerem technicznym, komorą technologiczną, niezbędną infrastrukturą techniczną, małą architekturą oraz rozbiórkami istniejących nawierzchni, instalacji elektr. I urządzeń na terenie VIII Ogrodu Jordanowskiego w Warszawie-Dzielnica Targówek budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Suwalska 13",
+"dz": "146511_8 0807 33/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-X-WAB-AB.6740.53.2026.GSL"
+}
+},
+{
+"d": "2026-05-15",
+"c": {
+"inw": "budowa wodnego placu zabaw wraz z kontenerem technicznym, komorą technologiczną, niezbędną infrastrukturą techniczną, małą architekturą oraz rozbiórkami istniejących nawierzchni, instalacji elektr. I urządzeń na terenie VIII Ogrodu Jordanowskiego w Warszawie-Dzielnica Targówek budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Suwalska 13",
+"dz": "146511_8 0807 34/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-X-WAB-AB.6740.53.2026.GSL"
+}
+},
+{
+"d": "2026-05-15",
+"c": {
+"inw": "budowa wodnego placu zabaw wraz z kontenerem technicznym, komorą technologiczną, niezbędną infrastrukturą techniczną, małą architekturą oraz rozbiórkami istniejących nawierzchni, instalacji elektr. I urządzeń na terenie VIII Ogrodu Jordanowskiego w Warszawie-Dzielnica Targówek budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Suwalska 13",
+"dz": "146511_8 0807 34/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-X-WAB-AB.6740.53.2026.GSL"
+}
+},
+{
+"d": "2026-05-15",
+"c": {
+"inw": "budowa wodnego placu zabaw wraz z kontenerem technicznym, komorą technologiczną, niezbędną infrastrukturą techniczną, małą architekturą oraz rozbiórkami istniejących nawierzchni, instalacji elektr. I urządzeń na terenie VIII Ogrodu Jordanowskiego w Warszawie-Dzielnica Targówek budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Suwalska 13",
+"dz": "146511_8 0807 35/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-X-WAB-AB.6740.53.2026.GSL"
+}
+},
+{
+"d": "2026-05-15",
+"c": {
+"inw": "budowa wodnego placu zabaw wraz z kontenerem technicznym, komorą technologiczną, niezbędną infrastrukturą techniczną, małą architekturą oraz rozbiórkami istniejących nawierzchni, instalacji elektr. I urządzeń na terenie VIII Ogrodu Jordanowskiego w Warszawie-Dzielnica Targówek budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Suwalska 13",
+"dz": "146511_8 0807 35/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-X-WAB-AB.6740.53.2026.GSL"
+}
+},
+{
+"d": "2026-05-15",
+"c": {
+"inw": "budowa wodnego placu zabaw wraz z kontenerem technicznym, komorą technologiczną, niezbędną infrastrukturą techniczną, małą architekturą oraz rozbiórkami istniejących nawierzchni, instalacji elektr. I urządzeń na terenie VIII Ogrodu Jordanowskiego w Warszawie-Dzielnica Targówek budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Suwalska 13",
+"dz": "146511_8 0807 35/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-X-WAB-AB.6740.53.2026.GSL"
+}
+},
+{
+"d": "2026-05-15",
+"c": {
+"inw": "budowa wodnego placu zabaw wraz z kontenerem technicznym, komorą technologiczną, niezbędną infrastrukturą techniczną, małą architekturą oraz rozbiórkami istniejących nawierzchni, instalacji elektr. I urządzeń na terenie VIII Ogrodu Jordanowskiego w Warszawie-Dzielnica Targówek budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Suwalska 13",
+"dz": "146511_8 0807 35/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-X-WAB-AB.6740.53.2026.GSL"
+}
+},
+{
+"d": "2026-05-15",
+"c": {
+"inw": "budowa wodnego placu zabaw wraz z kontenerem technicznym, komorą technologiczną, niezbędną infrastrukturą techniczną, małą architekturą oraz rozbiórkami istniejących nawierzchni, instalacji elektr. I urządzeń na terenie VIII Ogrodu Jordanowskiego w Warszawie-Dzielnica Targówek budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Suwalska 13",
+"dz": "146511_8 0807 35/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-X-WAB-AB.6740.53.2026.GSL"
+}
+},
+{
+"d": "2026-05-15",
+"c": {
+"inw": "budowa wodnego placu zabaw wraz z kontenerem technicznym, komorą technologiczną, niezbędną infrastrukturą techniczną, małą architekturą oraz rozbiórkami istniejących nawierzchni, instalacji elektr. I urządzeń na terenie VIII Ogrodu Jordanowskiego w Warszawie-Dzielnica Targówek budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Suwalska 13",
+"dz": "146511_8 0807 35/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-X-WAB-AB.6740.53.2026.GSL"
+}
+},
+{
+"d": "2026-05-15",
+"c": {
+"inw": "budowa wodnego placu zabaw wraz z kontenerem technicznym, komorą technologiczną, niezbędną infrastrukturą techniczną, małą architekturą oraz rozbiórkami istniejących nawierzchni, instalacji elektr. I urządzeń na terenie VIII Ogrodu Jordanowskiego w Warszawie-Dzielnica Targówek budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Suwalska 13",
+"dz": "146511_8 0807 36/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-X-WAB-AB.6740.53.2026.GSL"
+}
+},
+{
+"d": "2026-05-15",
+"c": {
+"inw": "budowa wodnego placu zabaw wraz z kontenerem technicznym, komorą technologiczną, niezbędną infrastrukturą techniczną, małą architekturą oraz rozbiórkami istniejących nawierzchni, instalacji elektr. I urządzeń na terenie VIII Ogrodu Jordanowskiego w Warszawie-Dzielnica Targówek budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Suwalska 13",
+"dz": "146511_8 0807 43/44",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-X-WAB-AB.6740.53.2026.GSL"
+}
+},
+{
+"d": "2026-05-13",
+"c": {
+"inw": "budowa podświetlanego trójstronnego słupa informacyjno-reklamowego, wyposazonego w instalację elektryczną, nietrwale związaną z gruntem budowa nowego/nowych obiektów budowlanych",
+"wn": "Bauer Media Outdoor Poland sp. Z o.o.",
+"nier": "Birżańska 1",
+"dz": "146511_8 1121 8/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EDOR/133911 ; UD-X-WAB-AB.6740.50.2026.GSL"
+}
+},
+{
+"d": "2026-05-11",
+"c": {
+"inw": "rozbiórka budynku handlowego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Bukowiecka 6",
+"dz": "146511_8 0926 12/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6525 ; UD-X-WAB-AB.6741.15.2026.GSL"
+}
+},
+{
+"d": "2026-05-05",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym wraz z usługami w parterze, z przyłączami oraz niezbędną infrastrukturą techniczną-zmiana pozwolenia na budowę budowa nowego/nowych obiektów budowlanych",
+"wn": "Malory Investments sp. Z o.o. sp.k.",
+"nier": "",
+"dz": "146511_8 1012 91",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "6264 ; UD-X-WAB-AB.6740.47.2026.BGO"
+}
+},
+{
+"d": "2026-05-05",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym wraz z usługami w parterze, z przyłączami oraz niezbędną infrastrukturą techniczną-zmiana pozwolenia na budowę budowa nowego/nowych obiektów budowlanych",
+"wn": "Malory Investments sp. Z o.o. sp.k.",
+"nier": "",
+"dz": "146511_8 1012 88",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "6264 ; UD-X-WAB-AB.6740.47.2026.BGO"
+}
+},
+{
+"d": "2026-05-05",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym wraz z usługami w parterze, z przyłączami oraz niezbędną infrastrukturą techniczną-zmiana pozwolenia na budowę budowa nowego/nowych obiektów budowlanych",
+"wn": "Malory Investments sp. Z o.o. sp.k.",
+"nier": "",
+"dz": "146511_8 1012 85",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "6264 ; UD-X-WAB-AB.6740.47.2026.BGO"
+}
+},
+{
+"d": "2026-05-05",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym wraz z usługami w parterze, z przyłączami oraz niezbędną infrastrukturą techniczną-zmiana pozwolenia na budowę budowa nowego/nowych obiektów budowlanych",
+"wn": "Malory Investments sp. Z o.o. sp.k.",
+"nier": "",
+"dz": "146511_8 1012 84",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "6264 ; UD-X-WAB-AB.6740.47.2026.BGO"
+}
+},
+{
+"d": "2026-05-05",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym wraz z usługami w parterze, z przyłączami oraz niezbędną infrastrukturą techniczną-zmiana pozwolenia na budowę budowa nowego/nowych obiektów budowlanych",
+"wn": "Malory Investments sp. Z o.o. sp.k.",
+"nier": "",
+"dz": "146511_8 1012 83",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "6264 ; UD-X-WAB-AB.6740.47.2026.BGO"
+}
+},
+{
+"d": "2026-04-30",
+"c": {
+"inw": "budynek mieszkalny rozbiórka w całości rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Przewoźników 18",
+"dz": "146511_8 0916 19",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "6153 ; UD-X-WAB-AB.6741.13.2026.JZP"
+}
+},
+{
+"d": "2026-04-30",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego w zabudowie bliźniaczej wraz z zagospodarowaniem terenu i przebudową instalacji gazowej oraz rozbiórką istniejącego budynku mieszkalnego jednorodzinnego w zabudowie bliźniaczej-ponownie budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Gilarska 40",
+"dz": "156511_8 0923 191",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "11670 ; UD-X-WAB.6740.112.2025.GSL-ponownie"
+}
+},
+{
+"d": "2026-04-29",
+"c": {
+"inw": "rozbudowa budynku mieszkalnego wielorodzinnego w zakresie rozbudowy balkonu w lokalu nr 4 wraz z przebudową przegrody zewnętrznej w zakresie otworu okiennego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Zaciszańska 31",
+"dz": "146511_8 0906 3/28",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6042 ; UD-X-WAB-AB.6740.44.2026.BGO"
+}
+},
+{
+"d": "2026-04-14",
+"c": {
+"inw": "rozbiórka budynków hal magazynowych, budynków biurowych i przemysłowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "Skanska Residental Development Poland sp. Z o.o.",
+"nier": "Bieżuńska 1D",
+"dz": "146511_8 1007 49/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "5250 ; UD-X-WAB-AB.6741.12.2026.JKA"
+}
+},
+{
+"d": "2026-04-14",
+"c": {
+"inw": "rozbiórka budynków hal magazynowych, budynków biurowych i przemysłowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "Skanska Residental Development Poland sp. Z o.o.",
+"nier": "Bieżuńska 1D",
+"dz": "146511_8 1007 51/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "5250 ; UD-X-WAB-AB.6741.12.2026.JKA"
+}
+},
+{
+"d": "2026-04-14",
+"c": {
+"inw": "rozbiórka budynków hal magazynowych, budynków biurowych i przemysłowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "Skanska Residental Development Poland sp. Z o.o.",
+"nier": "Bieżuńska 1D",
+"dz": "146511_8 1007 43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "5250 ; UD-X-WAB-AB.6741.12.2026.JKA"
+}
+},
+{
+"d": "2026-04-11",
+"c": {
+"inw": "dwa budynki mieszkalne jednorodzinne dwulokalowe w zabudowie bliźniaczej wraz z niezbędnymi urządzeniami infrastruktury technicznej budowa nowego/nowych obiektów budowlanych",
+"wn": "Wybornahouse Sp. z o.o.",
+"nier": "Wyborna 15",
+"dz": "146511_8 0922 92",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "EDOR/103096 ; UD-X-WAB-AB.6740.37.2026.GSL"
+}
+},
+{
+"d": "2026-04-11",
+"c": {
+"inw": "dwa budynki mieszkalne jednorodzinne dwulokalowe w zabudowie bliźniaczej wraz z niezbędnymi urządzeniami infrastruktury technicznej budowa nowego/nowych obiektów budowlanych",
+"wn": "Wybornahouse Sp. z o.o.",
+"nier": "Wyborna 15",
+"dz": "146511_8 0922 92",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "EDOR/103096 ; UD-X-WAB-AB.6740.37.2026.GSL"
+}
+},
+{
+"d": "2026-04-09",
+"c": {
+"inw": "rozbiórka garażu jednostanowiskowego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Chojnowska 9",
+"dz": "146511_8 0924 9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "5029 ; UD-X-WAB-AB.6741.10.2026.BGO"
+}
+},
+{
+"d": "2026-03-27",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego (nr1) i budynków gospodarczych (nr2) i (nr3) rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Spójni 16",
+"dz": "146511_8 0920 83",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "4371 ; UD-X-WAB-AB.6741.9.2026.AWA"
+}
+},
+{
+"d": "2026-03-26",
+"c": {
+"inw": "remont i docieplenie elewacji, remont wejścia do budynku, loggii, balkonów oraz dachu wraz z robotami towarzyszącymi wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "RSM  \"Praga\"",
+"nier": "Goławicka 1",
+"dz": "146511_8 1010 43/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "4334 ; UD-X-WAB-AB.6740.32.2026.GSL"
+}
+},
+{
+"d": "2026-03-20",
+"c": {
+"inw": "rozbiórka budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Kanałowa 40",
+"dz": "146511_8 0913 53",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EDOR/81580 ; UD-X-WAB-AB.6741.8.2026.ACU"
+}
+},
+{
+"d": "2026-03-20",
+"c": {
+"inw": "rozbiórka budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Kanałowa 40",
+"dz": "146511_8 0913 53",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EDOR/81580 ; UD-X-WAB-AB.6741.8.2026.ACU"
+}
+},
+{
+"d": "2026-03-18",
+"c": {
+"inw": "roboty budowlane polegające na wstawieniu dodatkowego okna w elewacji zachodniej (frontowej) między osiami 4 a 6 - zmiana w elewacji budynku magazynowego z częścią biurową IKEA wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "IKEA Retail sp. Z o.o.",
+"nier": "Malborska 53",
+"dz": "146511_8 0902 6/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "3842 ; UD-X-WAB-AB.6740.31.2026.GSL"
+}
+},
+{
+"d": "2026-03-16",
+"c": {
+"inw": "instalacja antenowa konstrukcji wsporczej typu stubtower 18 wraz z instalacją radiokomunikacyjną P4 nr WAR2396A oraz niezbędną infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "P4 sp. z o.o.",
+"nier": "Rzepichy 1",
+"dz": "146511_8 0803 37",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EDOR/76458 ; UD-X-WAB-AB.6740.30.2026.JKA"
+}
+},
+{
+"d": "2026-03-16",
+"c": {
+"inw": "instalacja antenowa konstrukcji wsporczej typu stubtower 18 wraz z instalacją radiokomunikacyjną P4 nr WAR2396A oraz niezbędną infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "P4 sp. z o.o.",
+"nier": "Rzepichy 1",
+"dz": "146511_8 0803 37",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EDOR/76458 ; UD-X-WAB-AB.6740.30.2026.JKA"
+}
+},
+{
+"d": "2026-03-13",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego parterowego o konstrukcji mieszanej, częściowo o konstrukcji drewnianej a częściowo murowanej z cegły rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Motycka 10",
+"dz": "146511_8 1004 75",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "3564 ; UD-X-WAB-AB.6741.7.2026.JKA"
+}
+},
+{
+"d": "2026-03-12",
+"c": {
+"inw": "Rozbudowa budynku mieszkalnego wielorodzinnego-rozbudowa balkonu w lokalu nr 1 rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Zaciszańska 16",
+"dz": "146511_8 0906 3/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "3523 ; UD-X-WAB-AB.6740.29.2026.BGO"
+}
+},
+{
+"d": "2026-03-06",
+"c": {
+"inw": "montaż szyldu o nazwie TEATR RAMPA na Targówku na fasadzie budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Teatr Rampa na Targówku",
+"nier": "Kołowa 20",
+"dz": "146511_8 1009 7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "3220 ; UD-X-WAB-AB.6740.28.2026.GSL"
+}
+},
+{
+"d": "2026-03-02",
+"c": {
+"inw": "rozbudowa budynku mieszkalnego wielorodzinnego w zakresie rozbudowy balkonu w lokalu 2 rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Zaciszańska 33",
+"dz": "146511_8 0906 3/27",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "2990 ; UD-X-WAB-AB.6740.24.2026.BGO"
+}
+},
+{
+"d": "2026-03-02",
+"c": {
+"inw": "remont elewacji i dachu budynku wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Tykocińska 38",
+"nier": "Tykocińska 38",
+"dz": "146511_8 1014 65",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "2980 ; UD-X-WAB-AB.6740.27.2026.ACU"
+}
+},
+{
+"d": "2026-03-02",
+"c": {
+"inw": "rozbudowa budynku mieszkalnego wielorodzinnego w zakresie rozbudowy balkonu w lokalu 1 rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Zaciszańska 33",
+"dz": "146511_8 0906 3/27",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "2988 ; UD-X-WAB-AB.6740.22.2026.BGO"
+}
+},
+{
+"d": "2026-03-02",
+"c": {
+"inw": "rozbudowa budynku mieszkalnego wielorodzinnego w zakresie rozbudowy balkonu w lokalu 3 rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Zaciszańska 33",
+"dz": "146511_8 0906 3/27",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "2991 ; UD-X-WAB-AB.6740.25.2026.BGO"
+}
+},
+{
+"d": "2026-03-02",
+"c": {
+"inw": "remont elewacji i dachu budynku wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Tykocińska 36",
+"nier": "Tykocińska 36",
+"dz": "146511_8 1014 66",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "2979 ; UD-X-WAB-AB.6740.26.2026.ACU"
+}
+},
+{
+"d": "2026-03-02",
+"c": {
+"inw": "rozbudowa budynku mieszkalnego wielorodzinnego w zakresie rozbudowy balkonu w lokalu 4 rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Zaciszańska 33",
+"dz": "146511_8 0906 3/27",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "2989 ; UD-X-WAB-AB.6740.23.2026.BGO"
+}
+},
+{
+"d": "2026-02-27",
+"c": {
+"inw": "zmiana sposobu użytkowania części budynku-pomieszczeń socjalno-gospodarczych w suterenie budynku zespołu szkół im. Piotra Wysockiego na pomieszczenia biurowe wraz z ich remontem wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Dzielnicowe Biuro Finansów Oświaty Targówek m.st. Warszawy",
+"nier": "Odrowąża 19 / św. Jacka",
+"dz": "146511_8 0821 66",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "2889 ; UD-X-WAB-AB.6740.20.2026.BGO"
+}
+},
+{
+"d": "2026-02-25",
+"c": {
+"inw": "rozbiórka budynków komórek lokatorskich i altan śmietnikowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "Zakład Gospodarowania Nieruchomościami w Dzielnicy Targówek",
+"nier": "Święciańska",
+"dz": "146511_8 1014 56",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "2790 ; UD-X-WAB-AB.6741.5.2026.ACU"
+}
+},
+{
+"d": "2026-02-25",
+"c": {
+"inw": "rozbiórka budynków komórek lokatorskich i altan śmietnikowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "Zakład Gospodarowania Nieruchomościami w Dzielnicy Targówek",
+"nier": "Święciańska",
+"dz": "146511_8 1014 49",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "2790 ; UD-X-WAB-AB.6741.5.2026.ACU"
+}
+},
+{
+"d": "2026-02-25",
+"c": {
+"inw": "rozbiórka budynków komórek lokatorskich i altan śmietnikowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "Zakład Gospodarowania Nieruchomościami w Dzielnicy Targówek",
+"nier": "Święciańska",
+"dz": "146511_8 1014 46",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "2790 ; UD-X-WAB-AB.6741.5.2026.ACU"
+}
+},
+{
+"d": "2026-02-25",
+"c": {
+"inw": "rozbiórka budynków komórek lokatorskich i altan śmietnikowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "Zakład Gospodarowania Nieruchomościami w Dzielnicy Targówek",
+"nier": "Święciańska",
+"dz": "146511_8 1014 42",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "2790 ; UD-X-WAB-AB.6741.5.2026.ACU"
+}
+},
+{
+"d": "2026-02-20",
+"c": {
+"inw": "przebudowa elewacji w zakresie zamurowania wybranych otworów okiennych i wykonania nowych otworów oraz wykucie otworu w ścianie wewnętrznej na drzwi w pomieszczeniu siłowni wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Żuromińska 4",
+"dz": "146511_8 0815 61",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-X-WAB-AB.6740.19.2026.GSL"
+}
+},
+{
+"d": "2026-02-18",
+"c": {
+"inw": "rozbudowa i przebudowa budynku gospodarczego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Łodygowa 20a",
+"dz": "146511_8 0917 2/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "2432 ; UD-X-WAB-AB.6740.16.2026.GSL"
+}
+},
+{
+"d": "2026-02-12",
+"c": {
+"inw": "budowa budynku garażu wielostanowiskowego zamkniętego wraz z usługami,przyłączami wodociągowym i teletechnicznym,zagospodarowaniem terenu, małą architekturą - ponownie budowa nowego/nowych obiektów budowlanych",
+"wn": "Robotnicza Spółdzielnia Mieszkaniowa \"PRAGA\"",
+"nier": "Ossowskiego / Michała",
+"dz": "146511_8 1010 44/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "843 ; UD-X-WAB.6740.9.2025.JKA - ponownie"
+}
+},
+{
+"d": "2026-02-12",
+"c": {
+"inw": "budowa budynku garażu wielostanowiskowego zamkniętego wraz z usługami,przyłączami wodociągowym i teletechnicznym,zagospodarowaniem terenu, małą architekturą - ponownie budowa nowego/nowych obiektów budowlanych",
+"wn": "Robotnicza Spółdzielnia Mieszkaniowa \"PRAGA\"",
+"nier": "Ossowskiego / Michała",
+"dz": "146511_8 1010 24/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "843 ; UD-X-WAB.6740.9.2025.JKA - ponownie"
+}
+},
+{
+"d": "2026-02-06",
+"c": {
+"inw": "budynek biurowo-usługowy wraz z zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "Mechanix sp. Z o.o.",
+"nier": "Łodygowa",
+"dz": "146511_8 0910 26/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "1628 ; UD-X-WAB-AB.6740.14.2026.JKA"
+}
+},
+{
+"d": "2026-02-06",
+"c": {
+"inw": "budynek biurowo-usługowy wraz z zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "Mechanix sp. Z o.o.",
+"nier": "Łodygowa",
+"dz": "146511_8 0910 26/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "1628 ; UD-X-WAB-AB.6740.14.2026.JKA"
+}
+},
+{
+"d": "2026-02-06",
+"c": {
+"inw": "budynek biurowo-usługowy wraz z zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "Mechanix sp. Z o.o.",
+"nier": "Łodygowa",
+"dz": "146511_8 0910 26/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "1628 ; UD-X-WAB-AB.6740.14.2026.JKA"
+}
+},
+{
+"d": "2026-02-06",
+"c": {
+"inw": "zmiana pozwolenia na budowę w zakresie instalowania wewnętrznej instalacji gazu rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Dolina Spokoju sp. Z o.o.",
+"nier": "6",
+"dz": "146511_8 1113 32",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "1816 ; UD-X-WAB-AB.6740.13.2026.BGO"
+}
+},
+{
+"d": "2026-02-04",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego z częścią garażową i gospodarczą oraz budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "FIGARA 2 SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+"nier": "Figara 2",
+"dz": "146511_8 0912 31/31",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "KO-O/6091 ; UD-X-WAB-AB.6741.4.2026.GSL"
+}
+},
+{
+"d": "2026-02-04",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego z częścią garażową i gospodarczą oraz budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "FIGARA 2 SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+"nier": "Figara 2",
+"dz": "146511_8 0912 31/31",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "KO-O/6091 ; UD-X-WAB-AB.6741.4.2026.GSL"
+}
+},
+{
+"d": "2026-01-30",
+"c": {
+"inw": "rozbudowa i przebudowa domu kultury \"Zacisze\"-zmiana pozwolenia wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Blokowa 1",
+"dz": "146511_8 0921 3/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-X-WAB-AB.6740.9.2026.JKA"
+}
+},
+{
+"d": "2026-01-30",
+"c": {
+"inw": "rozbudowa i przebudowa domu kultury \"Zacisze\"-zmiana pozwolenia wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Blokowa 1",
+"dz": "146511_8 0921 3/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-X-WAB-AB.6740.9.2026.JKA"
+}
+},
+{
+"d": "2026-01-30",
+"c": {
+"inw": "budowa odcinka drogi gminnej oznaczonej w mpzp symbolem 106KD-L budowa nowego/nowych obiektów budowlanych",
+"wn": "Prezydent m.st. Warszawy",
+"nier": "",
+"dz": "146511_8 0930 1/75",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-X-WAB-AB.6740.8.2026.ACU"
+}
+},
+{
+"d": "2026-01-30",
+"c": {
+"inw": "budowa odcinka drogi gminnej oznaczonej w mpzp symbolem 106KD-L budowa nowego/nowych obiektów budowlanych",
+"wn": "Prezydent m.st. Warszawy",
+"nier": "",
+"dz": "146511_8 0930 1/73",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-X-WAB-AB.6740.8.2026.ACU"
+}
+},
+{
+"d": "2026-01-30",
+"c": {
+"inw": "budowa odcinka drogi gminnej oznaczonej w mpzp symbolem 106KD-L budowa nowego/nowych obiektów budowlanych",
+"wn": "Prezydent m.st. Warszawy",
+"nier": "",
+"dz": "146511_8 0930 1/57",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-X-WAB-AB.6740.8.2026.ACU"
+}
+},
+{
+"d": "2026-01-30",
+"c": {
+"inw": "budowa odcinka drogi gminnej oznaczonej w mpzp symbolem 106KD-L budowa nowego/nowych obiektów budowlanych",
+"wn": "Prezydent m.st. Warszawy",
+"nier": "",
+"dz": "146511_8 0930 1/35",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-X-WAB-AB.6740.8.2026.ACU"
+}
+},
+{
+"d": "2026-01-30",
+"c": {
+"inw": "budowa odcinka drogi gminnej oznaczonej w mpzp symbolem 106KD-L budowa nowego/nowych obiektów budowlanych",
+"wn": "Prezydent m.st. Warszawy",
+"nier": "",
+"dz": "146511_8 0930 1/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-X-WAB-AB.6740.8.2026.ACU"
+}
+},
+{
+"d": "2026-01-16",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego w zabudowie bliźniaczej i garażu wraz z urządzeniami budowlanymi i zagospodarowaniem terenu oraz rozbiórka istniejącego budynku mieszkalnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "57",
+"dz": "146511_8 0908 101",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "625 ; UD-X-WAB-AB.6740.4.2026.JKA"
+}
+},
+{
+"d": "2026-01-16",
+"c": {
+"inw": "przebudowa lokalu mieszkalnego nr 17 w budynku mieszkalnym wielorodzinnym w zakresie rozebrania ściany wewnętrznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Korzona 113 / Tadeusza",
+"dz": "146511_8 1002 47/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EDOR/12308 ; UD-X-WAB-AB.6740.6.2026.GSL"
+}
+},
+{
+"d": "2026-01-16",
+"c": {
+"inw": "przebudowa lokalu mieszkalnego nr 17 w budynku mieszkalnym wielorodzinnym w zakresie rozebrania ściany wewnętrznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Korzona 113 / Tadeusza",
+"dz": "146511_8 1002 47/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EDOR/12308 ; UD-X-WAB-AB.6740.6.2026.GSL"
+}
+},
+{
+"d": "2026-01-14",
+"c": {
+"inw": "budowa obiektu małej architektury w miejscu publicznym budowa nowego/nowych obiektów budowlanych",
+"wn": "Prezydent m.st.Warszawy",
+"nier": "Tokarza / Wacława",
+"dz": "146511_8 0805 9/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-X-WAB-AB.6740.5.2026.ACU"
+}
+}
+]
+},
+{
+"id": "dec_pnb",
+"name": "Decyzje o pozwoleniu na budowę",
+"short": "Decyzje PnB",
+"desc": "Decyzje o pozwoleniu na budowę wydane przez organ architektoniczno-budowlany dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer decyzji",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2026-11-06",
+"c": {
+"inw": "budowa wiat samochodowych (carportów) zintegrowanych z instalacją fotowoltaiczną o mocy do 50 KWP budowa nowego/nowych obiektów budowlanych",
+"wn": "Prologis Poland L Sp. z o.o.",
+"nier": "Staniewicka 5",
+"dz": "146511_8 1810 14/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "102/TRG/PB/2026"
+}
+},
+{
+"d": "2026-11-06",
+"c": {
+"inw": "budowa wiat samochodowych (carportów) zintegrowanych z instalacją fotowoltaiczną o mocy do 50 KWP budowa nowego/nowych obiektów budowlanych",
+"wn": "Prologis Poland L Sp. z o.o.",
+"nier": "Staniewicka 5",
+"dz": "146511_8 1810 14/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "102/TRG/PB/2026"
+}
+},
+{
+"d": "2026-11-04",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego z zagospodarowaniem terenu oraz rozbiórka istniejącego budynku mieszkalnego jednorodzinnego z garażem - zamienny w zakresie instalacji gazowej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146511_8 0923 124",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "101/TRG/PB/2026/Z"
+}
+},
+{
+"d": "2026-11-04",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym, zagospodarowaniem terenu i parkingiem naziemnym raz niezbędną infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "K2 Residential spółka z ograniczoną odpowiedzialnością",
+"nier": "",
+"dz": "146511_8 0821 76/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "100/TRG/PB/2026"
+}
+},
+{
+"d": "2026-11-04",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym, zagospodarowaniem terenu i parkingiem naziemnym raz niezbędną infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "K2 Residential spółka z ograniczoną odpowiedzialnością",
+"nier": "",
+"dz": "146511_8 0821 76/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "100/TRG/PB/2026"
+}
+},
+{
+"d": "2026-10-21",
+"c": {
+"inw": "przebudowa części budynku hali produkcyjno-usługowo-magazynowej w osiach 1-4/C.2-E oraz budowa rampy przeładunkowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PDC Industrial Center 105 Sp. z o.o.",
+"nier": "Utrata 4",
+"dz": "146511_8 1114 6/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "96/TRG/PB/2026"
+}
+},
+{
+"d": "2026-10-21",
+"c": {
+"inw": "budowa wolnostojącego nośnika informacyjno-reklamowego budowa nowego/nowych obiektów budowlanych",
+"wn": "Bauer Media Outdoor Poland sp. Z o.o.",
+"nier": "Rembielińska",
+"dz": "146511_8 0807 2/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "95/TRG/PB/2026"
+}
+},
+{
+"d": "2026-10-20",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego w zabudowie bliźniaczej i budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Błotna 7",
+"dz": "146511_8 0919 199",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "19/TRG/PB/2026/R"
+}
+},
+{
+"d": "2026-10-15",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych jednorodzinnych dwulokalowych z poddaszem użytkowym w zabudowie bliźniaczej-ponownie budowa nowego/nowych obiektów budowlanych",
+"wn": "HOUSEIN SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+"nier": "Perłowa 3",
+"dz": "146511_8 0917 11",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "92/TRG/PB/2026"
+}
+},
+{
+"d": "2026-10-15",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych jednorodzinnych dwulokalowych z poddaszem użytkowym w zabudowie bliźniaczej-ponownie budowa nowego/nowych obiektów budowlanych",
+"wn": "HOUSEIN SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+"nier": "Perłowa 3",
+"dz": "146511_8 0917 11",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "92/TRG/PB/2026"
+}
+},
+{
+"d": "2026-10-12",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Bratka 3",
+"dz": "146511_8 0920 15/8",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "18/TRG/PB/2026/R"
+}
+},
+{
+"d": "2026-10-12",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Bratka 3",
+"dz": "146511_8 0920 15/4",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "18/TRG/PB/2026/R"
+}
+},
+{
+"d": "2026-09-30",
+"c": {
+"inw": "budowa wewnętrznej instalacji gazowej budynku mieszkalnego jednorodzinnego wraz z odcinkiem instalacji poprowadzonym w ziemi wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Cecylii 9 / św.",
+"dz": "146511_8 1008 92",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "90/TRG/PB/2026"
+}
+},
+{
+"d": "2026-09-17",
+"c": {
+"inw": "budowa przekrycia membranowego przeciwsłonecznego na tarasie istniejącego budynku zaplecza sportowego na terenie Arthouse Lołowa 24 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dom Kultury \"Świt\"",
+"nier": "Kołowa 24",
+"dz": "146511_8 1009 2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "88/TRG/PB/2026"
+}
+},
+{
+"d": "2026-09-11",
+"c": {
+"inw": "remont elewacji i dachu budynku wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Tykocińska 38",
+"nier": "Tykocińska 38",
+"dz": "146511_8 1014 65",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "86/TRG/PB/2026"
+}
+},
+{
+"d": "2026-09-11",
+"c": {
+"inw": "remont elewacji i dachu budynku wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Tykocińska 36",
+"nier": "Tykocińska 36",
+"dz": "146511_8 1014 66",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "87/TRG/PB/2026"
+}
+},
+{
+"d": "2026-09-10",
+"c": {
+"inw": "przebudowa dwóch placów zabaw oraz rozbiórka (demontaż) istniejących obiektów i urządzeń placów zabaw wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zakład Gospodarowania Nieruchomościami w Dzielnicy Targówek",
+"nier": "Węgrowska",
+"dz": "146511_8 1013 4/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "84/TRG/PB/2026"
+}
+},
+{
+"d": "2026-09-08",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego i budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Przewoźników 3",
+"dz": "146511_8 0916 110",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "17/TRG/PB/2026/R"
+}
+},
+{
+"d": "2026-09-08",
+"c": {
+"inw": "budowa podświetlanego trójstronnego słupa informacyjno-reklamowego, wyposazonego w instalację elektryczną, nietrwale związaną z gruntem budowa nowego/nowych obiektów budowlanych",
+"wn": "Bauer Media Outdoor Poland sp. Z o.o.",
+"nier": "Birżańska 1",
+"dz": "146511_8 1121 8/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "82/TRG/PB/2026"
+}
+},
+{
+"d": "2026-09-07",
+"c": {
+"inw": "budowia budynku rozdzielni 110 kV oraz linii kablowych 110 kV wraz z rozbiórką części istniejącej rozdzielni napowietrznej 110 kV i niezbędną infrastrukturą techniczną na terenie stacji elektroenergetycznej 110/15 kV RPZ Bródno budowa nowego/nowych obiektów budowlanych",
+"wn": "STOEN Operator sp. Z o.o.",
+"nier": "Kowalskiego / Aleksandra",
+"dz": "146511_8 0805 12/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "81/TRG/PB/2026"
+}
+},
+{
+"d": "2026-09-07",
+"c": {
+"inw": "budowia budynku rozdzielni 110 kV oraz linii kablowych 110 kV wraz z rozbiórką części istniejącej rozdzielni napowietrznej 110 kV i niezbędną infrastrukturą techniczną na terenie stacji elektroenergetycznej 110/15 kV RPZ Bródno budowa nowego/nowych obiektów budowlanych",
+"wn": "STOEN Operator sp. Z o.o.",
+"nier": "Kowalskiego / Aleksandra",
+"dz": "146511_8 0805 12/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "81/TRG/PB/2026"
+}
+},
+{
+"d": "2026-09-07",
+"c": {
+"inw": "budowia budynku rozdzielni 110 kV oraz linii kablowych 110 kV wraz z rozbiórką części istniejącej rozdzielni napowietrznej 110 kV i niezbędną infrastrukturą techniczną na terenie stacji elektroenergetycznej 110/15 kV RPZ Bródno budowa nowego/nowych obiektów budowlanych",
+"wn": "STOEN Operator sp. Z o.o.",
+"nier": "Kowalskiego / Aleksandra",
+"dz": "146511_8 0805 12/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "81/TRG/PB/2026"
+}
+},
+{
+"d": "2026-09-07",
+"c": {
+"inw": "budowia budynku rozdzielni 110 kV oraz linii kablowych 110 kV wraz z rozbiórką części istniejącej rozdzielni napowietrznej 110 kV i niezbędną infrastrukturą techniczną na terenie stacji elektroenergetycznej 110/15 kV RPZ Bródno budowa nowego/nowych obiektów budowlanych",
+"wn": "STOEN Operator sp. Z o.o.",
+"nier": "Kowalskiego / Aleksandra",
+"dz": "146511_8 0805 12/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "81/TRG/PB/2026"
+}
+},
+{
+"d": "2026-09-07",
+"c": {
+"inw": "budowia budynku rozdzielni 110 kV oraz linii kablowych 110 kV wraz z rozbiórką części istniejącej rozdzielni napowietrznej 110 kV i niezbędną infrastrukturą techniczną na terenie stacji elektroenergetycznej 110/15 kV RPZ Bródno budowa nowego/nowych obiektów budowlanych",
+"wn": "STOEN Operator sp. Z o.o.",
+"nier": "Kowalskiego / Aleksandra",
+"dz": "146511_8 0805 12/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "81/TRG/PB/2026"
+}
+},
+{
+"d": "2026-09-07",
+"c": {
+"inw": "budowia budynku rozdzielni 110 kV oraz linii kablowych 110 kV wraz z rozbiórką części istniejącej rozdzielni napowietrznej 110 kV i niezbędną infrastrukturą techniczną na terenie stacji elektroenergetycznej 110/15 kV RPZ Bródno budowa nowego/nowych obiektów budowlanych",
+"wn": "STOEN Operator sp. Z o.o.",
+"nier": "Kowalskiego / Aleksandra",
+"dz": "146511_8 0805 12/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "81/TRG/PB/2026"
+}
+},
+{
+"d": "2026-09-02",
+"c": {
+"inw": "budynek mieszkalny rozbiórka w całości rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Przewoźników 18",
+"dz": "146511_8 0916 19",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "15/TRG/PB/2026/R"
+}
+},
+{
+"d": "2026-09-02",
+"c": {
+"inw": "rozbiórka budynku handlowego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Bukowiecka 6",
+"dz": "146511_8 0926 12/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "16/TRG/PB/2026/R"
+}
+},
+{
+"d": "2026-08-28",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym wraz z usługami w parterze, z przyłączami oraz niezbędną infrastrukturą techniczną-zmiana pozwolenia na budowę budowa nowego/nowych obiektów budowlanych",
+"wn": "Malory Investments sp. Z o.o. sp.k.",
+"nier": "",
+"dz": "146511_8 1012 91",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "79/TRG/PB/2026/Z"
+}
+},
+{
+"d": "2026-08-28",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym wraz z usługami w parterze, z przyłączami oraz niezbędną infrastrukturą techniczną-zmiana pozwolenia na budowę budowa nowego/nowych obiektów budowlanych",
+"wn": "Malory Investments sp. Z o.o. sp.k.",
+"nier": "",
+"dz": "146511_8 1012 88",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "79/TRG/PB/2026/Z"
+}
+},
+{
+"d": "2026-08-28",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym wraz z usługami w parterze, z przyłączami oraz niezbędną infrastrukturą techniczną-zmiana pozwolenia na budowę budowa nowego/nowych obiektów budowlanych",
+"wn": "Malory Investments sp. Z o.o. sp.k.",
+"nier": "",
+"dz": "146511_8 1012 85",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "79/TRG/PB/2026/Z"
+}
+},
+{
+"d": "2026-08-28",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym wraz z usługami w parterze, z przyłączami oraz niezbędną infrastrukturą techniczną-zmiana pozwolenia na budowę budowa nowego/nowych obiektów budowlanych",
+"wn": "Malory Investments sp. Z o.o. sp.k.",
+"nier": "",
+"dz": "146511_8 1012 84",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "79/TRG/PB/2026/Z"
+}
+},
+{
+"d": "2026-08-28",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym wraz z usługami w parterze, z przyłączami oraz niezbędną infrastrukturą techniczną-zmiana pozwolenia na budowę budowa nowego/nowych obiektów budowlanych",
+"wn": "Malory Investments sp. Z o.o. sp.k.",
+"nier": "",
+"dz": "146511_8 1012 83",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "79/TRG/PB/2026/Z"
+}
+},
+{
+"d": "2026-08-28",
+"c": {
+"inw": "dwa budynki mieszkalne jednorodzinne dwulokalowe w zabudowie bliźniaczej wraz z niezbędnymi urządzeniami infrastruktury technicznej budowa nowego/nowych obiektów budowlanych",
+"wn": "Wybornahouse Sp. z o.o.",
+"nier": "Wyborna 15",
+"dz": "146511_8 0922 92",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "80/TRG/PB/2026"
+}
+},
+{
+"d": "2026-08-28",
+"c": {
+"inw": "dwa budynki mieszkalne jednorodzinne dwulokalowe w zabudowie bliźniaczej wraz z niezbędnymi urządzeniami infrastruktury technicznej budowa nowego/nowych obiektów budowlanych",
+"wn": "Wybornahouse Sp. z o.o.",
+"nier": "Wyborna 15",
+"dz": "146511_8 0922 92",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "80/TRG/PB/2026"
+}
+},
+{
+"d": "2026-08-27",
+"c": {
+"inw": "przebudowa fragmentu hali usługowo-produkcyjnej z zapleczem magazynowym i socjalno-biurowym-zmiana elewacji wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Marselan spółka z ograniczoną odpowiedzialnością spółka komandytowa",
+"nier": "Rzeczna 8",
+"dz": "146511_8 1111 54",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "78/TRG/PB/2026"
+}
+},
+{
+"d": "2026-08-26",
+"c": {
+"inw": "budowa budynku usługowego o funkcji magazynowej wraz z parkingiem , zewnętrznym podziemnym zbiornikiem retencyjnym i infrastrukturą towarzyszącą-zmiana pozwolenia na budowę budowa nowego/nowych obiektów budowlanych",
+"wn": "Stokado Buar sp. Z o.o.",
+"nier": "",
+"dz": "146511_8 0908 3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "77/TRG/PB/2026/Z"
+}
+},
+{
+"d": "2026-08-18",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "17",
+"dz": "146511_8 0910 62",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "75/TRG/PB/2026"
+}
+},
+{
+"d": "2026-08-18",
+"c": {
+"inw": "rozbudowa budynku mieszkalnego wielorodzinnego w zakresie rozbudowy balkonu w lokalu nr 4 wraz z przebudową przegrody zewnętrznej w zakresie otworu okiennego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Zaciszańska 31",
+"dz": "146511_8 0906 3/28",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "73/TRG/PB/2026"
+}
+},
+{
+"d": "2026-08-18",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego - zmiana pozwolenia na budowę budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Gilarska 24",
+"dz": "146511_8 0923 218",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "74/TRG/PB/2026/Z"
+}
+},
+{
+"d": "2026-08-14",
+"c": {
+"inw": "budowa stacji transformatorowej, dwóch wiat nad stanowiskami do ładowania pojazdów,12 punktów ładowania pojazdów,urządzenia reklamowego (pylonu cenowego) oraz zespołu masztów flagowych wraz z infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "EKOEN Sp. z o.o.",
+"nier": "Głębocka 15",
+"dz": "146511_8 0928 31/17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "72/TRG/PB/2026"
+}
+},
+{
+"d": "2026-08-12",
+"c": {
+"inw": "przebudowa elewacji w zakresie wykonania nowych otworów w celu montażuinstalacji wentylacyjnej w budynku szkoły podstawowej nr 378 im. Ignacego Jana Paderewskiego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Bartnicza 8",
+"dz": "146511_8 0819 124",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "71/TRG/PB/2026"
+}
+},
+{
+"d": "2026-08-12",
+"c": {
+"inw": "przebudowa elewacji w zakresie wykonania nowych otworów w celu montażuinstalacji wentylacyjnej w budynku szkoły podstawowej nr 378 im. Ignacego Jana Paderewskiego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Bartnicza 8",
+"dz": "146511_8 0819 123/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "71/TRG/PB/2026"
+}
+},
+{
+"d": "2026-08-12",
+"c": {
+"inw": "przebudowa elewacji w zakresie wykonania nowych otworów w celu montażuinstalacji wentylacyjnej w budynku szkoły podstawowej nr 378 im. Ignacego Jana Paderewskiego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Bartnicza 8",
+"dz": "146511_8 0819 123/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "71/TRG/PB/2026"
+}
+},
+{
+"d": "2026-08-12",
+"c": {
+"inw": "przebudowa elewacji w zakresie wykonania nowych otworów w celu montażuinstalacji wentylacyjnej w budynku szkoły podstawowej nr 378 im. Ignacego Jana Paderewskiego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Bartnicza 8",
+"dz": "146511_8 0819 123/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "71/TRG/PB/2026"
+}
+},
+{
+"d": "2026-08-12",
+"c": {
+"inw": "przebudowa elewacji w zakresie wykonania nowych otworów w celu montażuinstalacji wentylacyjnej w budynku szkoły podstawowej nr 378 im. Ignacego Jana Paderewskiego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Bartnicza 8",
+"dz": "146511_8 0819 123/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "71/TRG/PB/2026"
+}
+},
+{
+"d": "2026-08-12",
+"c": {
+"inw": "przebudowa elewacji w zakresie wykonania nowych otworów w celu montażuinstalacji wentylacyjnej w budynku szkoły podstawowej nr 378 im. Ignacego Jana Paderewskiego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Bartnicza 8",
+"dz": "146511_8 0819 123/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "71/TRG/PB/2026"
+}
+},
+{
+"d": "2026-08-12",
+"c": {
+"inw": "przebudowa elewacji w zakresie wykonania nowych otworów w celu montażuinstalacji wentylacyjnej w budynku szkoły podstawowej nr 378 im. Ignacego Jana Paderewskiego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Bartnicza 8",
+"dz": "146511_8 0819 123/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "71/TRG/PB/2026"
+}
+},
+{
+"d": "2026-08-12",
+"c": {
+"inw": "przebudowa elewacji w zakresie wykonania nowych otworów w celu montażuinstalacji wentylacyjnej w budynku szkoły podstawowej nr 378 im. Ignacego Jana Paderewskiego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Bartnicza 8",
+"dz": "146511_8 0819 123/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "71/TRG/PB/2026"
+}
+},
+{
+"d": "2026-08-12",
+"c": {
+"inw": "przebudowa elewacji w zakresie wykonania nowych otworów w celu montażuinstalacji wentylacyjnej w budynku szkoły podstawowej nr 378 im. Ignacego Jana Paderewskiego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Bartnicza 8",
+"dz": "146511_8 0819 123/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "71/TRG/PB/2026"
+}
+},
+{
+"d": "2026-08-12",
+"c": {
+"inw": "przebudowa elewacji w zakresie wykonania nowych otworów w celu montażuinstalacji wentylacyjnej w budynku szkoły podstawowej nr 378 im. Ignacego Jana Paderewskiego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Bartnicza 8",
+"dz": "146511_8 0819 123/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "71/TRG/PB/2026"
+}
+},
+{
+"d": "2026-08-12",
+"c": {
+"inw": "przebudowa elewacji w zakresie wykonania nowych otworów w celu montażuinstalacji wentylacyjnej w budynku szkoły podstawowej nr 378 im. Ignacego Jana Paderewskiego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Bartnicza 8",
+"dz": "146511_8 0819 122",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "71/TRG/PB/2026"
+}
+},
+{
+"d": "2026-08-12",
+"c": {
+"inw": "przebudowa elewacji w zakresie wykonania nowych otworów w celu montażuinstalacji wentylacyjnej w budynku szkoły podstawowej nr 378 im. Ignacego Jana Paderewskiego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Bartnicza 8",
+"dz": "146511_8 0819 1231",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "71/TRG/PB/2026"
+}
+},
+{
+"d": "2026-08-07",
+"c": {
+"inw": "rozbudowa i przebudowa budynku gospodarczego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Łodygowa 20a",
+"dz": "146511_8 0917 2/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "70/TRG/PB/2026"
+}
+},
+{
+"d": "2026-08-05",
+"c": {
+"inw": "przebudowa budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Uranowa 33",
+"dz": "146511_8 0923 174/6",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "69/TRG/PB/2026"
+}
+},
+{
+"d": "2026-08-03",
+"c": {
+"inw": "budowa wodnego placu zabaw wraz z kontenerem technicznym, komorą technologiczną, niezbędną infrastrukturą techniczną, małą architekturą oraz rozbiórkami istniejących nawierzchni, instalacji elektr. I urządzeń na terenie VIII Ogrodu Jordanowskiego w Warszawie-Dzielnica Targówek budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Suwalska 13",
+"dz": "146511_8 0807 33/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "68/TRG/PB/2026"
+}
+},
+{
+"d": "2026-08-03",
+"c": {
+"inw": "budowa wodnego placu zabaw wraz z kontenerem technicznym, komorą technologiczną, niezbędną infrastrukturą techniczną, małą architekturą oraz rozbiórkami istniejących nawierzchni, instalacji elektr. I urządzeń na terenie VIII Ogrodu Jordanowskiego w Warszawie-Dzielnica Targówek budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Suwalska 13",
+"dz": "146511_8 0807 34/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "68/TRG/PB/2026"
+}
+},
+{
+"d": "2026-08-03",
+"c": {
+"inw": "budowa wodnego placu zabaw wraz z kontenerem technicznym, komorą technologiczną, niezbędną infrastrukturą techniczną, małą architekturą oraz rozbiórkami istniejących nawierzchni, instalacji elektr. I urządzeń na terenie VIII Ogrodu Jordanowskiego w Warszawie-Dzielnica Targówek budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Suwalska 13",
+"dz": "146511_8 0807 34/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "68/TRG/PB/2026"
+}
+},
+{
+"d": "2026-08-03",
+"c": {
+"inw": "budowa wodnego placu zabaw wraz z kontenerem technicznym, komorą technologiczną, niezbędną infrastrukturą techniczną, małą architekturą oraz rozbiórkami istniejących nawierzchni, instalacji elektr. I urządzeń na terenie VIII Ogrodu Jordanowskiego w Warszawie-Dzielnica Targówek budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Suwalska 13",
+"dz": "146511_8 0807 35/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "68/TRG/PB/2026"
+}
+},
+{
+"d": "2026-08-03",
+"c": {
+"inw": "budowa wodnego placu zabaw wraz z kontenerem technicznym, komorą technologiczną, niezbędną infrastrukturą techniczną, małą architekturą oraz rozbiórkami istniejących nawierzchni, instalacji elektr. I urządzeń na terenie VIII Ogrodu Jordanowskiego w Warszawie-Dzielnica Targówek budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Suwalska 13",
+"dz": "146511_8 0807 35/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "68/TRG/PB/2026"
+}
+},
+{
+"d": "2026-08-03",
+"c": {
+"inw": "budowa wodnego placu zabaw wraz z kontenerem technicznym, komorą technologiczną, niezbędną infrastrukturą techniczną, małą architekturą oraz rozbiórkami istniejących nawierzchni, instalacji elektr. I urządzeń na terenie VIII Ogrodu Jordanowskiego w Warszawie-Dzielnica Targówek budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Suwalska 13",
+"dz": "146511_8 0807 35/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "68/TRG/PB/2026"
+}
+},
+{
+"d": "2026-08-03",
+"c": {
+"inw": "budowa wodnego placu zabaw wraz z kontenerem technicznym, komorą technologiczną, niezbędną infrastrukturą techniczną, małą architekturą oraz rozbiórkami istniejących nawierzchni, instalacji elektr. I urządzeń na terenie VIII Ogrodu Jordanowskiego w Warszawie-Dzielnica Targówek budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Suwalska 13",
+"dz": "146511_8 0807 35/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "68/TRG/PB/2026"
+}
+},
+{
+"d": "2026-08-03",
+"c": {
+"inw": "budowa wodnego placu zabaw wraz z kontenerem technicznym, komorą technologiczną, niezbędną infrastrukturą techniczną, małą architekturą oraz rozbiórkami istniejących nawierzchni, instalacji elektr. I urządzeń na terenie VIII Ogrodu Jordanowskiego w Warszawie-Dzielnica Targówek budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Suwalska 13",
+"dz": "146511_8 0807 35/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "68/TRG/PB/2026"
+}
+},
+{
+"d": "2026-08-03",
+"c": {
+"inw": "budowa wodnego placu zabaw wraz z kontenerem technicznym, komorą technologiczną, niezbędną infrastrukturą techniczną, małą architekturą oraz rozbiórkami istniejących nawierzchni, instalacji elektr. I urządzeń na terenie VIII Ogrodu Jordanowskiego w Warszawie-Dzielnica Targówek budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Suwalska 13",
+"dz": "146511_8 0807 35/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "68/TRG/PB/2026"
+}
+},
+{
+"d": "2026-08-03",
+"c": {
+"inw": "budowa wodnego placu zabaw wraz z kontenerem technicznym, komorą technologiczną, niezbędną infrastrukturą techniczną, małą architekturą oraz rozbiórkami istniejących nawierzchni, instalacji elektr. I urządzeń na terenie VIII Ogrodu Jordanowskiego w Warszawie-Dzielnica Targówek budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Suwalska 13",
+"dz": "146511_8 0807 36/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "68/TRG/PB/2026"
+}
+},
+{
+"d": "2026-08-03",
+"c": {
+"inw": "budowa wodnego placu zabaw wraz z kontenerem technicznym, komorą technologiczną, niezbędną infrastrukturą techniczną, małą architekturą oraz rozbiórkami istniejących nawierzchni, instalacji elektr. I urządzeń na terenie VIII Ogrodu Jordanowskiego w Warszawie-Dzielnica Targówek budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Suwalska 13",
+"dz": "146511_8 0807 43/44",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "68/TRG/PB/2026"
+}
+},
+{
+"d": "2026-07-31",
+"c": {
+"inw": "rozbiórka garażu jednostanowiskowego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Chojnowska 9",
+"dz": "146511_8 0924 9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "14/TRG/PB/2026/R"
+}
+},
+{
+"d": "2026-07-30",
+"c": {
+"inw": "przebudowa przegrody zewnętrznej w zakresie zmiany otworu okiennego na drzwiowy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Trocka 4",
+"dz": "146511_8 1003 21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "66/TRG/PB/2026"
+}
+},
+{
+"d": "2026-07-30",
+"c": {
+"inw": "przebudowa przegrody zewnętrznej w zakresie zmiany otworu okiennego na drzwiowy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Trocka 4",
+"dz": "146511_8 1003 63",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "66/TRG/PB/2026"
+}
+},
+{
+"d": "2026-07-30",
+"c": {
+"inw": "budowa kontenerów (5 szt.), garazu (2szt.), trybun mobilnych oraz siłowni plenerowej na terenie Arthouse Kołowa 24 budowa nowego/nowych obiektów budowlanych",
+"wn": "Miesto Stołeczne Warszawa-Dom Kultury \"Świt\" w Dzielnicy Targówek",
+"nier": "Kołowa 24",
+"dz": "146511_8 1009 2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "65/TRG/PB/2026"
+}
+},
+{
+"d": "2026-07-21",
+"c": {
+"inw": "rozbiórka pawilonów na bazarku rozbiórka istniejącego obiektu budowlanego",
+"wn": "Stowarzyszenie  \"Bazarek Kondratowicza\"",
+"nier": "Kondratowicza / Ludwika",
+"dz": "146511_8 0813 2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "13/TRG/PB/2026/R"
+}
+},
+{
+"d": "2026-07-21",
+"c": {
+"inw": "rozbiórka pawilonów na bazarku rozbiórka istniejącego obiektu budowlanego",
+"wn": "Stowarzyszenie  \"Bazarek Kondratowicza\"",
+"nier": "Kondratowicza / Ludwika",
+"dz": "146511_8 0813 3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "13/TRG/PB/2026/R"
+}
+},
+{
+"d": "2026-07-21",
+"c": {
+"inw": "rozbiórka pawilonów na bazarku rozbiórka istniejącego obiektu budowlanego",
+"wn": "Stowarzyszenie  \"Bazarek Kondratowicza\"",
+"nier": "Kondratowicza / Ludwika",
+"dz": "146511_8 0813 4/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "13/TRG/PB/2026/R"
+}
+},
+{
+"d": "2026-07-21",
+"c": {
+"inw": "rozbiórka pawilonów na bazarku rozbiórka istniejącego obiektu budowlanego",
+"wn": "Stowarzyszenie  \"Bazarek Kondratowicza\"",
+"nier": "Kondratowicza / Ludwika",
+"dz": "146511_8 0813 29",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "13/TRG/PB/2026/R"
+}
+},
+{
+"d": "2026-07-17",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego w zabudowie bliźniaczej wraz z zagospodarowaniem terenu i przebudową instalacji gazowej oraz rozbiórką istniejącego budynku mieszkalnego jednorodzinnego w zabudowie bliźniaczej-ponownie budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Gilarska 40",
+"dz": "156511_8 0923 191",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "64/TRG/PB/2026"
+}
+},
+{
+"d": "2026-07-13",
+"c": {
+"inw": "zmiana sposobu użytkowania części budynku-pomieszczeń socjalno-gospodarczych w suterenie budynku zespołu szkół im. Piotra Wysockiego na pomieszczenia biurowe wraz z ich remontem wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Dzielnicowe Biuro Finansów Oświaty Targówek m.st. Warszawy",
+"nier": "Odrowąża 19 / św. Jacka",
+"dz": "146511_8 0821 66",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "63/TRG/PB/2026"
+}
+},
+{
+"d": "2026-07-08",
+"c": {
+"inw": "rozbudowa budynku mieszkalnego wielorodzinnego w zakresie rozbudowy balkonu w lokalu 2 rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Zaciszańska 33",
+"dz": "146511_8 0906 3/27",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "61/TRG/PB/2026"
+}
+},
+{
+"d": "2026-07-08",
+"c": {
+"inw": "rozbudowa budynku mieszkalnego wielorodzinnego w zakresie rozbudowy balkonu w lokalu 1 rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Zaciszańska 33",
+"dz": "146511_8 0906 3/27",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "59/TRG/PB/2026"
+}
+},
+{
+"d": "2026-07-08",
+"c": {
+"inw": "rozbudowa budynku mieszkalnego wielorodzinnego w zakresie rozbudowy balkonu w lokalu 3 rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Zaciszańska 33",
+"dz": "146511_8 0906 3/27",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "62/TRG/PB/2026"
+}
+},
+{
+"d": "2026-07-08",
+"c": {
+"inw": "rozbudowa budynku mieszkalnego wielorodzinnego w zakresie rozbudowy balkonu w lokalu 4 rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Zaciszańska 33",
+"dz": "146511_8 0906 3/27",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "60/TRG/PB/2026"
+}
+},
+{
+"d": "2026-07-03",
+"c": {
+"inw": "rozbiórka budynków hal magazynowych, budynków biurowych i przemysłowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "Skanska Residental Development Poland sp. Z o.o.",
+"nier": "Bieżuńska 1D",
+"dz": "146511_8 1007 49/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "12/TRG/PB/2026/R"
+}
+},
+{
+"d": "2026-07-03",
+"c": {
+"inw": "rozbiórka budynków hal magazynowych, budynków biurowych i przemysłowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "Skanska Residental Development Poland sp. Z o.o.",
+"nier": "Bieżuńska 1D",
+"dz": "146511_8 1007 51/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "12/TRG/PB/2026/R"
+}
+},
+{
+"d": "2026-07-03",
+"c": {
+"inw": "rozbiórka budynków hal magazynowych, budynków biurowych i przemysłowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "Skanska Residental Development Poland sp. Z o.o.",
+"nier": "Bieżuńska 1D",
+"dz": "146511_8 1007 43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "12/TRG/PB/2026/R"
+}
+},
+{
+"d": "2026-07-01",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego w zabudowie bliźniaczej i garażu wraz z urządzeniami budowlanymi i zagospodarowaniem terenu oraz rozbiórka istniejącego budynku mieszkalnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "57",
+"dz": "146511_8 0908 101",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "55/TRG/PB/2026"
+}
+},
+{
+"d": "2026-06-30",
+"c": {
+"inw": "roboty budowlane polegające na wstawieniu dodatkowego okna w elewacji zachodniej (frontowej) między osiami 4 a 6 - zmiana w elewacji budynku magazynowego z częścią biurową IKEA wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "IKEA Retail sp. Z o.o.",
+"nier": "Malborska 53",
+"dz": "146511_8 0902 6/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "54/TRG/PB/2026"
+}
+},
+{
+"d": "2026-06-26",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego, budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym w zabudowie pierzejowej wraz z infrastrukturą techniczną, w tym instalacją gazowa wewnętrzną budowa nowego/nowych obiektów budowlanych",
+"wn": "Paradox Investment sp. z o.o. 3 sp.k.",
+"nier": "Rybieńska 3",
+"dz": "146511_8 1123 12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "52/TRG/PB/2026"
+}
+},
+{
+"d": "2026-06-26",
+"c": {
+"inw": "rozbudowa Szkoły Podstawowej nr 84 o halę sportową i nowe skrzydło z przebudową budynku szkoły oraz rozbiórka Sali sportowej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa -Dzielnica Targówek",
+"nier": "Radzymińska 227",
+"dz": "146511_8 0915 185",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "53/TRG/PB/2026"
+}
+},
+{
+"d": "2026-06-26",
+"c": {
+"inw": "rozbudowa Szkoły Podstawowej nr 84 o halę sportową i nowe skrzydło z przebudową budynku szkoły oraz rozbiórka Sali sportowej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa -Dzielnica Targówek",
+"nier": "Radzymińska 227",
+"dz": "146511_8 0915 189/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "53/TRG/PB/2026"
+}
+},
+{
+"d": "2026-06-26",
+"c": {
+"inw": "rozbudowa Szkoły Podstawowej nr 84 o halę sportową i nowe skrzydło z przebudową budynku szkoły oraz rozbiórka Sali sportowej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa -Dzielnica Targówek",
+"nier": "Radzymińska 227",
+"dz": "146511_8 0915 189/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "53/TRG/PB/2026"
+}
+},
+{
+"d": "2026-06-26",
+"c": {
+"inw": "rozbiórka budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Kanałowa 40",
+"dz": "146511_8 0913 53",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "11/TRG/PB/2026"
+}
+},
+{
+"d": "2026-06-26",
+"c": {
+"inw": "rozbiórka budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Kanałowa 40",
+"dz": "146511_8 0913 53",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "11/TRG/PB/2026"
+}
+},
+{
+"d": "2026-06-23",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego (nr1) i budynków gospodarczych (nr2) i (nr3) rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Spójni 16",
+"dz": "146511_8 0920 83",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "10/TRG/PB/2026/R"
+}
+},
+{
+"d": "2026-06-23",
+"c": {
+"inw": "rozbiórka stacji bazowej telefonii komórkowej nr BT11453 Targówek Fabryczny rozbiórka istniejącego obiektu budowlanego",
+"wn": "Towerlink Poland Sp. z o.o.",
+"nier": "Przecławska 1",
+"dz": "146511_8 1110 13/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "09/TRG/PB/2026/R"
+}
+},
+{
+"d": "2026-06-23",
+"c": {
+"inw": "rozbiórka stacji bazowej telefonii komórkowej nr BT11453 Targówek Fabryczny rozbiórka istniejącego obiektu budowlanego",
+"wn": "Towerlink Poland Sp. z o.o.",
+"nier": "Przecławska 1",
+"dz": "146511_8 1110 13/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "09/TRG/PB/2026/R"
+}
+},
+{
+"d": "2026-06-19",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego parterowego o konstrukcji mieszanej, częściowo o konstrukcji drewnianej a częściowo murowanej z cegły rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Motycka 10",
+"dz": "146511_8 1004 75",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "8/TRG/PB/2026/R"
+}
+},
+{
+"d": "2026-06-15",
+"c": {
+"inw": "rozbiórka budynków komórek lokatorskich i altan śmietnikowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "Zakład Gospodarowania Nieruchomościami w Dzielnicy Targówek",
+"nier": "Święciańska",
+"dz": "146511_8 1014 56",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "07/TRG/PB/2026/R"
+}
+},
+{
+"d": "2026-06-15",
+"c": {
+"inw": "rozbiórka budynków komórek lokatorskich i altan śmietnikowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "Zakład Gospodarowania Nieruchomościami w Dzielnicy Targówek",
+"nier": "Święciańska",
+"dz": "146511_8 1014 49",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "07/TRG/PB/2026/R"
+}
+},
+{
+"d": "2026-06-15",
+"c": {
+"inw": "rozbiórka budynków komórek lokatorskich i altan śmietnikowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "Zakład Gospodarowania Nieruchomościami w Dzielnicy Targówek",
+"nier": "Święciańska",
+"dz": "146511_8 1014 46",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "07/TRG/PB/2026/R"
+}
+},
+{
+"d": "2026-06-15",
+"c": {
+"inw": "rozbiórka budynków komórek lokatorskich i altan śmietnikowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "Zakład Gospodarowania Nieruchomościami w Dzielnicy Targówek",
+"nier": "Święciańska",
+"dz": "146511_8 1014 42",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "07/TRG/PB/2026/R"
+}
+},
+{
+"d": "2026-06-03",
+"c": {
+"inw": "przebudowa,nadbudowa i rozbudowa budynku usługowego wraz z zagospodarowaniem terenu i infrastrukturą techniczną rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "WRI Investment sp. Z o.o sp.k.",
+"nier": "Łodygowa 26",
+"dz": "146511_8 0917 4/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "48/TRG/PB/2026"
+}
+},
+{
+"d": "2026-06-03",
+"c": {
+"inw": "budynek biurowo-usługowy wraz z zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "Mechanix sp. Z o.o.",
+"nier": "Łodygowa",
+"dz": "146511_8 0910 26/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "47/TRG/PB/2026"
+}
+},
+{
+"d": "2026-06-03",
+"c": {
+"inw": "budynek biurowo-usługowy wraz z zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "Mechanix sp. Z o.o.",
+"nier": "Łodygowa",
+"dz": "146511_8 0910 26/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "47/TRG/PB/2026"
+}
+},
+{
+"d": "2026-06-03",
+"c": {
+"inw": "budynek biurowo-usługowy wraz z zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "Mechanix sp. Z o.o.",
+"nier": "Łodygowa",
+"dz": "146511_8 0910 26/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "47/TRG/PB/2026"
+}
+},
+{
+"d": "2026-06-02",
+"c": {
+"inw": "instalacja antenowa konstrukcji wsporczej typu stubtower 18 wraz z instalacją radiokomunikacyjną P4 nr WAR2396A oraz niezbędną infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "P4 sp. z o.o.",
+"nier": "Rzepichy 1",
+"dz": "146511_8 0803 37",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "46/TRG/PB/2026"
+}
+},
+{
+"d": "2026-06-02",
+"c": {
+"inw": "instalacja antenowa konstrukcji wsporczej typu stubtower 18 wraz z instalacją radiokomunikacyjną P4 nr WAR2396A oraz niezbędną infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "P4 sp. z o.o.",
+"nier": "Rzepichy 1",
+"dz": "146511_8 0803 37",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "46/TRG/PB/2026"
+}
+},
+{
+"d": "2026-05-28",
+"c": {
+"inw": "zmiana pozwolenia na budowę w zakresie instalowania wewnętrznej instalacji gazu rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Dolina Spokoju sp. Z o.o.",
+"nier": "6",
+"dz": "146511_8 1113 32",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "44/TRG/PB/2026/Z"
+}
+},
+{
+"d": "2026-05-28",
+"c": {
+"inw": "Rozbudowa budynku mieszkalnego wielorodzinnego-rozbudowa balkonu w lokalu nr 1 rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Zaciszańska 16",
+"dz": "146511_8 0906 3/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "43/TRG/PB/2026"
+}
+},
+{
+"d": "2026-05-27",
+"c": {
+"inw": "rozbudowa Szkoły Podstawowej nr 58 o halę sportową i nowe skrzydło z przebudową budynku szkoły oraz rozbiórką Sali sportowej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa -Dzielnica Targówek",
+"nier": "Mieszka I",
+"dz": "146511_8 1118 11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "42/TRG/PB/2026"
+}
+},
+{
+"d": "2026-05-26",
+"c": {
+"inw": "remont i docieplenie elewacji, remont wejścia do budynku, loggii, balkonów oraz dachu wraz z robotami towarzyszącymi wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "RSM  \"Praga\"",
+"nier": "Goławicka 1",
+"dz": "146511_8 1010 43/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/TRG/PB/2026"
+}
+},
+{
+"d": "2026-05-11",
+"c": {
+"inw": "przebudowę części lokalu Media Markt w zakresie wstawienia otworów drzwiowych w elewacji wschodniej i zachodniej oraz montażu nośnika reklamowego w Budynku II na terenie Centrum Handlowo-Usługowego Zielony Targówek wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Pontefract sp. Z o.o.",
+"nier": "Głębocka 13",
+"dz": "146511_8 0928 31/65",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/TRG/PB/2026"
+}
+},
+{
+"d": "2026-05-06",
+"c": {
+"inw": "budowa pawilonu rzemieślniczo-usługowego wraz z niezbędną infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Rzemieślników",
+"dz": "146511_8 0910 55",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "38/TRG/PB/2026"
+}
+},
+{
+"d": "2026-05-06",
+"c": {
+"inw": "budowa budynku garażu wielostanowiskowego zamkniętego wraz z usługami,przyłączami wodociągowym i teletechnicznym,zagospodarowaniem terenu, małą architekturą - ponownie budowa nowego/nowych obiektów budowlanych",
+"wn": "Robotnicza Spółdzielnia Mieszkaniowa \"PRAGA\"",
+"nier": "Ossowskiego / Michała",
+"dz": "146511_8 1010 44/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "37/TRG/PB/2026"
+}
+},
+{
+"d": "2026-05-06",
+"c": {
+"inw": "budowa budynku garażu wielostanowiskowego zamkniętego wraz z usługami,przyłączami wodociągowym i teletechnicznym,zagospodarowaniem terenu, małą architekturą - ponownie budowa nowego/nowych obiektów budowlanych",
+"wn": "Robotnicza Spółdzielnia Mieszkaniowa \"PRAGA\"",
+"nier": "Ossowskiego / Michała",
+"dz": "146511_8 1010 24/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "37/TRG/PB/2026"
+}
+},
+{
+"d": "2026-04-27",
+"c": {
+"inw": "przebudowa elewacji w zakresie zamurowania wybranych otworów okiennych i wykonania nowych otworów oraz wykucie otworu w ścianie wewnętrznej na drzwi w pomieszczeniu siłowni wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Żuromińska 4",
+"dz": "146511_8 0815 61",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "35/TRG/PB/2026"
+}
+},
+{
+"d": "2026-04-27",
+"c": {
+"inw": "przebudowa lokalu mieszkalnego nr 17 w budynku mieszkalnym wielorodzinnym w zakresie rozebrania ściany wewnętrznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Korzona 113 / Tadeusza",
+"dz": "146511_8 1002 47/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "36/TRG/PB/2026"
+}
+},
+{
+"d": "2026-04-27",
+"c": {
+"inw": "przebudowa lokalu mieszkalnego nr 17 w budynku mieszkalnym wielorodzinnym w zakresie rozebrania ściany wewnętrznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Korzona 113 / Tadeusza",
+"dz": "146511_8 1002 47/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "36/TRG/PB/2026"
+}
+},
+{
+"d": "2026-04-24",
+"c": {
+"inw": "budowa odcinka drogi gminnej oznaczonej w mpzp symbolem 106KD-L budowa nowego/nowych obiektów budowlanych",
+"wn": "Prezydent m.st. Warszawy",
+"nier": "",
+"dz": "146511_8 0930 1/75",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "34/TRG/PB/2026"
+}
+},
+{
+"d": "2026-04-24",
+"c": {
+"inw": "budowa odcinka drogi gminnej oznaczonej w mpzp symbolem 106KD-L budowa nowego/nowych obiektów budowlanych",
+"wn": "Prezydent m.st. Warszawy",
+"nier": "",
+"dz": "146511_8 0930 1/73",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "34/TRG/PB/2026"
+}
+},
+{
+"d": "2026-04-24",
+"c": {
+"inw": "budowa odcinka drogi gminnej oznaczonej w mpzp symbolem 106KD-L budowa nowego/nowych obiektów budowlanych",
+"wn": "Prezydent m.st. Warszawy",
+"nier": "",
+"dz": "146511_8 0930 1/57",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "34/TRG/PB/2026"
+}
+},
+{
+"d": "2026-04-24",
+"c": {
+"inw": "budowa odcinka drogi gminnej oznaczonej w mpzp symbolem 106KD-L budowa nowego/nowych obiektów budowlanych",
+"wn": "Prezydent m.st. Warszawy",
+"nier": "",
+"dz": "146511_8 0930 1/35",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "34/TRG/PB/2026"
+}
+},
+{
+"d": "2026-04-24",
+"c": {
+"inw": "budowa odcinka drogi gminnej oznaczonej w mpzp symbolem 106KD-L budowa nowego/nowych obiektów budowlanych",
+"wn": "Prezydent m.st. Warszawy",
+"nier": "",
+"dz": "146511_8 0930 1/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "34/TRG/PB/2026"
+}
+},
+{
+"d": "2026-04-24",
+"c": {
+"inw": "rozbudowa i przebudowa budynku jednorodzinnego w zabudowie szeregowej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Guliwera 33",
+"dz": "146511_8 0912 8/11",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "33/TRG/PB/2026"
+}
+},
+{
+"d": "2026-04-22",
+"c": {
+"inw": "budynek mieszkalny jednorodzinny i budynek gospodarczy-rozbiórka rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Chojnowska 22",
+"dz": "146511_8 0924 14",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "6/TRG/PB/2026/R"
+}
+},
+{
+"d": "2026-04-21",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego z częścią garażową i gospodarczą oraz budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "FIGARA 2 SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+"nier": "Figara 2",
+"dz": "146511_8 0912 31/31",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "5/TRG/PB/2026/R"
+}
+},
+{
+"d": "2026-04-21",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego z częścią garażową i gospodarczą oraz budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "FIGARA 2 SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+"nier": "Figara 2",
+"dz": "146511_8 0912 31/31",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "5/TRG/PB/2026/R"
+}
+},
+{
+"d": "2026-04-21",
+"c": {
+"inw": "przebudowa istniejącego lokalu usługowego polegająca na wydzieleniu dwóch niezależnych lokali usługowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Open Architektura sp. Z o.o.",
+"nier": "Krośniewicka 5",
+"dz": "146511_8 0919 282/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "32/TRG/PB/2026"
+}
+},
+{
+"d": "2026-04-21",
+"c": {
+"inw": "przebudowa istniejącego lokalu usługowego polegająca na wydzieleniu dwóch niezależnych lokali usługowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Open Architektura sp. Z o.o.",
+"nier": "Krośniewicka 5",
+"dz": "146511_8 0919 283",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "32/TRG/PB/2026"
+}
+},
+{
+"d": "2026-04-13",
+"c": {
+"inw": "budowa wolnostojącego nośnika informacyjno-reklamowego budowa nowego/nowych obiektów budowlanych",
+"wn": "Bauer Media Outdoor Poland sp. Z o.o.",
+"nier": "Kondratowicza / Ludwika",
+"dz": "146511_8 0815 1/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "30/TRG/PB/2026"
+}
+},
+{
+"d": "2026-04-07",
+"c": {
+"inw": "montaż szyldu o nazwie TEATR RAMPA na Targówku na fasadzie budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Teatr Rampa na Targówku",
+"nier": "Kołowa 20",
+"dz": "146511_8 1009 7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "29/TRG/PB/2026"
+}
+},
+{
+"d": "2026-04-02",
+"c": {
+"inw": "rozbudowa i przebudowa domu kultury \"Zacisze\"-zmiana pozwolenia wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Blokowa 1",
+"dz": "146511_8 0921 3/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "28/TRG/PB/2026/Z"
+}
+},
+{
+"d": "2026-04-02",
+"c": {
+"inw": "rozbudowa i przebudowa domu kultury \"Zacisze\"-zmiana pozwolenia wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Targówek",
+"nier": "Blokowa 1",
+"dz": "146511_8 0921 3/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "28/TRG/PB/2026/Z"
+}
+},
+{
+"d": "2026-03-27",
+"c": {
+"inw": "przebudowa i rozbudowa budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Bohuszewiczówny 15 / Marii",
+"dz": "146511_8 0906 11/9",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "27/TRG/PB/2026"
+}
+},
+{
+"d": "2026-03-27",
+"c": {
+"inw": "przebudowa części budynku handlowo-usługowego Domoteka w zakresie wydzielenia dodatkowego lokalu handlowo-usługowego na parterze,wykonanie drzwi wejściowych do lokalu u zbiegu osi K i 7 oraz wykonanie drzwi zewnętrznych w elewacji między osiami K i L wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Retail Park Targówek Warsaw sp. Z o.o.",
+"nier": "Malborska 41",
+"dz": "146511_8 0902 7/19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "26/TRG/PB/2026"
+}
+},
+{
+"d": "2026-03-26",
+"c": {
+"inw": "rozbudowa budynku mieszkalnego wielorodzinnego-rozbudowa balkonu wraz z systemowym zadaszeniem lokalu 4 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Zaciszańska 16",
+"dz": "146511_8 0906 3/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "24/TRG/PB/2026"
+}
+},
+{
+"d": "2026-03-26",
+"c": {
+"inw": "przebudowa,rozbudowa i nadbudowa budynku mieszkalnego jednorodzinnego w zabudowie szeregowej-zmiana pozwolenia na budowę wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Pińska 38",
+"dz": "146511_8 1008 121",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "23/TRG/PB/2026/Z"
+}
+},
+{
+"d": "2026-03-20",
+"c": {
+"inw": "rozbiórka budynku gospodarczego położonego w ostrej granicy działki budowlanej rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Jórskiego 8 / Zygmunta",
+"dz": "146511_8 0924 89",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "4/TRG/PB/2026/R"
+}
+},
+{
+"d": "2026-03-13",
+"c": {
+"inw": "rozbudowa balkonu wraz z systemowym zadaszeniem w lokalu nr 2 w budynku mieszkalnym wielorodzinnym rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Zaciszańska 8",
+"dz": "146511_8 0906 3/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "21/TRG/PB/2026"
+}
+},
+{
+"d": "2026-03-11",
+"c": {
+"inw": "rozbudowa balkonu wraz z systemowym zadaszeniem w lokalu nr 3 w budynku mieszkalnym wielorodzinnym rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Zaciszańska 8",
+"dz": "146511_8 0906 3/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "20/TRG/PB/2026"
+}
+},
+{
+"d": "2026-03-05",
+"c": {
+"inw": "rozbudowa budynku mieszkalnego wielorodzinnego -rozbudowa balkonu lokalu 3 rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Zaciszańska 16",
+"dz": "146511_8 0906 3/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "17/TRG/PB/2026"
+}
+},
+{
+"d": "2026-03-05",
+"c": {
+"inw": "zmiana pozwolenia-budowa budynku usługowo-magazynowego z garażem podziemnym wraz z infrastrukturą techniczną i obsługą  komunikacyjną-zmiana dot.instalowania wewnętrznej instalacji gazu niskiego ciśnienia wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Promienna 1",
+"dz": "146511_8 0926 75",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "18/TRG/PB/2026/Z"
+}
+},
+{
+"d": "2026-03-05",
+"c": {
+"inw": "zmiana pozwolenia-budowa budynku usługowo-magazynowego z garażem podziemnym wraz z infrastrukturą techniczną i obsługą  komunikacyjną-zmiana dot.instalowania wewnętrznej instalacji gazu niskiego ciśnienia wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Promienna 1",
+"dz": "146511_8 0926 74/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "18/TRG/PB/2026/Z"
+}
+},
+{
+"d": "2026-03-02",
+"c": {
+"inw": "zmiana pozwolenia-budowa budynku jednorodzinnego w 1 Etapie inwestycji oraz budynku usługowo-magazynowego w 2 etapie inwestycji wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Blokowa",
+"dz": "146511_8 0915 188/9",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "16/TRG/PB/2026/Z"
+}
+},
+{
+"d": "2026-03-02",
+"c": {
+"inw": "zmiana pozwolenia-budowa budynku jednorodzinnego w 1 Etapie inwestycji oraz budynku usługowo-magazynowego w 2 etapie inwestycji wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Blokowa",
+"dz": "146511_8 0915 188/10",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "16/TRG/PB/2026/Z"
+}
+},
+{
+"d": "2026-02-20",
+"c": {
+"inw": "rozbudowa balkonu wraz z systemowym zadaszeniem w lokalu nr 4 w budynku mieszkalnym wielorodzinnym rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Zaciszańska 8",
+"dz": "146511_8 0906 3/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "14/TRG/PB/2026"
+}
+},
+{
+"d": "2026-02-20",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego wraz z budynkami gospodarczymi rozbiórka istniejącego obiektu budowlanego",
+"wn": "Wyborna House sp. Z o.o.",
+"nier": "Wyborna 15",
+"dz": "146511_8 0922 92",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "3/TRG/PB/2026/R"
+}
+},
+{
+"d": "2026-02-13",
+"c": {
+"inw": "budowa-instalowanie czterech instalacji gazowych wewnątrz użytkowanego budynku wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Oliwska 5d,7,9",
+"nier": "Oliwska 5d",
+"dz": "146511_8 0821 86",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "12/TRG/PB/2026"
+}
+},
+{
+"d": "2026-02-12",
+"c": {
+"inw": "budowa obiektu małej architektury w miejscu publicznym budowa nowego/nowych obiektów budowlanych",
+"wn": "Prezydent m.st.Warszawy",
+"nier": "Tokarza / Wacława",
+"dz": "146511_8 0805 9/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "11/TRG/PB/2026"
+}
+},
+{
+"d": "2026-01-28",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego z zagospodarowaniem terenu oraz rozbiórką istniejącego budynku mieszkalnego jednorodzinnego z garażem-zmiana pozwolenia na budowę budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Uranowa 30",
+"dz": "146511_8 0923 124",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "9/TRG/PB/2026/Z"
+}
+},
+{
+"d": "2026-01-26",
+"c": {
+"inw": "zmiana dec. 55/TRG/PB/2025 z 04.08.2025 w zakresie instalowania wewnętrznej i zewnętrznej instalacji gazowej dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Nauczycielska 3",
+"dz": "146511_8 0916 140",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "8/TRG/PB/2026/Z"
+}
+},
+{
+"d": "2026-01-14",
+"c": {
+"inw": "instalowanie wewnętrznej i zewnętrznej instalacji gazowej dla budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Waldipol sp. Z o.o.",
+"nier": "Lisia 11",
+"dz": "146511_8 0925 16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "5/TRG/PB/2026/Z"
+}
+},
+{
+"d": "2026-01-13",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Uranowa 3",
+"dz": "146511_8 0923 213",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "3/TRG/PB/2026"
+}
+},
+{
+"d": "2026-01-13",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Uranowa 3",
+"dz": "146511_8 0923 213",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "3/TRG/PB/2026"
+}
+},
+{
+"d": "2026-01-05",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego w zabudowie bliźniaczej wraz z zagospodarowaniem terenu i przebudową instalacji gazowej oraz rozbiórką istniejącego budynku mieszkalnego jednorodzinnego w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Gilarska 38",
+"dz": "146511_8 0923 191",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "1/TRG/PB/2026"
+}
+},
+{
+"d": "2026-01-05",
+"c": {
+"inw": "rozbiórka hali rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Klamrowa 15",
+"dz": "146511_8 0910 34/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "1/TRG/PB/2026/R"
+}
+}
+]
+},
+{
+"id": "wn_wz",
+"name": "Wszczęte postępowania (WZ/ICP)",
+"short": "Wnioski WZ/ICP",
+"desc": "Informacja o wszczętych postępowaniach w sprawie ustalenia warunków zabudowy i lokalizacji inwestycji celu publicznego.",
+"file": "wn_wz_2026_06_Informacja_o_wszcz_tych_post_powaniach_o_warunkach_0cc596.pdf",
+"url": "https://cdn.um.warszawa.pl/documents/49392/152182043/Informacja+o+wszcz%C4%99tych+post%C4%99powaniach+o+warunkach+zabudowy+i+ustaleniu+lokalizacji+inwestycji+celu+publicznego-czerwiec-2026.pdf/46cf75a6-45fc-6326-aa59-f2416a10990f?t=1780907089656",
+"cols": [
+{
+"k": "nr",
+"l": "Znak sprawy",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Nazwa inwestycji z wniosku",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Wnioskodawca",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Adres inwestycji",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2026-05-22",
+"c": {
+"nr": "UD-X-WAB-UR. 6733.4.2026.PTR",
+"data": "22.05.2026",
+"wn": "LF3 Sp. z o.o.",
+"inw": "Budowa osiedlowej sieci cieplnej",
+"nier": "ul. Rozwadowskiego; dzielnica Targówek",
+"dz": "dz. ewid. nr 77, 75/2 obręb 4-10-07"
+}
+},
+{
+"d": "2026-05-22",
+"c": {
+"nr": "UD-X-WAB-UR. 6733.5.2026.PTR",
+"data": "22.05.2026",
+"wn": "LF3 Sp. z o.o.",
+"inw": "Budowa sieci kanalizacji",
+"nier": "ul. Bieżuńska; dzielnica Targówek",
+"dz": "dz. ewid. nr 78/3, 74, 72/1 obręb 4- 10-07"
+}
+},
+{
+"d": "2026-05-22",
+"c": {
+"nr": "UD-X-WAB-UR. 6733.6.2026.PTR",
+"data": "22.05.2026",
+"wn": "LF3 Sp. z o.o.",
+"inw": "Budowa sieci wodociągowej",
+"nier": "ul. Biezuńska; dzielnica Targówek",
+"dz": "dz. ewid. nr 1/5, 29/4, 78/3, 30, 74, 72/1 obręb 4-10-07"
+}
+},
+{
+"d": "2026-05-19",
+"c": {
+"nr": "UD-X-WAB-UR. 6730.12.2026.KRO",
+"data": "19.05.2026",
+"wn": "osoba fizyczna",
+"inw": "Nadbudowa, przebudowa i zmiana sposobu użytkowania na funckję mieszkalna wielorodzinna budynku w rejestrze zabytków",
+"nier": "ul. Oliwska…; dzielnica Targówek",
+"dz": "dz. ewid. nr ... obręb 4-08-21"
+}
+},
+{
+"d": "2026-05-14",
+"c": {
+"nr": "UD-X-EWAB-UR. 6733.2.2026.PTR",
+"data": "14.05.2026",
+"wn": "Stoen Operator Sp. z o.o.",
+"inw": "Budowa podziemnej sieci elektroenergetycznej nn 0,4 kV",
+"nier": "ul. Zabraniecka; dzielnica Targówek",
+"dz": "dz. ewid. nr 10/2, 42/3, 42/4 obręb 4-11-14"
+}
+},
+{
+"d": "2026-05-14",
+"c": {
+"nr": "UD-X-WAB-UR. 6733.3.2026.PTR",
+"data": "14.05.2026",
+"wn": "Stoen Operator Sp. z o.o.",
+"inw": "Budowa podziemnej sieci elektroenergetycznej nn 0,4 kV, podziemnej sieci elektroenergetycznej SN 15 kV oraz demontaż podziemnych sieci nn 0,4 kV i SN 15 kV",
+"nier": "ul. Zabraniecka 8E; dzielnica Targówek",
+"dz": "dz. ewid. nr 11/9, 11/10 obręb 4- 11-14"
+}
+},
+{
+"d": "2026-04-30",
+"c": {
+"nr": "UD-X-WAB-UR. 6730.10.2026.KRO",
+"data": "30.04.2026",
+"wn": "ORLEN. S. A.",
+"inw": "Rozbudowa i przebudowa stacji paliw",
+"nier": "ul. Syrokomli 4; dzielnica Targówek",
+"dz": "dz. ewid. nr 7/1, 7/2, 7/3 z obręb 2- 08-21"
+}
+},
+{
+"d": "2026-03-30",
+"c": {
+"nr": "UD-X-WAB-UR. 6730.9.2026.PTR",
+"data": "30.03.2026",
+"wn": "Rohe Group sp. Z o.o.",
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym",
+"nier": "ul. Radzymińska 87/89; dzielnica Targówek",
+"dz": "dz. ewid. nr 121, 123/1 obręb 4-10- 14"
+}
+},
+{
+"d": "2026-03-19",
+"c": {
+"nr": "UD-X-WAB-UR. 6733.1.2026.PTR",
+"data": "19.03.2026",
+"wn": "Stoen Operator Sp. z o.o",
+"inw": "Rozbudowa i przebudowa stacji elektroenergetycznej 110/15 kV RPZ Targówek",
+"nier": "ul. Poleska; dzielnica Targówek",
+"dz": "dz. ewid. nr 51/1 obręb 4-10-12"
+}
+},
+{
+"d": "2026-03-06",
+"c": {
+"nr": "UD-X-WAB-UR. 6730.8.2026.ZKA",
+"data": "06.03.2026",
+"wn": "LW Development 12 Sp. z o. o.",
+"inw": "Przeniesienie decyzji o warunkach zabudowy nr 02/T/2021 z dnia 12.01.2021 r. dot. budowy budynku mieszkalnego wielorodzinnego z usługami w parterze oraz garażem podziemnym oraz infrastrukturą techniczną",
+"nier": "ul. Syrokomli; dzielnica Targówek",
+"dz": "dz. ewid. nr 33 i 34 obręb 4-08-17"
+}
+},
+{
+"d": "2026-03-02",
+"c": {
+"nr": "UD-X-WAB-UR. 6730.7.2026.PTR",
+"data": "02.03.2026",
+"wn": "Prologis Poland L Sp. z o.o.",
+"inw": "Przebudowa budynku hali A w zakresie elewacji wraz ze zmianą sposobu użytkowania na produkcyjno- magazynowe oraz budowa dwóch wiat parkingowych i kntenera magazynowego na baterie",
+"nier": "ul. Staniewicka 5; dzielnica Targówek",
+"dz": "dz. ewid. nr 14/3, 14/4, 14/5 obręb 4-18-10"
+}
+},
+{
+"d": "2026-02-12",
+"c": {
+"nr": "UD-X-WAB-UR. 6730.6.2026.KCU",
+"data": "12.02.2026",
+"wn": "osoba fizyczna",
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z garażem w parterze",
+"nier": "ul. Poleska ...; dzielnica Targówek",
+"dz": "dz. ewid. nr ... obręb 4-10-12"
+}
+},
+{
+"d": "2026-01-22",
+"c": {
+"nr": "UD-X-WAB-U. 6730.5.2026.JZP",
+"data": "22.01.2026",
+"wn": "HI Poborzańska III Sp. z o.o.",
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z usługami w parterze, garażem podziemnym oraz budowa infrastruktury technicznej i komunikacyjnej",
+"nier": "ul. Kiejstuta; dzielnica Targówek",
+"dz": "dz. ewid. nr 26/3, 43/1 obręb 4-08- 17"
+}
+},
+{
+"d": "2026-01-12",
+"c": {
+"nr": "UD-X-WAB-U. 6730.4.2026.PTR",
+"data": "12.01.2026",
+"wn": "UNIDOZ Sp. z o.o.",
+"inw": "Rozbudowa i nadbudowa istniejącego budynku o funkcji produkcyjno- socjalno-biurowej wraz ze zmianą sposobu użytkowania na funkcję produkcyjną, socjalno-biurową oraz magazynową",
+"nier": "ul. Staniewicka 28; dzielnica Targówek",
+"dz": "dz. ewid. nr 7/1 obręb 4-18-10"
+}
+},
+{
+"d": "2026-01-09",
+"c": {
+"nr": "UD-X-WAB-U. 6730.2.2026.PTR",
+"data": "09.01.2026",
+"wn": "osoba fizyczna",
+"inw": "Przebudowa i rozbudowa budynku mieszkalnego jednorodzinnego",
+"nier": "ul. Lusińska...; dzielnica Targówek",
+"dz": "dz. ewid. nr ... obręb 4-10-05"
+}
+},
+{
+"d": "2026-01-09",
+"c": {
+"nr": "UD-X-WAB-U. 6730.3.2026.PTR",
+"data": "09.01.2026",
+"wn": "Prologis Poland L Sp. z o.o.",
+"inw": "Budowa wiat samochodowych (CARPORTÓW) zintegrowanych z instalacją fotowoltaiczną o mocy do 50 kWp wraz z podłączeniem do istniejącej hali produkcyjno-magazynowej oraz niezbędną infrastrukturą techniczną",
+"nier": "ul. Staniewicka 5; dzielnica Targówek",
+"dz": "dz. ewid. nr 14/4, 14/5 obręb 4-18- 10"
+}
+},
+{
+"d": "2026-01-07",
+"c": {
+"nr": "UD-X-WAB-U. 6730.1.2026.ZKA",
+"data": "07.01.2026",
+"wn": "osoba fizyczna",
+"inw": "we wniosku nie określono nazwy inwestycji",
+"nier": "ul. Promienna …; dzielnica Targówek",
+"dz": "dz. ewid. nr ... obręb 4-09-27"
+}
+}
+]
+},
+{
+"id": "dec_wz",
+"name": "Decyzje o warunkach zabudowy",
+"short": "Decyzje WZ",
+"desc": "Informacja o wydanych decyzjach w sprawie warunków zabudowy.",
+"file": "dec_wz_2026_06_Informacja_o_wydanych_decyzjach_w_sprawie_warunk_w_7bb813.pdf",
+"url": "https://cdn.um.warszawa.pl/documents/49392/152182043/Informacja+o+wydanych+decyzjach+w+sprawie+warunk%C3%B3w+zabudowy-czerwiec-2026.pdf/3a02c0d1-f84e-dd68-9c0b-0aca069f27ee?t=1780907115627",
+"cols": [
+{
+"k": "nr",
+"l": "Nr decyzji",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Streszczenie ustaleń",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Wnioskodawca",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Ulica",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2026-05-29",
+"c": {
+"nr": "6/TRG/WZ/2026",
+"data": "2026-05-29",
+"wn": "Prologis Poland L Sp. z o.o.",
+"nier": "ul. Staniewicka 5; dzielnica Targówek",
+"dz": "dz. ewid. nr 14/3, 14/4, 14/5 obręb 4-18-10",
+"inw": "Przebudowa budynku hali A w zakresie elewacji wraz ze zmianą sposobu użytkowania na produkcyjno–magazynowe oraz budową dwóch wiat parkingowych i kontenera magazynowego na baterie na terenie Centrum Dystrybucyjnego Prologis Park Warsaw II"
+}
+},
+{
+"d": "2026-05-27",
+"c": {
+"nr": "5/TRG/WZ/2026",
+"data": "2026-05-27",
+"wn": "UNIDOZ Sp. z o.o.",
+"nier": "ul. Staniewicka 28; dzielnica Targówek",
+"dz": "dz. ewid. nr 7/1 obręb 4-18-10",
+"inw": "Rozbudowa i nadbudowa istniejącego budynku o funkcji produkcyjno-socjalno-biurowej wraz ze zmianą sposobu użytkowania na funkcję produkcyjną, socjalno-biurową oraz magazynową"
+}
+},
+{
+"d": "2026-03-26",
+"c": {
+"nr": "4/TRG/WZ/2026",
+"data": "2026-03-26",
+"wn": "Prologis Poland L Sp. z o.o.",
+"nier": "ul. Staniewicka 5; dzielnica Targówek",
+"dz": "dz. ewid. nr 14/4, 14/5 obręb 4-18-10",
+"inw": "Budowa wiat samochodowych (CARPORTÓW) zintegrowanych z instalacją fotowoltaiczną o mocy do 50 kWp wraz z podłączeniem do istniejącej hali produkcyjno-magazynowej oraz niezbędną infrastrukturą techniczną"
+}
+},
+{
+"d": "2026-03-11",
+"c": {
+"nr": "3/TRG/WZ/2026/P",
+"data": "2026-03-11",
+"wn": "LW Development 12 Sp. z o. o.",
+"nier": "ul. Syrokomli; dzielnica Targówek",
+"dz": "dz. ewid. nr 33 i 34 obręb 4-08-17",
+"inw": "Przeniesienie decyzji o warunkach zabudowy nr 02/T/2021 z dnia 12.01.2021 r. dot. budowy budynku mieszkalnego wielorodzinnego z usługami w parterze oraz garażem podziemnym oraz infrastrukturą techniczną"
+}
+},
+{
+"d": "2026-03-10",
+"c": {
+"nr": "2/TRG/WZ/2026/W",
+"data": "2026-03-10",
+"wn": "Robotnicza Spółdzielnia Mieszkaniowa ,,Praga\"",
+"nier": "Olgierda; dzielnica Targówek",
+"dz": "dz. ewid. nr 237/2 obręb 4-10-09",
+"inw": "Swierdzenie wygaśnięcia decyzji nr 07/TRG/WZ/2024 - budowa budynku mieszkalnego wielorodzinnego z usługą i garażem podziemnym"
+}
+},
+{
+"d": "2026-01-19",
+"c": {
+"nr": "01/TRG/WZ/2026",
+"data": "2026-01-19",
+"wn": "Malory Investment Sp. zo.o. Sp.k.",
+"nier": "ul. Oszmiańska13; dzielnica Targówek",
+"dz": "dz. ewid. nr 87 obręb 4-10-12",
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym wraz z niezbędną infrastrukturą techniczną (zbiornikiem retencyjnym)"
+}
+}
+]
+},
+{
+"id": "dec_icp",
+"name": "Decyzje o lokalizacji inwestycji celu publicznego",
+"short": "Decyzje ICP",
+"desc": "Informacja o wydanych decyzjach w sprawie ustalenia lokalizacji inwestycji celu publicznego o znaczeniu powiatowym i gminnym.",
+"file": "dec_icp_2026_06_Informacja_o_wydanych_decyzjach_w_sprawie_ustaleni_46faea.pdf",
+"url": "https://cdn.um.warszawa.pl/documents/49392/152182043/Informacja+o+wydanych+decyzjach+w+sprawie+ustalenia+lokalizacji+inwestycji+celu+publicznego+o+znaczeniu+powiatowym+i+gminnym+czerwiec+2026.pdf/d02543b8-c0e9-3567-8ec2-debc933f8d92?t=1780906867682",
+"cols": [
+{
+"k": "nr",
+"l": "Nr decyzji",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Streszczenie ustaleń",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Wnioskodawca",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Ulica",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2026-05-29",
+"c": {
+"nr": "3/TRG/CP/2026/U",
+"data": "2026-05-29",
+"wn": "Stoen Operator Sp. z o.o.",
+"inw": "Rozbudowa i przebudowa stacji elektroenergetycznej 110/15 kV RPZ Targówek",
+"nier": "ul. Poleska; dzielnica Targówek",
+"dz": "dz. ewid. nr 51/1 obręb 4-10-12"
+}
+},
+{
+"d": "2026-03-11",
+"c": {
+"nr": "2/TRG/CP/2026/U",
+"data": "2026-03-11",
+"wn": "ORLEN S.A.",
+"inw": "Umorzenie postępowania ws. budowy ekranu akustycznego na terenie stacji paliw Orlen nr 841 w Warszawie przy ul. Syrokomli 4",
+"nier": "Syrokomli 4; dzielnica Targówek",
+"dz": "dz. ewid. nr 7/2 obręb 4-08-21"
+}
+},
+{
+"d": "2026-02-16",
+"c": {
+"nr": "1/TRG/CP/2026",
+"data": "2026-02-16",
+"wn": "K2 Residental Sp. z o.o. Sp. k.",
+"inw": "Budowa sieci wodociągowej DN100",
+"nier": "ul. Pożarowa; dzielnica Targówek",
+"dz": "dz. ewid. nr 76/2 obręb 4-08-21"
+}
+}
+]
+}
+]
+}

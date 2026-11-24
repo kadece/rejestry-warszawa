@@ -1,0 +1,3348 @@
+{
+"district": "rembertow",
+"year": 2021,
+"generated": "2026-11-24T21:23:06+01:00",
+"total": 296,
+"registers": [
+{
+"id": "wn_pnb",
+"name": "Wnioski o pozwolenie na budowę",
+"short": "Wnioski PnB",
+"desc": "Wnioski o pozwolenie na budowę złożone do organu architektoniczno-budowlanego dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer wniosku",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2021-12-30",
+"c": {
+"inw": "2 budynki mieszkalne wielorodzinne budowa nowego/nowych obiektów budowlanych",
+"wn": "Park Leśny Rembertów",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0802 20/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.162.2021 JKA"
+}
+},
+{
+"d": "2021-12-30",
+"c": {
+"inw": "2 budynki mieszkalne wielorodzinne budowa nowego/nowych obiektów budowlanych",
+"wn": "Park Leśny Rembertów",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0802 19/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.162.2021 JKA"
+}
+},
+{
+"d": "2021-12-30",
+"c": {
+"inw": "2 budynki mieszkalne wielorodzinne budowa nowego/nowych obiektów budowlanych",
+"wn": "Park Leśny Rembertów",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0802 1/17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.162.2021 JKA"
+}
+},
+{
+"d": "2021-12-30",
+"c": {
+"inw": "Instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Szyszaków 12",
+"dz": "146509_8 0918 81",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD.VIII.WAB.6740.1.2022 EKO"
+}
+},
+{
+"d": "2021-12-22",
+"c": {
+"inw": "Instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Fizylierów 14",
+"dz": "146509_8 0078 54",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD.VIII.WAB.6740.158.2021 EKO"
+}
+},
+{
+"d": "2021-12-21",
+"c": {
+"inw": "rozbudowa, nadbudowa budynku jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Chełmżyńska 14",
+"dz": "146509_8 0710 121",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.160.2021 EKO"
+}
+},
+{
+"d": "2021-12-20",
+"c": {
+"inw": "Instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kapelusznicza 27",
+"dz": "146509_8 0909 3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.157.2021 IMA"
+}
+},
+{
+"d": "2021-12-15",
+"c": {
+"inw": "przebudowa budynku jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kordiana 71b",
+"dz": "146509_8 0921 59/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.156.2021 IMA"
+}
+},
+{
+"d": "2021-11-17",
+"c": {
+"inw": "2 bud. jednorodzinne budowa nowego/nowych obiektów budowlanych",
+"wn": "Markbet",
+"nier": "Magenta",
+"dz": "146509_8 0911 36/12",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.148.2021 BMA"
+}
+},
+{
+"d": "2021-11-17",
+"c": {
+"inw": "2 bud. jednorodzinne budowa nowego/nowych obiektów budowlanych",
+"wn": "Markbet",
+"nier": "Magenta",
+"dz": "146509_8 0911 36/13",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.148.2021 BMA"
+}
+},
+{
+"d": "2021-11-17",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Bocheńskiego \"Dubańca\" 49 / Eugeniusza",
+"dz": "146509_8 0048 194/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.149.2021 IMA"
+}
+},
+{
+"d": "2021-11-17",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Bocheńskiego \"Dubańca\" 49 / Eugeniusza",
+"dz": "146509_8 0048 194/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.149.2021 IMA"
+}
+},
+{
+"d": "2021-11-16",
+"c": {
+"inw": "remont i przebudowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Akademia Sztuki Wojennej",
+"nier": "Aleja gen. Antoniego Chruściela \"Montera\" 103",
+"dz": "146509_8 2128 2/178",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.147.2021 EKO"
+}
+},
+{
+"d": "2021-11-10",
+"c": {
+"inw": "budynek jednorodzinny wraz z rozbiórką budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Szatkowników 5",
+"dz": "146509_8 0829 81",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.150.2021 IMA"
+}
+},
+{
+"d": "2021-11-10",
+"c": {
+"inw": "rozbudowa bud. jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Paderewskiego 170 / Ignacego",
+"dz": "146509_8 0906 1/55",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.151.2021 JKA"
+}
+},
+{
+"d": "2021-11-09",
+"c": {
+"inw": "budynek jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Szafarzy",
+"dz": "146509_8 0912 42/7",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.152.2021 EKO"
+}
+},
+{
+"d": "2021-11-08",
+"c": {
+"inw": "inst.gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Żeligowskiego 8 / gen. Lucjana",
+"dz": "146509_8 0051 76/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.145.2021 JKA"
+}
+},
+{
+"d": "2021-11-03",
+"c": {
+"inw": "rozb.bud. miesz. i 2 bud.gosp. rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Listonoszy 27",
+"dz": "146509_8 0914 66",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6741.11.2021 IMA"
+}
+},
+{
+"d": "2021-10-19",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Koniecpolska 33",
+"dz": "146509_8 0706 90",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.140.2021 BMA"
+}
+},
+{
+"d": "2021-10-11",
+"c": {
+"inw": "Rozbudowa i przebudowa budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Bocheńskiego \"Dubańca\" 13 / Eugeniusza",
+"dz": "146509_8 0047 60/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD.VIII.WAB.6740.138.2021 EKO"
+}
+},
+{
+"d": "2021-10-04",
+"c": {
+"inw": "rozbiórka 2 budynku jednorodzinne rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Chłopickiego 94 / Józefa",
+"dz": "146509_8 0702 59",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6741.10.2021 IMA"
+}
+},
+{
+"d": "2021-09-28",
+"c": {
+"inw": "budynek jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Paderewskiego / Ignacego",
+"dz": "146509_8 0906 2/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.136.2021 BMA"
+}
+},
+{
+"d": "2021-09-22",
+"c": {
+"inw": "przebudowa szatni i węzłów sanitarnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Akademia Sztuki Wojennej",
+"nier": "Aleja gen. Antoniego Chruściela \"Montera\" 103",
+"dz": "146509_8 2128 2/186",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.133.2021 EKO"
+}
+},
+{
+"d": "2021-09-22",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Konwisarska 94",
+"dz": "146509_8 0930 57",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.134.2021 JKA"
+}
+},
+{
+"d": "2021-09-21",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Madziarów 59",
+"dz": "146509_8 0911 75",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.135.2021 JKA"
+}
+},
+{
+"d": "2021-09-20",
+"c": {
+"inw": "4 budynki jednorodzinne budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Kadrowa",
+"dz": "146509_8 0917 58/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.131.2021 BMA"
+}
+},
+{
+"d": "2021-09-20",
+"c": {
+"inw": "siec wodociągowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK",
+"nier": "Przedświt",
+"dz": "146509_8 0050 120",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.132.2021 EKO"
+}
+},
+{
+"d": "2021-09-17",
+"c": {
+"inw": "sieć wodociągowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0702 56",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.128.2021 JKA"
+}
+},
+{
+"d": "2021-09-17",
+"c": {
+"inw": "sieć wodociągowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0702 48",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.128.2021 JKA"
+}
+},
+{
+"d": "2021-09-17",
+"c": {
+"inw": "sieć wodociągowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0703 29",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.128.2021 JKA"
+}
+},
+{
+"d": "2021-09-16",
+"c": {
+"inw": "budynek jednoroldzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Roty 84",
+"dz": "146509_8 0917 100",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.129.2021 EKO"
+}
+},
+{
+"d": "2021-09-16",
+"c": {
+"inw": "budynek jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Paderewskiego / Ignacego",
+"dz": "146509_8 0912 39/12",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.127.2021 IMA"
+}
+},
+{
+"d": "2021-09-15",
+"c": {
+"inw": "4 budynki jednorodzinne budowa nowego/nowych obiektów budowlanych",
+"wn": "ARTVILLE Szadkowski",
+"nier": "Szeroka",
+"dz": "146509_8 0702 17/21",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.126.2021 BMA"
+}
+},
+{
+"d": "2021-09-14",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Jerzego 16",
+"dz": "146509_8 0914 93",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.124.2021 IMA"
+}
+},
+{
+"d": "2021-09-13",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Krobińska 23",
+"dz": "146509_8 0702 240/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.123.2021 IMA"
+}
+},
+{
+"d": "2021-09-09",
+"c": {
+"inw": "budynek jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Czwartaków 156",
+"dz": "146509_8 0909 23/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.122.2021 JKA"
+}
+},
+{
+"d": "2021-09-08",
+"c": {
+"inw": "rozbiórka budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Dziewosłęby 1",
+"dz": "146509_8 0927 24",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6741.9.2021 IMA"
+}
+},
+{
+"d": "2021-09-07",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Zygmunta Augusta 16",
+"dz": "146509_8 0077 53",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.119.2021 JKA"
+}
+},
+{
+"d": "2021-09-03",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Płatnerska 81",
+"dz": "146509_8 0078 43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.120.2021 IMA"
+}
+},
+{
+"d": "2021-09-03",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Pielgrzymów 21A",
+"dz": "146509_8 0921 90",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.121.2021 IMA"
+}
+},
+{
+"d": "2021-09-02",
+"c": {
+"inw": "rozbudowa i nadbudowa budynku jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Karla 3",
+"dz": "146509_8 0074 33",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.117.2021 IMA"
+}
+},
+{
+"d": "2021-09-02",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Paderewskiego / Ignacego",
+"dz": "146509_8 0905 20/17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.118.2021 JKA"
+}
+},
+{
+"d": "2021-08-17",
+"c": {
+"inw": "rozbiórka budynku administracyjnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGNiG TERMIKA S.A.",
+"nier": "Chełmżyńska 180",
+"dz": "146509_8 0805 96/22",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6741.7.2021 IMA"
+}
+},
+{
+"d": "2021-08-17",
+"c": {
+"inw": "rozbiórka budynku administracyjnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGNiG TERMIKA S.A.",
+"nier": "Chełmżyńska 180",
+"dz": "146509_8 0805 96/36",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6741.7.2021 IMA"
+}
+},
+{
+"d": "2021-08-17",
+"c": {
+"inw": "rozbiórka budynku administracyjnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGNiG TERMIKA S.A.",
+"nier": "Chełmżyńska 180",
+"dz": "146509_8 0805 96/55",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6741.7.2021 IMA"
+}
+},
+{
+"d": "2021-08-16",
+"c": {
+"inw": "instalacja bazu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Aleja Komandosów 28",
+"dz": "146509_8 0050 39",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.110.2021 BMA"
+}
+},
+{
+"d": "2021-08-16",
+"c": {
+"inw": "podniesienie dachu budynek jednorodzinny wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Świetlicka 37",
+"dz": "146509_8 0706 41/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.109.2021 IMA"
+}
+},
+{
+"d": "2021-08-12",
+"c": {
+"inw": "przebudowa i rozbudowa budynku biurowego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Petra Medica Sp. Z O.O.",
+"nier": "Kordiana 78",
+"dz": "146509_8 0921 74",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.112.2021 EKO"
+}
+},
+{
+"d": "2021-08-11",
+"c": {
+"inw": "rozbudowa instalacji gazowej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Licealna 26",
+"dz": "146509_8 0918 27",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.114.2021 IMA"
+}
+},
+{
+"d": "2021-08-06",
+"c": {
+"inw": "budynek wielorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Kordiana 71b",
+"dz": "146509_8 0921 135/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.108.2021 BMA"
+}
+},
+{
+"d": "2021-08-04",
+"c": {
+"inw": "budynek jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Kadrowa",
+"dz": "146509_8 0912 24/14",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.106.2021 IMA"
+}
+},
+{
+"d": "2021-07-30",
+"c": {
+"inw": "4 budynki jednorodzinne budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Łukowska 31",
+"dz": "146509_8 0704 212",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.104.2021 JKA"
+}
+},
+{
+"d": "2021-07-29",
+"c": {
+"inw": "budowa 12 instalacji gazowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0703 95",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.100.2021 JKA"
+}
+},
+{
+"d": "2021-07-29",
+"c": {
+"inw": "budowa 12 instalacji gazowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0703 126",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.100.2021 JKA"
+}
+},
+{
+"d": "2021-07-29",
+"c": {
+"inw": "budowa 12 instalacji gazowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0703 127/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.100.2021 JKA"
+}
+},
+{
+"d": "2021-07-29",
+"c": {
+"inw": "budowa 12 instalacji gazowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0703 127/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.100.2021 JKA"
+}
+},
+{
+"d": "2021-07-28",
+"c": {
+"inw": "instalacja gazu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Mokry Ług 49",
+"dz": "146509_8 0904 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.101.2021 EKO"
+}
+},
+{
+"d": "2021-07-26",
+"c": {
+"inw": "budynek jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Buchalteryjna",
+"dz": "146509_8 0910 81",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.103.2021 BMA"
+}
+},
+{
+"d": "2021-07-22",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Cyrulików 117",
+"dz": "146509_8 0929 86",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.98.2021 BMA"
+}
+},
+{
+"d": "2021-07-20",
+"c": {
+"inw": "nadbudowa budynku jednorodzinnego nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Pielgrzymów 13A",
+"dz": "146509_8 0920 83",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.96.2021 BMA"
+}
+},
+{
+"d": "2021-07-20",
+"c": {
+"inw": "budynek jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Strycharska",
+"dz": "146509_8 0921 33/8",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.97.2021 EKO"
+}
+},
+{
+"d": "2021-07-15",
+"c": {
+"inw": "przebudowa 7 otworów okiennych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Rzymskokatolicka Parafia Matki Boskiej Zwycięskiej",
+"nier": "Grzybowa 1",
+"dz": "146509_8 0049 4/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.92.2021 BMA"
+}
+},
+{
+"d": "2021-07-14",
+"c": {
+"inw": "Przebudowa zabytkowego budynku nr 62 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Akademia Sztuki Wojennej",
+"nier": "Aleja gen. Antoniego Chruściela \"Montera\" 103",
+"dz": "146509_8 2128 2/186",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.95.2021 EKO"
+}
+},
+{
+"d": "2021-07-14",
+"c": {
+"inw": "Przebudowa zabytkowego budynku nr 62 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Akademia Sztuki Wojennej",
+"nier": "Aleja gen. Antoniego Chruściela \"Montera\" 103",
+"dz": "146509_8 2128 2/163",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.95.2021 EKO"
+}
+},
+{
+"d": "2021-07-14",
+"c": {
+"inw": "Przebudowa zabytkowego budynku nr 62 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Akademia Sztuki Wojennej",
+"nier": "Aleja gen. Antoniego Chruściela \"Montera\" 103",
+"dz": "146509_8 2128 2/161",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.95.2021 EKO"
+}
+},
+{
+"d": "2021-07-14",
+"c": {
+"inw": "Przebudowa zabytkowego budynku nr 62 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Akademia Sztuki Wojennej",
+"nier": "Aleja gen. Antoniego Chruściela \"Montera\" 103",
+"dz": "146509_8 2128 2/160",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.95.2021 EKO"
+}
+},
+{
+"d": "2021-07-13",
+"c": {
+"inw": "instalacja gazu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Aleja Sztandarów 13/15",
+"dz": "146509_8 0918 62",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.91.2021 JKA"
+}
+},
+{
+"d": "2021-07-12",
+"c": {
+"inw": "instalacja gazu budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Niedziałkowskiego 21 / Mieczysława",
+"dz": "146509_8 0076 28",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.90.2021 IMA"
+}
+},
+{
+"d": "2021-07-09",
+"c": {
+"inw": "budynek jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Stelmachów",
+"dz": "146509_8 0702 33/6",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.86.2021 IMA"
+}
+},
+{
+"d": "2021-07-09",
+"c": {
+"inw": "budynek jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Stelmachów",
+"dz": "146509_8 0702 36/7",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.86.2021 IMA"
+}
+},
+{
+"d": "2021-07-09",
+"c": {
+"inw": "budynek jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Stelmachów",
+"dz": "146509_8 0702 37/10",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.86.2021 IMA"
+}
+},
+{
+"d": "2021-07-07",
+"c": {
+"inw": "insatalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Madziarów 41",
+"dz": "146509_8 0916 41/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.87.2021 IMA"
+}
+},
+{
+"d": "2021-07-07",
+"c": {
+"inw": "insatalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Madziarów 41",
+"dz": "146509_8 0916 47/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.87.2021 IMA"
+}
+},
+{
+"d": "2021-07-05",
+"c": {
+"inw": "budowa hali budowa nowego/nowych obiektów budowlanych",
+"wn": "PDC Industrial Center",
+"nier": "Aleja Niepodległości 214",
+"dz": "146509_8 0801 5/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.89.2021 JKA"
+}
+},
+{
+"d": "2021-07-05",
+"c": {
+"inw": "budowa hali budowa nowego/nowych obiektów budowlanych",
+"wn": "PDC Industrial Center",
+"nier": "Aleja Niepodległości 214",
+"dz": "146509_8 0804 20/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.89.2021 JKA"
+}
+},
+{
+"d": "2021-07-05",
+"c": {
+"inw": "budowa hali budowa nowego/nowych obiektów budowlanych",
+"wn": "PDC Industrial Center",
+"nier": "Aleja Niepodległości 214",
+"dz": "146509_8 0804 20/42",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.89.2021 JKA"
+}
+},
+{
+"d": "2021-07-01",
+"c": {
+"inw": "rozbudowa i nadbudowa rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Lakowa 5",
+"dz": "146509_8 0710 95/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.88.2021 JKA"
+}
+},
+{
+"d": "2021-06-30",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Paderewskiego 168d / Ignacego",
+"dz": "146509_8 0906 4/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.84.2021 IMA"
+}
+},
+{
+"d": "2021-06-30",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Paderewskiego 168d / Ignacego",
+"dz": "146509_8 0906 4/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.84.2021 IMA"
+}
+},
+{
+"d": "2021-06-24",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Szafarzy 25",
+"dz": "146509_8 0911 83/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.83.2021 BMA"
+}
+},
+{
+"d": "2021-06-21",
+"c": {
+"inw": "budowa kotłowni gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Rembertów",
+"nier": "Dwóch Mieczy 35",
+"dz": "146509_8 0077 39",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.79.2021 JKA"
+}
+},
+{
+"d": "2021-06-21",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Strażacka 39 B",
+"dz": "146509_8 0806 46/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.82.2021 IMA"
+}
+},
+{
+"d": "2021-06-18",
+"c": {
+"inw": "rozbudowa przychodni rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "SZPZLO",
+"nier": "Zawiszaków 23",
+"dz": "146509_8 0925 32",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.81.2021 BMA"
+}
+},
+{
+"d": "2021-06-14",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Paderewskiego / Ignacego",
+"dz": "146509_8 0920 143",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII.WAB.6740.78.2021 IMA"
+}
+},
+{
+"d": "2021-06-11",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0804 30/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.76.2021 JKA"
+}
+},
+{
+"d": "2021-06-11",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0804 31/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.76.2021 JKA"
+}
+},
+{
+"d": "2021-06-11",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0804 32/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.76.2021 JKA"
+}
+},
+{
+"d": "2021-06-11",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0804 32/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.76.2021 JKA"
+}
+},
+{
+"d": "2021-06-11",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0804 34/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.76.2021 JKA"
+}
+},
+{
+"d": "2021-06-11",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0804 35/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.76.2021 JKA"
+}
+},
+{
+"d": "2021-06-11",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0804 36/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.76.2021 JKA"
+}
+},
+{
+"d": "2021-06-11",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0804 37/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.76.2021 JKA"
+}
+},
+{
+"d": "2021-06-07",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "ST-Investment",
+"nier": "Jerzego",
+"dz": "146509_8 0910 75",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.72.2021 IMA"
+}
+},
+{
+"d": "2021-06-02",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Ziemskiego \"Wachnowskiego\" 12 / gen. Karola",
+"dz": "146509_8 0929 2/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.74.2021 JKA"
+}
+},
+{
+"d": "2021-06-02",
+"c": {
+"inw": "rozbiórka części wiaty magazynowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "Polbruk S.A.",
+"nier": "Chełmżyńska 249",
+"dz": "146509_8 0804 20/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6741.5.2021 IMA"
+}
+},
+{
+"d": "2021-06-02",
+"c": {
+"inw": "rozbiórka części wiaty magazynowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "Polbruk S.A.",
+"nier": "Chełmżyńska 249",
+"dz": "146509_8 0804 20/15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6741.5.2021 IMA"
+}
+},
+{
+"d": "2021-06-02",
+"c": {
+"inw": "rozbiórka części wiaty magazynowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "Polbruk S.A.",
+"nier": "Chełmżyńska 249",
+"dz": "146509_8 0804 20/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6741.5.2021 IMA"
+}
+},
+{
+"d": "2021-06-02",
+"c": {
+"inw": "rozbiórka części wiaty magazynowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "Polbruk S.A.",
+"nier": "Chełmżyńska 249",
+"dz": "146509_8 0804 20/18",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6741.5.2021 IMA"
+}
+},
+{
+"d": "2021-06-02",
+"c": {
+"inw": "rozbiórka części wiaty magazynowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "Polbruk S.A.",
+"nier": "Chełmżyńska 249",
+"dz": "146509_8 0804 20/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6741.5.2021 IMA"
+}
+},
+{
+"d": "2021-05-31",
+"c": {
+"inw": "przebudowa i rozbudowa budynku Nr 69 Kasyno rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Akademia Sztuki Wojennej",
+"nier": "Aleja gen. Antoniego Chruściela \"Montera\" 103",
+"dz": "146509_8 2128 2/188",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.73.2021 EKO"
+}
+},
+{
+"d": "2021-05-31",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Jerzego 79",
+"dz": "146509_8 0913 2/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.62.2021 JKA"
+}
+},
+{
+"d": "2021-05-31",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Gontarska 11C,D,E",
+"dz": "146509_8 0702 276",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.65.2021 BMA"
+}
+},
+{
+"d": "2021-05-31",
+"c": {
+"inw": "remont pomieszczenia nr 301 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Akademia Sztuki Wojennej",
+"nier": "Aleja gen. Antoniego Chruściela \"Montera\" 103",
+"dz": "146509_8 2128 2/180",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.69.2021 JKA"
+}
+},
+{
+"d": "2021-05-31",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Gontarska 11,11A,11B",
+"dz": "146509_8 0702 276",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.64.2021 BMA"
+}
+},
+{
+"d": "2021-05-31",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Gontarska 67A",
+"dz": "146509_8 0702 276",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.63.2021 BMA"
+}
+},
+{
+"d": "2021-05-31",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Żeligowskiego 4 / gen. Lucjana",
+"dz": "146509_8 0051 74",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.66.2021 IMA"
+}
+},
+{
+"d": "2021-05-31",
+"c": {
+"inw": "remont pomieszczenia 419 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Akademia Sztuki Wojennej",
+"nier": "Aleja gen. Antoniego Chruściela \"Montera\" 103",
+"dz": "146509_8 2128 2/180",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.68.2021 EKO"
+}
+},
+{
+"d": "2021-05-28",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Dwóch Mieczy 43",
+"dz": "146509_8 0077 43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.77.2021 EKO"
+}
+},
+{
+"d": "2021-05-27",
+"c": {
+"inw": "zmiana lokalu usługowego nr 1.3 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Termotechnika",
+"nier": "Topograficzna 1.3",
+"dz": "146509_8 2128 241",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.85.2021 BMA"
+}
+},
+{
+"d": "2021-05-24",
+"c": {
+"inw": "INSTALACJA GAZOWA wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Karla 3",
+"dz": "146509_8 0074 33",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.59.2021 IMA"
+}
+},
+{
+"d": "2021-05-20",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolnostojącego wraz z urządzeniami budowlanymi oraz jednoczesną rozbiórką trzech istniejących budynków budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Listonoszy",
+"dz": "146509_8 0914 53",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.60.2021 BMA"
+}
+},
+{
+"d": "2021-05-17",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Konwisarska 77",
+"dz": "146509_8 0930 77",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII.WAB.6740.56.2021 IMA"
+}
+},
+{
+"d": "2021-05-17",
+"c": {
+"inw": "budynek jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Budnicza",
+"dz": "146509_8 0902 49",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.55.2021 IMA"
+}
+},
+{
+"d": "2021-05-14",
+"c": {
+"inw": "budynek jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "Dramex Sp. z o.o.",
+"nier": "Licealna",
+"dz": "146509_8 0913 71/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.53.2021 EKO"
+}
+},
+{
+"d": "2021-05-13",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Paderewskiego 69 / Ignacego",
+"dz": "146509_8 0916 108",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.57.2021 BMA"
+}
+},
+{
+"d": "2021-05-13",
+"c": {
+"inw": "rozbudowa i przebudowa rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Kanonierska 6",
+"dz": "146509_8 0917 296/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.54.2021 BMA"
+}
+},
+{
+"d": "2021-05-13",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kapitańska",
+"dz": "146509_8 0914 13/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.58.2021 IMA"
+}
+},
+{
+"d": "2021-05-12",
+"c": {
+"inw": "budynek jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Pastuszków",
+"dz": "146509_8 0902 41/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.51.2021 EKO"
+}
+},
+{
+"d": "2021-05-11",
+"c": {
+"inw": "budynek jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Licealna 56",
+"dz": "146509_8 0913 38/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.49.2021 EKO"
+}
+},
+{
+"d": "2021-05-10",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Aleja Komandosów 22",
+"dz": "146509_8 0922 15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.52.2021 JKA"
+}
+},
+{
+"d": "2021-05-10",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Aleja Komandosów 22",
+"dz": "146509_8 0922 16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.52.2021 JKA"
+}
+},
+{
+"d": "2021-05-07",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Markietanki 21",
+"dz": "146509_8 0929 3/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.46.2021 IMA"
+}
+},
+{
+"d": "2021-05-06",
+"c": {
+"inw": "instalacja gazu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kacpury 23 / Antoniego",
+"dz": "146509_8 0048 35",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIIIWAB.6740.47.2021 EKO"
+}
+},
+{
+"d": "2021-05-05",
+"c": {
+"inw": "przebudowa i nadbudowa budynku jednorodzinnego nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Jerzego 45",
+"dz": "146509_8 0913 14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.48.2021 JKA"
+}
+},
+{
+"d": "2021-05-04",
+"c": {
+"inw": "budynek jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Paderewskiego / Ignacego",
+"dz": "146509_8 0912 42/8",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.45.2021 EKO"
+}
+},
+{
+"d": "2021-04-29",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Zawodowa 51",
+"dz": "146509_8 0917 128/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.44.2021 IMA"
+}
+},
+{
+"d": "2021-04-22",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Solferino",
+"dz": "146509_8 0914 125/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.43.2021 IMA"
+}
+},
+{
+"d": "2021-04-22",
+"c": {
+"inw": "2 budynki jednorodzinne budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Paderewskiego / Ignacego",
+"dz": "146509_8 0906 1/60",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.42.2021 JKA"
+}
+},
+{
+"d": "2021-04-20",
+"c": {
+"inw": "budynek jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Ułańska 3",
+"dz": "146509_8 0928 41/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.39.2021 JKA"
+}
+},
+{
+"d": "2021-04-19",
+"c": {
+"inw": "rozbudowa budynku jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Szatkowników 9",
+"dz": "146509_8 0929 64",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.40.2021 EKO"
+}
+},
+{
+"d": "2021-04-15",
+"c": {
+"inw": "Budowa 4 budynków mieszkalnych jednorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Dokerów",
+"dz": "146509_8 0050 57",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.35.2021 JKA"
+}
+},
+{
+"d": "2021-04-14",
+"c": {
+"inw": "Instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Pielgrzymów 17",
+"dz": "146509_8 0920 86",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD.VIII.WAB.6740.37.2021.IMA"
+}
+},
+{
+"d": "2021-04-12",
+"c": {
+"inw": "Rozbudowa i nadbudowa istniejącego  busynku rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Strażacka",
+"dz": "146509_8 0925 49",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.36.2021 IMA"
+}
+},
+{
+"d": "2021-04-08",
+"c": {
+"inw": "Projekt budowlany instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MD Development",
+"nier": "Witolda 16 / Księcia",
+"dz": "146509_8 0077 132",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.33.2021 JKA"
+}
+},
+{
+"d": "2021-04-07",
+"c": {
+"inw": "Instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Czwartaków 70",
+"dz": "146509_8 0912 19/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.32.2021 IMA"
+}
+},
+{
+"d": "2021-04-01",
+"c": {
+"inw": "Budynek mieszkalny jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Pilarzy",
+"dz": "146509_8 0917 58/23",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.30.2021.BMA"
+}
+},
+{
+"d": "2021-03-30",
+"c": {
+"inw": "Budynek mieszkalny jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Chełmżyńska 102",
+"dz": "146509_8 0074 95",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.28.2021 BMA"
+}
+},
+{
+"d": "2021-03-30",
+"c": {
+"inw": "Budynek mieszkalny jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Czwartaków",
+"dz": "146509_8 0912 19/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.29.2021 IMA"
+}
+},
+{
+"d": "2021-03-26",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "J-Property",
+"nier": "Pielgrzymów 33",
+"dz": "146509_8 0921 98",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.31.2021 JKA"
+}
+},
+{
+"d": "2021-03-25",
+"c": {
+"inw": "Budynek mieszkalny jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Zawodowa",
+"dz": "146509_8 0920 2/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.27.2021 IMA"
+}
+},
+{
+"d": "2021-03-17",
+"c": {
+"inw": "insatalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Bellony 32",
+"dz": "146509_8 0048 9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.26.2021 JKA"
+}
+},
+{
+"d": "2021-03-15",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146509_8 0077 76",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII.WAB.6740.25.2021 BMA"
+}
+},
+{
+"d": "2021-03-12",
+"c": {
+"inw": "rozbiórka rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Szewska 5",
+"dz": "146509_8 0913 138",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6741.4.2021 EKO"
+}
+},
+{
+"d": "2021-03-04",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Pastuszków 7",
+"dz": "146509_8 0902 63",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII.WAB.6740.23.2021 EKO"
+}
+},
+{
+"d": "2021-03-01",
+"c": {
+"inw": "budynek jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Jerzego 21/1",
+"dz": "146509_8 0918 5",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.22.2021 BMA"
+}
+},
+{
+"d": "2021-02-23",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Pielgrzymów 31",
+"dz": "146509_8 0921 97",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII.WAB.6740.21.2021 BMA"
+}
+},
+{
+"d": "2021-02-16",
+"c": {
+"inw": "budynek jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Kramarska",
+"dz": "146509_8 0906 17/4",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII.WAB.6740.20.2021 IMA"
+}
+},
+{
+"d": "2021-02-15",
+"c": {
+"inw": "rozbiorka budynku jednorodzinnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Działyńczyków 16",
+"dz": "146509_8 0078 10/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII.WAB.6741.3.2021 BMA"
+}
+},
+{
+"d": "2021-02-15",
+"c": {
+"inw": "6 bud. jedn. budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Chłopickiego / Józefa",
+"dz": "146509_8 0702 14",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD.VIII.WAB.6740.19.2021 EKO"
+}
+},
+{
+"d": "2021-02-09",
+"c": {
+"inw": "instalacja gazu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Orbity 4",
+"dz": "146509_8 0919 39",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII.WAB.6740.17.2021 BMA"
+}
+},
+{
+"d": "2021-02-04",
+"c": {
+"inw": "budowa sieci wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polenergia",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0802 1/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.15.2021 IMA"
+}
+},
+{
+"d": "2021-02-04",
+"c": {
+"inw": "budowa sieci wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polenergia",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0802 1/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.15.2021 IMA"
+}
+},
+{
+"d": "2021-02-04",
+"c": {
+"inw": "2 budynki dwulokalowe jednorodzinne budowa nowego/nowych obiektów budowlanych",
+"wn": "ERS Development",
+"nier": "Paderewskiego / Ignacego",
+"dz": "146509_8 0912 42/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII.WAB.6740.16.2021 JKA"
+}
+},
+{
+"d": "2021-01-28",
+"c": {
+"inw": "Budynek mieszkalny jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Paderewskiego 140a / Ignacego",
+"dz": "146509_8 0907 11/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.13.2021 BMA"
+}
+},
+{
+"d": "2021-01-25",
+"c": {
+"inw": "przebudowa elewacji wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Jeronimo MARTINS",
+"nier": "Grzybowa 3",
+"dz": "146509_8 0076 116/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII.WAB.6740.11.2021 IMA"
+}
+},
+{
+"d": "2021-01-21",
+"c": {
+"inw": "przebudowa budynku 101 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Akademia Sztuki Wojennej",
+"nier": "Aleja gen. Antoniego Chruściela \"Montera\" 101",
+"dz": "146509_8 2128 2/180",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII.WAB.6740.10.2021 EKO"
+}
+},
+{
+"d": "2021-01-04",
+"c": {
+"inw": "instalacja  gazu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kapelusznicza 15",
+"dz": "146509_8 0909 23/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII.WAB.6740.7.2021 IMA"
+}
+}
+]
+},
+{
+"id": "dec_pnb",
+"name": "Decyzje o pozwoleniu na budowę",
+"short": "Decyzje PnB",
+"desc": "Decyzje o pozwoleniu na budowę wydane przez organ architektoniczno-budowlany dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer decyzji",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2021-12-29",
+"c": {
+"inw": "remont i przebudowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Akademia Sztuki Wojennej",
+"nier": "Aleja gen. Antoniego Chruściela \"Montera\" 103",
+"dz": "146509_8 2128 2/178",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "155/PB/2021"
+}
+},
+{
+"d": "2021-12-27",
+"c": {
+"inw": "rozbudowa bud. jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Paderewskiego 170 / Ignacego",
+"dz": "146509_8 0906 1/55",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "154/PB/2021"
+}
+},
+{
+"d": "2021-12-08",
+"c": {
+"inw": "przebudowa i rozbudowa budynku biurowego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Petra Medica Sp. Z O.O.",
+"nier": "Kordiana 78",
+"dz": "146509_8 0921 74",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "152/PB/2021"
+}
+},
+{
+"d": "2021-12-06",
+"c": {
+"inw": "budynek jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Kadrowa",
+"dz": "146509_8 0912 24/14",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "150/PB/2021"
+}
+},
+{
+"d": "2021-11-29",
+"c": {
+"inw": "budynek jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Strycharska",
+"dz": "146509_8 0921 33/8",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "148/PB/2021"
+}
+},
+{
+"d": "2021-11-24",
+"c": {
+"inw": "inst.gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Żeligowskiego 8 / gen. Lucjana",
+"dz": "146509_8 0051 76/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "147/PB/2021"
+}
+},
+{
+"d": "2021-11-22",
+"c": {
+"inw": "przebudowa szatni i węzłów sanitarnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Akademia Sztuki Wojennej",
+"nier": "Aleja gen. Antoniego Chruściela \"Montera\" 103",
+"dz": "146509_8 2128 2/186",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "145/PB/2021"
+}
+},
+{
+"d": "2021-11-19",
+"c": {
+"inw": "budynek wielorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Kordiana 71b",
+"dz": "146509_8 0921 135/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "146/PB/2021"
+}
+},
+{
+"d": "2021-11-18",
+"c": {
+"inw": "Rozbudowa i przebudowa budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Bocheńskiego \"Dubańca\" 13 / Eugeniusza",
+"dz": "146509_8 0047 60/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "144/PB/2021"
+}
+},
+{
+"d": "2021-11-08",
+"c": {
+"inw": "sieć wodociągowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0702 56",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "142/PB/2021"
+}
+},
+{
+"d": "2021-11-08",
+"c": {
+"inw": "sieć wodociągowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0702 48",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "142/PB/2021"
+}
+},
+{
+"d": "2021-11-08",
+"c": {
+"inw": "sieć wodociągowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0703 29",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "142/PB/2021"
+}
+},
+{
+"d": "2021-11-05",
+"c": {
+"inw": "siec wodociągowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK",
+"nier": "Przedświt",
+"dz": "146509_8 0050 120",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "143//PB/2021"
+}
+},
+{
+"d": "2021-11-03",
+"c": {
+"inw": "rozbiórka 2 budynku jednorodzinne rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Chłopickiego 94 / Józefa",
+"dz": "146509_8 0702 59",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "141/PB/2021"
+}
+},
+{
+"d": "2021-10-29",
+"c": {
+"inw": "budynek jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Buchalteryjna",
+"dz": "146509_8 0910 81",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "140/PB/2021"
+}
+},
+{
+"d": "2021-10-27",
+"c": {
+"inw": "rozbudowa instalacji gazowej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Licealna 26",
+"dz": "146509_8 0918 27",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "138/PB/2021"
+}
+},
+{
+"d": "2021-10-27",
+"c": {
+"inw": "budynek jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Pastuszków",
+"dz": "146509_8 0902 41/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "139/PB/2021"
+}
+},
+{
+"d": "2021-10-26",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Paderewskiego / Ignacego",
+"dz": "146509_8 0905 20/17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "137/PB/2021"
+}
+},
+{
+"d": "2021-10-26",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Krobińska 23",
+"dz": "146509_8 0702 240/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "135/PB/2021"
+}
+},
+{
+"d": "2021-10-26",
+"c": {
+"inw": "budowa 12 instalacji gazowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0703 95",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "136/PB/2021"
+}
+},
+{
+"d": "2021-10-26",
+"c": {
+"inw": "budowa 12 instalacji gazowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0703 126",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "136/PB/2021"
+}
+},
+{
+"d": "2021-10-26",
+"c": {
+"inw": "budowa 12 instalacji gazowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0703 127/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "136/PB/2021"
+}
+},
+{
+"d": "2021-10-26",
+"c": {
+"inw": "budowa 12 instalacji gazowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0703 127/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "136/PB/2021"
+}
+},
+{
+"d": "2021-10-25",
+"c": {
+"inw": "rozbiórka budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Dziewosłęby 1",
+"dz": "146509_8 0927 24",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "132/PB/2021"
+}
+},
+{
+"d": "2021-10-25",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "J-Property",
+"nier": "Pielgrzymów 33",
+"dz": "146509_8 0921 98",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "134/PB/2021"
+}
+},
+{
+"d": "2021-10-25",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Koniecpolska 33",
+"dz": "146509_8 0706 90",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "133/PB/2021"
+}
+},
+{
+"d": "2021-10-22",
+"c": {
+"inw": "nadbudowa budynku jednorodzinnego nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Pielgrzymów 13A",
+"dz": "146509_8 0920 83",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "129/PB/2021"
+}
+},
+{
+"d": "2021-10-07",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Jerzego 16",
+"dz": "146509_8 0914 93",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "127/PB/2021"
+}
+},
+{
+"d": "2021-10-07",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Płatnerska 81",
+"dz": "146509_8 0078 43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "128/PB/2021"
+}
+},
+{
+"d": "2021-10-04",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Madziarów 59",
+"dz": "146509_8 0911 75",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "125/PB/2021"
+}
+},
+{
+"d": "2021-10-04",
+"c": {
+"inw": "rozbiórka budynku administracyjnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGNiG TERMIKA S.A.",
+"nier": "Chełmżyńska 180",
+"dz": "146509_8 0805 96/22",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "124/PB/2021"
+}
+},
+{
+"d": "2021-10-04",
+"c": {
+"inw": "rozbiórka budynku administracyjnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGNiG TERMIKA S.A.",
+"nier": "Chełmżyńska 180",
+"dz": "146509_8 0805 96/36",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "124/PB/2021"
+}
+},
+{
+"d": "2021-10-04",
+"c": {
+"inw": "rozbiórka budynku administracyjnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGNiG TERMIKA S.A.",
+"nier": "Chełmżyńska 180",
+"dz": "146509_8 0805 96/55",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "124/PB/2021"
+}
+},
+{
+"d": "2021-10-01",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Konwisarska 94",
+"dz": "146509_8 0930 57",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "123/PB/2021"
+}
+},
+{
+"d": "2021-09-30",
+"c": {
+"inw": "podniesienie dachu budynek jednorodzinny wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Świetlicka 37",
+"dz": "146509_8 0706 41/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "122/PB/2021"
+}
+},
+{
+"d": "2021-09-24",
+"c": {
+"inw": "budynek jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Paderewskiego / Ignacego",
+"dz": "146509_8 0912 42/8",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "121/PB/2021"
+}
+},
+{
+"d": "2021-09-23",
+"c": {
+"inw": "instalacja gazu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Czwartaków",
+"dz": "146509_8 0912 80",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "40/2021"
+}
+},
+{
+"d": "2021-09-23",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Zygmunta Augusta 16",
+"dz": "146509_8 0077 53",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "120/PB/2021"
+}
+},
+{
+"d": "2021-09-22",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Dwóch Mieczy 43",
+"dz": "146509_8 0077 43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "119/PB/2021"
+}
+},
+{
+"d": "2021-09-20",
+"c": {
+"inw": "budynek jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Czwartaków 156",
+"dz": "146509_8 0909 23/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "118/PB/2021"
+}
+},
+{
+"d": "2021-09-17",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Cyrulików 117",
+"dz": "146509_8 0929 86",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "116/PB/2021"
+}
+},
+{
+"d": "2021-09-15",
+"c": {
+"inw": "instalacja gazu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Aleja Sztandarów 13/15",
+"dz": "146509_8 0918 62",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "114/PB/2021"
+}
+},
+{
+"d": "2021-09-15",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Pielgrzymów 21A",
+"dz": "146509_8 0921 90",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "115/PB/2021"
+}
+},
+{
+"d": "2021-09-14",
+"c": {
+"inw": "Przebudowa zabytkowego budynku nr 62 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Akademia Sztuki Wojennej",
+"nier": "Aleja gen. Antoniego Chruściela \"Montera\" 103",
+"dz": "146509_8 2128 2/186",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "113/PB/2021"
+}
+},
+{
+"d": "2021-09-14",
+"c": {
+"inw": "Przebudowa zabytkowego budynku nr 62 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Akademia Sztuki Wojennej",
+"nier": "Aleja gen. Antoniego Chruściela \"Montera\" 103",
+"dz": "146509_8 2128 2/163",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "113/PB/2021"
+}
+},
+{
+"d": "2021-09-14",
+"c": {
+"inw": "Przebudowa zabytkowego budynku nr 62 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Akademia Sztuki Wojennej",
+"nier": "Aleja gen. Antoniego Chruściela \"Montera\" 103",
+"dz": "146509_8 2128 2/161",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "113/PB/2021"
+}
+},
+{
+"d": "2021-09-14",
+"c": {
+"inw": "Przebudowa zabytkowego budynku nr 62 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Akademia Sztuki Wojennej",
+"nier": "Aleja gen. Antoniego Chruściela \"Montera\" 103",
+"dz": "146509_8 2128 2/160",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "113/PB/2021"
+}
+},
+{
+"d": "2021-09-06",
+"c": {
+"inw": "budowa hali budowa nowego/nowych obiektów budowlanych",
+"wn": "PDC Industrial Center",
+"nier": "Aleja Niepodległości 214",
+"dz": "146509_8 0801 5/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "111/PB/2021"
+}
+},
+{
+"d": "2021-09-06",
+"c": {
+"inw": "budowa hali budowa nowego/nowych obiektów budowlanych",
+"wn": "PDC Industrial Center",
+"nier": "Aleja Niepodległości 214",
+"dz": "146509_8 0804 20/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "111/PB/2021"
+}
+},
+{
+"d": "2021-09-06",
+"c": {
+"inw": "budowa hali budowa nowego/nowych obiektów budowlanych",
+"wn": "PDC Industrial Center",
+"nier": "Aleja Niepodległości 214",
+"dz": "146509_8 0804 20/42",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "111/PB/2021"
+}
+},
+{
+"d": "2021-09-01",
+"c": {
+"inw": "budynek jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Stelmachów",
+"dz": "146509_8 0702 33/6",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "109/PB/2021"
+}
+},
+{
+"d": "2021-09-01",
+"c": {
+"inw": "budynek jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Stelmachów",
+"dz": "146509_8 0702 36/7",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "109/PB/2021"
+}
+},
+{
+"d": "2021-09-01",
+"c": {
+"inw": "budynek jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Stelmachów",
+"dz": "146509_8 0702 37/10",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "109/PB/2021"
+}
+},
+{
+"d": "2021-09-01",
+"c": {
+"inw": "insatalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Madziarów 41",
+"dz": "146509_8 0916 41/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "110/PB/2021"
+}
+},
+{
+"d": "2021-09-01",
+"c": {
+"inw": "insatalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Madziarów 41",
+"dz": "146509_8 0916 47/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "110/PB/2021"
+}
+},
+{
+"d": "2021-08-25",
+"c": {
+"inw": "budynek jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Pastuszków",
+"dz": "146509_8 0902 38/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "106/PB/2021"
+}
+},
+{
+"d": "2021-08-18",
+"c": {
+"inw": "instalacja gazu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Mokry Ług 49",
+"dz": "146509_8 0904 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "105/PB/2021"
+}
+},
+{
+"d": "2021-08-18",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Gontarska 11C,D,E",
+"dz": "146509_8 0702 276",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "27/2021"
+}
+},
+{
+"d": "2021-08-18",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Gontarska 11,11A,11B",
+"dz": "146509_8 0702 276",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "26/2021"
+}
+},
+{
+"d": "2021-08-17",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolnostojącego wraz z urządzeniami budowlanymi oraz jednoczesną rozbiórką trzech istniejących budynków budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Listonoszy",
+"dz": "146509_8 0914 53",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "104/PB/2021"
+}
+},
+{
+"d": "2021-08-17",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0804 30/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "24/2021"
+}
+},
+{
+"d": "2021-08-17",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0804 31/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "24/2021"
+}
+},
+{
+"d": "2021-08-17",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0804 32/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "24/2021"
+}
+},
+{
+"d": "2021-08-17",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0804 32/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "24/2021"
+}
+},
+{
+"d": "2021-08-17",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0804 34/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "24/2021"
+}
+},
+{
+"d": "2021-08-17",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0804 35/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "24/2021"
+}
+},
+{
+"d": "2021-08-17",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0804 36/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "24/2021"
+}
+},
+{
+"d": "2021-08-17",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0804 37/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "24/2021"
+}
+},
+{
+"d": "2021-08-17",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Paderewskiego / Ignacego",
+"dz": "146509_8 0920 143",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "103/PB/2021"
+}
+},
+{
+"d": "2021-08-17",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Gontarska 67A",
+"dz": "146509_8 0702 276",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "28/2021"
+}
+},
+{
+"d": "2021-08-17",
+"c": {
+"inw": "instalacja gazu budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Niedziałkowskiego 21 / Mieczysława",
+"dz": "146509_8 0076 28",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "102/PB/2021"
+}
+},
+{
+"d": "2021-08-11",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kapitańska",
+"dz": "146509_8 0914 13/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "101/PB/2021"
+}
+},
+{
+"d": "2021-08-11",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Ziemskiego \"Wachnowskiego\" 12 / gen. Karola",
+"dz": "146509_8 0929 2/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "100/PB/2021"
+}
+},
+{
+"d": "2021-08-05",
+"c": {
+"inw": "Budowa 4 budynków mieszkalnych jednorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Dokerów",
+"dz": "146509_8 0050 57",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "97/PB/2021"
+}
+},
+{
+"d": "2021-07-30",
+"c": {
+"inw": "INSTALACJA GAZOWA wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Karla 3",
+"dz": "146509_8 0074 33",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "96/PB/2021"
+}
+},
+{
+"d": "2021-07-28",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Szafarzy 25",
+"dz": "146509_8 0911 83/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "94/PB/2021"
+}
+},
+{
+"d": "2021-07-28",
+"c": {
+"inw": "budynek jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Licealna 56",
+"dz": "146509_8 0913 38/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "92/PB/2021"
+}
+},
+{
+"d": "2021-07-28",
+"c": {
+"inw": "instalacja gazu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kacpury 23 / Antoniego",
+"dz": "146509_8 0048 35",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "91/PB/2021"
+}
+},
+{
+"d": "2021-07-27",
+"c": {
+"inw": "przebudowa i nadbudowa budynku jednorodzinnego nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Jerzego 45",
+"dz": "146509_8 0913 14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "93/PB/2021"
+}
+},
+{
+"d": "2021-07-23",
+"c": {
+"inw": "Budynek mieszkalny jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Czwartaków",
+"dz": "146509_8 0912 19/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "98/PB/2021"
+}
+},
+{
+"d": "2021-07-23",
+"c": {
+"inw": "Rozbudowa i nadbudowa istniejącego  busynku rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Strażacka",
+"dz": "146509_8 0925 49",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "95/PB/2021"
+}
+},
+{
+"d": "2021-07-20",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Aleja gen. Antoniego Chruściela \"Montera\" 46",
+"dz": "146509_8 0927 19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "86/PB/2021"
+}
+},
+{
+"d": "2021-07-20",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Paderewskiego 168d / Ignacego",
+"dz": "146509_8 0906 4/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "88/PB/2021"
+}
+},
+{
+"d": "2021-07-20",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Paderewskiego 168d / Ignacego",
+"dz": "146509_8 0906 4/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "88/PB/2021"
+}
+},
+{
+"d": "2021-07-20",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Żeligowskiego 4 / gen. Lucjana",
+"dz": "146509_8 0051 74",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "87/PB/2021"
+}
+},
+{
+"d": "2021-07-20",
+"c": {
+"inw": "rozbiórka części wiaty magazynowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "Polbruk S.A.",
+"nier": "Chełmżyńska 249",
+"dz": "146509_8 0804 20/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "89/PB/2021"
+}
+},
+{
+"d": "2021-07-20",
+"c": {
+"inw": "rozbiórka części wiaty magazynowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "Polbruk S.A.",
+"nier": "Chełmżyńska 249",
+"dz": "146509_8 0804 20/15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "89/PB/2021"
+}
+},
+{
+"d": "2021-07-20",
+"c": {
+"inw": "rozbiórka części wiaty magazynowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "Polbruk S.A.",
+"nier": "Chełmżyńska 249",
+"dz": "146509_8 0804 20/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "89/PB/2021"
+}
+},
+{
+"d": "2021-07-20",
+"c": {
+"inw": "rozbiórka części wiaty magazynowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "Polbruk S.A.",
+"nier": "Chełmżyńska 249",
+"dz": "146509_8 0804 20/18",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "89/PB/2021"
+}
+},
+{
+"d": "2021-07-20",
+"c": {
+"inw": "rozbiórka części wiaty magazynowej rozbiórka istniejącego obiektu budowlanego",
+"wn": "Polbruk S.A.",
+"nier": "Chełmżyńska 249",
+"dz": "146509_8 0804 20/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "89/PB/2021"
+}
+},
+{
+"d": "2021-07-19",
+"c": {
+"inw": "budowa kotłowni gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Rembertów",
+"nier": "Dwóch Mieczy 35",
+"dz": "146509_8 0077 39",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "85/PB/2021"
+}
+},
+{
+"d": "2021-07-19",
+"c": {
+"inw": "przebudowa 7 otworów okiennych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Rzymskokatolicka Parafia Matki Boskiej Zwycięskiej",
+"nier": "Grzybowa 1",
+"dz": "146509_8 0049 4/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "84/PB/2021"
+}
+},
+{
+"d": "2021-07-14",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Jerzego 79",
+"dz": "146509_8 0913 2/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "83/PB/2021"
+}
+},
+{
+"d": "2021-07-13",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Strażacka 39 B",
+"dz": "146509_8 0806 46/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "82/PB/2021"
+}
+},
+{
+"d": "2021-07-12",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "ST-Investment",
+"nier": "Jerzego",
+"dz": "146509_8 0910 75",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "81/PB/2021"
+}
+},
+{
+"d": "2021-07-08",
+"c": {
+"inw": "Budynek mieszkalny jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Zawodowa",
+"dz": "146509_8 0920 2/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "78/PB/2021"
+}
+},
+{
+"d": "2021-07-07",
+"c": {
+"inw": "przebudowa i rozbudowa budynku Nr 69 Kasyno rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Akademia Sztuki Wojennej",
+"nier": "Aleja gen. Antoniego Chruściela \"Montera\" 103",
+"dz": "146509_8 2128 2/188",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "80/PB/2021"
+}
+},
+{
+"d": "2021-06-30",
+"c": {
+"inw": "budynek jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Ułańska 3",
+"dz": "146509_8 0928 41/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "76/PB/2021"
+}
+},
+{
+"d": "2021-06-30",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146509_8 0077 76",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "73/PB/2021"
+}
+},
+{
+"d": "2021-06-30",
+"c": {
+"inw": "budynek jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Pilarzy",
+"dz": "146509_8 0917 58/20",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "90/PB/2021"
+}
+},
+{
+"d": "2021-06-30",
+"c": {
+"inw": "remont pomieszczenia nr 301 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Akademia Sztuki Wojennej",
+"nier": "Aleja gen. Antoniego Chruściela \"Montera\" 103",
+"dz": "146509_8 2128 2/180",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "75/PB/2021"
+}
+},
+{
+"d": "2021-06-30",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Aleja Komandosów 22",
+"dz": "146509_8 0922 15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "77/PB/2021"
+}
+},
+{
+"d": "2021-06-30",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Aleja Komandosów 22",
+"dz": "146509_8 0922 16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "77/PB/2021"
+}
+},
+{
+"d": "2021-06-30",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Pielgrzymów 31",
+"dz": "146509_8 0921 97",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "74/PB/2021"
+}
+},
+{
+"d": "2021-06-30",
+"c": {
+"inw": "Projekt budowlany instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MD Development",
+"nier": "Witolda 16 / Księcia",
+"dz": "146509_8 0077 132",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "15/2021"
+}
+},
+{
+"d": "2021-06-25",
+"c": {
+"inw": "6 bud. jedn. budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Chłopickiego / Józefa",
+"dz": "146509_8 0702 14",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "72/PB/2021"
+}
+},
+{
+"d": "2021-06-24",
+"c": {
+"inw": "2 budynki jednorodzinne budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Paderewskiego / Ignacego",
+"dz": "146509_8 0906 1/60",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "71/PB/2021"
+}
+},
+{
+"d": "2021-06-23",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Konwisarska 77",
+"dz": "146509_8 0930 77",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "67/PB/2021"
+}
+},
+{
+"d": "2021-06-23",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Paderewskiego 69 / Ignacego",
+"dz": "146509_8 0916 108",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "70/PB/2021"
+}
+},
+{
+"d": "2021-06-23",
+"c": {
+"inw": "rozbudowa i przebudowa rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Kanonierska 6",
+"dz": "146509_8 0917 296/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "69/PB/2021"
+}
+},
+{
+"d": "2021-06-23",
+"c": {
+"inw": "remont pomieszczenia 419 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Akademia Sztuki Wojennej",
+"nier": "Aleja gen. Antoniego Chruściela \"Montera\" 103",
+"dz": "146509_8 2128 2/180",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "68/PB/2021"
+}
+},
+{
+"d": "2021-06-16",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Zawodowa 51",
+"dz": "146509_8 0917 128/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "63/PB/2021"
+}
+},
+{
+"d": "2021-06-16",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Markietanki 21",
+"dz": "146509_8 0929 3/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "62/PB/2021"
+}
+},
+{
+"d": "2021-06-14",
+"c": {
+"inw": "Budynek mieszkalny jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Pilarzy",
+"dz": "146509_8 0917 58/23",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "61/PB/2022"
+}
+},
+{
+"d": "2021-06-02",
+"c": {
+"inw": "rozbudowa budynku jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Szatkowników 9",
+"dz": "146509_8 0929 64",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "56/PB/2021"
+}
+},
+{
+"d": "2021-06-02",
+"c": {
+"inw": "instalacja gazu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Orbity 4",
+"dz": "146509_8 0919 39",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "59/PB/2021"
+}
+},
+{
+"d": "2021-06-02",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Solferino",
+"dz": "146509_8 0914 125/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "58/PB/2021"
+}
+},
+{
+"d": "2021-06-01",
+"c": {
+"inw": "Instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Pielgrzymów 17",
+"dz": "146509_8 0920 86",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "53/PB/2021"
+}
+},
+{
+"d": "2021-06-01",
+"c": {
+"inw": "budynek jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Jerzego 21/1",
+"dz": "146509_8 0918 5",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "57/PB/2021"
+}
+},
+{
+"d": "2021-05-25",
+"c": {
+"inw": "Instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Czwartaków 70",
+"dz": "146509_8 0912 19/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "51/PB/2021"
+}
+},
+{
+"d": "2021-05-10",
+"c": {
+"inw": "rozbiórka rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Szewska 5",
+"dz": "146509_8 0913 138",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "9/2021"
+}
+},
+{
+"d": "2021-05-06",
+"c": {
+"inw": "Budynek mieszkalny jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Paderewskiego 140a / Ignacego",
+"dz": "146509_8 0907 11/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "51/PB/2021"
+}
+},
+{
+"d": "2021-04-27",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Pastuszków 7",
+"dz": "146509_8 0902 63",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "49//PB/2021"
+}
+},
+{
+"d": "2021-04-16",
+"c": {
+"inw": "2 budynki dwulokalowe jednorodzinne budowa nowego/nowych obiektów budowlanych",
+"wn": "ERS Development",
+"nier": "Paderewskiego / Ignacego",
+"dz": "146509_8 0912 42/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "44/PB/2021"
+}
+},
+{
+"d": "2021-04-12",
+"c": {
+"inw": "rozbudowa budynku mieszkalnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Ilskiego 85 / Franciszka",
+"dz": "146509_8 0048 137",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/PB/2021"
+}
+},
+{
+"d": "2021-04-09",
+"c": {
+"inw": "budynej jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Karla 6",
+"dz": "146509_8 0074 44/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "37/PB/2021"
+}
+},
+{
+"d": "2021-04-06",
+"c": {
+"inw": "przebudowa elewacji wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Jeronimo MARTINS",
+"nier": "Grzybowa 3",
+"dz": "146509_8 0076 116/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "34/PB/2021"
+}
+},
+{
+"d": "2021-03-31",
+"c": {
+"inw": "rozbiorka budynku jednorodzinnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Działyńczyków 16",
+"dz": "146509_8 0078 10/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "33/PB/2021"
+}
+},
+{
+"d": "2021-03-26",
+"c": {
+"inw": "insatalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Bellony 32",
+"dz": "146509_8 0048 9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "32/PB/2021"
+}
+},
+{
+"d": "2021-03-18",
+"c": {
+"inw": "budowa sieci wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polenergia",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0802 1/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "40/PB/2021"
+}
+},
+{
+"d": "2021-03-18",
+"c": {
+"inw": "budowa sieci wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polenergia",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0802 1/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "40/PB/2021"
+}
+},
+{
+"d": "2021-03-15",
+"c": {
+"inw": "przebudowa budynku 101 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Akademia Sztuki Wojennej",
+"nier": "Aleja gen. Antoniego Chruściela \"Montera\" 101",
+"dz": "146509_8 2128 2/180",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "30/PB/2021"
+}
+},
+{
+"d": "2021-03-09",
+"c": {
+"inw": "instalacja  gazu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kapelusznicza 15",
+"dz": "146509_8 0909 23/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "27/PB/2021"
+}
+},
+{
+"d": "2021-03-03",
+"c": {
+"inw": "Instalacja elektryczna wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Chełmżyńska 180",
+"dz": "146509_8 0802 9/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "28/PB/2021"
+}
+},
+{
+"d": "2021-03-03",
+"c": {
+"inw": "Instalacja elektryczna wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Chełmżyńska 180",
+"dz": "146509_8 0802 23/23",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "28/PB/2021"
+}
+},
+{
+"d": "2021-02-22",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MD Development",
+"nier": "Witolda 16 / Księcia",
+"dz": "146509_8 0077 132",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "21/PB/2021"
+}
+},
+{
+"d": "2021-02-22",
+"c": {
+"inw": "budynek wielorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "MD Development",
+"nier": "Witolda 16 / Księcia",
+"dz": "146509_8 0077 132",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "21/PB/2021"
+}
+},
+{
+"d": "2021-02-05",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Paderewskiego 99 / Ignacego",
+"dz": "146509_8 0911 89/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "10/PB/2021"
+}
+},
+{
+"d": "2021-01-15",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kadrowa 51",
+"dz": "146509_8 0912 59/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "4/PB/2021"
+}
+}
+]
+}
+]
+}

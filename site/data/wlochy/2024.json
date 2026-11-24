@@ -1,0 +1,3183 @@
+{
+"district": "wlochy",
+"year": 2024,
+"generated": "2026-11-24T21:24:53+01:00",
+"total": 281,
+"registers": [
+{
+"id": "wn_pnb",
+"name": "Wnioski o pozwolenie na budowę",
+"short": "Wnioski PnB",
+"desc": "Wnioski o pozwolenie na budowę złożone do organu architektoniczno-budowlanego dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer wniosku",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2024-12-04",
+"c": {
+"inw": "termomodernizację budynku Domu Kultury \"Włochy\" wraz z jego przebudową wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa - Dzielnica Włochy",
+"nier": "Bolesława Chrobrego 27",
+"dz": "146517_8 0823 82",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVI-WAB-AAB.6740.67.2025.KDU"
+}
+},
+{
+"d": "2024-11-05",
+"c": {
+"inw": "budowa instalacji n/c dla budynku usługowego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Parowcowa 10e",
+"dz": "146517_8 0802 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/13356/24"
+}
+},
+{
+"d": "2024-11-05",
+"c": {
+"inw": "budowa 4 wewnętrznych instalacji gazowych z odcinkami ziemnymi dla dwóch budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "SG Property sp. z o.o.",
+"nier": "Gidzińskiego / Bolesława",
+"dz": "146517_8 0716 41/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/13275/24"
+}
+},
+{
+"d": "2024-10-24",
+"c": {
+"inw": "rozbiórka budynku mieszklanego jednorodzinnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Przyłęcka 13",
+"dz": "146517_8 0821 84/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "KOB/12997/24"
+}
+},
+{
+"d": "2024-10-22",
+"c": {
+"inw": "rozbiórka 8 budynków rozbiórka istniejącego obiektu budowlanego",
+"wn": "Aldi sp. z o.o.",
+"nier": "Łopuszańska",
+"dz": "146517_8 0504 29",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/12365/24"
+}
+},
+{
+"d": "2024-10-14",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego z bezodpływowym szczelnym zbiornikiem na nieczystości ciekłe wraz z urządzeniami budowlanymi budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146517_8 0615 65/20",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "KOB/12530/24"
+}
+},
+{
+"d": "2024-10-10",
+"c": {
+"inw": "budowa instalacji gazowej dla budynku mieszkalnego wielorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Promienista 18",
+"dz": "146517_8 0804 110",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KO/9808/24"
+}
+},
+{
+"d": "2024-09-09",
+"c": {
+"inw": "przebudowa powierzchnina parterze budynkubiurowo usługowego - wykonanie otworu drzwiowego w elewacji południowo-wschodniej, rozbudowa korytarza ewakuacyjnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poland Business Park XIII sp. z o.o.",
+"nier": "Krakowiaków 42",
+"dz": "146517_8 0504 63/27",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/10715/24"
+}
+},
+{
+"d": "2024-09-09",
+"c": {
+"inw": "przebudowa powierzchnina parterze budynkubiurowo usługowego - wykonanie otworu drzwiowego w elewacji południowo-wschodniej, rozbudowa korytarza ewakuacyjnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poland Business Park XIII sp. z o.o.",
+"nier": "Krakowiaków 42",
+"dz": "146517_8 0504 63/30",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/10715/24"
+}
+},
+{
+"d": "2024-09-09",
+"c": {
+"inw": "przebudowa powierzchnina parterze budynkubiurowo usługowego - wykonanie otworu drzwiowego w elewacji południowo-wschodniej, rozbudowa korytarza ewakuacyjnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poland Business Park XIII sp. z o.o.",
+"nier": "Krakowiaków 42",
+"dz": "146517_8 0504 72/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/10715/24"
+}
+},
+{
+"d": "2024-09-09",
+"c": {
+"inw": "przebudowa powierzchnina parterze budynkubiurowo usługowego - wykonanie otworu drzwiowego w elewacji południowo-wschodniej, rozbudowa korytarza ewakuacyjnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poland Business Park XIII sp. z o.o.",
+"nier": "Krakowiaków 42",
+"dz": "146517_8 0504 74/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/10715/24"
+}
+},
+{
+"d": "2024-08-13",
+"c": {
+"inw": "budowa pylonu reklamowego budowa nowego/nowych obiektów budowlanych",
+"wn": "Plaza Motors Poland sp. z o.o.",
+"nier": "",
+"dz": "176517_8 0826 55",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "E/290300/24"
+}
+},
+{
+"d": "2024-08-13",
+"c": {
+"inw": "budowa pylonu reklamowego budowa nowego/nowych obiektów budowlanych",
+"wn": "Plaza Motors Poland sp. z o.o.",
+"nier": "",
+"dz": "176517_8 0826 54",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "E/290300/24"
+}
+},
+{
+"d": "2024-08-12",
+"c": {
+"inw": "budowa hali produkcyjno-usługowej z zapleczem biurowo-socjalnym oraz niezbędną infrastruktura techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Green Logistics Poland Duo 1 sp. z o.o.",
+"nier": "Kinetyczna",
+"dz": "176517_8 0621 9/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KO/7694/24"
+}
+},
+{
+"d": "2024-08-12",
+"c": {
+"inw": "budowa hali produkcyjno-usługowej z zapleczem biurowo-socjalnym oraz niezbędną infrastruktura techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Green Logistics Poland Duo 1 sp. z o.o.",
+"nier": "Kinetyczna",
+"dz": "176517_8 0621 6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KO/7694/24"
+}
+},
+{
+"d": "2024-08-12",
+"c": {
+"inw": "budowa hali produkcyjno-usługowej z zapleczem biurowo-socjalnym oraz niezbędną infrastruktura techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Green Logistics Poland Duo 1 sp. z o.o.",
+"nier": "Kinetyczna",
+"dz": "176517_8 0621 5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KO/7694/24"
+}
+},
+{
+"d": "2024-08-09",
+"c": {
+"inw": "budowa przyłączy elektroenergetycznych oraz aparatury kontrolo pomiarowej i automatyki wraz z instalacją urządzeń pomiarowych na sieci wodociągowej oraz remontem komory wodociągowej budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m. st. Warszawie",
+"nier": "Globusowa",
+"dz": "146517_8 0808 1/31",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KO/7641/24"
+}
+},
+{
+"d": "2024-08-02",
+"c": {
+"inw": "rozbiórka i budowa elektroenergetycznych sieci kablowych wraz z rozbiorką i budową eletronenergetycznej sieci napowietrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator sp. z o.o.",
+"nier": "Orzechowa",
+"dz": "146517_8 0504 54/31",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/9073/24"
+}
+},
+{
+"d": "2024-08-02",
+"c": {
+"inw": "rozbiórka i budowa elektroenergetycznych sieci kablowych wraz z rozbiorką i budową eletronenergetycznej sieci napowietrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator sp. z o.o.",
+"nier": "Orzechowa",
+"dz": "146517_8 0504 49",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/9073/24"
+}
+},
+{
+"d": "2024-08-02",
+"c": {
+"inw": "rozbiórka i budowa elektroenergetycznych sieci kablowych wraz z rozbiorką i budową eletronenergetycznej sieci napowietrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator sp. z o.o.",
+"nier": "Orzechowa",
+"dz": "146517_8 0504 48",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/9073/24"
+}
+},
+{
+"d": "2024-08-02",
+"c": {
+"inw": "rozbiórka i budowa elektroenergetycznych sieci kablowych wraz z rozbiorką i budową eletronenergetycznej sieci napowietrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator sp. z o.o.",
+"nier": "Orzechowa",
+"dz": "146517_8 0504 47/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/9073/24"
+}
+},
+{
+"d": "2024-08-02",
+"c": {
+"inw": "rozbiórka i budowa elektroenergetycznych sieci kablowych wraz z rozbiorką i budową eletronenergetycznej sieci napowietrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator sp. z o.o.",
+"nier": "Orzechowa",
+"dz": "146517_8 0504 46",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/9073/24"
+}
+},
+{
+"d": "2024-08-01",
+"c": {
+"inw": "rozbudowa budynku biurowego polegającą na dobudowie zewnętrznego szachtu windy rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "PL Investment Jerozolimskie I sp. z o.o.",
+"nier": "Aleje Jerozolimskie 195A",
+"dz": "146517_8 0720 3/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/8982/24"
+}
+},
+{
+"d": "2024-08-01",
+"c": {
+"inw": "rozbudowa budynku biurowego polegającą na dobudowie zewnętrznego szachtu windy rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "PL Investment Jerozolimskie I sp. z o.o.",
+"nier": "Aleje Jerozolimskie 195A",
+"dz": "146517_8 0720 4/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/8982/24"
+}
+},
+{
+"d": "2024-07-31",
+"c": {
+"inw": "rozbiórka budynków i przyłączy rozbiórka istniejącego obiektu budowlanego",
+"wn": "Project Development Group sp. z o.o.",
+"nier": "Bolesława Chrobrego 10",
+"dz": "146517_8 0822 25",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "KOB/8930/24"
+}
+},
+{
+"d": "2024-07-30",
+"c": {
+"inw": "rozbióka budynku mieszkalnego w zabudowie bliźniaczej wraz z budynkiem gospodarczym rozbiórka istniejącego obiektu budowlanego",
+"wn": "Devin Investments sp.z o.o.",
+"nier": "Narożna 7",
+"dz": "146517_8 0501 174",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "KOB/8912/24"
+}
+},
+{
+"d": "2024-07-30",
+"c": {
+"inw": "rozbióka budynku mieszkalnego w zabudowie bliźniaczej wraz z budynkiem gospodarczym rozbiórka istniejącego obiektu budowlanego",
+"wn": "Devin Investments sp. z o.o.",
+"nier": "Narożna 9",
+"dz": "146517_8 0501 173",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "KOB/8913/24"
+}
+},
+{
+"d": "2024-07-29",
+"c": {
+"inw": "rozbiórka budynku i mieszkalnego jednorodzinnego i budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Dawid Kołomański , prowadzący działalność gospodarczą pod nazwa 4NL Dawid Kołomański",
+"nier": "Flagowa 4",
+"dz": "146517_8 0806 70",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "E/275669/24"
+}
+},
+{
+"d": "2024-07-23",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Sklepowa",
+"dz": "146517_8 0822 78",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "KOB/8664/24"
+}
+},
+{
+"d": "2024-07-19",
+"c": {
+"inw": "przebudowa i nadbudowa budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Głubczycka",
+"dz": "146517_8 0805 97",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "KOB/8574/24"
+}
+},
+{
+"d": "2024-07-11",
+"c": {
+"inw": "zmiana sposobuużytkowania poddasza nieużytkowego w budynku mieszkalnym jednorodzinnym na część mieszkalną orazremont dachu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Skibicka",
+"dz": "146517_8 0711 87",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "KOB/8285/24"
+}
+},
+{
+"d": "2024-07-01",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego i innych obiektów budowlanych rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Koziorożca 9",
+"dz": "146517_8 0807 9",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "KOB/7781/24"
+}
+},
+{
+"d": "2024-06-28",
+"c": {
+"inw": "budowa wew. instalacji gazowej dla budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MISFER G.Walicki, P.Wierzba sp.j.",
+"nier": "Zbąszyńska",
+"dz": "146517_8 0501 169",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/6090/24"
+}
+},
+{
+"d": "2024-06-17",
+"c": {
+"inw": "przebudowa budynku mieszkalnego z lokalami usługowymi polegająca na dodaniu okna w ścianie zewnętrznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Popularna 60",
+"dz": "146517_8 0825 16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "E/241769/24"
+}
+},
+{
+"d": "2024-06-17",
+"c": {
+"inw": "przebudowa budynku mieszkalnego z lokalami usługowymi polegająca na dodaniu okna w ścianie zewnętrznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Popularna 60",
+"dz": "146517_8 0825 17/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "E/241769/24"
+}
+},
+{
+"d": "2024-06-17",
+"c": {
+"inw": "przebudowa budynku mieszkalnego z lokalami usługowymi polegająca na dodaniu okna w ścianie zewnętrznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Popularna 60",
+"dz": "146517_8 0825 17/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "E/241769/24"
+}
+},
+{
+"d": "2024-06-17",
+"c": {
+"inw": "budowa przyłączy elektroenergetycznych oraz aparatury kontrolo pomiarowej i automatyki wraz z instalacją urządzeń pomiarowych na sieci wodociągowej oraz remontem komory wodociągowej budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "Żwirki i Wigury",
+"dz": "146517_8 0404 74/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KO/7691/24"
+}
+},
+{
+"d": "2024-06-14",
+"c": {
+"inw": "rozbiórka trzech budynków gospodarczych rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Gładka 5",
+"dz": "146517_8 0406 129",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/7261/24"
+}
+},
+{
+"d": "2024-06-14",
+"c": {
+"inw": "rozbiórka budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Emaliowa 26",
+"dz": "146517_8 0719 14/15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/7236/24"
+}
+},
+{
+"d": "2024-05-31",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z usługami i garażem podziemnym , miejscami postojowymi  z elementami  zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "SGI Nowa sp. z o.o.",
+"nier": "Łopuszańska 47",
+"dz": "146517_8 0503 23/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/6616/24"
+}
+},
+{
+"d": "2024-05-28",
+"c": {
+"inw": "budowa odcinka ziemnego wewnętrznej  instalacji gazowej dla budynku usługowo-hotelowego budowa nowego/nowych obiektów budowlanych",
+"wn": "DOVI DTT sp. z o.o. sp.k.",
+"nier": "Światowa 19",
+"dz": "146517_8 0720 85",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/6541/24"
+}
+},
+{
+"d": "2024-05-24",
+"c": {
+"inw": "budowa budynku jednorodzinnego dwulokalowego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Hejnałowa",
+"dz": "146417_8 0501 101",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "8KOB/6469/24"
+}
+},
+{
+"d": "2024-05-21",
+"c": {
+"inw": "rozbiórka budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Miasto st. Warszawa, Zakład Gospodarowania Nieruchomościami w Dzielnicy Włochy",
+"nier": "Cyprysowa 25",
+"dz": "146517_8 0707 82",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/6313/24"
+}
+},
+{
+"d": "2024-05-21",
+"c": {
+"inw": "zmiana dec. 191/AB/2023 z dn. 20.10.2023 r. dot budowy budynkumieszkalnego wielorodzinnego z lokalami usługowymi i garazempodziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Łopuszańska 235 sp. z o.o.",
+"nier": "",
+"dz": "146517_8 0501 39",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/6286/24"
+}
+},
+{
+"d": "2024-05-16",
+"c": {
+"inw": "rozbiórka 5 budynków gospodarczych rozbiórka istniejącego obiektu budowlanego",
+"wn": "Miasto st. Warszawa, Zakład Gospodarowania Nieruchomościami w Dzielnicy Włochy",
+"nier": "Plastyczna 31",
+"dz": "146517_8 0809 79",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/6151/24"
+}
+},
+{
+"d": "2024-05-16",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Łopuszańska 235 sp. z o.o.",
+"nier": "Łopuszańska",
+"dz": "176517_8 0501 39",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/6113/24"
+}
+},
+{
+"d": "2024-05-16",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Łopuszańska 235 sp. z o.o.",
+"nier": "Łopuszańska",
+"dz": "146517_8 0501 38",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/6113/24"
+}
+},
+{
+"d": "2024-05-15",
+"c": {
+"inw": "rozbiórka pawilonu handlowego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Zarankiewicza 2 / Kazimierza",
+"dz": "146517_8 0407 33/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/6031/24"
+}
+},
+{
+"d": "2024-05-14",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z lokalami usługowymi i z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Łopuszańska 235 sp. z o.o.",
+"nier": "Łopuszańska",
+"dz": "146517_8 0501 38",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/5989/24"
+}
+},
+{
+"d": "2024-05-14",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z lokalami usługowymi i z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Łopuszańska 235 sp. z o.o.",
+"nier": "Łopuszańska",
+"dz": "146517_8 0501 39",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/5989/24"
+}
+},
+{
+"d": "2024-04-22",
+"c": {
+"inw": "budowamsieci wodociągowej budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK S.A.",
+"nier": "Leonidasa",
+"dz": "146517_8 0507 58/18",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/5127/24"
+}
+},
+{
+"d": "2024-04-22",
+"c": {
+"inw": "budowamsieci wodociągowej budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK S.A.",
+"nier": "Leonidasa",
+"dz": "146517_8 0507 58/15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/5127/24"
+}
+},
+{
+"d": "2024-04-22",
+"c": {
+"inw": "budowamsieci wodociągowej budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK S.A.",
+"nier": "Leonidasa",
+"dz": "146517_8 0507 58/17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/5127/24"
+}
+},
+{
+"d": "2024-04-22",
+"c": {
+"inw": "budowamsieci wodociągowej budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK S.A.",
+"nier": "Leonidasa",
+"dz": "146517_8 0507 58/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/5127/24"
+}
+},
+{
+"d": "2024-04-22",
+"c": {
+"inw": "budowa sieci wodociągowej budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK S.A.",
+"nier": "Leonidasa",
+"dz": "146517_8 0507 58/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/5127/24"
+}
+},
+{
+"d": "2024-04-22",
+"c": {
+"inw": "budowa sieci wodociągowej budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK S.A.",
+"nier": "Leonidasa",
+"dz": "146517_8 0507 58/17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/5127/24"
+}
+},
+{
+"d": "2024-04-22",
+"c": {
+"inw": "budowa sieci wodociągowej budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK S.A.",
+"nier": "Leonidasa",
+"dz": "146517_8 0507 58/15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/5127/24"
+}
+},
+{
+"d": "2024-04-22",
+"c": {
+"inw": "budowa sieci wodociągowej budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK S.A.",
+"nier": "Leonidasa",
+"dz": "146517_8 0507 58/18",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/5127/24"
+}
+},
+{
+"d": "2024-04-17",
+"c": {
+"inw": "budowa budynkumieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Wilczycka 14",
+"dz": "146517_8 0823 64/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "KOB/4903/24"
+}
+},
+{
+"d": "2024-04-16",
+"c": {
+"inw": "budowa budynku mieszklanego jednorodzinnego dwulokalowego w zabudowie wolnostojącej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Kolneńska 16",
+"dz": "146517_8 0503 43/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "KOB/4885/24"
+}
+},
+{
+"d": "2024-04-15",
+"c": {
+"inw": "przebudowa budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Śląska 25a",
+"dz": "146517_8 0814 79",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "KOB/4832/24"
+}
+},
+{
+"d": "2024-04-15",
+"c": {
+"inw": "budowa instalacji gazowej dla budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Emaliowa",
+"dz": "146517_8 0719 26/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/4824/24"
+}
+},
+{
+"d": "2024-04-12",
+"c": {
+"inw": "rozbiórka budynku mieszkalno-gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Załuski 4",
+"dz": "146517_8 0615 84",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "KOB/4739/24"
+}
+},
+{
+"d": "2024-04-05",
+"c": {
+"inw": "przebudowa i rozbudowa hali przelądunkowej oraz części administracyjnej wraz z instalacją fotowoltaniczną rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "General Logistics Systems Poland sp. z o.o.",
+"nier": "Fajansowa 1",
+"dz": "146517_8 0501 62/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/120093/24"
+}
+},
+{
+"d": "2024-04-04",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego wielorodzinnego oraz obiektów gospodarczych rozbiórka istniejącego obiektu budowlanego",
+"wn": "Villa Chrościckiego spv sp. z o.o.",
+"nier": "Chrościckiego 72 / ks. Juliana",
+"dz": "146517_8 0805 15",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "KOB/4355/24"
+}
+},
+{
+"d": "2024-04-04",
+"c": {
+"inw": "przebudowa lokalu biurowego na fragmencie parteru wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Boeing Poland sp. z o.o.",
+"nier": "Aleja Krakowska 110-114",
+"dz": "146517_8 0602 53/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KO/3353/24"
+}
+},
+{
+"d": "2024-03-29",
+"c": {
+"inw": "budowa budynkuusługowo-magazynowego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Jutrzenki",
+"dz": "146517_8 0721 17/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/4159/24"
+}
+},
+{
+"d": "2024-03-28",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garazem podziemnym, miejscami postojowymi,elementami zagospodarowania i infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Dom Development S.A.",
+"nier": "Równoległa",
+"dz": "146517_8 0501 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "E/97279/24"
+}
+},
+{
+"d": "2024-03-26",
+"c": {
+"inw": "budowa budynku mieszkalnego dwukubaturowego ze wspólnym garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Develia S.A.",
+"nier": "Trzcinowa",
+"dz": "146517_8 0802 50/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/3968/24"
+}
+},
+{
+"d": "2024-03-19",
+"c": {
+"inw": "budowa sieci elektroenergetycznej SN 15 kV i nN 0,4 kV budowa nowego/nowych obiektów budowlanych",
+"wn": "POLENERGIA Dystrybucja sp. z o.o.",
+"nier": "Jutrzenki",
+"dz": "146517_8 0702 16/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/3658/24"
+}
+},
+{
+"d": "2024-03-19",
+"c": {
+"inw": "budowa sieci elektroenergetycznej SN 15 kV i nN 0,4 kV budowa nowego/nowych obiektów budowlanych",
+"wn": "POLENERGIA Dystrybucja sp. z o.o.",
+"nier": "Jutrzenki",
+"dz": "146517_8 0702 15/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/3658/24"
+}
+},
+{
+"d": "2024-03-19",
+"c": {
+"inw": "budowa sieci elektroenergetycznej SN 15 kV i nN 0,4 kV budowa nowego/nowych obiektów budowlanych",
+"wn": "POLENERGIA Dystrybucja sp. z o.o.",
+"nier": "Jutrzenki",
+"dz": "146517_8 0702 15/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/3658/24"
+}
+},
+{
+"d": "2024-03-19",
+"c": {
+"inw": "budowa sieci elektroenergetycznej SN 15 kV i nN 0,4 kV budowa nowego/nowych obiektów budowlanych",
+"wn": "POLENERGIA Dystrybucja sp. z o.o.",
+"nier": "Jutrzenki",
+"dz": "146517_8 0702 15/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/3658/24"
+}
+},
+{
+"d": "2024-03-19",
+"c": {
+"inw": "budowa sieci elektroenergetycznej SN 15 kV i nN 0,4 kV budowa nowego/nowych obiektów budowlanych",
+"wn": "POLENERGIA Dystrybucja sp. z o.o.",
+"nier": "Jutrzenki",
+"dz": "146517_8 0702 14/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/3658/24"
+}
+},
+{
+"d": "2024-03-19",
+"c": {
+"inw": "budowa sieci elektroenergetycznej SN 15 kV i nN 0,4 kV budowa nowego/nowych obiektów budowlanych",
+"wn": "POLENERGIA Dystrybucja sp. z o.o.",
+"nier": "Jutrzenki",
+"dz": "146517_8 0702 14/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/3658/24"
+}
+},
+{
+"d": "2024-03-19",
+"c": {
+"inw": "budowa sieci elektroenergetycznej SN 15 kV i nN 0,4 kV budowa nowego/nowych obiektów budowlanych",
+"wn": "POLENERGIA Dystrybucja sp. z o.o.",
+"nier": "Jutrzenki",
+"dz": "146517_8 0702 14/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/3658/24"
+}
+},
+{
+"d": "2024-03-19",
+"c": {
+"inw": "budowa sieci elektroenergetycznej SN 15 kV i nN 0,4 kV budowa nowego/nowych obiektów budowlanych",
+"wn": "POLENERGIA Dystrybucja sp. z o.o.",
+"nier": "Jutrzenki",
+"dz": "146517_8 0702 12/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/3658/24"
+}
+},
+{
+"d": "2024-03-13",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym oraz niezbędną infrastruktura budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Jutrzenki",
+"dz": "146517_8 0702 20/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/3413/24"
+}
+},
+{
+"d": "2024-03-06",
+"c": {
+"inw": "budowa podziemnego zbiornika retencyjngo wraz z niezbędną infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK S.A.",
+"nier": "",
+"dz": "146517_8 0404 13/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/3114/24"
+}
+},
+{
+"d": "2024-03-06",
+"c": {
+"inw": "budowa podziemnego zbiornika retencyjngo wraz z niezbędną infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK S.A.",
+"nier": "",
+"dz": "146517_8 0404 13/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/3114/24"
+}
+},
+{
+"d": "2024-03-06",
+"c": {
+"inw": "budowa podziemnego zbiornika retencyjngo wraz z niezbędną infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK S.A.",
+"nier": "",
+"dz": "146517_8 0404 13/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/3114/24"
+}
+},
+{
+"d": "2024-03-06",
+"c": {
+"inw": "budowa podziemnego zbiornika retencyjngo wraz z niezbędną infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK S.A.",
+"nier": "",
+"dz": "146517_8 0404 13/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/3114/24"
+}
+},
+{
+"d": "2024-03-06",
+"c": {
+"inw": "budowa podziemnego zbiornika retencyjngo wraz z niezbędną infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK S.A.",
+"nier": "",
+"dz": "146517_8 0404 13/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/3114/24"
+}
+},
+{
+"d": "2024-03-06",
+"c": {
+"inw": "budowa podziemnego zbiornika retencyjngo wraz z niezbędną infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK S.A.",
+"nier": "",
+"dz": "146517_8 0404 13/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/3114/24"
+}
+},
+{
+"d": "2024-03-04",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z lokalami usługowymi i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Łopuszańska 235 sp. z o.o.",
+"nier": "",
+"dz": "146517_8 0501 38",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/2963/24"
+}
+},
+{
+"d": "2024-03-04",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z lokalami usługowymi i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Łopuszańska 235 sp. z o.o.",
+"nier": "",
+"dz": "146517_8 0501 39",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/2963/24"
+}
+},
+{
+"d": "2024-03-04",
+"c": {
+"inw": "rozbudowa i przebudowa budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Wszemirowska",
+"dz": "146517_8 0819 154",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "EPuap/59985/24"
+}
+},
+{
+"d": "2024-03-04",
+"c": {
+"inw": "rozbudowa i przebudowa budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Wszemirowska",
+"dz": "146517_8 0819 152",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "EPuap/59985/24"
+}
+},
+{
+"d": "2024-03-04",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z trzema bryłami nadziemnymi, garażem podziemnym, zagospodarowaniem terenu i niezbędną infarstrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Foliałowa",
+"dz": "146517_8 0719 58/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/2904/24"
+}
+},
+{
+"d": "2024-03-01",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z dwoma bryłami nadziemnymi, garażem podziemnym, zagospodarowaniem terenu i niezbędną infarstrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Fundacja RE-RA",
+"nier": "Foliałowa",
+"dz": "146517_8 0719 58/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/2906/24"
+}
+},
+{
+"d": "2024-02-26",
+"c": {
+"inw": "zmiana dec. 267/2019 z dnia 06.12.2019 r. dot. budowy budynku biurowego-usługowego, budynku hotelowo-usługowego z niezbędną infrastrukturą techniczną, garazem podziemnym, drogami wewn., elementami zagospodarowania terenu wraz z rozbiórką budynku istniejącego - przedmiotem inwestycji będzie budowa budynku zamieszkania zbiorowego świadczącego usługi hotelarskie w parterze z usługami, niezbędną infrastrukturą, garażem podziemnym, drogami wewnętrznymi, elemantami zagospodarowanai terenu\" budowa nowego/nowych obiektów budowlanych",
+"wn": "J200 Hotel Invest sp. z o.o. sp. k.",
+"nier": "Aleje Jerozolimskie",
+"dz": "146517_8 0831 85/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/2611/24"
+}
+},
+{
+"d": "2024-02-19",
+"c": {
+"inw": "budowa wiaty stalowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Macro Cash and Carry Polska S.A.",
+"nier": "Aleje Jerozolimskie 184",
+"dz": "146517_8 0826 57/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KO-P/18316/24"
+}
+},
+{
+"d": "2024-02-19",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Koziorożca",
+"dz": "146517_8 0807 9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/2339/24"
+}
+},
+{
+"d": "2024-02-19",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Koziorożca",
+"dz": "146517_8 0807 8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/2339/24"
+}
+},
+{
+"d": "2024-02-16",
+"c": {
+"inw": "budowa dwóch budynków wielorodzinnych mieszkalno-usługowych z garażem podziemnym oraz wewnętrzną instalacją gazową z odcinkiem ziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "HI Projekt XXXIX sp. z o.o.",
+"nier": "Robotnicza 11/13",
+"dz": "146517_8 0706 148",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "KOB/2218/24"
+}
+},
+{
+"d": "2024-02-16",
+"c": {
+"inw": "rozbudowa z nadbudową wraz ze zmianą geometrii dachu mieszkalnego budynku jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146517_8 0806 26",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/2221/24"
+}
+},
+{
+"d": "2024-02-15",
+"c": {
+"inw": "budowa instalacji gazowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Dom Invest Polska sp. z o.o.",
+"nier": "Komitetu Obrony Robotników 54",
+"dz": "146517_8 0406 225/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/2145/24"
+}
+},
+{
+"d": "2024-02-09",
+"c": {
+"inw": "przebudowa oddziału GLS wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "General Logistics Systems  Poland  sp. z o.o.",
+"nier": "Fajansowa 1",
+"dz": "146517_8 0501 62/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "E/38207/24"
+}
+},
+{
+"d": "2024-02-08",
+"c": {
+"inw": "rozbudowa, przebudowa i częściowa rozbiórka budynku mieszkalnego jednorodzinnego wolnostojącego oraz rozbiórka budynku transportu i łączności rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Płomyka 16",
+"dz": "146517_8 0824 221",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/1828/24"
+}
+},
+{
+"d": "2024-02-02",
+"c": {
+"inw": "rozbiórka budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Poronińska 5a",
+"dz": "146517_8 0812 138",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/1994/24"
+}
+},
+{
+"d": "2024-02-02",
+"c": {
+"inw": "budowa budynku harażowo-gospodarczego budowa nowego/nowych obiektów budowlanych",
+"wn": "Wawer 1 sp. z o.o.",
+"nier": "Potrzebna 25",
+"dz": "146517_8 0809 58",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/1549/24"
+}
+},
+{
+"d": "2024-02-02",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Vastint Poland sp. z o.o.",
+"nier": "Żwirki i Wigury 2b",
+"dz": "146517_8 0605 2/15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/1539/24"
+}
+},
+{
+"d": "2024-02-02",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z usługami w parterze i garaże podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Przerwana",
+"dz": "146517_8 0831 42",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/1592/24"
+}
+},
+{
+"d": "2024-02-02",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z usługami w parterze i garaże podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Przerwana",
+"dz": "146517_8 0831 43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/1592/24"
+}
+},
+{
+"d": "2024-01-31",
+"c": {
+"inw": "rozbudowa i nadbudowa budynku magazynowo-biurowego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "MAG INSTAL sp. z o.o.",
+"nier": "Łopuszańska 30",
+"dz": "146517_8 0501 57",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/1398/24"
+}
+},
+{
+"d": "2024-01-31",
+"c": {
+"inw": "rozbudowa i nadbudowa budynku magazynowo-biurowego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "MAG INSTAL sp. z o.o.",
+"nier": "Łopuszańska 30",
+"dz": "146517_8 0501 58",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/1398/24"
+}
+},
+{
+"d": "2024-01-31",
+"c": {
+"inw": "montaż urządzeń i instalacja odzysku ciepła niskotemperaturowego z systemu wyskosprawnej kogeneracji wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Veolia Mała Kogeneracja Warszawa sp. z o.o.",
+"nier": "",
+"dz": "146517_8 0701 7/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/1364/24"
+}
+},
+{
+"d": "2024-01-30",
+"c": {
+"inw": "budowa instalacji fotowoltanicznej wraz z niezbędną infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "Sieć Badawcza Łukasiewicz-Instytut Lotnictwa",
+"nier": "Aleja Krakowska",
+"dz": "146517_8 0604 53/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/1324/24"
+}
+},
+{
+"d": "2024-01-30",
+"c": {
+"inw": "budowa instalacji fotowoltanicznej wraz z niezbędną infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "Sieć Badawcza Łukasiewicz-Instytut Lotnictwa",
+"nier": "Aleja Krakowska",
+"dz": "146517_8 0602 2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/1324/24"
+}
+},
+{
+"d": "2024-01-29",
+"c": {
+"inw": "rozbiórka budynku uslugowego, budynku garażowego, budynków gospodarczego, wiaty garażowej, budynku stacji transformatorowej oraz infrastruktury technicznej podziemnej i nadziemnej rozbiórka istniejącego obiektu budowlanego",
+"wn": "HI Projekt XXXIX sp. z o.o.",
+"nier": "Robotnicza 11/13",
+"dz": "146517_8 0706 148",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/1191/24"
+}
+},
+{
+"d": "2024-01-25",
+"c": {
+"inw": "budowa wenętrznej instalacji gazowej w budynku budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa, ZGN w Dzielnicy Włochy",
+"nier": "Cyprysowa 25",
+"dz": "146517_8 0707 82",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/1077/24"
+}
+},
+{
+"d": "2024-01-25",
+"c": {
+"inw": "przebudowa oraz budowa fragmentu wewnętrznej instalacji gazowej w budynku rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa, ZGN w Dzielnicy Włochy",
+"nier": "Globusowa 26",
+"dz": "146517_8 0808 149",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/1076/24"
+}
+},
+{
+"d": "2024-01-23",
+"c": {
+"inw": "rozbudowa budynku mieszkalnego wielorodzinnego o zabudowę części tarasu przylegającego do lokalu mieszkalnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Chrościckiego / ks. Juliana",
+"dz": "146517_8 0805 173",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB//935/24"
+}
+},
+{
+"d": "2024-01-17",
+"c": {
+"inw": "adaptacja poddasza nieużytkowego nad lokalem mieszkalnym w budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Zapustna 42a/21",
+"dz": "146517_8 0830 5/34",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/690/24"
+}
+},
+{
+"d": "2024-01-12",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym i nadziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "PZ Investments sp. z o.o.",
+"nier": "Solipska",
+"dz": "146517_8 0829 51/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/501/24"
+}
+},
+{
+"d": "2024-01-12",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym i nadziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "PZ Investments sp. z o.o.",
+"nier": "Solipska",
+"dz": "146517_8 0829 51/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/501/24"
+}
+}
+]
+},
+{
+"id": "dec_pnb",
+"name": "Decyzje o pozwoleniu na budowę",
+"short": "Decyzje PnB",
+"desc": "Decyzje o pozwoleniu na budowę wydane przez organ architektoniczno-budowlany dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer decyzji",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2024-12-31",
+"c": {
+"inw": "budowa podziemnego zbiornika retencyjngo wraz z niezbędną infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK S.A.",
+"nier": "",
+"dz": "146517_8 0404 13/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "244/WLO/PB/2024"
+}
+},
+{
+"d": "2024-12-31",
+"c": {
+"inw": "budowa podziemnego zbiornika retencyjngo wraz z niezbędną infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK S.A.",
+"nier": "",
+"dz": "146517_8 0404 13/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "244/WLO/PB/2024"
+}
+},
+{
+"d": "2024-12-31",
+"c": {
+"inw": "budowa podziemnego zbiornika retencyjngo wraz z niezbędną infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK S.A.",
+"nier": "",
+"dz": "146517_8 0404 13/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "244/WLO/PB/2024"
+}
+},
+{
+"d": "2024-12-31",
+"c": {
+"inw": "budowa podziemnego zbiornika retencyjngo wraz z niezbędną infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK S.A.",
+"nier": "",
+"dz": "146517_8 0404 13/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "244/WLO/PB/2024"
+}
+},
+{
+"d": "2024-12-31",
+"c": {
+"inw": "budowa podziemnego zbiornika retencyjngo wraz z niezbędną infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK S.A.",
+"nier": "",
+"dz": "146517_8 0404 13/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "244/WLO/PB/2024"
+}
+},
+{
+"d": "2024-12-31",
+"c": {
+"inw": "budowa podziemnego zbiornika retencyjngo wraz z niezbędną infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK S.A.",
+"nier": "",
+"dz": "146517_8 0404 13/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "244/WLO/PB/2024"
+}
+},
+{
+"d": "2024-12-31",
+"c": {
+"inw": "rozbiórka budynku mieszklanego jednorodzinnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Przyłęcka 13",
+"dz": "146517_8 0821 84/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "246/WLO/PB/2024/R"
+}
+},
+{
+"d": "2024-12-27",
+"c": {
+"inw": "budowa hali produkcyjno-usługowej z zapleczem biurowo-socjalnym oraz niezbędną infrastruktura techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Green Logistics Poland Duo 1 sp. z o.o.",
+"nier": "Kinetyczna",
+"dz": "176517_8 0621 9/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "242/WLO/PB/2024"
+}
+},
+{
+"d": "2024-12-27",
+"c": {
+"inw": "budowa hali produkcyjno-usługowej z zapleczem biurowo-socjalnym oraz niezbędną infrastruktura techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Green Logistics Poland Duo 1 sp. z o.o.",
+"nier": "Kinetyczna",
+"dz": "176517_8 0621 6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "242/WLO/PB/2024"
+}
+},
+{
+"d": "2024-12-27",
+"c": {
+"inw": "budowa hali produkcyjno-usługowej z zapleczem biurowo-socjalnym oraz niezbędną infrastruktura techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Green Logistics Poland Duo 1 sp. z o.o.",
+"nier": "Kinetyczna",
+"dz": "176517_8 0621 5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "242/WLO/PB/2024"
+}
+},
+{
+"d": "2024-12-27",
+"c": {
+"inw": "przebudowa powierzchnina parterze budynkubiurowo usługowego - wykonanie otworu drzwiowego w elewacji południowo-wschodniej, rozbudowa korytarza ewakuacyjnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poland Business Park XIII sp. z o.o.",
+"nier": "Krakowiaków 42",
+"dz": "146517_8 0504 63/27",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "241/WLO/PB/2024"
+}
+},
+{
+"d": "2024-12-27",
+"c": {
+"inw": "przebudowa powierzchnina parterze budynkubiurowo usługowego - wykonanie otworu drzwiowego w elewacji południowo-wschodniej, rozbudowa korytarza ewakuacyjnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poland Business Park XIII sp. z o.o.",
+"nier": "Krakowiaków 42",
+"dz": "146517_8 0504 63/30",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "241/WLO/PB/2024"
+}
+},
+{
+"d": "2024-12-27",
+"c": {
+"inw": "przebudowa powierzchnina parterze budynkubiurowo usługowego - wykonanie otworu drzwiowego w elewacji południowo-wschodniej, rozbudowa korytarza ewakuacyjnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poland Business Park XIII sp. z o.o.",
+"nier": "Krakowiaków 42",
+"dz": "146517_8 0504 72/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "241/WLO/PB/2024"
+}
+},
+{
+"d": "2024-12-27",
+"c": {
+"inw": "przebudowa powierzchnina parterze budynkubiurowo usługowego - wykonanie otworu drzwiowego w elewacji południowo-wschodniej, rozbudowa korytarza ewakuacyjnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Poland Business Park XIII sp. z o.o.",
+"nier": "Krakowiaków 42",
+"dz": "146517_8 0504 74/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "241/WLO/PB/2024"
+}
+},
+{
+"d": "2024-12-24",
+"c": {
+"inw": "budowa 4 wewnętrznych instalacji gazowych z odcinkami ziemnymi dla dwóch budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "SG Property sp. z o.o.",
+"nier": "Gidzińskiego / Bolesława",
+"dz": "146517_8 0716 41/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "239/WLO/PB/2024"
+}
+},
+{
+"d": "2024-12-20",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z lokalami uslugowmi i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Łopuszańska 235 sp. z o.o.",
+"nier": "Łopuszańska 36",
+"dz": "146517_8 0501 39",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "235/WLO/PB/2024"
+}
+},
+{
+"d": "2024-12-20",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z lokalami uslugowmi i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Łopuszańska 235 sp. z o.o.",
+"nier": "Łopuszańska 36",
+"dz": "146517_8 0501 38",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "235/WLO/PB/2024"
+}
+},
+{
+"d": "2024-12-20",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z lokalami usługowymi i z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Łopuszańska 235 sp. z o.o.",
+"nier": "Łopuszańska",
+"dz": "146517_8 0501 38",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "236/WLO/PB/2024"
+}
+},
+{
+"d": "2024-12-20",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z lokalami usługowymi i z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Łopuszańska 235 sp. z o.o.",
+"nier": "Łopuszańska",
+"dz": "146517_8 0501 39",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "236/WLO/PB/2024"
+}
+},
+{
+"d": "2024-12-13",
+"c": {
+"inw": "budowa drogi wewnętrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "REM-BUDEX Czesław Iwanicki",
+"nier": "Tynkarska",
+"dz": "146517_8 0822 14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "231/WLO/PB/2024"
+}
+},
+{
+"d": "2024-12-13",
+"c": {
+"inw": "budowa instalacji n/c dla budynku usługowego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Parowcowa 10e",
+"dz": "146517_8 0802 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "230/WLO/PB/2024"
+}
+},
+{
+"d": "2024-12-13",
+"c": {
+"inw": "budowa instalacji gazowej dla budynku mieszkalnego wielorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Promienista 18",
+"dz": "146517_8 0804 110",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "229/WLO/PB/2024"
+}
+},
+{
+"d": "2024-12-11",
+"c": {
+"inw": "przebudowa budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Śląska 25a",
+"dz": "146517_8 0814 79",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "228/WLO/PB/2024"
+}
+},
+{
+"d": "2024-12-06",
+"c": {
+"inw": "rozbiórka 8 budynków rozbiórka istniejącego obiektu budowlanego",
+"wn": "Aldi sp. z o.o.",
+"nier": "Łopuszańska",
+"dz": "146517_8 0504 29",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "224/WLO/PB/2024/R"
+}
+},
+{
+"d": "2024-12-02",
+"c": {
+"inw": "rozbiórka i budowa elektroenergetycznych sieci kablowych wraz z rozbiorką i budową eletronenergetycznej sieci napowietrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator sp. z o.o.",
+"nier": "Orzechowa",
+"dz": "146517_8 0504 54/31",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "221/WLO/PB/2024"
+}
+},
+{
+"d": "2024-12-02",
+"c": {
+"inw": "rozbiórka i budowa elektroenergetycznych sieci kablowych wraz z rozbiorką i budową eletronenergetycznej sieci napowietrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator sp. z o.o.",
+"nier": "Orzechowa",
+"dz": "146517_8 0504 49",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "221/WLO/PB/2024"
+}
+},
+{
+"d": "2024-12-02",
+"c": {
+"inw": "rozbiórka i budowa elektroenergetycznych sieci kablowych wraz z rozbiorką i budową eletronenergetycznej sieci napowietrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator sp. z o.o.",
+"nier": "Orzechowa",
+"dz": "146517_8 0504 48",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "221/WLO/PB/2024"
+}
+},
+{
+"d": "2024-12-02",
+"c": {
+"inw": "rozbiórka i budowa elektroenergetycznych sieci kablowych wraz z rozbiorką i budową eletronenergetycznej sieci napowietrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator sp. z o.o.",
+"nier": "Orzechowa",
+"dz": "146517_8 0504 47/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "221/WLO/PB/2024"
+}
+},
+{
+"d": "2024-12-02",
+"c": {
+"inw": "rozbiórka i budowa elektroenergetycznych sieci kablowych wraz z rozbiorką i budową eletronenergetycznej sieci napowietrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator sp. z o.o.",
+"nier": "Orzechowa",
+"dz": "146517_8 0504 46",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "221/WLO/PB/2024"
+}
+},
+{
+"d": "2024-12-02",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z usługami i garażem podziemnym , miejscami postojowymi  z elementami  zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "SGI Nowa sp. z o.o.",
+"nier": "Łopuszańska 47",
+"dz": "146517_8 0503 23/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "222/WLO/PB/2024"
+}
+},
+{
+"d": "2024-11-26",
+"c": {
+"inw": "rozbudowa budynku biurowego polegającą na dobudowie zewnętrznego szachtu windy rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "PL Investment Jerozolimskie I sp. z o.o.",
+"nier": "Aleje Jerozolimskie 195A",
+"dz": "146517_8 0720 3/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "213/WLO/PB/2024"
+}
+},
+{
+"d": "2024-11-26",
+"c": {
+"inw": "rozbudowa budynku biurowego polegającą na dobudowie zewnętrznego szachtu windy rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "PL Investment Jerozolimskie I sp. z o.o.",
+"nier": "Aleje Jerozolimskie 195A",
+"dz": "146517_8 0720 4/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "213/WLO/PB/2024"
+}
+},
+{
+"d": "2024-11-25",
+"c": {
+"inw": "montaż urządzeń i instalacja odzysku ciepła niskotemperaturowego z systemu wyskosprawnej kogeneracji wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Veolia Mała Kogeneracja Warszawa sp. z o.o.",
+"nier": "",
+"dz": "146517_8 0701 7/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "212/WLO/PB/2024"
+}
+},
+{
+"d": "2024-11-21",
+"c": {
+"inw": "rozbiórka budynku i mieszkalnego jednorodzinnego i budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Dawid Kołomański , prowadzący działalność gospodarczą pod nazwa 4NL Dawid Kołomański",
+"nier": "Flagowa 4",
+"dz": "146517_8 0806 70",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "206/WLO/PB/2024/R"
+}
+},
+{
+"d": "2024-11-19",
+"c": {
+"inw": "adaptacja poddasza nieużytkowego nad lokalem mieszkalnym w budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Zapustna 42a/21",
+"dz": "146517_8 0830 5/34",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "205/WLO/PB/2024"
+}
+},
+{
+"d": "2024-11-15",
+"c": {
+"inw": "rozbiórka budynków i przyłączy rozbiórka istniejącego obiektu budowlanego",
+"wn": "Project Development Group sp. z o.o.",
+"nier": "Bolesława Chrobrego 10",
+"dz": "146517_8 0822 25",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "202/WLO/PB/2024/R"
+}
+},
+{
+"d": "2024-11-14",
+"c": {
+"inw": "budowa przyłączy elektroenergetycznych oraz aparatury kontrolo pomiarowej i automatyki wraz z instalacją urządzeń pomiarowych na sieci wodociągowej oraz remontem komory wodociągowej budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m. st. Warszawie",
+"nier": "Globusowa",
+"dz": "146517_8 0808 1/31",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "199/WLO/PB/2024"
+}
+},
+{
+"d": "2024-11-08",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Sklepowa",
+"dz": "146517_8 0822 78",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "195/WLO/PB/2024"
+}
+},
+{
+"d": "2024-10-25",
+"c": {
+"inw": "budowa budynku jednorodzinnego dwulokalowego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Hejnałowa",
+"dz": "146417_8 0501 101",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "190/WLO/PB/2024"
+}
+},
+{
+"d": "2024-10-11",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z trzema bryłami nadziemnymi, garażem podziemnym, zagospodarowaniem terenu i niezbędną infarstrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Foliałowa",
+"dz": "146517_8 0719 58/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "184/WLO/PB/2024"
+}
+},
+{
+"d": "2024-10-10",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z dwoma bryłami nadziemnymi, garażem podziemnym, zagospodarowaniem terenu i niezbędną infarstrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Fundacja RE-RA",
+"nier": "Foliałowa",
+"dz": "146517_8 0719 58/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "183/WLO/PB/2024"
+}
+},
+{
+"d": "2024-10-03",
+"c": {
+"inw": "budowa trzech budynków mieszkalnych wielorodzinnych z garażem podziemnym i usługami w parterze budowa nowego/nowych obiektów budowlanych",
+"wn": "5TH AVENUE REALTY Sp. z o.o.",
+"nier": "Płużańska",
+"dz": "146517_8 0810 18/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "169/WLO/PB/2024"
+}
+},
+{
+"d": "2024-10-03",
+"c": {
+"inw": "budowa trzech budynków mieszkalnych wielorodzinnych z garażem podziemnym i usługami w parterze budowa nowego/nowych obiektów budowlanych",
+"wn": "5TH AVENUE REALTY Sp. z o.o.",
+"nier": "Płużańska",
+"dz": "146517_8 0810 18/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "169/WLO/PB/2024"
+}
+},
+{
+"d": "2024-10-03",
+"c": {
+"inw": "budowa trzech budynków mieszkalnych wielorodzinnych z garażem podziemnym i usługami w parterze budowa nowego/nowych obiektów budowlanych",
+"wn": "5TH AVENUE REALTY Sp. z o.o.",
+"nier": "Płużańska",
+"dz": "146517_8 0810 18/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "169/WLO/PB/2024"
+}
+},
+{
+"d": "2024-10-03",
+"c": {
+"inw": "budowa trzech budynków mieszkalnych wielorodzinnych z garażem podziemnym i usługami w parterze budowa nowego/nowych obiektów budowlanych",
+"wn": "5TH AVENUE REALTY Sp. z o.o.",
+"nier": "Płużańska",
+"dz": "146517_8 0810 19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "169/WLO/PB/2024"
+}
+},
+{
+"d": "2024-10-03",
+"c": {
+"inw": "budowa trzech budynków mieszkalnych wielorodzinnych z garażem podziemnym i usługami w parterze budowa nowego/nowych obiektów budowlanych",
+"wn": "5TH AVENUE REALTY Sp. z o.o.",
+"nier": "Płużańska",
+"dz": "146517_8 0810 20/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "169/WLO/PB/2024"
+}
+},
+{
+"d": "2024-10-02",
+"c": {
+"inw": "zmiana sposobuużytkowania poddasza nieużytkowego w budynku mieszkalnym jednorodzinnym na część mieszkalną orazremont dachu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Skibicka",
+"dz": "146517_8 0711 87",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "168/WLO/PB/2024"
+}
+},
+{
+"d": "2024-10-01",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego i innych obiektów budowlanych rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Koziorożca 9",
+"dz": "146517_8 0807 9",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "167/WLO/PB/2024/R"
+}
+},
+{
+"d": "2024-09-24",
+"c": {
+"inw": "budowa budynkumieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Wilczycka 14",
+"dz": "146517_8 0823 64/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "161/WLO/PB/2024"
+}
+},
+{
+"d": "2024-09-19",
+"c": {
+"inw": "rozbióka budynku mieszkalnego w zabudowie bliźniaczej wraz z budynkiem gospodarczym rozbiórka istniejącego obiektu budowlanego",
+"wn": "Devin Investments sp.z o.o.",
+"nier": "Narożna 7",
+"dz": "146517_8 0501 174",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "158/WLO/PB/2024/R"
+}
+},
+{
+"d": "2024-09-19",
+"c": {
+"inw": "rozbióka budynku mieszkalnego w zabudowie bliźniaczej wraz z budynkiem gospodarczym rozbiórka istniejącego obiektu budowlanego",
+"wn": "Devin Investments sp. z o.o.",
+"nier": "Narożna 9",
+"dz": "146517_8 0501 173",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "159/WLO/PB/2024/R"
+}
+},
+{
+"d": "2024-09-18",
+"c": {
+"inw": "budowa przyłączy elektroenergetycznych oraz aparatury kontrolo pomiarowej i automatyki wraz z instalacją urządzeń pomiarowych na sieci wodociągowej oraz remontem komory wodociągowej budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK w m.st. Warszawie S.A.",
+"nier": "Żwirki i Wigury",
+"dz": "146517_8 0404 74/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "156/WLO/PB/2024"
+}
+},
+{
+"d": "2024-09-05",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z usługami w parterze, garażem podziemnym i niebędną infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "Kompania Domowa Projekt 12 sp. z o.o",
+"nier": "Plastyczna",
+"dz": "146517_8 0809 91",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "152/WLO/PB/2024"
+}
+},
+{
+"d": "2024-09-05",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z usługami w parterze, garażem podziemnym i niebędną infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "Kompania Domowa Projekt 12 sp. z o.o",
+"nier": "Plastyczna",
+"dz": "146517_8 0809 89",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "152/WLO/PB/2024"
+}
+},
+{
+"d": "2024-09-05",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z usługami w parterze, garażem podziemnym i niebędną infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "Kompania Domowa Projekt 12 sp. z o.o",
+"nier": "Plastyczna",
+"dz": "146517_8 0809 88",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "152/WLO/PB/2024"
+}
+},
+{
+"d": "2024-09-04",
+"c": {
+"inw": "przebudowa budynku mieszkalnego z lokalami usługowymi polegająca na dodaniu okna w ścianie zewnętrznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Popularna 60",
+"dz": "146517_8 0825 16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "153/WLO/PB/2024"
+}
+},
+{
+"d": "2024-09-04",
+"c": {
+"inw": "przebudowa budynku mieszkalnego z lokalami usługowymi polegająca na dodaniu okna w ścianie zewnętrznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Popularna 60",
+"dz": "146517_8 0825 17/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "153/WLO/PB/2024"
+}
+},
+{
+"d": "2024-09-04",
+"c": {
+"inw": "przebudowa budynku mieszkalnego z lokalami usługowymi polegająca na dodaniu okna w ścianie zewnętrznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Popularna 60",
+"dz": "146517_8 0825 17/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "153/WLO/PB/2024"
+}
+},
+{
+"d": "2024-08-28",
+"c": {
+"inw": "rozbudowa i przebudowa budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Wszemirowska",
+"dz": "146517_8 0819 154",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "150/WLO/PB/2024"
+}
+},
+{
+"d": "2024-08-28",
+"c": {
+"inw": "rozbudowa i przebudowa budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Wszemirowska",
+"dz": "146517_8 0819 152",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "150/WLO/PB/2024"
+}
+},
+{
+"d": "2024-08-27",
+"c": {
+"inw": "rozbiórka budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Miasto st. Warszawa, Zakład Gospodarowania Nieruchomościami w Dzielnicy Włochy",
+"nier": "Cyprysowa 25",
+"dz": "146517_8 0707 82",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "149/WLO/PB/2024/R"
+}
+},
+{
+"d": "2024-08-21",
+"c": {
+"inw": "rozbiórka 5 budynków gospodarczych rozbiórka istniejącego obiektu budowlanego",
+"wn": "Miasto st. Warszawa, Zakład Gospodarowania Nieruchomościami w Dzielnicy Włochy",
+"nier": "Plastyczna 31",
+"dz": "146517_8 0809 79",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "148/WLO/PB/2024/R"
+}
+},
+{
+"d": "2024-08-21",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Koziorożca",
+"dz": "146517_8 0807 9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "147/WLO/PB/2024"
+}
+},
+{
+"d": "2024-08-21",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Koziorożca",
+"dz": "146517_8 0807 8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "147/WLO/PB/2024"
+}
+},
+{
+"d": "2024-08-16",
+"c": {
+"inw": "rozbiórka budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Emaliowa 26",
+"dz": "146517_8 0719 14/15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "144/WLO/PB/2024/R"
+}
+},
+{
+"d": "2024-07-23",
+"c": {
+"inw": "rozbiórka budynku mieszkalno-gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Załuski 4",
+"dz": "146517_8 0615 84",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "131/WLO/PB/2024/R"
+}
+},
+{
+"d": "2024-07-23",
+"c": {
+"inw": "budowa budynku harażowo-gospodarczego budowa nowego/nowych obiektów budowlanych",
+"wn": "Wawer 1 sp. z o.o.",
+"nier": "Potrzebna 25",
+"dz": "146517_8 0809 58",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "130/WLO/PB/2024"
+}
+},
+{
+"d": "2024-07-18",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego wielorodzinnego oraz obiektów gospodarczych rozbiórka istniejącego obiektu budowlanego",
+"wn": "Villa Chrościckiego spv sp. z o.o.",
+"nier": "Chrościckiego 72 / ks. Juliana",
+"dz": "146517_8 0805 15",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "126/WLO/PB/2024/R"
+}
+},
+{
+"d": "2024-07-18",
+"c": {
+"inw": "nadbudowa, przebudowa i zmiana sposobuużytkowania poddasza na cele mieszkalne w budynku mieszkalnym wielorodzinnym nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Inwebe sp. z o.o.",
+"nier": "Promienista 8",
+"dz": "146517_8 0806 53",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "125/WLO/PB/2024"
+}
+},
+{
+"d": "2024-07-18",
+"c": {
+"inw": "rozbiórka trzech budynków gospodarczych rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Gładka 5",
+"dz": "146517_8 0406 129",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "127/WLO/PB/2024/R"
+}
+},
+{
+"d": "2024-07-10",
+"c": {
+"inw": "budowa wew. instalacji gazowej dla budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MISFER G.Walicki, P.Wierzba sp.j.",
+"nier": "Zbąszyńska",
+"dz": "146517_8 0501 169",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "120/WLO/PB/2024"
+}
+},
+{
+"d": "2024-07-05",
+"c": {
+"inw": "budowamsieci wodociągowej budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK S.A.",
+"nier": "Leonidasa",
+"dz": "146517_8 0507 58/18",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "118/WLO/PB/2024"
+}
+},
+{
+"d": "2024-07-05",
+"c": {
+"inw": "budowamsieci wodociągowej budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK S.A.",
+"nier": "Leonidasa",
+"dz": "146517_8 0507 58/15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "118/WLO/PB/2024"
+}
+},
+{
+"d": "2024-07-05",
+"c": {
+"inw": "budowamsieci wodociągowej budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK S.A.",
+"nier": "Leonidasa",
+"dz": "146517_8 0507 58/17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "118/WLO/PB/2024"
+}
+},
+{
+"d": "2024-07-05",
+"c": {
+"inw": "budowamsieci wodociągowej budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK S.A.",
+"nier": "Leonidasa",
+"dz": "146517_8 0507 58/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "118/WLO/PB/2024"
+}
+},
+{
+"d": "2024-07-05",
+"c": {
+"inw": "budowa sieci wodociągowej budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK S.A.",
+"nier": "Leonidasa",
+"dz": "146517_8 0507 58/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "118/WLO/PB/2024"
+}
+},
+{
+"d": "2024-07-05",
+"c": {
+"inw": "budowa sieci wodociągowej budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK S.A.",
+"nier": "Leonidasa",
+"dz": "146517_8 0507 58/17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "118/WLO/PB/2024"
+}
+},
+{
+"d": "2024-07-05",
+"c": {
+"inw": "budowa sieci wodociągowej budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK S.A.",
+"nier": "Leonidasa",
+"dz": "146517_8 0507 58/15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "118/WLO/PB/2024"
+}
+},
+{
+"d": "2024-07-05",
+"c": {
+"inw": "budowa sieci wodociągowej budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWiK S.A.",
+"nier": "Leonidasa",
+"dz": "146517_8 0507 58/18",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "118/WLO/PB/2024"
+}
+},
+{
+"d": "2024-07-03",
+"c": {
+"inw": "zmiana dec. 267/2019 z dnia 06.12.2019 r. dot. budowy budynku biurowego-usługowego, budynku hotelowo-usługowego z niezbędną infrastrukturą techniczną, garazem podziemnym, drogami wewn., elementami zagospodarowania terenu wraz z rozbiórką budynku istniejącego - przedmiotem inwestycji będzie budowa budynku zamieszkania zbiorowego świadczącego usługi hotelarskie w parterze z usługami, niezbędną infrastrukturą, garażem podziemnym, drogami wewnętrznymi, elemantami zagospodarowanai terenu\" budowa nowego/nowych obiektów budowlanych",
+"wn": "J200 Hotel Invest sp. z o.o. sp. k.",
+"nier": "Aleje Jerozolimskie",
+"dz": "146517_8 0831 85/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "116/WLO/PB/2024/Z"
+}
+},
+{
+"d": "2024-06-27",
+"c": {
+"inw": "budowa odcinka ziemnego wewnętrznej  instalacji gazowej dla budynku usługowo-hotelowego budowa nowego/nowych obiektów budowlanych",
+"wn": "DOVI DTT sp. z o.o. sp.k.",
+"nier": "Światowa 19",
+"dz": "146517_8 0720 85",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "115/WLO/PB/2024"
+}
+},
+{
+"d": "2024-06-26",
+"c": {
+"inw": "budowa instalacji fotowoltanicznej wraz z niezbędną infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "Sieć Badawcza Łukasiewicz-Instytut Lotnictwa",
+"nier": "Aleja Krakowska",
+"dz": "146517_8 0604 53/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "113/WLO/PB/2024"
+}
+},
+{
+"d": "2024-06-26",
+"c": {
+"inw": "budowa instalacji fotowoltanicznej wraz z niezbędną infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "Sieć Badawcza Łukasiewicz-Instytut Lotnictwa",
+"nier": "Aleja Krakowska",
+"dz": "146517_8 0602 2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "113/WLO/PB/2024"
+}
+},
+{
+"d": "2024-06-18",
+"c": {
+"inw": "przebudowa i rozbudowa hali przelądunkowej oraz części administracyjnej wraz z instalacją fotowoltaniczną rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "General Logistics Systems Poland sp. z o.o.",
+"nier": "Fajansowa 1",
+"dz": "146517_8 0501 62/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "109/WLO/PB/2024"
+}
+},
+{
+"d": "2024-06-18",
+"c": {
+"inw": "rozbiórka pawilonu handlowego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Zarankiewicza 2 / Kazimierza",
+"dz": "146517_8 0407 33/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "111/WLO/PB/2024"
+}
+},
+{
+"d": "2024-06-18",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym, miejscami postojowymi, elementami zagospodarowania terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Równoległa",
+"dz": "146517_8 0501 279",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "107/WLO/PB/2024"
+}
+},
+{
+"d": "2024-06-18",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym, miejscami postojowymi, elementami zagospodarowania terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "Szymańczyk Roman Deresz Kancelaria Adwokacka Spółka Partnerska",
+"nier": "Równoległa",
+"dz": "146517_8 0501 279",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "108/WLO/PB/2024"
+}
+},
+{
+"d": "2024-06-18",
+"c": {
+"inw": "budowa sieci elektroenergetycznej SN 15 kV i nN 0,4 kV budowa nowego/nowych obiektów budowlanych",
+"wn": "POLENERGIA Dystrybucja sp. z o.o.",
+"nier": "Jutrzenki",
+"dz": "146517_8 0702 16/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "112/WLO/PB/2024"
+}
+},
+{
+"d": "2024-06-18",
+"c": {
+"inw": "budowa sieci elektroenergetycznej SN 15 kV i nN 0,4 kV budowa nowego/nowych obiektów budowlanych",
+"wn": "POLENERGIA Dystrybucja sp. z o.o.",
+"nier": "Jutrzenki",
+"dz": "146517_8 0702 15/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "112/WLO/PB/2024"
+}
+},
+{
+"d": "2024-06-18",
+"c": {
+"inw": "budowa sieci elektroenergetycznej SN 15 kV i nN 0,4 kV budowa nowego/nowych obiektów budowlanych",
+"wn": "POLENERGIA Dystrybucja sp. z o.o.",
+"nier": "Jutrzenki",
+"dz": "146517_8 0702 15/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "112/WLO/PB/2024"
+}
+},
+{
+"d": "2024-06-18",
+"c": {
+"inw": "budowa sieci elektroenergetycznej SN 15 kV i nN 0,4 kV budowa nowego/nowych obiektów budowlanych",
+"wn": "POLENERGIA Dystrybucja sp. z o.o.",
+"nier": "Jutrzenki",
+"dz": "146517_8 0702 15/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "112/WLO/PB/2024"
+}
+},
+{
+"d": "2024-06-18",
+"c": {
+"inw": "budowa sieci elektroenergetycznej SN 15 kV i nN 0,4 kV budowa nowego/nowych obiektów budowlanych",
+"wn": "POLENERGIA Dystrybucja sp. z o.o.",
+"nier": "Jutrzenki",
+"dz": "146517_8 0702 14/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "112/WLO/PB/2024"
+}
+},
+{
+"d": "2024-06-18",
+"c": {
+"inw": "budowa sieci elektroenergetycznej SN 15 kV i nN 0,4 kV budowa nowego/nowych obiektów budowlanych",
+"wn": "POLENERGIA Dystrybucja sp. z o.o.",
+"nier": "Jutrzenki",
+"dz": "146517_8 0702 14/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "112/WLO/PB/2024"
+}
+},
+{
+"d": "2024-06-18",
+"c": {
+"inw": "budowa sieci elektroenergetycznej SN 15 kV i nN 0,4 kV budowa nowego/nowych obiektów budowlanych",
+"wn": "POLENERGIA Dystrybucja sp. z o.o.",
+"nier": "Jutrzenki",
+"dz": "146517_8 0702 14/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "112/WLO/PB/2024"
+}
+},
+{
+"d": "2024-06-18",
+"c": {
+"inw": "budowa sieci elektroenergetycznej SN 15 kV i nN 0,4 kV budowa nowego/nowych obiektów budowlanych",
+"wn": "POLENERGIA Dystrybucja sp. z o.o.",
+"nier": "Jutrzenki",
+"dz": "146517_8 0702 12/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "112/WLO/PB/2024"
+}
+},
+{
+"d": "2024-06-07",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z lokalami usługowymi i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Łopuszańska 235 sp. z o.o.",
+"nier": "",
+"dz": "146517_8 0501 38",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "99/WLO/PB/2024"
+}
+},
+{
+"d": "2024-06-07",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z lokalami usługowymi i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Łopuszańska 235 sp. z o.o.",
+"nier": "",
+"dz": "146517_8 0501 39",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "99/WLO/PB/2024"
+}
+},
+{
+"d": "2024-06-06",
+"c": {
+"inw": "zmiana sposobu użytkowania istniejącego budynku mieszkalnego jednorodzinnego i budynku gospodarczego na budynek mieszkalny jednorodzinny dwulokalowy wraz z rozbudową i przebudową i nadbudową istniejącego budynku mieszkalnego jednorodzinnego oraz rozbudową i przebudową istniejącego budynku gospodarczego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Słowicza",
+"dz": "146517_8 0406 152",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "96/WLO/PB/2024"
+}
+},
+{
+"d": "2024-06-05",
+"c": {
+"inw": "rozbudowa i nadbudowa budynku magazynowo-biurowego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "MAG INSTAL sp. z o.o.",
+"nier": "Łopuszańska 30",
+"dz": "146517_8 0501 57",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "94/WLO/PB/2024"
+}
+},
+{
+"d": "2024-06-05",
+"c": {
+"inw": "rozbudowa i nadbudowa budynku magazynowo-biurowego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "MAG INSTAL sp. z o.o.",
+"nier": "Łopuszańska 30",
+"dz": "146517_8 0501 58",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "94/WLO/PB/2024"
+}
+},
+{
+"d": "2024-06-05",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym i elementami zagospodarowania terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Aleje Jerozolimskie",
+"dz": "146517_8 0826 57/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "95/WLO/PB/2024"
+}
+},
+{
+"d": "2024-05-27",
+"c": {
+"inw": "przebudowa i rozbudowa budynku mieszkalnego jednorodzinnego z garażem  instalacją gazową wraz z rozbiórką budynku gospodarczego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Szuberta 20 / Franciszka",
+"dz": "146517_8 0819 81",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "88/WLO/PB/2024"
+}
+},
+{
+"d": "2024-05-23",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "MHN SKY sp. z o.o.",
+"nier": "Wagonowa 12",
+"dz": "146517_8 0501 163",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "80/WLO/PB/2024"
+}
+},
+{
+"d": "2024-05-23",
+"c": {
+"inw": "budowa budynku wielorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Gładka 5",
+"dz": "146517_8 0406 129",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "87/WLO/PB/2024"
+}
+},
+{
+"d": "2024-05-23",
+"c": {
+"inw": "rozbudowa budynku mieszkalnego wielorodzinnego o zabudowę części tarasu przylegającego do lokalu mieszkalnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Chrościckiego / ks. Juliana",
+"dz": "146517_8 0805 173",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "86/WLO/PB/2024"
+}
+},
+{
+"d": "2024-05-23",
+"c": {
+"inw": "budowa dwóch budynków wielorodzinnych mieszkalno-usługowych z garażem podziemnym oraz wewnętrzną instalacją gazową z odcinkiem ziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "HI Projekt XXXIX sp. z o.o.",
+"nier": "Robotnicza 11/13",
+"dz": "146517_8 0706 148",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "84/WLO/PB/2024"
+}
+},
+{
+"d": "2024-05-23",
+"c": {
+"inw": "docieplenie elewacji budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa OCHOTA",
+"nier": "Sabały",
+"dz": "146517_8 0406 13/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "85/WLO/PB/2024"
+}
+},
+{
+"d": "2024-05-21",
+"c": {
+"inw": "nadbudowa budynku mieszkalnego jednorodzinnego wraz ze zmianą sposobu użytkowania poddasza na mieszkalne nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Dziupli 15",
+"dz": "146517_8 0814 99",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "78/WLO/PB/2024"
+}
+},
+{
+"d": "2024-05-21",
+"c": {
+"inw": "budowa instalacji gazowej dla budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Emaliowa",
+"dz": "146517_8 0719 26/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "79/WLO/PB/2024"
+}
+},
+{
+"d": "2024-05-21",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Notecka 11",
+"dz": "146517_8 0804 85",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "77/WLO/PB/2024"
+}
+},
+{
+"d": "2024-05-17",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym i nadziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "PZ Investments sp. z o.o.",
+"nier": "Solipska",
+"dz": "146517_8 0829 51/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "76/WLO/PB/2024"
+}
+},
+{
+"d": "2024-05-17",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym i nadziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "PZ Investments sp. z o.o.",
+"nier": "Solipska",
+"dz": "146517_8 0829 51/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "76/WLO/PB/2024"
+}
+},
+{
+"d": "2024-05-17",
+"c": {
+"inw": "przebudowa lokalu biurowego na fragmencie parteru wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Boeing Poland sp. z o.o.",
+"nier": "Aleja Krakowska 110-114",
+"dz": "146517_8 0602 53/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "74/WLO/PB/2024"
+}
+},
+{
+"d": "2024-05-17",
+"c": {
+"inw": "budowa wiaty stalowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Macro Cash and Carry Polska S.A.",
+"nier": "Aleje Jerozolimskie 184",
+"dz": "146517_8 0826 57/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "75/WLO/PB/2024"
+}
+},
+{
+"d": "2024-05-09",
+"c": {
+"inw": "rozbudowa, przebudowa i częściowa rozbiórka budynku mieszkalnego jednorodzinnego wolnostojącego oraz rozbiórka budynku transportu i łączności rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Płomyka 16",
+"dz": "146517_8 0824 221",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "70/WLO/PB/2024"
+}
+},
+{
+"d": "2024-04-25",
+"c": {
+"inw": "rozbiórka budynku uslugowego, budynku garażowego, budynków gospodarczego, wiaty garażowej, budynku stacji transformatorowej oraz infrastruktury technicznej podziemnej i nadziemnej rozbiórka istniejącego obiektu budowlanego",
+"wn": "HI Projekt XXXIX sp. z o.o.",
+"nier": "Robotnicza 11/13",
+"dz": "146517_8 0706 148",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "65/WLO/PB/2024/R"
+}
+},
+{
+"d": "2024-04-25",
+"c": {
+"inw": "rozbiórka istniejącego budynkumiszkalnego jednorodzinnego i budowa budynku usługowego budowa nowego/nowych obiektów budowlanych",
+"wn": "JW Property 5 sp. z o.o.",
+"nier": "Świetlana 26",
+"dz": "146517_8 0804 51",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "66/WLO/PB/2024"
+}
+},
+{
+"d": "2024-04-25",
+"c": {
+"inw": "przebudowa budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Michałowskiego 1 / Piotra",
+"dz": "146517_8 0806 25",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "63/WLO/PB/2024"
+}
+},
+{
+"d": "2024-04-22",
+"c": {
+"inw": "budowa zespołu budynków mieszkalnych jednorodzinnych w zabudowie szeregowej, dwulokalowych oraz drogi wewnętrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Na Skraju",
+"dz": "146517_8 0615 90",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "57/WLO/PB/2024"
+}
+},
+{
+"d": "2024-04-12",
+"c": {
+"inw": "budowa instalacji gazowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Dom Invest Polska sp. z o.o.",
+"nier": "Komitetu Obrony Robotników 54",
+"dz": "146517_8 0406 225/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "51/WLO/PB/2024"
+}
+},
+{
+"d": "2024-04-05",
+"c": {
+"inw": "przebudowa oddziału GLS wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "General Logistics Systems  Poland  sp. z o.o.",
+"nier": "Fajansowa 1",
+"dz": "146517_8 0501 62/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "45/WLO/PB/2024"
+}
+},
+{
+"d": "2024-04-05",
+"c": {
+"inw": "rozbiórka budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Poronińska 5a",
+"dz": "146517_8 0812 138",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "46/WLO/PB/2024/R"
+}
+},
+{
+"d": "2024-04-05",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego, dwukubaturowego, z lokalami usługowymi i wspólnym garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "GH Development sp. z o.o.",
+"nier": "",
+"dz": "146517_8 0504 52",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "47/wlo/PB/2024"
+}
+},
+{
+"d": "2024-04-05",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego, dwukubaturowego, z lokalami usługowymi i wspólnym garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "GH Development sp. z o.o.",
+"nier": "",
+"dz": "146517_8 0504 51",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "47/wlo/PB/2024"
+}
+},
+{
+"d": "2024-04-05",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego, dwukubaturowego, z lokalami usługowymi i wspólnym garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "GH Development sp. z o.o.",
+"nier": "",
+"dz": "146517_8 0504 50",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "47/wlo/PB/2024"
+}
+},
+{
+"d": "2024-04-05",
+"c": {
+"inw": "budowa hali magazynowej wraz z powierzchnią użytkową (biuro) budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146517_8 0713 122",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "48/WLO/PB/2024"
+}
+},
+{
+"d": "2024-04-05",
+"c": {
+"inw": "budowa wenętrznej instalacji gazowej w budynku budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa, ZGN w Dzielnicy Włochy",
+"nier": "Cyprysowa 25",
+"dz": "146517_8 0707 82",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "49/WLO/PB/2024"
+}
+},
+{
+"d": "2024-04-05",
+"c": {
+"inw": "przebudowa oraz budowa fragmentu wewnętrznej instalacji gazowej w budynku rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa, ZGN w Dzielnicy Włochy",
+"nier": "Globusowa 26",
+"dz": "146517_8 0808 149",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "50/WLO/PB/2024"
+}
+},
+{
+"d": "2024-03-21",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych jednorodzinnych dwulokalowych w zabudowie bliźniaczej z garażem podziemnym,urządzeniami budowlanymi i instalacjami gazowymi oraz sieciami wewnętrznymi: wodociągową, energetyczną i kanalizacji sanitarnej budowa nowego/nowych obiektów budowlanych",
+"wn": "BPX Development Prosta S.A",
+"nier": "",
+"dz": "146517_8 0824 228/5",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "42/WLO/PB/2024"
+}
+},
+{
+"d": "2024-03-21",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych jednorodzinnych dwulokalowych w zabudowie bliźniaczej z garażem podziemnym,urządzeniami budowlanymi i instalacjami gazowymi oraz sieciami wewnętrznymi: wodociągową, energetyczną i kanalizacji sanitarnej budowa nowego/nowych obiektów budowlanych",
+"wn": "BPX Development Prosta S.A",
+"nier": "",
+"dz": "146517_8 0824 228/6",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "42/WLO/PB/2024"
+}
+},
+{
+"d": "2024-03-21",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego o dwóch bryłach naziemnych na jednej płycie garażu podziemnego budowa nowego/nowych obiektów budowlanych",
+"wn": "Kancelara Adwokacka Grzegorz Zęgota",
+"nier": "Aleje Jerozolimskie",
+"dz": "146517_8 0826 57/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "43/WLO/PB/2024"
+}
+},
+{
+"d": "2024-03-12",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego z garażem w bryle budynku budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146517_8 0807 16/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "40/WLO/PB/2024"
+}
+},
+{
+"d": "2024-03-12",
+"c": {
+"inw": "przebudowa i rozbudowa budynku magazynowo-biurowego i budowa budynku magazynowo-biurowego wraz z infrastrukturą towarzyszącą rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "LS AIPORT SERVICES S.A.",
+"nier": "Wirażowa",
+"dz": "146517_8 0617 22/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/WLO/PB/2024"
+}
+},
+{
+"d": "2024-03-12",
+"c": {
+"inw": "przebudowa i rozbudowa budynku magazynowo-biurowego i budowa budynku magazynowo-biurowego wraz z infrastrukturą towarzyszącą rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "LS AIPORT SERVICES S.A.",
+"nier": "Wirażowa",
+"dz": "146517_8 0617 8/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/WLO/PB/2024"
+}
+},
+{
+"d": "2024-03-12",
+"c": {
+"inw": "przebudowa i rozbudowa budynku magazynowo-biurowego i budowa budynku magazynowo-biurowego wraz z infrastrukturą towarzyszącą rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "LS AIPORT SERVICES S.A.",
+"nier": "Wirażowa",
+"dz": "146517_8 0617 10/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/WLO/PB/2024"
+}
+},
+{
+"d": "2024-03-12",
+"c": {
+"inw": "przebudowa i rozbudowa budynku magazynowo-biurowego i budowa budynku magazynowo-biurowego wraz z infrastrukturą towarzyszącą rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "LS AIPORT SERVICES S.A.",
+"nier": "Wirażowa",
+"dz": "146517_8 0617 11/23",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/WLO/PB/2024"
+}
+},
+{
+"d": "2024-03-12",
+"c": {
+"inw": "przebudowa i rozbudowa budynku magazynowo-biurowego i budowa budynku magazynowo-biurowego wraz z infrastrukturą towarzyszącą rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "LS AIPORT SERVICES S.A.",
+"nier": "Wirażowa",
+"dz": "146517_8 0617 11/52",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/WLO/PB/2024"
+}
+},
+{
+"d": "2024-03-12",
+"c": {
+"inw": "przebudowa i rozbudowa budynku magazynowo-biurowego i budowa budynku magazynowo-biurowego wraz z infrastrukturą towarzyszącą rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "LS AIPORT SERVICES S.A.",
+"nier": "Wirażowa",
+"dz": "146517_8 0617 11/54",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/WLO/PB/2024"
+}
+},
+{
+"d": "2024-03-12",
+"c": {
+"inw": "przebudowa i rozbudowa budynku magazynowo-biurowego i budowa budynku magazynowo-biurowego wraz z infrastrukturą towarzyszącą rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "LS AIPORT SERVICES S.A.",
+"nier": "Wirażowa",
+"dz": "146517_8 0617 17/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/WLO/PB/2024"
+}
+},
+{
+"d": "2024-03-12",
+"c": {
+"inw": "przebudowa i rozbudowa budynku magazynowo-biurowego i budowa budynku magazynowo-biurowego wraz z infrastrukturą towarzyszącą rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "LS AIPORT SERVICES S.A.",
+"nier": "Wirażowa",
+"dz": "146517_8 0617 22/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/WLO/PB/2024"
+}
+},
+{
+"d": "2024-03-12",
+"c": {
+"inw": "przebudowa i rozbudowa budynku magazynowo-biurowego i budowa budynku magazynowo-biurowego wraz z infrastrukturą towarzyszącą rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "LS AIPORT SERVICES S.A.",
+"nier": "Wirażowa",
+"dz": "146517_8 0617 23/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/WLO/PB/2024"
+}
+},
+{
+"d": "2024-03-05",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Vastint Poland sp. z o.o.",
+"nier": "Żwirki i Wigury 2b",
+"dz": "146517_8 0605 2/15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "38/WLO/PB/2024/R"
+}
+},
+{
+"d": "2024-03-04",
+"c": {
+"inw": "docieplenie elewacji i stropu poddasz w budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "ZGN w Dzielnicy Włochy",
+"nier": "Sabały 23",
+"dz": "146517_8 0406 14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "35/WLO/PB/2024"
+}
+},
+{
+"d": "2024-02-27",
+"c": {
+"inw": "budowa budynku magazynowego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146517_8 0704 97/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "33/WLO/PB/2024"
+}
+},
+{
+"d": "2024-02-27",
+"c": {
+"inw": "projekt posadowienia pawilonów handlowo usługowych budowa nowego/nowych obiektów budowlanych",
+"wn": "Okęcie Park sp. z o.o.",
+"nier": "Aleja Krakowska 61",
+"dz": "176514_8 0717 4/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "32/WLO/PB/2024"
+}
+},
+{
+"d": "2024-02-21",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym i wewnętrzną instalacją gazu budowa nowego/nowych obiektów budowlanych",
+"wn": "Granabud Development sp. z o.o.",
+"nier": "",
+"dz": "146517_8 0406 173",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "29/WLO/PB/2024"
+}
+},
+{
+"d": "2024-02-20",
+"c": {
+"inw": "budowa kontenerowej stacji transformatorowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Polenergia Dystrybucja sp. z o.o.",
+"nier": "Jutrzenki",
+"dz": "146517_8 0702 15/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "27/WLO/PB/2024"
+}
+},
+{
+"d": "2024-02-20",
+"c": {
+"inw": "przebudowa i podział istniejących lokali uslugowych w budynku biurowo-mieszkalnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Pilchowicka",
+"dz": "146517_8 0406 204",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "28/WLO/PB/2024"
+}
+},
+{
+"d": "2024-02-20",
+"c": {
+"inw": "budowa budynkumieszkalnegowielorodzinnego z garazem podziemnym, z lokalem usługowym w parterze wraz z niezbędną infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "Zenith Realstate sp. z o.o",
+"nier": "Geologiczna 16",
+"dz": "146517_8 0505 28",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "26/WLO/PB/2024"
+}
+},
+{
+"d": "2024-02-19",
+"c": {
+"inw": "budowa budynkumieszkalnego wielorodzinnego z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Łopuszańska 235 sp. z o.o.",
+"nier": "Łopuszańska 36",
+"dz": "146517_8 0501 39",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "25/WLO/PB/2024"
+}
+},
+{
+"d": "2024-02-16",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym, infrastrukturą techniczną i wewnętrzną instalacją gazową budowa nowego/nowych obiektów budowlanych",
+"wn": "Masovia Projekt 1 sp. z o.o.",
+"nier": "Nasienna",
+"dz": "146517_8 0503 42",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "24/WLO/PB/2024"
+}
+},
+{
+"d": "2024-02-16",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym, infrastrukturą techniczną i wewnętrzną instalacją gazową budowa nowego/nowych obiektów budowlanych",
+"wn": "Masovia Projekt 1 sp. z o.o.",
+"nier": "Nasienna",
+"dz": "146517_8 0503 44",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "24/WLO/PB/2024"
+}
+},
+{
+"d": "2024-02-14",
+"c": {
+"inw": "budowa instalacji gazowej dla budynku mieszkalnego jednorodzinnego dwulokalowego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Saperów",
+"dz": "146517_8 0706 40",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "22/WLO/PB/2024"
+}
+},
+{
+"d": "2024-02-01",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z lokalami uslugowmi i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Łopuszańska 235 sp. z o.o.",
+"nier": "Łopuszańska 36",
+"dz": "146517_8 0501 39",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "13/WLO/PB/2024"
+}
+},
+{
+"d": "2024-02-01",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z lokalami uslugowmi i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Łopuszańska 235 sp. z o.o.",
+"nier": "Łopuszańska 36",
+"dz": "146517_8 0501 38",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "13/WLO/PB/2024"
+}
+},
+{
+"d": "2024-02-01",
+"c": {
+"inw": "rozbiórka budynku wielorodzinnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Słowicza 58",
+"dz": "146517_8 0406 154",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "14/WLO/PB/2024/R"
+}
+},
+{
+"d": "2024-02-01",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego. Budowa budynku mieszkalnego wielorodzinnego z garazem podziemnym wraz z zagospodarowanie terenu iniezbędną infrastruktura techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Tumska",
+"dz": "146517_8 0805 162",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "12/WLO/PB/2024"
+}
+},
+{
+"d": "2024-01-30",
+"c": {
+"inw": "budowa instalacji gazowej dla domu mieszkalnego jednorodzinnego dwulokalowego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Nike",
+"dz": "146517_8 0808 111",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "09/WLO/PB/2024"
+}
+},
+{
+"d": "2024-01-22",
+"c": {
+"inw": "zewnetrznych w osiach hali magazynowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Inverkip sp. z o.o.",
+"nier": "",
+"dz": "146517_8 0501 34/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "06/WLO/PB/2024"
+}
+},
+{
+"d": "2024-01-16",
+"c": {
+"inw": "budowa wielogabarytowego budynku mieszkalnego wielorodzinnego z drogą wewnętrzną, miejscami postojowymi naziemnymi, z garażem podziemnym i infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Petunia sp. z o.o.",
+"nier": "",
+"dz": "146517_8 0826 57/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "05/WLO/PB/2024"
+}
+},
+{
+"d": "2024-01-12",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego jednolokalowego wraz z wewnętrzną instalacją gazową oraz wbudowanym parkingiem dwustanowiskowym podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Tumska",
+"dz": "146517_8 0804 127/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "04/WLO/PB/2024"
+}
+},
+{
+"d": "2024-01-10",
+"c": {
+"inw": "budowa namiotowej hali magazynowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Black Red White S.A.",
+"nier": "Popularna 75",
+"dz": "146517_8 0816 34/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "03/WLO/PB/2024"
+}
+},
+{
+"d": "2024-01-10",
+"c": {
+"inw": "budowa namiotowej hali magazynowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Black Red White S.A.",
+"nier": "Popularna 75",
+"dz": "146517_8 0816 33/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "03/WLO/PB/2024"
+}
+},
+{
+"d": "2024-01-08",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego oraz gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Urszuli",
+"dz": "146517_8 0818 121",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "01/WLO/PB/2024/R"
+}
+},
+{
+"d": "2024-01-08",
+"c": {
+"inw": "zmiana pozwoleniana budowę nr 185/AB/2023 dot. budowy budynku mieszkalnego wielorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "SGI Nowa sp. z o.o.",
+"nier": "Łopuszańska 47",
+"dz": "146517_8 0503 23/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "02/WLO/PB/2024/Z"
+}
+}
+]
+}
+]
+}

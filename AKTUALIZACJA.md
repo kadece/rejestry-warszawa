@@ -1,18 +1,19 @@
-# Aktualizacja rejestrów — instrukcja
+﻿# Aktualizacja rejestrów — instrukcja
 
 Dane odświeżają się **dwutorowo**. To nie jest komplikacja bez powodu —
 wynika z tego, kto może pobrać co.
 
 ```
 ┌─ GitHub Actions (co tydzień, automatycznie) ──────────────────┐
-│  16 dzielnic, dane z pliku zbiorczego GUNB                    │
+│  10 dzielnic, dane z pliku zbiorczego GUNB                    │
 │  wyszukiwarka.gunb.gov.pl jest z runnerów dostępna            │
 │  → build.py --gunb-only → publikacja na Pages                 │
 └───────────────────────────────────────────────────────────────┘
 
 ┌─ twoja maszyna (co dwa tygodnie, ./update.sh) ────────────────┐
-│  Ursus + Praga-Północ, dane ze stron dzielnic                 │
-│  *.um.warszawa.pl zwraca runnerom HTTP 403                    │
+│  8 dzielnic serwisowych: Bemowo, Mokotów, Praga-Północ,       │
+│  Śródmieście, Targówek, Ursus, Wawer, Wilanów — rejestry      │
+│  WZ/ICP ze stron dzielnic; *.um.warszawa.pl zwraca 403        │
 │  → build.py --site-only → commit + push → Pages przebuduje    │
 └───────────────────────────────────────────────────────────────┘
 ```
@@ -21,8 +22,8 @@ Oba tory piszą do `site/data/` i **się nie nadpisują**: manifest
 (`site/data/index.json`) jest składany ze skanu katalogu, a każdy tor
 buduje tylko swoje dzielnice.
 
-Wielkości: 16 dzielnic z GUNB to ~41 MB, Ursus i Praga-Północ ~2,4 MB.
-Dlatego te 41 MB nigdy nie przechodzi przez twoje łącze — generuje je CI.
+Wielkości: 10 dzielnic z GUNB to ~25 MB, dzielnice serwisowe ~27 MB.
+Dlatego te 25 MB nigdy nie przechodzi przez twoje łącze — generuje je CI.
 
 ---
 
@@ -46,21 +47,22 @@ https://github.com/kadece/rejestry-warszawa/actions/workflows/update.yml
 Powinny być dwa zielone joby: `build` i `deploy`. Strona będzie pod
 https://kadece.github.io/rejestry-warszawa/
 
-### 3. Przygotuj maszynę do Ursusa i Pragi-Północ
+### 3. Przygotuj maszynę do dzielnic serwisowych
 
 Wymagania: Python 3.10+, `git` z dostępem do repo.
 
 ```bash
 git clone https://github.com/kadece/rejestry-warszawa.git
 cd rejestry-warszawa
-python3 -m pip install openpyxl pdfplumber
+python3 -m pip install openpyxl pdfplumber xlrd
 chmod +x update.sh
 
 # próba na jednej dzielnicy
 ./update.sh ursus
 ```
 
-Sprawdzenie dostępu do źródeł:
+Sprawdzenie dostępu do źródeł (przynajmniej Ursus i Praga-Północ; dla
+pozostałych dzielnic wystarczy wejść na ich strony w przeglądarce):
 
 ```bash
 curl -sI https://ursus.um.warszawa.pl/wykazy | head -1
@@ -81,14 +83,16 @@ cd rejestry-warszawa
 
 Skrypt:
 
-1. instaluje/aktualizuje `openpyxl` i `pdfplumber`,
-2. uruchamia `python build.py --site-only` (Ursus + Praga-Północ),
+1. instaluje/aktualizuje `openpyxl`, `pdfplumber` i `xlrd`,
+2. uruchamia `python build.py --site-only` (Bemowo, Mokotów, Śródmieście,
+   Targówek, Wawer, Ursus, Praga-Północ, Wilanów) — GUNB pobiera raz
+   (cache do 20 h),
 3. czyści `__pycache__`,
-4. `git add site/data/ursus site/data/praga-polnoc site/data/index.json`,
+4. `git add site/data/{bemowo,mokotow,srodmiescie,targowek,wawer,ursus,praga-polnoc,wilanow} site/data/index.json`,
 5. jeśli nic się nie zmieniło — kończy bez commita,
-6. jeśli tak: commit `Aktualizacja Ursus i Praga-Północ RRRR-MM-DD` + push.
+6. jeśli tak: commit `Aktualizacja dzielnic serwisowych RRRR-MM-DD` + push.
 
-Push uruchamia workflow, który przebudowuje 16 dzielnic z GUNB
+Push uruchamia workflow, który przebudowuje 10 dzielnic z GUNB
 i publikuje całość. Strona jest aktualna po ~2 minutach.
 
 ### Tylko jedna dzielnica
@@ -137,7 +141,7 @@ Dopisz (1. i 15. dnia miesiąca o 4:10):
 
 ```ini
 [Unit]
-Description=Aktualizacja Ursus i Praga-Północ
+Description=Aktualizacja dzielnic serwisowych
 After=network-online.target
 Wants=network-online.target
 
@@ -290,15 +294,17 @@ twoja maszyna (`--site-only`).
 ```
 build.py                 generator (CLI)
 gunb.py                  plik zbiorczy GUNB
-parsers.py               XLSX/PDF → wiersze
+parsers.py               XLSX/XLS/PDF → wiersze
 districts/
   base.py                wspólna logika rocznika
   ursus.py               9 rejestrów Ursusa
   praga_polnoc.py        3 rejestry Pragi-Północ
+  bemowo/srodmiescie/wawer/mokotow/targowek/wilanow.py
+                         rejestry WZ/ICP z pozostałych stron
 templates/               index.html, style.css, app.js, logo
 site/                    WYNIK — to trafia na GitHub Pages
 raw/                     cache pobranych plików (poza repo)
-update.sh                Ursus + Praga-Północ → commit → push
+update.sh                dzielnice serwisowe → commit → push
 .github/workflows/
-  update.yml             16 dzielnic z GUNB + publikacja
+  update.yml             10 dzielnic z GUNB + publikacja
 ```

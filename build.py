@@ -22,7 +22,11 @@ import sys
 
 import gunb
 import parsers
-from districts import base, praga_polnoc, ursus
+from districts import (
+    base, praga_polnoc, ursus,
+    bemowo, srodmiescie, wawer,
+    mokotow, targowek, wilanow,
+)
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 RAW = os.path.join(ROOT, 'raw')
@@ -33,24 +37,26 @@ TPL = os.path.join(ROOT, 'templates')
 GUNB_YEARS = list(range(2016, 2027))
 
 # Wszystkie dzielnice Warszawy. `organ` to nazwa organu w rejestrze GUNB,
-# `site` to opcjonalny adapter strony dzielnicowej (WZ/ICP).
+# `site` to opcjonalny adapter strony dzielnicowej (WZ/ICP). Dzielnice
+# z `site=` buduje maszyna lokalna (patrz update.sh) — um.warszawa.pl
+# zwraca serwerom GitHuba HTTP 403. Resztę buduje workflow z GUNB.
 DISTRICTS = [
-    dict(slug='bemowo', name='Bemowo', organ='Prezydent Miasta Warszawa - Bemowo'),
+    dict(slug='bemowo', name='Bemowo', organ='Prezydent Miasta Warszawa - Bemowo', site=bemowo),
     dict(slug='bialoleka', name='Białołęka', organ='Prezydent Miasta Warszawa - Białołęka'),
     dict(slug='bielany', name='Bielany', organ='Prezydent Miasta Warszawa - Bielany'),
-    dict(slug='mokotow', name='Mokotów', organ='Prezydent Miasta Warszawa - Mokotów'),
+    dict(slug='mokotow', name='Mokotów', organ='Prezydent Miasta Warszawa - Mokotów', site=mokotow),
     dict(slug='ochota', name='Ochota', organ='Prezydent Miasta Warszawa - Ochota'),
     dict(slug='praga-poludnie', name='Praga-Południe', organ='Prezydent Miasta Warszawa - Praga Płd.'),
     dict(slug='praga-polnoc', name='Praga-Północ', organ=praga_polnoc.GUNB_ORGAN, site=praga_polnoc),
     dict(slug='rembertow', name='Rembertów', organ='Prezydent Miasta Warszawa - Rembertów'),
-    dict(slug='srodmiescie', name='Śródmieście', organ='Prezydent Miasta Warszawa - Śródmieście'),
-    dict(slug='targowek', name='Targówek', organ='Prezydent Miasta Warszawa - Targówek'),
+    dict(slug='srodmiescie', name='Śródmieście', organ='Prezydent Miasta Warszawa - Śródmieście', site=srodmiescie),
+    dict(slug='targowek', name='Targówek', organ='Prezydent Miasta Warszawa - Targówek', site=targowek),
     dict(slug='ursus', name='Ursus', organ='Prezydent Miasta Warszawa - Ursus',
          site=ursus, gunb=False),
     dict(slug='ursynow', name='Ursynów', organ='Prezydent Miasta Warszawa - Ursynów'),
-    dict(slug='wawer', name='Wawer', organ='Prezydent Miasta Warszawa - Wawer'),
+    dict(slug='wawer', name='Wawer', organ='Prezydent Miasta Warszawa - Wawer', site=wawer),
     dict(slug='wesola', name='Wesoła', organ='Prezydent Miasta Warszawa - Wesoła'),
-    dict(slug='wilanow', name='Wilanów', organ='Prezydent Miasta Warszawa - Wilanów'),
+    dict(slug='wilanow', name='Wilanów', organ='Prezydent Miasta Warszawa - Wilanów', site=wilanow),
     dict(slug='wlochy', name='Włochy', organ='Prezydent Miasta Warszawa - Włochy'),
     dict(slug='wola', name='Wola', organ='Prezydent Miasta Warszawa - Wola'),
     dict(slug='zoliborz', name='Żoliborz', organ='Prezydent Miasta Warszawa - Żoliborz'),
@@ -78,6 +84,9 @@ def build_district(dist, gunb_rows, offline=False, skip_site=False):
 
     # --- GUNB: pozwolenia na budowę -------------------------------------
     # Ursus ma na swojej stronie także PnB, więc GUNB pomijamy (dublowałby).
+    # Pozostałe adaptery (Bemowo, Śródmieście, Wawer, Praga-Północ) dotyczą
+    # tylko WZ/ICP — GUNB dokłada PnB i niczego nie dubluje.
+    site_mod = dist.get('site')
     use_gunb = dist.get('gunb', True)
     if use_gunb:
         rows = gunb_rows.get(dist['organ'], [])
@@ -88,7 +97,6 @@ def build_district(dist, gunb_rows, offline=False, skip_site=False):
                 by_year.setdefault(year, []).extend(regs)
 
     # --- strona dzielnicy: WZ / ICP -------------------------------------
-    site_mod = dist.get('site')
     if site_mod and not skip_site:
         raw_dir = os.path.join(RAW, slug)
         for year in site_mod.YEARS:

@@ -1,0 +1,2501 @@
+{
+"district": "rembertow",
+"year": 2023,
+"generated": "2026-11-24T21:23:06+01:00",
+"total": 219,
+"registers": [
+{
+"id": "wn_pnb",
+"name": "Wnioski o pozwolenie na budowę",
+"short": "Wnioski PnB",
+"desc": "Wnioski o pozwolenie na budowę złożone do organu architektoniczno-budowlanego dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer wniosku",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2023-12-21",
+"c": {
+"inw": "Budynek mieszkalny jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Madziarów",
+"dz": "146509_8 0911 94/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.105.2023EKO"
+}
+},
+{
+"d": "2023-11-20",
+"c": {
+"inw": "Modernizacja Stadionu Akademii Sztuki  Wojennej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Akademia Sztuki Wojennej",
+"nier": "Ziemskiego \"Wachnowskiego\" / gen. Karola",
+"dz": "146509_8 2128 2/34",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.99.2023 EKO"
+}
+},
+{
+"d": "2023-11-10",
+"c": {
+"inw": "Budowa dwóch budynków mieszkalnych dwulokalowych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "BUDOM-PL Sp. z o.o.",
+"nier": "Krobińska",
+"dz": "146509_8 0702 215/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.2.2024 IMA"
+}
+},
+{
+"d": "2023-10-25",
+"c": {
+"inw": "Rozbudowa budynku gospodarczego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Dom Zakonny",
+"nier": "Republikańska 13",
+"dz": "146509_8 0927 64",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.93.2023 IMA"
+}
+},
+{
+"d": "2023-09-25",
+"c": {
+"inw": "Budowa sieci kanalizacji sanitarnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0702 44",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.88.2023 JKA"
+}
+},
+{
+"d": "2023-09-25",
+"c": {
+"inw": "Budowa sieci kanalizacji sanitarnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0702 48",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.88.2023 JKA"
+}
+},
+{
+"d": "2023-09-25",
+"c": {
+"inw": "Budowa sieci kanalizacji sanitarnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0703 29",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.88.2023 JKA"
+}
+},
+{
+"d": "2023-09-18",
+"c": {
+"inw": "Budynek mieszkalny jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Budnicza 64",
+"dz": "146509_8 0904 19",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.87.2023 JKA"
+}
+},
+{
+"d": "2023-09-08",
+"c": {
+"inw": "Przebudowa i rozbudowa budynku biurowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Petra Medica Sp.Z o.o",
+"nier": "Kordiana 78",
+"dz": "146509_8 0921 74",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.83.2023 EKO"
+}
+},
+{
+"d": "2023-09-04",
+"c": {
+"inw": "Budynek jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Paderewskiego 72 / Ignacego",
+"dz": "146509_8 0917 29/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "OD-VIII-WAB.6740.74.2023 EKO"
+}
+},
+{
+"d": "2023-09-01",
+"c": {
+"inw": "Budynek mieszkalny jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Poświętna",
+"dz": "146509_8 0706 59/5",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.77.2023 IMA"
+}
+},
+{
+"d": "2023-08-28",
+"c": {
+"inw": "2 budynki mieszkalne wielorodzinne budowa nowego/nowych obiektów budowlanych",
+"wn": "Park Leśny Rembertów Spółka Z o.o.",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0802 20/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.72.2023 EKO"
+}
+},
+{
+"d": "2023-08-25",
+"c": {
+"inw": "Budowa 8 budynków mieszkalnych jednorodzinnych dwulokalowych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Muniak Development Sp. z o.o.",
+"nier": "Krobińska",
+"dz": "146509_8 0702 252",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.71.2023 EKO"
+}
+},
+{
+"d": "2023-08-25",
+"c": {
+"inw": "Budowa 8 budynków mieszkalnych jednorodzinnych dwulokalowych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Muniak Development Sp. z o.o.",
+"nier": "Krobińska",
+"dz": "146509_8 0702 253/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.71.2023 EKO"
+}
+},
+{
+"d": "2023-08-25",
+"c": {
+"inw": "Budowa 8 budynków mieszkalnych jednorodzinnych dwulokalowych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Muniak Development Sp. z o.o.",
+"nier": "Krobińska",
+"dz": "146509_8 0702 253/4",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.71.2023 EKO"
+}
+},
+{
+"d": "2023-08-23",
+"c": {
+"inw": "3 instalacje gazowe wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Czwartaków 115A",
+"dz": "146509_8 0908 3/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.69.2023 IMA"
+}
+},
+{
+"d": "2023-08-07",
+"c": {
+"inw": "Budowa 4 budynków jednorodzinnych dwulokalowych budowa nowego/nowych obiektów budowlanych",
+"wn": "TK Development Sp. Z.O.O.",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0703 151",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.61.2023 EKO"
+}
+},
+{
+"d": "2023-08-07",
+"c": {
+"inw": "Budowa 4 budynków jednorodzinnych dwulokalowych budowa nowego/nowych obiektów budowlanych",
+"wn": "TK Development Sp. Z.O.O.",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0703 152",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.61.2023 EKO"
+}
+},
+{
+"d": "2023-08-07",
+"c": {
+"inw": "Budowa 4 budynków mieszkalnych jednorodzinnych dwulokalowych budowa nowego/nowych obiektów budowlanych",
+"wn": "TK Development Sp. Z.O.O.",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0703 153",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.62.2023 IMA"
+}
+},
+{
+"d": "2023-08-07",
+"c": {
+"inw": "Budowa 4 budynków mieszkalnych jednorodzinnych dwulokalowych budowa nowego/nowych obiektów budowlanych",
+"wn": "TK Development Sp. Z.O.O.",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0703 154",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.62.2023 IMA"
+}
+},
+{
+"d": "2023-08-02",
+"c": {
+"inw": "Budynek mieszkalny jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Madziarów 34",
+"dz": "146509_8 0916 78/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.57.2023 EKO"
+}
+},
+{
+"d": "2023-07-28",
+"c": {
+"inw": "Rozbiórka budynków gospodarczych rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Kadrowa",
+"dz": "146509_8 0913 129/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6741.9.2023 IMA"
+}
+},
+{
+"d": "2023-07-26",
+"c": {
+"inw": "Budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Zesłańców Polskich",
+"dz": "146509_8 0911 2/34",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.65.2023 IMA"
+}
+},
+{
+"d": "2023-07-24",
+"c": {
+"inw": "Ścianka boulderingowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent Miasta Stołecznego Warszawy, Reprezentowany przez Burmistrza Dzielnicy Rembertów",
+"nier": "Magenta",
+"dz": "146509_8 0910 13/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.56.2023 IMA"
+}
+},
+{
+"d": "2023-07-20",
+"c": {
+"inw": "Rozbudowa, przebudowa i nadbudowa budynku jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Kadrowa 70",
+"dz": "146509_8 0913 129/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.53.2023 JKA"
+}
+},
+{
+"d": "2023-07-19",
+"c": {
+"inw": "Nadbudowa i rozbudowa budynku gospodarczo-garażowego nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Puszkarzy 17",
+"dz": "146509_8 0907 44/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.52.2023 IMA"
+}
+},
+{
+"d": "2023-07-13",
+"c": {
+"inw": "Instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "J-Property",
+"nier": "Pielgrzymów",
+"dz": "146509_8 0921 98",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.50.2023 JKA"
+}
+},
+{
+"d": "2023-07-10",
+"c": {
+"inw": "Budowa   systemowych kontenerów magazynowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MSBOX SP. Z O.O.",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0804 20/41",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.51.2023 BMA"
+}
+},
+{
+"d": "2023-07-03",
+"c": {
+"inw": "Budynek mieszkalny jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Chełmżyńska 87",
+"dz": "146509_8 0706 45",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.48.2023 BMA"
+}
+},
+{
+"d": "2023-06-29",
+"c": {
+"inw": "Budowa drogi dojazdowej pieszo-jezdnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Artville",
+"nier": "Szeroka",
+"dz": "146509_8 0702 16/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.44.2023 IMA"
+}
+},
+{
+"d": "2023-06-29",
+"c": {
+"inw": "Budowa drogi dojazdowej pieszo-jezdnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Artville",
+"nier": "Szeroka",
+"dz": "146509_8 0702 16/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.44.2023 IMA"
+}
+},
+{
+"d": "2023-06-29",
+"c": {
+"inw": "Budowa drogi dojazdowej pieszo-jezdnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Artville",
+"nier": "Szeroka",
+"dz": "146509_8 0702 17/22",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.44.2023 IMA"
+}
+},
+{
+"d": "2023-06-29",
+"c": {
+"inw": "Budowa drogi dojazdowej pieszo-jezdnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Artville",
+"nier": "Szeroka",
+"dz": "146509_8 0702 17/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.44.2023 IMA"
+}
+},
+{
+"d": "2023-06-29",
+"c": {
+"inw": "Budowa drogi dojazdowej pieszo-jezdnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Artville",
+"nier": "Szeroka",
+"dz": "146509_8 0702 17/20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.44.2023 IMA"
+}
+},
+{
+"d": "2023-06-26",
+"c": {
+"inw": "Budynek mieszkalny wielorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "Maxdom  Mariusz  Chojnacki",
+"nier": "Marsa 122",
+"dz": "146509_8 0051 24/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.45.2023 JKA"
+}
+},
+{
+"d": "2023-06-26",
+"c": {
+"inw": "Budynek mieszkalny wielorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "Maxdom  Mariusz  Chojnacki",
+"nier": "Marsa 122",
+"dz": "146509_8 0051 24/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.45.2023 JKA"
+}
+},
+{
+"d": "2023-06-26",
+"c": {
+"inw": "Budynek mieszkalny wielorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "Maxdom  Mariusz  Chojnacki",
+"nier": "Marsa 122",
+"dz": "146509_8 0051 24/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.45.2023 JKA"
+}
+},
+{
+"d": "2023-06-14",
+"c": {
+"inw": "2 instalacje gazowe wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Poświętna 24",
+"dz": "146509_8 0706 107",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.42.2023 EKO"
+}
+},
+{
+"d": "2023-06-01",
+"c": {
+"inw": "Przebudowa hali magazynowo -usługowo-produkcyjnej z przestrzeniami  biurowo-administracyjnymi wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PDC INDUSTRIAL CENTER 138 Sp. Z O.O.",
+"nier": "Chełmżyńska 253A",
+"dz": "146509_8 0801 5/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.38.2023 JKA"
+}
+},
+{
+"d": "2023-06-01",
+"c": {
+"inw": "Przebudowa hali magazynowo -usługowo-produkcyjnej z przestrzeniami  biurowo-administracyjnymi wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PDC INDUSTRIAL CENTER 138 Sp. Z O.O.",
+"nier": "Chełmżyńska 253A",
+"dz": "146509_8 0804 20/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.38.2023 JKA"
+}
+},
+{
+"d": "2023-06-01",
+"c": {
+"inw": "Przebudowa hali magazynowo -usługowo-produkcyjnej z przestrzeniami  biurowo-administracyjnymi wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PDC INDUSTRIAL CENTER 138 Sp. Z O.O.",
+"nier": "Chełmżyńska 253A",
+"dz": "146509_8 0804 20/42",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.38.2023 JKA"
+}
+},
+{
+"d": "2023-05-17",
+"c": {
+"inw": "Budynek jednorodzinny dwulokalowy budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Dwóch Mieczy 9",
+"dz": "146509_8 0050 63",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.36.2023 IMA"
+}
+},
+{
+"d": "2023-05-11",
+"c": {
+"inw": "Budynek jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Konwisarska 20",
+"dz": "146509_8 0926 107/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.35.2023 IMA"
+}
+},
+{
+"d": "2023-05-05",
+"c": {
+"inw": "Budynek mieszkalny jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Paderewskiego / Ignacego",
+"dz": "146509_8 0906 1/62",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.34.2023 JKA"
+}
+},
+{
+"d": "2023-04-28",
+"c": {
+"inw": "2 budynki jednorodzinne budowa nowego/nowych obiektów budowlanych",
+"wn": "Smart Invest Sp.Zo.o.",
+"nier": "Szeroka 35,35A",
+"dz": "146509_8 0704 111",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.32.2023 JKA"
+}
+},
+{
+"d": "2023-04-26",
+"c": {
+"inw": "Przebudowa z dobudową i nadbudową budynku mieszkalnego jednorodzinnego nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Dwóch Mieczy 11",
+"dz": "146509_8 0050 65",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.30.2023 JKA"
+}
+},
+{
+"d": "2023-04-26",
+"c": {
+"inw": "Rozbiórka budynku technicznego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Szyszaków",
+"dz": "146509_8 0918 82",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6741.4.2023 EKO"
+}
+},
+{
+"d": "2023-04-24",
+"c": {
+"inw": "Budynek jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Przewłocka 3",
+"dz": "146509_8 0930 37",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.31.2023 EKO"
+}
+},
+{
+"d": "2023-04-17",
+"c": {
+"inw": "Cztery instalacje gazu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Paderewskiego / Ignacego",
+"dz": "146509_8 0906 1/61",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.25.2023 JKA"
+}
+},
+{
+"d": "2023-04-11",
+"c": {
+"inw": "budynek mieszkalny jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146509_8 0904 2/23",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.24.2023 JKA"
+}
+},
+{
+"d": "2023-04-05",
+"c": {
+"inw": "Budynek jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Szeroka",
+"dz": "146509_8 0702 131",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.23.2023 IMA"
+}
+},
+{
+"d": "2023-03-29",
+"c": {
+"inw": "Przebudowa, rozbudowa oraz nadbudowa budynku jednorodzinnego. rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Szyszaków 8",
+"dz": "146509_8 0918 164",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.21.2023 IMA"
+}
+},
+{
+"d": "2023-03-29",
+"c": {
+"inw": "Przebudowa, rozbudowa oraz nadbudowa budynku jednorodzinnego. rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Szyszaków 8",
+"dz": "146509_8 0918 82",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.21.2023 IMA"
+}
+},
+{
+"d": "2023-03-29",
+"c": {
+"inw": "Projekt budowlany zamienny budynku mieszkalnego jednorodzinnego wolnostojącego i szamba oraz zbiornika i instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Pastuszków",
+"dz": "146509_8 0902 49",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.22.2023 EKO"
+}
+},
+{
+"d": "2023-03-27",
+"c": {
+"inw": "Budowa instalacji gazu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Solferino 2",
+"dz": "146509_8 0914 126",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.20.2023 EKO"
+}
+},
+{
+"d": "2023-03-27",
+"c": {
+"inw": "Budowa hali pneumatycznej, budowa budynku magazynowego, budowa urządzeń budowlanych. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Paderewskiego 45 / Ignacego",
+"dz": "146509_8 0919 11/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.17.2023 JKA"
+}
+},
+{
+"d": "2023-03-27",
+"c": {
+"inw": "Budowa hali pneumatycznej, budowa budynku magazynowego, budowa urządzeń budowlanych. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Paderewskiego 45 / Ignacego",
+"dz": "146509_8 0919 11/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.17.2023 JKA"
+}
+},
+{
+"d": "2023-03-27",
+"c": {
+"inw": "Budowa hali pneumatycznej, budowa budynku magazynowego, budowa urządzeń budowlanych. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Paderewskiego 45 / Ignacego",
+"dz": "146509_8 0919 11/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.17.2023 JKA"
+}
+},
+{
+"d": "2023-03-27",
+"c": {
+"inw": "Budowa hali pneumatycznej, budowa budynku magazynowego, budowa urządzeń budowlanych. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Paderewskiego 45 / Ignacego",
+"dz": "146509_8 0919 18/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.17.2023 JKA"
+}
+},
+{
+"d": "2023-03-23",
+"c": {
+"inw": "Nadbudowa budynku mieszkalnego nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Chełmżyńska 23",
+"dz": "146509_8 0709 9/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.19.2023 IMA"
+}
+},
+{
+"d": "2023-03-17",
+"c": {
+"inw": "Instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Rembertów",
+"nier": "Aleja Komandosów 23",
+"dz": "146509_8 0076 104",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.15.2023 EKO"
+}
+},
+{
+"d": "2023-03-17",
+"c": {
+"inw": "Instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Rembertów",
+"nier": "Aleja Komandosów 23",
+"dz": "146509_8 0076 105",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.15.2023 EKO"
+}
+},
+{
+"d": "2023-03-17",
+"c": {
+"inw": "Budowa instalacji gazowych dla sześciu budynków mieszkalnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Chłopickiego / Józefa",
+"dz": "146509_8 0702 14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.16.2023 JKA"
+}
+},
+{
+"d": "2023-03-13",
+"c": {
+"inw": "Rozbiórka budynku mieszkalnego jednorodzinnego oraz budynku  gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Giermków 42A",
+"dz": "146509_8 0077 97",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6741.2.2023 JKA"
+}
+},
+{
+"d": "2023-03-13",
+"c": {
+"inw": "Rozbiórka budynku mieszkalnego jednorodzinnego oraz budynku  gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Giermków 42A",
+"dz": "146509_8 0077 96",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6741.2.2023 JKA"
+}
+},
+{
+"d": "2023-03-09",
+"c": {
+"inw": "Rozbudowa, przebudowa i nadbudowa budynku jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Giermków 42, 42A",
+"dz": "146509_8 0077 97",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.14.2023 JKA"
+}
+},
+{
+"d": "2023-03-09",
+"c": {
+"inw": "Rozbudowa, przebudowa i nadbudowa budynku jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Giermków 42, 42A",
+"dz": "146509_8 0077 96",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.14.2023 JKA"
+}
+},
+{
+"d": "2023-03-07",
+"c": {
+"inw": "Budowa sieci kanalizacji sanitarnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo  Wodociągów i Kanalizacji",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0702 44",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.13.2023 EKO"
+}
+},
+{
+"d": "2023-03-07",
+"c": {
+"inw": "Budowa sieci kanalizacji sanitarnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo  Wodociągów i Kanalizacji",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0702 48",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.13.2023 EKO"
+}
+},
+{
+"d": "2023-03-07",
+"c": {
+"inw": "Budowa sieci kanalizacji sanitarnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo  Wodociągów i Kanalizacji",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0702 68/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.13.2023 EKO"
+}
+},
+{
+"d": "2023-03-07",
+"c": {
+"inw": "Budowa sieci kanalizacji sanitarnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo  Wodociągów i Kanalizacji",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0702 69/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.13.2023 EKO"
+}
+},
+{
+"d": "2023-03-07",
+"c": {
+"inw": "Budowa sieci kanalizacji sanitarnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo  Wodociągów i Kanalizacji",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0703 29",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.13.2023 EKO"
+}
+},
+{
+"d": "2023-03-07",
+"c": {
+"inw": "Budowa sieci kanalizacji sanitarnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo  Wodociągów i Kanalizacji",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0703 62/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.13.2023 EKO"
+}
+},
+{
+"d": "2023-03-07",
+"c": {
+"inw": "Budowa sieci kanalizacji sanitarnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo  Wodociągów i Kanalizacji",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0703 62/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.13.2023 EKO"
+}
+},
+{
+"d": "2023-03-07",
+"c": {
+"inw": "Budowa sieci kanalizacji sanitarnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo  Wodociągów i Kanalizacji",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0703 62/15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.13.2023 EKO"
+}
+},
+{
+"d": "2023-03-03",
+"c": {
+"inw": "Przebudowa i rozbudowa budynku jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Traczy 17",
+"dz": "146509_8 0704 57/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.12.2023 BMA"
+}
+},
+{
+"d": "2023-03-02",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Aleja gen. Antoniego Chruściela \"Montera\" 58",
+"dz": "146509_8 0922 3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.11.2023 EKO"
+}
+},
+{
+"d": "2023-01-31",
+"c": {
+"inw": "Nadbudowa wraz z rozbudową i przebudową budynku mieszkalnego jednorodzinnego nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Zawodowa 17",
+"dz": "146509_8 0917 113",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.7.2023 IMA"
+}
+},
+{
+"d": "2023-01-30",
+"c": {
+"inw": "Rozbudowa budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Konwisarska 70",
+"dz": "146509_8 0929 46",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.5.2023 JKA"
+}
+},
+{
+"d": "2023-01-25",
+"c": {
+"inw": "Budowa ścianki reprezentacyjnej  Akademii Sztuki Wojennej wraz z cokołem wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Akademia Sztuki Wojennej",
+"nier": "Aleja gen. Antoniego Chruściela \"Montera\" 103",
+"dz": "146509_8 2128 2/24",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-VIII-WAB.6740.3.2023 BMA"
+}
+}
+]
+},
+{
+"id": "dec_pnb",
+"name": "Decyzje o pozwoleniu na budowę",
+"short": "Decyzje PnB",
+"desc": "Decyzje o pozwoleniu na budowę wydane przez organ architektoniczno-budowlany dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer decyzji",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2023-12-29",
+"c": {
+"inw": "Budynek jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Paderewskiego 72 / Ignacego",
+"dz": "146509_8 0917 29/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "83/PB/2023"
+}
+},
+{
+"d": "2023-12-19",
+"c": {
+"inw": "Budowa 4 budynków mieszkalnych jednorodzinnych dwulokalowych budowa nowego/nowych obiektów budowlanych",
+"wn": "TK Development Sp. Z.O.O.",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0703 153",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "82/PB/2023"
+}
+},
+{
+"d": "2023-12-19",
+"c": {
+"inw": "Budowa 4 budynków mieszkalnych jednorodzinnych dwulokalowych budowa nowego/nowych obiektów budowlanych",
+"wn": "TK Development Sp. Z.O.O.",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0703 154",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "82/PB/2023"
+}
+},
+{
+"d": "2023-12-12",
+"c": {
+"inw": "Rozbudowa budynku gospodarczego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Dom Zakonny",
+"nier": "Republikańska 13",
+"dz": "146509_8 0927 64",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "79/PB/2023"
+}
+},
+{
+"d": "2023-12-07",
+"c": {
+"inw": "Nadbudowa i rozbudowa budynku gospodarczo-garażowego nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Puszkarzy 17",
+"dz": "146509_8 0907 44/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "78/PB/2023"
+}
+},
+{
+"d": "2023-11-24",
+"c": {
+"inw": "budynek mieszkalny jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146509_8 0904 2/23",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "73/PB/2023"
+}
+},
+{
+"d": "2023-11-24",
+"c": {
+"inw": "Budowa   systemowych kontenerów magazynowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MSBOX SP. Z O.O.",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0804 20/41",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "74/PB/2023"
+}
+},
+{
+"d": "2023-11-21",
+"c": {
+"inw": "Przebudowa i rozbudowa budynku biurowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Petra Medica Sp.Z o.o",
+"nier": "Kordiana 78",
+"dz": "146509_8 0921 74",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "65/2023"
+}
+},
+{
+"d": "2023-11-15",
+"c": {
+"inw": "3 instalacje gazowe wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Czwartaków 115A",
+"dz": "146509_8 0908 3/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "77/PB/2023"
+}
+},
+{
+"d": "2023-11-14",
+"c": {
+"inw": "Budowa sieci kanalizacji sanitarnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0702 44",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "71/PB/2023"
+}
+},
+{
+"d": "2023-11-14",
+"c": {
+"inw": "Budowa sieci kanalizacji sanitarnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0702 48",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "71/PB/2023"
+}
+},
+{
+"d": "2023-11-14",
+"c": {
+"inw": "Budowa sieci kanalizacji sanitarnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0703 29",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "71/PB/2023"
+}
+},
+{
+"d": "2023-11-07",
+"c": {
+"inw": "Budynek mieszkalny jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Chełmżyńska 87",
+"dz": "146509_8 0706 45",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "65/PB/2023"
+}
+},
+{
+"d": "2023-10-30",
+"c": {
+"inw": "2 budynki mieszkalne wielorodzinne budowa nowego/nowych obiektów budowlanych",
+"wn": "Park Leśny Rembertów Spółka Z o.o.",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0802 20/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "67/PB/2023"
+}
+},
+{
+"d": "2023-10-19",
+"c": {
+"inw": "budynek jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Roty",
+"dz": "146509_8 0917 157",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "66/PB/2022"
+}
+},
+{
+"d": "2023-10-12",
+"c": {
+"inw": "Budynek mieszkalny jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Madziarów 34",
+"dz": "146509_8 0916 78/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "63/PB/2023"
+}
+},
+{
+"d": "2023-10-12",
+"c": {
+"inw": "Budowa drogi dojazdowej pieszo-jezdnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Artville",
+"nier": "Szeroka",
+"dz": "146509_8 0702 16/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "64/PB/2023"
+}
+},
+{
+"d": "2023-10-12",
+"c": {
+"inw": "Budowa drogi dojazdowej pieszo-jezdnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Artville",
+"nier": "Szeroka",
+"dz": "146509_8 0702 16/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "64/PB/2023"
+}
+},
+{
+"d": "2023-10-12",
+"c": {
+"inw": "Budowa drogi dojazdowej pieszo-jezdnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Artville",
+"nier": "Szeroka",
+"dz": "146509_8 0702 17/22",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "64/PB/2023"
+}
+},
+{
+"d": "2023-10-12",
+"c": {
+"inw": "Budowa drogi dojazdowej pieszo-jezdnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Artville",
+"nier": "Szeroka",
+"dz": "146509_8 0702 17/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "64/PB/2023"
+}
+},
+{
+"d": "2023-10-12",
+"c": {
+"inw": "Budowa drogi dojazdowej pieszo-jezdnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Artville",
+"nier": "Szeroka",
+"dz": "146509_8 0702 17/20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "64/PB/2023"
+}
+},
+{
+"d": "2023-10-10",
+"c": {
+"inw": "Budynek mieszkalny wielorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "Maxdom  Mariusz  Chojnacki",
+"nier": "Marsa 122",
+"dz": "146509_8 0051 24/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "62/PB/2023"
+}
+},
+{
+"d": "2023-10-10",
+"c": {
+"inw": "Budynek mieszkalny wielorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "Maxdom  Mariusz  Chojnacki",
+"nier": "Marsa 122",
+"dz": "146509_8 0051 24/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "62/PB/2023"
+}
+},
+{
+"d": "2023-10-10",
+"c": {
+"inw": "Budynek mieszkalny wielorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "Maxdom  Mariusz  Chojnacki",
+"nier": "Marsa 122",
+"dz": "146509_8 0051 24/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "62/PB/2023"
+}
+},
+{
+"d": "2023-10-09",
+"c": {
+"inw": "Rozbudowa, przebudowa i nadbudowa budynku jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Kadrowa 70",
+"dz": "146509_8 0913 129/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "61/PB/2023"
+}
+},
+{
+"d": "2023-09-26",
+"c": {
+"inw": "Rozbiórka budynków gospodarczych rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Kadrowa",
+"dz": "146509_8 0913 129/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "60/PB/2023"
+}
+},
+{
+"d": "2023-09-25",
+"c": {
+"inw": "Przebudowa, rozbudowa oraz nadbudowa budynku jednorodzinnego. rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Szyszaków 8",
+"dz": "146509_8 0918 164",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "59/PB/2023"
+}
+},
+{
+"d": "2023-09-25",
+"c": {
+"inw": "Przebudowa, rozbudowa oraz nadbudowa budynku jednorodzinnego. rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Szyszaków 8",
+"dz": "146509_8 0918 82",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "59/PB/2023"
+}
+},
+{
+"d": "2023-09-25",
+"c": {
+"inw": "Budynek jednorodzinny dwulokalowy budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Dwóch Mieczy 9",
+"dz": "146509_8 0050 63",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "58/PB/2023"
+}
+},
+{
+"d": "2023-09-12",
+"c": {
+"inw": "Przebudowa i rozbudowa budynku jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Traczy 17",
+"dz": "146509_8 0704 57/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "57/PB/2023"
+}
+},
+{
+"d": "2023-09-07",
+"c": {
+"inw": "2 budynki jednorodzinne budowa nowego/nowych obiektów budowlanych",
+"wn": "Smart Invest Sp.Zo.o.",
+"nier": "Szeroka 35,35A",
+"dz": "146509_8 0704 111",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "56/PB/2023"
+}
+},
+{
+"d": "2023-09-01",
+"c": {
+"inw": "Instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "J-Property",
+"nier": "Pielgrzymów",
+"dz": "146509_8 0921 98",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "55/PB/2023"
+}
+},
+{
+"d": "2023-08-28",
+"c": {
+"inw": "instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Aleja gen. Antoniego Chruściela \"Montera\" 58",
+"dz": "146509_8 0922 3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "54/PB/2023"
+}
+},
+{
+"d": "2023-08-23",
+"c": {
+"inw": "Instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Rembertów",
+"nier": "Aleja Komandosów 23",
+"dz": "146509_8 0076 104",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "53/PB/2023"
+}
+},
+{
+"d": "2023-08-23",
+"c": {
+"inw": "Instalacja gazowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Rembertów",
+"nier": "Aleja Komandosów 23",
+"dz": "146509_8 0076 105",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "53/PB/2023"
+}
+},
+{
+"d": "2023-08-17",
+"c": {
+"inw": "Ścianka boulderingowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent Miasta Stołecznego Warszawy, Reprezentowany przez Burmistrza Dzielnicy Rembertów",
+"nier": "Magenta",
+"dz": "146509_8 0910 13/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "52/PB/2023"
+}
+},
+{
+"d": "2023-08-04",
+"c": {
+"inw": "3 budynki mieszkalne dwulokalowe budowa nowego/nowych obiektów budowlanych",
+"wn": "Jasna Sp. Z O.O.",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0702 64",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "50/PB/2023"
+}
+},
+{
+"d": "2023-08-04",
+"c": {
+"inw": "Przebudowa z dobudową i nadbudową budynku mieszkalnego jednorodzinnego nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Dwóch Mieczy 11",
+"dz": "146509_8 0050 65",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "49/PB/2023"
+}
+},
+{
+"d": "2023-08-02",
+"c": {
+"inw": "2 instalacje gazowe wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Poświętna 24",
+"dz": "146509_8 0706 107",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "48/PB/2023"
+}
+},
+{
+"d": "2023-07-25",
+"c": {
+"inw": "Rozbudowa, przebudowa i nadbudowa budynku jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Giermków 42, 42A",
+"dz": "146509_8 0077 97",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "47/PB/2023"
+}
+},
+{
+"d": "2023-07-25",
+"c": {
+"inw": "Rozbudowa, przebudowa i nadbudowa budynku jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Giermków 42, 42A",
+"dz": "146509_8 0077 96",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "47/PB/2023"
+}
+},
+{
+"d": "2023-07-17",
+"c": {
+"inw": "Rozbiórka budynku technicznego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Szyszaków",
+"dz": "146509_8 0918 82",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "45/PB/2023"
+}
+},
+{
+"d": "2023-07-12",
+"c": {
+"inw": "Budowa sieci kanalizacji sanitarnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo  Wodociągów i Kanalizacji",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0702 44",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/2023"
+}
+},
+{
+"d": "2023-07-12",
+"c": {
+"inw": "Budowa sieci kanalizacji sanitarnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo  Wodociągów i Kanalizacji",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0702 48",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/2023"
+}
+},
+{
+"d": "2023-07-12",
+"c": {
+"inw": "Budowa sieci kanalizacji sanitarnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo  Wodociągów i Kanalizacji",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0702 68/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/2023"
+}
+},
+{
+"d": "2023-07-12",
+"c": {
+"inw": "Budowa sieci kanalizacji sanitarnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo  Wodociągów i Kanalizacji",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0702 69/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/2023"
+}
+},
+{
+"d": "2023-07-12",
+"c": {
+"inw": "Budowa sieci kanalizacji sanitarnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo  Wodociągów i Kanalizacji",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0703 29",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/2023"
+}
+},
+{
+"d": "2023-07-12",
+"c": {
+"inw": "Budowa sieci kanalizacji sanitarnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo  Wodociągów i Kanalizacji",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0703 62/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/2023"
+}
+},
+{
+"d": "2023-07-12",
+"c": {
+"inw": "Budowa sieci kanalizacji sanitarnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo  Wodociągów i Kanalizacji",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0703 62/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/2023"
+}
+},
+{
+"d": "2023-07-12",
+"c": {
+"inw": "Budowa sieci kanalizacji sanitarnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo  Wodociągów i Kanalizacji",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0703 62/15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/2023"
+}
+},
+{
+"d": "2023-07-12",
+"c": {
+"inw": "Budynek jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Przewłocka 3",
+"dz": "146509_8 0930 37",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "43/PB/2023"
+}
+},
+{
+"d": "2023-07-03",
+"c": {
+"inw": "Przebudowa hali magazynowo -usługowo-produkcyjnej z przestrzeniami  biurowo-administracyjnymi wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PDC INDUSTRIAL CENTER 138 Sp. Z O.O.",
+"nier": "Chełmżyńska 253A",
+"dz": "146509_8 0801 5/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "42/PB/2023"
+}
+},
+{
+"d": "2023-07-03",
+"c": {
+"inw": "Przebudowa hali magazynowo -usługowo-produkcyjnej z przestrzeniami  biurowo-administracyjnymi wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PDC INDUSTRIAL CENTER 138 Sp. Z O.O.",
+"nier": "Chełmżyńska 253A",
+"dz": "146509_8 0804 20/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "42/PB/2023"
+}
+},
+{
+"d": "2023-07-03",
+"c": {
+"inw": "Przebudowa hali magazynowo -usługowo-produkcyjnej z przestrzeniami  biurowo-administracyjnymi wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PDC INDUSTRIAL CENTER 138 Sp. Z O.O.",
+"nier": "Chełmżyńska 253A",
+"dz": "146509_8 0804 20/42",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "42/PB/2023"
+}
+},
+{
+"d": "2023-06-30",
+"c": {
+"inw": "Parterowy budynek w zabudowie bliźniaczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Towarzystwo Przyjaciół Domu Ciepła  (Antoni  Kraus)",
+"nier": "Republikańska 19",
+"dz": "146509_8 0922 107",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/PB/2023"
+}
+},
+{
+"d": "2023-06-30",
+"c": {
+"inw": "Parterowy budynek w zabudowie bliźniaczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Towarzystwo Przyjaciół Domu Ciepła  (Antoni  Kraus)",
+"nier": "Republikańska 19",
+"dz": "146509_8 0922 108",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/PB/2023"
+}
+},
+{
+"d": "2023-06-14",
+"c": {
+"inw": "Nadbudowa budynku mieszkalnego nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Chełmżyńska 23",
+"dz": "146509_8 0709 9/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "38/PB/2023"
+}
+},
+{
+"d": "2023-06-12",
+"c": {
+"inw": "budynek jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Szeroka",
+"dz": "146509_8 0702 123",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "39/PB/2023"
+}
+},
+{
+"d": "2023-06-12",
+"c": {
+"inw": "budynek jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Szeroka",
+"dz": "146509_8 0702 122",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "40/PB/2023"
+}
+},
+{
+"d": "2023-06-02",
+"c": {
+"inw": "Budowa instalacji gazowych dla sześciu budynków mieszkalnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Chłopickiego / Józefa",
+"dz": "146509_8 0702 14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "37/PB/2023"
+}
+},
+{
+"d": "2023-05-26",
+"c": {
+"inw": "Budowa instalacji gazu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Solferino 2",
+"dz": "146509_8 0914 126",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "36/PB/2023"
+}
+},
+{
+"d": "2023-05-26",
+"c": {
+"inw": "Budynek mieszkalny jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Paderewskiego / Ignacego",
+"dz": "146509_8 0906 1/62",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "35/PB/2023"
+}
+},
+{
+"d": "2023-05-23",
+"c": {
+"inw": "Budowa hali pneumatycznej, budowa budynku magazynowego, budowa urządzeń budowlanych. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Paderewskiego 45 / Ignacego",
+"dz": "146509_8 0919 11/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "34/PB/2023"
+}
+},
+{
+"d": "2023-05-23",
+"c": {
+"inw": "Budowa hali pneumatycznej, budowa budynku magazynowego, budowa urządzeń budowlanych. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Paderewskiego 45 / Ignacego",
+"dz": "146509_8 0919 11/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "34/PB/2023"
+}
+},
+{
+"d": "2023-05-23",
+"c": {
+"inw": "Budowa hali pneumatycznej, budowa budynku magazynowego, budowa urządzeń budowlanych. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Paderewskiego 45 / Ignacego",
+"dz": "146509_8 0919 11/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "34/PB/2023"
+}
+},
+{
+"d": "2023-05-23",
+"c": {
+"inw": "Budowa hali pneumatycznej, budowa budynku magazynowego, budowa urządzeń budowlanych. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Prezydent Miasta Stołecznego Warszawy",
+"nier": "Paderewskiego 45 / Ignacego",
+"dz": "146509_8 0919 18/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "34/PB/2023"
+}
+},
+{
+"d": "2023-05-22",
+"c": {
+"inw": "Przebudowa, rozbudowa, nadbudowa budynku technicznego oraz gospodarczego w jeden budynek jednorodzinny rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Jerzego 13A",
+"dz": "146509_8 0918 8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "33/PB/2023"
+}
+},
+{
+"d": "2023-05-10",
+"c": {
+"inw": "Budynek jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Szeroka",
+"dz": "146509_8 0702 131",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "30/PB/2023"
+}
+},
+{
+"d": "2023-05-10",
+"c": {
+"inw": "Cztery instalacje gazu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Paderewskiego / Ignacego",
+"dz": "146509_8 0906 1/61",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6740.25.2023"
+}
+},
+{
+"d": "2023-05-05",
+"c": {
+"inw": "Budowa instalacji zbiornikowej gazu płynnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Bellony 14",
+"dz": "146509_8 0047 8/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "29/PB/2023"
+}
+},
+{
+"d": "2023-04-25",
+"c": {
+"inw": "Rozbiórka budynku mieszkalnego jednorodzinnego oraz budynku  gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Giermków 42A",
+"dz": "146509_8 0077 97",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "19/2023"
+}
+},
+{
+"d": "2023-04-25",
+"c": {
+"inw": "Rozbiórka budynku mieszkalnego jednorodzinnego oraz budynku  gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Giermków 42A",
+"dz": "146509_8 0077 96",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "19/2023"
+}
+},
+{
+"d": "2023-04-19",
+"c": {
+"inw": "sieć wodociągowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK",
+"nier": "Sobiborska",
+"dz": "146509_8 0930 2/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "28/PB/2023"
+}
+},
+{
+"d": "2023-04-19",
+"c": {
+"inw": "sieć wodociągowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK",
+"nier": "Sobiborska",
+"dz": "146509_8 0930 13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "28/PB/2023"
+}
+},
+{
+"d": "2023-04-19",
+"c": {
+"inw": "sieć wodociągowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK",
+"nier": "Sobiborska",
+"dz": "146509_8 0930 23/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "28/PB/2023"
+}
+},
+{
+"d": "2023-04-19",
+"c": {
+"inw": "sieć wodociągowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK",
+"nier": "Sobiborska",
+"dz": "146509_8 0930 31",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "28/PB/2023"
+}
+},
+{
+"d": "2023-04-19",
+"c": {
+"inw": "sieć wodociągowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK",
+"nier": "Sobiborska",
+"dz": "146509_8 0930 47",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "28/PB/2023"
+}
+},
+{
+"d": "2023-04-19",
+"c": {
+"inw": "sieć wodociągowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK",
+"nier": "Przewłocka",
+"dz": "146509_8 0930 67",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "27/PB/2023"
+}
+},
+{
+"d": "2023-04-19",
+"c": {
+"inw": "sieć wodociągowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK",
+"nier": "Przewłocka",
+"dz": "146509_8 0930 7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "27/PB/2023"
+}
+},
+{
+"d": "2023-04-19",
+"c": {
+"inw": "sieć wodociągowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK",
+"nier": "Przewłocka",
+"dz": "146509_8 0930 47",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "27/PB/2023"
+}
+},
+{
+"d": "2023-04-14",
+"c": {
+"inw": "Nadbudowa wraz z rozbudową i przebudową budynku mieszkalnego jednorodzinnego nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Zawodowa 17",
+"dz": "146509_8 0917 113",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "25/PB/2023"
+}
+},
+{
+"d": "2023-04-12",
+"c": {
+"inw": "Projekt budowlany zamienny budynku mieszkalnego jednorodzinnego wolnostojącego i szamba oraz zbiornika i instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Pastuszków",
+"dz": "146509_8 0902 49",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "24/PB/2023"
+}
+},
+{
+"d": "2023-04-11",
+"c": {
+"inw": "Budynek jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Szatkowników 5",
+"dz": "146509_8 0929 81",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "26/PB/2023"
+}
+},
+{
+"d": "2023-04-04",
+"c": {
+"inw": "częściowa rozbudowa i nadbudowa bud. jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Paderewskiego 154 / Ignacego",
+"dz": "146509_8 0906 12/19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "23/PB/2023"
+}
+},
+{
+"d": "2023-03-29",
+"c": {
+"inw": "Przebudowa i rozbudowa i nabdudowa budynku rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Paderewskiego 67 / Ignacego",
+"dz": "146509_8 0917 57/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "21/PB/2023"
+}
+},
+{
+"d": "2023-03-29",
+"c": {
+"inw": "Rozbudowa budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Konwisarska 70",
+"dz": "146509_8 0929 46",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "22/PB/2023"
+}
+},
+{
+"d": "2023-03-16",
+"c": {
+"inw": "Budynek mieszkalny jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Fizylierów 16",
+"dz": "146509_8 0078 55",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "19/PB/2023"
+}
+},
+{
+"d": "2023-03-07",
+"c": {
+"inw": "Budowa sieci wodociągowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK",
+"nier": "Ułańska",
+"dz": "146509_8 0928 26/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "14/PB/2023"
+}
+},
+{
+"d": "2023-03-07",
+"c": {
+"inw": "Budowa sieci wodociągowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK",
+"nier": "Ułańska",
+"dz": "146509_8 0928 43/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "14/PB/2023"
+}
+},
+{
+"d": "2023-03-07",
+"c": {
+"inw": "sieć wodociągowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK",
+"nier": "Szatkowników",
+"dz": "146509_8 0929 97",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "17/PB/2023"
+}
+},
+{
+"d": "2023-03-07",
+"c": {
+"inw": "sieć wodociągowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK",
+"nier": "Szatkowników",
+"dz": "146509_8 0929 40/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "17/PB/2023"
+}
+},
+{
+"d": "2023-03-07",
+"c": {
+"inw": "sieć wodociągowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK",
+"nier": "Szatkowników",
+"dz": "146509_8 0929 40/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "17/PB/2023"
+}
+},
+{
+"d": "2023-03-07",
+"c": {
+"inw": "sieć wodociągowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK",
+"nier": "Szatkowników",
+"dz": "146509_8 0929 39/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "17/PB/2023"
+}
+},
+{
+"d": "2023-03-07",
+"c": {
+"inw": "sieć wodociągowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK",
+"nier": "Szatkowników",
+"dz": "146509_8 0929 1/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "17/PB/2023"
+}
+},
+{
+"d": "2023-03-07",
+"c": {
+"inw": "sieć wodociągowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK",
+"nier": "Szatkowników",
+"dz": "146509_8 0930 65",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "17/PB/2023"
+}
+},
+{
+"d": "2023-03-07",
+"c": {
+"inw": "sieć wodociągowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK",
+"nier": "Szatkowników",
+"dz": "146509_8 0930 66",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "17/PB/2023"
+}
+},
+{
+"d": "2023-03-07",
+"c": {
+"inw": "sieć wodociągowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK",
+"nier": "Konwisarska",
+"dz": "146509_8 0929 39/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "18/PB/2023"
+}
+},
+{
+"d": "2023-03-07",
+"c": {
+"inw": "sieć wodociągowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK",
+"nier": "Konwisarska",
+"dz": "146509_8 0929 78",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "18/PB/2023"
+}
+},
+{
+"d": "2023-03-07",
+"c": {
+"inw": "sieć wodociągowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK",
+"nier": "Konwisarska",
+"dz": "146509_8 0929 97",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "18/PB/2023"
+}
+},
+{
+"d": "2023-03-07",
+"c": {
+"inw": "Budowa sieci wodociągowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK",
+"nier": "Markietanki",
+"dz": "146509_8 0929 68",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "15/PB/2023"
+}
+},
+{
+"d": "2023-03-07",
+"c": {
+"inw": "Budowa sieci wodociągowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK",
+"nier": "Markietanki",
+"dz": "146509_8 0929 1/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "15/PB/2023"
+}
+},
+{
+"d": "2023-03-07",
+"c": {
+"inw": "Budowa sieci wodociągowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK",
+"nier": "Markietanki",
+"dz": "146509_8 0929 20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "15/PB/2023"
+}
+},
+{
+"d": "2023-03-07",
+"c": {
+"inw": "Budowa sieci wodociągowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK",
+"nier": "Markietanki",
+"dz": "146509_8 0929 97",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "15/PB/2023"
+}
+},
+{
+"d": "2023-03-07",
+"c": {
+"inw": "Budowa sieci wodociągowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK",
+"nier": "Markietanki",
+"dz": "146509_8 0929 39/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "15/PB/2023"
+}
+},
+{
+"d": "2023-03-07",
+"c": {
+"inw": "sieć wodociągowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK",
+"nier": "Posłańców",
+"dz": "146509_8 0929 73",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "16/PB/2023"
+}
+},
+{
+"d": "2023-03-07",
+"c": {
+"inw": "sieć wodociągowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK",
+"nier": "Posłańców",
+"dz": "146509_8 0929 97",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "16/PB/2023"
+}
+},
+{
+"d": "2023-03-07",
+"c": {
+"inw": "sieć wodociągowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK",
+"nier": "Posłańców",
+"dz": "146509_8 0929 39/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "16/PB/2023"
+}
+},
+{
+"d": "2023-03-07",
+"c": {
+"inw": "sieć wodociągowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK",
+"nier": "Posłańców",
+"dz": "146509_8 0929 1/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "16/PB/2023"
+}
+},
+{
+"d": "2023-03-07",
+"c": {
+"inw": "sieć wodociągowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK",
+"nier": "Posłańców",
+"dz": "146509_8 0929 24",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "16/PB/2023"
+}
+},
+{
+"d": "2023-03-07",
+"c": {
+"inw": "Budowa sieci wodociągowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK",
+"nier": "Buławy",
+"dz": "146509_8 0929 98",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "13/PB/2023"
+}
+},
+{
+"d": "2023-03-07",
+"c": {
+"inw": "Budowa sieci wodociągowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK",
+"nier": "Buławy",
+"dz": "146509_8 0929 96",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "13/PB/2023"
+}
+},
+{
+"d": "2023-02-24",
+"c": {
+"inw": "Budowa sieci wodociągowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK",
+"nier": "Konwisarska",
+"dz": "146509_8 0929 40/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "12/PB/2023"
+}
+},
+{
+"d": "2023-02-24",
+"c": {
+"inw": "Budowa sieci wodociągowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK",
+"nier": "Konwisarska",
+"dz": "146509_8 0929 39/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "12/PB/2023"
+}
+},
+{
+"d": "2023-02-24",
+"c": {
+"inw": "Budowa sieci wodociągowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK",
+"nier": "Konwisarska",
+"dz": "146509_8 0930 47",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "12/PB/2023"
+}
+},
+{
+"d": "2023-02-24",
+"c": {
+"inw": "Budowa sieci wodociągowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK",
+"nier": "Konwisarska",
+"dz": "146509_8 0930 66",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "12/PB/2023"
+}
+},
+{
+"d": "2023-02-24",
+"c": {
+"inw": "Budowa sieci wodociągowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MPWiK",
+"nier": "Konwisarska",
+"dz": "146509_8 0930 65",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "12/PB/2023"
+}
+},
+{
+"d": "2023-02-16",
+"c": {
+"inw": "Budowa silosu na cement wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polbruk S.A.",
+"nier": "Chełmżyńska 249",
+"dz": "146509_8 0804 20/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "11/PB/2023"
+}
+},
+{
+"d": "2023-02-13",
+"c": {
+"inw": "Wykonanie otworu drzwiowego w ścianie nośnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Gawędziarzy 20",
+"dz": "146509_8 0922 111/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "10/PB/2023"
+}
+},
+{
+"d": "2023-02-09",
+"c": {
+"inw": "2 budynki mieszkalne wielorodzinne budowa nowego/nowych obiektów budowlanych",
+"wn": "Park Leśny Rembertów",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0802 1/17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "9/PB/2023"
+}
+},
+{
+"d": "2023-02-09",
+"c": {
+"inw": "2 budynki mieszkalne wielorodzinne budowa nowego/nowych obiektów budowlanych",
+"wn": "Park Leśny Rembertów",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0802 19/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "9/PB/2023"
+}
+},
+{
+"d": "2023-02-09",
+"c": {
+"inw": "2 budynki mieszkalne wielorodzinne budowa nowego/nowych obiektów budowlanych",
+"wn": "Park Leśny Rembertów",
+"nier": "Chełmżyńska",
+"dz": "146509_8 0802 20/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "9/PB/2023"
+}
+},
+{
+"d": "2023-02-09",
+"c": {
+"inw": "Budowa budynku szkolnego dla klas 1-3 połączonego łącznikiem z budynkiem istniejącej szkoły budowa nowego/nowych obiektów budowlanych",
+"wn": "Prezydent Miasta Stołecznego Warszawy Reprezentowany przez Burmistrza Dzielnicy Rembertów",
+"nier": "Niepołomicka 26",
+"dz": "146509_8 0710 54/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "8/PB/2023"
+}
+},
+{
+"d": "2023-02-09",
+"c": {
+"inw": "Budowa budynku szkolnego dla klas 1-3 połączonego łącznikiem z budynkiem istniejącej szkoły budowa nowego/nowych obiektów budowlanych",
+"wn": "Prezydent Miasta Stołecznego Warszawy Reprezentowany przez Burmistrza Dzielnicy Rembertów",
+"nier": "Niepołomicka 26",
+"dz": "146509_8 0710 72/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "8/PB/2023"
+}
+},
+{
+"d": "2023-02-09",
+"c": {
+"inw": "Budowa budynku szkolnego dla klas 1-3 połączonego łącznikiem z budynkiem istniejącej szkoły budowa nowego/nowych obiektów budowlanych",
+"wn": "Prezydent Miasta Stołecznego Warszawy Reprezentowany przez Burmistrza Dzielnicy Rembertów",
+"nier": "Niepołomicka 26",
+"dz": "146509_8 0710 72/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "8/PB/2023"
+}
+},
+{
+"d": "2023-02-07",
+"c": {
+"inw": "Budowa ścianki reprezentacyjnej  Akademii Sztuki Wojennej wraz z cokołem wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Akademia Sztuki Wojennej",
+"nier": "Aleja gen. Antoniego Chruściela \"Montera\" 103",
+"dz": "146509_8 2128 2/24",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "7/PB/2023"
+}
+},
+{
+"d": "2023-01-17",
+"c": {
+"inw": "rozbudowa i nadbudowa budynku jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Szymańskiego 28a / Józefa",
+"dz": "146508_9 0710 68",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "5/PB/2023"
+}
+},
+{
+"d": "2023-01-11",
+"c": {
+"inw": "2 instalacje gazowe wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Buławy 14",
+"dz": "146509_8 0929 27",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "2/PB/2023"
+}
+},
+{
+"d": "2023-01-09",
+"c": {
+"inw": "budynek jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Dziewosłęby 25",
+"dz": "146509_8 0927 33/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "4/PB/2023"
+}
+},
+{
+"d": "2023-01-05",
+"c": {
+"inw": "przebudowa i budowa ogrodzeń wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Akademia Sztuki Wojennej",
+"nier": "Aleja gen. Antoniego Chruściela \"Montera\" 103",
+"dz": "146509_8 2128 2/182",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "1/PB/2023"
+}
+},
+{
+"d": "2023-01-05",
+"c": {
+"inw": "przebudowa i budowa ogrodzeń wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Akademia Sztuki Wojennej",
+"nier": "Aleja gen. Antoniego Chruściela \"Montera\" 103",
+"dz": "146509_8 2128 2/181",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "1/PB/2023"
+}
+},
+{
+"d": "2023-01-05",
+"c": {
+"inw": "przebudowa i budowa ogrodzeń wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Akademia Sztuki Wojennej",
+"nier": "Aleja gen. Antoniego Chruściela \"Montera\" 103",
+"dz": "146509_8 2128 2/180",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "1/PB/2023"
+}
+},
+{
+"d": "2023-01-05",
+"c": {
+"inw": "przebudowa i budowa ogrodzeń wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Akademia Sztuki Wojennej",
+"nier": "Aleja gen. Antoniego Chruściela \"Montera\" 103",
+"dz": "146509_8 2128 2/177",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "1/PB/2023"
+}
+},
+{
+"d": "2023-01-05",
+"c": {
+"inw": "przebudowa i budowa ogrodzeń wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Akademia Sztuki Wojennej",
+"nier": "Aleja gen. Antoniego Chruściela \"Montera\" 103",
+"dz": "146509_8 2128 2/176",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "1/PB/2023"
+}
+},
+{
+"d": "2023-01-05",
+"c": {
+"inw": "przebudowa i budowa ogrodzeń wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Akademia Sztuki Wojennej",
+"nier": "Aleja gen. Antoniego Chruściela \"Montera\" 103",
+"dz": "146509_8 2128 2/175",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "1/PB/2023"
+}
+},
+{
+"d": "2023-01-05",
+"c": {
+"inw": "przebudowa i budowa ogrodzeń wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Akademia Sztuki Wojennej",
+"nier": "Aleja gen. Antoniego Chruściela \"Montera\" 103",
+"dz": "146509_8 2128 2/174",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "1/PB/2023"
+}
+},
+{
+"d": "2023-01-05",
+"c": {
+"inw": "przebudowa i budowa ogrodzeń wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Akademia Sztuki Wojennej",
+"nier": "Aleja gen. Antoniego Chruściela \"Montera\" 103",
+"dz": "146509_8 2128 2/173",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "1/PB/2023"
+}
+},
+{
+"d": "2023-01-05",
+"c": {
+"inw": "przebudowa i budowa ogrodzeń wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Akademia Sztuki Wojennej",
+"nier": "Aleja gen. Antoniego Chruściela \"Montera\" 103",
+"dz": "146509_8 2128 2/172",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "1/PB/2023"
+}
+},
+{
+"d": "2023-01-05",
+"c": {
+"inw": "przebudowa i budowa ogrodzeń wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Akademia Sztuki Wojennej",
+"nier": "Aleja gen. Antoniego Chruściela \"Montera\" 103",
+"dz": "146509_8 2128 2/171",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "1/PB/2023"
+}
+},
+{
+"d": "2023-01-05",
+"c": {
+"inw": "przebudowa i budowa ogrodzeń wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Akademia Sztuki Wojennej",
+"nier": "Aleja gen. Antoniego Chruściela \"Montera\" 103",
+"dz": "146509_8 2128 2/170",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "1/PB/2023"
+}
+}
+]
+}
+]
+}

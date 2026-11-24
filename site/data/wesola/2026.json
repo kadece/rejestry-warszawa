@@ -1,0 +1,1324 @@
+{
+"district": "wesola",
+"year": 2026,
+"generated": "2026-11-24T21:24:42+01:00",
+"total": 112,
+"registers": [
+{
+"id": "wn_pnb",
+"name": "Wnioski o pozwolenie na budowę",
+"short": "Wnioski PnB",
+"desc": "Wnioski o pozwolenie na budowę złożone do organu architektoniczno-budowlanego dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer wniosku",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2026-09-25",
+"c": {
+"inw": "budowa dwóch instalacji gazu dla budynku mieszkalnego jednorodzinnego w zabudowie szeregowej o dwóch lokalach mieszkalnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Hubertus Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0712 208",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.179.2026"
+}
+},
+{
+"d": "2026-09-24",
+"c": {
+"inw": "budowa instalacji gazu dla budynku mieszkalnego jednorodzinnego (istniejącego) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0714 534",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.174.2026"
+}
+},
+{
+"d": "2026-09-04",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych jedorodzinnych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0302 31",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.141.2026"
+}
+},
+{
+"d": "2026-08-24",
+"c": {
+"inw": "budowa czterech instalacji gazu dla czterech budynków mieszkalnych jednorodzinnych w zabudowie szeregowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "4Corners Błoński, Szczudliński Sp.J.",
+"nier": "",
+"dz": "146515_8 0713 59/37",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.124.2026.AGA"
+}
+},
+{
+"d": "2026-08-11",
+"c": {
+"inw": "budowa instalacji gazu dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0401 71/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.117.2026.PBE"
+}
+},
+{
+"d": "2026-08-11",
+"c": {
+"inw": "budowa instalacji gazu dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0401 71/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.117.2026.PBE"
+}
+},
+{
+"d": "2026-07-17",
+"c": {
+"inw": "budowa instalacji gazu dla budynku mieszkalnego jednorodzinnego z garażem wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0602 67",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.108.2026.PBE"
+}
+},
+{
+"d": "2026-07-10",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolno stojącego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Macierzanki 7",
+"dz": "146515_8 0717 8/22",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.104.2026.PBE"
+}
+},
+{
+"d": "2026-07-06",
+"c": {
+"inw": "budowa siedemnastu instalacji gazu dla 6 budynków mieszkalnych dwulokalowych w zab. szeregowej, 2 budynków mieszkalnych dwulokalowych w zab. bliźniaczej i budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Dozbud 2 Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0715 722",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.103.2026.RLE"
+}
+},
+{
+"d": "2026-07-02",
+"c": {
+"inw": "dwadzieścia dwie doziemne i wewnętrzne instalacje gazowe dla 11 budynków mieszkalnych jednorodzinnych dwulokalowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Inspiro Sp. z o.o. Wesoła Sp.k.",
+"nier": "",
+"dz": "146515_8 0703 27/15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.90.2026.PBE"
+}
+},
+{
+"d": "2026-07-02",
+"c": {
+"inw": "budowa instalacji gazowej dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0716 282",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.93.2026.AGA"
+}
+},
+{
+"d": "2026-06-29",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0503 159",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.91.2026.RLE"
+}
+},
+{
+"d": "2026-06-22",
+"c": {
+"inw": "budowa 4 budynków mieszkalnych jednorodzinnych dwulokalowych w zabudowie bliźniaczej wraz z urządzeniami budowlanymi budowa nowego/nowych obiektów budowlanych",
+"wn": "MIŁOSNA DEWELOPER spółka z ograniczoną odpowiedzialnością",
+"nier": "Cieplarniana 28",
+"dz": "146515_8 0715 31",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.81.2026.AGA"
+}
+},
+{
+"d": "2026-06-18",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego oraz 4 budynków gospodarczych rozbiórka istniejącego obiektu budowlanego",
+"wn": "Miłosna Deweloper Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0715 31",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.5.2026.PBE"
+}
+},
+{
+"d": "2026-05-25",
+"c": {
+"inw": "budowa ośmiu instalacji gazu dla ośmiu lokali mieszkalnych w czterech budynkach mieszkalnych jednorodzinnych dwulokalowych w zabudowie bliźniaczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Targo Sp. z o.o. Sp.k.",
+"nier": "",
+"dz": "146515_8 0304 31",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.69.2026.AGA"
+}
+},
+{
+"d": "2026-05-11",
+"c": {
+"inw": "budowa dwóch instalacji gazu dla projektowanego budynku mieszkalnego jednorodzinnego wolno stojącego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0503 399",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.60.2026.RLE"
+}
+},
+{
+"d": "2026-05-11",
+"c": {
+"inw": "budowa dwóch instalacji gazu dla projektowanego budynku mieszkalnego jednorodzinnego wolno stojącego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0503 398",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.61.2026.RLE"
+}
+},
+{
+"d": "2026-05-06",
+"c": {
+"inw": "wykonanie instalacji gazu dla czterech budynków mieszkalnych jednorodzinnych dwulokalowych w zabudowie bliźniaczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0709 123/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.56.2026.RLE"
+}
+},
+{
+"d": "2026-05-06",
+"c": {
+"inw": "wykonanie instalacji gazu dla czterech budynków mieszkalnych jednorodzinnych dwulokalowych w zabudowie bliźniaczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0709 123/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.56.2026.RLE"
+}
+},
+{
+"d": "2026-04-30",
+"c": {
+"inw": "budowa instalacji gazowej (2szt.) dla projektowanego budynku mieszkalnego jednorodzinnego dwulokalowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0503 95/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.55.2026.RLE"
+}
+},
+{
+"d": "2026-04-27",
+"c": {
+"inw": "instalacja gazowa dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0304 43/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.49.2026.RLE"
+}
+},
+{
+"d": "2026-04-24",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych jednorodzinnych dwulokalowych w zabudowie bliźniaczej wraz z urządzeniami budowlanymi budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0407 51",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.48.2026.PBE"
+}
+},
+{
+"d": "2026-04-20",
+"c": {
+"inw": "budowa 16 budynków mieszkalnych jednorodzinnych dwulokalowych w zabudowie bliźniaczej wraz z urządzeniami budowlanymi budowa nowego/nowych obiektów budowlanych",
+"wn": "SPS Dom Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0711 78",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.46.2026.RLE"
+}
+},
+{
+"d": "2026-04-20",
+"c": {
+"inw": "budowa budynku usługowego, dwukondygnacyjnego wraz z zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0702 112",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.45.2026.AGA"
+}
+},
+{
+"d": "2026-04-02",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego oraz budynku garażu rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0407 51",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.4.2026.RLE"
+}
+},
+{
+"d": "2026-03-31",
+"c": {
+"inw": "przebudowa, rozbudowa i nadbudowa budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0503 143/4",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.34.2026.RLE"
+}
+},
+{
+"d": "2026-03-23",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego z garażem wraz z infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0501 223",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.30.2026.AGA"
+}
+},
+{
+"d": "2026-03-23",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego z garażem wraz z infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0501 215",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.30.2026.AGA"
+}
+},
+{
+"d": "2026-03-17",
+"c": {
+"inw": "budynek gospodarczy rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0408 43/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.3.2026.RLE"
+}
+},
+{
+"d": "2026-03-09",
+"c": {
+"inw": "budowa czterech budynków mieszkalnych jednorodzinnych dwulokalowych w dwóch zespołach zabudowy bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Arwit Deweloper Cholewińscy, Kubik Sp.j.",
+"nier": "",
+"dz": "146515_8 0202 58/11",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.22.2026.AGA"
+}
+},
+{
+"d": "2026-03-06",
+"c": {
+"inw": "budowa 6 budynków mieszkalnych jednorodzinnych dwulokalowych w zabudowie szeregowej wraz z urządzeniami budowlanymi (w tym parking, mury oporowe i instalacje gazowe) budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0405 30",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.21.2026.PBE"
+}
+},
+{
+"d": "2026-03-06",
+"c": {
+"inw": "budowa 6 budynków mieszkalnych jednorodzinnych dwulokalowych w zabudowie szeregowej wraz z urządzeniami budowlanymi (w tym parking, mury oporowe i instalacje gazowe) budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0405 31",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.21.2026.PBE"
+}
+},
+{
+"d": "2026-02-23",
+"c": {
+"inw": "przebudowa i rozbudowa budynku mieszkalnego jednorodzinnego w zabudowie bliźniaczej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0303 46",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.19.2026.RLE"
+}
+},
+{
+"d": "2026-02-11",
+"c": {
+"inw": "wykonanie instalacji gazu dla budynku mieszkalnego jednorodzinnego w budowie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0404 76/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.11.2026.PBE"
+}
+},
+{
+"d": "2026-02-06",
+"c": {
+"inw": "budowa sieci wodociągowej Dn100 mm z żeliwa sferoidalnego o dł. L=81,9 m budowa nowego/nowych obiektów budowlanych",
+"wn": "Miłosna Deweloper Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0715 37",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.10.2026.RLE"
+}
+},
+{
+"d": "2026-02-06",
+"c": {
+"inw": "budowa sieci wodociągowej Dn100 mm z żeliwa sferoidalnego o dł. L=81,9 m budowa nowego/nowych obiektów budowlanych",
+"wn": "Miłosna Deweloper Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0715 45/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.10.2026.RLE"
+}
+},
+{
+"d": "2026-02-06",
+"c": {
+"inw": "budowa sieci wodociągowej Dn100 mm z żeliwa sferoidalnego o dł. L=81,9 m budowa nowego/nowych obiektów budowlanych",
+"wn": "Miłosna Deweloper Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0715 47/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.10.2026.RLE"
+}
+},
+{
+"d": "2026-02-06",
+"c": {
+"inw": "budowa sieci wodociągowej Dn100 mm z żeliwa sferoidalnego o dł. L=81,9 m budowa nowego/nowych obiektów budowlanych",
+"wn": "Miłosna Deweloper Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0715 572",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.10.2026.RLE"
+}
+},
+{
+"d": "2026-02-02",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego, budynku gospodarczego oraz wiaty rozbiórka istniejącego obiektu budowlanego",
+"wn": "SPS DOM Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0711 78",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.2.2026.RLE"
+}
+},
+{
+"d": "2026-01-19",
+"c": {
+"inw": "przebudowa budynku mieszkalnego - wykonanie otwoeu w ścianie konstrukcyjnej na II piętrze między lokalami nr 5 i nr 6 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0101 5/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.4.2026.PBE"
+}
+}
+]
+},
+{
+"id": "dec_pnb",
+"name": "Decyzje o pozwoleniu na budowę",
+"short": "Decyzje PnB",
+"desc": "Decyzje o pozwoleniu na budowę wydane przez organ architektoniczno-budowlany dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer decyzji",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2026-11-04",
+"c": {
+"inw": "budowa instalacji gazu dla budynku mieszkalnego jednorodzinnego (istniejącego) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0714 534",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "76/WES/PB/2026"
+}
+},
+{
+"d": "2026-10-29",
+"c": {
+"inw": "budowa czterech instalacji gazu dla czterech budynków mieszkalnych jednorodzinnych w zabudowie szeregowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "4Corners Błoński, Szczudliński Sp.J.",
+"nier": "",
+"dz": "146515_8 0713 59/37",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "74/WES/PB/2026"
+}
+},
+{
+"d": "2026-10-29",
+"c": {
+"inw": "budowa dwóch instalacji gazu dla budynku mieszkalnego jednorodzinnego w zabudowie szeregowej o dwóch lokalach mieszkalnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Hubertus Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0712 208",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "75/WES/PB/2026"
+}
+},
+{
+"d": "2026-10-16",
+"c": {
+"inw": "budowa czterech budynków mieszkalnych jednorodzinnych dwulokalowych w dwóch zespołach zabudowy bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Arwit Deweloper Cholewińscy, Kubik Sp.j.",
+"nier": "",
+"dz": "146515_8 0202 58/11",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "72/WES/PB/2026"
+}
+},
+{
+"d": "2026-10-13",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych jedorodzinnych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0302 31",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "71/WES/PB/2026"
+}
+},
+{
+"d": "2026-10-05",
+"c": {
+"inw": "budowa instalacji gazowej dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0716 282",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "70/WES/PB/2026"
+}
+},
+{
+"d": "2026-09-23",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0503 159",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "68/WES/PB/2026"
+}
+},
+{
+"d": "2026-09-21",
+"c": {
+"inw": "budowa 4 budynków mieszkalnych jednorodzinnych dwulokalowych w zabudowie bliźniaczej wraz z urządzeniami budowlanymi budowa nowego/nowych obiektów budowlanych",
+"wn": "MIŁOSNA DEWELOPER spółka z ograniczoną odpowiedzialnością",
+"nier": "Cieplarniana 28",
+"dz": "146515_8 0715 31",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "67/WES/PB/2026"
+}
+},
+{
+"d": "2026-09-16",
+"c": {
+"inw": "budowa instalacji gazu dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0401 71/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "67/WES/PB/2026"
+}
+},
+{
+"d": "2026-09-16",
+"c": {
+"inw": "budowa instalacji gazu dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0401 71/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "67/WES/PB/2026"
+}
+},
+{
+"d": "2026-09-08",
+"c": {
+"inw": "budowa budynku usługowego, dwukondygnacyjnego wraz z zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0702 112",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "66/WES/PB/2026"
+}
+},
+{
+"d": "2026-08-20",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolno stojącego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Macierzanki 7",
+"dz": "146515_8 0717 8/22",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "65/WES/PB/2026"
+}
+},
+{
+"d": "2026-08-19",
+"c": {
+"inw": "dwadzieścia dwie doziemne i wewnętrzne instalacje gazowe dla 11 budynków mieszkalnych jednorodzinnych dwulokalowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Inspiro Sp. z o.o. Wesoła Sp.k.",
+"nier": "",
+"dz": "146515_8 0703 27/15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "64/WES/PB/2026"
+}
+},
+{
+"d": "2026-08-12",
+"c": {
+"inw": "budowa instalacji gazu dla budynku mieszkalnego jednorodzinnego z garażem wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0602 67",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "63/WES/PB/2026"
+}
+},
+{
+"d": "2026-08-12",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego oraz 4 budynków gospodarczych rozbiórka istniejącego obiektu budowlanego",
+"wn": "Miłosna Deweloper Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0715 31",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "62/WES/PB/2026/R"
+}
+},
+{
+"d": "2026-08-07",
+"c": {
+"inw": "budowa budynku usług nieuciążliwych budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0705 28/53",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "57/WES/PB/2026"
+}
+},
+{
+"d": "2026-08-07",
+"c": {
+"inw": "budowa budynku usług nieuciążliwych budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0705 28/53",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "57/WES/PB/2026"
+}
+},
+{
+"d": "2026-08-05",
+"c": {
+"inw": "budowa 16 budynków mieszkalnych jednorodzinnych dwulokalowych w zabudowie bliźniaczej wraz z urządzeniami budowlanymi budowa nowego/nowych obiektów budowlanych",
+"wn": "SPS Dom Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0711 78",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "56/WES/PB/2026"
+}
+},
+{
+"d": "2026-08-03",
+"c": {
+"inw": "budowa siedemnastu instalacji gazu dla 6 budynków mieszkalnych dwulokalowych w zab. szeregowej, 2 budynków mieszkalnych dwulokalowych w zab. bliźniaczej i budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Dozbud 2 Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0715 722",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "55/WES/PB/2026"
+}
+},
+{
+"d": "2026-07-24",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych jednorodzinnych dwulokalowych w zabudowie bliźniaczej wraz z urządzeniami budowlanymi budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0407 51",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "54/WES/PB/2026"
+}
+},
+{
+"d": "2026-07-16",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego z garażem wraz z infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0501 223",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "52/WES/PB/2026"
+}
+},
+{
+"d": "2026-07-16",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego z garażem wraz z infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0501 215",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "52/WES/PB/2026"
+}
+},
+{
+"d": "2026-07-10",
+"c": {
+"inw": "budowa ośmiu instalacji gazu dla ośmiu lokali mieszkalnych w czterech budynkach mieszkalnych jednorodzinnych dwulokalowych w zabudowie bliźniaczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Targo Sp. z o.o. Sp.k.",
+"nier": "",
+"dz": "146515_8 0304 31",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "51/WES/PB/2026"
+}
+},
+{
+"d": "2026-06-26",
+"c": {
+"inw": "wykonanie instalacji gazu dla czterech budynków mieszkalnych jednorodzinnych dwulokalowych w zabudowie bliźniaczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0709 123/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "47/WES/PB/2026"
+}
+},
+{
+"d": "2026-06-26",
+"c": {
+"inw": "wykonanie instalacji gazu dla czterech budynków mieszkalnych jednorodzinnych dwulokalowych w zabudowie bliźniaczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0709 123/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "47/WES/PB/2026"
+}
+},
+{
+"d": "2026-06-26",
+"c": {
+"inw": "przebudowa, rozbudowa i nadbudowa budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0503 143/4",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "48/WES/PB/2026"
+}
+},
+{
+"d": "2026-06-05",
+"c": {
+"inw": "instalacja gazowa dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0304 43/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "43/WES/PB/2026"
+}
+},
+{
+"d": "2026-05-29",
+"c": {
+"inw": "budowa dwóch instalacji gazu dla projektowanego budynku mieszkalnego jednorodzinnego wolno stojącego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0503 399",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/WES/PB/2026"
+}
+},
+{
+"d": "2026-05-29",
+"c": {
+"inw": "budowa dwóch instalacji gazu dla projektowanego budynku mieszkalnego jednorodzinnego wolno stojącego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0503 398",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "42/WES/PB/2026"
+}
+},
+{
+"d": "2026-05-29",
+"c": {
+"inw": "budowa instalacji gazowej (2szt.) dla projektowanego budynku mieszkalnego jednorodzinnego dwulokalowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0503 95/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "40/WES/PB/2026"
+}
+},
+{
+"d": "2026-05-25",
+"c": {
+"inw": "budowa 6 budynków mieszkalnych jednorodzinnych dwulokalowych w zabudowie szeregowej wraz z urządzeniami budowlanymi (w tym parking, mury oporowe i instalacje gazowe) budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0405 30",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "39/WES/PB/2026"
+}
+},
+{
+"d": "2026-05-25",
+"c": {
+"inw": "budowa 6 budynków mieszkalnych jednorodzinnych dwulokalowych w zabudowie szeregowej wraz z urządzeniami budowlanymi (w tym parking, mury oporowe i instalacje gazowe) budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0405 31",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "39/WES/PB/2026"
+}
+},
+{
+"d": "2026-05-21",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego oraz budynku garażu rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0407 51",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "38/WES/PB/2026/R"
+}
+},
+{
+"d": "2026-05-15",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolno stojącego wraz z instalacją gazową oraz wolno stojącego budynku garażowego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 18/9",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "37/WES/PB/2026"
+}
+},
+{
+"d": "2026-04-28",
+"c": {
+"inw": "budynek gospodarczy rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0408 43/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "32/WES/PB/2026/R"
+}
+},
+{
+"d": "2026-04-27",
+"c": {
+"inw": "przebudowa i rozbudowa budynku mieszkalnego jednorodzinnego w zabudowie bliźniaczej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0303 46",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "31/WES/PB/2026"
+}
+},
+{
+"d": "2026-04-24",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych jednorodzinnych dwulokalowych w zabudowie bliźniaczej wraz z wewnętrzną instalacją gazową budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0711 105/4",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "30/WES/PB/2026"
+}
+},
+{
+"d": "2026-04-15",
+"c": {
+"inw": "rozbudowa budynku mieszkalnego jednorodzinnego wolno stojącego, budowa szczelnego zbiornika ścieków V=8,84 m3 rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0709 82",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "29/WES/PB/2026"
+}
+},
+{
+"d": "2026-03-27",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego (z lokalem usługowym) w zabudowie bliźniaczej wraz z urządzeniami budowlanymi budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Dolomitowa 21",
+"dz": "146515_8 0714 565",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "27/WES/PB/2026"
+}
+},
+{
+"d": "2026-03-11",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego, szczelnego zbiornika na nieczystości ciekłe V=8,84 m3 oraz rozbiórka budynku gospodarczego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0713 55/8",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "25/WES/PB/2026"
+}
+},
+{
+"d": "2026-03-10",
+"c": {
+"inw": "budowa sieci wodociągowej Dn100 mm z żeliwa sferoidalnego o dł. L=81,9 m budowa nowego/nowych obiektów budowlanych",
+"wn": "Miłosna Deweloper Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0715 37",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "23/WES/PB/2026"
+}
+},
+{
+"d": "2026-03-10",
+"c": {
+"inw": "budowa sieci wodociągowej Dn100 mm z żeliwa sferoidalnego o dł. L=81,9 m budowa nowego/nowych obiektów budowlanych",
+"wn": "Miłosna Deweloper Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0715 45/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "23/WES/PB/2026"
+}
+},
+{
+"d": "2026-03-10",
+"c": {
+"inw": "budowa sieci wodociągowej Dn100 mm z żeliwa sferoidalnego o dł. L=81,9 m budowa nowego/nowych obiektów budowlanych",
+"wn": "Miłosna Deweloper Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0715 47/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "23/WES/PB/2026"
+}
+},
+{
+"d": "2026-03-10",
+"c": {
+"inw": "budowa sieci wodociągowej Dn100 mm z żeliwa sferoidalnego o dł. L=81,9 m budowa nowego/nowych obiektów budowlanych",
+"wn": "Miłosna Deweloper Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0715 572",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "23/WES/PB/2026"
+}
+},
+{
+"d": "2026-03-10",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego, budynku gospodarczego oraz wiaty rozbiórka istniejącego obiektu budowlanego",
+"wn": "SPS DOM Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0711 78",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "24/WES/PB/2026/R"
+}
+},
+{
+"d": "2026-03-06",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolno stojącego z garażem w bryle oraz budynku garażowego wolno stojącego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0714 30/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "22/WES/PB/2026"
+}
+},
+{
+"d": "2026-03-05",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego z lokalem usługowym oraz zbiornikiem szczelnym na nieczystości ciekłe o poj. 10 m3 budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0706 127",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "21/WES/PB/2026"
+}
+},
+{
+"d": "2026-03-02",
+"c": {
+"inw": "budowa wewnętrznej instalacji gazu dla budynku mieszkalnego jednorodzinnego w zabudowie szeregowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0716 211/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "20/WES/PB/2026"
+}
+},
+{
+"d": "2026-03-02",
+"c": {
+"inw": "budowa wewnętrznej instalacji gazu dla budynku mieszkalnego jednorodzinnego w zabudowie szeregowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0716 219",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "20/WES/PB/2026"
+}
+},
+{
+"d": "2026-02-27",
+"c": {
+"inw": "wykonanie instalacji gazu dla budynku mieszkalnego jednorodzinnego w budowie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0404 76/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "19/WES/PB/2026"
+}
+},
+{
+"d": "2026-02-26",
+"c": {
+"inw": "budowa sieci wodociągowej DN 100 mm w ul. Berenta na odcinku od włączenia do istniejącego przewodu wodociągowego DN 150 w ul. Armii Krajowej do złączenia z istniejącym przewodem wodociągowym Dn 100 w ul. Berenta budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0405 92",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "18/WES/PB/2026"
+}
+},
+{
+"d": "2026-02-26",
+"c": {
+"inw": "budowa sieci wodociągowej DN 100 mm w ul. Berenta na odcinku od włączenia do istniejącego przewodu wodociągowego DN 150 w ul. Armii Krajowej do złączenia z istniejącym przewodem wodociągowym Dn 100 w ul. Berenta budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0405 56/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "18/WES/PB/2026"
+}
+},
+{
+"d": "2026-02-26",
+"c": {
+"inw": "budowa sieci wodociągowej DN 100 mm w ul. Berenta na odcinku od włączenia do istniejącego przewodu wodociągowego DN 150 w ul. Armii Krajowej do złączenia z istniejącym przewodem wodociągowym Dn 100 w ul. Berenta budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0405 91/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "18/WES/PB/2026"
+}
+},
+{
+"d": "2026-02-26",
+"c": {
+"inw": "budowa sieci wodociągowej DN 100 mm w ul. Berenta na odcinku od włączenia do istniejącego przewodu wodociągowego DN 150 w ul. Armii Krajowej do złączenia z istniejącym przewodem wodociągowym Dn 100 w ul. Berenta budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0405 91/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "18/WES/PB/2026"
+}
+},
+{
+"d": "2026-02-26",
+"c": {
+"inw": "budowa sieci wodociągowej DN 100 mm w ul. Berenta na odcinku od włączenia do istniejącego przewodu wodociągowego DN 150 w ul. Armii Krajowej do złączenia z istniejącym przewodem wodociągowym Dn 100 w ul. Berenta budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0405 91/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "18/WES/PB/2026"
+}
+},
+{
+"d": "2026-02-26",
+"c": {
+"inw": "budowa sieci wodociągowej DN 100 mm w ul. Berenta na odcinku od włączenia do istniejącego przewodu wodociągowego DN 150 w ul. Armii Krajowej do złączenia z istniejącym przewodem wodociągowym Dn 100 w ul. Berenta budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0405 91/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "18/WES/PB/2026"
+}
+},
+{
+"d": "2026-02-26",
+"c": {
+"inw": "budowa sieci wodociągowej DN 100 mm w ul. Berenta na odcinku od włączenia do istniejącego przewodu wodociągowego DN 150 w ul. Armii Krajowej do złączenia z istniejącym przewodem wodociągowym Dn 100 w ul. Berenta budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0406 86/29",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "18/WES/PB/2026"
+}
+},
+{
+"d": "2026-02-17",
+"c": {
+"inw": "przebudowa budynku mieszkalnego - wykonanie otwoeu w ścianie konstrukcyjnej na II piętrze między lokalami nr 5 i nr 6 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0101 5/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "17/WES/PB/2026"
+}
+},
+{
+"d": "2026-02-13",
+"c": {
+"inw": "budowa sieci elektroenergetycznej SN 15kV i nN 0,4kV oraz kontenerowej stacji transformatorowej SN/nN 15/0,4kV budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0715 607",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "16/WES/PB/2026"
+}
+},
+{
+"d": "2026-02-05",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolno stojącego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0717 152",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "12/WES/PB/2026/Z"
+}
+},
+{
+"d": "2026-02-05",
+"c": {
+"inw": "budowa instalacji gazu n/c dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0503 95/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "13/WES/PB/2026"
+}
+},
+{
+"d": "2026-02-04",
+"c": {
+"inw": "budowa dwóch instalacji gazu n/c dla dwóch budynków mieszkalnych jednorodzinnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0714 3/23",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "10/WES/PB/2026"
+}
+},
+{
+"d": "2026-02-04",
+"c": {
+"inw": "budowa instalacji gazu n/c dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0703 10/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "11/WES/PB/2026"
+}
+},
+{
+"d": "2026-02-04",
+"c": {
+"inw": "rozbiórka budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0403 17/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "9/WES/PB/2026/R"
+}
+},
+{
+"d": "2026-02-03",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych jednorodzinnych wolno stojących budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 25/12",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "8/WES/PB/2026"
+}
+},
+{
+"d": "2026-02-03",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych jednorodzinnych wolno stojących budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 25/13",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "8/WES/PB/2026"
+}
+},
+{
+"d": "2026-02-02",
+"c": {
+"inw": "budowa wewnętrznej i zewnętrznej instalacji gazowej dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0712 226",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "7/WES/PB/2026"
+}
+},
+{
+"d": "2026-01-20",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolno stojącego z garażem budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0716 134",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "5/WES/PB/2026"
+}
+},
+{
+"d": "2026-01-16",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej oraz trzech budynków mieszkalnych jednorodzinnych w zabudowie szeregowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Osiedle Rumiankowa Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0712 341",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "3/WES/PB/2026"
+}
+},
+{
+"d": "2026-01-16",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego i rozbiórka istniejącego budynku mieszkalnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0404 46",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "4/WES/PB/2026"
+}
+},
+{
+"d": "2026-01-14",
+"c": {
+"inw": "budowa wewnętrznej i zewnętrznej instalacji gazowejdla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0712 233",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "2/WES/PB/2026"
+}
+},
+{
+"d": "2026-01-02",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego oraz budynku gospodarczego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0503 386",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "1/WES/PB/2026"
+}
+}
+]
+}
+]
+}

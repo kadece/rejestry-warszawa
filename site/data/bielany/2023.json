@@ -1,0 +1,5724 @@
+{
+"district": "bielany",
+"year": 2023,
+"generated": "2026-11-24T21:21:03+01:00",
+"total": 512,
+"registers": [
+{
+"id": "wn_pnb",
+"name": "Wnioski o pozwolenie na budowę",
+"short": "Wnioski PnB",
+"desc": "Wnioski o pozwolenie na budowę złożone do organu architektoniczno-budowlanego dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer wniosku",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2023-12-29",
+"c": {
+"inw": "Przebudowa i zmiana sposobu użytkowania budynku mieszkalnego na budynek użyteczności publicznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa",
+"nier": "Perzyńskiego 10a / Włodzimierza",
+"dz": "146504_8 0513 113",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "WIR.6740.1.2023.BMI"
+}
+},
+{
+"d": "2023-12-22",
+"c": {
+"inw": "Wzmocnienie konstrukcji stropu, montaż instalacji chłodniczej oraz paneli akustycznych na potrzeby serwerowni w budynku IMGW - Państwowego Instytutu Badawczego w Warszawie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Instytut Meteorologii i Gospodarki Wodnej - Państwowy Instytut Badawczy",
+"nier": "Podleśna 61",
+"dz": "146504_8 0401 9/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/490489/23"
+}
+},
+{
+"d": "2023-12-20",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolno stojącego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Arkuszowa 66",
+"dz": "146504_8 1208 95",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/21948/23"
+}
+},
+{
+"d": "2023-12-20",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolno stojącego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Arkuszowa 66",
+"dz": "146504_8 1208 92",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/21948/23"
+}
+},
+{
+"d": "2023-12-19",
+"c": {
+"inw": "remont i przebudowa budynku biurowo-pomocniczego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polskie Sieci Elektroenergetyczne S.A.",
+"nier": "Estrady 50",
+"dz": "146504_8 1206 58/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/21887/23"
+}
+},
+{
+"d": "2023-12-15",
+"c": {
+"inw": "budowa instalacji fotowoltaicznej o łącznej mocy do 205 kW na dachu budynku i parkingu Hipermarketu budowa nowego/nowych obiektów budowlanych",
+"wn": "IMMOŻoli sp.zo.o.",
+"nier": "Aspekt 79",
+"dz": "146504_8 0811 3/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/21735/23"
+}
+},
+{
+"d": "2023-12-15",
+"c": {
+"inw": "budowa instalacji fotowoltaicznej o łącznej mocy do 205 kW na dachu budynku i parkingu Hipermarketu budowa nowego/nowych obiektów budowlanych",
+"wn": "IMMOŻoli sp.zo.o.",
+"nier": "Aspekt 79",
+"dz": "146504_8 0811 4/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/21735/23"
+}
+},
+{
+"d": "2023-12-14",
+"c": {
+"inw": "budowa zespołu budynków jednorodzinnych dwulokalowych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Marvipol Development S.A.",
+"nier": "Pasymska",
+"dz": "146504_8 1005 122",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/21670/23"
+}
+},
+{
+"d": "2023-12-14",
+"c": {
+"inw": "budowa zespołu budynków jednorodzinnych dwulokalowych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Marvipol Development S.A.",
+"nier": "Pasymska",
+"dz": "146504_8 1005 121",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/21670/23"
+}
+},
+{
+"d": "2023-12-14",
+"c": {
+"inw": "budowa zespołu budynków jednorodzinnych dwulokalowych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "Marvipol Development S.A.",
+"nier": "Pasymska",
+"dz": "146504_8 1005 120",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/21670/23"
+}
+},
+{
+"d": "2023-12-12",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych dwulokalowych w zabudowie bliźniaczej wraz z niezbędną infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "S.Tel Sylwia Wiśniewska",
+"nier": "Kaskadowa 7",
+"dz": "146504_8 0413 87",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/21580/23"
+}
+},
+{
+"d": "2023-12-08",
+"c": {
+"inw": "remont i przebudowa budynku mieszkalnego jednorodzinnego oraz rozbudowa o ogród zimowy i taras wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Zuga 9 / Bogumiła",
+"dz": "146504_8 0509 79",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/21429/23"
+}
+},
+{
+"d": "2023-12-05",
+"c": {
+"inw": "zamienny projekt budowlany- zabudowa usługowo-magazynowa budowa nowego/nowych obiektów budowlanych",
+"wn": "Technical Service Polska Marcin Mikulski",
+"nier": "Opłotek 40",
+"dz": "146504_8 1106 62",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/21138/23"
+}
+},
+{
+"d": "2023-12-05",
+"c": {
+"inw": "zamienny projekt budowlany- zabudowa usługowo-magazynowa budowa nowego/nowych obiektów budowlanych",
+"wn": "Technical Service Polska Marcin Mikulski",
+"nier": "Opłotek 40",
+"dz": "146504_8 1106 61",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/21138/23"
+}
+},
+{
+"d": "2023-12-05",
+"c": {
+"inw": "zamienny projekt budowlany- zabudowa usługowo-magazynowa budowa nowego/nowych obiektów budowlanych",
+"wn": "Technical Service Polska Marcin Mikulski",
+"nier": "Opłotek 40",
+"dz": "146504_8 1106 60",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/21138/23"
+}
+},
+{
+"d": "2023-12-05",
+"c": {
+"inw": "zamienny projekt budowlany- zabudowa usługowo-magazynowa budowa nowego/nowych obiektów budowlanych",
+"wn": "Technical Service Polska Marcin Mikulski",
+"nier": "Opłotek 40",
+"dz": "146504_8 1106 59",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/21138/23"
+}
+},
+{
+"d": "2023-12-05",
+"c": {
+"inw": "zamienny projekt budowlany- zabudowa usługowo-magazynowa budowa nowego/nowych obiektów budowlanych",
+"wn": "Technical Service Polska Marcin Mikulski",
+"nier": "Opłotek 40",
+"dz": "146504_8 1106 40",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/21138/23"
+}
+},
+{
+"d": "2023-12-05",
+"c": {
+"inw": "zamienny projekt budowlany- zabudowa usługowo-magazynowa budowa nowego/nowych obiektów budowlanych",
+"wn": "Technical Service Polska Marcin Mikulski",
+"nier": "Opłotek 40",
+"dz": "146504_8 1106 39",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/21138/23"
+}
+},
+{
+"d": "2023-12-04",
+"c": {
+"inw": "przebudowa powierzchni magazynowej wraz ze zmianą sposobu użytkowania części lokalu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CCC S.A.",
+"nier": "Zgrupowania AK \"Kampinos\" 15",
+"dz": "146504_8 1104 4/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/21023/23"
+}
+},
+{
+"d": "2023-12-04",
+"c": {
+"inw": "przebudowa powierzchni magazynowej wraz ze zmianą sposobu użytkowania części lokalu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CCC S.A.",
+"nier": "Zgrupowania AK \"Kampinos\" 15",
+"dz": "146504_8 1104 4/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/21023/23"
+}
+},
+{
+"d": "2023-12-01",
+"c": {
+"inw": "budowa pawilonu handlowego przy bramie Północnej na Cmentarzu Komunalnym Północnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa- Zarząd Cmentarzy Komunalnych",
+"nier": "Wólczyńska",
+"dz": "146504_8 1307 245",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/20905/23"
+}
+},
+{
+"d": "2023-12-01",
+"c": {
+"inw": "budowa pawilonu handlowego przy bramie Północnej na Cmentarzu Komunalnym Północnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa- Zarząd Cmentarzy Komunalnych",
+"nier": "Wólczyńska",
+"dz": "146504_8 1307 244",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/20905/23"
+}
+},
+{
+"d": "2023-12-01",
+"c": {
+"inw": "budowa pawilonu handlowego przy bramie Północnej na Cmentarzu Komunalnym Północnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa- Zarząd Cmentarzy Komunalnych",
+"nier": "Wólczyńska",
+"dz": "146504_8 1307 130",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/20905/23"
+}
+},
+{
+"d": "2023-12-01",
+"c": {
+"inw": "budowa pawilonu handlowego przy bramie Północnej na Cmentarzu Komunalnym Północnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa- Zarząd Cmentarzy Komunalnych",
+"nier": "Wólczyńska",
+"dz": "146504_8 1307 131",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/20905/23"
+}
+},
+{
+"d": "2023-12-01",
+"c": {
+"inw": "budowa pawilonu handlowego przy bramie Północnej na Cmentarzu Komunalnym Północnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa- Zarząd Cmentarzy Komunalnych",
+"nier": "Wólczyńska",
+"dz": "146504_8 1307 132",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/20905/23"
+}
+},
+{
+"d": "2023-12-01",
+"c": {
+"inw": "budowa pawilonu handlowego przy bramie Północnej na Cmentarzu Komunalnym Północnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa- Zarząd Cmentarzy Komunalnych",
+"nier": "Wólczyńska",
+"dz": "146504_8 1307 134",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/20905/23"
+}
+},
+{
+"d": "2023-12-01",
+"c": {
+"inw": "budowa pawilonu handlowego przy Bramie Południowej na Cmentarzu Komunalnym Północnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa-Zarząd Cmentarzy Komunalnych",
+"nier": "Wólczyńska",
+"dz": "146504_8 1307 134",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/20903/23"
+}
+},
+{
+"d": "2023-12-01",
+"c": {
+"inw": "budowa pawilonu handlowego przy Bramie Południowej na Cmentarzu Komunalnym Północnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa-Zarząd Cmentarzy Komunalnych",
+"nier": "Wólczyńska",
+"dz": "146504_8 1307 132",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/20903/23"
+}
+},
+{
+"d": "2023-12-01",
+"c": {
+"inw": "budowa pawilonu handlowego przy Bramie Południowej na Cmentarzu Komunalnym Północnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa-Zarząd Cmentarzy Komunalnych",
+"nier": "Wólczyńska",
+"dz": "146504_8 1307 131",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/20903/23"
+}
+},
+{
+"d": "2023-12-01",
+"c": {
+"inw": "budowa pawilonu handlowego przy Bramie Południowej na Cmentarzu Komunalnym Północnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa-Zarząd Cmentarzy Komunalnych",
+"nier": "Wólczyńska",
+"dz": "146504_8 1307 130",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/20903/23"
+}
+},
+{
+"d": "2023-12-01",
+"c": {
+"inw": "budowa pawilonu handlowego przy Bramie Południowej na Cmentarzu Komunalnym Północnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa-Zarząd Cmentarzy Komunalnych",
+"nier": "Wólczyńska",
+"dz": "146504_8 1307 244",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/20903/23"
+}
+},
+{
+"d": "2023-12-01",
+"c": {
+"inw": "budowa pawilonu handlowego przy Bramie Południowej na Cmentarzu Komunalnym Północnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa-Zarząd Cmentarzy Komunalnych",
+"nier": "Wólczyńska",
+"dz": "146504_8 1307 245",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/20903/23"
+}
+},
+{
+"d": "2023-12-01",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego z wbudowanym garażem budowa nowego/nowych obiektów budowlanych",
+"wn": "Selteni HPF Investment sp.zo.o. S.K.A",
+"nier": "Jagiellonki 8 / Anny",
+"dz": "146504_8 1004 50",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/20966/23"
+}
+},
+{
+"d": "2023-11-29",
+"c": {
+"inw": "termomodernizacja budynków UKSW wraz z przebudową budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Dewajtis 5",
+"dz": "146504_8 0904 5/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/20804/23"
+}
+},
+{
+"d": "2023-11-28",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Linotypowa 9",
+"dz": "146504_8 1205 76/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/20695/23"
+}
+},
+{
+"d": "2023-11-27",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z lokalami usługowymi oraz garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Bogusławskiego Invest sp.zo.o.",
+"nier": "Bogusławskiego / Wojciecha",
+"dz": "146504_8 0807 25/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/20675/23"
+}
+},
+{
+"d": "2023-11-27",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z lokalami usługowymi oraz garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Bogusławskiego Invest sp.zo.o.",
+"nier": "Bogusławskiego / Wojciecha",
+"dz": "146504_8 0807 25/18",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/20675/23"
+}
+},
+{
+"d": "2023-11-27",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z lokalami usługowymi oraz garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Bogusławskiego Invest sp.zo.o.",
+"nier": "Bogusławskiego / Wojciecha",
+"dz": "146504_8 0807 25/19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/20675/23"
+}
+},
+{
+"d": "2023-11-23",
+"c": {
+"inw": "budowa osiedla domów mieszkalnych w zabudowie jednorodzinnej budowa nowego/nowych obiektów budowlanych",
+"wn": "Proland Nieruchomości sp.zo.o. Bielany sp.kom.",
+"nier": "Jagiellonki / Anny",
+"dz": "146504_8 1003 63",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/20524/23"
+}
+},
+{
+"d": "2023-11-21",
+"c": {
+"inw": "budowa myjni wraz z infrastrukturą towarzyszącą budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Wólczyńska",
+"dz": "146504_8 1110 171/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/469802/23"
+}
+},
+{
+"d": "2023-11-16",
+"c": {
+"inw": "remont dachu budynku mieszkalnego jednorodzinnego w zabudowie szeregowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Hajoty 62",
+"dz": "146504_8 0508 157",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/20131/23"
+}
+},
+{
+"d": "2023-11-15",
+"c": {
+"inw": "budowa hali magazynowo-produkcyjnej do zbierania odpadów i produkcji szczotek z pomieszczeniami socjalnymi dla pracowników, stacji trafo, zbiorników bezodpływowych: na ścieki bytowe i przemysłowe, deszczowe i wodę pożarową wraz z potrzebną infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Wólczyńska 149",
+"dz": "146504_8 1110 20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/458624/23"
+}
+},
+{
+"d": "2023-11-15",
+"c": {
+"inw": "budowa hali magazynowo-produkcyjnej do zbierania odpadów i produkcji szczotek z pomieszczeniami socjalnymi dla pracowników, stacji trafo, zbiorników bezodpływowych: na ścieki bytowe i przemysłowe, deszczowe i wodę pożarową wraz z potrzebną infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Wólczyńska 149",
+"dz": "146504_8 1110 21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/458624/23"
+}
+},
+{
+"d": "2023-11-15",
+"c": {
+"inw": "budowa hali magazynowo-produkcyjnej do zbierania odpadów i produkcji szczotek z pomieszczeniami socjalnymi dla pracowników, stacji trafo, zbiorników bezodpływowych: na ścieki bytowe i przemysłowe, deszczowe i wodę pożarową wraz z potrzebną infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Wólczyńska 149",
+"dz": "146504_8 1110 22/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/458624/23"
+}
+},
+{
+"d": "2023-11-15",
+"c": {
+"inw": "budowa hali magazynowo-produkcyjnej do zbierania odpadów i produkcji szczotek z pomieszczeniami socjalnymi dla pracowników, stacji trafo, zbiorników bezodpływowych: na ścieki bytowe i przemysłowe, deszczowe i wodę pożarową wraz z potrzebną infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Wólczyńska 149",
+"dz": "146504_8 1110 22/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/458624/23"
+}
+},
+{
+"d": "2023-11-15",
+"c": {
+"inw": "budowa hali magazynowo-produkcyjnej do zbierania odpadów i produkcji szczotek z pomieszczeniami socjalnymi dla pracowników, stacji trafo, zbiorników bezodpływowych: na ścieki bytowe i przemysłowe, deszczowe i wodę pożarową wraz z potrzebną infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Wólczyńska 149",
+"dz": "146504_8 1110 23",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/458624/23"
+}
+},
+{
+"d": "2023-11-15",
+"c": {
+"inw": "budowa hali magazynowo-produkcyjnej do zbierania odpadów i produkcji szczotek z pomieszczeniami socjalnymi dla pracowników, stacji trafo, zbiorników bezodpływowych: na ścieki bytowe i przemysłowe, deszczowe i wodę pożarową wraz z potrzebną infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Wólczyńska 149",
+"dz": "146504_8 1110 24",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/458624/23"
+}
+},
+{
+"d": "2023-11-15",
+"c": {
+"inw": "budowa hali magazynowo-produkcyjnej do zbierania odpadów i produkcji szczotek z pomieszczeniami socjalnymi dla pracowników, stacji trafo, zbiorników bezodpływowych: na ścieki bytowe i przemysłowe, deszczowe i wodę pożarową wraz z potrzebną infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Wólczyńska 149",
+"dz": "146504_8 1110 25",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/458624/23"
+}
+},
+{
+"d": "2023-11-15",
+"c": {
+"inw": "budowa hali magazynowo-produkcyjnej do zbierania odpadów i produkcji szczotek z pomieszczeniami socjalnymi dla pracowników, stacji trafo, zbiorników bezodpływowych: na ścieki bytowe i przemysłowe, deszczowe i wodę pożarową wraz z potrzebną infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Wólczyńska 149",
+"dz": "146504_8 1110 29",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/458624/23"
+}
+},
+{
+"d": "2023-10-24",
+"c": {
+"inw": "rozbudowa tarasu domu jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Babicka 7",
+"dz": "146504_8 0509 42",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/18651/23"
+}
+},
+{
+"d": "2023-10-23",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "K 43 sp.zo.o.",
+"nier": "Aleja Słowiańska 16",
+"dz": "146504_8 0407 62/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/18624/23"
+}
+},
+{
+"d": "2023-10-23",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "K 43 sp.zo.o.",
+"nier": "Aleja Słowiańska 16",
+"dz": "146504_8 0407 47/8",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/18624/23"
+}
+},
+{
+"d": "2023-10-23",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "K 43 sp.zo.o.",
+"nier": "Aleja Słowiańska 16",
+"dz": "146504_8 0407 47/10",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/18624/23"
+}
+},
+{
+"d": "2023-10-20",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolno stojącego wraz ze zbiornikiem bezodpływowym na nieczystości ciekłe budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Arkuszowa 152",
+"dz": "146504_8 1207 22/7",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/18520/23"
+}
+},
+{
+"d": "2023-10-18",
+"c": {
+"inw": "modernizacja komory ciepłowniczej H12/P2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Cegłowska",
+"dz": "146504_8 0501 18/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/18441/23"
+}
+},
+{
+"d": "2023-10-12",
+"c": {
+"inw": "wykonanie otworu w ścianie konstrukcyjnej w lokalu mieszkalnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Broniewskiego 99 / Władysława",
+"dz": "146504_8 0601 7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/18198/23"
+}
+},
+{
+"d": "2023-10-06",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolno stojącego z wentylacją mechaniczną i bezodpływowym zbiornikiem na nieczystości ciekłe budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Wólczyńska 300P",
+"dz": "146504_8 1203 51/9",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/17728/23"
+}
+},
+{
+"d": "2023-10-06",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolno stojącego z wentylacją mechaniczną i bezodpływowym zbiornikiem na nieczystości ciekłe budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Wólczyńska 300P",
+"dz": "146504_8 1203 51/7",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/17728/23"
+}
+},
+{
+"d": "2023-10-06",
+"c": {
+"inw": "budowa sieci elektroenergetycznej średniego i niskiego napięcia wraz z czterema stacjami transformatorowymi i złączami kablowymi budowa nowego/nowych obiektów budowlanych",
+"wn": "Akademia Wychowania Fizycznego",
+"nier": "Marymoncka 34",
+"dz": "146504_8 0909 3/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO//17696/23"
+}
+},
+{
+"d": "2023-09-29",
+"c": {
+"inw": "budowa wewn i zewn, instalacji gazowej dla budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Odysei 9",
+"dz": "146504_8 1007 73/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/17341/23"
+}
+},
+{
+"d": "2023-09-28",
+"c": {
+"inw": "budowa instalacji fotowoltaicznej o mocy do 400kW na zadaszeniu parkingu hipermarketu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Makro Cash and Carry Polska S.A.",
+"nier": "Kolumbijska",
+"dz": "146504_8 1008 67/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RK/23529/23"
+}
+},
+{
+"d": "2023-09-28",
+"c": {
+"inw": "budowa instalacji fotowoltaicznej o mocy do 400kW na zadaszeniu parkingu hipermarketu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Makro Cash and Carry Polska S.A.",
+"nier": "Kolumbijska",
+"dz": "146504_8 1008 68",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RK/23529/23"
+}
+},
+{
+"d": "2023-09-28",
+"c": {
+"inw": "budowa instalacji fotowoltaicznej o mocy do 400kW na zadaszeniu parkingu hipermarketu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Makro Cash and Carry Polska S.A.",
+"nier": "Kolumbijska",
+"dz": "146504_8 1008 69/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RK/23529/23"
+}
+},
+{
+"d": "2023-09-28",
+"c": {
+"inw": "budowa instalacji fotowoltaicznej o mocy do 400kW na zadaszeniu parkingu hipermarketu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Makro Cash and Carry Polska S.A.",
+"nier": "Kolumbijska",
+"dz": "146504_8 1008 76/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RK/23529/23"
+}
+},
+{
+"d": "2023-09-28",
+"c": {
+"inw": "budowa instalacji fotowoltaicznej o mocy do 400kW na zadaszeniu parkingu hipermarketu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Makro Cash and Carry Polska S.A.",
+"nier": "Kolumbijska",
+"dz": "146504_8 1008 77/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RK/23529/23"
+}
+},
+{
+"d": "2023-09-28",
+"c": {
+"inw": "budowa instalacji fotowoltaicznej o mocy do 400kW na zadaszeniu parkingu hipermarketu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Makro Cash and Carry Polska S.A.",
+"nier": "Kolumbijska",
+"dz": "146504_8 1008 80/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RK/23529/23"
+}
+},
+{
+"d": "2023-09-28",
+"c": {
+"inw": "budowa instalacji fotowoltaicznej o mocy do 400kW na zadaszeniu parkingu hipermarketu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Makro Cash and Carry Polska S.A.",
+"nier": "Kolumbijska",
+"dz": "146504_8 1008 81/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RK/23529/23"
+}
+},
+{
+"d": "2023-09-28",
+"c": {
+"inw": "budowa instalacji fotowoltaicznej o mocy do 400kW na zadaszeniu parkingu hipermarketu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Makro Cash and Carry Polska S.A.",
+"nier": "Kolumbijska",
+"dz": "146504_8 1008 87/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RK/23529/23"
+}
+},
+{
+"d": "2023-09-28",
+"c": {
+"inw": "budowa instalacji fotowoltaicznej o mocy do 400kW na zadaszeniu parkingu hipermarketu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Makro Cash and Carry Polska S.A.",
+"nier": "Kolumbijska",
+"dz": "146504_8 1008 88/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RK/23529/23"
+}
+},
+{
+"d": "2023-09-28",
+"c": {
+"inw": "budowa instalacji fotowoltaicznej o mocy do 400kW na zadaszeniu parkingu hipermarketu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Makro Cash and Carry Polska S.A.",
+"nier": "Kolumbijska",
+"dz": "146504_8 1008 88/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RK/23529/23"
+}
+},
+{
+"d": "2023-09-28",
+"c": {
+"inw": "budowa instalacji fotowoltaicznej o mocy do 400kW na zadaszeniu parkingu hipermarketu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Makro Cash and Carry Polska S.A.",
+"nier": "Kolumbijska",
+"dz": "146504_8 1008 88/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RK/23529/23"
+}
+},
+{
+"d": "2023-09-28",
+"c": {
+"inw": "budowa instalacji fotowoltaicznej o mocy do 400kW na zadaszeniu parkingu hipermarketu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Makro Cash and Carry Polska S.A.",
+"nier": "Kolumbijska",
+"dz": "146504_8 1008 90",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RK/23529/23"
+}
+},
+{
+"d": "2023-09-28",
+"c": {
+"inw": "budowa instalacji fotowoltaicznej o mocy do 400kW na zadaszeniu parkingu hipermarketu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Makro Cash and Carry Polska S.A.",
+"nier": "Kolumbijska",
+"dz": "146504_8 1008 99",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RK/23529/23"
+}
+},
+{
+"d": "2023-09-28",
+"c": {
+"inw": "budowa instalacji fotowoltaicznej o mocy do 400kW na zadaszeniu parkingu hipermarketu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Makro Cash and Carry Polska S.A.",
+"nier": "Kolumbijska",
+"dz": "146504_8 1008 101",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RK/23529/23"
+}
+},
+{
+"d": "2023-09-28",
+"c": {
+"inw": "budowa instalacji fotowoltaicznej o mocy do 400kW na zadaszeniu parkingu hipermarketu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Makro Cash and Carry Polska S.A.",
+"nier": "Kolumbijska",
+"dz": "146504_8 1008 113/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RK/23529/23"
+}
+},
+{
+"d": "2023-09-28",
+"c": {
+"inw": "budowa czternastu instalacji gazowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "YUIN Management sp.zo.o.",
+"nier": "Rokokowa 138",
+"dz": "146504_8 1112 5/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/17265/236"
+}
+},
+{
+"d": "2023-09-28",
+"c": {
+"inw": "budowa czternastu instalacji gazowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "YUIN Management sp.zo.o.",
+"nier": "Rokokowa 138",
+"dz": "146504_8 1112 6/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/17265/236"
+}
+},
+{
+"d": "2023-09-28",
+"c": {
+"inw": "budowa czternastu instalacji gazowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "YUIN Management sp.zo.o.",
+"nier": "Rokokowa 138",
+"dz": "146504_8 1112 7/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/17265/236"
+}
+},
+{
+"d": "2023-09-27",
+"c": {
+"inw": "budowa instalacji gazowej dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Ptasi Raj",
+"dz": "146504_8 1001 182",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/17199/23"
+}
+},
+{
+"d": "2023-09-25",
+"c": {
+"inw": "budowa instalacji gazowej na zewnątrz i wewnątrz budynku mieszkalnego jednorodzinnego trzylokalowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Pasterska 19",
+"dz": "146504_8 1001 87/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/17086/23"
+}
+},
+{
+"d": "2023-09-22",
+"c": {
+"inw": "przebudowa lokalu mieszkalnego w budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Szegedyńska 8",
+"dz": "146504_8 0703 88",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/16997/23"
+}
+},
+{
+"d": "2023-09-22",
+"c": {
+"inw": "wykonanie otworu w ścianie nośnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Petöfiego 1 / Sándora",
+"dz": "146504_8 0805 170/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/16840/23"
+}
+},
+{
+"d": "2023-09-21",
+"c": {
+"inw": "wydzielenie przestrzeni na odpady stałe dla pawilonu usługowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa",
+"nier": "Zbigniewa Romaszewskiego 23",
+"dz": "146504_8 0513 33/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/16780/23"
+}
+},
+{
+"d": "2023-09-18",
+"c": {
+"inw": "wykonanie otworów w stropie ostatniej kondygnacji w ramach wykonania instalacji oddymiania klatki schodowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"Piaski C\"",
+"nier": "Kochanowskiego 32 / Jana",
+"dz": "146504_8 0601 28/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/16550/23"
+}
+},
+{
+"d": "2023-09-14",
+"c": {
+"inw": "remont fragmentu uszkodzonego stropu nad piwnicą w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości",
+"nier": "Schroegera 87 / Efraima",
+"dz": "146504_8 0506 30",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/16355/23"
+}
+},
+{
+"d": "2023-09-12",
+"c": {
+"inw": "budowa instalacji gazowej dla budynku produkcyjnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Wólczyńska 234",
+"dz": "146504_8 1106 53",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/16199/23"
+}
+},
+{
+"d": "2023-09-12",
+"c": {
+"inw": "budowa instalacji gazowej dla budynku produkcyjnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Wólczyńska 234",
+"dz": "146504_8 1106 54",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/16199/23"
+}
+},
+{
+"d": "2023-09-11",
+"c": {
+"inw": "wykonanie otworu w ścianie nośnej żelbetowej w lokalu mieszkalnym w budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Balzaka 2 / Honoriusza",
+"dz": "146504_8 0802 74",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/16160/23"
+}
+},
+{
+"d": "2023-09-08",
+"c": {
+"inw": "zamienny projekt budowlany budowy kolektora Wiślanego Etap III wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji",
+"nier": "Farysa",
+"dz": "146504_8 0901 2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/16041/23"
+}
+},
+{
+"d": "2023-09-08",
+"c": {
+"inw": "zamienny projekt budowlany budowy kolektora Wiślanego Etap III wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji",
+"nier": "Farysa",
+"dz": "146504_8 0902 4/15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/16041/23"
+}
+},
+{
+"d": "2023-09-08",
+"c": {
+"inw": "zamienny projekt budowlany budowy kolektora Wiślanego Etap III wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji",
+"nier": "Farysa",
+"dz": "146504_8 0902 4/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/16041/23"
+}
+},
+{
+"d": "2023-09-08",
+"c": {
+"inw": "zamienny projekt budowlany budowy kolektora Wiślanego Etap III wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji",
+"nier": "Farysa",
+"dz": "146504_8 0902 3/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/16041/23"
+}
+},
+{
+"d": "2023-09-08",
+"c": {
+"inw": "zamienny projekt budowlany budowy kolektora Wiślanego Etap III wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji",
+"nier": "Farysa",
+"dz": "146504_8 0902 3/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/16041/23"
+}
+},
+{
+"d": "2023-09-06",
+"c": {
+"inw": "budowa wewnętrznej instalacji gazowej w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Karol Tański Tańscy",
+"nier": "Kolumbijska",
+"dz": "146504_8 1008 37",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/15822/23"
+}
+},
+{
+"d": "2023-09-01",
+"c": {
+"inw": "rozbiórka dawnych obiektów przedsiębiorstwa projektowania i wyposażenia obiektów przemysłowych PROZEMAK oraz instalacji terenowych wewnętrznych\" rozbiórka istniejącego obiektu budowlanego",
+"wn": "Matexi Polska sp.zo.o.",
+"nier": "Improwizacji 5",
+"dz": "146504_8 1103 3/109",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/15606/23"
+}
+},
+{
+"d": "2023-09-01",
+"c": {
+"inw": "rozbiórka dawnych obiektów przedsiębiorstwa projektowania i wyposażenia obiektów przemysłowych PROZEMAK oraz instalacji terenowych wewnętrznych\" rozbiórka istniejącego obiektu budowlanego",
+"wn": "Matexi Polska sp.zo.o.",
+"nier": "Improwizacji 5",
+"dz": "146504_8 1103 3/110",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/15606/23"
+}
+},
+{
+"d": "2023-08-31",
+"c": {
+"inw": "budowa sieci elektroenergetycznych w postaci podziemnych linii kablowych 11okV wraz z kanalizacją teletechniczną dla kabli światłowodowych oraz demontaż fundamentów, zbiornika przeciwpożarowego i instalacji zewnętrznych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "VDC WAW11 sp.zo.o.",
+"nier": "Kasprowicza / Jana",
+"dz": "146504_8 1103 20/56",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/15522/23"
+}
+},
+{
+"d": "2023-08-30",
+"c": {
+"inw": "budowa instalacji gazowej dla projektowanego budynku mieszkalnego jednorodzinnego, dwulokalowego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Kolumbijska",
+"dz": "146504_8 1008 38",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/15420/23"
+}
+},
+{
+"d": "2023-08-14",
+"c": {
+"inw": "Budowa budynku mieszkalnego jednorodzinnego wolno stojącego wraz z niezbędną infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Prozy",
+"dz": "146504_8 1007 154/16",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/210758/23"
+}
+},
+{
+"d": "2023-08-14",
+"c": {
+"inw": "Rozbiórka budynku mieszkalnego jednorodzinnego wraz z elementami infrastruktury rozbiórka istniejącego obiektu budowlanego",
+"wn": "RP3 Sp. z o.o.",
+"nier": "Estrady 25",
+"dz": "146504_8 1202 45",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "PEUM/1171/23"
+}
+},
+{
+"d": "2023-08-11",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z lokalem usługowym, garażem podziemnym oraz zjazdem i wewnętrzna intalacją gazową budowa nowego/nowych obiektów budowlanych",
+"wn": "OPATOWSKA Sp. z o.o.",
+"nier": "Opatowska",
+"dz": "146504_8 0407 84",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/14600/23"
+}
+},
+{
+"d": "2023-08-04",
+"c": {
+"inw": "Rozbiórka budynku jednorodzinnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Pułkowa 33",
+"dz": "146504_8 1005 85",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/14278/23"
+}
+},
+{
+"d": "2023-08-01",
+"c": {
+"inw": "Rozbiórka budynku mieszkalnego jednokondygnacyjnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "MASZEWSKA INVESTMENTS Sp. z o.o.",
+"nier": "Księżycowa 76D",
+"dz": "146504_8 1214 187/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/13974/23"
+}
+},
+{
+"d": "2023-07-28",
+"c": {
+"inw": "projekt przebudowy dwóch lokali usługowych na jeden lokal usługowy z antresolą wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "INDEPENDENT DIGITAL Sp. z o.o.",
+"nier": "Aleja Słowiańska 25",
+"dz": "146504_8 0413 105",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/13820/23"
+}
+},
+{
+"d": "2023-07-26",
+"c": {
+"inw": "budowa budynku usługowego z częścią mieszkalną i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "ZUC Invest sp.zo.o. Sp.k.",
+"nier": "Kasprowicza 16 / Jana",
+"dz": "146504_8 0509 120/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/13566/23"
+}
+},
+{
+"d": "2023-07-26",
+"c": {
+"inw": "budowa budynku usługowego z częścią mieszkalną i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "ZUC Invest sp.zo.o. Sp.k.",
+"nier": "Kasprowicza 16 / Jana",
+"dz": "146504_8 0509 151/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/13566/23"
+}
+},
+{
+"d": "2023-07-26",
+"c": {
+"inw": "budowa budynku usługowego z częścią mieszkalną i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "ZUC Invest sp.zo.o. Sp.k.",
+"nier": "Kasprowicza 16 / Jana",
+"dz": "146504_8 0509 157/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/13566/23"
+}
+},
+{
+"d": "2023-07-26",
+"c": {
+"inw": "budowa budynku usługowego z częścią mieszkalną i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "ZUC Invest sp.zo.o. Sp.k.",
+"nier": "Kasprowicza 16 / Jana",
+"dz": "146504_8 0509 157/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/13566/23"
+}
+},
+{
+"d": "2023-07-26",
+"c": {
+"inw": "budowa budynku usługowego z częścią mieszkalną i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "ZUC Invest sp.zo.o. Sp.k.",
+"nier": "Kasprowicza 16 / Jana",
+"dz": "146504_8 0509 157/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/13566/23"
+}
+},
+{
+"d": "2023-07-26",
+"c": {
+"inw": "budowa budynku usługowego z częścią mieszkalną i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "ZUC Invest sp.zo.o. Sp.k.",
+"nier": "Kasprowicza 16 / Jana",
+"dz": "146504_8 0509 157/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/13566/23"
+}
+},
+{
+"d": "2023-07-18",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Brązownicza",
+"dz": "146504_8 0810 112",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/13150/23"
+}
+},
+{
+"d": "2023-07-18",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Brązownicza",
+"dz": "146504_8 0810 114",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/13150/23"
+}
+},
+{
+"d": "2023-07-14",
+"c": {
+"inw": "projekt budowlany zamienny budowy domu jednorodzinnego w zabudowie szeregowej z wewnętrzną instalacją gazową oraz rozbiórką istniejącego budynku mieszkalnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Berenta 34 / Stefana",
+"dz": "146504_8 0409 259",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/12955/23"
+}
+},
+{
+"d": "2023-07-14",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Fortowa",
+"dz": "146504_8 0812 113",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/13010/23"
+}
+},
+{
+"d": "2023-07-03",
+"c": {
+"inw": "remont, przebudowa przegród zewnętrznych rozbudowa piwnicy, nadbudowa strychy zmiana sposobu użytkowania dachu na tarasa użykowy, budowa tarasu ogrodowego w budynku mieszkalnym jednorodzinnym oraz odtorzenie garażu wolno stojącegto wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Barcicka 8",
+"dz": "146504_8 0508 85",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/12227/23"
+}
+},
+{
+"d": "2023-07-03",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 95",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/12241/23"
+}
+},
+{
+"d": "2023-07-03",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 94",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/12241/23"
+}
+},
+{
+"d": "2023-07-03",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 93",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/12241/23"
+}
+},
+{
+"d": "2023-07-03",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 80",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/12241/23"
+}
+},
+{
+"d": "2023-07-03",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 81",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/12241/23"
+}
+},
+{
+"d": "2023-07-03",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 82",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/12241/23"
+}
+},
+{
+"d": "2023-07-03",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 83",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/12241/23"
+}
+},
+{
+"d": "2023-07-03",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 84",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/12241/23"
+}
+},
+{
+"d": "2023-07-03",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 87",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/12241/23"
+}
+},
+{
+"d": "2023-07-03",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 77",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/12241/23"
+}
+},
+{
+"d": "2023-07-03",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 78",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/12241/23"
+}
+},
+{
+"d": "2023-07-03",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 200",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/12241/23"
+}
+},
+{
+"d": "2023-07-03",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 97",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/12241/23"
+}
+},
+{
+"d": "2023-07-03",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 96/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/12241/23"
+}
+},
+{
+"d": "2023-07-03",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 99/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/12241/23"
+}
+},
+{
+"d": "2023-07-03",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 122/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/12241/23"
+}
+},
+{
+"d": "2023-07-03",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 120",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/12241/23"
+}
+},
+{
+"d": "2023-07-03",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 118",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/12241/23"
+}
+},
+{
+"d": "2023-07-03",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 116",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/12241/23"
+}
+},
+{
+"d": "2023-07-03",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 115",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/12241/23"
+}
+},
+{
+"d": "2023-07-03",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 89",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/12241/23"
+}
+},
+{
+"d": "2023-07-03",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 91",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/12241/23"
+}
+},
+{
+"d": "2023-07-03",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 102/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/12241/23"
+}
+},
+{
+"d": "2023-07-03",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 103",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/12241/23"
+}
+},
+{
+"d": "2023-07-03",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 104",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/12241/23"
+}
+},
+{
+"d": "2023-07-03",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 107",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/12241/23"
+}
+},
+{
+"d": "2023-07-03",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 201/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/12241/23"
+}
+},
+{
+"d": "2023-07-03",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 201/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/12241/23"
+}
+},
+{
+"d": "2023-07-03",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 109",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/12241/23"
+}
+},
+{
+"d": "2023-07-03",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 111",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/12241/23"
+}
+},
+{
+"d": "2023-07-03",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 129",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/12241/23"
+}
+},
+{
+"d": "2023-07-03",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 131",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/12241/23"
+}
+},
+{
+"d": "2023-07-03",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 132",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/12241/23"
+}
+},
+{
+"d": "2023-06-29",
+"c": {
+"inw": "Budowa małej instalacji odnawialnego źródła energii o łącznej mocy znamionowej czynnej 250 Kw budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa, Zarząd Cmentarzy Komunalnych",
+"nier": "Wóycickiego 14 / Kazimierza",
+"dz": "146504_8 1307 169",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/12035/23"
+}
+},
+{
+"d": "2023-06-29",
+"c": {
+"inw": "Budowa małej instalacji odnawialnego źródła energii o łącznej mocy znamionowej czynnej 250 Kw budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa, Zarząd Cmentarzy Komunalnych",
+"nier": "Wóycickiego 14 / Kazimierza",
+"dz": "146504_8 1307 168",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/12035/23"
+}
+},
+{
+"d": "2023-06-29",
+"c": {
+"inw": "Budowa małej instalacji odnawialnego źródła energii o łącznej mocy znamionowej czynnej 250 Kw budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa, Zarząd Cmentarzy Komunalnych",
+"nier": "Wóycickiego 14 / Kazimierza",
+"dz": "146504_8 1307 166",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/12035/23"
+}
+},
+{
+"d": "2023-06-29",
+"c": {
+"inw": "Budowa małej instalacji odnawialnego źródła energii o łącznej mocy znamionowej czynnej 250 Kw budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa, Zarząd Cmentarzy Komunalnych",
+"nier": "Wóycickiego 14 / Kazimierza",
+"dz": "146504_8 1307 164",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/12035/23"
+}
+},
+{
+"d": "2023-06-29",
+"c": {
+"inw": "Budowa małej instalacji odnawialnego źródła energii o łącznej mocy znamionowej czynnej 250 Kw budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa, Zarząd Cmentarzy Komunalnych",
+"nier": "Wóycickiego 14 / Kazimierza",
+"dz": "146504_8 1307 161",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/12035/23"
+}
+},
+{
+"d": "2023-06-29",
+"c": {
+"inw": "Budowa małej instalacji odnawialnego źródła energii o łącznej mocy znamionowej czynnej 250 Kw budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa, Zarząd Cmentarzy Komunalnych",
+"nier": "Wóycickiego 14 / Kazimierza",
+"dz": "146504_8 1307 160",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/12035/23"
+}
+},
+{
+"d": "2023-06-29",
+"c": {
+"inw": "Budowa małej instalacji odnawialnego źródła energii o łącznej mocy znamionowej czynnej 250 Kw budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa, Zarząd Cmentarzy Komunalnych",
+"nier": "Wóycickiego 14 / Kazimierza",
+"dz": "146504_8 1307 158",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/12035/23"
+}
+},
+{
+"d": "2023-06-28",
+"c": {
+"inw": "Przebudowa ściany zewnętrznej w budynku mieszkalnym wielorodzinnym w obrębie trzech lokali mieszkalnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Michaliny 10",
+"dz": "146504_8 1004 64",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/11903/23"
+}
+},
+{
+"d": "2023-06-26",
+"c": {
+"inw": "Rozbudowa z przebudową istniejącego sklepu LIDL o pomieszczenie skupu butelek rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "LIDL Sp. z o.o. Sp. k.",
+"nier": "Conrada 1 / Josepha",
+"dz": "146504_8 0815 91/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/11668/23"
+}
+},
+{
+"d": "2023-06-26",
+"c": {
+"inw": "Budowa zaplecza szatnioweo-sanitarnego do obsługi obiektów sportowo-rekreacyjnych na terenie m.st. Warszawy budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa, Stołeczny Zarząd Rozbudowy Miasta",
+"nier": "Rudzka 6",
+"dz": "146504_8 0404 2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/11760/23"
+}
+},
+{
+"d": "2023-06-20",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego , jednokondygnacyjnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Maszewska Investments sp.zo.o.",
+"nier": "Księżycowa 76g",
+"dz": "146504_8 1214 182",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/11410/23"
+}
+},
+{
+"d": "2023-06-20",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego , jednokondygnacyjnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Maszewska Investments sp.zo.o.",
+"nier": "Księżycowa 76g",
+"dz": "146504_8 1214 183/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/11410/23"
+}
+},
+{
+"d": "2023-06-20",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego , jednokondygnacyjnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Maszewska Investments sp.zo.o.",
+"nier": "Księżycowa 76g",
+"dz": "146504_8 1214 184/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/11410/23"
+}
+},
+{
+"d": "2023-06-19",
+"c": {
+"inw": "montaż altany śmietnikowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa Osiedle Piaski",
+"nier": "Broniewskiego 83 / Władysława",
+"dz": "146504_8 0602 2/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/11391/23"
+}
+},
+{
+"d": "2023-06-16",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Hieroglif 7",
+"dz": "146504_8 1007 55",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/11298/23"
+}
+},
+{
+"d": "2023-06-16",
+"c": {
+"inw": "budowa czterech sztuk instalacji gazowych dla czterech budynków mieszkalnych jednorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "NC Investment sp.zo.o. sp.k.",
+"nier": "Tułowicka",
+"dz": "146504_8 1001 148/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/11259/23"
+}
+},
+{
+"d": "2023-06-15",
+"c": {
+"inw": "usunięcie zawalonej części budynku i rozbiórka pozostałych elementów rozbiórka istniejącego obiektu budowlanego",
+"wn": "Miasto Stołeczne Warszawa",
+"nier": "60",
+"dz": "146504_8 0408 65",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-III-WAB-WAB/78/23"
+}
+},
+{
+"d": "2023-06-09",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wraz z urządzeniami budowlanymi budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Estrady",
+"dz": "146504_8 1204 23/8",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/10891/23"
+}
+},
+{
+"d": "2023-06-05",
+"c": {
+"inw": "przebicie otworu w ścianie konstrukcyjnej lokalu mieszkalnego e budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Szegedyńska 12",
+"dz": "146504_8 0703 72",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/10536/23"
+}
+},
+{
+"d": "2023-06-02",
+"c": {
+"inw": "doposażenie budynku mieszkalnego w wewnętrzny dźwig osobowy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"Domhut\"",
+"nier": "Perzyńskiego 11 / Włodzimierza",
+"dz": "146504_8 0512 97",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/10493/23"
+}
+},
+{
+"d": "2023-06-01",
+"c": {
+"inw": "budowa instalacji gazowej do budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Żubrowa 13",
+"dz": "146504_8 1001 67/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RK/13883/23"
+}
+},
+{
+"d": "2023-05-31",
+"c": {
+"inw": "przebudowa budynku mieszkalnego w zabudowie jednorodzinnej poprzez zabudowę loggii wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Staffa 59 / Leopolda",
+"dz": "146504_8 0513 36",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/10383/23"
+}
+},
+{
+"d": "2023-05-31",
+"c": {
+"inw": "przebudowa pomieszczenia kantorka mistrzów3 i stolarni w budynku hali warsztatowej (łącznika) na terenie Zakładu Realizacji Przewozów \"Żoliborz\" wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/10362/23"
+}
+},
+{
+"d": "2023-05-30",
+"c": {
+"inw": "budowa kontenerowego zaplecza serwisowego: biura i magazynu kontenerowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Hyundai Rotem Company SA",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RK/13696/23"
+}
+},
+{
+"d": "2023-05-29",
+"c": {
+"inw": "przebudowa mieszkania w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Alighieri 1B / Dantego",
+"dz": "146504_8 0803 94/43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/10168/23"
+}
+},
+{
+"d": "2023-05-26",
+"c": {
+"inw": "przebudowa źródeł ciepła wraz z wewnętrzną instalacją gazu w budynku nr 5 na terenie kampusu UKSW wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 91",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/10046/23"
+}
+},
+{
+"d": "2023-05-26",
+"c": {
+"inw": "przebudowa źródeł ciepła wraz z wewnętrzną instalacją gazu w budynku nr 5 na terenie kampusu UKSW wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 104",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/10046/23"
+}
+},
+{
+"d": "2023-05-26",
+"c": {
+"inw": "przebudowa źródeł ciepła wraz z wewnętrzną instalacją gazu w budynku nr 5 na terenie kampusu UKSW wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 107",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/10046/23"
+}
+},
+{
+"d": "2023-05-26",
+"c": {
+"inw": "przebudowa źródeł ciepła wraz z wewnętrzną instalacją gazu w budynku nr 5 na terenie kampusu UKSW wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 201/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/10046/23"
+}
+},
+{
+"d": "2023-05-26",
+"c": {
+"inw": "przebudowa źródła ciepła wraz z wewnętrzną instalacją gazu, budowa instalacji fotowoltaicznej, w budynku nr 23 na terenie kampusu UKSW wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 78",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/10044/23"
+}
+},
+{
+"d": "2023-05-26",
+"c": {
+"inw": "przebudowa źródła ciepła wraz z wewnętrzną instalacją gazu, budowa instalacji fotowoltaicznej, w budynku nr 23 na terenie kampusu UKSW wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 77",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/10044/23"
+}
+},
+{
+"d": "2023-05-26",
+"c": {
+"inw": "przebudowa źródła ciepła wraz z wewnętrzną instalacją gazu, budowa instalacji fotowoltaicznej, w budynku nr 23 na terenie kampusu UKSW wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 97",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/10044/23"
+}
+},
+{
+"d": "2023-05-26",
+"c": {
+"inw": "przebudowa źródła ciepła wraz z wewnętrzną instalacją gazu, budowa instalacji fotowoltaicznej, w budynku nr 23 na terenie kampusu UKSW wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 200",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/10044/23"
+}
+},
+{
+"d": "2023-05-26",
+"c": {
+"inw": "przebudowa źródła ciepła wraz z wewnętrzną instalacją gazu, budowa instalcji fotowoltaicznej, przebudowa wewnętrznej instalacji wodociągowej w budynku nr 21 na terenie kampusu UKSW wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 80",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/10045/23"
+}
+},
+{
+"d": "2023-05-26",
+"c": {
+"inw": "przebudowa źródła ciepła wraz z wewnętrzną instalacją gazu, budowa instalcji fotowoltaicznej, przebudowa wewnętrznej instalacji wodociągowej w budynku nr 21 na terenie kampusu UKSW wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 81",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/10045/23"
+}
+},
+{
+"d": "2023-05-26",
+"c": {
+"inw": "przebudowa źródła ciepła wraz z wewnętrzną instalacją gazu, budowa instalcji fotowoltaicznej, przebudowa wewnętrznej instalacji wodociągowej w budynku nr 21 na terenie kampusu UKSW wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 82",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/10045/23"
+}
+},
+{
+"d": "2023-05-26",
+"c": {
+"inw": "przebudowa źródła ciepła wraz z wewnętrzną instalacją gazu, budowa instalcji fotowoltaicznej, przebudowa wewnętrznej instalacji wodociągowej w budynku nr 21 na terenie kampusu UKSW wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 83",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/10045/23"
+}
+},
+{
+"d": "2023-05-26",
+"c": {
+"inw": "przebudowa źródła ciepła wraz z wewnętrzną instalacją gazu, budowa instalcji fotowoltaicznej, przebudowa wewnętrznej instalacji wodociągowej w budynku nr 21 na terenie kampusu UKSW wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 200",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/10045/23"
+}
+},
+{
+"d": "2023-05-26",
+"c": {
+"inw": "budowa zespołu budynków mieszkalnych jednorodzinnych, drogi wewnętrznej oraz naziemnych miejsc postojowych budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Prozy",
+"dz": "146504_8 1007 155/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/10050/23"
+}
+},
+{
+"d": "2023-05-23",
+"c": {
+"inw": "budowa kablowej sieci elektroenergetycznej WV 110kV z kablową siecią teletechniczną relacji GPZ Mościska-RPZ Kaliszówka budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator sp.zo.o.",
+"nier": "Wólczyńska",
+"dz": "146504_8 1110 105",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/9881/23"
+}
+},
+{
+"d": "2023-05-23",
+"c": {
+"inw": "budowa kablowej sieci elektroenergetycznej WV 110kV z kablową siecią teletechniczną relacji GPZ Mościska-RPZ Kaliszówka budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator sp.zo.o.",
+"nier": "Wólczyńska",
+"dz": "146504_8 1103 20/56",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/9881/23"
+}
+},
+{
+"d": "2023-05-23",
+"c": {
+"inw": "budowa kablowej sieci elektroenergetycznej WV 110kV z kablową siecią teletechniczną relacji GPZ Mościska-RPZ Kaliszówka budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator sp.zo.o.",
+"nier": "Wólczyńska",
+"dz": "146504_8 1103 20/50",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/9881/23"
+}
+},
+{
+"d": "2023-05-23",
+"c": {
+"inw": "budowa kablowej sieci elektroenergetycznej WV 110kV z kablową siecią teletechniczną relacji GPZ Mościska-RPZ Kaliszówka budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator sp.zo.o.",
+"nier": "Wólczyńska",
+"dz": "146504_8 1111 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/9881/23"
+}
+},
+{
+"d": "2023-05-22",
+"c": {
+"inw": "przebudowa poprzez wykucie otworu w ścianie wewnętrznej oraz usunięcie ścianek działowych w mieszkaniu w budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Bogusławskiego 20 / Wojciecha",
+"dz": "146504_8 0809 216",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/9735/23"
+}
+},
+{
+"d": "2023-05-22",
+"c": {
+"inw": "przebudowa poprzez wykucie otworu w ścianie wewnętrznej oraz usunięcie ścianek działowych w mieszkaniu w budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Bogusławskiego 20 / Wojciecha",
+"dz": "146504_8 0809 217",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/9735/23"
+}
+},
+{
+"d": "2023-05-22",
+"c": {
+"inw": "przebudowa poprzez wykucie otworu w ścianie wewnętrznej oraz usunięcie ścianek działowych w mieszkaniu w budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Bogusławskiego 20 / Wojciecha",
+"dz": "146504_8 0809 218",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/9735/23"
+}
+},
+{
+"d": "2023-05-10",
+"c": {
+"inw": "rozbiórka stalowej konstrukcji wsporczej na terenia zakładu realizacji przewozów Żoliborz rozbiórka istniejącego obiektu budowlanego",
+"wn": "Tramwaje Warszawskie sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/9094/23"
+}
+},
+{
+"d": "2023-05-08",
+"c": {
+"inw": "rozbiórka części budynku administracyjno-biurowego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Marvipol Conrada sp.zo.o.",
+"nier": "Conrada / Josepha",
+"dz": "146504_8 0807 18/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KO-O/28934/23"
+}
+},
+{
+"d": "2023-05-08",
+"c": {
+"inw": "rozbiórka części budynku administracyjno-biurowego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Marvipol Conrada sp.zo.o.",
+"nier": "Conrada / Josepha",
+"dz": "146504_8 0807 18/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KO-O/28934/23"
+}
+},
+{
+"d": "2023-05-08",
+"c": {
+"inw": "rozbiórka części budynku administracyjno-biurowego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Marvipol Conrada sp.zo.o.",
+"nier": "Conrada / Josepha",
+"dz": "146504_8 0807 18/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KO-O/28934/23"
+}
+},
+{
+"d": "2023-04-27",
+"c": {
+"inw": "przebudowa kablowych linii elektroenergetycznych średniego napięcia wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Stoen Operator sp.zo.o.",
+"nier": "Wybrzeże Gdyńskie",
+"dz": "146504_8 0902 4/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/8407/23"
+}
+},
+{
+"d": "2023-04-27",
+"c": {
+"inw": "przebudowa kablowych linii elektroenergetycznych średniego napięcia wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Stoen Operator sp.zo.o.",
+"nier": "Wybrzeże Gdyńskie",
+"dz": "146504_8 0902 4/15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/8407/23"
+}
+},
+{
+"d": "2023-04-26",
+"c": {
+"inw": "przebudowa mieszkania poprzez wykucie otworu w ścianie wewnętrznej oraz usunięcie ścianek działowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "12",
+"dz": "146504_8 0809 206",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/8304/23"
+}
+},
+{
+"d": "2023-04-26",
+"c": {
+"inw": "przebudowa mieszkania poprzez wykucie otworu w ścianie wewnętrznej oraz usunięcie ścianek działowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "12",
+"dz": "146504_8 0809 123/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/8304/23"
+}
+},
+{
+"d": "2023-04-21",
+"c": {
+"inw": "budowa budynku stacji elektroenergetycznej 110kV wraz z kanalizacją teletechniczną dla kabli światłowodowych budowa nowego/nowych obiektów budowlanych",
+"wn": "VDC WAW11 sp.zo.o.",
+"nier": "Kasprowicza / Jana",
+"dz": "146504_8 1103 20/54",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/7883/23"
+}
+},
+{
+"d": "2023-04-17",
+"c": {
+"inw": "rozbudowa i przebudowa budynku mieszkalnegi jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Płatnicza 89/91",
+"dz": "146504_8 0503 50",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/100703/23"
+}
+},
+{
+"d": "2023-04-13",
+"c": {
+"inw": "Budowa dwóch budynków jednorodzinnych w zabudowie bliźniaczej wraz z zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Akcent 13A",
+"dz": "146504_8 1204 65/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/7473/23"
+}
+},
+{
+"d": "2023-04-13",
+"c": {
+"inw": "Budowa dwóch budynków mieszkalnych jednorodzinnych dwulokalowych w zabudowie bliźniaczej wraz z zagospodarowaniem terenu i infrastrukturą towarzyszącą: czterema zbiornikami na nieczystości ciekłe o poj. 10 m3 każdy budowa nowego/nowych obiektów budowlanych",
+"wn": "Felicity Green Stage Sp. z o.o.",
+"nier": "Estrady",
+"dz": "146504_8 1202 22/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/7474/23"
+}
+},
+{
+"d": "2023-04-13",
+"c": {
+"inw": "Budowa dwóch budynków mieszkalnych jednorodzinnych dwulokalowych w zabudowie bliźniaczej wraz z zagospodarowaniem terenu i infrastrukturą towarzyszącą: czterema zbiornikami na nieczystości ciekłe o poj. 10 m3 każdy budowa nowego/nowych obiektów budowlanych",
+"wn": "Felicity Green Stage Sp. z o.o.",
+"nier": "Estrady",
+"dz": "146504_8 1202 22/10",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/7474/23"
+}
+},
+{
+"d": "2023-04-13",
+"c": {
+"inw": "Budowa dwóch budynków mieszkalnych jednorodzinnych dwulokalowych w zabudowie bliźniaczej wraz z zagospodarowaniem terenu i infrastrukturą towarzyszącą: czterema zbiornikami na nieczystości ciekłe o poj. 10 m3 każdy budowa nowego/nowych obiektów budowlanych",
+"wn": "Felicity Green Stage Sp. z o.o.",
+"nier": "Estrady",
+"dz": "146504_8 1202 24",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/7474/23"
+}
+},
+{
+"d": "2023-04-05",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Żółwia 7",
+"dz": "146504_8 0814 323",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/91841/23"
+}
+},
+{
+"d": "2023-04-05",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Żółwia 7",
+"dz": "146504_8 0814 322",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/91841/23"
+}
+},
+{
+"d": "2023-04-05",
+"c": {
+"inw": "przebudowa poprzez wykucie otworu w ścianie wewnętrznej w mieszkaniu w budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Renesansowa 17",
+"dz": "146504_8 0812 262",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/6928/23"
+}
+},
+{
+"d": "2023-03-31",
+"c": {
+"inw": "projekt budowlany zamienny odtworzenie istniejącego pawilonu zapleczowego wraz ze zmianą sposobu użytkowania wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Lipińska 4",
+"dz": "146504_8 0503 148",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/6625/23"
+}
+},
+{
+"d": "2023-03-31",
+"c": {
+"inw": "projekt budowlany zamienny odtworzenie istniejącego pawilonu zapleczowego wraz ze zmianą sposobu użytkowania wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Lipińska 4",
+"dz": "146504_8 0503 114",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/6625/23"
+}
+},
+{
+"d": "2023-03-30",
+"c": {
+"inw": "przebudowa, rozbudowa i termomodernizacja budynku mieszkalnego jednorodzinnego w zabudowie szeregowej wraz z instalacją gazową rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Daniłowskiego 35 / Gustawa",
+"dz": "146504_8 0507 60",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/6526/23"
+}
+},
+{
+"d": "2023-03-21",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych jednorodzinnych dwulokalowych w zabudowie bliźniaczej wraz z elementami zagospodarowania terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Kolektorska 25",
+"dz": "146504_8 0407 56/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/5946/23"
+}
+},
+{
+"d": "2023-03-21",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych jednorodzinnych dwulokalowych w zabudowie bliźniaczej wraz z elementami zagospodarowania terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Kolektorska 25",
+"dz": "146504_8 0407 55",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/5946/23"
+}
+},
+{
+"d": "2023-03-13",
+"c": {
+"inw": "budowa carportów oraz instalacja paneli fotowoltaicznych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Beta sp.zo.o.",
+"nier": "Gwiaździsta 19",
+"dz": "146504_8 0404 4/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/5253/23"
+}
+},
+{
+"d": "2023-03-07",
+"c": {
+"inw": "budowa dwukondygnacyjnego budynku strzelnicy sportowej z funkcją biurowo-usługową oraz naziemnych miejsc postojowych budowa nowego/nowych obiektów budowlanych",
+"wn": "Związkowy Klub Strzelecki",
+"nier": "Marymoncka 42",
+"dz": "146504_8 0901 14/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/4877/23"
+}
+},
+{
+"d": "2023-03-07",
+"c": {
+"inw": "budowa dwukondygnacyjnego budynku strzelnicy sportowej z funkcją biurowo-usługową oraz naziemnych miejsc postojowych budowa nowego/nowych obiektów budowlanych",
+"wn": "Związkowy Klub Strzelecki",
+"nier": "Marymoncka 42",
+"dz": "146504_8 0901 14/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/4877/23"
+}
+},
+{
+"d": "2023-03-06",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Estrady 21",
+"dz": "146504_8 1204 12",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/4677/23"
+}
+},
+{
+"d": "2023-03-03",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Hieroglif 7",
+"dz": "146504_8 1007 55",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/4663/23"
+}
+},
+{
+"d": "2023-03-03",
+"c": {
+"inw": "przebudowa i rozbudowa parkingu rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Warszawska Giełda Elektroniczna Z.Świątek, A.Świątek sp.j.",
+"nier": "Wólczyńska 300f",
+"dz": "146504_8 1203 6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/4669/23"
+}
+},
+{
+"d": "2023-03-03",
+"c": {
+"inw": "przebudowa i rozbudowa parkingu rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Warszawska Giełda Elektroniczna Z.Świątek, A.Świątek sp.j.",
+"nier": "Wólczyńska 300f",
+"dz": "146504_8 1203 7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/4669/23"
+}
+},
+{
+"d": "2023-03-02",
+"c": {
+"inw": "rozbiórka zabudowań gospodarczych rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Tytułowa 4",
+"dz": "146504_8 1113 16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/4516/23"
+}
+},
+{
+"d": "2023-03-02",
+"c": {
+"inw": "rozbiórka dwóch budynków rozbiórka istniejącego obiektu budowlanego",
+"wn": "Metropolitan Capital sp.zo.o. sp.k.",
+"nier": "Rokokowa 132",
+"dz": "146504_8 1112 11/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/56967/23"
+}
+},
+{
+"d": "2023-03-02",
+"c": {
+"inw": "rozbiórka dwóch budynków rozbiórka istniejącego obiektu budowlanego",
+"wn": "Metropolitan Capital sp.zo.o. sp.k.",
+"nier": "Rokokowa 132",
+"dz": "146504_8 1112 11/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/56967/23"
+}
+},
+{
+"d": "2023-03-02",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Tytułowa 4",
+"dz": "146504_8 1113 16",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/4517/23"
+}
+},
+{
+"d": "2023-02-28",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu dźwigowego oraz dźwigu do korzystania z windy z poziomu terenu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Bogusławskiego 6 / Wojciecha",
+"dz": "146504_8 0809 200",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/4289/2023"
+}
+},
+{
+"d": "2023-02-28",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu dźwigowego oraz dźwigu do korzystania z windy z poziomu terenu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Bogusławskiego 6 / Wojciecha",
+"dz": "146504_8 0809 157/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/4289/2023"
+}
+},
+{
+"d": "2023-02-28",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu dźwigowego oraz dźwigu do korzystania z windy z poziomu terenu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Renesansowa 25",
+"dz": "146504_8 0812 263",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/4295/2023"
+}
+},
+{
+"d": "2023-02-28",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu dźwigowego oraz dźwigu do korzystania z windy z poziomu terenu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Renesansowa 15",
+"dz": "146504_8 0812 247",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/4288/2023"
+}
+},
+{
+"d": "2023-02-28",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu dźwigowego oraz dźwigu do korzystania z windy z poziomu terenu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spóldzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Dąbrowskiej 11 / Marii",
+"dz": "146504_8 0816 101",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/4291/2023"
+}
+},
+{
+"d": "2023-02-28",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu dźwigowego oraz dźwigu do korzystania z windy z poziomu terenu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Renesansowa 27",
+"dz": "146504_8 0812 264",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/4302/2023"
+}
+},
+{
+"d": "2023-02-28",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu dźwigowego oraz dźwigu do korzystania z windy z poziomu terenu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spóldzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Renesansowa 27",
+"dz": "146504_8 0812 12",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/4300/23"
+}
+},
+{
+"d": "2023-02-28",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu dźwigowego oraz dźwigu do korzystania z windy z poziomu terenu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Dąbrowskiej 1 / Marii",
+"dz": "146504_8 0816 85",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/4294/23"
+}
+},
+{
+"d": "2023-02-28",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu dźwigowego oraz dźwigu do korzystania z windy z poziomu terenu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Bogusławskiego 8 / Wojciecha",
+"dz": "146504_8 0809 201",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/4301/23"
+}
+},
+{
+"d": "2023-02-28",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu dźwigowego oraz dźwigu do korzystania z windy z poziomu terenu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Osikowa 7",
+"dz": "146504_8 0814 386",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/4290/2023"
+}
+},
+{
+"d": "2023-02-28",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu dźwigowego oraz dźwigu do korzystania z windy z poziomu terenu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Bogusławskiego 20 / Wojciecha",
+"dz": "146504_8 0809 216",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/4299/23"
+}
+},
+{
+"d": "2023-02-28",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu dźwigowego oraz dźwigu do korzystania z windy z poziomu terenu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Bogusławskiego 20 / Wojciecha",
+"dz": "146504_8 0809 217",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/4299/23"
+}
+},
+{
+"d": "2023-02-28",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu dźwigowego oraz dźwigu do korzystania z windy z poziomu terenu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Bogusławskiego 20 / Wojciecha",
+"dz": "146504_8 0809 218",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/4299/23"
+}
+},
+{
+"d": "2023-02-28",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu dźwigowego oraz dźwigu do korzystania z windy z poziomu terenu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Renesansowa 17",
+"dz": "146504_8 0812 262",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/4298/23"
+}
+},
+{
+"d": "2023-02-28",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu dźwigowego oraz dźwigu do korzystania z windy z poziomu terenu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Brązownicza 7",
+"dz": "146504_8 0815 48/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/4292/2023"
+}
+},
+{
+"d": "2023-02-28",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu dźwigowego oraz dźwigu do korzystania z windy z poziomu terenu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Brązownicza 7",
+"dz": "146504_8 0815 47/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/4292/2023"
+}
+},
+{
+"d": "2023-02-28",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu dźwigowego oraz dźwigu do korzystania z windy z poziomu terenu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Brązownicza 7",
+"dz": "146504_8 0815 101",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/4292/2023"
+}
+},
+{
+"d": "2023-02-28",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu dźwigowego oraz dźwigu do korzystania z windy z poziomu terenu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Bogusławskiego 12a / Wojciecha",
+"dz": "146504_8 0809 56/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/4296/23"
+}
+},
+{
+"d": "2023-02-28",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu dźwigowego oraz dźwigu do korzystania z windy z poziomu terenu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Kluczowa 4",
+"dz": "146504_8 0814 388",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/4297/23"
+}
+},
+{
+"d": "2023-02-28",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu dźwigowego oraz dźwigu do korzystania z windy z poziomu terenu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Bogusławskiego 2 / Wojciecha",
+"dz": "146504_8 0809 207",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/4303/23"
+}
+},
+{
+"d": "2023-02-28",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu dźwigowego oraz dźwigu do korzystania z windy z poziomu terenu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Renesansowa 27",
+"dz": "146504_8 0812 264",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/4304/23"
+}
+},
+{
+"d": "2023-02-28",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu dźwigowego oraz dźwigu do korzystania z windy z poziomu terenu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Renesansowa 25",
+"dz": "146504_8 0812 263",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/4293/2023"
+}
+},
+{
+"d": "2023-02-28",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu dźwigowego oraz dźwigu do korzystania z windy z poziomu terenu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Renesansowa 27",
+"dz": "146504_8 0812 264",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/4287/2023"
+}
+},
+{
+"d": "2023-02-22",
+"c": {
+"inw": "budynek mieszkalny wielorodzinny z usługami w parterze, garażem podziemnym, infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Marvipol Conrada Sp. z o.o.",
+"nier": "Conrada / Josepha",
+"dz": "146504_8 0807 17/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "AM-AN.6740.5.2023.KKR"
+}
+},
+{
+"d": "2023-02-22",
+"c": {
+"inw": "budynek mieszkalny wielorodzinny z usługami w parterze, garażem podziemnym, infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Marvipol Conrada Sp. z o.o.",
+"nier": "Conrada / Josepha",
+"dz": "146504_8 0807 18/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "AM-AN.6740.5.2023.KKR"
+}
+},
+{
+"d": "2023-02-22",
+"c": {
+"inw": "budynek mieszkalny wielorodzinny z usługami w parterze, garażem podziemnym, infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Marvipol Conrada Sp. z o.o.",
+"nier": "Conrada / Josepha",
+"dz": "146504_8 0807 18/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "AM-AN.6740.5.2023.KKR"
+}
+},
+{
+"d": "2023-02-22",
+"c": {
+"inw": "budynek mieszkalny wielorodzinny z usługami w parterze, garażem podziemnym, infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Marvipol Conrada Sp. z o.o.",
+"nier": "Conrada / Josepha",
+"dz": "146504_8 0807 18/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "AM-AN.6740.5.2023.KKR"
+}
+},
+{
+"d": "2023-02-22",
+"c": {
+"inw": "budynek mieszkalny wielorodzinny z usługami w parterze, garażem podziemnym, infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Marvipol Conrada Sp. z o.o.",
+"nier": "Conrada / Josepha",
+"dz": "146504_8 0807 18/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "AM-AN.6740.5.2023.KKR"
+}
+},
+{
+"d": "2023-02-17",
+"c": {
+"inw": "budowa zespołu budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej wraz z miejscami postojowymi naziemnymi, zbiornikami retencyjnymi, stacją transformatorową, wewn infrastrukturą drogową oraz rozbiórka istniejących budynków budowa nowego/nowych obiektów budowlanych",
+"wn": "Metropolitan Capital sp.zo.o.",
+"nier": "Rokokowa",
+"dz": "146504_8 1112 11/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EPUAP/45300/23"
+}
+},
+{
+"d": "2023-02-10",
+"c": {
+"inw": "Budowa centrum edukacji ekologicznej, budowa wiaty wolnostojącej, miejsc parkingowych, struktury towarzyszącej budowa nowego/nowych obiektów budowlanych",
+"wn": "Lasy Miejskie Warszawa",
+"nier": "Papirusów 1/3",
+"dz": "146504_8 1007 8/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/3141/23"
+}
+},
+{
+"d": "2023-02-10",
+"c": {
+"inw": "przebudowa i rozbudowa zespołu budynków gospodarczo-magazynowych rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Estrady 86",
+"dz": "146504_8 1205 41/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/3095/23"
+}
+},
+{
+"d": "2023-02-10",
+"c": {
+"inw": "przebudowa i rozbudowa zespołu budynków gospodarczo-magazynowych rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Estrady 86",
+"dz": "146504_8 1205 34/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/3095/23"
+}
+},
+{
+"d": "2023-02-01",
+"c": {
+"inw": "budowa wolno stojącego budynku mieszkalnego jednorodzinnego dwulokalowego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Estrady",
+"dz": "146504_8 1202 49",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/2554/23"
+}
+},
+{
+"d": "2023-02-01",
+"c": {
+"inw": "budowa wolno stojącego budynku mieszkalnego jednorodzinnego dwulokalowego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Estrady",
+"dz": "146504_8 1202 48",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/2554/23"
+}
+},
+{
+"d": "2023-01-27",
+"c": {
+"inw": "budowa instalacji gazowej dla lokalu użytkowego w budynku mieszkalnym wielorodzinnym rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Kasprowicza 103a / Jana",
+"dz": "146504_8 0502 99",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/2191/23"
+}
+},
+{
+"d": "2023-01-27",
+"c": {
+"inw": "remont elewacji budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Zuga 2 / Bogumiła",
+"dz": "146504_8 0509 69",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/2161/23"
+}
+},
+{
+"d": "2023-01-23",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Wólczyńska 311",
+"dz": "146504_8 1205 5/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/1582/23"
+}
+},
+{
+"d": "2023-01-23",
+"c": {
+"inw": "budowa buynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Wólczyńska 311",
+"dz": "146504_8 1205 5/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/1584/23"
+}
+},
+{
+"d": "2023-01-20",
+"c": {
+"inw": "rozbudowa parafialnego budynku mieszkalnego z powierzchnią użyteczności publicznej - budowa windy zewnętrznej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Parafia Rzymsko-Katolicka Świętych Wyznawców:o. Rafała Kalinowskiegi i br. Alberta Chmielowskiego",
+"nier": "Gwiaździsta 17",
+"dz": "146504_8 0404 12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/1491/23"
+}
+},
+{
+"d": "2023-01-18",
+"c": {
+"inw": "budowa miejsc postojowych na terenie Warszawskiej Spółdzielni Mieszkaniowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa",
+"nier": "Andersena 4 / Hansa Christiana",
+"dz": "146504_8 0806 145",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/1269/23"
+}
+},
+{
+"d": "2023-01-09",
+"c": {
+"inw": "budowa instalacji fotowoltaicznej na dachu CRS budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa Centrum Rekreacyjno-Sportowe",
+"nier": "Conrada 6 / Josepha",
+"dz": "146504_8 0816 57",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/475/22"
+}
+},
+{
+"d": "2023-01-05",
+"c": {
+"inw": "rozbudowa budynku przemysłowego \"Centrum Danych\" wraz z częścią biurowo-usługową, zapleczem techniczno-usługowym, parkingami naziemnymi, drogami wewnętrznymi, fundamentami, płytą pod urządzenia technologoczne  i ogrodzeniem oraz budowa technologicznie powiązanych obiektów budowlanych takich jak:kontenerowe budynki rozdzielni technologicznych, kontenerowe budynku transformatorów technologicznych, systemowe kontenery zawierające urządzenia w postaci generatora prądu wraz ze zintegrowanym zbiornikiem na olej o pojemności powyżej 3m3 rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "VDC WAW11sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 42d",
+"dz": "146504_8 1103 20/55",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/339/23"
+}
+}
+]
+},
+{
+"id": "dec_pnb",
+"name": "Decyzje o pozwoleniu na budowę",
+"short": "Decyzje PnB",
+"desc": "Decyzje o pozwoleniu na budowę wydane przez organ architektoniczno-budowlany dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer decyzji",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2023-12-28",
+"c": {
+"inw": "termomodernizacja budynków UKSW wraz z przebudową budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Dewajtis 5",
+"dz": "146504_8 0904 5/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "208/2023"
+}
+},
+{
+"d": "2023-12-20",
+"c": {
+"inw": "projekt budowlany zamienny budowy domu jednorodzinnego w zabudowie szeregowej z wewnętrzną instalacją gazową oraz rozbiórką istniejącego budynku mieszkalnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Berenta 34 / Stefana",
+"dz": "146504_8 0409 259",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "207/2023"
+}
+},
+{
+"d": "2023-12-08",
+"c": {
+"inw": "modernizacja komory ciepłowniczej H12/P2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Cegłowska",
+"dz": "146504_8 0501 18/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "206/2023"
+}
+},
+{
+"d": "2023-12-08",
+"c": {
+"inw": "budowa instalacji fotowoltaicznej o mocy do 400kW na zadaszeniu parkingu hipermarketu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Makro Cash and Carry Polska S.A.",
+"nier": "Kolumbijska",
+"dz": "146504_8 1008 67/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "205/2023"
+}
+},
+{
+"d": "2023-12-08",
+"c": {
+"inw": "budowa instalacji fotowoltaicznej o mocy do 400kW na zadaszeniu parkingu hipermarketu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Makro Cash and Carry Polska S.A.",
+"nier": "Kolumbijska",
+"dz": "146504_8 1008 68",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "205/2023"
+}
+},
+{
+"d": "2023-12-08",
+"c": {
+"inw": "budowa instalacji fotowoltaicznej o mocy do 400kW na zadaszeniu parkingu hipermarketu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Makro Cash and Carry Polska S.A.",
+"nier": "Kolumbijska",
+"dz": "146504_8 1008 69/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "205/2023"
+}
+},
+{
+"d": "2023-12-08",
+"c": {
+"inw": "budowa instalacji fotowoltaicznej o mocy do 400kW na zadaszeniu parkingu hipermarketu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Makro Cash and Carry Polska S.A.",
+"nier": "Kolumbijska",
+"dz": "146504_8 1008 76/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "205/2023"
+}
+},
+{
+"d": "2023-12-08",
+"c": {
+"inw": "budowa instalacji fotowoltaicznej o mocy do 400kW na zadaszeniu parkingu hipermarketu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Makro Cash and Carry Polska S.A.",
+"nier": "Kolumbijska",
+"dz": "146504_8 1008 77/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "205/2023"
+}
+},
+{
+"d": "2023-12-08",
+"c": {
+"inw": "budowa instalacji fotowoltaicznej o mocy do 400kW na zadaszeniu parkingu hipermarketu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Makro Cash and Carry Polska S.A.",
+"nier": "Kolumbijska",
+"dz": "146504_8 1008 80/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "205/2023"
+}
+},
+{
+"d": "2023-12-08",
+"c": {
+"inw": "budowa instalacji fotowoltaicznej o mocy do 400kW na zadaszeniu parkingu hipermarketu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Makro Cash and Carry Polska S.A.",
+"nier": "Kolumbijska",
+"dz": "146504_8 1008 81/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "205/2023"
+}
+},
+{
+"d": "2023-12-08",
+"c": {
+"inw": "budowa instalacji fotowoltaicznej o mocy do 400kW na zadaszeniu parkingu hipermarketu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Makro Cash and Carry Polska S.A.",
+"nier": "Kolumbijska",
+"dz": "146504_8 1008 87/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "205/2023"
+}
+},
+{
+"d": "2023-12-08",
+"c": {
+"inw": "budowa instalacji fotowoltaicznej o mocy do 400kW na zadaszeniu parkingu hipermarketu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Makro Cash and Carry Polska S.A.",
+"nier": "Kolumbijska",
+"dz": "146504_8 1008 88/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "205/2023"
+}
+},
+{
+"d": "2023-12-08",
+"c": {
+"inw": "budowa instalacji fotowoltaicznej o mocy do 400kW na zadaszeniu parkingu hipermarketu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Makro Cash and Carry Polska S.A.",
+"nier": "Kolumbijska",
+"dz": "146504_8 1008 88/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "205/2023"
+}
+},
+{
+"d": "2023-12-08",
+"c": {
+"inw": "budowa instalacji fotowoltaicznej o mocy do 400kW na zadaszeniu parkingu hipermarketu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Makro Cash and Carry Polska S.A.",
+"nier": "Kolumbijska",
+"dz": "146504_8 1008 88/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "205/2023"
+}
+},
+{
+"d": "2023-12-08",
+"c": {
+"inw": "budowa instalacji fotowoltaicznej o mocy do 400kW na zadaszeniu parkingu hipermarketu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Makro Cash and Carry Polska S.A.",
+"nier": "Kolumbijska",
+"dz": "146504_8 1008 90",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "205/2023"
+}
+},
+{
+"d": "2023-12-08",
+"c": {
+"inw": "budowa instalacji fotowoltaicznej o mocy do 400kW na zadaszeniu parkingu hipermarketu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Makro Cash and Carry Polska S.A.",
+"nier": "Kolumbijska",
+"dz": "146504_8 1008 99",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "205/2023"
+}
+},
+{
+"d": "2023-12-08",
+"c": {
+"inw": "budowa instalacji fotowoltaicznej o mocy do 400kW na zadaszeniu parkingu hipermarketu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Makro Cash and Carry Polska S.A.",
+"nier": "Kolumbijska",
+"dz": "146504_8 1008 101",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "205/2023"
+}
+},
+{
+"d": "2023-12-08",
+"c": {
+"inw": "budowa instalacji fotowoltaicznej o mocy do 400kW na zadaszeniu parkingu hipermarketu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Makro Cash and Carry Polska S.A.",
+"nier": "Kolumbijska",
+"dz": "146504_8 1008 113/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "205/2023"
+}
+},
+{
+"d": "2023-12-08",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolno stojącego wraz ze zbiornikiem bezodpływowym na nieczystości ciekłe budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Arkuszowa 152",
+"dz": "146504_8 1207 22/7",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "204/2023"
+}
+},
+{
+"d": "2023-12-08",
+"c": {
+"inw": "wykonanie otworu w ścianie nośnej żelbetowej w lokalu mieszkalnym w budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Balzaka 2 / Honoriusza",
+"dz": "146504_8 0802 74",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "203/2023"
+}
+},
+{
+"d": "2023-12-06",
+"c": {
+"inw": "remont fragmentu uszkodzonego stropu nad piwnicą w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości",
+"nier": "Schroegera 87 / Efraima",
+"dz": "146504_8 0506 30",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "202/2023"
+}
+},
+{
+"d": "2023-12-04",
+"c": {
+"inw": "budowa zespołu budynków mieszkalnych jednorodzinnych, drogi wewnętrznej oraz naziemnych miejsc postojowych budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Prozy",
+"dz": "146504_8 1007 155/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "199/2023"
+}
+},
+{
+"d": "2023-12-01",
+"c": {
+"inw": "rozbudowa i przebudowa budynku mieszkalnegi jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Płatnicza 89/91",
+"dz": "146504_8 0503 50",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "197/2023"
+}
+},
+{
+"d": "2023-11-30",
+"c": {
+"inw": "budowa sieci elektroenergetycznej średniego i niskiego napięcia wraz z czterema stacjami transformatorowymi i złączami kablowymi budowa nowego/nowych obiektów budowlanych",
+"wn": "Akademia Wychowania Fizycznego",
+"nier": "Marymoncka 34",
+"dz": "146504_8 0909 3/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "195/2023"
+}
+},
+{
+"d": "2023-11-20",
+"c": {
+"inw": "Przebudowa ściany zewnętrznej w budynku mieszkalnym wielorodzinnym w obrębie trzech lokali mieszkalnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Michaliny 10",
+"dz": "146504_8 1004 64",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "192/2023"
+}
+},
+{
+"d": "2023-11-17",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "K 43 sp.zo.o.",
+"nier": "Aleja Słowiańska 16",
+"dz": "146504_8 0407 62/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "190/2023"
+}
+},
+{
+"d": "2023-11-17",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "K 43 sp.zo.o.",
+"nier": "Aleja Słowiańska 16",
+"dz": "146504_8 0407 47/8",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "190/2023"
+}
+},
+{
+"d": "2023-11-17",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "K 43 sp.zo.o.",
+"nier": "Aleja Słowiańska 16",
+"dz": "146504_8 0407 47/10",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "190/2023"
+}
+},
+{
+"d": "2023-11-03",
+"c": {
+"inw": "wykonanie otworu w ścianie konstrukcyjnej w lokalu mieszkalnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Broniewskiego 99 / Władysława",
+"dz": "146504_8 0601 7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "182/2023"
+}
+},
+{
+"d": "2023-11-03",
+"c": {
+"inw": "przebudowa lokalu mieszkalnego w budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Szegedyńska 8",
+"dz": "146504_8 0703 88",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "183/2023"
+}
+},
+{
+"d": "2023-11-03",
+"c": {
+"inw": "zamienny projekt budowlany budowy kolektora Wiślanego Etap III wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji",
+"nier": "Farysa",
+"dz": "146504_8 0901 2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "184/2023"
+}
+},
+{
+"d": "2023-11-03",
+"c": {
+"inw": "zamienny projekt budowlany budowy kolektora Wiślanego Etap III wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji",
+"nier": "Farysa",
+"dz": "146504_8 0902 4/15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "184/2023"
+}
+},
+{
+"d": "2023-11-03",
+"c": {
+"inw": "zamienny projekt budowlany budowy kolektora Wiślanego Etap III wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji",
+"nier": "Farysa",
+"dz": "146504_8 0902 4/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "184/2023"
+}
+},
+{
+"d": "2023-11-03",
+"c": {
+"inw": "zamienny projekt budowlany budowy kolektora Wiślanego Etap III wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji",
+"nier": "Farysa",
+"dz": "146504_8 0902 3/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "184/2023"
+}
+},
+{
+"d": "2023-11-03",
+"c": {
+"inw": "zamienny projekt budowlany budowy kolektora Wiślanego Etap III wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji",
+"nier": "Farysa",
+"dz": "146504_8 0902 3/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "184/2023"
+}
+},
+{
+"d": "2023-10-30",
+"c": {
+"inw": "Budowa zaplecza szatnioweo-sanitarnego do obsługi obiektów sportowo-rekreacyjnych na terenie m.st. Warszawy budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa, Stołeczny Zarząd Rozbudowy Miasta",
+"nier": "Rudzka 6",
+"dz": "146504_8 0404 2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "174/2023"
+}
+},
+{
+"d": "2023-10-30",
+"c": {
+"inw": "budowa wewn i zewn, instalacji gazowej dla budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Odysei 9",
+"dz": "146504_8 1007 73/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "179/2023"
+}
+},
+{
+"d": "2023-10-30",
+"c": {
+"inw": "remont, przebudowa przegród zewnętrznych rozbudowa piwnicy, nadbudowa strychy zmiana sposobu użytkowania dachu na tarasa użykowy, budowa tarasu ogrodowego w budynku mieszkalnym jednorodzinnym oraz odtorzenie garażu wolno stojącegto wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Barcicka 8",
+"dz": "146504_8 0508 85",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "177/2023"
+}
+},
+{
+"d": "2023-10-30",
+"c": {
+"inw": "budowa instalacji gazowej na zewnątrz i wewnątrz budynku mieszkalnego jednorodzinnego trzylokalowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Pasterska 19",
+"dz": "146504_8 1001 87/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "175/2023"
+}
+},
+{
+"d": "2023-10-30",
+"c": {
+"inw": "budowa instalacji gazowej dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Ptasi Raj",
+"dz": "146504_8 1001 182",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "178/2023"
+}
+},
+{
+"d": "2023-10-30",
+"c": {
+"inw": "budowa czternastu instalacji gazowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "YUIN Management sp.zo.o.",
+"nier": "Rokokowa 138",
+"dz": "146504_8 1112 5/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "176/2023"
+}
+},
+{
+"d": "2023-10-30",
+"c": {
+"inw": "budowa czternastu instalacji gazowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "YUIN Management sp.zo.o.",
+"nier": "Rokokowa 138",
+"dz": "146504_8 1112 6/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "176/2023"
+}
+},
+{
+"d": "2023-10-30",
+"c": {
+"inw": "budowa czternastu instalacji gazowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "YUIN Management sp.zo.o.",
+"nier": "Rokokowa 138",
+"dz": "146504_8 1112 7/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "176/2023"
+}
+},
+{
+"d": "2023-10-30",
+"c": {
+"inw": "budowa instalacji gazowej dla budynku produkcyjnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Wólczyńska 234",
+"dz": "146504_8 1106 53",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "180/2023"
+}
+},
+{
+"d": "2023-10-30",
+"c": {
+"inw": "budowa instalacji gazowej dla budynku produkcyjnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Wólczyńska 234",
+"dz": "146504_8 1106 54",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "180/2023"
+}
+},
+{
+"d": "2023-10-26",
+"c": {
+"inw": "przebudowa i rozbudowa parkingu rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Warszawska Giełda Elektroniczna Z.Świątek, A.Świątek sp.j.",
+"nier": "Wólczyńska 300f",
+"dz": "146504_8 1203 6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "171/2023"
+}
+},
+{
+"d": "2023-10-26",
+"c": {
+"inw": "przebudowa i rozbudowa parkingu rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Warszawska Giełda Elektroniczna Z.Świątek, A.Świątek sp.j.",
+"nier": "Wólczyńska 300f",
+"dz": "146504_8 1203 7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "171/2023"
+}
+},
+{
+"d": "2023-10-18",
+"c": {
+"inw": "wydzielenie przestrzeni na odpady stałe dla pawilonu usługowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa",
+"nier": "Zbigniewa Romaszewskiego 23",
+"dz": "146504_8 0513 33/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "169/2023"
+}
+},
+{
+"d": "2023-10-18",
+"c": {
+"inw": "wykonanie otworów w stropie ostatniej kondygnacji w ramach wykonania instalacji oddymiania klatki schodowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"Piaski C\"",
+"nier": "Kochanowskiego 32 / Jana",
+"dz": "146504_8 0601 28/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "168/2023"
+}
+},
+{
+"d": "2023-10-17",
+"c": {
+"inw": "wykonanie otworu w ścianie nośnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Petöfiego 1 / Sándora",
+"dz": "146504_8 0805 170/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "167/2023"
+}
+},
+{
+"d": "2023-10-12",
+"c": {
+"inw": "Budowa budynku mieszkalnego jednorodzinnego wolno stojącego wraz z niezbędną infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Prozy",
+"dz": "146504_8 1007 154/16",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "165/2023"
+}
+},
+{
+"d": "2023-10-10",
+"c": {
+"inw": "budowa wewnętrznej instalacji gazowej w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Karol Tański Tańscy",
+"nier": "Kolumbijska",
+"dz": "146504_8 1008 37",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "162/2023"
+}
+},
+{
+"d": "2023-10-10",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Fortowa",
+"dz": "146504_8 0812 113",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "163/2023"
+}
+},
+{
+"d": "2023-10-06",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Brązownicza",
+"dz": "146504_8 0810 112",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "159/2023"
+}
+},
+{
+"d": "2023-10-06",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Brązownicza",
+"dz": "146504_8 0810 114",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "159/2023"
+}
+},
+{
+"d": "2023-10-06",
+"c": {
+"inw": "przebudowa i nadbudowa części poddasza nieużytkowego na funkcję użytkową za zmianą sposobu użytkowania wraz z połączeniem go z lokalrm mieszkalnym nr 3 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Łomiańska 13",
+"dz": "146504_8 0409 78",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "161/2023"
+}
+},
+{
+"d": "2023-10-06",
+"c": {
+"inw": "przebudowa i nadbudowa części poddasza nieużytkowego na funkcję użytkową za zmianą sposobu użytkowania wraz z połączeniem go z lokalrm mieszkalnym nr 3 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Łomiańska 13",
+"dz": "146504_8 0409 84/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "161/2023"
+}
+},
+{
+"d": "2023-10-06",
+"c": {
+"inw": "przebudowa i nadbudowa części poddasza nieużytkowego na funkcję użytkową za zmianą sposobu użytkowania wraz z połączeniem go z lokalrm mieszkalnym nr 3 w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Łomiańska 13",
+"dz": "146504_8 0409 287/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "161/2023"
+}
+},
+{
+"d": "2023-10-06",
+"c": {
+"inw": "budowa zespołu budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej wraz z miejscami postojowymi naziemnymi, zbiornikami retencyjnymi, stacją transformatorową, wewn infrastrukturą drogową oraz rozbiórka istniejących budynków budowa nowego/nowych obiektów budowlanych",
+"wn": "Metropolitan Capital sp.zo.o.",
+"nier": "Rokokowa",
+"dz": "146504_8 1112 11/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "160/2023"
+}
+},
+{
+"d": "2023-09-29",
+"c": {
+"inw": "budowa instalacji gazowej dla projektowanego budynku mieszkalnego jednorodzinnego, dwulokalowego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Kolumbijska",
+"dz": "146504_8 1008 38",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "154/2023"
+}
+},
+{
+"d": "2023-09-29",
+"c": {
+"inw": "rozbiórka dawnych obiektów przedsiębiorstwa projektowania i wyposażenia obiektów przemysłowych PROZEMAK oraz instalacji terenowych wewnętrznych\" rozbiórka istniejącego obiektu budowlanego",
+"wn": "Matexi Polska sp.zo.o.",
+"nier": "Improwizacji 5",
+"dz": "146504_8 1103 3/109",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "155/2023"
+}
+},
+{
+"d": "2023-09-29",
+"c": {
+"inw": "rozbiórka dawnych obiektów przedsiębiorstwa projektowania i wyposażenia obiektów przemysłowych PROZEMAK oraz instalacji terenowych wewnętrznych\" rozbiórka istniejącego obiektu budowlanego",
+"wn": "Matexi Polska sp.zo.o.",
+"nier": "Improwizacji 5",
+"dz": "146504_8 1103 3/110",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "155/2023"
+}
+},
+{
+"d": "2023-09-28",
+"c": {
+"inw": "budowa sieci elektroenergetycznych w postaci podziemnych linii kablowych 11okV wraz z kanalizacją teletechniczną dla kabli światłowodowych oraz demontaż fundamentów, zbiornika przeciwpożarowego i instalacji zewnętrznych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "VDC WAW11 sp.zo.o.",
+"nier": "Kasprowicza / Jana",
+"dz": "146504_8 1103 20/56",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "153/2023"
+}
+},
+{
+"d": "2023-09-27",
+"c": {
+"inw": "projekt przebudowy dwóch lokali usługowych na jeden lokal usługowy z antresolą wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "INDEPENDENT DIGITAL Sp. z o.o.",
+"nier": "Aleja Słowiańska 25",
+"dz": "146504_8 0413 105",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "151/2023"
+}
+},
+{
+"d": "2023-09-22",
+"c": {
+"inw": "Rozbiórka budynku mieszkalnego jednokondygnacyjnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "MASZEWSKA INVESTMENTS Sp. z o.o.",
+"nier": "Księżycowa 76D",
+"dz": "146504_8 1214 187/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "150/2023"
+}
+},
+{
+"d": "2023-09-18",
+"c": {
+"inw": "Rozbiórka budynku jednorodzinnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Pułkowa 33",
+"dz": "146504_8 1005 85",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "145/2023"
+}
+},
+{
+"d": "2023-09-18",
+"c": {
+"inw": "Rozbiórka budynku mieszkalnego jednorodzinnego wraz z elementami infrastruktury rozbiórka istniejącego obiektu budowlanego",
+"wn": "RP3 Sp. z o.o.",
+"nier": "Estrady 25",
+"dz": "146504_8 1202 45",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "146/2023"
+}
+},
+{
+"d": "2023-08-30",
+"c": {
+"inw": "przebudowa kablowych linii elektroenergetycznych średniego napięcia wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Stoen Operator sp.zo.o.",
+"nier": "Wybrzeże Gdyńskie",
+"dz": "146504_8 0902 4/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "138/2023"
+}
+},
+{
+"d": "2023-08-30",
+"c": {
+"inw": "przebudowa kablowych linii elektroenergetycznych średniego napięcia wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Stoen Operator sp.zo.o.",
+"nier": "Wybrzeże Gdyńskie",
+"dz": "146504_8 0902 4/15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "138/2023"
+}
+},
+{
+"d": "2023-08-21",
+"c": {
+"inw": "Rozbudowa z przebudową istniejącego sklepu LIDL o pomieszczenie skupu butelek rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "LIDL Sp. z o.o. Sp. k.",
+"nier": "Conrada 1 / Josepha",
+"dz": "146504_8 0815 91/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "130/2023"
+}
+},
+{
+"d": "2023-08-16",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 95",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "126/2023"
+}
+},
+{
+"d": "2023-08-16",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 94",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "126/2023"
+}
+},
+{
+"d": "2023-08-16",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 93",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "126/2023"
+}
+},
+{
+"d": "2023-08-16",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 80",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "126/2023"
+}
+},
+{
+"d": "2023-08-16",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 81",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "126/2023"
+}
+},
+{
+"d": "2023-08-16",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 82",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "126/2023"
+}
+},
+{
+"d": "2023-08-16",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 83",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "126/2023"
+}
+},
+{
+"d": "2023-08-16",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 84",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "126/2023"
+}
+},
+{
+"d": "2023-08-16",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 87",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "126/2023"
+}
+},
+{
+"d": "2023-08-16",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 77",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "126/2023"
+}
+},
+{
+"d": "2023-08-16",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 78",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "126/2023"
+}
+},
+{
+"d": "2023-08-16",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 200",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "126/2023"
+}
+},
+{
+"d": "2023-08-16",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 97",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "126/2023"
+}
+},
+{
+"d": "2023-08-16",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 96/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "126/2023"
+}
+},
+{
+"d": "2023-08-16",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 99/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "126/2023"
+}
+},
+{
+"d": "2023-08-16",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 122/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "126/2023"
+}
+},
+{
+"d": "2023-08-16",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 120",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "126/2023"
+}
+},
+{
+"d": "2023-08-16",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 118",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "126/2023"
+}
+},
+{
+"d": "2023-08-16",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 116",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "126/2023"
+}
+},
+{
+"d": "2023-08-16",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 115",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "126/2023"
+}
+},
+{
+"d": "2023-08-16",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 89",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "126/2023"
+}
+},
+{
+"d": "2023-08-16",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 91",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "126/2023"
+}
+},
+{
+"d": "2023-08-16",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 102/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "126/2023"
+}
+},
+{
+"d": "2023-08-16",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 103",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "126/2023"
+}
+},
+{
+"d": "2023-08-16",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 104",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "126/2023"
+}
+},
+{
+"d": "2023-08-16",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 107",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "126/2023"
+}
+},
+{
+"d": "2023-08-16",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 201/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "126/2023"
+}
+},
+{
+"d": "2023-08-16",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 201/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "126/2023"
+}
+},
+{
+"d": "2023-08-16",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 109",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "126/2023"
+}
+},
+{
+"d": "2023-08-16",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 111",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "126/2023"
+}
+},
+{
+"d": "2023-08-16",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 129",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "126/2023"
+}
+},
+{
+"d": "2023-08-16",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 131",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "126/2023"
+}
+},
+{
+"d": "2023-08-16",
+"c": {
+"inw": "budowa instalacji  pionowych wymiwnników ciepła na terenie kampusu UKSW budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 132",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "126/2023"
+}
+},
+{
+"d": "2023-08-16",
+"c": {
+"inw": "przebicie otworu w ścianie konstrukcyjnej lokalu mieszkalnego e budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Szegedyńska 12",
+"dz": "146504_8 0703 72",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "127/2023"
+}
+},
+{
+"d": "2023-08-11",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Hieroglif 7",
+"dz": "146504_8 1007 55",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "122/2023"
+}
+},
+{
+"d": "2023-08-11",
+"c": {
+"inw": "Budowa małej instalacji odnawialnego źródła energii o łącznej mocy znamionowej czynnej 250 Kw budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa, Zarząd Cmentarzy Komunalnych",
+"nier": "Wóycickiego 14 / Kazimierza",
+"dz": "146504_8 1307 169",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "123/2023"
+}
+},
+{
+"d": "2023-08-11",
+"c": {
+"inw": "Budowa małej instalacji odnawialnego źródła energii o łącznej mocy znamionowej czynnej 250 Kw budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa, Zarząd Cmentarzy Komunalnych",
+"nier": "Wóycickiego 14 / Kazimierza",
+"dz": "146504_8 1307 168",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "123/2023"
+}
+},
+{
+"d": "2023-08-11",
+"c": {
+"inw": "Budowa małej instalacji odnawialnego źródła energii o łącznej mocy znamionowej czynnej 250 Kw budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa, Zarząd Cmentarzy Komunalnych",
+"nier": "Wóycickiego 14 / Kazimierza",
+"dz": "146504_8 1307 166",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "123/2023"
+}
+},
+{
+"d": "2023-08-11",
+"c": {
+"inw": "Budowa małej instalacji odnawialnego źródła energii o łącznej mocy znamionowej czynnej 250 Kw budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa, Zarząd Cmentarzy Komunalnych",
+"nier": "Wóycickiego 14 / Kazimierza",
+"dz": "146504_8 1307 164",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "123/2023"
+}
+},
+{
+"d": "2023-08-11",
+"c": {
+"inw": "Budowa małej instalacji odnawialnego źródła energii o łącznej mocy znamionowej czynnej 250 Kw budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa, Zarząd Cmentarzy Komunalnych",
+"nier": "Wóycickiego 14 / Kazimierza",
+"dz": "146504_8 1307 161",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "123/2023"
+}
+},
+{
+"d": "2023-08-11",
+"c": {
+"inw": "Budowa małej instalacji odnawialnego źródła energii o łącznej mocy znamionowej czynnej 250 Kw budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa, Zarząd Cmentarzy Komunalnych",
+"nier": "Wóycickiego 14 / Kazimierza",
+"dz": "146504_8 1307 160",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "123/2023"
+}
+},
+{
+"d": "2023-08-11",
+"c": {
+"inw": "Budowa małej instalacji odnawialnego źródła energii o łącznej mocy znamionowej czynnej 250 Kw budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa, Zarząd Cmentarzy Komunalnych",
+"nier": "Wóycickiego 14 / Kazimierza",
+"dz": "146504_8 1307 158",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "123/2023"
+}
+},
+{
+"d": "2023-08-11",
+"c": {
+"inw": "montaż altany śmietnikowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa Osiedle Piaski",
+"nier": "Broniewskiego 83 / Władysława",
+"dz": "146504_8 0602 2/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "124/2023"
+}
+},
+{
+"d": "2023-08-09",
+"c": {
+"inw": "przebudowa źródeł ciepła wraz z wewnętrzną instalacją gazu w budynku nr 5 na terenie kampusu UKSW wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 91",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "121/2023"
+}
+},
+{
+"d": "2023-08-09",
+"c": {
+"inw": "przebudowa źródeł ciepła wraz z wewnętrzną instalacją gazu w budynku nr 5 na terenie kampusu UKSW wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 104",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "121/2023"
+}
+},
+{
+"d": "2023-08-09",
+"c": {
+"inw": "przebudowa źródeł ciepła wraz z wewnętrzną instalacją gazu w budynku nr 5 na terenie kampusu UKSW wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 107",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "121/2023"
+}
+},
+{
+"d": "2023-08-09",
+"c": {
+"inw": "przebudowa źródeł ciepła wraz z wewnętrzną instalacją gazu w budynku nr 5 na terenie kampusu UKSW wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 201/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "121/2023"
+}
+},
+{
+"d": "2023-08-08",
+"c": {
+"inw": "przebudowa źródła ciepła wraz z wewnętrzną instalacją gazu, budowa instalacji fotowoltaicznej, w budynku nr 23 na terenie kampusu UKSW wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 78",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "119/2023"
+}
+},
+{
+"d": "2023-08-08",
+"c": {
+"inw": "przebudowa źródła ciepła wraz z wewnętrzną instalacją gazu, budowa instalacji fotowoltaicznej, w budynku nr 23 na terenie kampusu UKSW wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 77",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "119/2023"
+}
+},
+{
+"d": "2023-08-08",
+"c": {
+"inw": "przebudowa źródła ciepła wraz z wewnętrzną instalacją gazu, budowa instalacji fotowoltaicznej, w budynku nr 23 na terenie kampusu UKSW wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 97",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "119/2023"
+}
+},
+{
+"d": "2023-08-08",
+"c": {
+"inw": "przebudowa źródła ciepła wraz z wewnętrzną instalacją gazu, budowa instalacji fotowoltaicznej, w budynku nr 23 na terenie kampusu UKSW wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 200",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "119/2023"
+}
+},
+{
+"d": "2023-08-08",
+"c": {
+"inw": "przebudowa źródła ciepła wraz z wewnętrzną instalacją gazu, budowa instalcji fotowoltaicznej, przebudowa wewnętrznej instalacji wodociągowej w budynku nr 21 na terenie kampusu UKSW wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 80",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "120/2023"
+}
+},
+{
+"d": "2023-08-08",
+"c": {
+"inw": "przebudowa źródła ciepła wraz z wewnętrzną instalacją gazu, budowa instalcji fotowoltaicznej, przebudowa wewnętrznej instalacji wodociągowej w budynku nr 21 na terenie kampusu UKSW wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 81",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "120/2023"
+}
+},
+{
+"d": "2023-08-08",
+"c": {
+"inw": "przebudowa źródła ciepła wraz z wewnętrzną instalacją gazu, budowa instalcji fotowoltaicznej, przebudowa wewnętrznej instalacji wodociągowej w budynku nr 21 na terenie kampusu UKSW wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 82",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "120/2023"
+}
+},
+{
+"d": "2023-08-08",
+"c": {
+"inw": "przebudowa źródła ciepła wraz z wewnętrzną instalacją gazu, budowa instalcji fotowoltaicznej, przebudowa wewnętrznej instalacji wodociągowej w budynku nr 21 na terenie kampusu UKSW wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 83",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "120/2023"
+}
+},
+{
+"d": "2023-08-08",
+"c": {
+"inw": "przebudowa źródła ciepła wraz z wewnętrzną instalacją gazu, budowa instalcji fotowoltaicznej, przebudowa wewnętrznej instalacji wodociągowej w budynku nr 21 na terenie kampusu UKSW wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 200",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "120/2023"
+}
+},
+{
+"d": "2023-08-07",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego , jednokondygnacyjnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Maszewska Investments sp.zo.o.",
+"nier": "Księżycowa 76g",
+"dz": "146504_8 1214 182",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "117/2023"
+}
+},
+{
+"d": "2023-08-07",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego , jednokondygnacyjnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Maszewska Investments sp.zo.o.",
+"nier": "Księżycowa 76g",
+"dz": "146504_8 1214 183/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "117/2023"
+}
+},
+{
+"d": "2023-08-07",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego , jednokondygnacyjnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Maszewska Investments sp.zo.o.",
+"nier": "Księżycowa 76g",
+"dz": "146504_8 1214 184/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "117/2023"
+}
+},
+{
+"d": "2023-08-03",
+"c": {
+"inw": "budowa dwukondygnacyjnego budynku strzelnicy sportowej z funkcją biurowo-usługową oraz naziemnych miejsc postojowych budowa nowego/nowych obiektów budowlanych",
+"wn": "Związkowy Klub Strzelecki",
+"nier": "Marymoncka 42",
+"dz": "146504_8 0901 14/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "116/2023"
+}
+},
+{
+"d": "2023-08-03",
+"c": {
+"inw": "budowa dwukondygnacyjnego budynku strzelnicy sportowej z funkcją biurowo-usługową oraz naziemnych miejsc postojowych budowa nowego/nowych obiektów budowlanych",
+"wn": "Związkowy Klub Strzelecki",
+"nier": "Marymoncka 42",
+"dz": "146504_8 0901 14/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "116/2023"
+}
+},
+{
+"d": "2023-07-24",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wraz z urządzeniami budowlanymi budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Estrady",
+"dz": "146504_8 1204 23/8",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "114/2023"
+}
+},
+{
+"d": "2023-07-21",
+"c": {
+"inw": "projekt budowlany zamienny odtworzenie istniejącego pawilonu zapleczowego wraz ze zmianą sposobu użytkowania wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Lipińska 4",
+"dz": "146504_8 0503 148",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "112/2023"
+}
+},
+{
+"d": "2023-07-21",
+"c": {
+"inw": "projekt budowlany zamienny odtworzenie istniejącego pawilonu zapleczowego wraz ze zmianą sposobu użytkowania wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Lipińska 4",
+"dz": "146504_8 0503 114",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "112/2023"
+}
+},
+{
+"d": "2023-07-20",
+"c": {
+"inw": "budowa czterech sztuk instalacji gazowych dla czterech budynków mieszkalnych jednorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "NC Investment sp.zo.o. sp.k.",
+"nier": "Tułowicka",
+"dz": "146504_8 1001 148/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "111/2023"
+}
+},
+{
+"d": "2023-07-17",
+"c": {
+"inw": "przebudowa, rozbudowa i termomodernizacja budynku mieszkalnego jednorodzinnego w zabudowie szeregowej wraz z instalacją gazową rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Daniłowskiego 35 / Gustawa",
+"dz": "146504_8 0507 60",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "107/2023"
+}
+},
+{
+"d": "2023-07-10",
+"c": {
+"inw": "doposażenie budynku mieszkalnego w wewnętrzny dźwig osobowy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"Domhut\"",
+"nier": "Perzyńskiego 11 / Włodzimierza",
+"dz": "146504_8 0512 97",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "104/2023"
+}
+},
+{
+"d": "2023-07-07",
+"c": {
+"inw": "usunięcie zawalonej części budynku i rozbiórka pozostałych elementów rozbiórka istniejącego obiektu budowlanego",
+"wn": "Miasto Stołeczne Warszawa",
+"nier": "60",
+"dz": "146504_8 0408 65",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "102/2023"
+}
+},
+{
+"d": "2023-06-30",
+"c": {
+"inw": "budowa kontenerowego zaplecza serwisowego: biura i magazynu kontenerowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Hyundai Rotem Company SA",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "98/2023"
+}
+},
+{
+"d": "2023-06-30",
+"c": {
+"inw": "budowa instalacji gazowej do budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Żubrowa 13",
+"dz": "146504_8 1001 67/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "95/2023"
+}
+},
+{
+"d": "2023-06-28",
+"c": {
+"inw": "przebudowa pomieszczenia kantorka mistrzów3 i stolarni w budynku hali warsztatowej (łącznika) na terenie Zakładu Realizacji Przewozów \"Żoliborz\" wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "94/2023"
+}
+},
+{
+"d": "2023-06-26",
+"c": {
+"inw": "przebudowa mieszkania w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Alighieri 1B / Dantego",
+"dz": "146504_8 0803 94/43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "93/2023"
+}
+},
+{
+"d": "2023-06-23",
+"c": {
+"inw": "przebudowa budynku mieszkalnego w zabudowie jednorodzinnej poprzez zabudowę loggii wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Staffa 59 / Leopolda",
+"dz": "146504_8 0513 36",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "92/2023"
+}
+},
+{
+"d": "2023-06-19",
+"c": {
+"inw": "budowa kablowej sieci elektroenergetycznej WV 110kV z kablową siecią teletechniczną relacji GPZ Mościska-RPZ Kaliszówka budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator sp.zo.o.",
+"nier": "Wólczyńska",
+"dz": "146504_8 1110 105",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "90/2023"
+}
+},
+{
+"d": "2023-06-19",
+"c": {
+"inw": "budowa kablowej sieci elektroenergetycznej WV 110kV z kablową siecią teletechniczną relacji GPZ Mościska-RPZ Kaliszówka budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator sp.zo.o.",
+"nier": "Wólczyńska",
+"dz": "146504_8 1103 20/56",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "90/2023"
+}
+},
+{
+"d": "2023-06-19",
+"c": {
+"inw": "budowa kablowej sieci elektroenergetycznej WV 110kV z kablową siecią teletechniczną relacji GPZ Mościska-RPZ Kaliszówka budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator sp.zo.o.",
+"nier": "Wólczyńska",
+"dz": "146504_8 1103 20/50",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "90/2023"
+}
+},
+{
+"d": "2023-06-19",
+"c": {
+"inw": "budowa kablowej sieci elektroenergetycznej WV 110kV z kablową siecią teletechniczną relacji GPZ Mościska-RPZ Kaliszówka budowa nowego/nowych obiektów budowlanych",
+"wn": "Stoen Operator sp.zo.o.",
+"nier": "Wólczyńska",
+"dz": "146504_8 1111 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "90/2023"
+}
+},
+{
+"d": "2023-06-16",
+"c": {
+"inw": "budynek mieszkalny wielorodzinny z usługami w parterze, garażem podziemnym, infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Marvipol Conrada Sp. z o.o.",
+"nier": "Conrada / Josepha",
+"dz": "146504_8 0807 17/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "89/2023"
+}
+},
+{
+"d": "2023-06-16",
+"c": {
+"inw": "budynek mieszkalny wielorodzinny z usługami w parterze, garażem podziemnym, infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Marvipol Conrada Sp. z o.o.",
+"nier": "Conrada / Josepha",
+"dz": "146504_8 0807 18/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "89/2023"
+}
+},
+{
+"d": "2023-06-16",
+"c": {
+"inw": "budynek mieszkalny wielorodzinny z usługami w parterze, garażem podziemnym, infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Marvipol Conrada Sp. z o.o.",
+"nier": "Conrada / Josepha",
+"dz": "146504_8 0807 18/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "89/2023"
+}
+},
+{
+"d": "2023-06-16",
+"c": {
+"inw": "budynek mieszkalny wielorodzinny z usługami w parterze, garażem podziemnym, infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Marvipol Conrada Sp. z o.o.",
+"nier": "Conrada / Josepha",
+"dz": "146504_8 0807 18/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "89/2023"
+}
+},
+{
+"d": "2023-06-16",
+"c": {
+"inw": "budynek mieszkalny wielorodzinny z usługami w parterze, garażem podziemnym, infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Marvipol Conrada Sp. z o.o.",
+"nier": "Conrada / Josepha",
+"dz": "146504_8 0807 18/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "89/2023"
+}
+},
+{
+"d": "2023-06-16",
+"c": {
+"inw": "rozbiórka części budynku administracyjno-biurowego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Marvipol Conrada sp.zo.o.",
+"nier": "Conrada / Josepha",
+"dz": "146504_8 0807 18/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "88/2023"
+}
+},
+{
+"d": "2023-06-16",
+"c": {
+"inw": "rozbiórka części budynku administracyjno-biurowego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Marvipol Conrada sp.zo.o.",
+"nier": "Conrada / Josepha",
+"dz": "146504_8 0807 18/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "88/2023"
+}
+},
+{
+"d": "2023-06-16",
+"c": {
+"inw": "rozbiórka części budynku administracyjno-biurowego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Marvipol Conrada sp.zo.o.",
+"nier": "Conrada / Josepha",
+"dz": "146504_8 0807 18/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "88/2023"
+}
+},
+{
+"d": "2023-06-13",
+"c": {
+"inw": "Budowa dwóch budynków jednorodzinnych w zabudowie bliźniaczej wraz z zagospodarowaniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Akcent 13A",
+"dz": "146504_8 1204 65/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "87/2023"
+}
+},
+{
+"d": "2023-06-13",
+"c": {
+"inw": "przebudowa mieszkania poprzez wykucie otworu w ścianie wewnętrznej oraz usunięcie ścianek działowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "12",
+"dz": "146504_8 0809 206",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "85/2023"
+}
+},
+{
+"d": "2023-06-13",
+"c": {
+"inw": "przebudowa mieszkania poprzez wykucie otworu w ścianie wewnętrznej oraz usunięcie ścianek działowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "12",
+"dz": "146504_8 0809 123/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "85/2023"
+}
+},
+{
+"d": "2023-06-13",
+"c": {
+"inw": "przebudowa poprzez wykucie otworu w ścianie wewnętrznej oraz usunięcie ścianek działowych w mieszkaniu w budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Bogusławskiego 20 / Wojciecha",
+"dz": "146504_8 0809 216",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "85/2023"
+}
+},
+{
+"d": "2023-06-13",
+"c": {
+"inw": "przebudowa poprzez wykucie otworu w ścianie wewnętrznej oraz usunięcie ścianek działowych w mieszkaniu w budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Bogusławskiego 20 / Wojciecha",
+"dz": "146504_8 0809 217",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "85/2023"
+}
+},
+{
+"d": "2023-06-13",
+"c": {
+"inw": "przebudowa poprzez wykucie otworu w ścianie wewnętrznej oraz usunięcie ścianek działowych w mieszkaniu w budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Bogusławskiego 20 / Wojciecha",
+"dz": "146504_8 0809 218",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "85/2023"
+}
+},
+{
+"d": "2023-06-12",
+"c": {
+"inw": "budowa budynku stacji elektroenergetycznej 110kV wraz z kanalizacją teletechniczną dla kabli światłowodowych budowa nowego/nowych obiektów budowlanych",
+"wn": "VDC WAW11 sp.zo.o.",
+"nier": "Kasprowicza / Jana",
+"dz": "146504_8 1103 20/54",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "85/2023"
+}
+},
+{
+"d": "2023-05-31",
+"c": {
+"inw": "rozbiórka stalowej konstrukcji wsporczej na terenia zakładu realizacji przewozów Żoliborz rozbiórka istniejącego obiektu budowlanego",
+"wn": "Tramwaje Warszawskie sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "82/2023"
+}
+},
+{
+"d": "2023-05-26",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Żółwia 7",
+"dz": "146504_8 0814 323",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "81/2023"
+}
+},
+{
+"d": "2023-05-26",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Żółwia 7",
+"dz": "146504_8 0814 322",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "81/2023"
+}
+},
+{
+"d": "2023-05-25",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego z częścią usługową w parterze wraz z infrastrukturą towarzyszącą budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Estrady",
+"dz": "146504_8 1204 11/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "79/2023"
+}
+},
+{
+"d": "2023-05-22",
+"c": {
+"inw": "docieplenie elewacji oraz dachu budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości",
+"nier": "Skalbmierska 11",
+"dz": "146504_8 0502 5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "77/2023"
+}
+},
+{
+"d": "2023-05-22",
+"c": {
+"inw": "docieplenie elewacji oraz dachu budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości",
+"nier": "Skalbmierska 11",
+"dz": "146504_8 0502 9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "77/2023"
+}
+},
+{
+"d": "2023-05-19",
+"c": {
+"inw": "budowa wolno stojącego budynku mieszkalnego jednorodzinnego dwulokalowego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Estrady",
+"dz": "146504_8 1202 49",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "76/2023"
+}
+},
+{
+"d": "2023-05-19",
+"c": {
+"inw": "budowa wolno stojącego budynku mieszkalnego jednorodzinnego dwulokalowego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Estrady",
+"dz": "146504_8 1202 48",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "76/2023"
+}
+},
+{
+"d": "2023-05-10",
+"c": {
+"inw": "przebudowa poprzez wykucie otworu w ścianie wewnętrznej w mieszkaniu w budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Renesansowa 17",
+"dz": "146504_8 0812 262",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "74/2023"
+}
+},
+{
+"d": "2023-05-09",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych jednorodzinnych dwulokalowych w zabudowie bliźniaczej wraz z elementami zagospodarowania terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Kolektorska 25",
+"dz": "146504_8 0407 56/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "73/2023"
+}
+},
+{
+"d": "2023-05-09",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych jednorodzinnych dwulokalowych w zabudowie bliźniaczej wraz z elementami zagospodarowania terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Kolektorska 25",
+"dz": "146504_8 0407 55",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "73/2023"
+}
+},
+{
+"d": "2023-05-04",
+"c": {
+"inw": "budowa miejsc postojowych na terenie Warszawskiej Spółdzielni Mieszkaniowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa",
+"nier": "Andersena 4 / Hansa Christiana",
+"dz": "146504_8 0806 145",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "72/2023"
+}
+},
+{
+"d": "2023-04-28",
+"c": {
+"inw": "remont elewacji budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Zuga 2 / Bogumiła",
+"dz": "146504_8 0509 69",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "70/2023"
+}
+},
+{
+"d": "2023-04-28",
+"c": {
+"inw": "budowa carportów oraz instalacja paneli fotowoltaicznych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Beta sp.zo.o.",
+"nier": "Gwiaździsta 19",
+"dz": "146504_8 0404 4/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "69/2023"
+}
+},
+{
+"d": "2023-04-18",
+"c": {
+"inw": "przebudowa i rozbudowa zespołu budynków gospodarczo-magazynowych rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Estrady 86",
+"dz": "146504_8 1205 41/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "67/2023"
+}
+},
+{
+"d": "2023-04-18",
+"c": {
+"inw": "przebudowa i rozbudowa zespołu budynków gospodarczo-magazynowych rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Estrady 86",
+"dz": "146504_8 1205 34/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "67/2023"
+}
+},
+{
+"d": "2023-04-17",
+"c": {
+"inw": "rozbudowa parafialnego budynku mieszkalnego z powierzchnią użyteczności publicznej - budowa windy zewnętrznej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Parafia Rzymsko-Katolicka Świętych Wyznawców:o. Rafała Kalinowskiegi i br. Alberta Chmielowskiego",
+"nier": "Gwiaździsta 17",
+"dz": "146504_8 0404 12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "65/2023"
+}
+},
+{
+"d": "2023-04-11",
+"c": {
+"inw": "rozbiórka zabudowań gospodarczych rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Tytułowa 4",
+"dz": "146504_8 1113 16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "63/2023"
+}
+},
+{
+"d": "2023-04-11",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Tytułowa 4",
+"dz": "146504_8 1113 16",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "62/2023"
+}
+},
+{
+"d": "2023-04-11",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Estrady 21",
+"dz": "146504_8 1204 12",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "60/2023"
+}
+},
+{
+"d": "2023-04-05",
+"c": {
+"inw": "rozbiórka dwóch budynków rozbiórka istniejącego obiektu budowlanego",
+"wn": "Metropolitan Capital sp.zo.o. sp.k.",
+"nier": "Rokokowa 132",
+"dz": "146504_8 1112 11/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "59/2023"
+}
+},
+{
+"d": "2023-04-05",
+"c": {
+"inw": "rozbiórka dwóch budynków rozbiórka istniejącego obiektu budowlanego",
+"wn": "Metropolitan Capital sp.zo.o. sp.k.",
+"nier": "Rokokowa 132",
+"dz": "146504_8 1112 11/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "59/2023"
+}
+},
+{
+"d": "2023-03-31",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Hieroglif 7",
+"dz": "146504_8 1007 55",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "56/2023"
+}
+},
+{
+"d": "2023-03-24",
+"c": {
+"inw": "Budowa centrum edukacji ekologicznej, budowa wiaty wolnostojącej, miejsc parkingowych, struktury towarzyszącej budowa nowego/nowych obiektów budowlanych",
+"wn": "Lasy Miejskie Warszawa",
+"nier": "Papirusów 1/3",
+"dz": "146504_8 1007 8/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "53/2023"
+}
+},
+{
+"d": "2023-03-17",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu dźwigowego oraz dźwigu do korzystania z windy z poziomu terenu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Bogusławskiego 6 / Wojciecha",
+"dz": "146504_8 0809 200",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "48/2023"
+}
+},
+{
+"d": "2023-03-17",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu dźwigowego oraz dźwigu do korzystania z windy z poziomu terenu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Bogusławskiego 6 / Wojciecha",
+"dz": "146504_8 0809 157/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "48/2023"
+}
+},
+{
+"d": "2023-03-17",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu dźwigowego oraz dźwigu do korzystania z windy z poziomu terenu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Renesansowa 25",
+"dz": "146504_8 0812 263",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "49/2023"
+}
+},
+{
+"d": "2023-03-17",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu dźwigowego oraz dźwigu do korzystania z windy z poziomu terenu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Renesansowa 15",
+"dz": "146504_8 0812 247",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/2023"
+}
+},
+{
+"d": "2023-03-17",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu dźwigowego oraz dźwigu do korzystania z windy z poziomu terenu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spóldzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Dąbrowskiej 11 / Marii",
+"dz": "146504_8 0816 101",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "42/2023"
+}
+},
+{
+"d": "2023-03-17",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu dźwigowego oraz dźwigu do korzystania z windy z poziomu terenu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Renesansowa 27",
+"dz": "146504_8 0812 264",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "33/2023"
+}
+},
+{
+"d": "2023-03-17",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu dźwigowego oraz dźwigu do korzystania z windy z poziomu terenu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spóldzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Renesansowa 27",
+"dz": "146504_8 0812 12",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "35/2023"
+}
+},
+{
+"d": "2023-03-17",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu dźwigowego oraz dźwigu do korzystania z windy z poziomu terenu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Dąbrowskiej 1 / Marii",
+"dz": "146504_8 0816 85",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "43/2023"
+}
+},
+{
+"d": "2023-03-17",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu dźwigowego oraz dźwigu do korzystania z windy z poziomu terenu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Bogusławskiego 8 / Wojciecha",
+"dz": "146504_8 0809 201",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "47/2023"
+}
+},
+{
+"d": "2023-03-17",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu dźwigowego oraz dźwigu do korzystania z windy z poziomu terenu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Osikowa 7",
+"dz": "146504_8 0814 386",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/2023"
+}
+},
+{
+"d": "2023-03-17",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu dźwigowego oraz dźwigu do korzystania z windy z poziomu terenu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Bogusławskiego 20 / Wojciecha",
+"dz": "146504_8 0809 216",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "45/2023"
+}
+},
+{
+"d": "2023-03-17",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu dźwigowego oraz dźwigu do korzystania z windy z poziomu terenu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Bogusławskiego 20 / Wojciecha",
+"dz": "146504_8 0809 217",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "45/2023"
+}
+},
+{
+"d": "2023-03-17",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu dźwigowego oraz dźwigu do korzystania z windy z poziomu terenu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Bogusławskiego 20 / Wojciecha",
+"dz": "146504_8 0809 218",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "45/2023"
+}
+},
+{
+"d": "2023-03-17",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu dźwigowego oraz dźwigu do korzystania z windy z poziomu terenu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Renesansowa 17",
+"dz": "146504_8 0812 262",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "38/2023"
+}
+},
+{
+"d": "2023-03-17",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu dźwigowego oraz dźwigu do korzystania z windy z poziomu terenu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Brązownicza 7",
+"dz": "146504_8 0815 48/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "44/2023"
+}
+},
+{
+"d": "2023-03-17",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu dźwigowego oraz dźwigu do korzystania z windy z poziomu terenu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Brązownicza 7",
+"dz": "146504_8 0815 47/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "44/2023"
+}
+},
+{
+"d": "2023-03-17",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu dźwigowego oraz dźwigu do korzystania z windy z poziomu terenu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Brązownicza 7",
+"dz": "146504_8 0815 101",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "44/2023"
+}
+},
+{
+"d": "2023-03-17",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu dźwigowego oraz dźwigu do korzystania z windy z poziomu terenu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Bogusławskiego 12a / Wojciecha",
+"dz": "146504_8 0809 56/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "46/2023"
+}
+},
+{
+"d": "2023-03-17",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu dźwigowego oraz dźwigu do korzystania z windy z poziomu terenu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Kluczowa 4",
+"dz": "146504_8 0814 388",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/2023"
+}
+},
+{
+"d": "2023-03-17",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu dźwigowego oraz dźwigu do korzystania z windy z poziomu terenu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Bogusławskiego 2 / Wojciecha",
+"dz": "146504_8 0809 207",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "37/2023"
+}
+},
+{
+"d": "2023-03-17",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu dźwigowego oraz dźwigu do korzystania z windy z poziomu terenu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Renesansowa 27",
+"dz": "146504_8 0812 264",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "34/2023"
+}
+},
+{
+"d": "2023-03-17",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu dźwigowego oraz dźwigu do korzystania z windy z poziomu terenu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Renesansowa 25",
+"dz": "146504_8 0812 263",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "36/2023"
+}
+},
+{
+"d": "2023-03-17",
+"c": {
+"inw": "przebudowa części budynku mieszkalnego wielorodzinnego polegającej na dostosowaniu pomieszczenia komory śmieciowej, szybu dźwigowego oraz dźwigu do korzystania z windy z poziomu terenu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Renesansowa 27",
+"dz": "146504_8 0812 264",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "32/2023"
+}
+},
+{
+"d": "2023-03-15",
+"c": {
+"inw": "budowa instalacji gazowej dla lokalu użytkowego w budynku mieszkalnym wielorodzinnym rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Kasprowicza 103a / Jana",
+"dz": "146504_8 0502 99",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "30/2023"
+}
+},
+{
+"d": "2023-03-02",
+"c": {
+"inw": "rozbiórka garażu jednostanowiskowego z budową nowego garażu jednostanoiskowego przybudowanego do budynku mieszkalnego jednorodzinnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Krotoszyńska 13",
+"dz": "146504_8 0509 62",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "42/2023"
+}
+},
+{
+"d": "2023-02-27",
+"c": {
+"inw": "przebudowa stacji transformatorowej typu PZO/15kV wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Szpital Bielański im. Ks. Jerzego Popiełuszki",
+"nier": "Cegłowska 70",
+"dz": "146504_8 0501 18/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "24/2023"
+}
+},
+{
+"d": "2023-02-24",
+"c": {
+"inw": "rozbudowa budynku przemysłowego \"Centrum Danych\" wraz z częścią biurowo-usługową, zapleczem techniczno-usługowym, parkingami naziemnymi, drogami wewnętrznymi, fundamentami, płytą pod urządzenia technologoczne  i ogrodzeniem oraz budowa technologicznie powiązanych obiektów budowlanych takich jak:kontenerowe budynki rozdzielni technologicznych, kontenerowe budynku transformatorów technologicznych, systemowe kontenery zawierające urządzenia w postaci generatora prądu wraz ze zintegrowanym zbiornikiem na olej o pojemności powyżej 3m3 rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "VDC WAW11sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 42d",
+"dz": "146504_8 1103 20/55",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "23/2023"
+}
+},
+{
+"d": "2023-02-22",
+"c": {
+"inw": "budowa budynku stacji elektroenergetycznej 110/20kV wraz z infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "VDC WAW 11 sp.zo.o.",
+"nier": "Kasprowicza / Jana",
+"dz": "146504_8 1103 20/54",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "20/2023"
+}
+},
+{
+"d": "2023-02-17",
+"c": {
+"inw": "rozbudowa, przebudowa i nadbudowa budynku garażowego i budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Żubrowa 2b",
+"dz": "146504_8 1002 167/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "18/2023"
+}
+},
+{
+"d": "2023-02-17",
+"c": {
+"inw": "rozbudowa, przebudowa i nadbudowa budynku garażowego i budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Żubrowa 2b",
+"dz": "146504_8 1002 230",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "18/2023"
+}
+},
+{
+"d": "2023-02-17",
+"c": {
+"inw": "rozbudowa, przebudowa i nadbudowa budynku garażowego i budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Żubrowa 2b",
+"dz": "146504_8 1002 195/5",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "18/2023"
+}
+},
+{
+"d": "2023-02-17",
+"c": {
+"inw": "rozbiórka czterech budynków:przemysłowego, mieszkalnego, garażowego i innego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Felicity Green Stage sp.zo.o.",
+"nier": "Estrady 37a",
+"dz": "146504_8 1202 22/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "19/2023"
+}
+},
+{
+"d": "2023-02-17",
+"c": {
+"inw": "rozbiórka czterech budynków:przemysłowego, mieszkalnego, garażowego i innego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Felicity Green Stage sp.zo.o.",
+"nier": "Estrady 37a",
+"dz": "146504_8 1202 22/10",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "19/2023"
+}
+},
+{
+"d": "2023-02-17",
+"c": {
+"inw": "rozbiórka czterech budynków:przemysłowego, mieszkalnego, garażowego i innego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Felicity Green Stage sp.zo.o.",
+"nier": "Estrady 37a",
+"dz": "146504_8 1202 24",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "19/2023"
+}
+},
+{
+"d": "2023-02-14",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Wólczyńska 311",
+"dz": "146504_8 1205 5/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "15/2023"
+}
+},
+{
+"d": "2023-02-14",
+"c": {
+"inw": "przebudowa części pomieszczeń i przegrody zewnętrznej w budynku Centrum Zaopatrzenia Hurtowego Makro wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Makro Cash and Carry Polska S.A.",
+"nier": "Kolumbijska 1",
+"dz": "146504_8 1008 68",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "14/2023"
+}
+},
+{
+"d": "2023-02-14",
+"c": {
+"inw": "przebudowa części pomieszczeń i przegrody zewnętrznej w budynku Centrum Zaopatrzenia Hurtowego Makro wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Makro Cash and Carry Polska S.A.",
+"nier": "Kolumbijska 1",
+"dz": "146504_8 1008 77/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "14/2023"
+}
+},
+{
+"d": "2023-02-08",
+"c": {
+"inw": "budowa instalacji fotowoltaicznej na dachu CRS Bielany budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa Centrum Rekreacyjno-Sportowe",
+"nier": "Lindego 20 / Samuela Bogumiła",
+"dz": "146504_8 0703 94/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "12/2023"
+}
+},
+{
+"d": "2023-02-08",
+"c": {
+"inw": "budowa instalacji fotowoltaicznej na dachu CRS budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa Centrum Rekreacyjno-Sportowe",
+"nier": "Conrada 6 / Josepha",
+"dz": "146504_8 0816 57",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "13/2023"
+}
+},
+{
+"d": "2023-02-06",
+"c": {
+"inw": "punkt selektywnej zbiórki odpadów(PSZOK) na terenie Zakładu Zagospodarowania Odpadów budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Oczyszczania w m.st Warszawie sp.zo.o.",
+"nier": "Kampinoska 1",
+"dz": "146504_8 1212 3/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "11/2023"
+}
+},
+{
+"d": "2023-02-06",
+"c": {
+"inw": "punkt selektywnej zbiórki odpadów(PSZOK) na terenie Zakładu Zagospodarowania Odpadów budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Oczyszczania w m.st Warszawie sp.zo.o.",
+"nier": "Kampinoska 1",
+"dz": "146504_8 1212 3/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "11/2023"
+}
+},
+{
+"d": "2023-01-24",
+"c": {
+"inw": "rozbiórka istniejących budynków handlowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "ZUC Invest so.zo.o.",
+"nier": "Kasprowicza 16,18 / Jana",
+"dz": "146504_8 0509 120/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "7/2023"
+}
+},
+{
+"d": "2023-01-24",
+"c": {
+"inw": "rozbiórka istniejących budynków handlowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "ZUC Invest so.zo.o.",
+"nier": "Kasprowicza 16,18 / Jana",
+"dz": "146504_8 0509 151/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "7/2023"
+}
+},
+{
+"d": "2023-01-24",
+"c": {
+"inw": "rozbiórka istniejących budynków handlowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "ZUC Invest so.zo.o.",
+"nier": "Kasprowicza 16,18 / Jana",
+"dz": "146504_8 0509 157/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "7/2023"
+}
+},
+{
+"d": "2023-01-24",
+"c": {
+"inw": "rozbiórka istniejących budynków handlowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "ZUC Invest so.zo.o.",
+"nier": "Kasprowicza 16,18 / Jana",
+"dz": "146504_8 0509 157/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "7/2023"
+}
+},
+{
+"d": "2023-01-24",
+"c": {
+"inw": "rozbiórka istniejących budynków handlowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "ZUC Invest so.zo.o.",
+"nier": "Kasprowicza 16,18 / Jana",
+"dz": "146504_8 0509 157/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "7/2023"
+}
+},
+{
+"d": "2023-01-19",
+"c": {
+"inw": "przebudowa budynku mieszkalnego wielorodzinnego w zakresie wykonania otworu i nadproża w ścianie nośnej lokalu mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Jarzębskiego 1 / Adama",
+"dz": "146504_8 0511 180/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "4/2023"
+}
+},
+{
+"d": "2023-01-17",
+"c": {
+"inw": "rozbiórka budynku -pawilonu handlowo-usługowego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Uniwesytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 102/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "3/2023"
+}
+},
+{
+"d": "2023-01-17",
+"c": {
+"inw": "rozbiórka budynku -pawilonu handlowo-usługowego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Uniwesytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 102/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "3/2023"
+}
+},
+{
+"d": "2023-01-17",
+"c": {
+"inw": "rozbiórka budynku -pawilonu handlowo-usługowego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Uniwesytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 101",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "3/2023"
+}
+},
+{
+"d": "2023-01-17",
+"c": {
+"inw": "rozbiórka budynku -pawilonu handlowo-usługowego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Uniwesytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 100",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "3/2023"
+}
+},
+{
+"d": "2023-01-17",
+"c": {
+"inw": "rozbiórka budynku -pawilonu handlowo-usługowego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Uniwesytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 99/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "3/2023"
+}
+},
+{
+"d": "2023-01-17",
+"c": {
+"inw": "rozbiórka budynku -pawilonu handlowo-usługowego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Uniwesytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 96/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "3/2023"
+}
+},
+{
+"d": "2023-01-17",
+"c": {
+"inw": "rozbiórka budynku -pawilonu handlowo-usługowego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Uniwesytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 95",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "3/2023"
+}
+},
+{
+"d": "2023-01-17",
+"c": {
+"inw": "rozbiórka budynku -pawilonu handlowo-usługowego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Uniwesytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 94",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "3/2023"
+}
+},
+{
+"d": "2023-01-17",
+"c": {
+"inw": "rozbiórka budynku -pawilonu handlowo-usługowego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Uniwesytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 93",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "3/2023"
+}
+},
+{
+"d": "2023-01-10",
+"c": {
+"inw": "rozbudowa instalacji gazowej wewnętrznej do budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Estrady 124",
+"dz": "146504_8 1203 35/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "2/2023"
+}
+}
+]
+}
+]
+}

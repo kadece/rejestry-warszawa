@@ -1,0 +1,6296 @@
+{
+"district": "bielany",
+"year": 2017,
+"generated": "2026-11-24T21:21:03+01:00",
+"total": 564,
+"registers": [
+{
+"id": "wn_pnb",
+"name": "Wnioski o pozwolenie na budowę",
+"short": "Wnioski PnB",
+"desc": "Wnioski o pozwolenie na budowę złożone do organu architektoniczno-budowlanego dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer wniosku",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2017-12-29",
+"c": {
+"inw": "ROZBUDOWA PARKINGU rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Warszawska SPółdzielnia Mieszkaniowa",
+"nier": "Czechowa / Antoniego",
+"dz": "146504_8 0805 149/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/25028/17"
+}
+},
+{
+"d": "2017-12-29",
+"c": {
+"inw": "zmiana sposobu użytkowania i przebudowa części strychu na lokal mieszkalny wraz z właczeniem do lokalu mieszklanego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Kasprowicza 60 / Jana",
+"dz": "146504_8 0501 14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/25038/17"
+}
+},
+{
+"d": "2017-12-28",
+"c": {
+"inw": "wyniesienie głównego kurka gazowego na zewnątrz budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości",
+"nier": "Kasprowicza 53 / Jana",
+"dz": "146504_8 0503 110",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/24768/17"
+}
+},
+{
+"d": "2017-12-28",
+"c": {
+"inw": "wyniesienie głównego kurka gazowego na zewnątrz budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości",
+"nier": "Kasprowicza 53 / Jana",
+"dz": "146504_8 0503 122/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/24768/17"
+}
+},
+{
+"d": "2017-12-22",
+"c": {
+"inw": "przebudowa ze zmianą sposobu użytkowania pomieszczeń parteru budynku mieszkalno usługowego budowa nowego/nowych obiektów budowlanych",
+"wn": "Zakład Gospodarowania Nieruchomościami dla Dzielnicy Bielany",
+"nier": "Rudzka 12/14",
+"dz": "146504_8 0409 251/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/24656/17"
+}
+},
+{
+"d": "2017-12-19",
+"c": {
+"inw": "adaptacja części strychu na lokale mieszkalne w wielorodzinnym budynku mieszkalnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Marymoncka 57",
+"dz": "146504_8 0509 8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/24411/17"
+}
+},
+{
+"d": "2017-12-19",
+"c": {
+"inw": "wymiana instalacji gazu w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości",
+"nier": "Schroegera 76 / Efraima",
+"dz": "146504_8 0503 39",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/24413/17"
+}
+},
+{
+"d": "2017-12-11",
+"c": {
+"inw": "budowa budynku użteczności publicznej oraz zmiana projektu zagospodarowania terenu zespołu budynków mieszkalnych jednorodzinnych w zabudowie szeregowej z wbudowanymi garażami budowa nowego/nowych obiektów budowlanych",
+"wn": "Spółdzielnia Mieszkaniowo-Budowlana \"Maki\"",
+"nier": "Arkuszowa",
+"dz": "146504_8 1210 27",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/23836/17"
+}
+},
+{
+"d": "2017-12-11",
+"c": {
+"inw": "budowa budynku użteczności publicznej oraz zmiana projektu zagospodarowania terenu zespołu budynków mieszkalnych jednorodzinnych w zabudowie szeregowej z wbudowanymi garażami budowa nowego/nowych obiektów budowlanych",
+"wn": "Spółdzielnia Mieszkaniowo-Budowlana \"Maki\"",
+"nier": "Arkuszowa",
+"dz": "146504_8 1210 28",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/23836/17"
+}
+},
+{
+"d": "2017-12-11",
+"c": {
+"inw": "budowa budynku użteczności publicznej oraz zmiana projektu zagospodarowania terenu zespołu budynków mieszkalnych jednorodzinnych w zabudowie szeregowej z wbudowanymi garażami budowa nowego/nowych obiektów budowlanych",
+"wn": "Spółdzielnia Mieszkaniowo-Budowlana \"Maki\"",
+"nier": "Arkuszowa",
+"dz": "146504_8 1210 26",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/23836/17"
+}
+},
+{
+"d": "2017-12-11",
+"c": {
+"inw": "budowa budynku użteczności publicznej oraz zmiana projektu zagospodarowania terenu zespołu budynków mieszkalnych jednorodzinnych w zabudowie szeregowej z wbudowanymi garażami budowa nowego/nowych obiektów budowlanych",
+"wn": "Spółdzielnia Mieszkaniowo-Budowlana \"Maki\"",
+"nier": "Arkuszowa",
+"dz": "146504_8 1210 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/23836/17"
+}
+},
+{
+"d": "2017-12-11",
+"c": {
+"inw": "budowa budynku użteczności publicznej oraz zmiana projektu zagospodarowania terenu zespołu budynków mieszkalnych jednorodzinnych w zabudowie szeregowej z wbudowanymi garażami budowa nowego/nowych obiektów budowlanych",
+"wn": "Spółdzielnia Mieszkaniowo-Budowlana \"Maki\"",
+"nier": "Arkuszowa",
+"dz": "146504_8 1208 127/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/23836/17"
+}
+},
+{
+"d": "2017-12-05",
+"c": {
+"inw": "przebudowa wraz ze zmianą sposobu użytkowania suszarni i części korytarza na lokal mieszkalny w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Wrzeciono 51a",
+"dz": "146504_8 0701 72",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/23397/17"
+}
+},
+{
+"d": "2017-12-05",
+"c": {
+"inw": "modernizacja pomieszczenia po byłym węźle grupowym C.O. na salę konferencyjną i pomieszczenia biurowe wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa - Warszawskie Centrum Pomocy Rodzinie",
+"nier": "Lipińska 2",
+"dz": "146504_8 0503 116",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/23188/17"
+}
+},
+{
+"d": "2017-12-01",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wraz z wentylacją mechaniczną oraz instalacją gazu budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Ptasi Raj",
+"dz": "146504_8 1001 178",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/22690/17"
+}
+},
+{
+"d": "2017-12-01",
+"c": {
+"inw": "budowa gazociągu ś/c DN 40 w celu podłączenia budynkó mieszkalnych do sieci gazowej budowa nowego/nowych obiektów budowlanych",
+"wn": "PSG Sp.zo.o.",
+"nier": "Rokokowa",
+"dz": "146504_8 1112 11/6",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/22773/17"
+}
+},
+{
+"d": "2017-11-30",
+"c": {
+"inw": "budowa instalacji gazowych dla zespołu budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Rokokowa 130",
+"dz": "146504_8 1112 11/6",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/22682/17"
+}
+},
+{
+"d": "2017-11-29",
+"c": {
+"inw": "przebudowa instalacji gazowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto st. Warszawa Dzielnica Bielany",
+"nier": "Samogłoska 9",
+"dz": "146504_8 1002 144",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "AM/138/2017"
+}
+},
+{
+"d": "2017-11-29",
+"c": {
+"inw": "przebudowa instalacji gazowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto st. Warszawa Dzielnica Bielany",
+"nier": "Samogłoska 9",
+"dz": "146504_8 1002 145",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "AM/138/2017"
+}
+},
+{
+"d": "2017-11-29",
+"c": {
+"inw": "przebudowa instalacji gazowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto st. Warszawa Dzielnica Bielany",
+"nier": "Samogłoska 9",
+"dz": "146504_8 1002 146/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "AM/138/2017"
+}
+},
+{
+"d": "2017-11-29",
+"c": {
+"inw": "przebudowa instalacji gazowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto st. Warszawa Dzielnica Bielany",
+"nier": "Samogłoska 9",
+"dz": "146504_8 1002 146/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "AM/138/2017"
+}
+},
+{
+"d": "2017-11-29",
+"c": {
+"inw": "przebudowa instalacji gazowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto st. Warszawa Dzielnica Bielany",
+"nier": "Samogłoska 9",
+"dz": "146504_8 1002 147",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "AM/138/2017"
+}
+},
+{
+"d": "2017-11-29",
+"c": {
+"inw": "przebudowa instalacji gazowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto st. Warszawa Dzielnica Bielany",
+"nier": "Samogłoska 9",
+"dz": "146504_8 1002 161",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "AM/138/2017"
+}
+},
+{
+"d": "2017-11-29",
+"c": {
+"inw": "przebudowa instalacji gazowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto st. Warszawa Dzielnica Bielany",
+"nier": "Samogłoska 9",
+"dz": "146504_8 1002 162",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "AM/138/2017"
+}
+},
+{
+"d": "2017-11-29",
+"c": {
+"inw": "przebudowa instalacji gazowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto st. Warszawa Dzielnica Bielany",
+"nier": "Samogłoska 9",
+"dz": "146504_8 1002 163",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "AM/138/2017"
+}
+},
+{
+"d": "2017-11-29",
+"c": {
+"inw": "budowa stacji paliw płynnych iLPG a myjnią samochodową ręczną i automatyczną oraz infrastrukturą towarzyszącą budowa nowego/nowych obiektów budowlanych",
+"wn": "BP Europa SE",
+"nier": "Arkuszowa",
+"dz": "146504_8 1111 51",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/22525/17"
+}
+},
+{
+"d": "2017-11-29",
+"c": {
+"inw": "budowa stacji paliw płynnych iLPG a myjnią samochodową ręczną i automatyczną oraz infrastrukturą towarzyszącą budowa nowego/nowych obiektów budowlanych",
+"wn": "BP Europa SE",
+"nier": "Arkuszowa",
+"dz": "146504_8 1111 52",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/22525/17"
+}
+},
+{
+"d": "2017-11-29",
+"c": {
+"inw": "budowa stacji bazowej telefonii cyfrowej T-Mobile S.A. budowa nowego/nowych obiektów budowlanych",
+"wn": "T-Mobile S.A.",
+"nier": "Kochanowskiego 40 / Jana",
+"dz": "146504_8 0601 24",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/22539/17"
+}
+},
+{
+"d": "2017-11-27",
+"c": {
+"inw": "budowa sieci gazowej i gazociągu średniego ciśnienia oraz przyłącza gazu do budynku mieszkalnego budowa nowego/nowych obiektów budowlanych",
+"wn": "PSG Sp.zo.o.",
+"nier": "Kolektorska",
+"dz": "146504_8 0408 4/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/22368/17"
+}
+},
+{
+"d": "2017-11-27",
+"c": {
+"inw": "budowa sieci gazowej i gazociągu średniego ciśnienia oraz przyłącza gazu do budynku mieszkalnego budowa nowego/nowych obiektów budowlanych",
+"wn": "PSG Sp.zo.o.",
+"nier": "Kolektorska",
+"dz": "146504_8 0408 21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/22368/17"
+}
+},
+{
+"d": "2017-11-27",
+"c": {
+"inw": "budowa sieci gazowej i gazociągu średniego ciśnienia oraz przyłącza gazu do budynku mieszkalnego budowa nowego/nowych obiektów budowlanych",
+"wn": "PSG Sp.zo.o.",
+"nier": "Kolektorska",
+"dz": "146504_8 0408 13/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/22368/17"
+}
+},
+{
+"d": "2017-11-27",
+"c": {
+"inw": "budowa sieci gazowej i gazociągu średniego ciśnienia oraz przyłącza gazu do budynku mieszkalnego budowa nowego/nowych obiektów budowlanych",
+"wn": "PSG Sp.zo.o.",
+"nier": "Kolektorska",
+"dz": "146504_8 0408 13/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/22368/17"
+}
+},
+{
+"d": "2017-11-24",
+"c": {
+"inw": "budowa sklepu spożywczego wraz z infrastrukturą towarzyszącą oraz wewnętrzną instalacją gazu budowa nowego/nowych obiektów budowlanych",
+"wn": "Tower Investments S.A.",
+"nier": "Swarożyca",
+"dz": "146504_8 1113 48",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/22301/17"
+}
+},
+{
+"d": "2017-11-24",
+"c": {
+"inw": "budowa sklepu spożywczego wraz z infrastrukturą towarzyszącą oraz wewnętrzną instalacją gazu budowa nowego/nowych obiektów budowlanych",
+"wn": "Tower Investments S.A.",
+"nier": "Swarożyca",
+"dz": "146504_8 1113 51",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/22301/17"
+}
+},
+{
+"d": "2017-11-24",
+"c": {
+"inw": "budowa sklepu spożywczego wraz z infrastrukturą towarzyszącą oraz wewnętrzną instalacją gazu budowa nowego/nowych obiektów budowlanych",
+"wn": "Tower Investments S.A.",
+"nier": "Swarożyca",
+"dz": "146504_8 1113 52",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/22301/17"
+}
+},
+{
+"d": "2017-11-24",
+"c": {
+"inw": "budowa sklepu spożywczego wraz z infrastrukturą towarzyszącą oraz wewnętrzną instalacją gazu budowa nowego/nowych obiektów budowlanych",
+"wn": "Tower Investments S.A.",
+"nier": "Swarożyca",
+"dz": "146504_8 1113 56",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/22301/17"
+}
+},
+{
+"d": "2017-11-24",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z usługami  i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Filicum Investmenst Polska Sp.zo.o.",
+"nier": "Aleja Słowiańska 25",
+"dz": "146504_8 0413 105",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/22304/17"
+}
+},
+{
+"d": "2017-11-23",
+"c": {
+"inw": "budynek mieszkalny wielorodzinny z usługami i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Green House Development II Sp.zo.o. Słowiańska Sp. komandytowa",
+"nier": "",
+"dz": "146504_8 0413 104/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/22132/17"
+}
+},
+{
+"d": "2017-11-21",
+"c": {
+"inw": "budowa domu mieszkalnego jednorodzinnego wraz z instalacjami wewnętrznymi, zewnętrzną instalacją gazu  i energii elektrycznej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Wóycickiego / Kazimierza",
+"dz": "146504_8 1001 61/8",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/22001/17"
+}
+},
+{
+"d": "2017-11-21",
+"c": {
+"inw": "budynek mieszkalny wielorodzinny z garażem podziemnym , zagospodarowaniem terenu, instalacjami wewnętrznymi i zewnętrznymi budowa nowego/nowych obiektów budowlanych",
+"wn": "Unimax Development Sp.zo.o.",
+"nier": "Głowackiego / Bartosza",
+"dz": "146504_8 0514 26",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/22006/17"
+}
+},
+{
+"d": "2017-11-21",
+"c": {
+"inw": "budynek mieszkalny wielorodzinny z garażem podziemnym , zagospodarowaniem terenu, instalacjami wewnętrznymi i zewnętrznymi budowa nowego/nowych obiektów budowlanych",
+"wn": "Unimax Development Sp.zo.o.",
+"nier": "Głowackiego / Bartosza",
+"dz": "146504_8 0514 27",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/22006/17"
+}
+},
+{
+"d": "2017-11-21",
+"c": {
+"inw": "budynek mieszkalny wielorodzinny z garażem podziemnym , zagospodarowaniem terenu, instalacjami wewnętrznymi i zewnętrznymi budowa nowego/nowych obiektów budowlanych",
+"wn": "Unimax Development Sp.zo.o.",
+"nier": "Głowackiego / Bartosza",
+"dz": "146504_8 0814 23",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/22006/17"
+}
+},
+{
+"d": "2017-11-20",
+"c": {
+"inw": "sieć gazowa średniego ciśnienia budowa nowego/nowych obiektów budowlanych",
+"wn": "Spółdzielnia Mieszkaniowo-Budowlana \"Maki\"",
+"nier": "Arkuszowa 123",
+"dz": "146504_8 1210 27",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/21913/17"
+}
+},
+{
+"d": "2017-11-20",
+"c": {
+"inw": "sieć gazowa średniego ciśnienia budowa nowego/nowych obiektów budowlanych",
+"wn": "Spółdzielnia Mieszkaniowo-Budowlana \"Maki\"",
+"nier": "Arkuszowa 123",
+"dz": "146504_8 1210 28",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/21913/17"
+}
+},
+{
+"d": "2017-11-20",
+"c": {
+"inw": "sieć gazowa średniego ciśnienia budowa nowego/nowych obiektów budowlanych",
+"wn": "Spółdzielnia Mieszkaniowo-Budowlana \"Maki\"",
+"nier": "Arkuszowa 123",
+"dz": "146504_8 1210 26/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/21913/17"
+}
+},
+{
+"d": "2017-11-17",
+"c": {
+"inw": "remont konserwatorski zabytkowej bramy wjazdowej wraz z przylegającym ogrodzeniem wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Dewajtis 3/5",
+"dz": "146504_8 0904 5/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/21803/17"
+}
+},
+{
+"d": "2017-11-17",
+"c": {
+"inw": "remont konserwatorski zabytkowej bramy wjazdowej wraz z przylegającym ogrodzeniem wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Dewajtis 3/5",
+"dz": "146504_8 0904 5/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/21803/17"
+}
+},
+{
+"d": "2017-11-16",
+"c": {
+"inw": "budowa instalacji gazowej do budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Arkuszowa 150C",
+"dz": "146504_8 1207 23/8",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/21750/17"
+}
+},
+{
+"d": "2017-11-16",
+"c": {
+"inw": "budowa przedsionka przed sklepem budowa nowego/nowych obiektów budowlanych",
+"wn": "Elea Polska Sp.zo.o.",
+"nier": "Andersena 4 / Hansa Christiana",
+"dz": "146504_8 0806 160",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/21789/17"
+}
+},
+{
+"d": "2017-11-13",
+"c": {
+"inw": "rozbiórka, odbudowa i rozbudowa doku jednorodzinnego odbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Daniłowskiego 19/21 / Gustawa",
+"dz": "146504_8 0511 62",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/21515/17"
+}
+},
+{
+"d": "2017-11-10",
+"c": {
+"inw": "budowa wewnętrznej instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Opatowska 6A",
+"dz": "146504_8 0407 13/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/21400/17"
+}
+},
+{
+"d": "2017-11-08",
+"c": {
+"inw": "Elektroenergetyczna linia kablowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Innogy STOEN Operator Sp. z o.o.",
+"nier": "",
+"dz": "146504_8 0512 42",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/21242/17"
+}
+},
+{
+"d": "2017-11-08",
+"c": {
+"inw": "Elektroenergetyczna linia kablowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Innogy STOEN Operator Sp. z o.o.",
+"nier": "",
+"dz": "146504_8 0512 19/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/21242/17"
+}
+},
+{
+"d": "2017-11-08",
+"c": {
+"inw": "Elektroenergetyczna linia kablowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Innogy STOEN Operator Sp. z o.o.",
+"nier": "",
+"dz": "146504_8 0513 2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/21242/17"
+}
+},
+{
+"d": "2017-11-08",
+"c": {
+"inw": "Elektroenergetyczna linia kablowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Innogy STOEN Operator Sp. z o.o.",
+"nier": "",
+"dz": "146504_8 0513 35",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/21242/17"
+}
+},
+{
+"d": "2017-10-24",
+"c": {
+"inw": "przebudowa instalacji gazowej do budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Jagiellonki 2a / Anny",
+"dz": "146504_8 1004 15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/20329/17"
+}
+},
+{
+"d": "2017-10-24",
+"c": {
+"inw": "przebudowa instalacji gazowej do budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Jagiellonki 2a / Anny",
+"dz": "146504_8 1004 14/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/20329/17"
+}
+},
+{
+"d": "2017-10-24",
+"c": {
+"inw": "zmiana sposobu użytkowania budynku gospodarczego na funkcję mieszkaniową oraz z miana kształtu dachu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Akcent 43a",
+"dz": "146504_8 1204 3/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/20288/17"
+}
+},
+{
+"d": "2017-10-24",
+"c": {
+"inw": "zmiana sposobu użytkowania budynku gospodarczego na funkcję mieszkaniową oraz z miana kształtu dachu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Akcent 43a",
+"dz": "146504_8 1204 98/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/20288/17"
+}
+},
+{
+"d": "2017-10-17",
+"c": {
+"inw": "budowa instalacji gazowej  dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Lesznowolska 3",
+"dz": "146504_8 0504 57",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/19962/17"
+}
+},
+{
+"d": "2017-10-16",
+"c": {
+"inw": "rozbiórka kompleksu budynków usługowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "Przedsiębiorstwo Projektowania i Wyposażania Obiektów Przemysłowych w Likwidacji",
+"nier": "Improwizacji 5",
+"dz": "146504_8 1103 3/109",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/19791/17"
+}
+},
+{
+"d": "2017-10-16",
+"c": {
+"inw": "rozbiórka kompleksu budynków usługowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "Przedsiębiorstwo Projektowania i Wyposażania Obiektów Przemysłowych w Likwidacji",
+"nier": "Improwizacji 5",
+"dz": "146504_8 1103 3/110",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/19791/17"
+}
+},
+{
+"d": "2017-10-16",
+"c": {
+"inw": "przebudowa garażu w istniejącym budynku mieszkalnym jednorodzinnym w zabudowie szeregowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "38",
+"dz": "146504_8 0408 22/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/19809/17"
+}
+},
+{
+"d": "2017-10-10",
+"c": {
+"inw": "przebudowa zaplecza sanitarno-szatniowego przy zakładzie fizjologiiInstytutu Sportu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Instytut Sportu- Państwowy Instytut Badawczy",
+"nier": "Trylogii 2",
+"dz": "146504_8 1002 174",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/19418/17"
+}
+},
+{
+"d": "2017-10-10",
+"c": {
+"inw": "przebudowa zaplecza sanitarno-szatniowego przy zakładzie fizjologiiInstytutu Sportu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Instytut Sportu- Państwowy Instytut Badawczy",
+"nier": "Trylogii 2",
+"dz": "146504_8 1002 175",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/19418/17"
+}
+},
+{
+"d": "2017-10-10",
+"c": {
+"inw": "przebudowa zaplecza sanitarno-szatniowego przy zakładzie fizjologiiInstytutu Sportu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Instytut Sportu- Państwowy Instytut Badawczy",
+"nier": "Trylogii 2",
+"dz": "146504_8 1002 176",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/19418/17"
+}
+},
+{
+"d": "2017-10-10",
+"c": {
+"inw": "przebudowa zaplecza sanitarno-szatniowego przy zakładzie fizjologiiInstytutu Sportu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Instytut Sportu- Państwowy Instytut Badawczy",
+"nier": "Trylogii 2",
+"dz": "146504_8 1002 177",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/19418/17"
+}
+},
+{
+"d": "2017-10-10",
+"c": {
+"inw": "przebudowa zaplecza sanitarno-szatniowego przy zakładzie fizjologiiInstytutu Sportu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Instytut Sportu- Państwowy Instytut Badawczy",
+"nier": "Trylogii 2",
+"dz": "146504_8 1002 180",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/19418/17"
+}
+},
+{
+"d": "2017-10-10",
+"c": {
+"inw": "montaż dwóch wind towarowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Instytut Sportu Państwowy Instytut Badawczy",
+"nier": "Trylogii 2/16",
+"dz": "146504_4 1002 174",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/19416/17"
+}
+},
+{
+"d": "2017-10-10",
+"c": {
+"inw": "montaż dwóch wind towarowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Instytut Sportu Państwowy Instytut Badawczy",
+"nier": "Trylogii 2/16",
+"dz": "146504_8 1002 175",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/19416/17"
+}
+},
+{
+"d": "2017-10-10",
+"c": {
+"inw": "montaż dwóch wind towarowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Instytut Sportu Państwowy Instytut Badawczy",
+"nier": "Trylogii 2/16",
+"dz": "146504_8 1002 176",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/19416/17"
+}
+},
+{
+"d": "2017-10-10",
+"c": {
+"inw": "montaż dwóch wind towarowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Instytut Sportu Państwowy Instytut Badawczy",
+"nier": "Trylogii 2/16",
+"dz": "146504_8 1002 177",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/19416/17"
+}
+},
+{
+"d": "2017-10-10",
+"c": {
+"inw": "montaż dwóch wind towarowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Instytut Sportu Państwowy Instytut Badawczy",
+"nier": "Trylogii 2/16",
+"dz": "146504_8 1002 180",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/19416/17"
+}
+},
+{
+"d": "2017-10-04",
+"c": {
+"inw": "budowa myjni lakierni całopojazdowej oraz budowy myjni zewnętrznej na terenie zakładu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie Sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/19068/17"
+}
+},
+{
+"d": "2017-10-04",
+"c": {
+"inw": "budowa myjni lakierni całopojazdowej oraz budowy myjni zewnętrznej na terenie zakładu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie Sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/19068/17"
+}
+},
+{
+"d": "2017-10-04",
+"c": {
+"inw": "budowa myjni lakierni całopojazdowej oraz budowy myjni zewnętrznej na terenie zakładu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie Sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/19068/17"
+}
+},
+{
+"d": "2017-10-04",
+"c": {
+"inw": "budowa myjni lakierni całopojazdowej oraz budowy myjni zewnętrznej na terenie zakładu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie Sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/19068/17"
+}
+},
+{
+"d": "2017-10-04",
+"c": {
+"inw": "budowa myjni lakierni całopojazdowej oraz budowy myjni zewnętrznej na terenie zakładu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie Sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/19068/17"
+}
+},
+{
+"d": "2017-10-04",
+"c": {
+"inw": "budowa myjni lakierni całopojazdowej oraz budowy myjni zewnętrznej na terenie zakładu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie Sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/19068/17"
+}
+},
+{
+"d": "2017-10-04",
+"c": {
+"inw": "budowa myjni lakierni całopojazdowej oraz budowy myjni zewnętrznej na terenie zakładu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie Sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/19068/17"
+}
+},
+{
+"d": "2017-10-04",
+"c": {
+"inw": "budowa myjni lakierni całopojazdowej oraz budowy myjni zewnętrznej na terenie zakładu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie Sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/19068/17"
+}
+},
+{
+"d": "2017-10-04",
+"c": {
+"inw": "budowa myjni lakierni całopojazdowej oraz budowy myjni zewnętrznej na terenie zakładu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie Sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/19068/17"
+}
+},
+{
+"d": "2017-10-04",
+"c": {
+"inw": "budowa myjni lakierni całopojazdowej oraz budowy myjni zewnętrznej na terenie zakładu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie Sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/19068/17"
+}
+},
+{
+"d": "2017-10-04",
+"c": {
+"inw": "budowa myjni lakierni całopojazdowej oraz budowy myjni zewnętrznej na terenie zakładu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie Sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/19068/17"
+}
+},
+{
+"d": "2017-10-04",
+"c": {
+"inw": "budowa myjni lakierni całopojazdowej oraz budowy myjni zewnętrznej na terenie zakładu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie Sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/19068/17"
+}
+},
+{
+"d": "2017-10-04",
+"c": {
+"inw": "budowa myjni lakierni całopojazdowej oraz budowy myjni zewnętrznej na terenie zakładu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie Sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/19068/17"
+}
+},
+{
+"d": "2017-10-04",
+"c": {
+"inw": "budowa myjni lakierni całopojazdowej oraz budowy myjni zewnętrznej na terenie zakładu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie Sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/19068/17"
+}
+},
+{
+"d": "2017-10-04",
+"c": {
+"inw": "budowa myjni lakierni całopojazdowej oraz budowy myjni zewnętrznej na terenie zakładu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie Sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/23",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/19068/17"
+}
+},
+{
+"d": "2017-10-04",
+"c": {
+"inw": "budowa myjni lakierni całopojazdowej oraz budowy myjni zewnętrznej na terenie zakładu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie Sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/25",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/19068/17"
+}
+},
+{
+"d": "2017-10-04",
+"c": {
+"inw": "budowa myjni lakierni całopojazdowej oraz budowy myjni zewnętrznej na terenie zakładu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie Sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/27",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/19068/17"
+}
+},
+{
+"d": "2017-09-22",
+"c": {
+"inw": "przebudowa lokalu mieszkalnego w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kiwerska 14",
+"dz": "146504_8 0402 3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/18273/17"
+}
+},
+{
+"d": "2017-09-22",
+"c": {
+"inw": "budowa instalacji gazowej w budynku biurowym budowa nowego/nowych obiektów budowlanych",
+"wn": "Eko-Met Sp.j.",
+"nier": "Wólczyńska",
+"dz": "146504_8 1111 27/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/18211/17"
+}
+},
+{
+"d": "2017-09-22",
+"c": {
+"inw": "budowa instalacji gazowej w budynku biurowym budowa nowego/nowych obiektów budowlanych",
+"wn": "Eko-Met Sp.j.",
+"nier": "Wólczyńska",
+"dz": "146504_8 1111 28/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/18211/17"
+}
+},
+{
+"d": "2017-09-22",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolmostojącego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Farysa 37",
+"dz": "146504_8 1006 28/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/18204/17"
+}
+},
+{
+"d": "2017-09-19",
+"c": {
+"inw": "przebudowa istniejącego zadaszenia w pawilonie handlowym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Jeronimo Martins Polska s.a",
+"nier": "Dąbrowskiej 15 / Marii",
+"dz": "146504_8 0816 77",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/18035/17"
+}
+},
+{
+"d": "2017-09-19",
+"c": {
+"inw": "budowa sieci gazowej niskiego ciśnienia wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polska Spółka Gazownictwa Sp.zo.o.",
+"nier": "Prozy",
+"dz": "146504_8 1007 140",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/18024/17"
+}
+},
+{
+"d": "2017-09-19",
+"c": {
+"inw": "budowa sieci gazowej niskiego ciśnienia wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polska Spółka Gazownictwa Sp.zo.o.",
+"nier": "Prozy",
+"dz": "146504_8 1007 141",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/18024/17"
+}
+},
+{
+"d": "2017-09-19",
+"c": {
+"inw": "budowa sieci gazowej niskiego ciśnienia wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polska Spółka Gazownictwa Sp.zo.o.",
+"nier": "Prozy",
+"dz": "146504_8 1007 169",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/18024/17"
+}
+},
+{
+"d": "2017-09-15",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "Apartus Development Sp.zo.o.",
+"nier": "Łomiańska 3",
+"dz": "146504_8 0409 236",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/17865/17"
+}
+},
+{
+"d": "2017-09-12",
+"c": {
+"inw": "projekt zamienny dwóch budynków mieszkalnych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Farysa 15",
+"dz": "146504_8 1006 86",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/17691/17"
+}
+},
+{
+"d": "2017-09-08",
+"c": {
+"inw": "budowa instalacji gazowej dla budynków mieszkalnych jednorodzinnych w zabudowie szeregowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Spółdzielnia Budowlano Mieszkaniowa \"MAKI\"",
+"nier": "Arkuszowa 123",
+"dz": "146504_8 1210 26/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/17489/17"
+}
+},
+{
+"d": "2017-09-08",
+"c": {
+"inw": "budowa instalacji gazowej dla budynków mieszkalnych jednorodzinnych w zabudowie szeregowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Spółdzielnia Budowlano Mieszkaniowa \"MAKI\"",
+"nier": "Arkuszowa 123",
+"dz": "146504_8 1210 27",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/17489/17"
+}
+},
+{
+"d": "2017-09-08",
+"c": {
+"inw": "budowa instalacji gazowej dla budynków mieszkalnych jednorodzinnych w zabudowie szeregowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Spółdzielnia Budowlano Mieszkaniowa \"MAKI\"",
+"nier": "Arkuszowa 123",
+"dz": "146504_8 1210 28",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/17489/17"
+}
+},
+{
+"d": "2017-09-06",
+"c": {
+"inw": "budowa wielorodzinnego budynku mieszkalnego z garażem podziemnym, niezbędną infrastrukturą techniczną, naziemnymi miejscami parkingowymi budowa nowego/nowych obiektów budowlanych",
+"wn": "PPUH \"GLIF\" Sławomir Ziólkowski",
+"nier": "Żółwia",
+"dz": "146504_8 0814 32",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/17374/17"
+}
+},
+{
+"d": "2017-09-06",
+"c": {
+"inw": "budowa wielorodzinnego budynku mieszkalnego z garażem podziemnym, niezbędną infrastrukturą techniczną, naziemnymi miejscami parkingowymi budowa nowego/nowych obiektów budowlanych",
+"wn": "PPUH \"GLIF\" Sławomir Ziólkowski",
+"nier": "Żółwia",
+"dz": "146504_8 0814 22",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/17374/17"
+}
+},
+{
+"d": "2017-09-06",
+"c": {
+"inw": "budowa wielorodzinnego budynku mieszkalnego z garażem podziemnym, niezbędną infrastrukturą techniczną, naziemnymi miejscami parkingowymi budowa nowego/nowych obiektów budowlanych",
+"wn": "PPUH \"GLIF\" Sławomir Ziólkowski",
+"nier": "Żółwia",
+"dz": "146504_8 0814 105/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/17374/17"
+}
+},
+{
+"d": "2017-08-29",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego i dwóch budynków gospodarczych rozbiórka istniejącego obiektu budowlanego",
+"wn": "Unimax Development Sp.zo.o. Projekt III Sp. K.",
+"nier": "Głowackiego 12 / Bartosza",
+"dz": "146504_8 0814 23",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/16573/17"
+}
+},
+{
+"d": "2017-08-28",
+"c": {
+"inw": "projekt zamienny rozbudowy i przebudowy szpitala rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Szpital Bielański im. ks. Jerzego Popiełuszki",
+"nier": "Cegłowska 80",
+"dz": "146504_8 0501 18/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/16348/17"
+}
+},
+{
+"d": "2017-08-28",
+"c": {
+"inw": "projekt zamienny rozbudowy i przebudowy szpitala rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Szpital Bielański im. ks. Jerzego Popiełuszki",
+"nier": "Cegłowska 80",
+"dz": "146504_8 0501 18/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/16348/17"
+}
+},
+{
+"d": "2017-08-28",
+"c": {
+"inw": "projekt zamienny rozbudowy i przebudowy szpitala rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Szpital Bielański im. ks. Jerzego Popiełuszki",
+"nier": "Cegłowska 80",
+"dz": "146504_8 0501 18/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/16348/17"
+}
+},
+{
+"d": "2017-08-28",
+"c": {
+"inw": "projekt zamienny rozbudowy i przebudowy szpitala rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Szpital Bielański im. ks. Jerzego Popiełuszki",
+"nier": "Cegłowska 80",
+"dz": "146504_8 0501 18/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/16348/17"
+}
+},
+{
+"d": "2017-08-24",
+"c": {
+"inw": "wybudowanie nowego budynku przedszkola z rozbiórką istniejącego budynku przedszkola wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto st. Warszawa, Dzielnica Bielany",
+"nier": "Kochanowskiego 9a / Jana",
+"dz": "146504_8 0604 10/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "WAB-AM/94/17"
+}
+},
+{
+"d": "2017-08-24",
+"c": {
+"inw": "połączenie dwóch lokali w budynku mieszkalno=usługowym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Schroegera 83 / Efraima",
+"dz": "146504_8 0506 33",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/16136/17"
+}
+},
+{
+"d": "2017-08-21",
+"c": {
+"inw": "wyniesienie kurka głównego gazu na zewnątrz budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Conrada 32 / Josepha",
+"dz": "146504_8 0807 16",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/15737/17"
+}
+},
+{
+"d": "2017-08-17",
+"c": {
+"inw": "przebudowa domu jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Hajoty 28",
+"dz": "146504_8 0508 40",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/15505/17"
+}
+},
+{
+"d": "2017-08-14",
+"c": {
+"inw": "budowa urządzenia reklamowego trwale związanego z gruntem wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Stroer Polska Sp.zo.o.",
+"nier": "Kochanowskiego 2 / Jana",
+"dz": "146504_8 0603 8/29",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/15211/17"
+}
+},
+{
+"d": "2017-08-14",
+"c": {
+"inw": "budowa urządzenia reklamowego trwale związanego z grumtem wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Stroer Polska Sp.zo.o.",
+"nier": "Kochanowskiego 22 / Jana",
+"dz": "146504_8 0602 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/15212/17"
+}
+},
+{
+"d": "2017-08-10",
+"c": {
+"inw": "budowa instalacji gazu dla budynku mieszkalnego jednorodzinnego  wraz ze skróceniem przyłącza do linii ogrodzenia i przeniesieniem punktu redukcyjno - pomiarowego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Farysa 37",
+"dz": "146504_8 1006 28/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/14954/17"
+}
+},
+{
+"d": "2017-08-08",
+"c": {
+"inw": "budowa elektroenergetycznej sieci SN i nn wraz z przyłączem kablowym budowa nowego/nowych obiektów budowlanych",
+"wn": "Innogy Stoen Operator Sp.zo.o.",
+"nier": "Smoleńskiego / Władysława",
+"dz": "146504_8 0408 31",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/14631/17"
+}
+},
+{
+"d": "2017-08-08",
+"c": {
+"inw": "budowa elektroenergetycznej sieci SN i nn wraz z przyłączem kablowym budowa nowego/nowych obiektów budowlanych",
+"wn": "Innogy Stoen Operator Sp.zo.o.",
+"nier": "Smoleńskiego / Władysława",
+"dz": "146504_8 0408 3/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/14631/17"
+}
+},
+{
+"d": "2017-08-08",
+"c": {
+"inw": "budowa elektroenergetycznej sieci SN i nn wraz z przyłączem kablowym budowa nowego/nowych obiektów budowlanych",
+"wn": "Innogy Stoen Operator Sp.zo.o.",
+"nier": "Smoleńskiego / Władysława",
+"dz": "146504_8 0408 5/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/14631/17"
+}
+},
+{
+"d": "2017-08-08",
+"c": {
+"inw": "budowa elektroenergetycznej sieci SN i nn wraz z przyłączem kablowym budowa nowego/nowych obiektów budowlanych",
+"wn": "Innogy Stoen Operator Sp.zo.o.",
+"nier": "Smoleńskiego / Władysława",
+"dz": "146504_8 0408 5/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/14631/17"
+}
+},
+{
+"d": "2017-08-07",
+"c": {
+"inw": "nadbudowa klatki schodowej oraz rozbudowa i nadbudowa tarasu w budynku mieszkalnym jednorodzinnym nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Estrady 17E",
+"dz": "146504_8 1204 16/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/14379/17"
+}
+},
+{
+"d": "2017-07-31",
+"c": {
+"inw": "wymiana witryny w lokalu usługowym na parterze budynku mieszkalnego wielorodzinnego - przebudowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Marymoncka 81",
+"dz": "146504_8 0505 88",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/13711/17"
+}
+},
+{
+"d": "2017-07-31",
+"c": {
+"inw": "wymiana witryny w lokalu usługowym na parterze budynku mieszkalnego wielorodzinnego - przebudowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Marymoncka 81",
+"dz": "146504_8 0505 97/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/13711/17"
+}
+},
+{
+"d": "2017-07-26",
+"c": {
+"inw": "budynek mieszkalny jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Lesznowolska 11",
+"dz": "146504_8 0504 51",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "ro/13273/17"
+}
+},
+{
+"d": "2017-07-25",
+"c": {
+"inw": "dostosowanie pomieszczeń i wyposażenia trwałego centrum symulacji endoskopowej niskiego parteru i wysokiego parteru budynku A wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Centrum Medyczne Kształcenia Podyplomowego",
+"nier": "Marymoncka 99/103",
+"dz": "146504_8 0501 33",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/13243/17"
+}
+},
+{
+"d": "2017-07-24",
+"c": {
+"inw": "budynek mieszkalny wielorodzinny z garażem podziemnym wraz z urządzeniami w tym instalacjami wewnętrznymi i wewnętrzną instalacją gazową budowa nowego/nowych obiektów budowlanych",
+"wn": "TIMBUD II Sp. z o.o. Sp. k.",
+"nier": "Żółwia",
+"dz": "146504_8 0814 244",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/13116/17"
+}
+},
+{
+"d": "2017-07-24",
+"c": {
+"inw": "budynek mieszkalny wielorodzinny z garażem podziemnym wraz z urządzeniami w tym instalacjami wewnętrznymi i wewnętrzną instalacją gazową budowa nowego/nowych obiektów budowlanych",
+"wn": "TIMBUD II Sp. z o.o. Sp. k.",
+"nier": "Żółwia",
+"dz": "146504_8 0814 246",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/13116/17"
+}
+},
+{
+"d": "2017-07-24",
+"c": {
+"inw": "budynek mieszkalny wielorodzinny z garażem podziemnym wraz z urządzeniami w tym instalacjami wewnętrznymi i wewnętrzną instalacją gazową budowa nowego/nowych obiektów budowlanych",
+"wn": "TIMBUD II Sp. z o.o. Sp. k.",
+"nier": "Żółwia",
+"dz": "146504_8 0814 248",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/13116/17"
+}
+},
+{
+"d": "2017-07-14",
+"c": {
+"inw": "zespół budynków mieszkalnych jednorodzinnych w zabudowie szeregowej oraz budowa naziemnych miejsc postojowych budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Arkuszowa 135",
+"dz": "146504_8 1210 19/8",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/12330/17"
+}
+},
+{
+"d": "2017-07-07",
+"c": {
+"inw": "budowa budynku usługowego z częścią magazynową oraz z zagospodarowaniem terenu i niezbędną infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Arkuszowa 164",
+"dz": "146504_8 1207 15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/11906/17"
+}
+},
+{
+"d": "2017-07-07",
+"c": {
+"inw": "izolacja fundamentów w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości",
+"nier": "Schroegera 72 / Efraima",
+"dz": "146504_8 0503 41",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/11894/17"
+}
+},
+{
+"d": "2017-07-07",
+"c": {
+"inw": "izolacja fundamentów w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości",
+"nier": "Schroegera 72 / Efraima",
+"dz": "146504_8 0503 123",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/11894/17"
+}
+},
+{
+"d": "2017-07-07",
+"c": {
+"inw": "izolacja fundamentów w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości",
+"nier": "Schroegera 72 / Efraima",
+"dz": "146504_8 0503 36/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/11894/17"
+}
+},
+{
+"d": "2017-07-07",
+"c": {
+"inw": "izolacja fundamentów w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości",
+"nier": "Schroegera 72 / Efraima",
+"dz": "146504_8 0503 151/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/11894/17"
+}
+},
+{
+"d": "2017-07-05",
+"c": {
+"inw": "budowa instalacji gazowej budowa nowego/nowych obiektów budowlanych",
+"wn": "ARP Invest s.c.",
+"nier": "Dankowicka",
+"dz": "146504_8 1001 127/25",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/11727/17"
+}
+},
+{
+"d": "2017-07-05",
+"c": {
+"inw": "budowa instalacji gazowej budowa nowego/nowych obiektów budowlanych",
+"wn": "ARP Invest s.c.",
+"nier": "Dankowicka",
+"dz": "146504_8 1001 127/27",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/11727/17"
+}
+},
+{
+"d": "2017-07-04",
+"c": {
+"inw": "budowa budynku biurowo-usługowo-handlowego budowa nowego/nowych obiektów budowlanych",
+"wn": "Wromax s.c.",
+"nier": "Arkuszowa",
+"dz": "146504_8 1218 123",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/11662/17"
+}
+},
+{
+"d": "2017-07-04",
+"c": {
+"inw": "przebudowa i rozbudowa domu jednorodzinnego w zabudowie szeregowej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Kleczewska 74/76",
+"dz": "146504_8 0503 29",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/11683/17"
+}
+},
+{
+"d": "2017-07-04",
+"c": {
+"inw": "przebudowa i rozbudowa domu jednorodzinnego w zabudowie szeregowej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Kleczewska 74/76",
+"dz": "146504_8 0503 30",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/11683/17"
+}
+},
+{
+"d": "2017-07-04",
+"c": {
+"inw": "przebudowa i rozbudowa domu jednorodzinnego w zabudowie szeregowej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Kleczewska 78",
+"dz": "146504_8 0503 29",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/11687/17"
+}
+},
+{
+"d": "2017-07-04",
+"c": {
+"inw": "przebudowa i rozbudowa domu jednorodzinnego w zabudowie szeregowej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Kleczewska 78",
+"dz": "146504_8 0503 30",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/11687/17"
+}
+},
+{
+"d": "2017-06-27",
+"c": {
+"inw": "termomodernizacja budynku jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Zuga 9 / Bogumiła",
+"dz": "146504_8 0509 79",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/11196/17"
+}
+},
+{
+"d": "2017-06-27",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wraz z instalacją gazową i elektryczną budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Ptasi Raj",
+"dz": "146504_8 1001 180",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/11261/17"
+}
+},
+{
+"d": "2017-06-16",
+"c": {
+"inw": "przebudowa oraz rozbudowa domu jednorodzinnego w zabudowie szeregowej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Płatnicza 105",
+"dz": "146504_8 0503 56",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/10649/17"
+}
+},
+{
+"d": "2017-06-09",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego z lokalem uzytkowym na parterze budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Maszewska 19",
+"dz": "146504_8 0813 29/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/10346/17"
+}
+},
+{
+"d": "2017-06-09",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego z lokalem uzytkowym na parterze budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Maszewska 19",
+"dz": "146504_8 0813 30/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/10346/17"
+}
+},
+{
+"d": "2017-06-08",
+"c": {
+"inw": "rozbudowa budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Arkuszowa 136",
+"dz": "146504_8 1207 37",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/10281/17"
+}
+},
+{
+"d": "2017-06-06",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Tułowicka",
+"dz": "146504_8 1001 46/9",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/10148/17"
+}
+},
+{
+"d": "2017-06-06",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Tułowicka",
+"dz": "146504_8 1001 192",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/10148/17"
+}
+},
+{
+"d": "2017-06-06",
+"c": {
+"inw": "remont dachu budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości",
+"nier": "Kasprowicza 37 / Jana",
+"dz": "146504_8 0508 142",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/10110/17"
+}
+},
+{
+"d": "2017-06-01",
+"c": {
+"inw": "przebudowa schodów zewnętrznych i budowa pochylni dla osób niepełnosprawnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Dąbrowskiej 21 / Marii",
+"dz": "146504_8 0816 73",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/9901/17"
+}
+},
+{
+"d": "2017-06-01",
+"c": {
+"inw": "wykonanie nowych otworów okiennych oraz przebudowy podciągu w budynku przedszkola wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Przedszkole z Oddziałami Integracyjnymi nr 309 \"Baśniowa Kraina\"",
+"nier": "Andersena 7 / Hansa Christiana",
+"dz": "146504_8 0804 30",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/9865/17"
+}
+},
+{
+"d": "2017-05-31",
+"c": {
+"inw": "budowa czterech budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej oraz budynku zamieszkania zbiorowego budowa nowego/nowych obiektów budowlanych",
+"wn": "Amber Maria Wasielewska",
+"nier": "Jamki",
+"dz": "146504_8 1001 31/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/9782/17"
+}
+},
+{
+"d": "2017-05-31",
+"c": {
+"inw": "budowa czterech budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej oraz budynku zamieszkania zbiorowego budowa nowego/nowych obiektów budowlanych",
+"wn": "Amber Maria Wasielewska",
+"nier": "Jamki",
+"dz": "146504_8 1001 167/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/9782/17"
+}
+},
+{
+"d": "2017-05-26",
+"c": {
+"inw": "budowa budynku przedszkola niepublicznego wraz z niezbędną infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "Fundacja Czas Dzieciństwa",
+"nier": "Wolumen 3",
+"dz": "146504_8 0804 16/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/9547/17"
+}
+},
+{
+"d": "2017-05-26",
+"c": {
+"inw": "budowa budynku przedszkola niepublicznego wraz z niezbędną infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "Fundacja Czas Dzieciństwa",
+"nier": "Wolumen 3",
+"dz": "146504_8 0804 16/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/9547/17"
+}
+},
+{
+"d": "2017-05-26",
+"c": {
+"inw": "budowa budynku przedszkola niepublicznego wraz z niezbędną infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "Fundacja Czas Dzieciństwa",
+"nier": "Wolumen 3",
+"dz": "146504_8 0804 10/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/9547/17"
+}
+},
+{
+"d": "2017-05-26",
+"c": {
+"inw": "budowa budynku przedszkola niepublicznego wraz z niezbędną infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "Fundacja Czas Dzieciństwa",
+"nier": "Wolumen 3",
+"dz": "146504_8 0804 10/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/9547/17"
+}
+},
+{
+"d": "2017-05-24",
+"c": {
+"inw": "budowa wytwórni betonu o wydajności do 15 ton na dobę budowa nowego/nowych obiektów budowlanych",
+"wn": "Erbud S.A.",
+"nier": "Kasprowicza 132 / Jana",
+"dz": "146504_8 1103 20/39",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/9386/17"
+}
+},
+{
+"d": "2017-05-24",
+"c": {
+"inw": "przystosowanie budynku do warunków ochrony przeciwpożarowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polskie Stowarzyszenie Promocji Oświatowych",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 36/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/9355/17"
+}
+},
+{
+"d": "2017-05-24",
+"c": {
+"inw": "przystosowanie budynku do warunków ochrony przeciwpożarowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polskie Stowarzyszenie Promocji Oświatowych",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 98/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/9355/17"
+}
+},
+{
+"d": "2017-05-24",
+"c": {
+"inw": "przystosowanie budynku do warunków ochrony przeciwpożarowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polskie Stowarzyszenie Promocji Oświatowych",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 37/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/9355/17"
+}
+},
+{
+"d": "2017-05-24",
+"c": {
+"inw": "przystosowanie budynku do warunków ochrony przeciwpożarowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polskie Stowarzyszenie Promocji Oświatowych",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 69/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/9355/17"
+}
+},
+{
+"d": "2017-05-24",
+"c": {
+"inw": "przystosowanie budynku do warunków ochrony przeciwpożarowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polskie Stowarzyszenie Promocji Oświatowych",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 70/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/9355/17"
+}
+},
+{
+"d": "2017-05-24",
+"c": {
+"inw": "przystosowanie budynku do warunków ochrony przeciwpożarowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polskie Stowarzyszenie Promocji Oświatowych",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 199/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/9355/17"
+}
+},
+{
+"d": "2017-05-24",
+"c": {
+"inw": "przystosowanie budynku do warunków ochrony przeciwpożarowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polskie Stowarzyszenie Promocji Oświatowych",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 39/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/9356/17"
+}
+},
+{
+"d": "2017-05-24",
+"c": {
+"inw": "przystosowanie budynku do warunków ochrony przeciwpożarowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polskie Stowarzyszenie Promocji Oświatowych",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 39/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/9356/17"
+}
+},
+{
+"d": "2017-05-24",
+"c": {
+"inw": "przystosowanie budynku do warunków ochrony przeciwpożarowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polskie Stowarzyszenie Promocji Oświatowych",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 232/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/9356/17"
+}
+},
+{
+"d": "2017-05-24",
+"c": {
+"inw": "przystosowanie budynku do warunków ochrony przeciwpożarowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polskie Stowarzyszenie Promocji Oświatowych",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 40/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/9356/17"
+}
+},
+{
+"d": "2017-05-24",
+"c": {
+"inw": "przystosowanie budynku do warunków ochrony przeciwpożarowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polskie Stowarzyszenie Promocji Oświatowych",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 63/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/9356/17"
+}
+},
+{
+"d": "2017-05-24",
+"c": {
+"inw": "przystosowanie budynku do warunków ochrony przeciwpożarowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polskie Stowarzyszenie Promocji Oświatowych",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 64/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/9356/17"
+}
+},
+{
+"d": "2017-05-18",
+"c": {
+"inw": "przebudowa i rozbudowa budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Zuga 4 / Bogumiła",
+"dz": "146504_8 0509 70",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/9126/17"
+}
+},
+{
+"d": "2017-05-18",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego z częścią garażową budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "16",
+"dz": "146504_8 1001 199/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/9101/17"
+}
+},
+{
+"d": "2017-05-17",
+"c": {
+"inw": "przebudowa polegająca na wybiciu otworu okiennego w elewacji północno-zachodniej lokalu nr 14 na parterze budynku wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Drukpol.Flexi Sp. z o.o. Sp. k.",
+"nier": "Pasymska 7c",
+"dz": "146504_8 1005 73/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/9066/17"
+}
+},
+{
+"d": "2017-05-17",
+"c": {
+"inw": "wykonanie instalacji gazowej w obiekcie kontenerowym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Arkuszowa 8",
+"dz": "146504_8 1111 37",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/9047/17"
+}
+},
+{
+"d": "2017-05-16",
+"c": {
+"inw": "hala magazynowa z częścią biurową, bezodpływowy zbiornik na nieczystości ciekłe, zjazd z ul. Burleska budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Burleska",
+"dz": "146504_8 1106 96/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/8993/17"
+}
+},
+{
+"d": "2017-05-16",
+"c": {
+"inw": "hala magazynowa z częścią biurową, bezodpływowy zbiornik na nieczystości ciekłe, zjazd z ul. Burleska budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Burleska",
+"dz": "146504_8 1106 97/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/8993/17"
+}
+},
+{
+"d": "2017-05-16",
+"c": {
+"inw": "hala magazynowa z częścią biurową, bezodpływowy zbiornik na nieczystości ciekłe, zjazd z ul. Burleska budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Burleska",
+"dz": "146504_8 1106 98/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/8993/17"
+}
+},
+{
+"d": "2017-05-15",
+"c": {
+"inw": "wewnętrzna instalacja gazowa w budynku mieszkalnym jednorodzinnym wraz z instalacją zbiornikową zasilaną zbiornikiem nadziemnym na gaz płynny V=2700 l wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Rudnickiego 2 / Lucjana",
+"dz": "146504_8 0604 55",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/8851/17"
+}
+},
+{
+"d": "2017-05-15",
+"c": {
+"inw": "remont elewacji zachodniej i tarasu komunikacyjnego wraz z jego zadaszeniem na pawilonie handlowo-usługowym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Nerudy 1 / Pabla",
+"dz": "146504_8 0811 98",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/8874/17"
+}
+},
+{
+"d": "2017-05-11",
+"c": {
+"inw": "rozbiórka budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Matexi Sp.zo.o.",
+"nier": "Żeromskiego 17 / Stefana",
+"dz": "146504_8 0512 18",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/8710/17"
+}
+},
+{
+"d": "2017-05-11",
+"c": {
+"inw": "dostosowanie pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Bogusławskiego 4 / Wojciecha",
+"dz": "146504_8 0809 206",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/8769/17"
+}
+},
+{
+"d": "2017-05-11",
+"c": {
+"inw": "dostosowanie pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Bogusławskiego 4 / Wojciecha",
+"dz": "146504_8 0809 123/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/8769/17"
+}
+},
+{
+"d": "2017-05-10",
+"c": {
+"inw": "rozbiórka budynku inwentarskiego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Arkuszowa 161",
+"dz": "146504_8 1209 18",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/8676/17"
+}
+},
+{
+"d": "2017-05-08",
+"c": {
+"inw": "budowa instalacji gazowej do czterech budynków mieszkalnych jednorodzinnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Jamki",
+"dz": "146504_8 1001 35/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/8559/17"
+}
+},
+{
+"d": "2017-05-08",
+"c": {
+"inw": "budowa instalacji gazowej do czterech budynków mieszkalnych jednorodzinnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Jamki",
+"dz": "146504_8 1001 36/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/8559/17"
+}
+},
+{
+"d": "2017-04-28",
+"c": {
+"inw": "przebudowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości",
+"nier": "Żeromskiego 4 / Stefana",
+"dz": "146504_8 0510 35",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/8186/17"
+}
+},
+{
+"d": "2017-04-28",
+"c": {
+"inw": "wymiana instalacji gazowej w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości",
+"nier": "Aleja Zjednoczenia 40",
+"dz": "146504_8 0505 25",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/8236/17"
+}
+},
+{
+"d": "2017-04-28",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Farysa 15",
+"dz": "146504_8 1006 86",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/8244/17"
+}
+},
+{
+"d": "2017-04-27",
+"c": {
+"inw": "przebudowa dwóch lokali mieszkalnych ze zmianą sposobu użytkowania na jeden lokal mieszkalny wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kasprowicza 46 / Jana",
+"dz": "146504_8 0505 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/8158/17"
+}
+},
+{
+"d": "2017-04-21",
+"c": {
+"inw": "przebudowa i zmiana sposobu użytkowania części pomieszczeń wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Centrum Rekreacyjno-Sportowe",
+"nier": "Lindego 20 / Samuela Bogumiła",
+"dz": "146504_8 0703 94/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/7734/17"
+}
+},
+{
+"d": "2017-04-20",
+"c": {
+"inw": "budowa instalacji gazu do i w budynku jednorodzinnym budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Zuga 6 / Bogumiła",
+"dz": "146504_8 0509 71",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/7668/17"
+}
+},
+{
+"d": "2017-04-14",
+"c": {
+"inw": "REmont konserwatorski dechu budynku mieszkalnego wielorodzinnego wpisanego do ewidencji zbytków wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Przybyszewskiego 63/67",
+"nier": "Przybyszewskiego 63/67 / Stanisława",
+"dz": "146504_8 0502 46",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/7498/17"
+}
+},
+{
+"d": "2017-04-10",
+"c": {
+"inw": "remont dachu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Cegłowska 35",
+"dz": "146504_8 0504 16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/7234/17"
+}
+},
+{
+"d": "2017-04-10",
+"c": {
+"inw": "wykonanie otworu w ścianie wraz z zabezpieczeniem ramowym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Brązownicza 7",
+"dz": "146504_8 0815 96/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/7255/17"
+}
+},
+{
+"d": "2017-04-10",
+"c": {
+"inw": "wykonanie otworu w ścianie wraz z zabezpieczeniem ramowym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Brązownicza 7",
+"dz": "146504_8 0815 48",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/7255/17"
+}
+},
+{
+"d": "2017-04-10",
+"c": {
+"inw": "wykonanie otworu w ścianie wraz z zabezpieczeniem ramowym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Brązownicza 7",
+"dz": "146504_8 0815 47/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/7255/17"
+}
+},
+{
+"d": "2017-04-10",
+"c": {
+"inw": "wykonanie otworu w ścianie wraz z zabezpieczeniem ramowym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Brązownicza 7",
+"dz": "146504_8 0815 66",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/7255/17"
+}
+},
+{
+"d": "2017-04-05",
+"c": {
+"inw": "rozbiórka budynku jednorodzinnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Arkuszowa 164",
+"dz": "146504_8 1207 5",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/7023/17"
+}
+},
+{
+"d": "2017-04-04",
+"c": {
+"inw": "przebudowa dachu oraz tarasu w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Lisowska 24",
+"dz": "146504_8 0508 11/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/6922/17"
+}
+},
+{
+"d": "2017-04-04",
+"c": {
+"inw": "przebudowa dachu oraz tarasu w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Lisowska 24",
+"dz": "146504_8 0508 12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/6922/17"
+}
+},
+{
+"d": "2017-04-03",
+"c": {
+"inw": "wymiana instalacji gazu w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości",
+"nier": "Skalbmierska 18",
+"dz": "146504_8 0502 45",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/6836/17"
+}
+},
+{
+"d": "2017-04-03",
+"c": {
+"inw": "wymiana instalacji gazu w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości",
+"nier": "Oczapowskiego 4 / Michała",
+"dz": "146504_8 0502 13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/6835/17"
+}
+},
+{
+"d": "2017-03-24",
+"c": {
+"inw": "nadbudowa budynku jednorodzinnego nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Lektykarska 26",
+"dz": "146504_8 0409 6",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/6166/17"
+}
+},
+{
+"d": "2017-03-20",
+"c": {
+"inw": "wykonanie otworu w stropie gęstożebrowym w celu montażu schodów wewnętrznych w budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kasprowicza 36 / Jana",
+"dz": "146504_8 0509 113",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/5800/17"
+}
+},
+{
+"d": "2017-03-20",
+"c": {
+"inw": "budowa instalacji gazowej wewnętrznej do budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Farysa 41",
+"dz": "146504_8 1006 24/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/5754/17"
+}
+},
+{
+"d": "2017-03-20",
+"c": {
+"inw": "budowa instalacji gazowej wewnętrznej do budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Farysa 41",
+"dz": "146504_8 1006 24/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/5754/17"
+}
+},
+{
+"d": "2017-03-20",
+"c": {
+"inw": "powiększenie otworu drzwiowego w budynku mieszkalnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa",
+"nier": "Czechowa 2 / Antoniego",
+"dz": "146504_8 0805 149/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/5770/17"
+}
+},
+{
+"d": "2017-03-10",
+"c": {
+"inw": "budowa instalacji gazu do lokalu gastronomicznego budowa nowego/nowych obiektów budowlanych",
+"wn": "Froma Sp.zo.o.",
+"nier": "Aleja Zjednoczenia 36",
+"dz": "146504_8 0508 85/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/5100/17"
+}
+},
+{
+"d": "2017-03-03",
+"c": {
+"inw": "budowa budynku biurowego z garażem podziemnym  i infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Kaskada Park Sp.zo.o.",
+"nier": "Kolektorska",
+"dz": "146504_8 0407 13/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/4441/17"
+}
+},
+{
+"d": "2017-03-03",
+"c": {
+"inw": "budowa budynku biurowego z garażem podziemnym  i infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Kaskada Park Sp.zo.o.",
+"nier": "Kolektorska",
+"dz": "146504_8 0407 13/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/4441/17"
+}
+},
+{
+"d": "2017-03-03",
+"c": {
+"inw": "budowa budynku biurowego z garażem podziemnym  i infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Kaskada Park Sp.zo.o.",
+"nier": "Kolektorska",
+"dz": "146504_8 0407 21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/4441/17"
+}
+},
+{
+"d": "2017-03-01",
+"c": {
+"inw": "budowa fundamentów i montaż zbiornika na ciekły argon wraz z parownicą budowa nowego/nowych obiektów budowlanych",
+"wn": "Linde Gaz Polska Sp.zo.o.",
+"nier": "Kasprowicza 132 / Jana",
+"dz": "146504_8 1103 19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/4216/17"
+}
+},
+{
+"d": "2017-02-28",
+"c": {
+"inw": "rozbudowa domu jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Płatnicza 98",
+"dz": "146504_8 0503 75",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/4043/17"
+}
+},
+{
+"d": "2017-02-27",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Dzierżoniowska 5B",
+"dz": "146504_8 1005 8/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/3995/17"
+}
+},
+{
+"d": "2017-02-24",
+"c": {
+"inw": "przebudowa lokalu mieszkalnego w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Gwiaździsta 27",
+"dz": "146504_8 0403 28/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/3825/17"
+}
+},
+{
+"d": "2017-02-22",
+"c": {
+"inw": "magazyn broni i amunicji wewnątrz istniejącego magazynu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Normark Polska Sp.zo.o.",
+"nier": "Kabaretowa 31",
+"dz": "146504_8 1102 96",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/3573/17"
+}
+},
+{
+"d": "2017-02-17",
+"c": {
+"inw": "budynek mieszkalny wielorodzinny z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "ModernBau Sp.zo.o.",
+"nier": "Zabłocińska 17",
+"dz": "146504_8 0407 11/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/3056/17"
+}
+},
+{
+"d": "2017-02-17",
+"c": {
+"inw": "budynek mieszkalny wielorodzinny z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "ModernBau Sp.zo.o.",
+"nier": "Zabłocińska 17",
+"dz": "146504_8 0407 11/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/3056/17"
+}
+},
+{
+"d": "2017-02-17",
+"c": {
+"inw": "budynek mieszkalny wielorodzinny z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "ModernBau Sp.zo.o.",
+"nier": "Zabłocińska 17",
+"dz": "146504_8 0407 12/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/3056/17"
+}
+},
+{
+"d": "2017-02-17",
+"c": {
+"inw": "budynek mieszkalny wielorodzinny z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "ModernBau Sp.zo.o.",
+"nier": "Zabłocińska 17",
+"dz": "146504_8 0407 12/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/3056/17"
+}
+},
+{
+"d": "2017-02-17",
+"c": {
+"inw": "budynek mieszkalny wielorodzinny z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "ModernBau Sp.zo.o.",
+"nier": "Zabłocińska 17",
+"dz": "146504_8 0407 12/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/3056/17"
+}
+},
+{
+"d": "2017-02-17",
+"c": {
+"inw": "budynek mieszkalny wielorodzinny z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "ModernBau Sp.zo.o.",
+"nier": "Zabłocińska 17",
+"dz": "146504_8 0407 13/17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/3056/17"
+}
+},
+{
+"d": "2017-02-17",
+"c": {
+"inw": "remont stropu nad lokalem mieszkalnym w budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Schroegera 74 / Efraima",
+"dz": "146504_8 0503 40",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/3133/17"
+}
+},
+{
+"d": "2017-02-10",
+"c": {
+"inw": "przebudowa i rozbudowa budynku mieszkalnego jednorodzinnego w zabudowie bliźniaczej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Bajana 30A / Jerzego",
+"dz": "146504_8 0812 150",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/2378/17"
+}
+},
+{
+"d": "2017-01-31",
+"c": {
+"inw": "sieć gazowa średniego ciśnienia wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polska Spółka Gazownictwa Sp.zo.o.",
+"nier": "Andromedy",
+"dz": "146504_8 1214 204/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/1462/16"
+}
+},
+{
+"d": "2017-01-31",
+"c": {
+"inw": "sieć gazowa średniego ciśnienia wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polska Spółka Gazownictwa Sp.zo.o.",
+"nier": "Andromedy",
+"dz": "146504_8 1214 478/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/1462/16"
+}
+},
+{
+"d": "2017-01-30",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Arkuszowa 127a",
+"dz": "146504_8 1210 26/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/1360/17"
+}
+},
+{
+"d": "2017-01-25",
+"c": {
+"inw": "wykonanie przejścia pomiędzy dwoma istniejącymi lokalami usługowymi wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Panton s.c.",
+"nier": "Żeromskiego 4B / Stefana",
+"dz": "146504_8 0510 29",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/1114/17"
+}
+},
+{
+"d": "2017-01-23",
+"c": {
+"inw": "przebudowa budynku mieszkalnego jednorodzinnego w zabudowie bliźniaczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Staffa 107B / Leopolda",
+"dz": "146504_8 0512 77",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/1000/17"
+}
+},
+{
+"d": "2017-01-23",
+"c": {
+"inw": "rozbudowa hali warsztatowej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Aleja Władysława Reymonta 50",
+"dz": "146504_8 0804 25",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/983/17"
+}
+},
+{
+"d": "2017-01-23",
+"c": {
+"inw": "rozbudowa hali warsztatowej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Aleja Władysława Reymonta 50",
+"dz": "146504_8 0804 26",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/983/17"
+}
+},
+{
+"d": "2017-01-20",
+"c": {
+"inw": "instalacja gazu dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Wólczyńska 311",
+"dz": "146504_8 1205 5/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "RO/900/17"
+}
+},
+{
+"d": "2017-01-18",
+"c": {
+"inw": "przebudowa ściany konstrukcyjnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Andersena 2 / Hansa Christiana",
+"dz": "146504_8 0506 154",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/764/17"
+}
+},
+{
+"d": "2017-01-17",
+"c": {
+"inw": "przebudowa, docieplenie, remont budynku szkoły wraz z częściową zmianą sposobu użytkowania dla potrzeb oddziału przedszkolnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto St. Warszawa",
+"nier": "Samogłoska 9",
+"dz": "146504_8 1002 144",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/738/2016"
+}
+},
+{
+"d": "2017-01-17",
+"c": {
+"inw": "przebudowa, docieplenie, remont budynku szkoły wraz z częściową zmianą sposobu użytkowania dla potrzeb oddziału przedszkolnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto St. Warszawa",
+"nier": "Samogłoska 9",
+"dz": "146504_8 1002 145",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/738/2016"
+}
+},
+{
+"d": "2017-01-17",
+"c": {
+"inw": "przebudowa, docieplenie, remont budynku szkoły wraz z częściową zmianą sposobu użytkowania dla potrzeb oddziału przedszkolnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto St. Warszawa",
+"nier": "Samogłoska 9",
+"dz": "146504_8 1002 146/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/738/2016"
+}
+},
+{
+"d": "2017-01-17",
+"c": {
+"inw": "przebudowa, docieplenie, remont budynku szkoły wraz z częściową zmianą sposobu użytkowania dla potrzeb oddziału przedszkolnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto St. Warszawa",
+"nier": "Samogłoska 9",
+"dz": "146504_8 1002 147",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/738/2016"
+}
+},
+{
+"d": "2017-01-17",
+"c": {
+"inw": "przebudowa, docieplenie, remont budynku szkoły wraz z częściową zmianą sposobu użytkowania dla potrzeb oddziału przedszkolnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto St. Warszawa",
+"nier": "Samogłoska 9",
+"dz": "146504_8 1002 159",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/738/2016"
+}
+},
+{
+"d": "2017-01-17",
+"c": {
+"inw": "przebudowa, docieplenie, remont budynku szkoły wraz z częściową zmianą sposobu użytkowania dla potrzeb oddziału przedszkolnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto St. Warszawa",
+"nier": "Samogłoska 9",
+"dz": "146504_8 1002 160",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/738/2016"
+}
+},
+{
+"d": "2017-01-17",
+"c": {
+"inw": "przebudowa, docieplenie, remont budynku szkoły wraz z częściową zmianą sposobu użytkowania dla potrzeb oddziału przedszkolnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto St. Warszawa",
+"nier": "Samogłoska 9",
+"dz": "146504_8 1002 161",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/738/2016"
+}
+},
+{
+"d": "2017-01-17",
+"c": {
+"inw": "przebudowa, docieplenie, remont budynku szkoły wraz z częściową zmianą sposobu użytkowania dla potrzeb oddziału przedszkolnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto St. Warszawa",
+"nier": "Samogłoska 9",
+"dz": "146504_8 1002 162",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/738/2016"
+}
+},
+{
+"d": "2017-01-17",
+"c": {
+"inw": "przebudowa, docieplenie, remont budynku szkoły wraz z częściową zmianą sposobu użytkowania dla potrzeb oddziału przedszkolnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto St. Warszawa",
+"nier": "Samogłoska 9",
+"dz": "146504_8 1002 163",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/738/2016"
+}
+},
+{
+"d": "2017-01-17",
+"c": {
+"inw": "nadbudowa budynku szkoły nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Miasto st. Warszawa",
+"nier": "Samogłoska 9",
+"dz": "146504_8 1002 144",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/739/17"
+}
+},
+{
+"d": "2017-01-17",
+"c": {
+"inw": "nadbudowa budynku szkoły nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Miasto st. Warszawa",
+"nier": "Samogłoska 9",
+"dz": "146504_8 1002 145",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/739/17"
+}
+},
+{
+"d": "2017-01-17",
+"c": {
+"inw": "nadbudowa budynku szkoły nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Miasto st. Warszawa",
+"nier": "Samogłoska 9",
+"dz": "146504_8 1002 146/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/739/17"
+}
+},
+{
+"d": "2017-01-17",
+"c": {
+"inw": "nadbudowa budynku szkoły nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Miasto st. Warszawa",
+"nier": "Samogłoska 9",
+"dz": "146504_8 1002 147",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/739/17"
+}
+},
+{
+"d": "2017-01-17",
+"c": {
+"inw": "nadbudowa budynku szkoły nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Miasto st. Warszawa",
+"nier": "Samogłoska 9",
+"dz": "146504_8 1002 159",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/739/17"
+}
+},
+{
+"d": "2017-01-17",
+"c": {
+"inw": "nadbudowa budynku szkoły nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Miasto st. Warszawa",
+"nier": "Samogłoska 9",
+"dz": "146504_8 1002 160",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/739/17"
+}
+},
+{
+"d": "2017-01-17",
+"c": {
+"inw": "nadbudowa budynku szkoły nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Miasto st. Warszawa",
+"nier": "Samogłoska 9",
+"dz": "146504_8 1002 161",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/739/17"
+}
+},
+{
+"d": "2017-01-17",
+"c": {
+"inw": "nadbudowa budynku szkoły nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Miasto st. Warszawa",
+"nier": "Samogłoska 9",
+"dz": "146504_8 1002 162",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/739/17"
+}
+},
+{
+"d": "2017-01-17",
+"c": {
+"inw": "nadbudowa budynku szkoły nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Miasto st. Warszawa",
+"nier": "Samogłoska 9",
+"dz": "146504_8 1002 163",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/739/17"
+}
+},
+{
+"d": "2017-01-09",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych wielorodzinnych z usługami w parterach z garażami podziemnymi, z dwoma klatkami schodowymi, pawilonu handlowego, dwóch szczelnych zbiorników retencyjnych, rampy zjazdowej oraz infrastruktury technicznej (projekt zamienny) budowa nowego/nowych obiektów budowlanych",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "",
+"dz": "146504_8 0807 46",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/17487/16"
+}
+},
+{
+"d": "2017-01-09",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych wielorodzinnych z usługami w parterach z garażami podziemnymi, z dwoma klatkami schodowymi, pawilonu handlowego, dwóch szczelnych zbiorników retencyjnych, rampy zjazdowej oraz infrastruktury technicznej (projekt zamienny) budowa nowego/nowych obiektów budowlanych",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "",
+"dz": "146504_8 0807 48/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/17487/16"
+}
+},
+{
+"d": "2017-01-09",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych wielorodzinnych z usługami w parterach z garażami podziemnymi, z dwoma klatkami schodowymi, pawilonu handlowego, dwóch szczelnych zbiorników retencyjnych, rampy zjazdowej oraz infrastruktury technicznej (projekt zamienny) budowa nowego/nowych obiektów budowlanych",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "",
+"dz": "146504_8 0807 48/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/17487/16"
+}
+},
+{
+"d": "2017-01-09",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych wielorodzinnych z usługami w parterach z garażami podziemnymi, z dwoma klatkami schodowymi, pawilonu handlowego, dwóch szczelnych zbiorników retencyjnych, rampy zjazdowej oraz infrastruktury technicznej (projekt zamienny) budowa nowego/nowych obiektów budowlanych",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "",
+"dz": "146504_8 0807 48/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/17487/16"
+}
+},
+{
+"d": "2017-01-09",
+"c": {
+"inw": "budowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "ERGA Development Sp.zo.o.",
+"nier": "Arkuszowa 169a",
+"dz": "146504_8 1209 14/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/284/17"
+}
+},
+{
+"d": "2017-01-05",
+"c": {
+"inw": "montaż zespołu urządzeń telefonii komórkowej PLAY budowa nowego/nowych obiektów budowlanych",
+"wn": "P4 Sp.zo.o.",
+"nier": "Trylogii 2",
+"dz": "146504_8 1002 174",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/276/16"
+}
+},
+{
+"d": "2017-01-05",
+"c": {
+"inw": "montaż zespołu urządzeń telefonii komórkowej PLAY budowa nowego/nowych obiektów budowlanych",
+"wn": "P4 Sp.zo.o.",
+"nier": "Trylogii 2",
+"dz": "146504_8 1002 175",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/276/16"
+}
+},
+{
+"d": "2017-01-05",
+"c": {
+"inw": "montaż zespołu urządzeń telefonii komórkowej PLAY budowa nowego/nowych obiektów budowlanych",
+"wn": "P4 Sp.zo.o.",
+"nier": "Trylogii 2",
+"dz": "146504_8 1002 176",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/276/16"
+}
+},
+{
+"d": "2017-01-05",
+"c": {
+"inw": "montaż zespołu urządzeń telefonii komórkowej PLAY budowa nowego/nowych obiektów budowlanych",
+"wn": "P4 Sp.zo.o.",
+"nier": "Trylogii 2",
+"dz": "146504_8 1002 177",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/276/16"
+}
+},
+{
+"d": "2017-01-05",
+"c": {
+"inw": "montaż zespołu urządzeń telefonii komórkowej PLAY budowa nowego/nowych obiektów budowlanych",
+"wn": "P4 Sp.zo.o.",
+"nier": "Trylogii 2",
+"dz": "146504_8 1002 178",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/276/16"
+}
+},
+{
+"d": "2017-01-05",
+"c": {
+"inw": "montaż zespołu urządzeń telefonii komórkowej PLAY budowa nowego/nowych obiektów budowlanych",
+"wn": "P4 Sp.zo.o.",
+"nier": "Trylogii 2",
+"dz": "146504_8 1002 179",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/276/16"
+}
+},
+{
+"d": "2017-01-05",
+"c": {
+"inw": "montaż zespołu urządzeń telefonii komórkowej PLAY budowa nowego/nowych obiektów budowlanych",
+"wn": "P4 Sp.zo.o.",
+"nier": "Trylogii 2",
+"dz": "146504_8 1002 180",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/276/16"
+}
+},
+{
+"d": "2017-01-04",
+"c": {
+"inw": "wymiana wewn. instalacji gazu w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "S.M \"DOMHUT\"",
+"nier": "Marymoncka 147",
+"dz": "146504_8 0701 59",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "RO/179/17"
+}
+}
+]
+},
+{
+"id": "dec_pnb",
+"name": "Decyzje o pozwoleniu na budowę",
+"short": "Decyzje PnB",
+"desc": "Decyzje o pozwoleniu na budowę wydane przez organ architektoniczno-budowlany dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer decyzji",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2017-12-29",
+"c": {
+"inw": "remont konserwatorski zabytkowej bramy wjazdowej wraz z przylegającym ogrodzeniem wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Dewajtis 3/5",
+"dz": "146504_8 0904 5/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "152/2017"
+}
+},
+{
+"d": "2017-12-29",
+"c": {
+"inw": "remont konserwatorski zabytkowej bramy wjazdowej wraz z przylegającym ogrodzeniem wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Dewajtis 3/5",
+"dz": "146504_8 0904 5/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "152/2017"
+}
+},
+{
+"d": "2017-12-28",
+"c": {
+"inw": "budowa instalacji gazowych dla zespołu budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Rokokowa 130",
+"dz": "146504_8 1112 11/6",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "150/2017"
+}
+},
+{
+"d": "2017-12-28",
+"c": {
+"inw": "budowa gazociągu ś/c DN 40 w celu podłączenia budynkó mieszkalnych do sieci gazowej budowa nowego/nowych obiektów budowlanych",
+"wn": "PSG Sp.zo.o.",
+"nier": "Rokokowa",
+"dz": "146504_8 1112 11/6",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "151/2017"
+}
+},
+{
+"d": "2017-12-28",
+"c": {
+"inw": "zmiana sposobu użytkowania budynku gospodarczego na funkcję mieszkaniową oraz z miana kształtu dachu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Akcent 43a",
+"dz": "146504_8 1204 3/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "149/2017"
+}
+},
+{
+"d": "2017-12-28",
+"c": {
+"inw": "zmiana sposobu użytkowania budynku gospodarczego na funkcję mieszkaniową oraz z miana kształtu dachu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Akcent 43a",
+"dz": "146504_8 1204 98/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "149/2017"
+}
+},
+{
+"d": "2017-12-21",
+"c": {
+"inw": "Elektroenergetyczna linia kablowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Innogy STOEN Operator Sp. z o.o.",
+"nier": "",
+"dz": "146504_8 0512 42",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "147/2017"
+}
+},
+{
+"d": "2017-12-21",
+"c": {
+"inw": "Elektroenergetyczna linia kablowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Innogy STOEN Operator Sp. z o.o.",
+"nier": "",
+"dz": "146504_8 0512 19/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "147/2017"
+}
+},
+{
+"d": "2017-12-21",
+"c": {
+"inw": "budowa wewnętrznej instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Opatowska 6A",
+"dz": "146504_8 0407 13/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "148/2017"
+}
+},
+{
+"d": "2017-12-21",
+"c": {
+"inw": "Elektroenergetyczna linia kablowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Innogy STOEN Operator Sp. z o.o.",
+"nier": "",
+"dz": "146504_8 0513 2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "147/2017"
+}
+},
+{
+"d": "2017-12-21",
+"c": {
+"inw": "Elektroenergetyczna linia kablowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Innogy STOEN Operator Sp. z o.o.",
+"nier": "",
+"dz": "146504_8 0513 35",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "147/2017"
+}
+},
+{
+"d": "2017-12-15",
+"c": {
+"inw": "przebudowa garażu w istniejącym budynku mieszkalnym jednorodzinnym w zabudowie szeregowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "38",
+"dz": "146504_8 0408 22/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "145/2017"
+}
+},
+{
+"d": "2017-12-10",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "Apartus Development Sp.zo.o.",
+"nier": "Łomiańska 3",
+"dz": "146504_8 0409 236",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "144/2017"
+}
+},
+{
+"d": "2017-12-08",
+"c": {
+"inw": "rozbiórka kompleksu budynków usługowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "Przedsiębiorstwo Projektowania i Wyposażania Obiektów Przemysłowych w Likwidacji",
+"nier": "Improwizacji 5",
+"dz": "146504_8 1103 3/109",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "8/R/2017"
+}
+},
+{
+"d": "2017-12-08",
+"c": {
+"inw": "rozbiórka kompleksu budynków usługowych rozbiórka istniejącego obiektu budowlanego",
+"wn": "Przedsiębiorstwo Projektowania i Wyposażania Obiektów Przemysłowych w Likwidacji",
+"nier": "Improwizacji 5",
+"dz": "146504_8 1103 3/110",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "8/R/2017"
+}
+},
+{
+"d": "2017-12-08",
+"c": {
+"inw": "sieć gazowa średniego ciśnienia budowa nowego/nowych obiektów budowlanych",
+"wn": "Spółdzielnia Mieszkaniowo-Budowlana \"Maki\"",
+"nier": "Arkuszowa 123",
+"dz": "146504_8 1210 27",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "143/2017"
+}
+},
+{
+"d": "2017-12-08",
+"c": {
+"inw": "sieć gazowa średniego ciśnienia budowa nowego/nowych obiektów budowlanych",
+"wn": "Spółdzielnia Mieszkaniowo-Budowlana \"Maki\"",
+"nier": "Arkuszowa 123",
+"dz": "146504_8 1210 28",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "143/2017"
+}
+},
+{
+"d": "2017-12-08",
+"c": {
+"inw": "sieć gazowa średniego ciśnienia budowa nowego/nowych obiektów budowlanych",
+"wn": "Spółdzielnia Mieszkaniowo-Budowlana \"Maki\"",
+"nier": "Arkuszowa 123",
+"dz": "146504_8 1210 26/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "143/2017"
+}
+},
+{
+"d": "2017-12-08",
+"c": {
+"inw": "przebudowa instalacji gazowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto st. Warszawa Dzielnica Bielany",
+"nier": "Samogłoska 9",
+"dz": "146504_8 1002 144",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "142/2018"
+}
+},
+{
+"d": "2017-12-08",
+"c": {
+"inw": "przebudowa instalacji gazowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto st. Warszawa Dzielnica Bielany",
+"nier": "Samogłoska 9",
+"dz": "146504_8 1002 145",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "142/2018"
+}
+},
+{
+"d": "2017-12-08",
+"c": {
+"inw": "przebudowa instalacji gazowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto st. Warszawa Dzielnica Bielany",
+"nier": "Samogłoska 9",
+"dz": "146504_8 1002 146/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "142/2018"
+}
+},
+{
+"d": "2017-12-08",
+"c": {
+"inw": "przebudowa instalacji gazowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto st. Warszawa Dzielnica Bielany",
+"nier": "Samogłoska 9",
+"dz": "146504_8 1002 146/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "142/2018"
+}
+},
+{
+"d": "2017-12-08",
+"c": {
+"inw": "przebudowa instalacji gazowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto st. Warszawa Dzielnica Bielany",
+"nier": "Samogłoska 9",
+"dz": "146504_8 1002 147",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "142/2018"
+}
+},
+{
+"d": "2017-12-08",
+"c": {
+"inw": "przebudowa instalacji gazowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto st. Warszawa Dzielnica Bielany",
+"nier": "Samogłoska 9",
+"dz": "146504_8 1002 161",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "142/2018"
+}
+},
+{
+"d": "2017-12-08",
+"c": {
+"inw": "przebudowa instalacji gazowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto st. Warszawa Dzielnica Bielany",
+"nier": "Samogłoska 9",
+"dz": "146504_8 1002 162",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "142/2018"
+}
+},
+{
+"d": "2017-12-08",
+"c": {
+"inw": "przebudowa instalacji gazowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto st. Warszawa Dzielnica Bielany",
+"nier": "Samogłoska 9",
+"dz": "146504_8 1002 163",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "142/2018"
+}
+},
+{
+"d": "2017-12-04",
+"c": {
+"inw": "budowa przedsionka przed sklepem budowa nowego/nowych obiektów budowlanych",
+"wn": "Elea Polska Sp.zo.o.",
+"nier": "Andersena 4 / Hansa Christiana",
+"dz": "146504_8 0806 160",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "141/2018"
+}
+},
+{
+"d": "2017-12-01",
+"c": {
+"inw": "budowa myjni lakierni całopojazdowej oraz budowy myjni zewnętrznej na terenie zakładu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie Sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "140/2017"
+}
+},
+{
+"d": "2017-12-01",
+"c": {
+"inw": "budowa myjni lakierni całopojazdowej oraz budowy myjni zewnętrznej na terenie zakładu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie Sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "140/2017"
+}
+},
+{
+"d": "2017-12-01",
+"c": {
+"inw": "budowa myjni lakierni całopojazdowej oraz budowy myjni zewnętrznej na terenie zakładu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie Sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "140/2017"
+}
+},
+{
+"d": "2017-12-01",
+"c": {
+"inw": "budowa myjni lakierni całopojazdowej oraz budowy myjni zewnętrznej na terenie zakładu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie Sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "140/2017"
+}
+},
+{
+"d": "2017-12-01",
+"c": {
+"inw": "budowa myjni lakierni całopojazdowej oraz budowy myjni zewnętrznej na terenie zakładu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie Sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "140/2017"
+}
+},
+{
+"d": "2017-12-01",
+"c": {
+"inw": "budowa myjni lakierni całopojazdowej oraz budowy myjni zewnętrznej na terenie zakładu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie Sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "140/2017"
+}
+},
+{
+"d": "2017-12-01",
+"c": {
+"inw": "budowa myjni lakierni całopojazdowej oraz budowy myjni zewnętrznej na terenie zakładu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie Sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "140/2017"
+}
+},
+{
+"d": "2017-12-01",
+"c": {
+"inw": "budowa myjni lakierni całopojazdowej oraz budowy myjni zewnętrznej na terenie zakładu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie Sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "140/2017"
+}
+},
+{
+"d": "2017-12-01",
+"c": {
+"inw": "budowa myjni lakierni całopojazdowej oraz budowy myjni zewnętrznej na terenie zakładu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie Sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "140/2017"
+}
+},
+{
+"d": "2017-12-01",
+"c": {
+"inw": "budowa myjni lakierni całopojazdowej oraz budowy myjni zewnętrznej na terenie zakładu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie Sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "140/2017"
+}
+},
+{
+"d": "2017-12-01",
+"c": {
+"inw": "budowa myjni lakierni całopojazdowej oraz budowy myjni zewnętrznej na terenie zakładu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie Sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "140/2017"
+}
+},
+{
+"d": "2017-12-01",
+"c": {
+"inw": "budowa myjni lakierni całopojazdowej oraz budowy myjni zewnętrznej na terenie zakładu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie Sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "140/2017"
+}
+},
+{
+"d": "2017-12-01",
+"c": {
+"inw": "budowa myjni lakierni całopojazdowej oraz budowy myjni zewnętrznej na terenie zakładu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie Sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "140/2017"
+}
+},
+{
+"d": "2017-12-01",
+"c": {
+"inw": "budowa myjni lakierni całopojazdowej oraz budowy myjni zewnętrznej na terenie zakładu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie Sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "140/2017"
+}
+},
+{
+"d": "2017-12-01",
+"c": {
+"inw": "budowa myjni lakierni całopojazdowej oraz budowy myjni zewnętrznej na terenie zakładu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie Sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/23",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "140/2017"
+}
+},
+{
+"d": "2017-12-01",
+"c": {
+"inw": "budowa myjni lakierni całopojazdowej oraz budowy myjni zewnętrznej na terenie zakładu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie Sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/25",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "140/2017"
+}
+},
+{
+"d": "2017-12-01",
+"c": {
+"inw": "budowa myjni lakierni całopojazdowej oraz budowy myjni zewnętrznej na terenie zakładu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tramwaje Warszawskie Sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/27",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "140/2017"
+}
+},
+{
+"d": "2017-11-30",
+"c": {
+"inw": "budowa instalacji gazowej do budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Arkuszowa 150C",
+"dz": "146504_8 1207 23/8",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "139/2017"
+}
+},
+{
+"d": "2017-11-27",
+"c": {
+"inw": "zespół budynków mieszkalnych jednorodzinnych w zabudowie szeregowej oraz budowa naziemnych miejsc postojowych budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Arkuszowa 135",
+"dz": "146504_8 1210 19/8",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "138/2017"
+}
+},
+{
+"d": "2017-11-27",
+"c": {
+"inw": "przebudowa instalacji gazowej do budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Jagiellonki 2a / Anny",
+"dz": "146504_8 1004 15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "137/2017"
+}
+},
+{
+"d": "2017-11-27",
+"c": {
+"inw": "przebudowa instalacji gazowej do budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Jagiellonki 2a / Anny",
+"dz": "146504_8 1004 14/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "137/2017"
+}
+},
+{
+"d": "2017-11-27",
+"c": {
+"inw": "budowa instalacji gazowej  dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Lesznowolska 3",
+"dz": "146504_8 0504 57",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "136/2017"
+}
+},
+{
+"d": "2017-11-24",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolmostojącego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Farysa 37",
+"dz": "146504_8 1006 28/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "135/2017"
+}
+},
+{
+"d": "2017-11-22",
+"c": {
+"inw": "przebudowa lokalu mieszkalnego w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kiwerska 14",
+"dz": "146504_8 0402 3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "134/2017"
+}
+},
+{
+"d": "2017-11-15",
+"c": {
+"inw": "wybudowanie nowego budynku przedszkola z rozbiórką istniejącego budynku przedszkola wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto st. Warszawa, Dzielnica Bielany",
+"nier": "Kochanowskiego 9a / Jana",
+"dz": "146504_8 0604 10/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "133/2017"
+}
+},
+{
+"d": "2017-11-14",
+"c": {
+"inw": "przebudowa zaplecza sanitarno-szatniowego przy zakładzie fizjologiiInstytutu Sportu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Instytut Sportu- Państwowy Instytut Badawczy",
+"nier": "Trylogii 2",
+"dz": "146504_8 1002 174",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "132/2017"
+}
+},
+{
+"d": "2017-11-14",
+"c": {
+"inw": "przebudowa zaplecza sanitarno-szatniowego przy zakładzie fizjologiiInstytutu Sportu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Instytut Sportu- Państwowy Instytut Badawczy",
+"nier": "Trylogii 2",
+"dz": "146504_8 1002 175",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "132/2017"
+}
+},
+{
+"d": "2017-11-14",
+"c": {
+"inw": "przebudowa zaplecza sanitarno-szatniowego przy zakładzie fizjologiiInstytutu Sportu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Instytut Sportu- Państwowy Instytut Badawczy",
+"nier": "Trylogii 2",
+"dz": "146504_8 1002 176",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "132/2017"
+}
+},
+{
+"d": "2017-11-14",
+"c": {
+"inw": "przebudowa zaplecza sanitarno-szatniowego przy zakładzie fizjologiiInstytutu Sportu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Instytut Sportu- Państwowy Instytut Badawczy",
+"nier": "Trylogii 2",
+"dz": "146504_8 1002 177",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "132/2017"
+}
+},
+{
+"d": "2017-11-14",
+"c": {
+"inw": "przebudowa zaplecza sanitarno-szatniowego przy zakładzie fizjologiiInstytutu Sportu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Instytut Sportu- Państwowy Instytut Badawczy",
+"nier": "Trylogii 2",
+"dz": "146504_8 1002 180",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "132/2017"
+}
+},
+{
+"d": "2017-11-08",
+"c": {
+"inw": "montaż dwóch wind towarowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Instytut Sportu Państwowy Instytut Badawczy",
+"nier": "Trylogii 2/16",
+"dz": "146504_4 1002 174",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "130/2017"
+}
+},
+{
+"d": "2017-11-08",
+"c": {
+"inw": "budowa sieci gazowej niskiego ciśnienia wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polska Spółka Gazownictwa Sp.zo.o.",
+"nier": "Prozy",
+"dz": "146504_8 1007 140",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "11/2017"
+}
+},
+{
+"d": "2017-11-08",
+"c": {
+"inw": "budowa sieci gazowej niskiego ciśnienia wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polska Spółka Gazownictwa Sp.zo.o.",
+"nier": "Prozy",
+"dz": "146504_8 1007 141",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "11/2017"
+}
+},
+{
+"d": "2017-11-08",
+"c": {
+"inw": "budowa sieci gazowej niskiego ciśnienia wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polska Spółka Gazownictwa Sp.zo.o.",
+"nier": "Prozy",
+"dz": "146504_8 1007 169",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "11/2017"
+}
+},
+{
+"d": "2017-11-08",
+"c": {
+"inw": "montaż dwóch wind towarowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Instytut Sportu Państwowy Instytut Badawczy",
+"nier": "Trylogii 2/16",
+"dz": "146504_8 1002 175",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "130/2017"
+}
+},
+{
+"d": "2017-11-08",
+"c": {
+"inw": "montaż dwóch wind towarowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Instytut Sportu Państwowy Instytut Badawczy",
+"nier": "Trylogii 2/16",
+"dz": "146504_8 1002 176",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "130/2017"
+}
+},
+{
+"d": "2017-11-08",
+"c": {
+"inw": "montaż dwóch wind towarowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Instytut Sportu Państwowy Instytut Badawczy",
+"nier": "Trylogii 2/16",
+"dz": "146504_8 1002 177",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "130/2017"
+}
+},
+{
+"d": "2017-11-08",
+"c": {
+"inw": "montaż dwóch wind towarowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Instytut Sportu Państwowy Instytut Badawczy",
+"nier": "Trylogii 2/16",
+"dz": "146504_8 1002 180",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "130/2017"
+}
+},
+{
+"d": "2017-11-03",
+"c": {
+"inw": "budynek mieszkalny jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Lesznowolska 11",
+"dz": "146504_8 0504 51",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "129/2017"
+}
+},
+{
+"d": "2017-11-02",
+"c": {
+"inw": "wymiana witryny w lokalu usługowym na parterze budynku mieszkalnego wielorodzinnego - przebudowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Marymoncka 81",
+"dz": "146504_8 0505 88",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "128/2017"
+}
+},
+{
+"d": "2017-11-02",
+"c": {
+"inw": "wymiana witryny w lokalu usługowym na parterze budynku mieszkalnego wielorodzinnego - przebudowa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Marymoncka 81",
+"dz": "146504_8 0505 97/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "128/2017"
+}
+},
+{
+"d": "2017-10-27",
+"c": {
+"inw": "budowa wielorodzinnego budynku mieszkalnego z garażem podziemnym, niezbędną infrastrukturą techniczną, naziemnymi miejscami parkingowymi budowa nowego/nowych obiektów budowlanych",
+"wn": "PPUH \"GLIF\" Sławomir Ziólkowski",
+"nier": "Żółwia",
+"dz": "146504_8 0814 32",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "126/2017"
+}
+},
+{
+"d": "2017-10-27",
+"c": {
+"inw": "budowa wielorodzinnego budynku mieszkalnego z garażem podziemnym, niezbędną infrastrukturą techniczną, naziemnymi miejscami parkingowymi budowa nowego/nowych obiektów budowlanych",
+"wn": "PPUH \"GLIF\" Sławomir Ziólkowski",
+"nier": "Żółwia",
+"dz": "146504_8 0814 22",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "126/2017"
+}
+},
+{
+"d": "2017-10-27",
+"c": {
+"inw": "budowa wielorodzinnego budynku mieszkalnego z garażem podziemnym, niezbędną infrastrukturą techniczną, naziemnymi miejscami parkingowymi budowa nowego/nowych obiektów budowlanych",
+"wn": "PPUH \"GLIF\" Sławomir Ziólkowski",
+"nier": "Żółwia",
+"dz": "146504_8 0814 105/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "126/2017"
+}
+},
+{
+"d": "2017-10-27",
+"c": {
+"inw": "projekt zamienny dwóch budynków mieszkalnych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Farysa 15",
+"dz": "146504_8 1006 86",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "127/2017"
+}
+},
+{
+"d": "2017-10-26",
+"c": {
+"inw": "przebudowa oraz rozbudowa domu jednorodzinnego w zabudowie szeregowej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Płatnicza 105",
+"dz": "146504_8 0503 56",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "125/2017"
+}
+},
+{
+"d": "2017-10-23",
+"c": {
+"inw": "nadbudowa klatki schodowej oraz rozbudowa i nadbudowa tarasu w budynku mieszkalnym jednorodzinnym nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Estrady 17E",
+"dz": "146504_8 1204 16/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "124/2017"
+}
+},
+{
+"d": "2017-10-20",
+"c": {
+"inw": "budowa urządzenia reklamowego trwale związanego z gruntem wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Stroer Polska Sp.zo.o.",
+"nier": "Kochanowskiego 2 / Jana",
+"dz": "146504_8 0603 8/29",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "123/2017"
+}
+},
+{
+"d": "2017-10-20",
+"c": {
+"inw": "przebudowa i rozbudowa domu jednorodzinnego w zabudowie szeregowej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Kleczewska 74/76",
+"dz": "146504_8 0503 29",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "120/2017"
+}
+},
+{
+"d": "2017-10-20",
+"c": {
+"inw": "przebudowa i rozbudowa domu jednorodzinnego w zabudowie szeregowej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Kleczewska 74/76",
+"dz": "146504_8 0503 30",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "120/2017"
+}
+},
+{
+"d": "2017-10-20",
+"c": {
+"inw": "budowa urządzenia reklamowego trwale związanego z grumtem wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Stroer Polska Sp.zo.o.",
+"nier": "Kochanowskiego 22 / Jana",
+"dz": "146504_8 0602 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "122/2017"
+}
+},
+{
+"d": "2017-10-20",
+"c": {
+"inw": "przebudowa i rozbudowa domu jednorodzinnego w zabudowie szeregowej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Kleczewska 78",
+"dz": "146504_8 0503 29",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "121/2017"
+}
+},
+{
+"d": "2017-10-20",
+"c": {
+"inw": "przebudowa i rozbudowa domu jednorodzinnego w zabudowie szeregowej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Kleczewska 78",
+"dz": "146504_8 0503 30",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "121/2017"
+}
+},
+{
+"d": "2017-10-13",
+"c": {
+"inw": "przebudowa istniejącego zadaszenia w pawilonie handlowym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Jeronimo Martins Polska s.a",
+"nier": "Dąbrowskiej 15 / Marii",
+"dz": "146504_8 0816 77",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "119/2017"
+}
+},
+{
+"d": "2017-10-13",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego i dwóch budynków gospodarczych rozbiórka istniejącego obiektu budowlanego",
+"wn": "Unimax Development Sp.zo.o. Projekt III Sp. K.",
+"nier": "Głowackiego 12 / Bartosza",
+"dz": "146504_8 0814 23",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "7/R/2017"
+}
+},
+{
+"d": "2017-10-09",
+"c": {
+"inw": "budowa instalacji gazowej w budynku biurowym budowa nowego/nowych obiektów budowlanych",
+"wn": "Eko-Met Sp.j.",
+"nier": "Wólczyńska",
+"dz": "146504_8 1111 27/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "118/2017"
+}
+},
+{
+"d": "2017-10-09",
+"c": {
+"inw": "budowa instalacji gazowej w budynku biurowym budowa nowego/nowych obiektów budowlanych",
+"wn": "Eko-Met Sp.j.",
+"nier": "Wólczyńska",
+"dz": "146504_8 1111 28/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "118/2017"
+}
+},
+{
+"d": "2017-10-03",
+"c": {
+"inw": "termomodernizacja budynku jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Zuga 9 / Bogumiła",
+"dz": "146504_8 0509 79",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "116/2017"
+}
+},
+{
+"d": "2017-09-28",
+"c": {
+"inw": "budowa budynku biurowo-usługowo-handlowego budowa nowego/nowych obiektów budowlanych",
+"wn": "Wromax s.c.",
+"nier": "Arkuszowa",
+"dz": "146504_8 1218 123",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "114/2017"
+}
+},
+{
+"d": "2017-09-28",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wraz z instalacją gazową i elektryczną budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Ptasi Raj",
+"dz": "146504_8 1001 180",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "113/2017"
+}
+},
+{
+"d": "2017-09-27",
+"c": {
+"inw": "hala magazynowa z częścią biurową, bezodpływowy zbiornik na nieczystości ciekłe, zjazd z ul. Burleska budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Burleska",
+"dz": "146504_8 1106 96/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "111/2017"
+}
+},
+{
+"d": "2017-09-27",
+"c": {
+"inw": "hala magazynowa z częścią biurową, bezodpływowy zbiornik na nieczystości ciekłe, zjazd z ul. Burleska budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Burleska",
+"dz": "146504_8 1106 97/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "111/2017"
+}
+},
+{
+"d": "2017-09-27",
+"c": {
+"inw": "hala magazynowa z częścią biurową, bezodpływowy zbiornik na nieczystości ciekłe, zjazd z ul. Burleska budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Burleska",
+"dz": "146504_8 1106 98/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "111/2017"
+}
+},
+{
+"d": "2017-09-27",
+"c": {
+"inw": "połączenie dwóch lokali w budynku mieszkalno=usługowym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Schroegera 83 / Efraima",
+"dz": "146504_8 0506 33",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "112/2017"
+}
+},
+{
+"d": "2017-09-27",
+"c": {
+"inw": "budowa instalacji gazowej dla budynków mieszkalnych jednorodzinnych w zabudowie szeregowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Spółdzielnia Budowlano Mieszkaniowa \"MAKI\"",
+"nier": "Arkuszowa 123",
+"dz": "146504_8 1210 26/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "110/2017"
+}
+},
+{
+"d": "2017-09-27",
+"c": {
+"inw": "budowa instalacji gazowej dla budynków mieszkalnych jednorodzinnych w zabudowie szeregowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Spółdzielnia Budowlano Mieszkaniowa \"MAKI\"",
+"nier": "Arkuszowa 123",
+"dz": "146504_8 1210 27",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "110/2017"
+}
+},
+{
+"d": "2017-09-27",
+"c": {
+"inw": "budowa instalacji gazowej dla budynków mieszkalnych jednorodzinnych w zabudowie szeregowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Spółdzielnia Budowlano Mieszkaniowa \"MAKI\"",
+"nier": "Arkuszowa 123",
+"dz": "146504_8 1210 28",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "110/2017"
+}
+},
+{
+"d": "2017-09-13",
+"c": {
+"inw": "budowa instalacji gazu dla budynku mieszkalnego jednorodzinnego  wraz ze skróceniem przyłącza do linii ogrodzenia i przeniesieniem punktu redukcyjno - pomiarowego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Farysa 37",
+"dz": "146504_8 1006 28/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "107/2017"
+}
+},
+{
+"d": "2017-09-12",
+"c": {
+"inw": "budowa elektroenergetycznej sieci SN i nn wraz z przyłączem kablowym budowa nowego/nowych obiektów budowlanych",
+"wn": "Innogy Stoen Operator Sp.zo.o.",
+"nier": "Smoleńskiego / Władysława",
+"dz": "146504_8 0408 31",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "106/2017"
+}
+},
+{
+"d": "2017-09-12",
+"c": {
+"inw": "budowa elektroenergetycznej sieci SN i nn wraz z przyłączem kablowym budowa nowego/nowych obiektów budowlanych",
+"wn": "Innogy Stoen Operator Sp.zo.o.",
+"nier": "Smoleńskiego / Władysława",
+"dz": "146504_8 0408 3/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "106/2017"
+}
+},
+{
+"d": "2017-09-12",
+"c": {
+"inw": "budowa elektroenergetycznej sieci SN i nn wraz z przyłączem kablowym budowa nowego/nowych obiektów budowlanych",
+"wn": "Innogy Stoen Operator Sp.zo.o.",
+"nier": "Smoleńskiego / Władysława",
+"dz": "146504_8 0408 5/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "106/2017"
+}
+},
+{
+"d": "2017-09-12",
+"c": {
+"inw": "budowa elektroenergetycznej sieci SN i nn wraz z przyłączem kablowym budowa nowego/nowych obiektów budowlanych",
+"wn": "Innogy Stoen Operator Sp.zo.o.",
+"nier": "Smoleńskiego / Władysława",
+"dz": "146504_8 0408 5/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "106/2017"
+}
+},
+{
+"d": "2017-09-12",
+"c": {
+"inw": "budowa budynku usługowego z częścią magazynową oraz z zagospodarowaniem terenu i niezbędną infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Arkuszowa 164",
+"dz": "146504_8 1207 15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "105/2017"
+}
+},
+{
+"d": "2017-09-07",
+"c": {
+"inw": "wyniesienie kurka głównego gazu na zewnątrz budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Conrada 32 / Josepha",
+"dz": "146504_8 0807 16",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "104/2017"
+}
+},
+{
+"d": "2017-09-07",
+"c": {
+"inw": "rozbudowa stacji auto-gaz i budowy budynku obsługi stacji paliw wraz z zadaszeniem stanowisk serwisowych rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Wasbruk Sp. z o.o.",
+"nier": "Wólczyńska 39",
+"dz": "146504_8 1111 39",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "103/2017"
+}
+},
+{
+"d": "2017-09-05",
+"c": {
+"inw": "przebudowa i rozbudowa budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Zuga 4 / Bogumiła",
+"dz": "146504_8 0509 70",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "102/2017"
+}
+},
+{
+"d": "2017-09-01",
+"c": {
+"inw": "budynek mieszkalny wielorodzinny z garażem podziemnym wraz z urządzeniami w tym instalacjami wewnętrznymi i wewnętrzną instalacją gazową budowa nowego/nowych obiektów budowlanych",
+"wn": "TIMBUD II Sp. z o.o. Sp. k.",
+"nier": "Żółwia",
+"dz": "146504_8 0814 244",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "101/2017"
+}
+},
+{
+"d": "2017-09-01",
+"c": {
+"inw": "budynek mieszkalny wielorodzinny z garażem podziemnym wraz z urządzeniami w tym instalacjami wewnętrznymi i wewnętrzną instalacją gazową budowa nowego/nowych obiektów budowlanych",
+"wn": "TIMBUD II Sp. z o.o. Sp. k.",
+"nier": "Żółwia",
+"dz": "146504_8 0814 246",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "101/2017"
+}
+},
+{
+"d": "2017-09-01",
+"c": {
+"inw": "budynek mieszkalny wielorodzinny z garażem podziemnym wraz z urządzeniami w tym instalacjami wewnętrznymi i wewnętrzną instalacją gazową budowa nowego/nowych obiektów budowlanych",
+"wn": "TIMBUD II Sp. z o.o. Sp. k.",
+"nier": "Żółwia",
+"dz": "146504_8 0814 248",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "101/2017"
+}
+},
+{
+"d": "2017-08-31",
+"c": {
+"inw": "dostosowanie pomieszczeń i wyposażenia trwałego centrum symulacji endoskopowej niskiego parteru i wysokiego parteru budynku A wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Centrum Medyczne Kształcenia Podyplomowego",
+"nier": "Marymoncka 99/103",
+"dz": "146504_8 0501 33",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "100/2017"
+}
+},
+{
+"d": "2017-08-29",
+"c": {
+"inw": "budowa czterech budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej oraz budynku zamieszkania zbiorowego budowa nowego/nowych obiektów budowlanych",
+"wn": "Amber Maria Wasielewska",
+"nier": "Jamki",
+"dz": "146504_8 1001 31/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "99/2017"
+}
+},
+{
+"d": "2017-08-29",
+"c": {
+"inw": "budowa czterech budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej oraz budynku zamieszkania zbiorowego budowa nowego/nowych obiektów budowlanych",
+"wn": "Amber Maria Wasielewska",
+"nier": "Jamki",
+"dz": "146504_8 1001 167/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "99/2017"
+}
+},
+{
+"d": "2017-08-18",
+"c": {
+"inw": "rozbiórka budynku inwentarskiego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Arkuszowa 161",
+"dz": "146504_8 1209 18",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6/R/2017"
+}
+},
+{
+"d": "2017-08-08",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Tułowicka",
+"dz": "146504_8 1001 46/9",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "96/2017"
+}
+},
+{
+"d": "2017-08-08",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Tułowicka",
+"dz": "146504_8 1001 192",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "96/2017"
+}
+},
+{
+"d": "2017-08-08",
+"c": {
+"inw": "izolacja fundamentów w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości",
+"nier": "Schroegera 72 / Efraima",
+"dz": "146504_8 0503 41",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "95/2017"
+}
+},
+{
+"d": "2017-08-08",
+"c": {
+"inw": "izolacja fundamentów w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości",
+"nier": "Schroegera 72 / Efraima",
+"dz": "146504_8 0503 123",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "95/2017"
+}
+},
+{
+"d": "2017-08-08",
+"c": {
+"inw": "izolacja fundamentów w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości",
+"nier": "Schroegera 72 / Efraima",
+"dz": "146504_8 0503 36/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "95/2017"
+}
+},
+{
+"d": "2017-08-08",
+"c": {
+"inw": "izolacja fundamentów w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości",
+"nier": "Schroegera 72 / Efraima",
+"dz": "146504_8 0503 151/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "95/2017"
+}
+},
+{
+"d": "2017-08-08",
+"c": {
+"inw": "rozbudowa budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Arkuszowa 136",
+"dz": "146504_8 1207 37",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "94/2017"
+}
+},
+{
+"d": "2017-08-02",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego z lokalem uzytkowym na parterze budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Maszewska 19",
+"dz": "146504_8 0813 29/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "92/2017"
+}
+},
+{
+"d": "2017-08-02",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego z lokalem uzytkowym na parterze budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Maszewska 19",
+"dz": "146504_8 0813 30/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "92/2017"
+}
+},
+{
+"d": "2017-07-31",
+"c": {
+"inw": "budowa wytwórni betonu o wydajności do 15 ton na dobę budowa nowego/nowych obiektów budowlanych",
+"wn": "Erbud S.A.",
+"nier": "Kasprowicza 132 / Jana",
+"dz": "146504_8 1103 20/39",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "91/2017"
+}
+},
+{
+"d": "2017-07-26",
+"c": {
+"inw": "przebudowa dachu oraz tarasu w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Lisowska 24",
+"dz": "146504_8 0508 11/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "90/2017"
+}
+},
+{
+"d": "2017-07-26",
+"c": {
+"inw": "przebudowa dachu oraz tarasu w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Lisowska 24",
+"dz": "146504_8 0508 12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "90/2017"
+}
+},
+{
+"d": "2017-07-25",
+"c": {
+"inw": "budowa instalacji gazowej budowa nowego/nowych obiektów budowlanych",
+"wn": "ARP Invest s.c.",
+"nier": "Dankowicka",
+"dz": "146504_8 1001 127/25",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "89/2017"
+}
+},
+{
+"d": "2017-07-25",
+"c": {
+"inw": "budowa instalacji gazowej budowa nowego/nowych obiektów budowlanych",
+"wn": "ARP Invest s.c.",
+"nier": "Dankowicka",
+"dz": "146504_8 1001 127/27",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "89/2017"
+}
+},
+{
+"d": "2017-07-20",
+"c": {
+"inw": "wykonanie nowych otworów okiennych oraz przebudowy podciągu w budynku przedszkola wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Przedszkole z Oddziałami Integracyjnymi nr 309 \"Baśniowa Kraina\"",
+"nier": "Andersena 7 / Hansa Christiana",
+"dz": "146504_8 0804 30",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "88/2017"
+}
+},
+{
+"d": "2017-07-19",
+"c": {
+"inw": "remont dachu budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości",
+"nier": "Kasprowicza 37 / Jana",
+"dz": "146504_8 0508 142",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "87/2017"
+}
+},
+{
+"d": "2017-07-18",
+"c": {
+"inw": "budowa budynku przedszkola niepublicznego wraz z niezbędną infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "Fundacja Czas Dzieciństwa",
+"nier": "Wolumen 3",
+"dz": "146504_8 0804 16/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "86/2017"
+}
+},
+{
+"d": "2017-07-18",
+"c": {
+"inw": "budowa budynku przedszkola niepublicznego wraz z niezbędną infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "Fundacja Czas Dzieciństwa",
+"nier": "Wolumen 3",
+"dz": "146504_8 0804 16/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "86/2017"
+}
+},
+{
+"d": "2017-07-18",
+"c": {
+"inw": "budowa budynku przedszkola niepublicznego wraz z niezbędną infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "Fundacja Czas Dzieciństwa",
+"nier": "Wolumen 3",
+"dz": "146504_8 0804 10/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "86/2017"
+}
+},
+{
+"d": "2017-07-18",
+"c": {
+"inw": "budowa budynku przedszkola niepublicznego wraz z niezbędną infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "Fundacja Czas Dzieciństwa",
+"nier": "Wolumen 3",
+"dz": "146504_8 0804 10/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "86/2017"
+}
+},
+{
+"d": "2017-07-14",
+"c": {
+"inw": "przystosowanie budynku do warunków ochrony przeciwpożarowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polskie Stowarzyszenie Promocji Oświatowych",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 36/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "84/2017"
+}
+},
+{
+"d": "2017-07-14",
+"c": {
+"inw": "przystosowanie budynku do warunków ochrony przeciwpożarowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polskie Stowarzyszenie Promocji Oświatowych",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 98/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "84/2017"
+}
+},
+{
+"d": "2017-07-14",
+"c": {
+"inw": "przystosowanie budynku do warunków ochrony przeciwpożarowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polskie Stowarzyszenie Promocji Oświatowych",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 37/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "84/2017"
+}
+},
+{
+"d": "2017-07-14",
+"c": {
+"inw": "przystosowanie budynku do warunków ochrony przeciwpożarowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polskie Stowarzyszenie Promocji Oświatowych",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 69/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "84/2017"
+}
+},
+{
+"d": "2017-07-14",
+"c": {
+"inw": "przystosowanie budynku do warunków ochrony przeciwpożarowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polskie Stowarzyszenie Promocji Oświatowych",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 70/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "84/2017"
+}
+},
+{
+"d": "2017-07-14",
+"c": {
+"inw": "przystosowanie budynku do warunków ochrony przeciwpożarowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polskie Stowarzyszenie Promocji Oświatowych",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 199/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "84/2017"
+}
+},
+{
+"d": "2017-07-14",
+"c": {
+"inw": "przystosowanie budynku do warunków ochrony przeciwpożarowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polskie Stowarzyszenie Promocji Oświatowych",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 39/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "85/2017"
+}
+},
+{
+"d": "2017-07-14",
+"c": {
+"inw": "przystosowanie budynku do warunków ochrony przeciwpożarowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polskie Stowarzyszenie Promocji Oświatowych",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 39/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "85/2017"
+}
+},
+{
+"d": "2017-07-14",
+"c": {
+"inw": "przystosowanie budynku do warunków ochrony przeciwpożarowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polskie Stowarzyszenie Promocji Oświatowych",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 232/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "85/2017"
+}
+},
+{
+"d": "2017-07-14",
+"c": {
+"inw": "przystosowanie budynku do warunków ochrony przeciwpożarowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polskie Stowarzyszenie Promocji Oświatowych",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 40/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "85/2017"
+}
+},
+{
+"d": "2017-07-14",
+"c": {
+"inw": "przystosowanie budynku do warunków ochrony przeciwpożarowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polskie Stowarzyszenie Promocji Oświatowych",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 63/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "85/2017"
+}
+},
+{
+"d": "2017-07-14",
+"c": {
+"inw": "przystosowanie budynku do warunków ochrony przeciwpożarowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polskie Stowarzyszenie Promocji Oświatowych",
+"nier": "Wóycickiego 1/3 / Kazimierza",
+"dz": "146504_8 1002 64/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "85/2017"
+}
+},
+{
+"d": "2017-07-11",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego z częścią garażową budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "16",
+"dz": "146504_8 1001 199/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "83/2017"
+}
+},
+{
+"d": "2017-07-10",
+"c": {
+"inw": "przebudowa schodów zewnętrznych i budowa pochylni dla osób niepełnosprawnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Dąbrowskiej 21 / Marii",
+"dz": "146504_8 0816 73",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "82/2017"
+}
+},
+{
+"d": "2017-07-03",
+"c": {
+"inw": "wykonanie instalacji gazowej w obiekcie kontenerowym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Arkuszowa 8",
+"dz": "146504_8 1111 37",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "81/2017"
+}
+},
+{
+"d": "2017-06-28",
+"c": {
+"inw": "przebudowa części poddasza ze zmianą sposobu użytkowania jako powiększenie lokalu mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kasprowicza 58 / Jana",
+"dz": "146504_8 0501 15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "79/2017"
+}
+},
+{
+"d": "2017-06-28",
+"c": {
+"inw": "remont elewacji zachodniej i tarasu komunikacyjnego wraz z jego zadaszeniem na pawilonie handlowo-usługowym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Nerudy 1 / Pabla",
+"dz": "146504_8 0811 98",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "80/2017"
+}
+},
+{
+"d": "2017-06-26",
+"c": {
+"inw": "wewnętrzna instalacja gazowa w budynku mieszkalnym jednorodzinnym wraz z instalacją zbiornikową zasilaną zbiornikiem nadziemnym na gaz płynny V=2700 l wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Rudnickiego 2 / Lucjana",
+"dz": "146504_8 0604 55",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "78/2017"
+}
+},
+{
+"d": "2017-06-26",
+"c": {
+"inw": "remont dachu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Cegłowska 35",
+"dz": "146504_8 0504 16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "77/2017"
+}
+},
+{
+"d": "2017-06-23",
+"c": {
+"inw": "rozbiórka budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Matexi Sp.zo.o.",
+"nier": "Żeromskiego 17 / Stefana",
+"dz": "146504_8 0512 18",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "5/R/2017"
+}
+},
+{
+"d": "2017-06-23",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Farysa 15",
+"dz": "146504_8 1006 86",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "76/2017"
+}
+},
+{
+"d": "2017-06-22",
+"c": {
+"inw": "budynek mieszkalny wielorodzinny z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "ModernBau Sp.zo.o.",
+"nier": "Zabłocińska 17",
+"dz": "146504_8 0407 11/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "72/2017"
+}
+},
+{
+"d": "2017-06-22",
+"c": {
+"inw": "budynek mieszkalny wielorodzinny z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "ModernBau Sp.zo.o.",
+"nier": "Zabłocińska 17",
+"dz": "146504_8 0407 11/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "72/2017"
+}
+},
+{
+"d": "2017-06-22",
+"c": {
+"inw": "budynek mieszkalny wielorodzinny z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "ModernBau Sp.zo.o.",
+"nier": "Zabłocińska 17",
+"dz": "146504_8 0407 12/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "72/2017"
+}
+},
+{
+"d": "2017-06-22",
+"c": {
+"inw": "budynek mieszkalny wielorodzinny z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "ModernBau Sp.zo.o.",
+"nier": "Zabłocińska 17",
+"dz": "146504_8 0407 12/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "72/2017"
+}
+},
+{
+"d": "2017-06-22",
+"c": {
+"inw": "budynek mieszkalny wielorodzinny z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "ModernBau Sp.zo.o.",
+"nier": "Zabłocińska 17",
+"dz": "146504_8 0407 12/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "72/2017"
+}
+},
+{
+"d": "2017-06-22",
+"c": {
+"inw": "budynek mieszkalny wielorodzinny z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "ModernBau Sp.zo.o.",
+"nier": "Zabłocińska 17",
+"dz": "146504_8 0407 13/17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "72/2017"
+}
+},
+{
+"d": "2017-06-22",
+"c": {
+"inw": "nadbudowa budynku jednorodzinnego nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Lektykarska 26",
+"dz": "146504_8 0409 6",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "73/2017"
+}
+},
+{
+"d": "2017-06-22",
+"c": {
+"inw": "przebudowa polegająca na wybiciu otworu okiennego w elewacji północno-zachodniej lokalu nr 14 na parterze budynku wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Drukpol.Flexi Sp. z o.o. Sp. k.",
+"nier": "Pasymska 7c",
+"dz": "146504_8 1005 73/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "74/2017"
+}
+},
+{
+"d": "2017-06-20",
+"c": {
+"inw": "dostosowanie pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Bogusławskiego 4 / Wojciecha",
+"dz": "146504_8 0809 206",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "71/2017"
+}
+},
+{
+"d": "2017-06-20",
+"c": {
+"inw": "dostosowanie pomieszczenia komory śmieciowej, szybu windowego oraz dźwigu do korzystania z poziomu wejścia do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Budowlano Mieszkaniowa \"Chomiczówka\"",
+"nier": "Bogusławskiego 4 / Wojciecha",
+"dz": "146504_8 0809 123/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "71/2017"
+}
+},
+{
+"d": "2017-06-16",
+"c": {
+"inw": "budowa dwóch budynków jednorzodzinnych w zabudowie bliźniaczej z instalacją gazową i infrastrukturą towarzyszącą budowa nowego/nowych obiektów budowlanych",
+"wn": "AIM Home Property Sp. z o.o.",
+"nier": "Jamki",
+"dz": "146504_8 1001 43",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "69/2017"
+}
+},
+{
+"d": "2017-06-16",
+"c": {
+"inw": "budowa dwóch budynków jednorzodzinnych w zabudowie bliźniaczej z instalacją gazową i infrastrukturą towarzyszącą budowa nowego/nowych obiektów budowlanych",
+"wn": "AIM Home Property Sp. z o.o.",
+"nier": "Jamki",
+"dz": "146504_8 1001 135",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "69/2017"
+}
+},
+{
+"d": "2017-06-16",
+"c": {
+"inw": "budowa dwóch budynków jednorzodzinnych w zabudowie bliźniaczej z instalacją gazową i infrastrukturą towarzyszącą budowa nowego/nowych obiektów budowlanych",
+"wn": "AIM Home Property Sp. z o.o.",
+"nier": "Jamki",
+"dz": "146504_8 1001 137",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "69/2017"
+}
+},
+{
+"d": "2017-06-16",
+"c": {
+"inw": "budowa dwóch budynków jednorzodzinnych w zabudowie bliźniaczej z instalacją gazową i infrastrukturą towarzyszącą budowa nowego/nowych obiektów budowlanych",
+"wn": "AIM Home Property Sp. z o.o.",
+"nier": "Jamki",
+"dz": "146504_8 1001 41",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "69/2017"
+}
+},
+{
+"d": "2017-06-16",
+"c": {
+"inw": "budowa dwóch budynków jednorzodzinnych w zabudowie bliźniaczej z instalacją gazową i infrastrukturą towarzyszącą budowa nowego/nowych obiektów budowlanych",
+"wn": "AIM Home Property Sp. z o.o.",
+"nier": "Jamki",
+"dz": "146504_8 1001 42",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "69/2017"
+}
+},
+{
+"d": "2017-06-07",
+"c": {
+"inw": "budowa instalacji gazowej do czterech budynków mieszkalnych jednorodzinnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Jamki",
+"dz": "146504_8 1001 35/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "67/2017"
+}
+},
+{
+"d": "2017-06-07",
+"c": {
+"inw": "budowa instalacji gazowej do czterech budynków mieszkalnych jednorodzinnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Jamki",
+"dz": "146504_8 1001 36/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "67/2017"
+}
+},
+{
+"d": "2017-06-07",
+"c": {
+"inw": "przebudowa dwóch lokali mieszkalnych ze zmianą sposobu użytkowania na jeden lokal mieszkalny wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kasprowicza 46 / Jana",
+"dz": "146504_8 0505 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "68/2017"
+}
+},
+{
+"d": "2017-06-05",
+"c": {
+"inw": "REmont konserwatorski dechu budynku mieszkalnego wielorodzinnego wpisanego do ewidencji zbytków wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Przybyszewskiego 63/67",
+"nier": "Przybyszewskiego 63/67 / Stanisława",
+"dz": "146504_8 0502 46",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "65/2017"
+}
+},
+{
+"d": "2017-06-05",
+"c": {
+"inw": "rozbiórka budynku jednorodzinnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Arkuszowa 164",
+"dz": "146504_8 1207 5",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "4/R/2017"
+}
+},
+{
+"d": "2017-06-05",
+"c": {
+"inw": "wykonanie otworu w ścianie wraz z zabezpieczeniem ramowym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Brązownicza 7",
+"dz": "146504_8 0815 96/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "66/2017"
+}
+},
+{
+"d": "2017-06-05",
+"c": {
+"inw": "wykonanie otworu w ścianie wraz z zabezpieczeniem ramowym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Brązownicza 7",
+"dz": "146504_8 0815 48",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "66/2017"
+}
+},
+{
+"d": "2017-06-05",
+"c": {
+"inw": "wykonanie otworu w ścianie wraz z zabezpieczeniem ramowym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Brązownicza 7",
+"dz": "146504_8 0815 47/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "66/2017"
+}
+},
+{
+"d": "2017-06-05",
+"c": {
+"inw": "wykonanie otworu w ścianie wraz z zabezpieczeniem ramowym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Brązownicza 7",
+"dz": "146504_8 0815 66",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "66/2017"
+}
+},
+{
+"d": "2017-06-01",
+"c": {
+"inw": "budowa hotelu trzygwiazdkowego z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Green House Development II Sp.zo.o. Słowiańska Sp. komandytowa",
+"nier": "Aleja Słowiańska",
+"dz": "146504_8 0413 104",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "62/2017"
+}
+},
+{
+"d": "2017-06-01",
+"c": {
+"inw": "budowa budynku biurowego z garażem podziemnym  i infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Kaskada Park Sp.zo.o.",
+"nier": "Kolektorska",
+"dz": "146504_8 0407 13/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "64/2017"
+}
+},
+{
+"d": "2017-06-01",
+"c": {
+"inw": "budowa budynku biurowego z garażem podziemnym  i infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Kaskada Park Sp.zo.o.",
+"nier": "Kolektorska",
+"dz": "146504_8 0407 13/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "64/2017"
+}
+},
+{
+"d": "2017-06-01",
+"c": {
+"inw": "budowa budynku biurowego z garażem podziemnym  i infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Kaskada Park Sp.zo.o.",
+"nier": "Kolektorska",
+"dz": "146504_8 0407 21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "64/2017"
+}
+},
+{
+"d": "2017-06-01",
+"c": {
+"inw": "budowa instalacji gazu do i w budynku jednorodzinnym budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Zuga 6 / Bogumiła",
+"dz": "146504_8 0509 71",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "63/2017"
+}
+},
+{
+"d": "2017-05-31",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Pelplińska 35",
+"dz": "146504_8 0409 112",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "60/2017"
+}
+},
+{
+"d": "2017-05-31",
+"c": {
+"inw": "budowa budynku z parterem usługowym i poddaszem mieszkalnym budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Arkuszowa 36",
+"dz": "146504_8 1214 117/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "61/2017"
+}
+},
+{
+"d": "2017-05-29",
+"c": {
+"inw": "przebudowa i zmiana sposobu użytkowania części pomieszczeń wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Centrum Rekreacyjno-Sportowe",
+"nier": "Lindego 20 / Samuela Bogumiła",
+"dz": "146504_8 0703 94/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "58/2017"
+}
+},
+{
+"d": "2017-05-25",
+"c": {
+"inw": "przebudowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości",
+"nier": "Żeromskiego 4 / Stefana",
+"dz": "146504_8 0510 35",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "57/2017"
+}
+},
+{
+"d": "2017-05-25",
+"c": {
+"inw": "wymiana instalacji gazowej w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości",
+"nier": "Aleja Zjednoczenia 40",
+"dz": "146504_8 0505 25",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "56/2017"
+}
+},
+{
+"d": "2017-05-19",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z podziemnym garażem budowa nowego/nowych obiektów budowlanych",
+"wn": "Green House Development II Sp.zo.o. Słowiańska Sp. komandytowa",
+"nier": "Aleja Słowiańska",
+"dz": "146504_8 0413 104",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "54/2017"
+}
+},
+{
+"d": "2017-05-19",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z częścią usługową i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "Conrada 3 / Josepha",
+"dz": "146504_8 0515 87",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "55/2017"
+}
+},
+{
+"d": "2017-05-09",
+"c": {
+"inw": "wymiana instalacji gazu w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości",
+"nier": "Skalbmierska 18",
+"dz": "146504_8 0502 45",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "52/2017"
+}
+},
+{
+"d": "2017-05-09",
+"c": {
+"inw": "wymiana instalacji gazu w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości",
+"nier": "Oczapowskiego 4 / Michała",
+"dz": "146504_8 0502 13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "53/2017"
+}
+},
+{
+"d": "2017-05-02",
+"c": {
+"inw": "powiększenie otworu drzwiowego w budynku mieszkalnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa",
+"nier": "Czechowa 2 / Antoniego",
+"dz": "146504_8 0805 149/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "51/2017"
+}
+},
+{
+"d": "2017-04-27",
+"c": {
+"inw": "budowa fundamentów i montaż zbiornika na ciekły argon wraz z parownicą budowa nowego/nowych obiektów budowlanych",
+"wn": "Linde Gaz Polska Sp.zo.o.",
+"nier": "Kasprowicza 132 / Jana",
+"dz": "146504_8 1103 19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "50/2017"
+}
+},
+{
+"d": "2017-04-26",
+"c": {
+"inw": "rozbudowa domu jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Płatnicza 98",
+"dz": "146504_8 0503 75",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "48/2017"
+}
+},
+{
+"d": "2017-04-14",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Arkuszowa 127a",
+"dz": "146504_8 1210 26/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "46/2017"
+}
+},
+{
+"d": "2017-04-12",
+"c": {
+"inw": "budowa instalacji gazu do lokalu gastronomicznego budowa nowego/nowych obiektów budowlanych",
+"wn": "Froma Sp.zo.o.",
+"nier": "Aleja Zjednoczenia 36",
+"dz": "146504_8 0508 85/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "43/2017"
+}
+},
+{
+"d": "2017-04-12",
+"c": {
+"inw": "wykonanie otworu w stropie gęstożebrowym w celu montażu schodów wewnętrznych w budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kasprowicza 36 / Jana",
+"dz": "146504_8 0509 113",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "45/2017"
+}
+},
+{
+"d": "2017-04-12",
+"c": {
+"inw": "budowa instalacji gazowej wewnętrznej do budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Farysa 41",
+"dz": "146504_8 1006 24/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "44/2017"
+}
+},
+{
+"d": "2017-04-12",
+"c": {
+"inw": "budowa instalacji gazowej wewnętrznej do budynku mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Farysa 41",
+"dz": "146504_8 1006 24/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "44/2017"
+}
+},
+{
+"d": "2017-04-10",
+"c": {
+"inw": "nadbudowa budynku szkoły nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Miasto st. Warszawa",
+"nier": "Samogłoska 9",
+"dz": "146504_8 1002 144",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "42/2017"
+}
+},
+{
+"d": "2017-04-10",
+"c": {
+"inw": "nadbudowa budynku szkoły nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Miasto st. Warszawa",
+"nier": "Samogłoska 9",
+"dz": "146504_8 1002 145",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "42/2017"
+}
+},
+{
+"d": "2017-04-10",
+"c": {
+"inw": "nadbudowa budynku szkoły nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Miasto st. Warszawa",
+"nier": "Samogłoska 9",
+"dz": "146504_8 1002 146/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "42/2017"
+}
+},
+{
+"d": "2017-04-10",
+"c": {
+"inw": "nadbudowa budynku szkoły nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Miasto st. Warszawa",
+"nier": "Samogłoska 9",
+"dz": "146504_8 1002 147",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "42/2017"
+}
+},
+{
+"d": "2017-04-10",
+"c": {
+"inw": "nadbudowa budynku szkoły nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Miasto st. Warszawa",
+"nier": "Samogłoska 9",
+"dz": "146504_8 1002 159",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "42/2017"
+}
+},
+{
+"d": "2017-04-10",
+"c": {
+"inw": "nadbudowa budynku szkoły nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Miasto st. Warszawa",
+"nier": "Samogłoska 9",
+"dz": "146504_8 1002 160",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "42/2017"
+}
+},
+{
+"d": "2017-04-10",
+"c": {
+"inw": "nadbudowa budynku szkoły nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Miasto st. Warszawa",
+"nier": "Samogłoska 9",
+"dz": "146504_8 1002 161",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "42/2017"
+}
+},
+{
+"d": "2017-04-10",
+"c": {
+"inw": "nadbudowa budynku szkoły nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Miasto st. Warszawa",
+"nier": "Samogłoska 9",
+"dz": "146504_8 1002 162",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "42/2017"
+}
+},
+{
+"d": "2017-04-10",
+"c": {
+"inw": "nadbudowa budynku szkoły nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Miasto st. Warszawa",
+"nier": "Samogłoska 9",
+"dz": "146504_8 1002 163",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "42/2017"
+}
+},
+{
+"d": "2017-04-04",
+"c": {
+"inw": "sieć gazowa średniego ciśnienia wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polska Spółka Gazownictwa Sp.zo.o.",
+"nier": "Andromedy",
+"dz": "146504_8 1214 204/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/2017"
+}
+},
+{
+"d": "2017-04-04",
+"c": {
+"inw": "sieć gazowa średniego ciśnienia wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polska Spółka Gazownictwa Sp.zo.o.",
+"nier": "Andromedy",
+"dz": "146504_8 1214 478/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/2017"
+}
+},
+{
+"d": "2017-04-04",
+"c": {
+"inw": "rozbudowa hali warsztatowej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Aleja Władysława Reymonta 50",
+"dz": "146504_8 0804 25",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "40/2017"
+}
+},
+{
+"d": "2017-04-04",
+"c": {
+"inw": "rozbudowa hali warsztatowej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Aleja Władysława Reymonta 50",
+"dz": "146504_8 0804 26",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "40/2017"
+}
+},
+{
+"d": "2017-03-31",
+"c": {
+"inw": "przebudowa, docieplenie, remont budynku szkoły wraz z częściową zmianą sposobu użytkowania dla potrzeb oddziału przedszkolnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto St. Warszawa",
+"nier": "Samogłoska 9",
+"dz": "146504_8 1002 144",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/2017"
+}
+},
+{
+"d": "2017-03-31",
+"c": {
+"inw": "przebudowa, docieplenie, remont budynku szkoły wraz z częściową zmianą sposobu użytkowania dla potrzeb oddziału przedszkolnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto St. Warszawa",
+"nier": "Samogłoska 9",
+"dz": "146504_8 1002 145",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/2017"
+}
+},
+{
+"d": "2017-03-31",
+"c": {
+"inw": "przebudowa, docieplenie, remont budynku szkoły wraz z częściową zmianą sposobu użytkowania dla potrzeb oddziału przedszkolnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto St. Warszawa",
+"nier": "Samogłoska 9",
+"dz": "146504_8 1002 146/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/2017"
+}
+},
+{
+"d": "2017-03-31",
+"c": {
+"inw": "przebudowa, docieplenie, remont budynku szkoły wraz z częściową zmianą sposobu użytkowania dla potrzeb oddziału przedszkolnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto St. Warszawa",
+"nier": "Samogłoska 9",
+"dz": "146504_8 1002 147",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/2017"
+}
+},
+{
+"d": "2017-03-31",
+"c": {
+"inw": "przebudowa, docieplenie, remont budynku szkoły wraz z częściową zmianą sposobu użytkowania dla potrzeb oddziału przedszkolnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto St. Warszawa",
+"nier": "Samogłoska 9",
+"dz": "146504_8 1002 159",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/2017"
+}
+},
+{
+"d": "2017-03-31",
+"c": {
+"inw": "przebudowa, docieplenie, remont budynku szkoły wraz z częściową zmianą sposobu użytkowania dla potrzeb oddziału przedszkolnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto St. Warszawa",
+"nier": "Samogłoska 9",
+"dz": "146504_8 1002 160",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/2017"
+}
+},
+{
+"d": "2017-03-31",
+"c": {
+"inw": "przebudowa, docieplenie, remont budynku szkoły wraz z częściową zmianą sposobu użytkowania dla potrzeb oddziału przedszkolnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto St. Warszawa",
+"nier": "Samogłoska 9",
+"dz": "146504_8 1002 161",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/2017"
+}
+},
+{
+"d": "2017-03-31",
+"c": {
+"inw": "przebudowa, docieplenie, remont budynku szkoły wraz z częściową zmianą sposobu użytkowania dla potrzeb oddziału przedszkolnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto St. Warszawa",
+"nier": "Samogłoska 9",
+"dz": "146504_8 1002 162",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/2017"
+}
+},
+{
+"d": "2017-03-31",
+"c": {
+"inw": "przebudowa, docieplenie, remont budynku szkoły wraz z częściową zmianą sposobu użytkowania dla potrzeb oddziału przedszkolnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto St. Warszawa",
+"nier": "Samogłoska 9",
+"dz": "146504_8 1002 163",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/2017"
+}
+},
+{
+"d": "2017-03-31",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych wielorodzinnych z usługami w parterach z garażami podziemnymi, z dwoma klatkami schodowymi, pawilonu handlowego, dwóch szczelnych zbiorników retencyjnych, rampy zjazdowej oraz infrastruktury technicznej (projekt zamienny) budowa nowego/nowych obiektów budowlanych",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "",
+"dz": "146504_8 0807 46",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "25/A/2017"
+}
+},
+{
+"d": "2017-03-31",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych wielorodzinnych z usługami w parterach z garażami podziemnymi, z dwoma klatkami schodowymi, pawilonu handlowego, dwóch szczelnych zbiorników retencyjnych, rampy zjazdowej oraz infrastruktury technicznej (projekt zamienny) budowa nowego/nowych obiektów budowlanych",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "",
+"dz": "146504_8 0807 48/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "25/A/2017"
+}
+},
+{
+"d": "2017-03-31",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych wielorodzinnych z usługami w parterach z garażami podziemnymi, z dwoma klatkami schodowymi, pawilonu handlowego, dwóch szczelnych zbiorników retencyjnych, rampy zjazdowej oraz infrastruktury technicznej (projekt zamienny) budowa nowego/nowych obiektów budowlanych",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "",
+"dz": "146504_8 0807 48/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "25/A/2017"
+}
+},
+{
+"d": "2017-03-31",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych wielorodzinnych z usługami w parterach z garażami podziemnymi, z dwoma klatkami schodowymi, pawilonu handlowego, dwóch szczelnych zbiorników retencyjnych, rampy zjazdowej oraz infrastruktury technicznej (projekt zamienny) budowa nowego/nowych obiektów budowlanych",
+"wn": "Warszawska Spółdzielnia Budowlano-Mieszkaniowa \"Chomiczówka\"",
+"nier": "",
+"dz": "146504_8 0807 48/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "25/A/2017"
+}
+},
+{
+"d": "2017-03-30",
+"c": {
+"inw": "budowa budynku mieszklanego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Zuga 6 / Bogumiła",
+"dz": "146504_8 0509 71",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "38/2017"
+}
+},
+{
+"d": "2017-03-28",
+"c": {
+"inw": "rozbudowa i nadbudowaistniejącego busynku gospodarczego o funkcję mieszkalną oraz zmiana sposobu użytkowania rozbudowywanego budynku z funkcji gospodarczej na mieszkalną rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Kalambur 34",
+"dz": "146504_8 1106 88",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "36/2017"
+}
+},
+{
+"d": "2017-03-28",
+"c": {
+"inw": "rozbudowa i nadbudowaistniejącego busynku gospodarczego o funkcję mieszkalną oraz zmiana sposobu użytkowania rozbudowywanego budynku z funkcji gospodarczej na mieszkalną rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Kalambur 34",
+"dz": "146504_8 1106 89",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "36/2017"
+}
+},
+{
+"d": "2017-03-28",
+"c": {
+"inw": "przebudowa lokalu mieszkalnego w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Gwiaździsta 27",
+"dz": "146504_8 0403 28/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "37/2017"
+}
+},
+{
+"d": "2017-03-28",
+"c": {
+"inw": "magazyn broni i amunicji wewnątrz istniejącego magazynu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Normark Polska Sp.zo.o.",
+"nier": "Kabaretowa 31",
+"dz": "146504_8 1102 96",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "35/2017"
+}
+},
+{
+"d": "2017-03-27",
+"c": {
+"inw": "wymiana substancji istniejącego budynku zapleczowego wraz z budową części podziemnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Bulanda, Mucha Architekci Sp.zo.o.",
+"nier": "Lipińska 4",
+"dz": "146504_8 0503 114",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "34/2017"
+}
+},
+{
+"d": "2017-03-27",
+"c": {
+"inw": "wymiana substancji istniejącego budynku zapleczowego wraz z budową części podziemnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Bulanda, Mucha Architekci Sp.zo.o.",
+"nier": "Lipińska 4",
+"dz": "146504_8 0503 148",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "34/2017"
+}
+},
+{
+"d": "2017-03-24",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Dzierżoniowska 5B",
+"dz": "146504_8 1005 8/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "32/2017"
+}
+},
+{
+"d": "2017-03-24",
+"c": {
+"inw": "budowa myjni i lakierni całopojazdowej oraz budowa myjni zewnętrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "Tramwaje Warszawskie Sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "33/2017"
+}
+},
+{
+"d": "2017-03-24",
+"c": {
+"inw": "budowa myjni i lakierni całopojazdowej oraz budowa myjni zewnętrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "Tramwaje Warszawskie Sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "33/2017"
+}
+},
+{
+"d": "2017-03-24",
+"c": {
+"inw": "budowa myjni i lakierni całopojazdowej oraz budowa myjni zewnętrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "Tramwaje Warszawskie Sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "33/2017"
+}
+},
+{
+"d": "2017-03-24",
+"c": {
+"inw": "budowa myjni i lakierni całopojazdowej oraz budowa myjni zewnętrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "Tramwaje Warszawskie Sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "33/2017"
+}
+},
+{
+"d": "2017-03-24",
+"c": {
+"inw": "budowa myjni i lakierni całopojazdowej oraz budowa myjni zewnętrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "Tramwaje Warszawskie Sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "33/2017"
+}
+},
+{
+"d": "2017-03-24",
+"c": {
+"inw": "budowa myjni i lakierni całopojazdowej oraz budowa myjni zewnętrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "Tramwaje Warszawskie Sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "33/2017"
+}
+},
+{
+"d": "2017-03-24",
+"c": {
+"inw": "budowa myjni i lakierni całopojazdowej oraz budowa myjni zewnętrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "Tramwaje Warszawskie Sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "33/2017"
+}
+},
+{
+"d": "2017-03-24",
+"c": {
+"inw": "budowa myjni i lakierni całopojazdowej oraz budowa myjni zewnętrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "Tramwaje Warszawskie Sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "33/2017"
+}
+},
+{
+"d": "2017-03-24",
+"c": {
+"inw": "budowa myjni i lakierni całopojazdowej oraz budowa myjni zewnętrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "Tramwaje Warszawskie Sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "33/2017"
+}
+},
+{
+"d": "2017-03-24",
+"c": {
+"inw": "budowa myjni i lakierni całopojazdowej oraz budowa myjni zewnętrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "Tramwaje Warszawskie Sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "33/2017"
+}
+},
+{
+"d": "2017-03-24",
+"c": {
+"inw": "budowa myjni i lakierni całopojazdowej oraz budowa myjni zewnętrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "Tramwaje Warszawskie Sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "33/2017"
+}
+},
+{
+"d": "2017-03-24",
+"c": {
+"inw": "budowa myjni i lakierni całopojazdowej oraz budowa myjni zewnętrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "Tramwaje Warszawskie Sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "33/2017"
+}
+},
+{
+"d": "2017-03-24",
+"c": {
+"inw": "budowa myjni i lakierni całopojazdowej oraz budowa myjni zewnętrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "Tramwaje Warszawskie Sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "33/2017"
+}
+},
+{
+"d": "2017-03-24",
+"c": {
+"inw": "budowa myjni i lakierni całopojazdowej oraz budowa myjni zewnętrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "Tramwaje Warszawskie Sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "33/2017"
+}
+},
+{
+"d": "2017-03-24",
+"c": {
+"inw": "budowa myjni i lakierni całopojazdowej oraz budowa myjni zewnętrznej budowa nowego/nowych obiektów budowlanych",
+"wn": "Tramwaje Warszawskie Sp.zo.o.",
+"nier": "Zgrupowania AK \"Kampinos\" 10",
+"dz": "146504_8 1103 2/23",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "33/2017"
+}
+},
+{
+"d": "2017-03-24",
+"c": {
+"inw": "montaż zespołu urządzeń telefonii komórkowej PLAY budowa nowego/nowych obiektów budowlanych",
+"wn": "P4 Sp.zo.o.",
+"nier": "Trylogii 2",
+"dz": "146504_8 1002 174",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "31/2017"
+}
+},
+{
+"d": "2017-03-24",
+"c": {
+"inw": "montaż zespołu urządzeń telefonii komórkowej PLAY budowa nowego/nowych obiektów budowlanych",
+"wn": "P4 Sp.zo.o.",
+"nier": "Trylogii 2",
+"dz": "146504_8 1002 175",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "31/2017"
+}
+},
+{
+"d": "2017-03-24",
+"c": {
+"inw": "montaż zespołu urządzeń telefonii komórkowej PLAY budowa nowego/nowych obiektów budowlanych",
+"wn": "P4 Sp.zo.o.",
+"nier": "Trylogii 2",
+"dz": "146504_8 1002 176",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "31/2017"
+}
+},
+{
+"d": "2017-03-24",
+"c": {
+"inw": "montaż zespołu urządzeń telefonii komórkowej PLAY budowa nowego/nowych obiektów budowlanych",
+"wn": "P4 Sp.zo.o.",
+"nier": "Trylogii 2",
+"dz": "146504_8 1002 177",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "31/2017"
+}
+},
+{
+"d": "2017-03-24",
+"c": {
+"inw": "montaż zespołu urządzeń telefonii komórkowej PLAY budowa nowego/nowych obiektów budowlanych",
+"wn": "P4 Sp.zo.o.",
+"nier": "Trylogii 2",
+"dz": "146504_8 1002 178",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "31/2017"
+}
+},
+{
+"d": "2017-03-24",
+"c": {
+"inw": "montaż zespołu urządzeń telefonii komórkowej PLAY budowa nowego/nowych obiektów budowlanych",
+"wn": "P4 Sp.zo.o.",
+"nier": "Trylogii 2",
+"dz": "146504_8 1002 179",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "31/2017"
+}
+},
+{
+"d": "2017-03-24",
+"c": {
+"inw": "montaż zespołu urządzeń telefonii komórkowej PLAY budowa nowego/nowych obiektów budowlanych",
+"wn": "P4 Sp.zo.o.",
+"nier": "Trylogii 2",
+"dz": "146504_8 1002 180",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "31/2017"
+}
+},
+{
+"d": "2017-03-22",
+"c": {
+"inw": "ocieplenie elewacji wraz z ociepleniem dachu w budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości",
+"nier": "Kasprowicza 20 / Jana",
+"dz": "146504_8 0509 121",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "29/2017"
+}
+},
+{
+"d": "2017-03-22",
+"c": {
+"inw": "przebudowa i rozbudowa budynku mieszkalnego jednorodzinnego w zabudowie bliźniaczej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Bajana 30A / Jerzego",
+"dz": "146504_8 0812 150",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "30/2017"
+}
+},
+{
+"d": "2017-03-17",
+"c": {
+"inw": "budynek mieszkalny wielorodzinny z garażem podziemnym, zjazdem, infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Bouyguess Immobilier Polska Sp.zo.o.",
+"nier": "Czechowa / Antoniego",
+"dz": "146504_8 0805 26/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "28/2017"
+}
+},
+{
+"d": "2017-03-17",
+"c": {
+"inw": "budynek mieszkalny wielorodzinny z garażem podziemnym, zjazdem, infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Bouyguess Immobilier Polska Sp.zo.o.",
+"nier": "Czechowa / Antoniego",
+"dz": "146504_8 0805 149/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "28/2017"
+}
+},
+{
+"d": "2017-03-17",
+"c": {
+"inw": "budynek mieszkalny wielorodzinny z garażem podziemnym, zjazdem, infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Bouyguess Immobilier Polska Sp.zo.o.",
+"nier": "Czechowa / Antoniego",
+"dz": "146504_8 0805 149/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "28/2017"
+}
+},
+{
+"d": "2017-03-16",
+"c": {
+"inw": "wykonanie przejścia pomiędzy dwoma istniejącymi lokalami usługowymi wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Panton s.c.",
+"nier": "Żeromskiego 4B / Stefana",
+"dz": "146504_8 0510 29",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "27/2017"
+}
+},
+{
+"d": "2017-03-14",
+"c": {
+"inw": "remont stropu nad lokalem mieszkalnym w budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Schroegera 74 / Efraima",
+"dz": "146504_8 0503 40",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "26/2017"
+}
+},
+{
+"d": "2017-03-13",
+"c": {
+"inw": "budynek mieszkalny wielorodzinny 6 - lokalowy z garażem podziemnym i zagospodarowniem terenu oraz wewn. instalacją gazową budowa nowego/nowych obiektów budowlanych",
+"wn": "OMD Development Sp. zo.o.",
+"nier": "Kolektorska 56",
+"dz": "146504_8 0408 68",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "25/2017"
+}
+},
+{
+"d": "2017-03-13",
+"c": {
+"inw": "przebudowa budynku mieszkalnego jednorodzinnego w zabudowie bliźniaczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Staffa 107B / Leopolda",
+"dz": "146504_8 0512 77",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "24/2017"
+}
+},
+{
+"d": "2017-03-10",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolno stojącego wraz z infrastrukturą techniczną i instalacją gazu budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Pasterska 7",
+"dz": "146504_8 1001 95",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "23/2017"
+}
+},
+{
+"d": "2017-03-08",
+"c": {
+"inw": "przebudowa ściany konstrukcyjnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Andersena 2 / Hansa Christiana",
+"dz": "146504_8 0506 154",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "22/2017"
+}
+},
+{
+"d": "2017-02-27",
+"c": {
+"inw": "budowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "ERGA Development Sp.zo.o.",
+"nier": "Arkuszowa 169a",
+"dz": "146504_8 1209 14/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "20/2017"
+}
+},
+{
+"d": "2017-02-27",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Arkuszowa",
+"dz": "146504_8 1209 7",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "21/2017"
+}
+},
+{
+"d": "2017-02-24",
+"c": {
+"inw": "budowa instalacji gazu do budynku mieszkalnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Arkuszowa 32",
+"dz": "146504_8 1208 122",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "19/2017"
+}
+},
+{
+"d": "2017-02-20",
+"c": {
+"inw": "budowa budynku biurowego z garażem podziemnym i infrastrukturą techniczną wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Kaskada Park Sp.zo.o.",
+"nier": "Kolektorska",
+"dz": "146504_8 0407 13/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "18/2017"
+}
+},
+{
+"d": "2017-02-20",
+"c": {
+"inw": "budowa budynku biurowego z garażem podziemnym i infrastrukturą techniczną wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Kaskada Park Sp.zo.o.",
+"nier": "Kolektorska",
+"dz": "146504_8 0407 13/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "18/2017"
+}
+},
+{
+"d": "2017-02-09",
+"c": {
+"inw": "budowa centrum sportowego budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1 / Kazimierza",
+"dz": "146504_8 1002 89",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "17/2017"
+}
+},
+{
+"d": "2017-02-09",
+"c": {
+"inw": "budowa centrum sportowego budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1 / Kazimierza",
+"dz": "146504_8 1002 91",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "17/2017"
+}
+},
+{
+"d": "2017-02-09",
+"c": {
+"inw": "budowa centrum sportowego budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1 / Kazimierza",
+"dz": "146504_8 1002 104",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "17/2017"
+}
+},
+{
+"d": "2017-02-09",
+"c": {
+"inw": "budowa centrum sportowego budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1 / Kazimierza",
+"dz": "146504_8 1002 107",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "17/2017"
+}
+},
+{
+"d": "2017-02-09",
+"c": {
+"inw": "budowa centrum sportowego budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1 / Kazimierza",
+"dz": "146504_8 1002 201/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "17/2017"
+}
+},
+{
+"d": "2017-02-09",
+"c": {
+"inw": "budowa centrum sportowego budowa nowego/nowych obiektów budowlanych",
+"wn": "Uniwersytet Kardynała Stefana Wyszyńskiego",
+"nier": "Wóycickiego 1 / Kazimierza",
+"dz": "146504_8 1002 201/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "17/2017"
+}
+},
+{
+"d": "2017-02-06",
+"c": {
+"inw": "rozbiórka budynku rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Jamki",
+"dz": "146504_8 1001 27/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "3/R/2017"
+}
+},
+{
+"d": "2017-02-03",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego  i budynków gospodarczych rozbiórka istniejącego obiektu budowlanego",
+"wn": "Chrzanowscy Development Sp. zo.o.",
+"nier": "Łomiańska 3",
+"dz": "146504_8 0409 236",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "2/R/2017"
+}
+},
+{
+"d": "2017-02-03",
+"c": {
+"inw": "rozbudowa, przebudowa i nadbudowa domu jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Groteski 6",
+"dz": "146504_8 1202 34/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "16/2017"
+}
+},
+{
+"d": "2017-02-02",
+"c": {
+"inw": "instalacja gazu dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Wólczyńska 311",
+"dz": "146504_8 1205 5/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "15/2017"
+}
+},
+{
+"d": "2017-02-01",
+"c": {
+"inw": "budowa masztu flagowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zarząd Transportu Miejskiego",
+"nier": "Kasprowicza / Jana",
+"dz": "146504_8 0702 47",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "14/2017"
+}
+},
+{
+"d": "2017-02-01",
+"c": {
+"inw": "budowa masztu flagowego AGRA wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zarząd Transportu Miejskiego",
+"nier": "Kasprowicza 145 / Jana",
+"dz": "146504_8 1108 7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "13/2017"
+}
+},
+{
+"d": "2017-01-30",
+"c": {
+"inw": "przebudowa budynku mieszkalnego jednorodzinnego w zabudowie szeregowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Gdańska 42",
+"dz": "146504_8 0708 38",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "12/2017"
+}
+},
+{
+"d": "2017-01-25",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym, zagospodarowaniem terenu i niezbędną infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "POL-MOT Holding S.A",
+"nier": "Sokratesa 17B",
+"dz": "146504_8 0801 11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "11/2017"
+}
+},
+{
+"d": "2017-01-20",
+"c": {
+"inw": "remont elewacji kamienicy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości",
+"nier": "25",
+"dz": "146504_8 0509 59",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "10/2017"
+}
+},
+{
+"d": "2017-01-13",
+"c": {
+"inw": "wymiana wewn. instalacji gazu w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "S.M \"DOMHUT\"",
+"nier": "Marymoncka 147",
+"dz": "146504_8 0701 59",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "9/2017"
+}
+},
+{
+"d": "2017-01-13",
+"c": {
+"inw": "budowa budynku jednorodzinnego wolnostojącego wraz z niezbędną infrastrukturą, zewn. instalacją kanalizacyjną, wewn. linią zasilającą oraz zewn. instalacją gazową budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Arkuszowa",
+"dz": "146504_8 1207 22/8",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "8/2017"
+}
+},
+{
+"d": "2017-01-11",
+"c": {
+"inw": "budowa sieci gazowej ś/c DN 63 PE do budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polska Spólka Gazownictwa Sp.zo.o.",
+"nier": "Estrady",
+"dz": "146504_8 1211 4/4",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "6/2017"
+}
+},
+{
+"d": "2017-01-11",
+"c": {
+"inw": "rozbiórka budynku gospodarczego pełniącego funkcję pomocniczą i magazynową rozbiórka istniejącego obiektu budowlanego",
+"wn": "Miasto Stołeczne Warszawa- Warszawskie Centrum Pomocy Rodzinie",
+"nier": "Lipińska 2",
+"dz": "146504_8 0503 116",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "1/R/2017"
+}
+},
+{
+"d": "2017-01-11",
+"c": {
+"inw": "rozbiórka budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Warszawskie Centrum Pomocy Rodzinie",
+"nier": "Lipińska 2",
+"dz": "146504_8 0503 116",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "1/R/2017"
+}
+},
+{
+"d": "2017-01-11",
+"c": {
+"inw": "przebudowa pomieszczeń budynku oraz przyległych pomieszczeń  instytutu meterologii i gospodarki wodnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Instytut Meteorologii i Gospodarki Wodnej",
+"nier": "Podleśna 61",
+"dz": "146504_8 0401 9/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "7/2017"
+}
+},
+{
+"d": "2017-01-11",
+"c": {
+"inw": "przebudowa pomieszczeń budynku oraz przyległych pomieszczeń  instytutu meterologii i gospodarki wodnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Instytut Meteorologii i Gospodarki Wodnej",
+"nier": "Podleśna 61",
+"dz": "146504_8 0401 9/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "7/2017"
+}
+},
+{
+"d": "2017-01-10",
+"c": {
+"inw": "budowa budynku mieszkalnego wraz z parkingiem podziemnym i zagospodarowaniem terenu rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Bouygues Immobilier Polska Sp.zo.o",
+"nier": "Oczapowskiego / Michała",
+"dz": "146504_8 0804 24",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "5/2017"
+}
+},
+{
+"d": "2017-01-04",
+"c": {
+"inw": "wymiana instalacji gazu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości",
+"nier": "Żeromskiego 66/72A / Stefana",
+"dz": "146504_8 0506 104/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "4/2017"
+}
+},
+{
+"d": "2017-01-02",
+"c": {
+"inw": "projekt zamienny budowy budynku mieszkalnego jednorodzinnego i garażu wraz z wewnętrzną instalacją gazową budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Farysa",
+"dz": "146504_8 1006 51/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "3/2017"
+}
+},
+{
+"d": "2017-01-02",
+"c": {
+"inw": "wyniesienie kurka głównego gazowego na zewnątrz budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości",
+"nier": "Kasprowicza 60 / Jana",
+"dz": "146504_8 0501 10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "1/2017"
+}
+},
+{
+"d": "2017-01-02",
+"c": {
+"inw": "wyniesienie kurka głównego gazowego na zewnątrz budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości",
+"nier": "Kasprowicza 60 / Jana",
+"dz": "146504_8 0501 14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "1/2017"
+}
+},
+{
+"d": "2017-01-02",
+"c": {
+"inw": "projekt budowlany zamienny budynku mieszkalnego polegający na budowie garażu budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Farysa",
+"dz": "146504_8 1006 53/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "2/2017"
+}
+}
+]
+}
+]
+}

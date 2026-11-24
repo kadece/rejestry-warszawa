@@ -1,0 +1,4239 @@
+{
+"district": "ochota",
+"year": 2020,
+"generated": "2026-11-24T21:22:48+01:00",
+"total": 377,
+"registers": [
+{
+"id": "wn_pnb",
+"name": "Wnioski o pozwolenie na budowę",
+"short": "Wnioski PnB",
+"desc": "Wnioski o pozwolenie na budowę złożone do organu architektoniczno-budowlanego dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer wniosku",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2020-12-29",
+"c": {
+"inw": "Budynek mieszkalny wielorodzinny z garażem podziemnym i wewnetrzną instalacją gazową budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Maszynowa 11",
+"dz": "146506_8 0317 11/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.5.2021.TGR"
+}
+},
+{
+"d": "2020-12-22",
+"c": {
+"inw": "zmiana lokali mieszkalnych na usługowe wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PHU Konstans Sp. z o.o.",
+"nier": "Siemieńskiego 3 / Józefa",
+"dz": "146506_8 0309 17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.122.2020.EZA"
+}
+},
+{
+"d": "2020-12-22",
+"c": {
+"inw": "zmiana lokali mieszkalnych na usługowe wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PHU Konstans Sp. z o.o.",
+"nier": "Siemieńskiego 3 / Józefa",
+"dz": "146506_8 0309 20/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.122.2020.EZA"
+}
+},
+{
+"d": "2020-12-22",
+"c": {
+"inw": "Przebudowa lokali mieszkalnych nr 40 i 41 na poddaszu w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Drawska 10A",
+"dz": "146506_8 0312 5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.4.2021.TGR"
+}
+},
+{
+"d": "2020-12-21",
+"c": {
+"inw": "Docieplenie elewacji wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Pierwsza Wojskowa Spółdzielnia Mieszkaniowa",
+"nier": "Grójecka 116",
+"dz": "146596_8 0308 89",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.121.2020.EZA"
+}
+},
+{
+"d": "2020-12-21",
+"c": {
+"inw": "Docieplenie elewacji wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Pierwsza Wojskowa Spółdzielnia Mieszkaniowa",
+"nier": "Grójecka 116",
+"dz": "146596_8 0308 79/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.121.2020.EZA"
+}
+},
+{
+"d": "2020-12-16",
+"c": {
+"inw": "Przebudowa układów pomiarowych oraz układów technologicznych Filtrów Pospiesznych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "81",
+"dz": "146506_8 0103 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.120.2020.MAJ"
+}
+},
+{
+"d": "2020-12-15",
+"c": {
+"inw": "budowa zespołu budynków mieszkalnych wielorodzinnych z usługami, parkingiem podziemnym i infrastruktura towarzyszącą budowa nowego/nowych obiektów budowlanych",
+"wn": "Brading Sp. z o.o.",
+"nier": "59",
+"dz": "146506_8 0317 39/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.138.2018.TGR"
+}
+},
+{
+"d": "2020-11-30",
+"c": {
+"inw": "Rozbudowa i budowa pawilonów usługowo-handlowych na \"Rynku Włodarzy\" rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "S.P.Property Jarosław Pawłowski",
+"nier": "Włodarzewska 58",
+"dz": "146506_8 0312 8/32",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.118.2020.TGR"
+}
+},
+{
+"d": "2020-11-30",
+"c": {
+"inw": "Rozbudowa i budowa pawilonów usługowo-handlowych na \"Rynku Włodarzy\" rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "S.P.Property Jarosław Pawłowski",
+"nier": "Włodarzewska 58",
+"dz": "146506_8 0312 8/30",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.118.2020.TGR"
+}
+},
+{
+"d": "2020-11-30",
+"c": {
+"inw": "Rozbudowa i budowa pawilonów usługowo-handlowych na \"Rynku Włodarzy\" rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "S.P.Property Jarosław Pawłowski",
+"nier": "Włodarzewska 58",
+"dz": "146506_8 0312 8/34",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.118.2020.TGR"
+}
+},
+{
+"d": "2020-11-23",
+"c": {
+"inw": "wybicie otworu w ścianie konstrukcyjnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Plenilunium Jakub Cydzik",
+"nier": "Białobrzeska 4A",
+"dz": "146506_8 0308 49/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.117.2020.EZA"
+}
+},
+{
+"d": "2020-11-16",
+"c": {
+"inw": "rozbudowa i przebudowa istniejącego budynku salonu ekspozycyjnego wraz z infrastrukturą techniczną oraz rozbiórka pawilonu wiaty ekspozycyjnej samochodów używanych wraz z infrastrukturą techniczną rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Renault Retail Group Warszawa sp.z o.o. Polska",
+"nier": "Aleje Jerozolimskie 156",
+"dz": "146506_8 0304 16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.116.2020.MAJ"
+}
+},
+{
+"d": "2020-10-21",
+"c": {
+"inw": "poszerzenie otworu drzwiowego w ścianie konstrukcyjnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Barska",
+"dz": "146506_8 0204 117",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.114.2020.EZA"
+}
+},
+{
+"d": "2020-10-21",
+"c": {
+"inw": "budynek mieszkalny jednorodzinny wolnostojący z garażem wbudowanym i urządzeniami technicznymi w tym instalacją gazową budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Filipinki 13",
+"dz": "146506_8 0305 8/6",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.112.2020.TGR"
+}
+},
+{
+"d": "2020-10-14",
+"c": {
+"inw": "wymiana stolarki okiennej oraz drzwi zewnętrznych do mieszkania nr 16 w budynku wpisanym do rejestru budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Filtrowa 68",
+"dz": "146506_8 0202 56",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.110.2020.MAJ"
+}
+},
+{
+"d": "2020-10-10",
+"c": {
+"inw": "przebudowa powierzchni biurowej na potrzrby firmy CODECOOL w budynku EQUATOR IV wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Equator IV Office sp. z o.o.",
+"nier": "Aleje Jerozolimskie 100",
+"dz": "146506_8 0204 1/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.111.2020.MAJ"
+}
+},
+{
+"d": "2020-10-10",
+"c": {
+"inw": "przebudowa powierzchni biurowej na potrzrby firmy CODECOOL w budynku EQUATOR IV wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Equator IV Office sp. z o.o.",
+"nier": "Aleje Jerozolimskie 100",
+"dz": "146506_8 0203 35",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.111.2020.MAJ"
+}
+},
+{
+"d": "2020-10-02",
+"c": {
+"inw": "budowa przyłącza sieci C.O. budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Rudawska 3",
+"dz": "146506_8 0105 25",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.109.2020.JUS"
+}
+},
+{
+"d": "2020-10-02",
+"c": {
+"inw": "Wykonanie robót budowlanych w lokalu nr 7 ul. Pawińskiego 18 Warszawa obejmujących przebudowę lokalu nr 7 w celu wyodrębnienia dwóch samodzielnych lokali mieszkalnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Pawińskiego 18 / Adolfa",
+"dz": "146506_8 0309 53/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.108.2020.DMO"
+}
+},
+{
+"d": "2020-09-29",
+"c": {
+"inw": "remont elewacji wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Rokosowska 1",
+"nier": "Rokosowska 1",
+"dz": "146506_8 0207 80",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.106.2020.EZA"
+}
+},
+{
+"d": "2020-09-29",
+"c": {
+"inw": "remont elewacji wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Rokosowska 1",
+"nier": "Rokosowska 1",
+"dz": "146506_8 0207 81",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.106.2020.EZA"
+}
+},
+{
+"d": "2020-09-24",
+"c": {
+"inw": "Budowa budynku wielofunkcyjnego łączącego funkcje: domu dziennego pobytu dla seniorów, środowiskowego domu samopomocy, placówkę opiekuńczo-wychowawczą oraz żłobek wraz z zagospodarowaniem terenu obejmującym: budowę dojść i dojazdów do budynku, parkingi ze zjazdami na drogę publiczną (dz. nr ew. 9, 15 obręb 2-03-20), plac zabaw dla żłobka, wraz z niezbędną infrastrukturą techniczną oraz rozbiórką istniejących budynków na działce przy ul. Korotyńskiego 13 w Warszawie dz. nr ew. 11 obręb 2-03-20 budowa nowego/nowych obiektów budowlanych",
+"wn": "Stołeczny Zarząd Rozbudowy Miasta",
+"nier": "Korotyńskiego 13 / Władysława",
+"dz": "146506_8 0320 11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.107.2020.DMO"
+}
+},
+{
+"d": "2020-09-24",
+"c": {
+"inw": "Budowa budynku wielofunkcyjnego łączącego funkcje: domu dziennego pobytu dla seniorów, środowiskowego domu samopomocy, placówkę opiekuńczo-wychowawczą oraz żłobek wraz z zagospodarowaniem terenu obejmującym: budowę dojść i dojazdów do budynku, parkingi ze zjazdami na drogę publiczną (dz. nr ew. 9, 15 obręb 2-03-20), plac zabaw dla żłobka, wraz z niezbędną infrastrukturą techniczną oraz rozbiórką istniejących budynków na działce przy ul. Korotyńskiego 13 w Warszawie dz. nr ew. 11 obręb 2-03-20 budowa nowego/nowych obiektów budowlanych",
+"wn": "Stołeczny Zarząd Rozbudowy Miasta",
+"nier": "Korotyńskiego 13 / Władysława",
+"dz": "146506_8 0320 9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.107.2020.DMO"
+}
+},
+{
+"d": "2020-09-24",
+"c": {
+"inw": "Budowa budynku wielofunkcyjnego łączącego funkcje: domu dziennego pobytu dla seniorów, środowiskowego domu samopomocy, placówkę opiekuńczo-wychowawczą oraz żłobek wraz z zagospodarowaniem terenu obejmującym: budowę dojść i dojazdów do budynku, parkingi ze zjazdami na drogę publiczną (dz. nr ew. 9, 15 obręb 2-03-20), plac zabaw dla żłobka, wraz z niezbędną infrastrukturą techniczną oraz rozbiórką istniejących budynków na działce przy ul. Korotyńskiego 13 w Warszawie dz. nr ew. 11 obręb 2-03-20 budowa nowego/nowych obiektów budowlanych",
+"wn": "Stołeczny Zarząd Rozbudowy Miasta",
+"nier": "Korotyńskiego 13 / Władysława",
+"dz": "146506_8 0320 15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.107.2020.DMO"
+}
+},
+{
+"d": "2020-09-22",
+"c": {
+"inw": "przebudowa II i III pietro ( wybicie otworów drzwiowych) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Mazowieckie Centrum Rehabilitacji STOCER Sp. z o.o.",
+"nier": "Barska 16/20",
+"dz": "146506_8 0204 95/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.105.2020.EZA"
+}
+},
+{
+"d": "2020-09-16",
+"c": {
+"inw": "Wykonanie instalacji wentylacji i przebudowa instalacji klimatyzacji w remontowanych pomieszczeniach biurowych PZU z wykonaniem otworów dla kanałów w stropach w budynku usługowo-mieszkalnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PZU S.A.",
+"nier": "Grójecka 186",
+"dz": "146506_8 0313 63",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.104.2020.TGR"
+}
+},
+{
+"d": "2020-09-10",
+"c": {
+"inw": "przebudowa lokalu - podział na dwa lokale mieszkalne wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Uniwersytecka 1",
+"dz": "146506_8 0205 70",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.99.2020.JUS"
+}
+},
+{
+"d": "2020-09-10",
+"c": {
+"inw": "remont elewacji wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Raszyńska 48",
+"dz": "146506_8 0205 46",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.100.2020.JUS"
+}
+},
+{
+"d": "2020-09-08",
+"c": {
+"inw": "przebudowa oraz rozbudowa pawilonu sklepowego stacji paliw Shell wraz z przebudową niezbędnej infrastruktury technicznej w tym instalacji wodnej, kanalizacyjnej, energetycznej i telekomunikacyjnej. rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Shell Polska sp. z o.o.",
+"nier": "Aleje Jerozolimskie 152",
+"dz": "146506_8 0301 38",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.102.2020.MAJ"
+}
+},
+{
+"d": "2020-09-08",
+"c": {
+"inw": "rozbudowa i przebudowa istniejącego budynku pompowni DEF wraz z przebudową odcinka sieci wodociągowej, ciepłowniczej a także budową oraz przebudową sieci elektroenergetycznej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "Koszykowa 81",
+"dz": "146506_8 0103 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.103.2020.MKA"
+}
+},
+{
+"d": "2020-09-08",
+"c": {
+"inw": "remont elewacji , balkonów, tarasów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Budowlano-Mieszkaniowa przy ul. Grójeckiej 40A",
+"nier": "Grójecka 40A",
+"dz": "146506_8 0204 132",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.98.2020.EZA"
+}
+},
+{
+"d": "2020-09-07",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 77/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.101.2020.TGR"
+}
+},
+{
+"d": "2020-09-07",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 77/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.101.2020.TGR"
+}
+},
+{
+"d": "2020-09-07",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 75/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.101.2020.TGR"
+}
+},
+{
+"d": "2020-09-07",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 75/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.101.2020.TGR"
+}
+},
+{
+"d": "2020-09-07",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 73/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.101.2020.TGR"
+}
+},
+{
+"d": "2020-09-07",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 73/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.101.2020.TGR"
+}
+},
+{
+"d": "2020-09-07",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 67/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.101.2020.TGR"
+}
+},
+{
+"d": "2020-09-07",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 67/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.101.2020.TGR"
+}
+},
+{
+"d": "2020-09-07",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 37/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.101.2020.TGR"
+}
+},
+{
+"d": "2020-09-07",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 37/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.101.2020.TGR"
+}
+},
+{
+"d": "2020-09-07",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 77/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.101.2020.TGR"
+}
+},
+{
+"d": "2020-09-07",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 34/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.101.2020.TGR"
+}
+},
+{
+"d": "2020-09-07",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 77/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.101.2020.TGR"
+}
+},
+{
+"d": "2020-09-07",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 77/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.101.2020.TGR"
+}
+},
+{
+"d": "2020-09-07",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 65",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.101.2020.TGR"
+}
+},
+{
+"d": "2020-09-07",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 66",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.101.2020.TGR"
+}
+},
+{
+"d": "2020-09-07",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 34/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.101.2020.TGR"
+}
+},
+{
+"d": "2020-09-07",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 38/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.101.2020.TGR"
+}
+},
+{
+"d": "2020-09-07",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 1/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.101.2020.TGR"
+}
+},
+{
+"d": "2020-09-07",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 37/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.101.2020.TGR"
+}
+},
+{
+"d": "2020-09-07",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 38/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.101.2020.TGR"
+}
+},
+{
+"d": "2020-09-07",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.101.2020.TGR"
+}
+},
+{
+"d": "2020-09-07",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 41",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.101.2020.TGR"
+}
+},
+{
+"d": "2020-09-07",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 40",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.101.2020.TGR"
+}
+},
+{
+"d": "2020-09-07",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 49",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.101.2020.TGR"
+}
+},
+{
+"d": "2020-09-07",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 53",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.101.2020.TGR"
+}
+},
+{
+"d": "2020-09-07",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 80",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.101.2020.TGR"
+}
+},
+{
+"d": "2020-09-07",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 62/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.101.2020.TGR"
+}
+},
+{
+"d": "2020-09-07",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 62/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.101.2020.TGR"
+}
+},
+{
+"d": "2020-09-07",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 62/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.101.2020.TGR"
+}
+},
+{
+"d": "2020-09-07",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0313 56/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.101.2020.TGR"
+}
+},
+{
+"d": "2020-09-07",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0313 56/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.101.2020.TGR"
+}
+},
+{
+"d": "2020-09-07",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0313 50/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.101.2020.TGR"
+}
+},
+{
+"d": "2020-09-07",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0313 50/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.101.2020.TGR"
+}
+},
+{
+"d": "2020-09-07",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0313 47/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.101.2020.TGR"
+}
+},
+{
+"d": "2020-09-07",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0313 47/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.101.2020.TGR"
+}
+},
+{
+"d": "2020-09-07",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0313 57",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.101.2020.TGR"
+}
+},
+{
+"d": "2020-09-07",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0313 56/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.101.2020.TGR"
+}
+},
+{
+"d": "2020-09-07",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0313 49/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.101.2020.TGR"
+}
+},
+{
+"d": "2020-09-07",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0313 51/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.101.2020.TGR"
+}
+},
+{
+"d": "2020-09-07",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0313 51/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.101.2020.TGR"
+}
+},
+{
+"d": "2020-09-07",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0313 46",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.101.2020.TGR"
+}
+},
+{
+"d": "2020-09-07",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0312 10/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.101.2020.TGR"
+}
+},
+{
+"d": "2020-09-03",
+"c": {
+"inw": "Budynek mieszklany wielorodzinny z garzem podziemnym - projket zamienny wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Vagard Residence Sp z o.o. Sp.k.",
+"nier": "Maszynowa",
+"dz": "146506_8 0317 19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.93.2020.TGR"
+}
+},
+{
+"d": "2020-09-03",
+"c": {
+"inw": "Budynek mieszklany wielorodzinny z garzem podziemnym - projket zamienny wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Vagard Residence Sp z o.o. Sp.k.",
+"nier": "Maszynowa",
+"dz": "146506_8 0317 20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.93.2020.TGR"
+}
+},
+{
+"d": "2020-08-31",
+"c": {
+"inw": "montaz kasetonu reklamowego na elewacji wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tiszu Mazumder International",
+"nier": "Grójecka 34",
+"dz": "146506_8 0204 59",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.91.2020.EZA"
+}
+},
+{
+"d": "2020-08-28",
+"c": {
+"inw": "budowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Słupecka 2A",
+"dz": "146506_8 0204 58",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.90.2020.EZA"
+}
+},
+{
+"d": "2020-08-28",
+"c": {
+"inw": "Remont konserwatorski zabytkowego Budynku nr 2, na terenie Zakładu Wodociągu Centralnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A",
+"nier": "Koszykowa 81",
+"dz": "146506_8 0103 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.97.2020.MAJ"
+}
+},
+{
+"d": "2020-08-25",
+"c": {
+"inw": "nadbudowa istniejącego budynku techniczno-usługowego i jego przebudowa wraz ze zmianą sposobu użytkowania na budynek mieszkalny wielorodzinny z wbudowanym garażem wraz z rozbudową części podziemnej nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "HI Skarżyńskiego I Sp. z o.o.",
+"nier": "Skarżyńskiego 17 / Stanisława",
+"dz": "146506_8 0308 90",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.21.2019.EZA"
+}
+},
+{
+"d": "2020-08-24",
+"c": {
+"inw": "doposażenie lokalu U2 w instalacje gazową wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tiszu Mazumder International",
+"nier": "",
+"dz": "146506_8 0204 59",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.87.2020.EZA"
+}
+},
+{
+"d": "2020-08-21",
+"c": {
+"inw": "Przebudowa instalacji gazowej w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Pawińskiego 34",
+"nier": "Pawińskiego 34 / Adolfa",
+"dz": "146506_8 0314 56",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.88.2020.DMO"
+}
+},
+{
+"d": "2020-08-21",
+"c": {
+"inw": "przebudowa pow. biurowej na potrzeby biura zlokalizowanego na piętrze +11 w budynku \"EQUATOR IV\" wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Equator IV Office sp. z o.o.",
+"nier": "",
+"dz": "146506_8 0203 35",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.96.2020.MAJ"
+}
+},
+{
+"d": "2020-08-21",
+"c": {
+"inw": "Przebudowa budynku pompowni na terenie przepompowni ścieków \"Ochota\" wraz z budową instalacji dezodoryzacji oraz towarzyszącymi pracami remontowymi na terenie obiektu. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "Grójecka",
+"dz": "146506_8 0320 7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.89.2020.DMO"
+}
+},
+{
+"d": "2020-08-20",
+"c": {
+"inw": "przebudowa i nadbudowa poddasza budynku na cele mieszkalne nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Rudawska",
+"dz": "146506_8 0105 52",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.86.2020.JUS"
+}
+},
+{
+"d": "2020-08-13",
+"c": {
+"inw": "przebudowa budynku handlowo-usługowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "BP Europa SE Spółka Europejska Oddział w Polsce",
+"nier": "Aleje Jerozolimskie 144",
+"dz": "146506_8 0302 7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.85.2020.EZA"
+}
+},
+{
+"d": "2020-08-06",
+"c": {
+"inw": "budowa parkingu budowa nowego/nowych obiektów budowlanych",
+"wn": "ZDM",
+"nier": "Spiska",
+"dz": "146506_8 0201 6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Ud-V-WAB.6740.84.2020.EZA"
+}
+},
+{
+"d": "2020-08-05",
+"c": {
+"inw": "remont dachu nad halą pomp Zakładu Filtrów Pośpiesznych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociagów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "81",
+"dz": "146506_8 0103 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.83.2020.MAJ"
+}
+},
+{
+"d": "2020-08-04",
+"c": {
+"inw": "przebudowa pow. biurowej na piętrze +4 z podziałem na trzech najemców w budynku WEST STATION wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "West Station Inwestment Sp. z o.o.",
+"nier": "142B",
+"dz": "146506_8 0203 46",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.82.2020.MAJ"
+}
+},
+{
+"d": "2020-08-04",
+"c": {
+"inw": "Remont balkonu i remont barierki w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa \"Rakowiec\"",
+"nier": "Sanocka 10A",
+"dz": "146506_8 0315 25/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.79.2020.MKA"
+}
+},
+{
+"d": "2020-08-04",
+"c": {
+"inw": "wydzielenie wyjścia ewakuacyjnego z parteru wraz z wykonaniem otworu drzwiowego w elewacji północnej budynku biurowego Eurocentrum Alfa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Eurocentrum Offices Polska Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 136",
+"dz": "146506_8 0203 41",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.81.2020.MAJ"
+}
+},
+{
+"d": "2020-08-04",
+"c": {
+"inw": "wydzielenie wyjścia ewakuacyjnego z parteru wraz z wykonaniem otworu drzwiowego w elewacji północnej budynku biurowego Eurocentrum Alfa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Eurocentrum Offices Polska Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 136",
+"dz": "146506_8 0203 48",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.81.2020.MAJ"
+}
+},
+{
+"d": "2020-07-27",
+"c": {
+"inw": "remont konserwatorski mieszkania nr 34/35 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Filtrowa 68",
+"dz": "146506_8 0202 56",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.7640.80.2020.MAJ"
+}
+},
+{
+"d": "2020-07-21",
+"c": {
+"inw": "remont elewacji frontowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości ul.Opaczewska 34",
+"nier": "Opaczewska 34",
+"dz": "166506_8 0307 47",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V0WAB.6740.77.2020.EZA"
+}
+},
+{
+"d": "2020-07-21",
+"c": {
+"inw": "remont elewacji frontowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości ul.Opaczewska 34",
+"nier": "Opaczewska 34",
+"dz": "166506_8 0307 39",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V0WAB.6740.77.2020.EZA"
+}
+},
+{
+"d": "2020-07-21",
+"c": {
+"inw": "Przebudowa powierzchni biurowej na kondygnacji +3 i +4 w zachodnim skrzydle budynku Blue City Warszawa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Blue City Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 179",
+"dz": "146506_8 0302 42",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.76.2020.DMO"
+}
+},
+{
+"d": "2020-07-21",
+"c": {
+"inw": "Przebudowa powierzchni biurowej na kondygnacji +3 i +4 w zachodnim skrzydle budynku Blue City Warszawa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Blue City Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 179",
+"dz": "146506_8 0302 43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.76.2020.DMO"
+}
+},
+{
+"d": "2020-07-21",
+"c": {
+"inw": "Przebudowa powierzchni biurowej na kondygnacji +3 i +4 w zachodnim skrzydle budynku Blue City Warszawa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Blue City Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 179",
+"dz": "146506_8 0302 46",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.76.2020.DMO"
+}
+},
+{
+"d": "2020-07-14",
+"c": {
+"inw": "Zmiana pozwolenia na budowę: \"Dom Ronalda McDonalda\" - budynek zamieszkania zbiorowego ze strefą rekreacji dla dzieci oraz wiatą śmietnikową, zbiornikami retencyjnymi, parkingiem terenowym i infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Fundacja Ronalda McDonalda",
+"nier": "Trojdena / Księcia",
+"dz": "146506_8 0310 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.69.2020.DMO"
+}
+},
+{
+"d": "2020-07-07",
+"c": {
+"inw": "projekt zamienny - budowa dwóch podziemnych OW Wschód i OW Zachód na dwóch istniejących rurociągach wody uzdatnionej DN 1400mmkomór wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "Koszykowa 81",
+"dz": "146506_8 0103 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.59.2020.MAJ"
+}
+},
+{
+"d": "2020-07-07",
+"c": {
+"inw": "Przebudowa lokali usługowych nr 3/0/1040/Uż oraz 3/1/1040/Uż na oddział Banku Millenium w parterze budynku mieszkalnego wielorodzinnego z usługami wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Bank Millenium S.A.",
+"nier": "Grójecka 59/63",
+"dz": "146506_8 0208 6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.58.2020.DMO"
+}
+},
+{
+"d": "2020-07-07",
+"c": {
+"inw": "Przebudowa lokali usługowych nr 3/0/1040/Uż oraz 3/1/1040/Uż na oddział Banku Millenium w parterze budynku mieszkalnego wielorodzinnego z usługami wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Bank Millenium S.A.",
+"nier": "Grójecka 59/63",
+"dz": "146506_8 0208 4/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.58.2020.DMO"
+}
+},
+{
+"d": "2020-07-03",
+"c": {
+"inw": "remont  elewacji wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości Nr 7 przy ul. Dorotowskiej",
+"nier": "Dorotowska 7",
+"dz": "146506_8 0207 70",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.57.2020.EZA"
+}
+},
+{
+"d": "2020-07-02",
+"c": {
+"inw": "Remont elewacji frontowej wraz z przejazdami bramowymi - budynek nr 1 w zespole budynków przy ul. Niemcewicza 7/9 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości Niemcewicza 7/9",
+"nier": "Niemcewicza 7/9 / Juliana Ursyna",
+"dz": "146506_8 0202 36",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.60.2020.MAJ"
+}
+},
+{
+"d": "2020-07-02",
+"c": {
+"inw": "Remont loggii i fragmentu elewacji do pierwszych pilastrów od strony wschodniej wraz z przejazdem bramowym - budynek nr 2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości ul. Niemcewicza 7/9",
+"nier": "Niemcewicza 7/9 / Juliana Ursyna",
+"dz": "146506_8 0202 36",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.61.2020.MAJ"
+}
+},
+{
+"d": "2020-07-01",
+"c": {
+"inw": "Przebudowa lokali mieszkalnych nr 11 i 12 w celu ich połączenia w budynku mieszkalnym wielorodzinnym przy ul. Włodarzewskiej 57C wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Włodarzewska 57C",
+"dz": "146506_8 0318 33",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.55.2020.TGR"
+}
+},
+{
+"d": "2020-07-01",
+"c": {
+"inw": "przebudowa lokali mieszkalnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zespół do obsługi Placówek Opiekuńczo-Wychowawczych nr 1",
+"nier": "Nieborowska 15",
+"dz": "146506_8 0207 34",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.56.2020.EZA"
+}
+},
+{
+"d": "2020-06-24",
+"c": {
+"inw": "remont Oddziału Regionalnego Centrum Krwiodawstwa i Krwiolecznictwa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Regionalne Centrum Krwiodawstwa i Krwiolecznictwa",
+"nier": "Nowogrodzka 59F",
+"dz": "146506_8 0102 9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB..6740.54.2020.MAJ"
+}
+},
+{
+"d": "2020-06-23",
+"c": {
+"inw": "Budowa sieci wodociągowej DN 100 L=85,0m w rejonie ul. Poprawnej od istniejącego wodociągu DN 100 (HP 39684) do projektowanego hydrantu na wysokości dz. ew. nr 136 z obrębu 3-13-01 budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "Poprawna",
+"dz": "146514_8 1301 51/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.70.2020.MKA"
+}
+},
+{
+"d": "2020-06-23",
+"c": {
+"inw": "Poszerzenie otworu drzwiowego w ścianie nośnej budynku Wydziału Chemii UW wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersytet Warszawski",
+"nier": "Pasteura 1 / Ludwika",
+"dz": "146506_8 0209 3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.50.2020.DMO"
+}
+},
+{
+"d": "2020-06-19",
+"c": {
+"inw": "remont konserwatorski mieszkania wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Filtrowa 68",
+"dz": "146506_8 0202 56",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.53.2020.MAJ"
+}
+},
+{
+"d": "2020-06-18",
+"c": {
+"inw": "remontdachów Dawnego Magazynu i Sali Wystawowej Centrum Interpretacji Dziedzictwa oraz gzymsów wieńczących budynków: Dawnego Magazynu, Pompowni ABC/GH oraz LMN, Sali Wystawowej Centrum Interpretacji Dziedzictwa i Dawnej Kotłowni Węglowej zlokalizowanych na terenie Zakładu Wodociągu Centralnego MPWIK wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie",
+"nier": "Koszykowa 81",
+"dz": "146506_8 0103 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.51.2020.MAJ"
+}
+},
+{
+"d": "2020-06-18",
+"c": {
+"inw": "Przebudowa części gospodarczego przyziemia budynku mieszkalnego jednorodzinnego ze zmianą sposobu użytkowania części fuknkcji gospodarczej na sportowo-rekreacyjną - dla potzreb własnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Izbicka 42a",
+"dz": "146514_8 1243 4",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.63.2020.TGR"
+}
+},
+{
+"d": "2020-06-17",
+"c": {
+"inw": "12 budynków mieszkalnych jednorodzinnych - dwulokalowych w zabudowie bliźniaczej oraz 24 zbiorniki na nieczystości płynne wraz ze ścianą oddzielenia pożarowego budowa nowego/nowych obiektów budowlanych",
+"wn": "PDI Sp. z o.o. Spółka Komandytowa",
+"nier": "Majerankowa",
+"dz": "146514_8 1256 36/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.68.2020.DMO"
+}
+},
+{
+"d": "2020-06-17",
+"c": {
+"inw": "12 budynków mieszkalnych jednorodzinnych - dwulokalowych w zabudowie bliźniaczej oraz 24 zbiorniki na nieczystości płynne wraz ze ścianą oddzielenia pożarowego budowa nowego/nowych obiektów budowlanych",
+"wn": "PDI Sp. z o.o. Spółka Komandytowa",
+"nier": "Majerankowa",
+"dz": "146514_8 1256 36/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.68.2020.DMO"
+}
+},
+{
+"d": "2020-06-17",
+"c": {
+"inw": "12 budynków mieszkalnych jednorodzinnych - dwulokalowych w zabudowie bliźniaczej oraz 24 zbiorniki na nieczystości płynne wraz ze ścianą oddzielenia pożarowego budowa nowego/nowych obiektów budowlanych",
+"wn": "PDI Sp. z o.o. Spółka Komandytowa",
+"nier": "Majerankowa",
+"dz": "146514_8 1256 36/4",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.68.2020.DMO"
+}
+},
+{
+"d": "2020-06-17",
+"c": {
+"inw": "Budynek mieszkalny jednorodzinny wolnostojący wraz z infrastrukturą techniczną (instalacja gazowa), szambem szczelnym, studnią, utwardzeniem terenu. budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Podkowy",
+"dz": "146514_8 1512 64",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.64.2020.TGR"
+}
+},
+{
+"d": "2020-06-16",
+"c": {
+"inw": "Budowa budynku mieszkalnego jednorodzinnego wolnostojącego z częścią usługową i z szambem szczelnym o pojemności 10 m3 budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Zasadowa",
+"dz": "146514_8 1235 82",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.71.2020.MKA"
+}
+},
+{
+"d": "2020-06-16",
+"c": {
+"inw": "Rozbiórka i remont rowu otwartego E oraz budowa rowu krytego E1 w nowej lokalizacji na dz. ew. nr 63/4, 63/5, 63/11, 63/12, 63/13, 63/14 w obrębie 3-15-03 w Dzielnicy Wawer m.st. Warszawy budowa nowego/nowych obiektów budowlanych",
+"wn": "Albero Invest - 2 Sp. z o.o.",
+"nier": "Zagórzańska",
+"dz": "146514_8 1503 63/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.65.2020.DMO"
+}
+},
+{
+"d": "2020-06-16",
+"c": {
+"inw": "Rozbiórka i remont rowu otwartego E oraz budowa rowu krytego E1 w nowej lokalizacji na dz. ew. nr 63/4, 63/5, 63/11, 63/12, 63/13, 63/14 w obrębie 3-15-03 w Dzielnicy Wawer m.st. Warszawy budowa nowego/nowych obiektów budowlanych",
+"wn": "Albero Invest - 2 Sp. z o.o.",
+"nier": "Zagórzańska",
+"dz": "146514_8 1503 63/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.65.2020.DMO"
+}
+},
+{
+"d": "2020-06-16",
+"c": {
+"inw": "Rozbiórka i remont rowu otwartego E oraz budowa rowu krytego E1 w nowej lokalizacji na dz. ew. nr 63/4, 63/5, 63/11, 63/12, 63/13, 63/14 w obrębie 3-15-03 w Dzielnicy Wawer m.st. Warszawy budowa nowego/nowych obiektów budowlanych",
+"wn": "Albero Invest - 2 Sp. z o.o.",
+"nier": "Zagórzańska",
+"dz": "146514_8 1503 63/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.65.2020.DMO"
+}
+},
+{
+"d": "2020-06-16",
+"c": {
+"inw": "Rozbiórka i remont rowu otwartego E oraz budowa rowu krytego E1 w nowej lokalizacji na dz. ew. nr 63/4, 63/5, 63/11, 63/12, 63/13, 63/14 w obrębie 3-15-03 w Dzielnicy Wawer m.st. Warszawy budowa nowego/nowych obiektów budowlanych",
+"wn": "Albero Invest - 2 Sp. z o.o.",
+"nier": "Zagórzańska",
+"dz": "146514_8 1503 63/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.65.2020.DMO"
+}
+},
+{
+"d": "2020-06-16",
+"c": {
+"inw": "Rozbiórka i remont rowu otwartego E oraz budowa rowu krytego E1 w nowej lokalizacji na dz. ew. nr 63/4, 63/5, 63/11, 63/12, 63/13, 63/14 w obrębie 3-15-03 w Dzielnicy Wawer m.st. Warszawy budowa nowego/nowych obiektów budowlanych",
+"wn": "Albero Invest - 2 Sp. z o.o.",
+"nier": "Zagórzańska",
+"dz": "146514_8 1503 63/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.65.2020.DMO"
+}
+},
+{
+"d": "2020-06-16",
+"c": {
+"inw": "Rozbiórka i remont rowu otwartego E oraz budowa rowu krytego E1 w nowej lokalizacji na dz. ew. nr 63/4, 63/5, 63/11, 63/12, 63/13, 63/14 w obrębie 3-15-03 w Dzielnicy Wawer m.st. Warszawy budowa nowego/nowych obiektów budowlanych",
+"wn": "Albero Invest - 2 Sp. z o.o.",
+"nier": "Zagórzańska",
+"dz": "146514_8 1503 63/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.65.2020.DMO"
+}
+},
+{
+"d": "2020-06-16",
+"c": {
+"inw": "budowa domu jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Mydlarska",
+"dz": "146514_8 1132 71/5",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.75.2020.EZA"
+}
+},
+{
+"d": "2020-06-16",
+"c": {
+"inw": "Budowa budynku mieszkalnego jednorodzinnego oraz szamba szczelnego budowa nowego/nowych obiektów budowlanych",
+"wn": "M-House Marcin Buczyński",
+"nier": "Borowiecka",
+"dz": "146514_8 1354 416/38",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.66.2020.DMO"
+}
+},
+{
+"d": "2020-06-15",
+"c": {
+"inw": "dom jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Dzięcioła 23",
+"dz": "146514_8 1417 41",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.74.2020.EZA"
+}
+},
+{
+"d": "2020-06-10",
+"c": {
+"inw": "Projekt zamienny budynku mieszkalnego jednorodzinnego dwulokalowego wraz z instalacją gazową oraz ddwóch szamb szczelnych o pojemn.10m3 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Budommax Sp z o.o.",
+"nier": "Trakt Lubelski",
+"dz": "146514_8 1337 6/6",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.62.2020.TGR"
+}
+},
+{
+"d": "2020-06-09",
+"c": {
+"inw": "Budowa sieci elektroenergetycznej 110 kV. Dwutorowa linia kablowa 110 kV z kablami światłowodowymi relacji: GPZ Mory - RPZ Ochota - RPZ Południowa. budowa nowego/nowych obiektów budowlanych",
+"wn": "Albero Invest Sp. z o.o - 1 sp. K.",
+"nier": "Sierpińskiego / Wacława",
+"dz": "146506_8 0320 9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.49.2020.DMO"
+}
+},
+{
+"d": "2020-06-09",
+"c": {
+"inw": "Budowa sieci elektroenergetycznej 110 kV. Dwutorowa linia kablowa 110 kV z kablami światłowodowymi relacji: GPZ Mory - RPZ Ochota - RPZ Południowa. budowa nowego/nowych obiektów budowlanych",
+"wn": "Albero Invest Sp. z o.o - 1 sp. K.",
+"nier": "Sierpińskiego / Wacława",
+"dz": "146506_8 0320 8/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.49.2020.DMO"
+}
+},
+{
+"d": "2020-06-01",
+"c": {
+"inw": "Rozbiórka i odbudowa trzech ramp żelbetowych w elewacji południowej budynku przy ul. Pruszkowskiej 19/21 w Warszawie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa \"Rakowiec\"",
+"nier": "Pruszkowska 19/21",
+"dz": "146506_8 0314 59/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.48.2020.DMO"
+}
+},
+{
+"d": "2020-05-29",
+"c": {
+"inw": "przebudowa poddasza na mieszkanie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Filtrowa 73",
+"dz": "146506_8 0105 2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.46.2020.JUS"
+}
+},
+{
+"d": "2020-05-29",
+"c": {
+"inw": "przebudowa poddasza na lokal mieszkalny wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Filtrowa 73",
+"dz": "146506_8 0105 2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.44.2020.JUS"
+}
+},
+{
+"d": "2020-05-29",
+"c": {
+"inw": "przebudowa poddasza na mieszkanie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Filtrowa 73",
+"dz": "146506_8 0105 2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.45.2020.JUS"
+}
+},
+{
+"d": "2020-05-29",
+"c": {
+"inw": "przebudowa poddasza i adaptacja na mieszkanie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Filtrowa 73",
+"dz": "146506_8 0105 2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.43.2020.JUS"
+}
+},
+{
+"d": "2020-05-22",
+"c": {
+"inw": "rozbiórka garaży - zmiana inwestora wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "STL Real Estate Sp. z o.o.",
+"nier": "2",
+"dz": "166506_8 0207 16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.670.187.2020.EZA"
+}
+},
+{
+"d": "2020-05-18",
+"c": {
+"inw": "Przebudowa zewnętrznej ściany budynku w wyniku wymiany okna na drzwi przeszklone wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersytet Warszawski",
+"nier": "Żwirki i Wigury 101",
+"dz": "146506_8 0209 18/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.37.2020.DMO"
+}
+},
+{
+"d": "2020-05-15",
+"c": {
+"inw": "przebudowa kondygnacji -1 oraz powiększenie antresoli pierwszej kondygnacji w budynku Ośrodka Kultury Muzułmanskiej. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Muzułmańskie Stowarzyszenie Kształtowania Kulturalnego",
+"nier": "Aleja Bohaterów Września 23",
+"dz": "146506_8 0302 12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.42.2020.MAJ"
+}
+},
+{
+"d": "2020-05-15",
+"c": {
+"inw": "Remont konserwatorski Wieży Ciśnień na terenie Zakładu Wodociągu Centralnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m. st. Warszawie S.A.",
+"nier": "Koszykowa 81",
+"dz": "146506_8 0103 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.41.2020.MAJ"
+}
+},
+{
+"d": "2020-05-14",
+"c": {
+"inw": "remont konserwatorski komory \"C\" zlokalizowanej na terenie Zakładu Wodociągu Centralnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "Koszykowa 81",
+"dz": "146506_8 0103 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.40.2020.MAJ"
+}
+},
+{
+"d": "2020-05-08",
+"c": {
+"inw": "budowa pawilonu gastronomicznego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Aleje Jerozolimskie 144",
+"dz": "146506_8 0203 39/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.39.2020.MAJ"
+}
+},
+{
+"d": "2020-05-08",
+"c": {
+"inw": "Przebudowa instalacji elektrycznej i teletechnicznej we wnętrzach zabytkowego budynku dawnej pompowni wody czystej obecnie Muzeum wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "Koszykowa 81",
+"dz": "146506_8 0103 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.38.2020.MAJ"
+}
+},
+{
+"d": "2020-04-27",
+"c": {
+"inw": "Remont elewacji wewnętrznej rotundy budynku biurowego Archiwum Akt Nowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Archiwum Akt Nowych",
+"nier": "Hankiewicza 1 / Stefana Kazimierza",
+"dz": "146506_8 0309 9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.35.2020.DMO"
+}
+},
+{
+"d": "2020-04-22",
+"c": {
+"inw": "projek zamienny w zakresie połączenia trzech lokali handlowych, wyburzenia pylonów reklamowych w przebudowywanej i rozbudowywanej części Ch. Atrium Reduta 1 rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Atrium Reduta Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 148",
+"dz": "146506_8 0301 31",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.2020.MAJ"
+}
+},
+{
+"d": "2020-04-22",
+"c": {
+"inw": "projek zamienny w zakresie połączenia trzech lokali handlowych, wyburzenia pylonów reklamowych w przebudowywanej i rozbudowywanej części Ch. Atrium Reduta 1 rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Atrium Reduta Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 148",
+"dz": "146506_8 0301 32/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.2020.MAJ"
+}
+},
+{
+"d": "2020-04-22",
+"c": {
+"inw": "projek zamienny w zakresie połączenia trzech lokali handlowych, wyburzenia pylonów reklamowych w przebudowywanej i rozbudowywanej części Ch. Atrium Reduta 1 rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Atrium Reduta Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 148",
+"dz": "146506_8 0301 32/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.2020.MAJ"
+}
+},
+{
+"d": "2020-04-22",
+"c": {
+"inw": "projek zamienny w zakresie połączenia trzech lokali handlowych, wyburzenia pylonów reklamowych w przebudowywanej i rozbudowywanej części Ch. Atrium Reduta 1 rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Atrium Reduta Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 148",
+"dz": "146506_8 0301 32/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.2020.MAJ"
+}
+},
+{
+"d": "2020-04-22",
+"c": {
+"inw": "projek zamienny w zakresie połączenia trzech lokali handlowych, wyburzenia pylonów reklamowych w przebudowywanej i rozbudowywanej części Ch. Atrium Reduta 1 rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Atrium Reduta Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 148",
+"dz": "146506_8 0301 33/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.2020.MAJ"
+}
+},
+{
+"d": "2020-04-22",
+"c": {
+"inw": "projek zamienny w zakresie połączenia trzech lokali handlowych, wyburzenia pylonów reklamowych w przebudowywanej i rozbudowywanej części Ch. Atrium Reduta 1 rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Atrium Reduta Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 148",
+"dz": "146506_8 0301 34",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.2020.MAJ"
+}
+},
+{
+"d": "2020-04-14",
+"c": {
+"inw": "projekt zamienny - zmiana warunków ochrony pożarowej dla elementów budynku na wszystkich kondygnacjach budowanego hotelu Hampton by Hilton budowa nowego/nowych obiektów budowlanych",
+"wn": "ED SAN II Sp. z o.o. Sp. k.",
+"nier": "Mszczonowska 1,3,5",
+"dz": "146506_8 0301 19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.33.2020.MAJ"
+}
+},
+{
+"d": "2020-04-14",
+"c": {
+"inw": "projekt zamienny - zmiana warunków ochrony pożarowej dla elementów budynku na wszystkich kondygnacjach budowanego hotelu Hampton by Hilton budowa nowego/nowych obiektów budowlanych",
+"wn": "ED SAN II Sp. z o.o. Sp. k.",
+"nier": "Mszczonowska 1,3,5",
+"dz": "146506_8 0301 20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.33.2020.MAJ"
+}
+},
+{
+"d": "2020-04-14",
+"c": {
+"inw": "projekt zamienny - zmiana warunków ochrony pożarowej dla elementów budynku na wszystkich kondygnacjach budowanego hotelu Hampton by Hilton budowa nowego/nowych obiektów budowlanych",
+"wn": "ED SAN II Sp. z o.o. Sp. k.",
+"nier": "Mszczonowska 1,3,5",
+"dz": "146506_8 0301 21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.33.2020.MAJ"
+}
+},
+{
+"d": "2020-04-10",
+"c": {
+"inw": "wykonanie przejścia między budynkami wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Dantyszka 14, 16 / Jana",
+"dz": "146506_8 0105 15",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.32.2020.JUS"
+}
+},
+{
+"d": "2020-04-03",
+"c": {
+"inw": "projekt budowlany zamienny w zakresie zagospodarowania terenu dot. decyzji 174/2017 z 20.12.2017r. pozwolenia na budowę budynku naukowo-dydaktycznego z częścią usługową i garażem podziemnym. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polsko Japońska Akademia Technik Komputerowych",
+"nier": "Koszykowa 86",
+"dz": "146506_8 0101 37/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.30.2020.MAJ"
+}
+},
+{
+"d": "2020-04-03",
+"c": {
+"inw": "poszerzenie otworu drzwiowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kaliska 17",
+"dz": "146506_8 0204 25",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.31.2020.EZA"
+}
+},
+{
+"d": "2020-03-30",
+"c": {
+"inw": "Przebudowa pomieszczeń na potrzeby biura firmy Kruk S.A. w budynku  biurowym \"EQATOR IV\" wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Cirrus Real Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 100",
+"dz": "146506_8 0203 35",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.29.2020.MAJ"
+}
+},
+{
+"d": "2020-03-26",
+"c": {
+"inw": "przebudowa części instytutu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Instytut Biologii Doświadczalnej PAN",
+"nier": "Pasteura 3 / Ludwika",
+"dz": "146506_8 0209 15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.28.2020.JUS"
+}
+},
+{
+"d": "2020-03-20",
+"c": {
+"inw": "zmiana pozwolenia w zakresie pomieszczenia kotłowni wraz ze zmianą przebiegu instalacji gazowej oraz elementów zagospodarowania terenu. nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Mazowieckie Centrum Neuropsychiatrii Sp. z o.o.",
+"nier": "Koszykowa 79A",
+"dz": "146506_8 0104 5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.27.2020.MAJ"
+}
+},
+{
+"d": "2020-03-13",
+"c": {
+"inw": "Przebudowa drogi polegająca na budowie odcinka chodnika oraz przebudowie istniejącego zjazdu przy ul. Kurhan wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Urząd m.st. Warszawy - Urząd Dzielnicy Ochota",
+"nier": "",
+"dz": "146506_8 0306 121/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.24.2020.TGR"
+}
+},
+{
+"d": "2020-03-13",
+"c": {
+"inw": "Przebudowa drogi polegająca na budowie odcinka chodnika oraz przebudowie istniejącego zjazdu przy ul. Kurhan wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Urząd m.st. Warszawy - Urząd Dzielnicy Ochota",
+"nier": "",
+"dz": "146506_8 0306 140/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.24.2020.TGR"
+}
+},
+{
+"d": "2020-03-13",
+"c": {
+"inw": "Przebudowa drogi polegająca na budowie odcinka chodnika oraz przebudowie istniejącego zjazdu przy ul. Kurhan wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Urząd m.st. Warszawy - Urząd Dzielnicy Ochota",
+"nier": "",
+"dz": "146506_8 0306 141/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.24.2020.TGR"
+}
+},
+{
+"d": "2020-03-13",
+"c": {
+"inw": "Przebudowa drogi polegająca na budowie odcinka chodnika oraz przebudowie istniejącego zjazdu przy ul. Kurhan wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Urząd m.st. Warszawy - Urząd Dzielnicy Ochota",
+"nier": "",
+"dz": "146506_8 0306 6/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.24.2020.TGR"
+}
+},
+{
+"d": "2020-03-13",
+"c": {
+"inw": "Przebudowa drogi polegająca na budowie odcinka chodnika oraz przebudowie istniejącego zjazdu przy ul. Kurhan wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Urząd m.st. Warszawy - Urząd Dzielnicy Ochota",
+"nier": "",
+"dz": "146506_8 0306 7/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.24.2020.TGR"
+}
+},
+{
+"d": "2020-03-06",
+"c": {
+"inw": "przebudowa powierzchni biurowej na 2 piętrze wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "M7 PoLAF Polish Propco 9 Sp. z o.o.",
+"nier": "Mszczonowska 4",
+"dz": "146506_8 0301 29/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.26.2020.MAJ"
+}
+},
+{
+"d": "2020-03-06",
+"c": {
+"inw": "przebudowa powierzchni biurowej na 2 piętrze wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "M7 PoLAF Polish Propco 9 Sp. z o.o.",
+"nier": "Mszczonowska 4",
+"dz": "146506_8 0301 29/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.26.2020.MAJ"
+}
+},
+{
+"d": "2020-03-06",
+"c": {
+"inw": "przebudowa powierzchni biurowej na 2 piętrze wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "M7 PoLAF Polish Propco 9 Sp. z o.o.",
+"nier": "Mszczonowska 4",
+"dz": "146506_8 0301 30/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.26.2020.MAJ"
+}
+},
+{
+"d": "2020-03-06",
+"c": {
+"inw": "przebudowa powierzchni biurowej na 2 piętrze wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "M7 PoLAF Polish Propco 9 Sp. z o.o.",
+"nier": "Mszczonowska 4",
+"dz": "146506_8 0301 30/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.26.2020.MAJ"
+}
+},
+{
+"d": "2020-03-06",
+"c": {
+"inw": "Przebudowa i budowa wewnętrznej instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Drawska 27",
+"dz": "146506_8 0306 174",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.23.2020.TGR"
+}
+},
+{
+"d": "2020-02-21",
+"c": {
+"inw": "Remont konserwatorski przedsionków filtrów powolnych grup: I,III,V wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji m.st. Warszawy S.A.",
+"nier": "Koszykowa 81",
+"dz": "146506_8 0103 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.25.2020.MAJ"
+}
+},
+{
+"d": "2020-02-19",
+"c": {
+"inw": "Przebudowa i zmiana sposobu użytkowania sali konferencyjnej nr 009 na potrzeby labolatorium medycyny regeneracyjnej, system spektrometrii mas w budynku Centrum Badań Przedklinicznych i Technologii wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawski Uniwersytet Medyczny",
+"nier": "Banacha 1B / Stefana",
+"dz": "146506_8 0310 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.21.2020.DMO"
+}
+},
+{
+"d": "2020-02-18",
+"c": {
+"inw": "Budynek mieszkalny wielorodzinny z garażem podziemnym, usługami w parterze, infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Harfowa",
+"dz": "146506_8 0313 47/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.22.2020.TGR"
+}
+},
+{
+"d": "2020-02-18",
+"c": {
+"inw": "Budynek mieszkalny wielorodzinny z garażem podziemnym, usługami w parterze, infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Harfowa",
+"dz": "146506_8 0313 48/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.22.2020.TGR"
+}
+},
+{
+"d": "2020-02-18",
+"c": {
+"inw": "Budynek mieszkalny wielorodzinny z garażem podziemnym, usługami w parterze, infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Harfowa",
+"dz": "146506_8 0313 51/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.22.2020.TGR"
+}
+},
+{
+"d": "2020-02-18",
+"c": {
+"inw": "Budynek mieszkalny wielorodzinny z garażem podziemnym, usługami w parterze, infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Harfowa",
+"dz": "146506_8 0313 51/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.22.2020.TGR"
+}
+},
+{
+"d": "2020-02-14",
+"c": {
+"inw": "Wymiana instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości nr 13 przy ul. Siemieńskiego",
+"nier": "Siemieńskiego 13 / Józefa",
+"dz": "146506_8 0314 32",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.20.2020.DMO"
+}
+},
+{
+"d": "2020-02-13",
+"c": {
+"inw": "wykonanie otworu i wzmocnienie nadproży wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Piotrkowska 5",
+"dz": "146506_8 0307 20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.19.2020.EZA"
+}
+},
+{
+"d": "2020-01-31",
+"c": {
+"inw": "Remont elewacji z częściowym ociepleniem ścian, remontem balkonów, loggii, barierek, kominów budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa \"Rakowiec\"",
+"nier": "Trojdena 5 / Księcia",
+"dz": "146506_8 0315 25/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.11.2020.DMO"
+}
+},
+{
+"d": "2020-01-31",
+"c": {
+"inw": "Remont elewacji z częściowym ociepleniem ścian, remontem balkonów, barierek, kominów i daszków nad wejściami do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa \"Rakowiec\"",
+"nier": "Korotyńskiego 6 / Władysława",
+"dz": "146506_8 0321 7/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.13.2020.DMO"
+}
+},
+{
+"d": "2020-01-31",
+"c": {
+"inw": "Remont elewacji z częściowym ociepleniem ścian, remontem balkonów, loggii, barierek i kominów, wymiana okienek piwnicznych w budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa \"Rakowiec\"",
+"nier": "Nowickiego 7 / Mariana",
+"dz": "146506_8 0315 39/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.14.2020.DMO"
+}
+},
+{
+"d": "2020-01-31",
+"c": {
+"inw": "Remont elewacji z częściowym ociepleniem ścian, remontem balkonów, barierek, kominów, wymianą daszku nad wejściem do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa \"Rakowiec\"",
+"nier": "Sanocka 11A",
+"dz": "146506_8 0315 6/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.12.2020.DMO"
+}
+},
+{
+"d": "2020-01-30",
+"c": {
+"inw": "przebudowa pomieszczeń Zakładu Radiologii i Cenrum Onkologii w celu wymiany tomografu komputerowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie",
+"nier": "Wawelska 15",
+"dz": "146506_8 0209 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.15.2020.JUS"
+}
+},
+{
+"d": "2020-01-29",
+"c": {
+"inw": "Remont elewacji z częściowym ociepleniem ścian, remontem balkonów, barierek i kominów, wymiana okienek piwnicznych w budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa \"Rakowiec\"",
+"nier": "Wiślicka 1A",
+"dz": "146506_8 0314 44/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.9.2020.DMO"
+}
+},
+{
+"d": "2020-01-29",
+"c": {
+"inw": "Remont elewacji z częściowym ociepleniem ścian, remontem balkonów, barierek, daszków nad wejściami i kominów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa \"Rakowiec\"",
+"nier": "Jasielska 50",
+"dz": "146506_8 0321 7/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.10.2020.DMO"
+}
+},
+{
+"d": "2020-01-28",
+"c": {
+"inw": "Przebudowa budynku mieszkalnego wielorodzinnego z usługami w parterze na potrzeby sklepu Rossmann wraz z montażem reklamy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Rossmann SDP Sp. z o.o.",
+"nier": "Mołdawska 5",
+"dz": "146506_8 0322 10/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.8.2020.DMO"
+}
+},
+{
+"d": "2020-01-28",
+"c": {
+"inw": "Przebudowa budynku mieszkalnego wielorodzinnego z usługami w parterze na potrzeby sklepu Rossmann wraz z montażem reklamy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Rossmann SDP Sp. z o.o.",
+"nier": "Mołdawska 5",
+"dz": "146506_8 0322 10/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.8.2020.DMO"
+}
+},
+{
+"d": "2020-01-23",
+"c": {
+"inw": "Przebudowa wewnętrzna budynku jednorodzinnego wolnostojącego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Walewski",
+"nier": "Usypiskowa 11",
+"dz": "146506_8 0312 18/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.7.2020.TGR"
+}
+},
+{
+"d": "2020-01-10",
+"c": {
+"inw": "Demontaż zadaszenia konstrukcji drewnianej oraz słupków, remont posadzki betonowej i schodów, remont ścian budynku hydroforni między budynkami ul. Wiślicka 5 i 7 rozbiórka istniejącego obiektu budowlanego",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa \"Rakowiec\"",
+"nier": "Wiślicka",
+"dz": "146506_8 0314 44/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6741.1.2020.DMO"
+}
+},
+{
+"d": "2020-01-09",
+"c": {
+"inw": "przebudowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomosci nr 7 przy ul.Andrzejowskiej",
+"nier": "Andrzejowska 7",
+"dz": "146506_8 0204 33",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.5.2020.EZA"
+}
+},
+{
+"d": "2020-01-07",
+"c": {
+"inw": "Przebudowa powierzchni biurowej na potrzeby biura na 2 piętrze na biura dla firmy TRAKCJA PRKiI S.A. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Cirrus Real Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 100",
+"dz": "146506_8 0204 1/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.6.2020.MAJ"
+}
+}
+]
+},
+{
+"id": "dec_pnb",
+"name": "Decyzje o pozwoleniu na budowę",
+"short": "Decyzje PnB",
+"desc": "Decyzje o pozwoleniu na budowę wydane przez organ architektoniczno-budowlany dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer decyzji",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2020-12-31",
+"c": {
+"inw": "rozbudowa i przebudowa istniejącego budynku pompowni DEF wraz z przebudową odcinka sieci wodociągowej, ciepłowniczej a także budową oraz przebudową sieci elektroenergetycznej rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "Koszykowa 81",
+"dz": "146506_8 0103 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "112/2020"
+}
+},
+{
+"d": "2020-12-30",
+"c": {
+"inw": "rozbudowa i przebudowa istniejącego budynku salonu ekspozycyjnego wraz z infrastrukturą techniczną oraz rozbiórka pawilonu wiaty ekspozycyjnej samochodów używanych wraz z infrastrukturą techniczną rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Renault Retail Group Warszawa sp.z o.o. Polska",
+"nier": "Aleje Jerozolimskie 156",
+"dz": "146506_8 0304 16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "111/2020"
+}
+},
+{
+"d": "2020-12-15",
+"c": {
+"inw": "budowa haki sportowej przy Szkole Podstawowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Urząd m.st.Warszawy",
+"nier": "Skorochód-Majewskiego 17 / Walentego",
+"dz": "146506_8 0314 30",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "110/2020"
+}
+},
+{
+"d": "2020-12-11",
+"c": {
+"inw": "wybicie otworu w ścianie konstrukcyjnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Plenilunium Jakub Cydzik",
+"nier": "Białobrzeska 4A",
+"dz": "146506_8 0308 49/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "109/2020"
+}
+},
+{
+"d": "2020-12-10",
+"c": {
+"inw": "remont elewacji wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Rokosowska 1",
+"nier": "Rokosowska 1",
+"dz": "146506_8 0207 80",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "108"
+}
+},
+{
+"d": "2020-12-10",
+"c": {
+"inw": "remont elewacji wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Rokosowska 1",
+"nier": "Rokosowska 1",
+"dz": "146506_8 0207 81",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "108"
+}
+},
+{
+"d": "2020-12-01",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 77/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 107/2020"
+}
+},
+{
+"d": "2020-12-01",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 77/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 107/2020"
+}
+},
+{
+"d": "2020-12-01",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 75/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 107/2020"
+}
+},
+{
+"d": "2020-12-01",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 75/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 107/2020"
+}
+},
+{
+"d": "2020-12-01",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 73/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 107/2020"
+}
+},
+{
+"d": "2020-12-01",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 73/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 107/2020"
+}
+},
+{
+"d": "2020-12-01",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 67/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 107/2020"
+}
+},
+{
+"d": "2020-12-01",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 67/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 107/2020"
+}
+},
+{
+"d": "2020-12-01",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 37/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 107/2020"
+}
+},
+{
+"d": "2020-12-01",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 37/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 107/2020"
+}
+},
+{
+"d": "2020-12-01",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 77/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 107/2020"
+}
+},
+{
+"d": "2020-12-01",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 34/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 107/2020"
+}
+},
+{
+"d": "2020-12-01",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 77/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 107/2020"
+}
+},
+{
+"d": "2020-12-01",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 77/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 107/2020"
+}
+},
+{
+"d": "2020-12-01",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 65",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 107/2020"
+}
+},
+{
+"d": "2020-12-01",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 66",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 107/2020"
+}
+},
+{
+"d": "2020-12-01",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 34/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 107/2020"
+}
+},
+{
+"d": "2020-12-01",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 38/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 107/2020"
+}
+},
+{
+"d": "2020-12-01",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 1/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 107/2020"
+}
+},
+{
+"d": "2020-12-01",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 37/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 107/2020"
+}
+},
+{
+"d": "2020-12-01",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 38/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 107/2020"
+}
+},
+{
+"d": "2020-12-01",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 107/2020"
+}
+},
+{
+"d": "2020-12-01",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 41",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 107/2020"
+}
+},
+{
+"d": "2020-12-01",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 40",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 107/2020"
+}
+},
+{
+"d": "2020-12-01",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 49",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 107/2020"
+}
+},
+{
+"d": "2020-12-01",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 53",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 107/2020"
+}
+},
+{
+"d": "2020-12-01",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 80",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 107/2020"
+}
+},
+{
+"d": "2020-12-01",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 62/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 107/2020"
+}
+},
+{
+"d": "2020-12-01",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 62/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 107/2020"
+}
+},
+{
+"d": "2020-12-01",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0319 62/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 107/2020"
+}
+},
+{
+"d": "2020-12-01",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0313 56/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 107/2020"
+}
+},
+{
+"d": "2020-12-01",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0313 56/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 107/2020"
+}
+},
+{
+"d": "2020-12-01",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0313 50/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 107/2020"
+}
+},
+{
+"d": "2020-12-01",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0313 50/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 107/2020"
+}
+},
+{
+"d": "2020-12-01",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0313 47/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 107/2020"
+}
+},
+{
+"d": "2020-12-01",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0313 47/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 107/2020"
+}
+},
+{
+"d": "2020-12-01",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0313 57",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 107/2020"
+}
+},
+{
+"d": "2020-12-01",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0313 56/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 107/2020"
+}
+},
+{
+"d": "2020-12-01",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0313 49/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 107/2020"
+}
+},
+{
+"d": "2020-12-01",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0313 51/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 107/2020"
+}
+},
+{
+"d": "2020-12-01",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0313 51/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 107/2020"
+}
+},
+{
+"d": "2020-12-01",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0313 46",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 107/2020"
+}
+},
+{
+"d": "2020-12-01",
+"c": {
+"inw": "Rozbudowa ulic Harfowej, Lutniowej i Lirowej w warszawie z odwodnieniem i infrastrukturą techniczną - postepowanie ZRID rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Burmistrz Dzielnicy ochota Miasta Stołecznego Warszawy",
+"nier": "Harfowa",
+"dz": "146506_8 0312 10/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 107/2020"
+}
+},
+{
+"d": "2020-11-24",
+"c": {
+"inw": "Etapowa budowa budynków szpitala (etap I: budynek \"D\" wraz z rozbiórkami budynków, budynek tlenowni, stacji transformatorowej, etap II: budynek \"E\"), etap III: przebudowa budynku \"A\" wraz z zagospodarowaniem terenu i niezbędną infrastrukturą techniczną, a także murami oporowymi, dla inwestycji polegającej na \"rozbudowie, przebudowie i modernizacji budynku szpitala przy ul. Barskiej 16/20 w Warszawie.\" budowa nowego/nowych obiektów budowlanych",
+"wn": "Mazowieckie Centrum Rehabilitacji Stocer Sp. z o.o.",
+"nier": "Barska 16/20",
+"dz": "146506_8 0204 95/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "106/2020"
+}
+},
+{
+"d": "2020-11-20",
+"c": {
+"inw": "Budowa budynku wielofunkcyjnego łączącego funkcje: domu dziennego pobytu dla seniorów, środowiskowego domu samopomocy, placówkę opiekuńczo-wychowawczą oraz żłobek wraz z zagospodarowaniem terenu obejmującym: budowę dojść i dojazdów do budynku, parkingi ze zjazdami na drogę publiczną (dz. nr ew. 9, 15 obręb 2-03-20), plac zabaw dla żłobka, wraz z niezbędną infrastrukturą techniczną oraz rozbiórką istniejących budynków na działce przy ul. Korotyńskiego 13 w Warszawie dz. nr ew. 11 obręb 2-03-20 budowa nowego/nowych obiektów budowlanych",
+"wn": "Stołeczny Zarząd Rozbudowy Miasta",
+"nier": "Korotyńskiego 13 / Władysława",
+"dz": "146506_8 0320 11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "105/2020"
+}
+},
+{
+"d": "2020-11-20",
+"c": {
+"inw": "Budowa budynku wielofunkcyjnego łączącego funkcje: domu dziennego pobytu dla seniorów, środowiskowego domu samopomocy, placówkę opiekuńczo-wychowawczą oraz żłobek wraz z zagospodarowaniem terenu obejmującym: budowę dojść i dojazdów do budynku, parkingi ze zjazdami na drogę publiczną (dz. nr ew. 9, 15 obręb 2-03-20), plac zabaw dla żłobka, wraz z niezbędną infrastrukturą techniczną oraz rozbiórką istniejących budynków na działce przy ul. Korotyńskiego 13 w Warszawie dz. nr ew. 11 obręb 2-03-20 budowa nowego/nowych obiektów budowlanych",
+"wn": "Stołeczny Zarząd Rozbudowy Miasta",
+"nier": "Korotyńskiego 13 / Władysława",
+"dz": "146506_8 0320 9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "105/2020"
+}
+},
+{
+"d": "2020-11-20",
+"c": {
+"inw": "Budowa budynku wielofunkcyjnego łączącego funkcje: domu dziennego pobytu dla seniorów, środowiskowego domu samopomocy, placówkę opiekuńczo-wychowawczą oraz żłobek wraz z zagospodarowaniem terenu obejmującym: budowę dojść i dojazdów do budynku, parkingi ze zjazdami na drogę publiczną (dz. nr ew. 9, 15 obręb 2-03-20), plac zabaw dla żłobka, wraz z niezbędną infrastrukturą techniczną oraz rozbiórką istniejących budynków na działce przy ul. Korotyńskiego 13 w Warszawie dz. nr ew. 11 obręb 2-03-20 budowa nowego/nowych obiektów budowlanych",
+"wn": "Stołeczny Zarząd Rozbudowy Miasta",
+"nier": "Korotyńskiego 13 / Władysława",
+"dz": "146506_8 0320 15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "105/2020"
+}
+},
+{
+"d": "2020-11-16",
+"c": {
+"inw": "przebudowa poddasza na mieszkanie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Filtrowa 73",
+"dz": "146506_8 0105 2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "102/2020"
+}
+},
+{
+"d": "2020-11-16",
+"c": {
+"inw": "przebudowa poddasza na lokal mieszkalny wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Filtrowa 73",
+"dz": "146506_8 0105 2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "101/2020"
+}
+},
+{
+"d": "2020-11-16",
+"c": {
+"inw": "przebudowa poddasza na mieszkanie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Filtrowa 73",
+"dz": "146506_8 0105 2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "103/2020"
+}
+},
+{
+"d": "2020-11-16",
+"c": {
+"inw": "przebudowa poddasza i adaptacja na mieszkanie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Filtrowa 73",
+"dz": "146506_8 0105 2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "104/2020"
+}
+},
+{
+"d": "2020-11-12",
+"c": {
+"inw": "przebudowa powierzchni biurowej na potrzrby firmy CODECOOL w budynku EQUATOR IV wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Equator IV Office sp. z o.o.",
+"nier": "Aleje Jerozolimskie 100",
+"dz": "146506_8 0204 1/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "99/2020"
+}
+},
+{
+"d": "2020-11-12",
+"c": {
+"inw": "przebudowa powierzchni biurowej na potrzrby firmy CODECOOL w budynku EQUATOR IV wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Equator IV Office sp. z o.o.",
+"nier": "Aleje Jerozolimskie 100",
+"dz": "146506_8 0203 35",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "99/2020"
+}
+},
+{
+"d": "2020-11-12",
+"c": {
+"inw": "wymiana stolarki okiennej oraz drzwi zewnętrznych do mieszkania nr 16 w budynku wpisanym do rejestru budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Filtrowa 68",
+"dz": "146506_8 0202 56",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "100/2020"
+}
+},
+{
+"d": "2020-11-06",
+"c": {
+"inw": "przebudowa oraz rozbudowa pawilonu sklepowego stacji paliw Shell wraz z przebudową niezbędnej infrastruktury technicznej w tym instalacji wodnej, kanalizacyjnej, energetycznej i telekomunikacyjnej. rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Shell Polska sp. z o.o.",
+"nier": "Aleje Jerozolimskie 152",
+"dz": "146506_8 0301 38",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "98/2020"
+}
+},
+{
+"d": "2020-11-06",
+"c": {
+"inw": "przebudowa II i III pietro ( wybicie otworów drzwiowych) wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Mazowieckie Centrum Rehabilitacji STOCER Sp. z o.o.",
+"nier": "Barska 16/20",
+"dz": "146506_8 0204 95/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "97/2020"
+}
+},
+{
+"d": "2020-11-05",
+"c": {
+"inw": "remont elewacji , balkonów, tarasów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Budowlano-Mieszkaniowa przy ul. Grójeckiej 40A",
+"nier": "Grójecka 40A",
+"dz": "146506_8 0204 132",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "96/2020"
+}
+},
+{
+"d": "2020-11-04",
+"c": {
+"inw": "poszerzenie otworu drzwiowego w ścianie konstrukcyjnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Barska",
+"dz": "146506_8 0204 117",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "95/2020"
+}
+},
+{
+"d": "2020-11-02",
+"c": {
+"inw": "Wykonanie instalacji wentylacji i przebudowa instalacji klimatyzacji w remontowanych pomieszczeniach biurowych PZU z wykonaniem otworów dla kanałów w stropach w budynku usługowo-mieszkalnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PZU S.A.",
+"nier": "Grójecka 186",
+"dz": "146506_8 0313 63",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 94/2020"
+}
+},
+{
+"d": "2020-10-30",
+"c": {
+"inw": "remont elewacji wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Raszyńska 48",
+"dz": "146506_8 0205 46",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "93/2020"
+}
+},
+{
+"d": "2020-10-23",
+"c": {
+"inw": "Remont konserwatorski zabytkowego Budynku nr 2, na terenie Zakładu Wodociągu Centralnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A",
+"nier": "Koszykowa 81",
+"dz": "146506_8 0103 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.97.2020.MAJ"
+}
+},
+{
+"d": "2020-10-22",
+"c": {
+"inw": "Budynek mieszkalny jednorodzinny wolnostojący wraz z infrastrukturą techniczną (instalacja gazowa), szambem szczelnym, studnią, utwardzeniem terenu. budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Podkowy",
+"dz": "146514_8 1512 64",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "Decyzja Nr 91/2020"
+}
+},
+{
+"d": "2020-10-14",
+"c": {
+"inw": "budowa przyłącza sieci C.O. budowa nowego/nowych obiektów budowlanych",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Rudawska 3",
+"dz": "146506_8 0105 25",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "90/2020"
+}
+},
+{
+"d": "2020-10-05",
+"c": {
+"inw": "Przebudowa instalacji gazowej w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Pawińskiego 34",
+"nier": "Pawińskiego 34 / Adolfa",
+"dz": "146506_8 0314 56",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "85/2020"
+}
+},
+{
+"d": "2020-10-05",
+"c": {
+"inw": "przebudowa pow. biurowej na potrzeby biura zlokalizowanego na piętrze +11 w budynku \"EQUATOR IV\" wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Equator IV Office sp. z o.o.",
+"nier": "",
+"dz": "146506_8 0203 35",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "87/2020"
+}
+},
+{
+"d": "2020-10-05",
+"c": {
+"inw": "budowa parkingu budowa nowego/nowych obiektów budowlanych",
+"wn": "ZDM",
+"nier": "Spiska",
+"dz": "146506_8 0201 6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "88/2020"
+}
+},
+{
+"d": "2020-10-05",
+"c": {
+"inw": "Przebudowa budynku pompowni na terenie przepompowni ścieków \"Ochota\" wraz z budową instalacji dezodoryzacji oraz towarzyszącymi pracami remontowymi na terenie obiektu. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "Grójecka",
+"dz": "146506_8 0320 7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "86/2020"
+}
+},
+{
+"d": "2020-10-05",
+"c": {
+"inw": "wydzielenie wyjścia ewakuacyjnego z parteru wraz z wykonaniem otworu drzwiowego w elewacji północnej budynku biurowego Eurocentrum Alfa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Eurocentrum Offices Polska Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 136",
+"dz": "146506_8 0203 41",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "89/2020"
+}
+},
+{
+"d": "2020-10-05",
+"c": {
+"inw": "wydzielenie wyjścia ewakuacyjnego z parteru wraz z wykonaniem otworu drzwiowego w elewacji północnej budynku biurowego Eurocentrum Alfa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Eurocentrum Offices Polska Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 136",
+"dz": "146506_8 0203 48",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "89/2020"
+}
+},
+{
+"d": "2020-10-02",
+"c": {
+"inw": "budowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Słupecka 2A",
+"dz": "146506_8 0204 58",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "84/2020"
+}
+},
+{
+"d": "2020-09-28",
+"c": {
+"inw": "przebudowa lokalu - podział na dwa lokale mieszkalne wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Uniwersytecka 1",
+"dz": "146506_8 0205 70",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "82/2020"
+}
+},
+{
+"d": "2020-09-28",
+"c": {
+"inw": "Budynek mieszklany wielorodzinny z garzem podziemnym - projket zamienny wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Vagard Residence Sp z o.o. Sp.k.",
+"nier": "Maszynowa",
+"dz": "146506_8 0317 19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja Nr 83/2020"
+}
+},
+{
+"d": "2020-09-28",
+"c": {
+"inw": "Budynek mieszklany wielorodzinny z garzem podziemnym - projket zamienny wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Vagard Residence Sp z o.o. Sp.k.",
+"nier": "Maszynowa",
+"dz": "146506_8 0317 20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja Nr 83/2020"
+}
+},
+{
+"d": "2020-09-21",
+"c": {
+"inw": "remont Oddziału Regionalnego Centrum Krwiodawstwa i Krwiolecznictwa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Regionalne Centrum Krwiodawstwa i Krwiolecznictwa",
+"nier": "Nowogrodzka 59F",
+"dz": "146506_8 0102 9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "80/2020"
+}
+},
+{
+"d": "2020-09-18",
+"c": {
+"inw": "doposażenie lokalu U2 w instalacje gazową wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tiszu Mazumder International",
+"nier": "",
+"dz": "146506_8 0204 59",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "79/2020"
+}
+},
+{
+"d": "2020-09-17",
+"c": {
+"inw": "przebudowa pow. biurowej na piętrze +4 z podziałem na trzech najemców w budynku WEST STATION wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "West Station Inwestment Sp. z o.o.",
+"nier": "142B",
+"dz": "146506_8 0203 46",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "78/2020"
+}
+},
+{
+"d": "2020-09-14",
+"c": {
+"inw": "Remont balkonu i remont barierki w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa \"Rakowiec\"",
+"nier": "Sanocka 10A",
+"dz": "146506_8 0315 25/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "75/2020"
+}
+},
+{
+"d": "2020-09-14",
+"c": {
+"inw": "Przebudowa powierzchni biurowej na kondygnacji +3 i +4 w zachodnim skrzydle budynku Blue City Warszawa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Blue City Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 179",
+"dz": "146506_8 0302 42",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "76/2020"
+}
+},
+{
+"d": "2020-09-14",
+"c": {
+"inw": "Przebudowa powierzchni biurowej na kondygnacji +3 i +4 w zachodnim skrzydle budynku Blue City Warszawa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Blue City Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 179",
+"dz": "146506_8 0302 43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "76/2020"
+}
+},
+{
+"d": "2020-09-14",
+"c": {
+"inw": "Przebudowa powierzchni biurowej na kondygnacji +3 i +4 w zachodnim skrzydle budynku Blue City Warszawa wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Blue City Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 179",
+"dz": "146506_8 0302 46",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "76/2020"
+}
+},
+{
+"d": "2020-09-14",
+"c": {
+"inw": "Zmiana pozwolenia na budowę: \"Dom Ronalda McDonalda\" - budynek zamieszkania zbiorowego ze strefą rekreacji dla dzieci oraz wiatą śmietnikową, zbiornikami retencyjnymi, parkingiem terenowym i infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Fundacja Ronalda McDonalda",
+"nier": "Trojdena / Księcia",
+"dz": "146506_8 0310 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "77/2020"
+}
+},
+{
+"d": "2020-09-11",
+"c": {
+"inw": "budowa pawilonu gastronomicznego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Aleje Jerozolimskie 144",
+"dz": "146506_8 0203 39/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "74/2020"
+}
+},
+{
+"d": "2020-09-09",
+"c": {
+"inw": "remont konserwatorski mieszkania nr 34/35 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Filtrowa 68",
+"dz": "146506_8 0202 56",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "73/2020"
+}
+},
+{
+"d": "2020-09-08",
+"c": {
+"inw": "montaz kasetonu reklamowego na elewacji wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Tiszu Mazumder International",
+"nier": "Grójecka 34",
+"dz": "146506_8 0204 59",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "72/2020"
+}
+},
+{
+"d": "2020-09-03",
+"c": {
+"inw": "projekt zamienny - budowa dwóch podziemnych OW Wschód i OW Zachód na dwóch istniejących rurociągach wody uzdatnionej DN 1400mmkomór wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "Koszykowa 81",
+"dz": "146506_8 0103 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "71/2020"
+}
+},
+{
+"d": "2020-09-03",
+"c": {
+"inw": "przebudowa budynku handlowo-usługowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "BP Europa SE Spółka Europejska Oddział w Polsce",
+"nier": "Aleje Jerozolimskie 144",
+"dz": "146506_8 0302 7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "70/2020"
+}
+},
+{
+"d": "2020-09-02",
+"c": {
+"inw": "remont elewacji frontowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości ul.Opaczewska 34",
+"nier": "Opaczewska 34",
+"dz": "166506_8 0307 47",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "68/2020"
+}
+},
+{
+"d": "2020-09-02",
+"c": {
+"inw": "remont elewacji frontowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości ul.Opaczewska 34",
+"nier": "Opaczewska 34",
+"dz": "166506_8 0307 39",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "68/2020"
+}
+},
+{
+"d": "2020-09-02",
+"c": {
+"inw": "przebudowa i nadbudowa poddasza budynku na cele mieszkalne nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Rudawska",
+"dz": "146506_8 0105 52",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "67/2020"
+}
+},
+{
+"d": "2020-09-02",
+"c": {
+"inw": "remont dachu nad halą pomp Zakładu Filtrów Pośpiesznych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociagów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "81",
+"dz": "146506_8 0103 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "69/2020"
+}
+},
+{
+"d": "2020-08-27",
+"c": {
+"inw": "Budowa sieci wodociągowej DN 100 L=85,0m w rejonie ul. Poprawnej od istniejącego wodociągu DN 100 (HP 39684) do projektowanego hydrantu na wysokości dz. ew. nr 136 z obrębu 3-13-01 budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "Poprawna",
+"dz": "146514_8 1301 51/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "66/2020"
+}
+},
+{
+"d": "2020-08-26",
+"c": {
+"inw": "Remont elewacji frontowej wraz z przejazdami bramowymi - budynek nr 1 w zespole budynków przy ul. Niemcewicza 7/9 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości Niemcewicza 7/9",
+"nier": "Niemcewicza 7/9 / Juliana Ursyna",
+"dz": "146506_8 0202 36",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "65/2020"
+}
+},
+{
+"d": "2020-08-26",
+"c": {
+"inw": "Remont loggii i fragmentu elewacji do pierwszych pilastrów od strony wschodniej wraz z przejazdem bramowym - budynek nr 2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości ul. Niemcewicza 7/9",
+"nier": "Niemcewicza 7/9 / Juliana Ursyna",
+"dz": "146506_8 0202 36",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "64/2020"
+}
+},
+{
+"d": "2020-08-25",
+"c": {
+"inw": "przebudowa lokali mieszkalnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zespół do obsługi Placówek Opiekuńczo-Wychowawczych nr 1",
+"nier": "Nieborowska 15",
+"dz": "146506_8 0207 34",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "63/2020"
+}
+},
+{
+"d": "2020-08-21",
+"c": {
+"inw": "remont  elewacji wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości Nr 7 przy ul. Dorotowskiej",
+"nier": "Dorotowska 7",
+"dz": "146506_8 0207 70",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "61/2020"
+}
+},
+{
+"d": "2020-08-21",
+"c": {
+"inw": "Budowa budynku mieszkalnego jednorodzinnego oraz szamba szczelnego budowa nowego/nowych obiektów budowlanych",
+"wn": "M-House Marcin Buczyński",
+"nier": "Borowiecka",
+"dz": "146514_8 1354 416/38",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "62/2020"
+}
+},
+{
+"d": "2020-08-20",
+"c": {
+"inw": "Budowa budynku mieszkalnego jednorodzinnego wolnostojącego z częścią usługową i z szambem szczelnym o pojemności 10 m3 budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Zasadowa",
+"dz": "146514_8 1235 82",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "59/2020"
+}
+},
+{
+"d": "2020-08-20",
+"c": {
+"inw": "Rozbiórka i remont rowu otwartego E oraz budowa rowu krytego E1 w nowej lokalizacji na dz. ew. nr 63/4, 63/5, 63/11, 63/12, 63/13, 63/14 w obrębie 3-15-03 w Dzielnicy Wawer m.st. Warszawy budowa nowego/nowych obiektów budowlanych",
+"wn": "Albero Invest - 2 Sp. z o.o.",
+"nier": "Zagórzańska",
+"dz": "146514_8 1503 63/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "60/2020"
+}
+},
+{
+"d": "2020-08-20",
+"c": {
+"inw": "Rozbiórka i remont rowu otwartego E oraz budowa rowu krytego E1 w nowej lokalizacji na dz. ew. nr 63/4, 63/5, 63/11, 63/12, 63/13, 63/14 w obrębie 3-15-03 w Dzielnicy Wawer m.st. Warszawy budowa nowego/nowych obiektów budowlanych",
+"wn": "Albero Invest - 2 Sp. z o.o.",
+"nier": "Zagórzańska",
+"dz": "146514_8 1503 63/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "60/2020"
+}
+},
+{
+"d": "2020-08-20",
+"c": {
+"inw": "Rozbiórka i remont rowu otwartego E oraz budowa rowu krytego E1 w nowej lokalizacji na dz. ew. nr 63/4, 63/5, 63/11, 63/12, 63/13, 63/14 w obrębie 3-15-03 w Dzielnicy Wawer m.st. Warszawy budowa nowego/nowych obiektów budowlanych",
+"wn": "Albero Invest - 2 Sp. z o.o.",
+"nier": "Zagórzańska",
+"dz": "146514_8 1503 63/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "60/2020"
+}
+},
+{
+"d": "2020-08-20",
+"c": {
+"inw": "Rozbiórka i remont rowu otwartego E oraz budowa rowu krytego E1 w nowej lokalizacji na dz. ew. nr 63/4, 63/5, 63/11, 63/12, 63/13, 63/14 w obrębie 3-15-03 w Dzielnicy Wawer m.st. Warszawy budowa nowego/nowych obiektów budowlanych",
+"wn": "Albero Invest - 2 Sp. z o.o.",
+"nier": "Zagórzańska",
+"dz": "146514_8 1503 63/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "60/2020"
+}
+},
+{
+"d": "2020-08-20",
+"c": {
+"inw": "Rozbiórka i remont rowu otwartego E oraz budowa rowu krytego E1 w nowej lokalizacji na dz. ew. nr 63/4, 63/5, 63/11, 63/12, 63/13, 63/14 w obrębie 3-15-03 w Dzielnicy Wawer m.st. Warszawy budowa nowego/nowych obiektów budowlanych",
+"wn": "Albero Invest - 2 Sp. z o.o.",
+"nier": "Zagórzańska",
+"dz": "146514_8 1503 63/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "60/2020"
+}
+},
+{
+"d": "2020-08-20",
+"c": {
+"inw": "Rozbiórka i remont rowu otwartego E oraz budowa rowu krytego E1 w nowej lokalizacji na dz. ew. nr 63/4, 63/5, 63/11, 63/12, 63/13, 63/14 w obrębie 3-15-03 w Dzielnicy Wawer m.st. Warszawy budowa nowego/nowych obiektów budowlanych",
+"wn": "Albero Invest - 2 Sp. z o.o.",
+"nier": "Zagórzańska",
+"dz": "146514_8 1503 63/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "60/2020"
+}
+},
+{
+"d": "2020-08-18",
+"c": {
+"inw": "budowa domu jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Mydlarska",
+"dz": "146514_8 1132 71/5",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "58/2020"
+}
+},
+{
+"d": "2020-08-17",
+"c": {
+"inw": "Przebudowa lokali usługowych nr 3/0/1040/Uż oraz 3/1/1040/Uż na oddział Banku Millenium w parterze budynku mieszkalnego wielorodzinnego z usługami wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Bank Millenium S.A.",
+"nier": "Grójecka 59/63",
+"dz": "146506_8 0208 6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "57/2020"
+}
+},
+{
+"d": "2020-08-17",
+"c": {
+"inw": "Przebudowa lokali usługowych nr 3/0/1040/Uż oraz 3/1/1040/Uż na oddział Banku Millenium w parterze budynku mieszkalnego wielorodzinnego z usługami wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Bank Millenium S.A.",
+"nier": "Grójecka 59/63",
+"dz": "146506_8 0208 4/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "57/2020"
+}
+},
+{
+"d": "2020-08-13",
+"c": {
+"inw": "Przebudowa części gospodarczego przyziemia budynku mieszkalnego jednorodzinnego ze zmianą sposobu użytkowania części fuknkcji gospodarczej na sportowo-rekreacyjną - dla potzreb własnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Izbicka 42a",
+"dz": "146514_8 1243 4",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "Decyzja Nr 56/2020"
+}
+},
+{
+"d": "2020-08-12",
+"c": {
+"inw": "Projekt zamienny budynku mieszkalnego jednorodzinnego dwulokalowego wraz z instalacją gazową oraz ddwóch szamb szczelnych o pojemn.10m3 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Budommax Sp z o.o.",
+"nier": "Trakt Lubelski",
+"dz": "146514_8 1337 6/6",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 55/2020"
+}
+},
+{
+"d": "2020-08-07",
+"c": {
+"inw": "przebudowa części instytutu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Instytut Biologii Doświadczalnej PAN",
+"nier": "Pasteura 3 / Ludwika",
+"dz": "146506_8 0209 15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "54/2020"
+}
+},
+{
+"d": "2020-07-27",
+"c": {
+"inw": "Przebudowa lokali mieszkalnych nr 11 i 12 w celu ich połączenia w budynku mieszkalnym wielorodzinnym przy ul. Włodarzewskiej 57C wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Włodarzewska 57C",
+"dz": "146506_8 0318 33",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "decyzja nr 52/2020"
+}
+},
+{
+"d": "2020-07-21",
+"c": {
+"inw": "Poszerzenie otworu drzwiowego w ścianie nośnej budynku Wydziału Chemii UW wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersytet Warszawski",
+"nier": "Pasteura 1 / Ludwika",
+"dz": "146506_8 0209 3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "51/2020"
+}
+},
+{
+"d": "2020-07-14",
+"c": {
+"inw": "Budowa sieci elektroenergetycznej 110 kV. Dwutorowa linia kablowa 110 kV z kablami światłowodowymi relacji: GPZ Mory - RPZ Ochota - RPZ Południowa. budowa nowego/nowych obiektów budowlanych",
+"wn": "Albero Invest Sp. z o.o - 1 sp. K.",
+"nier": "Sierpińskiego / Wacława",
+"dz": "146506_8 0320 9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "50/2020"
+}
+},
+{
+"d": "2020-07-14",
+"c": {
+"inw": "Budowa sieci elektroenergetycznej 110 kV. Dwutorowa linia kablowa 110 kV z kablami światłowodowymi relacji: GPZ Mory - RPZ Ochota - RPZ Południowa. budowa nowego/nowych obiektów budowlanych",
+"wn": "Albero Invest Sp. z o.o - 1 sp. K.",
+"nier": "Sierpińskiego / Wacława",
+"dz": "146506_8 0320 8/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "50/2020"
+}
+},
+{
+"d": "2020-07-10",
+"c": {
+"inw": "przebudowa kondygnacji -1 oraz powiększenie antresoli pierwszej kondygnacji w budynku Ośrodka Kultury Muzułmanskiej. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Muzułmańskie Stowarzyszenie Kształtowania Kulturalnego",
+"nier": "Aleja Bohaterów Września 23",
+"dz": "146506_8 0302 12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "49/2020"
+}
+},
+{
+"d": "2020-07-08",
+"c": {
+"inw": "remont konserwatorski mieszkania wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Filtrowa 68",
+"dz": "146506_8 0202 56",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "48/2020"
+}
+},
+{
+"d": "2020-07-08",
+"c": {
+"inw": "Rozbiórka i odbudowa trzech ramp żelbetowych w elewacji południowej budynku przy ul. Pruszkowskiej 19/21 w Warszawie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa \"Rakowiec\"",
+"nier": "Pruszkowska 19/21",
+"dz": "146506_8 0314 59/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "47/2020"
+}
+},
+{
+"d": "2020-07-07",
+"c": {
+"inw": "remontdachów Dawnego Magazynu i Sali Wystawowej Centrum Interpretacji Dziedzictwa oraz gzymsów wieńczących budynków: Dawnego Magazynu, Pompowni ABC/GH oraz LMN, Sali Wystawowej Centrum Interpretacji Dziedzictwa i Dawnej Kotłowni Węglowej zlokalizowanych na terenie Zakładu Wodociągu Centralnego MPWIK wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie",
+"nier": "Koszykowa 81",
+"dz": "146506_8 0103 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "44/2020"
+}
+},
+{
+"d": "2020-07-03",
+"c": {
+"inw": "remont konserwatorski komory \"C\" zlokalizowanej na terenie Zakładu Wodociągu Centralnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "Koszykowa 81",
+"dz": "146506_8 0103 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "45/2020"
+}
+},
+{
+"d": "2020-06-25",
+"c": {
+"inw": "Przebudowa zewnętrznej ściany budynku w wyniku wymiany okna na drzwi przeszklone wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersytet Warszawski",
+"nier": "Żwirki i Wigury 101",
+"dz": "146506_8 0209 18/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "43/2020"
+}
+},
+{
+"d": "2020-06-24",
+"c": {
+"inw": "Przebudowa drogi polegająca na budowie odcinka chodnika oraz przebudowie istniejącego zjazdu przy ul. Kurhan wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Urząd m.st. Warszawy - Urząd Dzielnicy Ochota",
+"nier": "",
+"dz": "146506_8 0306 121/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 42/2020"
+}
+},
+{
+"d": "2020-06-24",
+"c": {
+"inw": "Przebudowa drogi polegająca na budowie odcinka chodnika oraz przebudowie istniejącego zjazdu przy ul. Kurhan wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Urząd m.st. Warszawy - Urząd Dzielnicy Ochota",
+"nier": "",
+"dz": "146506_8 0306 140/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 42/2020"
+}
+},
+{
+"d": "2020-06-24",
+"c": {
+"inw": "Przebudowa drogi polegająca na budowie odcinka chodnika oraz przebudowie istniejącego zjazdu przy ul. Kurhan wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Urząd m.st. Warszawy - Urząd Dzielnicy Ochota",
+"nier": "",
+"dz": "146506_8 0306 141/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 42/2020"
+}
+},
+{
+"d": "2020-06-24",
+"c": {
+"inw": "Przebudowa drogi polegająca na budowie odcinka chodnika oraz przebudowie istniejącego zjazdu przy ul. Kurhan wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Urząd m.st. Warszawy - Urząd Dzielnicy Ochota",
+"nier": "",
+"dz": "146506_8 0306 6/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 42/2020"
+}
+},
+{
+"d": "2020-06-24",
+"c": {
+"inw": "Przebudowa drogi polegająca na budowie odcinka chodnika oraz przebudowie istniejącego zjazdu przy ul. Kurhan wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Urząd m.st. Warszawy - Urząd Dzielnicy Ochota",
+"nier": "",
+"dz": "146506_8 0306 7/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 42/2020"
+}
+},
+{
+"d": "2020-06-16",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z usługą i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Yuniversal Development Sp. z o.o.",
+"nier": "Przy Parku",
+"dz": "146506_8 0312 9/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja Nr 41/2020"
+}
+},
+{
+"d": "2020-06-16",
+"c": {
+"inw": "rozbiórka garaży - zmiana inwestora wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "STL Real Estate Sp. z o.o.",
+"nier": "2",
+"dz": "166506_8 0207 16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "70/2020/R"
+}
+},
+{
+"d": "2020-06-10",
+"c": {
+"inw": "Remont konserwatorski Wieży Ciśnień na terenie Zakładu Wodociągu Centralnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m. st. Warszawie S.A.",
+"nier": "Koszykowa 81",
+"dz": "146506_8 0103 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "40/2020"
+}
+},
+{
+"d": "2020-06-09",
+"c": {
+"inw": "Przebudowa instalacji elektrycznej i teletechnicznej we wnętrzach zabytkowego budynku dawnej pompowni wody czystej obecnie Muzeum wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "Koszykowa 81",
+"dz": "146506_8 0103 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/2020"
+}
+},
+{
+"d": "2020-05-19",
+"c": {
+"inw": "Remont elewacji wewnętrznej rotundy budynku biurowego Archiwum Akt Nowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Archiwum Akt Nowych",
+"nier": "Hankiewicza 1 / Stefana Kazimierza",
+"dz": "146506_8 0309 9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "38/2020"
+}
+},
+{
+"d": "2020-05-18",
+"c": {
+"inw": "projekt budowlany zamienny w zakresie zagospodarowania terenu dot. decyzji 174/2017 z 20.12.2017r. pozwolenia na budowę budynku naukowo-dydaktycznego z częścią usługową i garażem podziemnym. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Polsko Japońska Akademia Technik Komputerowych",
+"nier": "Koszykowa 86",
+"dz": "146506_8 0101 37/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "37/2020"
+}
+},
+{
+"d": "2020-05-07",
+"c": {
+"inw": "projek zamienny w zakresie połączenia trzech lokali handlowych, wyburzenia pylonów reklamowych w przebudowywanej i rozbudowywanej części Ch. Atrium Reduta 1 rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Atrium Reduta Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 148",
+"dz": "146506_8 0301 31",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "36/2020"
+}
+},
+{
+"d": "2020-05-07",
+"c": {
+"inw": "projek zamienny w zakresie połączenia trzech lokali handlowych, wyburzenia pylonów reklamowych w przebudowywanej i rozbudowywanej części Ch. Atrium Reduta 1 rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Atrium Reduta Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 148",
+"dz": "146506_8 0301 32/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "36/2020"
+}
+},
+{
+"d": "2020-05-07",
+"c": {
+"inw": "projek zamienny w zakresie połączenia trzech lokali handlowych, wyburzenia pylonów reklamowych w przebudowywanej i rozbudowywanej części Ch. Atrium Reduta 1 rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Atrium Reduta Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 148",
+"dz": "146506_8 0301 32/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "36/2020"
+}
+},
+{
+"d": "2020-05-07",
+"c": {
+"inw": "projek zamienny w zakresie połączenia trzech lokali handlowych, wyburzenia pylonów reklamowych w przebudowywanej i rozbudowywanej części Ch. Atrium Reduta 1 rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Atrium Reduta Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 148",
+"dz": "146506_8 0301 32/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "36/2020"
+}
+},
+{
+"d": "2020-05-07",
+"c": {
+"inw": "projek zamienny w zakresie połączenia trzech lokali handlowych, wyburzenia pylonów reklamowych w przebudowywanej i rozbudowywanej części Ch. Atrium Reduta 1 rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Atrium Reduta Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 148",
+"dz": "146506_8 0301 33/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "36/2020"
+}
+},
+{
+"d": "2020-05-07",
+"c": {
+"inw": "projek zamienny w zakresie połączenia trzech lokali handlowych, wyburzenia pylonów reklamowych w przebudowywanej i rozbudowywanej części Ch. Atrium Reduta 1 rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Atrium Reduta Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 148",
+"dz": "146506_8 0301 34",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "36/2020"
+}
+},
+{
+"d": "2020-05-06",
+"c": {
+"inw": "projekt zamienny - zmiana warunków ochrony pożarowej dla elementów budynku na wszystkich kondygnacjach budowanego hotelu Hampton by Hilton budowa nowego/nowych obiektów budowlanych",
+"wn": "ED SAN II Sp. z o.o. Sp. k.",
+"nier": "Mszczonowska 1,3,5",
+"dz": "146506_8 0301 19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "35/2020"
+}
+},
+{
+"d": "2020-05-06",
+"c": {
+"inw": "projekt zamienny - zmiana warunków ochrony pożarowej dla elementów budynku na wszystkich kondygnacjach budowanego hotelu Hampton by Hilton budowa nowego/nowych obiektów budowlanych",
+"wn": "ED SAN II Sp. z o.o. Sp. k.",
+"nier": "Mszczonowska 1,3,5",
+"dz": "146506_8 0301 20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "35/2020"
+}
+},
+{
+"d": "2020-05-06",
+"c": {
+"inw": "projekt zamienny - zmiana warunków ochrony pożarowej dla elementów budynku na wszystkich kondygnacjach budowanego hotelu Hampton by Hilton budowa nowego/nowych obiektów budowlanych",
+"wn": "ED SAN II Sp. z o.o. Sp. k.",
+"nier": "Mszczonowska 1,3,5",
+"dz": "146506_8 0301 21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "35/2020"
+}
+},
+{
+"d": "2020-05-04",
+"c": {
+"inw": "Wymiana instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości nr 13 przy ul. Siemieńskiego",
+"nier": "Siemieńskiego 13 / Józefa",
+"dz": "146506_8 0314 32",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "34/2020"
+}
+},
+{
+"d": "2020-04-21",
+"c": {
+"inw": "Przebudowa pomieszczeń na potrzeby biura firmy Kruk S.A. w budynku  biurowym \"EQATOR IV\" wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Cirrus Real Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 100",
+"dz": "146506_8 0203 35",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "33/2020"
+}
+},
+{
+"d": "2020-04-15",
+"c": {
+"inw": "Budowa zespołu budynków mieszkalnych wielorodzinnych z usługami, parkingiem podziemnym i infrastrukturą towarzyszącą budowa nowego/nowych obiektów budowlanych",
+"wn": "BRADING Sp. z o.o.",
+"nier": "Włodarzewska 59",
+"dz": "146506_8 0317 39/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "32/2020"
+}
+},
+{
+"d": "2020-04-14",
+"c": {
+"inw": "poszerzenie otworu drzwiowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kaliska 17",
+"dz": "146506_8 0204 25",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "31/2020"
+}
+},
+{
+"d": "2020-04-09",
+"c": {
+"inw": "zmiana pozwolenia w zakresie pomieszczenia kotłowni wraz ze zmianą przebiegu instalacji gazowej oraz elementów zagospodarowania terenu. nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Mazowieckie Centrum Neuropsychiatrii Sp. z o.o.",
+"nier": "Koszykowa 79A",
+"dz": "146506_8 0104 5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "30/2020"
+}
+},
+{
+"d": "2020-04-09",
+"c": {
+"inw": "przebudowa powierzchni biurowej na 2 piętrze wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "M7 PoLAF Polish Propco 9 Sp. z o.o.",
+"nier": "Mszczonowska 4",
+"dz": "146506_8 0301 29/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "29/2020"
+}
+},
+{
+"d": "2020-04-09",
+"c": {
+"inw": "przebudowa powierzchni biurowej na 2 piętrze wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "M7 PoLAF Polish Propco 9 Sp. z o.o.",
+"nier": "Mszczonowska 4",
+"dz": "146506_8 0301 29/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "29/2020"
+}
+},
+{
+"d": "2020-04-09",
+"c": {
+"inw": "przebudowa powierzchni biurowej na 2 piętrze wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "M7 PoLAF Polish Propco 9 Sp. z o.o.",
+"nier": "Mszczonowska 4",
+"dz": "146506_8 0301 30/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "29/2020"
+}
+},
+{
+"d": "2020-04-09",
+"c": {
+"inw": "przebudowa powierzchni biurowej na 2 piętrze wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "M7 PoLAF Polish Propco 9 Sp. z o.o.",
+"nier": "Mszczonowska 4",
+"dz": "146506_8 0301 30/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "29/2020"
+}
+},
+{
+"d": "2020-04-06",
+"c": {
+"inw": "Remont konserwatorski przedsionków filtrów powolnych grup: I,III,V wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji m.st. Warszawy S.A.",
+"nier": "Koszykowa 81",
+"dz": "146506_8 0103 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "28/2020"
+}
+},
+{
+"d": "2020-04-02",
+"c": {
+"inw": "Przebudowa i budowa wewnętrznej instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Drawska 27",
+"dz": "146506_8 0306 174",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja Nr 27/2020"
+}
+},
+{
+"d": "2020-03-27",
+"c": {
+"inw": "wymiana instalacji gazowej w lokalach mieszkalnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa \"Nowogrodzka 78\"",
+"nier": "Nowogrodzka 78",
+"dz": "146506_8 0101 23",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "26/2020"
+}
+},
+{
+"d": "2020-03-23",
+"c": {
+"inw": "Przebudowa budynku mieszkalnego wielorodzinnego z usługami w parterze na potrzeby sklepu Rossmann wraz z montażem reklamy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Rossmann SDP Sp. z o.o.",
+"nier": "Mołdawska 5",
+"dz": "146506_8 0322 10/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "24/2020"
+}
+},
+{
+"d": "2020-03-23",
+"c": {
+"inw": "Przebudowa budynku mieszkalnego wielorodzinnego z usługami w parterze na potrzeby sklepu Rossmann wraz z montażem reklamy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Rossmann SDP Sp. z o.o.",
+"nier": "Mołdawska 5",
+"dz": "146506_8 0322 10/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "24/2020"
+}
+},
+{
+"d": "2020-03-23",
+"c": {
+"inw": "wykonanie otworu i wzmocnienie nadproży wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Piotrkowska 5",
+"dz": "146506_8 0307 20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "25/2020"
+}
+},
+{
+"d": "2020-03-19",
+"c": {
+"inw": "Przebudowa wewnętrzna budynku jednorodzinnego wolnostojącego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Walewski",
+"nier": "Usypiskowa 11",
+"dz": "146506_8 0312 18/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 23/2020"
+}
+},
+{
+"d": "2020-03-11",
+"c": {
+"inw": "Przebudowa i zmiana sposobu użytkowania sali konferencyjnej nr 009 na potrzeby labolatorium medycyny regeneracyjnej, system spektrometrii mas w budynku Centrum Badań Przedklinicznych i Technologii wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawski Uniwersytet Medyczny",
+"nier": "Banacha 1B / Stefana",
+"dz": "146506_8 0310 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "22/2020"
+}
+},
+{
+"d": "2020-03-05",
+"c": {
+"inw": "Demontaż zadaszenia konstrukcji drewnianej oraz słupków, remont posadzki betonowej i schodów, remont ścian budynku hydroforni między budynkami ul. Wiślicka 5 i 7 rozbiórka istniejącego obiektu budowlanego",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa \"Rakowiec\"",
+"nier": "Wiślicka",
+"dz": "146506_8 0314 44/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "21/2020"
+}
+},
+{
+"d": "2020-03-03",
+"c": {
+"inw": "budowa stacji dwutransformatorowej SN-15kV/nN-0,4 kV, dwóch ładowarek dla autobusów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MZA Sp. z o.o.",
+"nier": "Dickensa / Karola",
+"dz": "146506_8 0313 13/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "20/2020"
+}
+},
+{
+"d": "2020-02-27",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z usługami i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "SONO Development Sp. z o.o. IV Sp. k.",
+"nier": "Harfowa 10",
+"dz": "146506_8 0313 47/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja NR 19/2020"
+}
+},
+{
+"d": "2020-02-27",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z usługami i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "SONO Development Sp. z o.o. IV Sp. k.",
+"nier": "Harfowa 10",
+"dz": "146506_8 0313 48/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja NR 19/2020"
+}
+},
+{
+"d": "2020-02-27",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z usługami i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "SONO Development Sp. z o.o. IV Sp. k.",
+"nier": "Harfowa 10",
+"dz": "146506_8 0313 51/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja NR 19/2020"
+}
+},
+{
+"d": "2020-02-27",
+"c": {
+"inw": "przebudowa pomieszczeń Zakładu Radiologii i Cenrum Onkologii w celu wymiany tomografu komputerowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie",
+"nier": "Wawelska 15",
+"dz": "146506_8 0209 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "18/2020"
+}
+},
+{
+"d": "2020-02-24",
+"c": {
+"inw": "Remont elewacji z częściowym ociepleniem ścian, remontem balkonów, loggii, barierek, kominów budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa \"Rakowiec\"",
+"nier": "Trojdena 5 / Księcia",
+"dz": "146506_8 0315 25/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "14/2020"
+}
+},
+{
+"d": "2020-02-24",
+"c": {
+"inw": "Remont elewacji z częściowym ociepleniem ścian, remontem balkonów, barierek i kominów, wymiana okienek piwnicznych w budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa \"Rakowiec\"",
+"nier": "Wiślicka 1A",
+"dz": "146506_8 0314 44/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "12/2020"
+}
+},
+{
+"d": "2020-02-24",
+"c": {
+"inw": "Remont elewacji z częściowym ociepleniem ścian, remontem balkonów, barierek, kominów i daszków nad wejściami do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa \"Rakowiec\"",
+"nier": "Korotyńskiego 6 / Władysława",
+"dz": "146506_8 0321 7/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "16/2020"
+}
+},
+{
+"d": "2020-02-24",
+"c": {
+"inw": "Remont elewacji z częściowym ociepleniem ścian, remontem balkonów, loggii, barierek i kominów, wymiana okienek piwnicznych w budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa \"Rakowiec\"",
+"nier": "Nowickiego 7 / Mariana",
+"dz": "146506_8 0315 39/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "17/2020"
+}
+},
+{
+"d": "2020-02-24",
+"c": {
+"inw": "Remont elewacji z częściowym ociepleniem ścian, remontem balkonów, barierek, daszków nad wejściami i kominów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa \"Rakowiec\"",
+"nier": "Jasielska 50",
+"dz": "146506_8 0321 7/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "13/2020"
+}
+},
+{
+"d": "2020-02-24",
+"c": {
+"inw": "Remont elewacji z częściowym ociepleniem ścian, remontem balkonów, barierek, kominów, wymianą daszku nad wejściem do budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa \"Rakowiec\"",
+"nier": "Sanocka 11A",
+"dz": "146506_8 0315 6/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "15/2020"
+}
+},
+{
+"d": "2020-02-19",
+"c": {
+"inw": "przebudowa lokalu handlowego na fragmencie parteru wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "BLUE CITY Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 179",
+"dz": "146506_8 0302 42",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "11/2020"
+}
+},
+{
+"d": "2020-02-19",
+"c": {
+"inw": "przebudowa lokalu handlowego na fragmencie parteru wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "BLUE CITY Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 179",
+"dz": "146506_8 0302 43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "11/2020"
+}
+},
+{
+"d": "2020-02-19",
+"c": {
+"inw": "przebudowa lokalu handlowego na fragmencie parteru wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "BLUE CITY Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 179",
+"dz": "146506_8 0302 46",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "11/2020"
+}
+},
+{
+"d": "2020-02-17",
+"c": {
+"inw": "Zabudowa tarasu przynależnego do lokalu nr 25 przy ul. Harfowej 4, w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zawadzcy",
+"nier": "4",
+"dz": "146506_8 0313 50",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja NR 10/2020"
+}
+},
+{
+"d": "2020-02-14",
+"c": {
+"inw": "przebudowa pomieszczeń na +7 na potrzeby biura firmy MICHAEL/STROM Dom Maklerski S.A. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Cirrus Real Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 100",
+"dz": "146506_8 0204 1/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "9/2020"
+}
+},
+{
+"d": "2020-02-14",
+"c": {
+"inw": "Przebudowa powierzchni biurowej na potrzeby biura na 2 piętrze na biura dla firmy TRAKCJA PRKiI S.A. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Cirrus Real Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 100",
+"dz": "146506_8 0204 1/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "8/2020"
+}
+},
+{
+"d": "2020-02-06",
+"c": {
+"inw": "Demontaż instalacji gazowej w pomieszczeniach nr 207, 404 i 412 w budynku przy ul. L. Pasteura 7 w Warszawie rozbiórka istniejącego obiektu budowlanego",
+"wn": "Uniwersytet Warszawski",
+"nier": "Pasteura 7 / Ludwika",
+"dz": "146506_8 0209 18/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6/2020"
+}
+},
+{
+"d": "2020-01-29",
+"c": {
+"inw": "Remont elewacji, balkonów, balustrad, kominów i wymiana okienek piwnicznych, remont daszków i wykuszy budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa \"Rakowiec\"",
+"nier": "Sanocka 10",
+"dz": "146506_8 0315 22",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "5/2020"
+}
+},
+{
+"d": "2020-01-29",
+"c": {
+"inw": "Remont elewacji, balkonów, balustrad, kominów i wymiana okienek piwnicznych, remont daszków i wykuszy budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa \"Rakowiec\"",
+"nier": "Sanocka 10",
+"dz": "146506_8 0315 25/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "5/2020"
+}
+},
+{
+"d": "2020-01-24",
+"c": {
+"inw": "Remont elewacji z ociepleniem ścian, remontem balkonów i loggii budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa \"Rakowiec\"",
+"nier": "Sanocka 1/3",
+"dz": "146506_8 0315 13/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "3/2020"
+}
+},
+{
+"d": "2020-01-24",
+"c": {
+"inw": "budowa instalacji gazowej w lokalu usługowym nr 151 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"Aleje Jerozolimskie\"",
+"nier": "Aleje Jerozolimskie 89",
+"dz": "146506_8 0102 23",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "4/2020"
+}
+},
+{
+"d": "2020-01-14",
+"c": {
+"inw": "rozbudowa istniejącego budynku warsztatu rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Renault Retail Group Warszawa sp. z o.o.",
+"nier": "Aleje Jerozolimskie 156",
+"dz": "146506_8 0304 16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "2/2020"
+}
+},
+{
+"d": "2020-01-13",
+"c": {
+"inw": "przebudowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomosci nr 7 przy ul.Andrzejowskiej",
+"nier": "Andrzejowska 7",
+"dz": "146506_8 0204 33",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "1/2020"
+}
+}
+]
+}
+]
+}

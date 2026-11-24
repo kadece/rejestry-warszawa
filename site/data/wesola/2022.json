@@ -1,0 +1,5284 @@
+{
+"district": "wesola",
+"year": 2022,
+"generated": "2026-11-24T21:24:42+01:00",
+"total": 472,
+"registers": [
+{
+"id": "wn_pnb",
+"name": "Wnioski o pozwolenie na budowę",
+"short": "Wnioski PnB",
+"desc": "Wnioski o pozwolenie na budowę złożone do organu architektoniczno-budowlanego dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer wniosku",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2022-12-30",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0716 535",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.215.2022.AGA"
+}
+},
+{
+"d": "2022-12-23",
+"c": {
+"inw": "budowa wewnętrznej instalacji gazowej wraz z odcinkiem ziemnym w budynku mieszkalnym jednorodzinnym budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 263",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.210.2022.PBE"
+}
+},
+{
+"d": "2022-12-22",
+"c": {
+"inw": "przebudowa i rozbudowa budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0405 21/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.209.2022.PBE"
+}
+},
+{
+"d": "2022-12-02",
+"c": {
+"inw": "budowa trzech budynków mieszkalnych jednorodzinnych w zabudowie szeregowej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0402 188",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.201.2022.PBE"
+}
+},
+{
+"d": "2022-12-01",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0704 42/13",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.199.2022.AGA"
+}
+},
+{
+"d": "2022-11-29",
+"c": {
+"inw": "budowa odcinków sieci elektroenergetycznej SN 15kV i nn 0,4kV oraz stacji transformatorowej kontenerowej SN 15kV/nn 0,4kV budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0203 171/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.198.2022.PBE"
+}
+},
+{
+"d": "2022-11-29",
+"c": {
+"inw": "budowa odcinków sieci elektroenergetycznej SN 15kV i nn 0,4kV oraz stacji transformatorowej kontenerowej SN 15kV/nn 0,4kV budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0203 171/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.198.2022.PBE"
+}
+},
+{
+"d": "2022-11-29",
+"c": {
+"inw": "budowa odcinków sieci elektroenergetycznej SN 15kV i nn 0,4kV oraz stacji transformatorowej kontenerowej SN 15kV/nn 0,4kV budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0203 59/27",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.198.2022.PBE"
+}
+},
+{
+"d": "2022-11-29",
+"c": {
+"inw": "budowa odcinków sieci elektroenergetycznej SN 15kV i nn 0,4kV oraz stacji transformatorowej kontenerowej SN 15kV/nn 0,4kV budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0203 59/28",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.198.2022.PBE"
+}
+},
+{
+"d": "2022-11-29",
+"c": {
+"inw": "budowa odcinków sieci elektroenergetycznej SN 15kV i nn 0,4kV oraz stacji transformatorowej kontenerowej SN 15kV/nn 0,4kV budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0203 59/29",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.198.2022.PBE"
+}
+},
+{
+"d": "2022-11-29",
+"c": {
+"inw": "budowa odcinków sieci elektroenergetycznej SN 15kV i nn 0,4kV oraz stacji transformatorowej kontenerowej SN 15kV/nn 0,4kV budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0201 6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.198.2022.PBE"
+}
+},
+{
+"d": "2022-11-29",
+"c": {
+"inw": "budowa odcinków sieci elektroenergetycznej SN 15kV i nn 0,4kV oraz stacji transformatorowej kontenerowej SN 15kV/nn 0,4kV budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0202 1/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.198.2022.PBE"
+}
+},
+{
+"d": "2022-11-29",
+"c": {
+"inw": "budowa odcinków sieci elektroenergetycznej SN 15kV i nn 0,4kV oraz stacji transformatorowej kontenerowej SN 15kV/nn 0,4kV budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0202 2/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.198.2022.PBE"
+}
+},
+{
+"d": "2022-11-29",
+"c": {
+"inw": "budowa odcinków sieci elektroenergetycznej SN 15kV i nn 0,4kV oraz stacji transformatorowej kontenerowej SN 15kV/nn 0,4kV budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0202 2/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.198.2022.PBE"
+}
+},
+{
+"d": "2022-11-29",
+"c": {
+"inw": "budowa odcinków sieci elektroenergetycznej SN 15kV i nn 0,4kV oraz stacji transformatorowej kontenerowej SN 15kV/nn 0,4kV budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0202 3/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.198.2022.PBE"
+}
+},
+{
+"d": "2022-11-29",
+"c": {
+"inw": "budowa odcinków sieci elektroenergetycznej SN 15kV i nn 0,4kV oraz stacji transformatorowej kontenerowej SN 15kV/nn 0,4kV budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0202 3/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.198.2022.PBE"
+}
+},
+{
+"d": "2022-11-29",
+"c": {
+"inw": "budowa odcinków sieci elektroenergetycznej SN 15kV i nn 0,4kV oraz stacji transformatorowej kontenerowej SN 15kV/nn 0,4kV budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0202 4/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.198.2022.PBE"
+}
+},
+{
+"d": "2022-11-28",
+"c": {
+"inw": "budowa dwóch instalacji gazu dla projektowanego budynku mieszkalnego jednorodzinnego wolno stojącego dwulokalowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0203 60/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.197.2022.PBE"
+}
+},
+{
+"d": "2022-11-17",
+"c": {
+"inw": "budowa instalacji gazu dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0602 89",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.189.2022.PBE"
+}
+},
+{
+"d": "2022-11-16",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wraz z towarzyszącą infrastrukturą zewnętrzną budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0503 95/10",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.188.2022.AGA"
+}
+},
+{
+"d": "2022-11-14",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wraz z wewnętrzną instalacją gazową budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0503 327",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.186.2022.PBE"
+}
+},
+{
+"d": "2022-11-10",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego dwulokalowego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Aleja marsz. Józefa Piłsudskiego 17",
+"dz": "146515_8 0706 32/41",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.185.2022.BGR"
+}
+},
+{
+"d": "2022-11-10",
+"c": {
+"inw": "budowa czterech budynków mieszkalnych w zabudowie szeregowej Etap II, inwestycji polegającej na budowie 5 budynków mieszkalnych jednorodzinnych w zabudowie szeregowej w tym jeden z uługami w parterze oraz szczelnego zbiornika na wody opadowe budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 47/5",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.184.2022.BGR"
+}
+},
+{
+"d": "2022-11-03",
+"c": {
+"inw": "budowa sieci wodociągowej DN100mm L=501,5m w ul. Korzeniowej i ul. Ks.J.Iwaniuka budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0706 31/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.180.2022.PBE"
+}
+},
+{
+"d": "2022-11-03",
+"c": {
+"inw": "budowa sieci wodociągowej DN100mm L=501,5m w ul. Korzeniowej i ul. Ks.J.Iwaniuka budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0706 32/15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.180.2022.PBE"
+}
+},
+{
+"d": "2022-11-03",
+"c": {
+"inw": "budowa sieci wodociągowej DN100mm L=501,5m w ul. Korzeniowej i ul. Ks.J.Iwaniuka budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0706 32/43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.180.2022.PBE"
+}
+},
+{
+"d": "2022-11-03",
+"c": {
+"inw": "budowa sieci wodociągowej DN100mm L=501,5m w ul. Korzeniowej i ul. Ks.J.Iwaniuka budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0706 32/30",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.180.2022.PBE"
+}
+},
+{
+"d": "2022-10-31",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego i budynków gospodarczych rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0711 66",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.14.2022.PBE"
+}
+},
+{
+"d": "2022-10-11",
+"c": {
+"inw": "wykonanie wewnątrz i na zewnątrz projektowanego budynku mieszkalnego instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0406 24",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.171.2022.AGA"
+}
+},
+{
+"d": "2022-10-11",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolno stojącego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0403 17/4",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.170.2022.PBE"
+}
+},
+{
+"d": "2022-10-10",
+"c": {
+"inw": "rozbudowa instalacji gazowej w budynku mieszkalnym jednorodzinnym przewidzianym do rozbudowy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0407 10/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.169.2022.AGA"
+}
+},
+{
+"d": "2022-10-07",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolno stojącego dwulokalowego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0203 60/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.168.2022.PBE"
+}
+},
+{
+"d": "2022-10-05",
+"c": {
+"inw": "rozbudowa, przebudowa i nadbudowa budynku mieszkalnego jednorodzinnego z częścią usługową oraz zmiana sposobu użytkowania na budynek mieszkalny jednorodzinny dwulokalowy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0404 38",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.165.2022.PBE"
+}
+},
+{
+"d": "2022-09-27",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego dwulokalowego wolno stojącego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0603 70",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.157.2022.AWD"
+}
+},
+{
+"d": "2022-09-22",
+"c": {
+"inw": "budowa 16 budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej i 1 budynek mieszkalny jednorodzinny wolno stojący - Etap IV budynek 5 i 6 budowa nowego/nowych obiektów budowlanych",
+"wn": "Loft Garden Wesoła Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0202 31/4",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.150.2022.BGR"
+}
+},
+{
+"d": "2022-09-22",
+"c": {
+"inw": "budowa 16 budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej i 1 budynek mieszkalny jednorodzinny wolno stojący - Etap IV budynek 5 i 6 budowa nowego/nowych obiektów budowlanych",
+"wn": "Loft Garden Wesoła Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0202 31/5",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.150.2022.BGR"
+}
+},
+{
+"d": "2022-09-22",
+"c": {
+"inw": "budowa 16 budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej i 1 budynek mieszkalny jednorodzinny wolno stojący - Etap IV budynek 5 i 6 budowa nowego/nowych obiektów budowlanych",
+"wn": "Loft Garden Wesoła Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0202 31/6",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.150.2022.BGR"
+}
+},
+{
+"d": "2022-09-22",
+"c": {
+"inw": "budowa 16 budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej i 1 budynek mieszkalny jednorodzinny wolno stojący - Etap IV budynek 5 i 6 budowa nowego/nowych obiektów budowlanych",
+"wn": "Loft Garden Wesoła Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0202 31/7",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.150.2022.BGR"
+}
+},
+{
+"d": "2022-09-22",
+"c": {
+"inw": "budowa 16 budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej i 1 budynek mieszkalny jednorodzinny wolno stojący - Etap IV budynek 5 i 6 budowa nowego/nowych obiektów budowlanych",
+"wn": "Loft Garden Wesoła Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0202 27/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.150.2022.BGR"
+}
+},
+{
+"d": "2022-09-22",
+"c": {
+"inw": "budowa 16 budynków w zabudowie bliźniaczej i 1 budynek mieszkalny jednorodzinny wolno stojący - Etap III budynki 13, 14, 15, 16, budowa nowego/nowych obiektów budowlanych",
+"wn": "Loft Garden Wesoła Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0202 31/4",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.149.2022.BGR"
+}
+},
+{
+"d": "2022-09-22",
+"c": {
+"inw": "budowa 16 budynków w zabudowie bliźniaczej i 1 budynek mieszkalny jednorodzinny wolno stojący - Etap III budynki 13, 14, 15, 16, budowa nowego/nowych obiektów budowlanych",
+"wn": "Loft Garden Wesoła Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0202 31/5",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.149.2022.BGR"
+}
+},
+{
+"d": "2022-09-22",
+"c": {
+"inw": "budowa 16 budynków w zabudowie bliźniaczej i 1 budynek mieszkalny jednorodzinny wolno stojący - Etap III budynki 13, 14, 15, 16, budowa nowego/nowych obiektów budowlanych",
+"wn": "Loft Garden Wesoła Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0202 31/6",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.149.2022.BGR"
+}
+},
+{
+"d": "2022-09-22",
+"c": {
+"inw": "budowa 16 budynków w zabudowie bliźniaczej i 1 budynek mieszkalny jednorodzinny wolno stojący - Etap III budynki 13, 14, 15, 16, budowa nowego/nowych obiektów budowlanych",
+"wn": "Loft Garden Wesoła Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0202 31/7",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.149.2022.BGR"
+}
+},
+{
+"d": "2022-09-22",
+"c": {
+"inw": "budowa 16 budynków w zabudowie bliźniaczej i 1 budynek mieszkalny jednorodzinny wolno stojący - Etap III budynki 13, 14, 15, 16, budowa nowego/nowych obiektów budowlanych",
+"wn": "Loft Garden Wesoła Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0202 27/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.149.2022.BGR"
+}
+},
+{
+"d": "2022-09-12",
+"c": {
+"inw": "rozbiórka części wiaty rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0715 84/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.13.2022.PBE"
+}
+},
+{
+"d": "2022-09-02",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0712 193/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.154.2022.PBE"
+}
+},
+{
+"d": "2022-09-02",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0712 193/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.154.2022.PBE"
+}
+},
+{
+"d": "2022-08-29",
+"c": {
+"inw": "budowa ośmiu budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0601 61/11",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.139.2022.BGR"
+}
+},
+{
+"d": "2022-08-29",
+"c": {
+"inw": "budowa ośmiu budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0601 61/12",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.139.2022.BGR"
+}
+},
+{
+"d": "2022-08-29",
+"c": {
+"inw": "budowa ośmiu budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0601 61/13",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.139.2022.BGR"
+}
+},
+{
+"d": "2022-08-29",
+"c": {
+"inw": "budowa ośmiu budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0601 61/14",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.139.2022.BGR"
+}
+},
+{
+"d": "2022-08-29",
+"c": {
+"inw": "budowa ośmiu budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0601 61/15",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.139.2022.BGR"
+}
+},
+{
+"d": "2022-08-29",
+"c": {
+"inw": "budowa ośmiu budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0601 61/16",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.139.2022.BGR"
+}
+},
+{
+"d": "2022-08-29",
+"c": {
+"inw": "budowa ośmiu budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0601 61/17",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.139.2022.BGR"
+}
+},
+{
+"d": "2022-08-29",
+"c": {
+"inw": "budowa ośmiu budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0601 61/18",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.139.2022.BGR"
+}
+},
+{
+"d": "2022-08-22",
+"c": {
+"inw": "rozbiórka sieci elektroenergetycznej średniego i niskiego napięcia - obiekt liniowy rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0603 1/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.12.2022.PBE"
+}
+},
+{
+"d": "2022-08-22",
+"c": {
+"inw": "rozbiórka sieci elektroenergetycznej średniego i niskiego napięcia - obiekt liniowy rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0603 89/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.12.2022.PBE"
+}
+},
+{
+"d": "2022-08-22",
+"c": {
+"inw": "rozbiórka sieci elektroenergetycznej średniego i niskiego napięcia - obiekt liniowy rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0603 40",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.12.2022.PBE"
+}
+},
+{
+"d": "2022-08-22",
+"c": {
+"inw": "rozbiórka sieci elektroenergetycznej średniego i niskiego napięcia - obiekt liniowy rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0603 96/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.12.2022.PBE"
+}
+},
+{
+"d": "2022-08-22",
+"c": {
+"inw": "rozbiórka sieci elektroenergetycznej średniego i niskiego napięcia - obiekt liniowy rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0603 1/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.12.2022.PBE"
+}
+},
+{
+"d": "2022-08-22",
+"c": {
+"inw": "rozbiórka sieci elektroenergetycznej średniego i niskiego napięcia - obiekt liniowy rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0603 15/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.12.2022.PBE"
+}
+},
+{
+"d": "2022-08-22",
+"c": {
+"inw": "rozbiórka sieci elektroenergetycznej średniego i niskiego napięcia - obiekt liniowy rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0603 15/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.12.2022.PBE"
+}
+},
+{
+"d": "2022-08-22",
+"c": {
+"inw": "rozbiórka sieci elektroenergetycznej średniego i niskiego napięcia - obiekt liniowy rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0603 1/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.12.2022.PBE"
+}
+},
+{
+"d": "2022-08-22",
+"c": {
+"inw": "rozbiórka sieci elektroenergetycznej średniego i niskiego napięcia - obiekt liniowy rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0408 56",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.12.2022.PBE"
+}
+},
+{
+"d": "2022-08-22",
+"c": {
+"inw": "rozbiórka sieci elektroenergetycznej średniego i niskiego napięcia - obiekt liniowy rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0604 8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.12.2022.PBE"
+}
+},
+{
+"d": "2022-08-22",
+"c": {
+"inw": "rozbiórka sieci elektroenergetycznej średniego i niskiego napięcia - obiekt liniowy rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0604 14/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.12.2022.PBE"
+}
+},
+{
+"d": "2022-08-22",
+"c": {
+"inw": "rozbiórka sieci elektroenergetycznej średniego i niskiego napięcia - obiekt liniowy rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0604 14/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.12.2022.PBE"
+}
+},
+{
+"d": "2022-08-22",
+"c": {
+"inw": "rozbiórka sieci elektroenergetycznej średniego i niskiego napięcia - obiekt liniowy rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0604 15/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.12.2022.PBE"
+}
+},
+{
+"d": "2022-08-22",
+"c": {
+"inw": "rozbiórka sieci elektroenergetycznej średniego i niskiego napięcia - obiekt liniowy rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0604 2/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.12.2022.PBE"
+}
+},
+{
+"d": "2022-08-22",
+"c": {
+"inw": "rozbiórka sieci elektroenergetycznej średniego i niskiego napięcia - obiekt liniowy rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0604 2/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.12.2022.PBE"
+}
+},
+{
+"d": "2022-08-22",
+"c": {
+"inw": "rozbiórka sieci elektroenergetycznej średniego i niskiego napięcia - obiekt liniowy rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0409 3/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.12.2022.PBE"
+}
+},
+{
+"d": "2022-08-22",
+"c": {
+"inw": "rozbiórka sieci elektroenergetycznej średniego i niskiego napięcia - obiekt liniowy rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0409 4/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.12.2022.PBE"
+}
+},
+{
+"d": "2022-08-22",
+"c": {
+"inw": "rozbiórka sieci elektroenergetycznej średniego i niskiego napięcia - obiekt liniowy rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0409 3/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.12.2022.PBE"
+}
+},
+{
+"d": "2022-08-22",
+"c": {
+"inw": "rozbiórka sieci elektroenergetycznej średniego i niskiego napięcia - obiekt liniowy rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0409 4/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.12.2022.PBE"
+}
+},
+{
+"d": "2022-08-22",
+"c": {
+"inw": "rozbiórka sieci elektroenergetycznej średniego i niskiego napięcia - obiekt liniowy rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0409 3/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.12.2022.PBE"
+}
+},
+{
+"d": "2022-08-22",
+"c": {
+"inw": "rozbiórka sieci elektroenergetycznej średniego i niskiego napięcia - obiekt liniowy rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0409 4/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.12.2022.PBE"
+}
+},
+{
+"d": "2022-08-22",
+"c": {
+"inw": "rozbiórka sieci elektroenergetycznej średniego i niskiego napięcia - obiekt liniowy rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0409 5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.12.2022.PBE"
+}
+},
+{
+"d": "2022-08-22",
+"c": {
+"inw": "rozbiórka sieci elektroenergetycznej średniego i niskiego napięcia - obiekt liniowy rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0409 7/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.12.2022.PBE"
+}
+},
+{
+"d": "2022-08-18",
+"c": {
+"inw": "budowa instalacji gazu dla budynku mieszkalnego jednorodzinnego w budowie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0606 9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.133.2022.PBE"
+}
+},
+{
+"d": "2022-08-17",
+"c": {
+"inw": "budowa szczelnego zbiornika na wody opadowe budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 47/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.131.2022.PBE"
+}
+},
+{
+"d": "2022-08-16",
+"c": {
+"inw": "budowa instalacji gazowej dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0202 21/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.129.2022.AGA"
+}
+},
+{
+"d": "2022-08-12",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0504 25",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.128.2022.AGA"
+}
+},
+{
+"d": "2022-08-10",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0712 196",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.127.2022.AGA"
+}
+},
+{
+"d": "2022-08-02",
+"c": {
+"inw": "budowa trzech budynków mieszkalnych jednorodzinnych w zabudowie szeregowej budowa nowego/nowych obiektów budowlanych",
+"wn": "GLD Development sp. z o.o. Sp.K.",
+"nier": "",
+"dz": "146515_8 0602 112/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.126.2022.PBE"
+}
+},
+{
+"d": "2022-08-02",
+"c": {
+"inw": "budowa trzech budynków mieszkalnych jednorodzinnych w zabudowie szeregowej budowa nowego/nowych obiektów budowlanych",
+"wn": "GLD Development sp. z o.o. Sp.K.",
+"nier": "",
+"dz": "146515_8 0602 112/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.126.2022.PBE"
+}
+},
+{
+"d": "2022-08-02",
+"c": {
+"inw": "budowa trzech budynków mieszkalnych jednorodzinnych w zabudowie szeregowej budowa nowego/nowych obiektów budowlanych",
+"wn": "GLD Development sp. z o.o. Sp.K.",
+"nier": "",
+"dz": "146515_8 0602 112/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.126.2022.PBE"
+}
+},
+{
+"d": "2022-07-28",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolno stojącego wraz z towarzyszącą infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0404 51/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.125.2022.PBE"
+}
+},
+{
+"d": "2022-07-26",
+"c": {
+"inw": "budowa mostku dojazdowego przez Kanał Wawerski budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0712 77/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.119.2022.BGR"
+}
+},
+{
+"d": "2022-07-26",
+"c": {
+"inw": "budowa mostku dojazdowego przez Kanał Wawerski budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0712 42/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.119.2022.BGR"
+}
+},
+{
+"d": "2022-07-26",
+"c": {
+"inw": "budowa mostku dojazdowego przez Kanał Wawerski budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0712 42/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.119.2022.BGR"
+}
+},
+{
+"d": "2022-07-26",
+"c": {
+"inw": "budowa mostku dojazdowego przez Kanał Wawerski budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0717 44/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.119.2022.BGR"
+}
+},
+{
+"d": "2022-07-26",
+"c": {
+"inw": "budowa mostku dojazdowego przez Kanał Wawerski budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0717 19/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.119.2022.BGR"
+}
+},
+{
+"d": "2022-07-26",
+"c": {
+"inw": "budowa mostku dojazdowego przez Kanał Wawerski budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0717 264",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.119.2022.BGR"
+}
+},
+{
+"d": "2022-07-22",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0503 190/5",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.115.2022.AWD"
+}
+},
+{
+"d": "2022-07-19",
+"c": {
+"inw": "budowa czterech instalacji gazu dla projektowanych budynków mieszkalnych w zabudowie bliźniaczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0202 47/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.116.2022.PBE"
+}
+},
+{
+"d": "2022-07-18",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0404 51/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.11.2022.PBE"
+}
+},
+{
+"d": "2022-07-13",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0503 95/4",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.108.2022.BGR"
+}
+},
+{
+"d": "2022-07-13",
+"c": {
+"inw": "budowa instalacji gazu n/c dla budynku mieszkalnego jednorodzinnego w zabudowie szeregowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0712 182",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.111.2022.PBE"
+}
+},
+{
+"d": "2022-07-08",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wraz z infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 263",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.106.2022.AGA"
+}
+},
+{
+"d": "2022-07-06",
+"c": {
+"inw": "budowa budynku usługowego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0707 13/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.103.2022.AGA"
+}
+},
+{
+"d": "2022-06-24",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej w dwóch etapach wraz z zagospodarowaniem terenu i instalacją wewnętrzną gazu, Etap I - budynek A, Etap II - budynek B budowa nowego/nowych obiektów budowlanych",
+"wn": "Anna Zarębska, Janusz Zarębski SODACITY Sp.J.",
+"nier": "",
+"dz": "146515_8 0504 33/17",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.100.2022.PBE"
+}
+},
+{
+"d": "2022-06-24",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej w dwóch etapach wraz z zagospodarowaniem terenu i instalacją wewnętrzną gazu, Etap I - budynek A, Etap II - budynek B budowa nowego/nowych obiektów budowlanych",
+"wn": "Anna Zarębska, Janusz Zarębski SODACITY Sp.J.",
+"nier": "",
+"dz": "146515_8 0504 33/16",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.100.2022.PBE"
+}
+},
+{
+"d": "2022-06-15",
+"c": {
+"inw": "budowa 16 budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej i jeden budynek mieszkalny jednorodzinny wolno stojący wraz z dwoma szczelnymi zbiornikami na wody opadowe oraz drogą wewnętrzną, - Etap II budynki nr 7, 8, 9, 10, 11, 12 oraz jeden szczelny zbiornik na wody opadowe budowa nowego/nowych obiektów budowlanych",
+"wn": "LOFT GARDEN WESOŁA Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0202 27/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.97.2022.BGR"
+}
+},
+{
+"d": "2022-06-15",
+"c": {
+"inw": "budowa 16 budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej i jeden budynek mieszkalny jednorodzinny wolno stojący wraz z dwoma szczelnymi zbiornikami na wody opadowe oraz drogą wewnętrzną, - Etap II budynki nr 7, 8, 9, 10, 11, 12 oraz jeden szczelny zbiornik na wody opadowe budowa nowego/nowych obiektów budowlanych",
+"wn": "LOFT GARDEN WESOŁA Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0202 31/7",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.97.2022.BGR"
+}
+},
+{
+"d": "2022-06-15",
+"c": {
+"inw": "budowa 16 budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej i jeden budynek mieszkalny jednorodzinny wolno stojący wraz z dwoma szczelnymi zbiornikami na wody opadowe oraz drogą wewnętrzną, - Etap II budynki nr 7, 8, 9, 10, 11, 12 oraz jeden szczelny zbiornik na wody opadowe budowa nowego/nowych obiektów budowlanych",
+"wn": "LOFT GARDEN WESOŁA Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0202 31/6",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.97.2022.BGR"
+}
+},
+{
+"d": "2022-06-15",
+"c": {
+"inw": "budowa 16 budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej i jeden budynek mieszkalny jednorodzinny wolno stojący wraz z dwoma szczelnymi zbiornikami na wody opadowe oraz drogą wewnętrzną, - Etap II budynki nr 7, 8, 9, 10, 11, 12 oraz jeden szczelny zbiornik na wody opadowe budowa nowego/nowych obiektów budowlanych",
+"wn": "LOFT GARDEN WESOŁA Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0202 31/5",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.97.2022.BGR"
+}
+},
+{
+"d": "2022-06-15",
+"c": {
+"inw": "budowa 16 budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej i jeden budynek mieszkalny jednorodzinny wolno stojący wraz z dwoma szczelnymi zbiornikami na wody opadowe oraz drogą wewnętrzną, - Etap II budynki nr 7, 8, 9, 10, 11, 12 oraz jeden szczelny zbiornik na wody opadowe budowa nowego/nowych obiektów budowlanych",
+"wn": "LOFT GARDEN WESOŁA Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0202 31/4",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.97.2022.BGR"
+}
+},
+{
+"d": "2022-06-15",
+"c": {
+"inw": "rozbiórka budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 47/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.8.2022.AWD"
+}
+},
+{
+"d": "2022-06-07",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolno stojącego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0202 21/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.94.2022.PBE"
+}
+},
+{
+"d": "2022-05-27",
+"c": {
+"inw": "wykonanie instalacji gazu dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0503 39/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.90.2022.AWD"
+}
+},
+{
+"d": "2022-05-23",
+"c": {
+"inw": "przebudowa i rozbudowa budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0503 177/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.88.2022.PBE"
+}
+},
+{
+"d": "2022-05-20",
+"c": {
+"inw": "budowa instalacji gazu dla sześciu budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0402 55",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.85.2022.AWD"
+}
+},
+{
+"d": "2022-05-20",
+"c": {
+"inw": "budowa instalacji gazowej dla lokalu mieszkalnego w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0303 19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.84.2022.PBE"
+}
+},
+{
+"d": "2022-05-13",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego z garażem w bryle budynku budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 114/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.80.2022.AWD"
+}
+},
+{
+"d": "2022-05-13",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego z garażem w bryle budynku budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 113/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.80.2022.AWD"
+}
+},
+{
+"d": "2022-05-09",
+"c": {
+"inw": "budowa instalacji gazu dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0713 50/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.77.2022.AWD"
+}
+},
+{
+"d": "2022-05-05",
+"c": {
+"inw": "przebudowa, rozbudowa i nadbudowa budynku mieszkalnego jednorodzinnego w zabudowie bliźniaczej - bud. nr 2 - segment wschodni rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0406 64",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.76.2022.BGR"
+}
+},
+{
+"d": "2022-04-28",
+"c": {
+"inw": "rozbiórka parterowego budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0408 43/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.7.2022.PBE"
+}
+},
+{
+"d": "2022-04-25",
+"c": {
+"inw": "sieć elektroenergetyczna średniego i niskiego napięcia - obiekt liniowy budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0604 2/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.67.2022.PBE"
+}
+},
+{
+"d": "2022-04-25",
+"c": {
+"inw": "sieć elektroenergetyczna średniego i niskiego napięcia - obiekt liniowy budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0604 2/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.67.2022.PBE"
+}
+},
+{
+"d": "2022-04-25",
+"c": {
+"inw": "sieć elektroenergetyczna średniego i niskiego napięcia - obiekt liniowy budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0604 14/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.67.2022.PBE"
+}
+},
+{
+"d": "2022-04-25",
+"c": {
+"inw": "sieć elektroenergetyczna średniego i niskiego napięcia - obiekt liniowy budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0409 3/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.67.2022.PBE"
+}
+},
+{
+"d": "2022-04-25",
+"c": {
+"inw": "sieć elektroenergetyczna średniego i niskiego napięcia - obiekt liniowy budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0409 4/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.67.2022.PBE"
+}
+},
+{
+"d": "2022-04-25",
+"c": {
+"inw": "sieć elektroenergetyczna średniego i niskiego napięcia - obiekt liniowy budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0409 4/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.67.2022.PBE"
+}
+},
+{
+"d": "2022-04-25",
+"c": {
+"inw": "sieć elektroenergetyczna średniego i niskiego napięcia - obiekt liniowy budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0409 4/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.67.2022.PBE"
+}
+},
+{
+"d": "2022-04-25",
+"c": {
+"inw": "sieć elektroenergetyczna średniego i niskiego napięcia - obiekt liniowy budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0409 4/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.67.2022.PBE"
+}
+},
+{
+"d": "2022-04-25",
+"c": {
+"inw": "sieć elektroenergetyczna średniego i niskiego napięcia - obiekt liniowy budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0603 1/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.67.2022.PBE"
+}
+},
+{
+"d": "2022-04-25",
+"c": {
+"inw": "sieć elektroenergetyczna średniego i niskiego napięcia - obiekt liniowy budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0603 1/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.67.2022.PBE"
+}
+},
+{
+"d": "2022-04-25",
+"c": {
+"inw": "sieć elektroenergetyczna średniego i niskiego napięcia - obiekt liniowy budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0603 1/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.67.2022.PBE"
+}
+},
+{
+"d": "2022-04-25",
+"c": {
+"inw": "sieć elektroenergetyczna średniego i niskiego napięcia - obiekt liniowy budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0603 15/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.67.2022.PBE"
+}
+},
+{
+"d": "2022-04-25",
+"c": {
+"inw": "sieć elektroenergetyczna średniego i niskiego napięcia - obiekt liniowy budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0603 15/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.67.2022.PBE"
+}
+},
+{
+"d": "2022-04-25",
+"c": {
+"inw": "sieć elektroenergetyczna średniego i niskiego napięcia - obiekt liniowy budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0603 89/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.67.2022.PBE"
+}
+},
+{
+"d": "2022-04-25",
+"c": {
+"inw": "sieć elektroenergetyczna średniego i niskiego napięcia - obiekt liniowy budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0603 89/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.67.2022.PBE"
+}
+},
+{
+"d": "2022-04-25",
+"c": {
+"inw": "sieć elektroenergetyczna średniego i niskiego napięcia - obiekt liniowy budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0603 90/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.67.2022.PBE"
+}
+},
+{
+"d": "2022-04-20",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej (po dwa lokale w każdym) budowa nowego/nowych obiektów budowlanych",
+"wn": "Michał Śledzik VP Invest Development Sp.k.",
+"nier": "",
+"dz": "146515_8 0202 53/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.66.2022.PBE"
+}
+},
+{
+"d": "2022-04-08",
+"c": {
+"inw": "wykonanie wewnętrznej instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0203 16/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.64.2022.AWD"
+}
+},
+{
+"d": "2022-04-08",
+"c": {
+"inw": "rozbudowa, przebudowa oraz nadbudowa istniejącego budynku gospodarczego ze zmianą funkcji na budynek mieszkalny jednorodzinny rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0402 34",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.65.2022.BGR"
+}
+},
+{
+"d": "2022-04-06",
+"c": {
+"inw": "budowa wraz z elementami przebudowy sieci wodociągowej w ul. 1 Praskiego Pułku budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 1/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.60.2022.PBE"
+}
+},
+{
+"d": "2022-04-06",
+"c": {
+"inw": "budowa wraz z elementami przebudowy sieci wodociągowej w ul. 1 Praskiego Pułku budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 1/19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.60.2022.PBE"
+}
+},
+{
+"d": "2022-04-06",
+"c": {
+"inw": "budowa wraz z elementami przebudowy sieci wodociągowej w ul. 1 Praskiego Pułku budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 29/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.60.2022.PBE"
+}
+},
+{
+"d": "2022-04-06",
+"c": {
+"inw": "budowa wraz z elementami przebudowy sieci wodociągowej w ul. 1 Praskiego Pułku budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 69/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.60.2022.PBE"
+}
+},
+{
+"d": "2022-04-06",
+"c": {
+"inw": "budowa wraz z elementami przebudowy sieci wodociągowej w ul. 1 Praskiego Pułku budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 69/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.60.2022.PBE"
+}
+},
+{
+"d": "2022-04-06",
+"c": {
+"inw": "budowa wraz z elementami przebudowy sieci wodociągowej w ul. 1 Praskiego Pułku budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 69/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.60.2022.PBE"
+}
+},
+{
+"d": "2022-04-06",
+"c": {
+"inw": "budowa wraz z elementami przebudowy sieci wodociągowej w ul. 1 Praskiego Pułku budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 69/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.60.2022.PBE"
+}
+},
+{
+"d": "2022-04-06",
+"c": {
+"inw": "budowa wraz z elementami przebudowy sieci wodociągowej w ul. 1 Praskiego Pułku budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 69/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.60.2022.PBE"
+}
+},
+{
+"d": "2022-04-06",
+"c": {
+"inw": "budowa wraz z elementami przebudowy sieci wodociągowej w ul. 1 Praskiego Pułku budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 69/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.60.2022.PBE"
+}
+},
+{
+"d": "2022-04-06",
+"c": {
+"inw": "budowa wraz z elementami przebudowy sieci wodociągowej w ul. 1 Praskiego Pułku budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 69/15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.60.2022.PBE"
+}
+},
+{
+"d": "2022-04-06",
+"c": {
+"inw": "budowa wraz z elementami przebudowy sieci wodociągowej w ul. 1 Praskiego Pułku budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 69/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.60.2022.PBE"
+}
+},
+{
+"d": "2022-04-06",
+"c": {
+"inw": "budowa wraz z elementami przebudowy sieci wodociągowej w ul. 1 Praskiego Pułku budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 69/17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.60.2022.PBE"
+}
+},
+{
+"d": "2022-04-06",
+"c": {
+"inw": "budowa wraz z elementami przebudowy sieci wodociągowej w ul. 1 Praskiego Pułku budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 69/28",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.60.2022.PBE"
+}
+},
+{
+"d": "2022-04-06",
+"c": {
+"inw": "budowa wraz z elementami przebudowy sieci wodociągowej w ul. 1 Praskiego Pułku budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 69/29",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.60.2022.PBE"
+}
+},
+{
+"d": "2022-04-06",
+"c": {
+"inw": "budowa wraz z elementami przebudowy sieci wodociągowej w ul. 1 Praskiego Pułku budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 70/23",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.60.2022.PBE"
+}
+},
+{
+"d": "2022-04-06",
+"c": {
+"inw": "budowa wraz z elementami przebudowy sieci wodociągowej w ul. 1 Praskiego Pułku budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0603 2/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.60.2022.PBE"
+}
+},
+{
+"d": "2022-04-06",
+"c": {
+"inw": "budowa wraz z elementami przebudowy sieci wodociągowej w ul. 1 Praskiego Pułku budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0603 3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.60.2022.PBE"
+}
+},
+{
+"d": "2022-04-06",
+"c": {
+"inw": "budowa wraz z elementami przebudowy sieci wodociągowej w ul. 1 Praskiego Pułku budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0603 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.60.2022.PBE"
+}
+},
+{
+"d": "2022-04-06",
+"c": {
+"inw": "budowa wraz z elementami przebudowy sieci wodociągowej w ul. 1 Praskiego Pułku budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0301 3/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.60.2022.PBE"
+}
+},
+{
+"d": "2022-04-06",
+"c": {
+"inw": "budowa wraz z elementami przebudowy sieci wodociągowej w ul. 1 Praskiego Pułku budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0301 6/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.60.2022.PBE"
+}
+},
+{
+"d": "2022-04-06",
+"c": {
+"inw": "budowa wraz z elementami przebudowy sieci wodociągowej w ul. 1 Praskiego Pułku budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0301 6/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.60.2022.PBE"
+}
+},
+{
+"d": "2022-04-05",
+"c": {
+"inw": "budowa instalacji gazowej wewnętrznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0714 184",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.58.2022.AWD"
+}
+},
+{
+"d": "2022-04-05",
+"c": {
+"inw": "budowa wewnętrznej instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0711 57/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.59.2022.AWD"
+}
+},
+{
+"d": "2022-04-04",
+"c": {
+"inw": "budowa czterech budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0202 47/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.57.2022.PBE"
+}
+},
+{
+"d": "2022-03-31",
+"c": {
+"inw": "przebudowa dwóch instalacji gazu dla dwóch budynków mieszkalnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0404 51/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.52.2022.PBE"
+}
+},
+{
+"d": "2022-03-31",
+"c": {
+"inw": "przebudowa dwóch instalacji gazu dla dwóch budynków mieszkalnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0404 51/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.52.2022.PBE"
+}
+},
+{
+"d": "2022-03-24",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "GREENWOOD II Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0715 676",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.5.2022.AGO"
+}
+},
+{
+"d": "2022-03-24",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "GREENWOOD II Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0715 708",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.4.2022.AWD"
+}
+},
+{
+"d": "2022-03-23",
+"c": {
+"inw": "nadbudowa i przebudowa części budynku mieszkalnego jednorodzinnego wolno stojącego nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0601 81/18",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.43.2022.AWD"
+}
+},
+{
+"d": "2022-03-22",
+"c": {
+"inw": "budowa instalacji gazowej w istniejącym budynku warsztatowo-socjalnym i istniejącym budynku wystawowo-handlowo-biurowym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0202 78/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.42.2022.PBE"
+}
+},
+{
+"d": "2022-03-22",
+"c": {
+"inw": "budowa instalacji gazowej w istniejącym budynku warsztatowo-socjalnym i istniejącym budynku wystawowo-handlowo-biurowym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0202 80/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.42.2022.PBE"
+}
+},
+{
+"d": "2022-03-17",
+"c": {
+"inw": "wykonanie instalacji gazowej dla budynku miewszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0504 27",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.40.2022.AWD"
+}
+},
+{
+"d": "2022-03-15",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego w zabudowie szeregowej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0712 182",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.38.2022.AWD"
+}
+},
+{
+"d": "2022-03-08",
+"c": {
+"inw": "budowa budynku garażu budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0501 227/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.35.2022.AWD"
+}
+},
+{
+"d": "2022-03-07",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0203 58/9",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.34.2022.AWD"
+}
+},
+{
+"d": "2022-03-01",
+"c": {
+"inw": "budowa trzech budynków mieszkalnych wielorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "GREENWOOD II Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0715 708",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.32.2022.BGR"
+}
+},
+{
+"d": "2022-03-01",
+"c": {
+"inw": "budowa trzech budynków mieszkalnych wielorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "GREENWOOD II Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0715 707",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.32.2022.BGR"
+}
+},
+{
+"d": "2022-03-01",
+"c": {
+"inw": "budowa trzech budynków mieszkalnych wielorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "GREENWOOD II Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0715 703",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.32.2022.BGR"
+}
+},
+{
+"d": "2022-03-01",
+"c": {
+"inw": "budowa trzech budynków mieszkalnych wielorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "GREENWOOD II Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0715 676",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.32.2022.BGR"
+}
+},
+{
+"d": "2022-03-01",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolno stojącego wraz z urządzeniami wtym instalacją gazową budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0711 75/9",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.33.2022.BGR"
+}
+},
+{
+"d": "2022-03-01",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolno stojącego wraz z urządzeniami wtym instalacją gazową budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0711 75/4",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.33.2022.BGR"
+}
+},
+{
+"d": "2022-02-25",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0502 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.29.2022.PBE"
+}
+},
+{
+"d": "2022-02-25",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0502 8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.29.2022.PBE"
+}
+},
+{
+"d": "2022-02-25",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0503 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.29.2022.PBE"
+}
+},
+{
+"d": "2022-02-25",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0503 2/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.29.2022.PBE"
+}
+},
+{
+"d": "2022-02-25",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0503 16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.29.2022.PBE"
+}
+},
+{
+"d": "2022-02-25",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0503 277/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.29.2022.PBE"
+}
+},
+{
+"d": "2022-02-25",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 35/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.29.2022.PBE"
+}
+},
+{
+"d": "2022-02-25",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 70/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.29.2022.PBE"
+}
+},
+{
+"d": "2022-02-25",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 70/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.29.2022.PBE"
+}
+},
+{
+"d": "2022-02-25",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 70/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.29.2022.PBE"
+}
+},
+{
+"d": "2022-02-25",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 70/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.29.2022.PBE"
+}
+},
+{
+"d": "2022-02-25",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 70/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.29.2022.PBE"
+}
+},
+{
+"d": "2022-02-25",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 70/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.29.2022.PBE"
+}
+},
+{
+"d": "2022-02-25",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 70/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.29.2022.PBE"
+}
+},
+{
+"d": "2022-02-25",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 70/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.29.2022.PBE"
+}
+},
+{
+"d": "2022-02-25",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 70/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.29.2022.PBE"
+}
+},
+{
+"d": "2022-02-25",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 70/17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.29.2022.PBE"
+}
+},
+{
+"d": "2022-02-25",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 70/21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.29.2022.PBE"
+}
+},
+{
+"d": "2022-02-25",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 70/23",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.29.2022.PBE"
+}
+},
+{
+"d": "2022-02-25",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0501 221/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.29.2022.PBE"
+}
+},
+{
+"d": "2022-02-25",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0601 2/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.29.2022.PBE"
+}
+},
+{
+"d": "2022-02-25",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0601 62/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.29.2022.PBE"
+}
+},
+{
+"d": "2022-02-25",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0601 62/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.29.2022.PBE"
+}
+},
+{
+"d": "2022-02-25",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0601 63/15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.29.2022.PBE"
+}
+},
+{
+"d": "2022-02-25",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0601 63/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.29.2022.PBE"
+}
+},
+{
+"d": "2022-02-25",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0601 63/18",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.29.2022.PBE"
+}
+},
+{
+"d": "2022-02-25",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0601 63/20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.29.2022.PBE"
+}
+},
+{
+"d": "2022-02-25",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0601 63/22",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.29.2022.PBE"
+}
+},
+{
+"d": "2022-02-25",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0601 63/25",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.29.2022.PBE"
+}
+},
+{
+"d": "2022-02-25",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0601 63/26",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.29.2022.PBE"
+}
+},
+{
+"d": "2022-02-25",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0601 63/28",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.29.2022.PBE"
+}
+},
+{
+"d": "2022-02-25",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0601 63/29",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.29.2022.PBE"
+}
+},
+{
+"d": "2022-02-25",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0601 63/33",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.29.2022.PBE"
+}
+},
+{
+"d": "2022-02-21",
+"c": {
+"inw": "budowa sieci wodociągowej DN 100 mm L=526m w ul. Rembertowskiej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0501 220/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.24.2022.PBE"
+}
+},
+{
+"d": "2022-02-21",
+"c": {
+"inw": "budowa sieci wodociągowej DN 100 mm L=526m w ul. Rembertowskiej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0501 85/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.24.2022.PBE"
+}
+},
+{
+"d": "2022-02-21",
+"c": {
+"inw": "budowa sieci wodociągowej DN 100 mm L=526m w ul. Rembertowskiej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0501 85/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.24.2022.PBE"
+}
+},
+{
+"d": "2022-02-21",
+"c": {
+"inw": "budowa sieci wodociągowej DN 100 mm L=526m w ul. Rembertowskiej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0501 85/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.24.2022.PBE"
+}
+},
+{
+"d": "2022-02-21",
+"c": {
+"inw": "budowa sieci wodociągowej DN 100 mm L=526m w ul. Rembertowskiej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0501 85/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.24.2022.PBE"
+}
+},
+{
+"d": "2022-02-21",
+"c": {
+"inw": "budowa sieci wodociągowej DN 100 mm L=526m w ul. Rembertowskiej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0501 85/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.24.2022.PBE"
+}
+},
+{
+"d": "2022-02-21",
+"c": {
+"inw": "budowa sieci wodociągowej DN 100 mm L=526m w ul. Rembertowskiej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0501 102/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.24.2022.PBE"
+}
+},
+{
+"d": "2022-02-21",
+"c": {
+"inw": "budowa sieci wodociągowej DN 100 mm L=526m w ul. Rembertowskiej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0501 102/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.24.2022.PBE"
+}
+},
+{
+"d": "2022-02-21",
+"c": {
+"inw": "budowa sieci wodociągowej DN 100 mm L=526m w ul. Rembertowskiej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0501 111/29",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.24.2022.PBE"
+}
+},
+{
+"d": "2022-02-21",
+"c": {
+"inw": "rozbiórka budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0404 51/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.3.2022.PBE"
+}
+},
+{
+"d": "2022-02-15",
+"c": {
+"inw": "budowa dwóch instalacji gazowych dla dwóch budynków mieszkalnych jednorodzinnych dwulokalowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0304 52/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.19.2022.AWD"
+}
+},
+{
+"d": "2022-02-14",
+"c": {
+"inw": "wykonanie instalacji gazu dla dwóch budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0712 193/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.18.2022.AWD"
+}
+},
+{
+"d": "2022-02-14",
+"c": {
+"inw": "wykonanie instalacji gazu dla dwóch budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0712 193/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.18.2022.AWD"
+}
+},
+{
+"d": "2022-02-11",
+"c": {
+"inw": "budowa czterech budynków mieszkalnych jednorodzinnych w zabudowie szeregowej (1 zespół) budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0709 123/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.17.2022.PBE"
+}
+},
+{
+"d": "2022-02-11",
+"c": {
+"inw": "budowa czterech budynków mieszkalnych jednorodzinnych w zabudowie szeregowej (1 zespół) budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0709 123/5",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.17.2022.PBE"
+}
+},
+{
+"d": "2022-01-31",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0708 45",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.13.2021.PBE"
+}
+},
+{
+"d": "2022-01-28",
+"c": {
+"inw": "rozbiórka budynku - inny budynek niemieszkalny rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0601 14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.2.2021.PBE"
+}
+},
+{
+"d": "2022-01-28",
+"c": {
+"inw": "budowa 16 budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej i jednego budynku jednorodzinnego wolno stojącego - Etap I (4 budynki jednorodzinne w zabudowie bliźniaczej) budowa nowego/nowych obiektów budowlanych",
+"wn": "LOFT GARDEN WESOŁA Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0202 31/4",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.12.2022.BGR"
+}
+},
+{
+"d": "2022-01-28",
+"c": {
+"inw": "budowa 16 budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej i jednego budynku jednorodzinnego wolno stojącego - Etap I (4 budynki jednorodzinne w zabudowie bliźniaczej) budowa nowego/nowych obiektów budowlanych",
+"wn": "LOFT GARDEN WESOŁA Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0202 31/5",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.12.2022.BGR"
+}
+},
+{
+"d": "2022-01-28",
+"c": {
+"inw": "budowa 16 budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej i jednego budynku jednorodzinnego wolno stojącego - Etap I (4 budynki jednorodzinne w zabudowie bliźniaczej) budowa nowego/nowych obiektów budowlanych",
+"wn": "LOFT GARDEN WESOŁA Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0202 31/6",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.12.2022.BGR"
+}
+},
+{
+"d": "2022-01-28",
+"c": {
+"inw": "budowa 16 budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej i jednego budynku jednorodzinnego wolno stojącego - Etap I (4 budynki jednorodzinne w zabudowie bliźniaczej) budowa nowego/nowych obiektów budowlanych",
+"wn": "LOFT GARDEN WESOŁA Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0202 31/7",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.12.2022.BGR"
+}
+},
+{
+"d": "2022-01-28",
+"c": {
+"inw": "budowa 16 budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej i jednego budynku jednorodzinnego wolno stojącego - Etap I (4 budynki jednorodzinne w zabudowie bliźniaczej) budowa nowego/nowych obiektów budowlanych",
+"wn": "LOFT GARDEN WESOŁA Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0202 27/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.12.2022.BGR"
+}
+},
+{
+"d": "2022-01-26",
+"c": {
+"inw": "budowa instalacji gazowej do lokalu mieszkalnego w budynku warsztatu stolarskiego z lokalem mieszkalnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0501 5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6740.11.2021.PBE"
+}
+},
+{
+"d": "2022-01-17",
+"c": {
+"inw": "rozbiórka budynku garażowego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0203 16/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XIV-WAB.6741.1.2022.BGR"
+}
+}
+]
+},
+{
+"id": "dec_pnb",
+"name": "Decyzje o pozwoleniu na budowę",
+"short": "Decyzje PnB",
+"desc": "Decyzje o pozwoleniu na budowę wydane przez organ architektoniczno-budowlany dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer decyzji",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2022-12-20",
+"c": {
+"inw": "budowa odcinków sieci elektroenergetycznej SN 15kV i nn 0,4kV oraz stacji transformatorowej kontenerowej SN 15kV/nn 0,4kV budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0203 171/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "108/2022"
+}
+},
+{
+"d": "2022-12-20",
+"c": {
+"inw": "budowa odcinków sieci elektroenergetycznej SN 15kV i nn 0,4kV oraz stacji transformatorowej kontenerowej SN 15kV/nn 0,4kV budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0203 171/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "108/2022"
+}
+},
+{
+"d": "2022-12-20",
+"c": {
+"inw": "budowa odcinków sieci elektroenergetycznej SN 15kV i nn 0,4kV oraz stacji transformatorowej kontenerowej SN 15kV/nn 0,4kV budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0203 59/27",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "108/2022"
+}
+},
+{
+"d": "2022-12-20",
+"c": {
+"inw": "budowa odcinków sieci elektroenergetycznej SN 15kV i nn 0,4kV oraz stacji transformatorowej kontenerowej SN 15kV/nn 0,4kV budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0203 59/28",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "108/2022"
+}
+},
+{
+"d": "2022-12-20",
+"c": {
+"inw": "budowa odcinków sieci elektroenergetycznej SN 15kV i nn 0,4kV oraz stacji transformatorowej kontenerowej SN 15kV/nn 0,4kV budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0203 59/29",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "108/2022"
+}
+},
+{
+"d": "2022-12-20",
+"c": {
+"inw": "budowa odcinków sieci elektroenergetycznej SN 15kV i nn 0,4kV oraz stacji transformatorowej kontenerowej SN 15kV/nn 0,4kV budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0201 6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "108/2022"
+}
+},
+{
+"d": "2022-12-20",
+"c": {
+"inw": "budowa odcinków sieci elektroenergetycznej SN 15kV i nn 0,4kV oraz stacji transformatorowej kontenerowej SN 15kV/nn 0,4kV budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0202 1/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "108/2022"
+}
+},
+{
+"d": "2022-12-20",
+"c": {
+"inw": "budowa odcinków sieci elektroenergetycznej SN 15kV i nn 0,4kV oraz stacji transformatorowej kontenerowej SN 15kV/nn 0,4kV budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0202 2/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "108/2022"
+}
+},
+{
+"d": "2022-12-20",
+"c": {
+"inw": "budowa odcinków sieci elektroenergetycznej SN 15kV i nn 0,4kV oraz stacji transformatorowej kontenerowej SN 15kV/nn 0,4kV budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0202 2/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "108/2022"
+}
+},
+{
+"d": "2022-12-20",
+"c": {
+"inw": "budowa odcinków sieci elektroenergetycznej SN 15kV i nn 0,4kV oraz stacji transformatorowej kontenerowej SN 15kV/nn 0,4kV budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0202 3/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "108/2022"
+}
+},
+{
+"d": "2022-12-20",
+"c": {
+"inw": "budowa odcinków sieci elektroenergetycznej SN 15kV i nn 0,4kV oraz stacji transformatorowej kontenerowej SN 15kV/nn 0,4kV budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0202 3/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "108/2022"
+}
+},
+{
+"d": "2022-12-20",
+"c": {
+"inw": "budowa odcinków sieci elektroenergetycznej SN 15kV i nn 0,4kV oraz stacji transformatorowej kontenerowej SN 15kV/nn 0,4kV budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0202 4/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "108/2022"
+}
+},
+{
+"d": "2022-12-15",
+"c": {
+"inw": "budowa sieci wodociągowej DN100mm L=501,5m w ul. Korzeniowej i ul. Ks.J.Iwaniuka budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0706 31/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "107/2022"
+}
+},
+{
+"d": "2022-12-15",
+"c": {
+"inw": "budowa sieci wodociągowej DN100mm L=501,5m w ul. Korzeniowej i ul. Ks.J.Iwaniuka budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0706 32/15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "107/2022"
+}
+},
+{
+"d": "2022-12-15",
+"c": {
+"inw": "budowa sieci wodociągowej DN100mm L=501,5m w ul. Korzeniowej i ul. Ks.J.Iwaniuka budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0706 32/43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "107/2022"
+}
+},
+{
+"d": "2022-12-15",
+"c": {
+"inw": "budowa sieci wodociągowej DN100mm L=501,5m w ul. Korzeniowej i ul. Ks.J.Iwaniuka budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146515_8 0706 32/30",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "107/2022"
+}
+},
+{
+"d": "2022-12-09",
+"c": {
+"inw": "budowa dwóch instalacji gazu dla projektowanego budynku mieszkalnego jednorodzinnego wolno stojącego dwulokalowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0203 60/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "106/2022"
+}
+},
+{
+"d": "2022-12-06",
+"c": {
+"inw": "wykonanie wewnątrz i na zewnątrz projektowanego budynku mieszkalnego instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0406 24",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "105/2022"
+}
+},
+{
+"d": "2022-12-06",
+"c": {
+"inw": "budowa instalacji gazu dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0602 89",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "104/2022"
+}
+},
+{
+"d": "2022-11-25",
+"c": {
+"inw": "budowa 16 budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej i 1 budynek mieszkalny jednorodzinny wolno stojący - Etap IV budynek 5 i 6 budowa nowego/nowych obiektów budowlanych",
+"wn": "Loft Garden Wesoła Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0202 31/4",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "103/2022"
+}
+},
+{
+"d": "2022-11-25",
+"c": {
+"inw": "budowa 16 budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej i 1 budynek mieszkalny jednorodzinny wolno stojący - Etap IV budynek 5 i 6 budowa nowego/nowych obiektów budowlanych",
+"wn": "Loft Garden Wesoła Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0202 31/5",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "103/2022"
+}
+},
+{
+"d": "2022-11-25",
+"c": {
+"inw": "budowa 16 budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej i 1 budynek mieszkalny jednorodzinny wolno stojący - Etap IV budynek 5 i 6 budowa nowego/nowych obiektów budowlanych",
+"wn": "Loft Garden Wesoła Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0202 31/6",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "103/2022"
+}
+},
+{
+"d": "2022-11-25",
+"c": {
+"inw": "budowa 16 budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej i 1 budynek mieszkalny jednorodzinny wolno stojący - Etap IV budynek 5 i 6 budowa nowego/nowych obiektów budowlanych",
+"wn": "Loft Garden Wesoła Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0202 31/7",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "103/2022"
+}
+},
+{
+"d": "2022-11-25",
+"c": {
+"inw": "budowa 16 budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej i 1 budynek mieszkalny jednorodzinny wolno stojący - Etap IV budynek 5 i 6 budowa nowego/nowych obiektów budowlanych",
+"wn": "Loft Garden Wesoła Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0202 27/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "103/2022"
+}
+},
+{
+"d": "2022-11-23",
+"c": {
+"inw": "budowa 16 budynków w zabudowie bliźniaczej i 1 budynek mieszkalny jednorodzinny wolno stojący - Etap III budynki 13, 14, 15, 16, budowa nowego/nowych obiektów budowlanych",
+"wn": "Loft Garden Wesoła Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0202 31/4",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "101/2022"
+}
+},
+{
+"d": "2022-11-23",
+"c": {
+"inw": "budowa 16 budynków w zabudowie bliźniaczej i 1 budynek mieszkalny jednorodzinny wolno stojący - Etap III budynki 13, 14, 15, 16, budowa nowego/nowych obiektów budowlanych",
+"wn": "Loft Garden Wesoła Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0202 31/5",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "101/2022"
+}
+},
+{
+"d": "2022-11-23",
+"c": {
+"inw": "budowa 16 budynków w zabudowie bliźniaczej i 1 budynek mieszkalny jednorodzinny wolno stojący - Etap III budynki 13, 14, 15, 16, budowa nowego/nowych obiektów budowlanych",
+"wn": "Loft Garden Wesoła Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0202 31/6",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "101/2022"
+}
+},
+{
+"d": "2022-11-23",
+"c": {
+"inw": "budowa 16 budynków w zabudowie bliźniaczej i 1 budynek mieszkalny jednorodzinny wolno stojący - Etap III budynki 13, 14, 15, 16, budowa nowego/nowych obiektów budowlanych",
+"wn": "Loft Garden Wesoła Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0202 31/7",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "101/2022"
+}
+},
+{
+"d": "2022-11-23",
+"c": {
+"inw": "budowa 16 budynków w zabudowie bliźniaczej i 1 budynek mieszkalny jednorodzinny wolno stojący - Etap III budynki 13, 14, 15, 16, budowa nowego/nowych obiektów budowlanych",
+"wn": "Loft Garden Wesoła Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0202 27/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "101/2022"
+}
+},
+{
+"d": "2022-11-18",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego i budynków gospodarczych rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0711 66",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "12/2022"
+}
+},
+{
+"d": "2022-11-15",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0712 196",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "100/2022"
+}
+},
+{
+"d": "2022-11-15",
+"c": {
+"inw": "rozbudowa, przebudowa i nadbudowa budynku mieszkalnego jednorodzinnego z częścią usługową oraz zmiana sposobu użytkowania na budynek mieszkalny jednorodzinny dwulokalowy wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0404 38",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "99/2022"
+}
+},
+{
+"d": "2022-11-02",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0712 193/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "97/2022"
+}
+},
+{
+"d": "2022-11-02",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0712 193/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "97/2022"
+}
+},
+{
+"d": "2022-10-27",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolno stojącego dwulokalowego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0203 60/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "96/2022"
+}
+},
+{
+"d": "2022-10-27",
+"c": {
+"inw": "rozbiórka części wiaty rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0715 84/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "11/2022"
+}
+},
+{
+"d": "2022-10-21",
+"c": {
+"inw": "rozbiórka sieci elektroenergetycznej średniego i niskiego napięcia - obiekt liniowy rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0603 1/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "10/2022"
+}
+},
+{
+"d": "2022-10-21",
+"c": {
+"inw": "rozbiórka sieci elektroenergetycznej średniego i niskiego napięcia - obiekt liniowy rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0603 89/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "10/2022"
+}
+},
+{
+"d": "2022-10-21",
+"c": {
+"inw": "rozbiórka sieci elektroenergetycznej średniego i niskiego napięcia - obiekt liniowy rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0603 40",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "10/2022"
+}
+},
+{
+"d": "2022-10-21",
+"c": {
+"inw": "rozbiórka sieci elektroenergetycznej średniego i niskiego napięcia - obiekt liniowy rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0603 96/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "10/2022"
+}
+},
+{
+"d": "2022-10-21",
+"c": {
+"inw": "rozbiórka sieci elektroenergetycznej średniego i niskiego napięcia - obiekt liniowy rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0603 1/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "10/2022"
+}
+},
+{
+"d": "2022-10-21",
+"c": {
+"inw": "rozbiórka sieci elektroenergetycznej średniego i niskiego napięcia - obiekt liniowy rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0603 15/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "10/2022"
+}
+},
+{
+"d": "2022-10-21",
+"c": {
+"inw": "rozbiórka sieci elektroenergetycznej średniego i niskiego napięcia - obiekt liniowy rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0603 15/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "10/2022"
+}
+},
+{
+"d": "2022-10-21",
+"c": {
+"inw": "rozbiórka sieci elektroenergetycznej średniego i niskiego napięcia - obiekt liniowy rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0603 1/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "10/2022"
+}
+},
+{
+"d": "2022-10-21",
+"c": {
+"inw": "budowa instalacji gazowej dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0202 21/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "94/2022"
+}
+},
+{
+"d": "2022-10-21",
+"c": {
+"inw": "rozbiórka sieci elektroenergetycznej średniego i niskiego napięcia - obiekt liniowy rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0408 56",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "10/2022"
+}
+},
+{
+"d": "2022-10-21",
+"c": {
+"inw": "rozbiórka sieci elektroenergetycznej średniego i niskiego napięcia - obiekt liniowy rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0604 8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "10/2022"
+}
+},
+{
+"d": "2022-10-21",
+"c": {
+"inw": "rozbiórka sieci elektroenergetycznej średniego i niskiego napięcia - obiekt liniowy rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0604 14/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "10/2022"
+}
+},
+{
+"d": "2022-10-21",
+"c": {
+"inw": "rozbiórka sieci elektroenergetycznej średniego i niskiego napięcia - obiekt liniowy rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0604 14/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "10/2022"
+}
+},
+{
+"d": "2022-10-21",
+"c": {
+"inw": "rozbiórka sieci elektroenergetycznej średniego i niskiego napięcia - obiekt liniowy rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0604 15/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "10/2022"
+}
+},
+{
+"d": "2022-10-21",
+"c": {
+"inw": "rozbiórka sieci elektroenergetycznej średniego i niskiego napięcia - obiekt liniowy rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0604 2/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "10/2022"
+}
+},
+{
+"d": "2022-10-21",
+"c": {
+"inw": "rozbiórka sieci elektroenergetycznej średniego i niskiego napięcia - obiekt liniowy rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0604 2/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "10/2022"
+}
+},
+{
+"d": "2022-10-21",
+"c": {
+"inw": "rozbiórka sieci elektroenergetycznej średniego i niskiego napięcia - obiekt liniowy rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0409 3/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "10/2022"
+}
+},
+{
+"d": "2022-10-21",
+"c": {
+"inw": "rozbiórka sieci elektroenergetycznej średniego i niskiego napięcia - obiekt liniowy rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0409 4/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "10/2022"
+}
+},
+{
+"d": "2022-10-21",
+"c": {
+"inw": "rozbiórka sieci elektroenergetycznej średniego i niskiego napięcia - obiekt liniowy rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0409 3/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "10/2022"
+}
+},
+{
+"d": "2022-10-21",
+"c": {
+"inw": "rozbiórka sieci elektroenergetycznej średniego i niskiego napięcia - obiekt liniowy rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0409 4/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "10/2022"
+}
+},
+{
+"d": "2022-10-21",
+"c": {
+"inw": "rozbiórka sieci elektroenergetycznej średniego i niskiego napięcia - obiekt liniowy rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0409 3/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "10/2022"
+}
+},
+{
+"d": "2022-10-21",
+"c": {
+"inw": "rozbiórka sieci elektroenergetycznej średniego i niskiego napięcia - obiekt liniowy rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0409 4/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "10/2022"
+}
+},
+{
+"d": "2022-10-21",
+"c": {
+"inw": "rozbiórka sieci elektroenergetycznej średniego i niskiego napięcia - obiekt liniowy rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0409 5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "10/2022"
+}
+},
+{
+"d": "2022-10-21",
+"c": {
+"inw": "rozbiórka sieci elektroenergetycznej średniego i niskiego napięcia - obiekt liniowy rozbiórka istniejącego obiektu budowlanego",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0409 7/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "10/2022"
+}
+},
+{
+"d": "2022-10-21",
+"c": {
+"inw": "budowa szczelnego zbiornika na wody opadowe budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 47/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "93/2022"
+}
+},
+{
+"d": "2022-10-18",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0503 190/5",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "92/2022"
+}
+},
+{
+"d": "2022-10-11",
+"c": {
+"inw": "budowa trzech budynków mieszkalnych wielorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "GREENWOOD II Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0715 708",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "91/2022"
+}
+},
+{
+"d": "2022-10-11",
+"c": {
+"inw": "budowa trzech budynków mieszkalnych wielorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "GREENWOOD II Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0715 707",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "91/2022"
+}
+},
+{
+"d": "2022-10-11",
+"c": {
+"inw": "budowa trzech budynków mieszkalnych wielorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "GREENWOOD II Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0715 703",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "91/2022"
+}
+},
+{
+"d": "2022-10-11",
+"c": {
+"inw": "budowa trzech budynków mieszkalnych wielorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "GREENWOOD II Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0715 676",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "91/2022"
+}
+},
+{
+"d": "2022-10-04",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wraz z infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 263",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "88/2022"
+}
+},
+{
+"d": "2022-09-27",
+"c": {
+"inw": "budowa instalacji gazu dla budynku mieszkalnego jednorodzinnego w budowie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0606 9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "87/2022"
+}
+},
+{
+"d": "2022-09-22",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0503 95/4",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "85/2022"
+}
+},
+{
+"d": "2022-09-22",
+"c": {
+"inw": "budowa ośmiu budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0601 61/11",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "86/2022"
+}
+},
+{
+"d": "2022-09-22",
+"c": {
+"inw": "budowa ośmiu budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0601 61/12",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "86/2022"
+}
+},
+{
+"d": "2022-09-22",
+"c": {
+"inw": "budowa ośmiu budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0601 61/13",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "86/2022"
+}
+},
+{
+"d": "2022-09-22",
+"c": {
+"inw": "budowa ośmiu budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0601 61/14",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "86/2022"
+}
+},
+{
+"d": "2022-09-22",
+"c": {
+"inw": "budowa ośmiu budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0601 61/15",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "86/2022"
+}
+},
+{
+"d": "2022-09-22",
+"c": {
+"inw": "budowa ośmiu budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0601 61/16",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "86/2022"
+}
+},
+{
+"d": "2022-09-22",
+"c": {
+"inw": "budowa ośmiu budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0601 61/17",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "86/2022"
+}
+},
+{
+"d": "2022-09-22",
+"c": {
+"inw": "budowa ośmiu budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0601 61/18",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "86/2022"
+}
+},
+{
+"d": "2022-09-19",
+"c": {
+"inw": "budowa mostku dojazdowego przez Kanał Wawerski budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0712 77/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "82/2022"
+}
+},
+{
+"d": "2022-09-19",
+"c": {
+"inw": "budowa mostku dojazdowego przez Kanał Wawerski budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0712 42/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "82/2022"
+}
+},
+{
+"d": "2022-09-19",
+"c": {
+"inw": "budowa mostku dojazdowego przez Kanał Wawerski budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0712 42/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "82/2022"
+}
+},
+{
+"d": "2022-09-19",
+"c": {
+"inw": "budowa mostku dojazdowego przez Kanał Wawerski budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0717 44/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "82/2022"
+}
+},
+{
+"d": "2022-09-19",
+"c": {
+"inw": "budowa mostku dojazdowego przez Kanał Wawerski budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0717 19/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "82/2022"
+}
+},
+{
+"d": "2022-09-19",
+"c": {
+"inw": "budowa mostku dojazdowego przez Kanał Wawerski budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0717 264",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "82/2022"
+}
+},
+{
+"d": "2022-09-16",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolno stojącego wraz z towarzyszącą infrastrukturą budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0404 51/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "81/2022"
+}
+},
+{
+"d": "2022-09-15",
+"c": {
+"inw": "budowa trzech budynków mieszkalnych jednorodzinnych w zabudowie szeregowej budowa nowego/nowych obiektów budowlanych",
+"wn": "GLD Development sp. z o.o. Sp.K.",
+"nier": "",
+"dz": "146515_8 0602 112/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "79/2022"
+}
+},
+{
+"d": "2022-09-15",
+"c": {
+"inw": "budowa trzech budynków mieszkalnych jednorodzinnych w zabudowie szeregowej budowa nowego/nowych obiektów budowlanych",
+"wn": "GLD Development sp. z o.o. Sp.K.",
+"nier": "",
+"dz": "146515_8 0602 112/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "79/2022"
+}
+},
+{
+"d": "2022-09-15",
+"c": {
+"inw": "budowa trzech budynków mieszkalnych jednorodzinnych w zabudowie szeregowej budowa nowego/nowych obiektów budowlanych",
+"wn": "GLD Development sp. z o.o. Sp.K.",
+"nier": "",
+"dz": "146515_8 0602 112/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "79/2022"
+}
+},
+{
+"d": "2022-09-02",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej w dwóch etapach wraz z zagospodarowaniem terenu i instalacją wewnętrzną gazu, Etap I - budynek A, Etap II - budynek B budowa nowego/nowych obiektów budowlanych",
+"wn": "Anna Zarębska, Janusz Zarębski SODACITY Sp.J.",
+"nier": "",
+"dz": "146515_8 0504 33/17",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "77/2022"
+}
+},
+{
+"d": "2022-09-02",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej w dwóch etapach wraz z zagospodarowaniem terenu i instalacją wewnętrzną gazu, Etap I - budynek A, Etap II - budynek B budowa nowego/nowych obiektów budowlanych",
+"wn": "Anna Zarębska, Janusz Zarębski SODACITY Sp.J.",
+"nier": "",
+"dz": "146515_8 0504 33/16",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "77/2022"
+}
+},
+{
+"d": "2022-08-24",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0404 51/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "9/2022"
+}
+},
+{
+"d": "2022-08-24",
+"c": {
+"inw": "budowa czterech instalacji gazu dla projektowanych budynków mieszkalnych w zabudowie bliźniaczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0202 47/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "75/2022"
+}
+},
+{
+"d": "2022-08-24",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego z garażem w bryle budynku budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 114/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "74/2022"
+}
+},
+{
+"d": "2022-08-24",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego z garażem w bryle budynku budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 113/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "74/2022"
+}
+},
+{
+"d": "2022-08-22",
+"c": {
+"inw": "budowa 16 budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej i jeden budynek mieszkalny jednorodzinny wolno stojący wraz z dwoma szczelnymi zbiornikami na wody opadowe oraz drogą wewnętrzną, - Etap II budynki nr 7, 8, 9, 10, 11, 12 oraz jeden szczelny zbiornik na wody opadowe budowa nowego/nowych obiektów budowlanych",
+"wn": "LOFT GARDEN WESOŁA Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0202 27/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "72/2022"
+}
+},
+{
+"d": "2022-08-22",
+"c": {
+"inw": "budowa 16 budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej i jeden budynek mieszkalny jednorodzinny wolno stojący wraz z dwoma szczelnymi zbiornikami na wody opadowe oraz drogą wewnętrzną, - Etap II budynki nr 7, 8, 9, 10, 11, 12 oraz jeden szczelny zbiornik na wody opadowe budowa nowego/nowych obiektów budowlanych",
+"wn": "LOFT GARDEN WESOŁA Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0202 31/7",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "72/2022"
+}
+},
+{
+"d": "2022-08-22",
+"c": {
+"inw": "budowa 16 budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej i jeden budynek mieszkalny jednorodzinny wolno stojący wraz z dwoma szczelnymi zbiornikami na wody opadowe oraz drogą wewnętrzną, - Etap II budynki nr 7, 8, 9, 10, 11, 12 oraz jeden szczelny zbiornik na wody opadowe budowa nowego/nowych obiektów budowlanych",
+"wn": "LOFT GARDEN WESOŁA Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0202 31/6",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "72/2022"
+}
+},
+{
+"d": "2022-08-22",
+"c": {
+"inw": "budowa 16 budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej i jeden budynek mieszkalny jednorodzinny wolno stojący wraz z dwoma szczelnymi zbiornikami na wody opadowe oraz drogą wewnętrzną, - Etap II budynki nr 7, 8, 9, 10, 11, 12 oraz jeden szczelny zbiornik na wody opadowe budowa nowego/nowych obiektów budowlanych",
+"wn": "LOFT GARDEN WESOŁA Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0202 31/5",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "72/2022"
+}
+},
+{
+"d": "2022-08-22",
+"c": {
+"inw": "budowa 16 budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej i jeden budynek mieszkalny jednorodzinny wolno stojący wraz z dwoma szczelnymi zbiornikami na wody opadowe oraz drogą wewnętrzną, - Etap II budynki nr 7, 8, 9, 10, 11, 12 oraz jeden szczelny zbiornik na wody opadowe budowa nowego/nowych obiektów budowlanych",
+"wn": "LOFT GARDEN WESOŁA Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0202 31/4",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "72/2022"
+}
+},
+{
+"d": "2022-08-11",
+"c": {
+"inw": "przebudowa, rozbudowa i nadbudowa budynku mieszkalnego jednorodzinnego w zabudowie bliźniaczej - bud. nr 2 - segment wschodni rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0406 64",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "71/2022"
+}
+},
+{
+"d": "2022-08-02",
+"c": {
+"inw": "budowa instalacji gazu n/c dla budynku mieszkalnego jednorodzinnego w zabudowie szeregowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0712 182",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "68/2022"
+}
+},
+{
+"d": "2022-08-01",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z usługami w parterze, z garażem podziemnym wraz z instalacją gazową i zbiornikami retencyjno-rozsączającymi wody opadowe budowa nowego/nowych obiektów budowlanych",
+"wn": "MBJ Sp. z o.o. Sp.K.",
+"nier": "",
+"dz": "146515_8 0711 171",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "67/2022"
+}
+},
+{
+"d": "2022-07-07",
+"c": {
+"inw": "budowa instalacji gazu dla sześciu budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0402 55",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "63/2022"
+}
+},
+{
+"d": "2022-07-06",
+"c": {
+"inw": "budowa instalacji gazowej dla lokalu mieszkalnego w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0303 19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "61/2022"
+}
+},
+{
+"d": "2022-07-05",
+"c": {
+"inw": "rozbudowa, przebudowa oraz nadbudowa istniejącego budynku gospodarczego ze zmianą funkcji na budynek mieszkalny jednorodzinny rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0402 34",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "60/2022"
+}
+},
+{
+"d": "2022-07-01",
+"c": {
+"inw": "wykonanie instalacji gazu dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0503 39/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "59/2022"
+}
+},
+{
+"d": "2022-06-30",
+"c": {
+"inw": "sieć elektroenergetyczna średniego i niskiego napięcia - obiekt liniowy budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0604 2/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "58/2022"
+}
+},
+{
+"d": "2022-06-30",
+"c": {
+"inw": "sieć elektroenergetyczna średniego i niskiego napięcia - obiekt liniowy budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0604 2/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "58/2022"
+}
+},
+{
+"d": "2022-06-30",
+"c": {
+"inw": "sieć elektroenergetyczna średniego i niskiego napięcia - obiekt liniowy budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0604 14/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "58/2022"
+}
+},
+{
+"d": "2022-06-30",
+"c": {
+"inw": "sieć elektroenergetyczna średniego i niskiego napięcia - obiekt liniowy budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0409 3/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "58/2022"
+}
+},
+{
+"d": "2022-06-30",
+"c": {
+"inw": "sieć elektroenergetyczna średniego i niskiego napięcia - obiekt liniowy budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0409 4/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "58/2022"
+}
+},
+{
+"d": "2022-06-30",
+"c": {
+"inw": "sieć elektroenergetyczna średniego i niskiego napięcia - obiekt liniowy budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0409 4/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "58/2022"
+}
+},
+{
+"d": "2022-06-30",
+"c": {
+"inw": "sieć elektroenergetyczna średniego i niskiego napięcia - obiekt liniowy budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0409 4/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "58/2022"
+}
+},
+{
+"d": "2022-06-30",
+"c": {
+"inw": "sieć elektroenergetyczna średniego i niskiego napięcia - obiekt liniowy budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0409 4/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "58/2022"
+}
+},
+{
+"d": "2022-06-30",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej (po dwa lokale w każdym) budowa nowego/nowych obiektów budowlanych",
+"wn": "Michał Śledzik VP Invest Development Sp.k.",
+"nier": "",
+"dz": "146515_8 0202 53/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "57/2022"
+}
+},
+{
+"d": "2022-06-30",
+"c": {
+"inw": "rozbiórka budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 47/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "8/2022"
+}
+},
+{
+"d": "2022-06-30",
+"c": {
+"inw": "sieć elektroenergetyczna średniego i niskiego napięcia - obiekt liniowy budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0603 1/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "58/2022"
+}
+},
+{
+"d": "2022-06-30",
+"c": {
+"inw": "sieć elektroenergetyczna średniego i niskiego napięcia - obiekt liniowy budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0603 1/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "58/2022"
+}
+},
+{
+"d": "2022-06-30",
+"c": {
+"inw": "sieć elektroenergetyczna średniego i niskiego napięcia - obiekt liniowy budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0603 1/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "58/2022"
+}
+},
+{
+"d": "2022-06-30",
+"c": {
+"inw": "sieć elektroenergetyczna średniego i niskiego napięcia - obiekt liniowy budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0603 15/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "58/2022"
+}
+},
+{
+"d": "2022-06-30",
+"c": {
+"inw": "sieć elektroenergetyczna średniego i niskiego napięcia - obiekt liniowy budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0603 15/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "58/2022"
+}
+},
+{
+"d": "2022-06-30",
+"c": {
+"inw": "sieć elektroenergetyczna średniego i niskiego napięcia - obiekt liniowy budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0603 89/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "58/2022"
+}
+},
+{
+"d": "2022-06-30",
+"c": {
+"inw": "sieć elektroenergetyczna średniego i niskiego napięcia - obiekt liniowy budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0603 89/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "58/2022"
+}
+},
+{
+"d": "2022-06-30",
+"c": {
+"inw": "sieć elektroenergetyczna średniego i niskiego napięcia - obiekt liniowy budowa nowego/nowych obiektów budowlanych",
+"wn": "PGE Dystrybucja S.A.",
+"nier": "",
+"dz": "146515_8 0603 90/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "58/2022"
+}
+},
+{
+"d": "2022-06-28",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolno stojącego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0202 21/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "56/2022"
+}
+},
+{
+"d": "2022-06-27",
+"c": {
+"inw": "przebudowa i rozbudowa budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0503 177/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "55/2022"
+}
+},
+{
+"d": "2022-06-22",
+"c": {
+"inw": "budowa instalacji gazu dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0713 50/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "53/2022"
+}
+},
+{
+"d": "2022-06-02",
+"c": {
+"inw": "rozbiórka parterowego budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0408 43/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "7/2022"
+}
+},
+{
+"d": "2022-05-26",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolno stojącego wraz z urządzeniami wtym instalacją gazową budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0711 75/9",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "48/2022"
+}
+},
+{
+"d": "2022-05-26",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolno stojącego wraz z urządzeniami wtym instalacją gazową budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0711 75/4",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "48/2022"
+}
+},
+{
+"d": "2022-05-12",
+"c": {
+"inw": "budowa wraz z elementami przebudowy sieci wodociągowej w ul. 1 Praskiego Pułku budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 1/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "47/2022"
+}
+},
+{
+"d": "2022-05-12",
+"c": {
+"inw": "budowa wraz z elementami przebudowy sieci wodociągowej w ul. 1 Praskiego Pułku budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 1/19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "47/2022"
+}
+},
+{
+"d": "2022-05-12",
+"c": {
+"inw": "budowa wraz z elementami przebudowy sieci wodociągowej w ul. 1 Praskiego Pułku budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 29/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "47/2022"
+}
+},
+{
+"d": "2022-05-12",
+"c": {
+"inw": "budowa wraz z elementami przebudowy sieci wodociągowej w ul. 1 Praskiego Pułku budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 69/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "47/2022"
+}
+},
+{
+"d": "2022-05-12",
+"c": {
+"inw": "budowa wraz z elementami przebudowy sieci wodociągowej w ul. 1 Praskiego Pułku budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 69/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "47/2022"
+}
+},
+{
+"d": "2022-05-12",
+"c": {
+"inw": "budowa wraz z elementami przebudowy sieci wodociągowej w ul. 1 Praskiego Pułku budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 69/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "47/2022"
+}
+},
+{
+"d": "2022-05-12",
+"c": {
+"inw": "budowa wraz z elementami przebudowy sieci wodociągowej w ul. 1 Praskiego Pułku budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 69/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "47/2022"
+}
+},
+{
+"d": "2022-05-12",
+"c": {
+"inw": "budowa wraz z elementami przebudowy sieci wodociągowej w ul. 1 Praskiego Pułku budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 69/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "47/2022"
+}
+},
+{
+"d": "2022-05-12",
+"c": {
+"inw": "budowa wraz z elementami przebudowy sieci wodociągowej w ul. 1 Praskiego Pułku budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 69/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "47/2022"
+}
+},
+{
+"d": "2022-05-12",
+"c": {
+"inw": "budowa wraz z elementami przebudowy sieci wodociągowej w ul. 1 Praskiego Pułku budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 69/15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "47/2022"
+}
+},
+{
+"d": "2022-05-12",
+"c": {
+"inw": "budowa wraz z elementami przebudowy sieci wodociągowej w ul. 1 Praskiego Pułku budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 69/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "47/2022"
+}
+},
+{
+"d": "2022-05-12",
+"c": {
+"inw": "budowa wraz z elementami przebudowy sieci wodociągowej w ul. 1 Praskiego Pułku budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 69/17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "47/2022"
+}
+},
+{
+"d": "2022-05-12",
+"c": {
+"inw": "budowa wraz z elementami przebudowy sieci wodociągowej w ul. 1 Praskiego Pułku budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 69/28",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "47/2022"
+}
+},
+{
+"d": "2022-05-12",
+"c": {
+"inw": "budowa wraz z elementami przebudowy sieci wodociągowej w ul. 1 Praskiego Pułku budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 69/29",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "47/2022"
+}
+},
+{
+"d": "2022-05-12",
+"c": {
+"inw": "budowa wraz z elementami przebudowy sieci wodociągowej w ul. 1 Praskiego Pułku budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 70/23",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "47/2022"
+}
+},
+{
+"d": "2022-05-12",
+"c": {
+"inw": "budowa wraz z elementami przebudowy sieci wodociągowej w ul. 1 Praskiego Pułku budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0603 2/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "47/2022"
+}
+},
+{
+"d": "2022-05-12",
+"c": {
+"inw": "budowa wraz z elementami przebudowy sieci wodociągowej w ul. 1 Praskiego Pułku budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0603 3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "47/2022"
+}
+},
+{
+"d": "2022-05-12",
+"c": {
+"inw": "budowa wraz z elementami przebudowy sieci wodociągowej w ul. 1 Praskiego Pułku budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0603 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "47/2022"
+}
+},
+{
+"d": "2022-05-12",
+"c": {
+"inw": "budowa wraz z elementami przebudowy sieci wodociągowej w ul. 1 Praskiego Pułku budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0301 3/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "47/2022"
+}
+},
+{
+"d": "2022-05-12",
+"c": {
+"inw": "budowa wraz z elementami przebudowy sieci wodociągowej w ul. 1 Praskiego Pułku budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0301 6/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "47/2022"
+}
+},
+{
+"d": "2022-05-12",
+"c": {
+"inw": "budowa wraz z elementami przebudowy sieci wodociągowej w ul. 1 Praskiego Pułku budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0301 6/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "47/2022"
+}
+},
+{
+"d": "2022-05-10",
+"c": {
+"inw": "budowa 16 budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej i jednego budynku jednorodzinnego wolno stojącego - Etap I (4 budynki jednorodzinne w zabudowie bliźniaczej) budowa nowego/nowych obiektów budowlanych",
+"wn": "LOFT GARDEN WESOŁA Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0202 31/4",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "46/2022"
+}
+},
+{
+"d": "2022-05-10",
+"c": {
+"inw": "budowa 16 budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej i jednego budynku jednorodzinnego wolno stojącego - Etap I (4 budynki jednorodzinne w zabudowie bliźniaczej) budowa nowego/nowych obiektów budowlanych",
+"wn": "LOFT GARDEN WESOŁA Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0202 31/5",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "46/2022"
+}
+},
+{
+"d": "2022-05-10",
+"c": {
+"inw": "budowa 16 budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej i jednego budynku jednorodzinnego wolno stojącego - Etap I (4 budynki jednorodzinne w zabudowie bliźniaczej) budowa nowego/nowych obiektów budowlanych",
+"wn": "LOFT GARDEN WESOŁA Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0202 31/6",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "46/2022"
+}
+},
+{
+"d": "2022-05-10",
+"c": {
+"inw": "budowa 16 budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej i jednego budynku jednorodzinnego wolno stojącego - Etap I (4 budynki jednorodzinne w zabudowie bliźniaczej) budowa nowego/nowych obiektów budowlanych",
+"wn": "LOFT GARDEN WESOŁA Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0202 31/7",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "46/2022"
+}
+},
+{
+"d": "2022-05-10",
+"c": {
+"inw": "budowa 16 budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej i jednego budynku jednorodzinnego wolno stojącego - Etap I (4 budynki jednorodzinne w zabudowie bliźniaczej) budowa nowego/nowych obiektów budowlanych",
+"wn": "LOFT GARDEN WESOŁA Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0202 27/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "46/2022"
+}
+},
+{
+"d": "2022-05-05",
+"c": {
+"inw": "budowa instalacji gazowej wewnętrznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0714 184",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "44/2022"
+}
+},
+{
+"d": "2022-05-05",
+"c": {
+"inw": "budowa wewnętrznej instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0711 57/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "45/2022"
+}
+},
+{
+"d": "2022-04-29",
+"c": {
+"inw": "przebudowa dwóch instalacji gazu dla dwóch budynków mieszkalnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0404 51/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "43/2022"
+}
+},
+{
+"d": "2022-04-29",
+"c": {
+"inw": "przebudowa dwóch instalacji gazu dla dwóch budynków mieszkalnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0404 51/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "43/2022"
+}
+},
+{
+"d": "2022-04-27",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0502 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/2022"
+}
+},
+{
+"d": "2022-04-27",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0502 8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/2022"
+}
+},
+{
+"d": "2022-04-27",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0503 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/2022"
+}
+},
+{
+"d": "2022-04-27",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0503 2/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/2022"
+}
+},
+{
+"d": "2022-04-27",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0503 16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/2022"
+}
+},
+{
+"d": "2022-04-27",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0503 277/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/2022"
+}
+},
+{
+"d": "2022-04-27",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 35/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/2022"
+}
+},
+{
+"d": "2022-04-27",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 70/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/2022"
+}
+},
+{
+"d": "2022-04-27",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 70/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/2022"
+}
+},
+{
+"d": "2022-04-27",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 70/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/2022"
+}
+},
+{
+"d": "2022-04-27",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 70/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/2022"
+}
+},
+{
+"d": "2022-04-27",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 70/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/2022"
+}
+},
+{
+"d": "2022-04-27",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 70/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/2022"
+}
+},
+{
+"d": "2022-04-27",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 70/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/2022"
+}
+},
+{
+"d": "2022-04-27",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 70/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/2022"
+}
+},
+{
+"d": "2022-04-27",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 70/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/2022"
+}
+},
+{
+"d": "2022-04-27",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 70/17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/2022"
+}
+},
+{
+"d": "2022-04-27",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 70/21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/2022"
+}
+},
+{
+"d": "2022-04-27",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0602 70/23",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/2022"
+}
+},
+{
+"d": "2022-04-27",
+"c": {
+"inw": "wykonanie wewnętrznej instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0203 16/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "40/2022"
+}
+},
+{
+"d": "2022-04-27",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0501 221/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/2022"
+}
+},
+{
+"d": "2022-04-27",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0601 2/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/2022"
+}
+},
+{
+"d": "2022-04-27",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0601 62/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/2022"
+}
+},
+{
+"d": "2022-04-27",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0601 62/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/2022"
+}
+},
+{
+"d": "2022-04-27",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0601 63/15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/2022"
+}
+},
+{
+"d": "2022-04-27",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0601 63/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/2022"
+}
+},
+{
+"d": "2022-04-27",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0601 63/18",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/2022"
+}
+},
+{
+"d": "2022-04-27",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0601 63/20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/2022"
+}
+},
+{
+"d": "2022-04-27",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0601 63/22",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/2022"
+}
+},
+{
+"d": "2022-04-27",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0601 63/25",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/2022"
+}
+},
+{
+"d": "2022-04-27",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0601 63/26",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/2022"
+}
+},
+{
+"d": "2022-04-27",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0601 63/28",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/2022"
+}
+},
+{
+"d": "2022-04-27",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0601 63/29",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/2022"
+}
+},
+{
+"d": "2022-04-27",
+"c": {
+"inw": "budowa magistrali wodociągowej DN 300 w ulicach Warszawskiej i A.Mickiewicza budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0601 63/33",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/2022"
+}
+},
+{
+"d": "2022-04-27",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolno stojącegoz garażem w bryle budynku budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0503 280/6",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "42/2022"
+}
+},
+{
+"d": "2022-04-22",
+"c": {
+"inw": "budowa czterech budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0202 47/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "39/2022"
+}
+},
+{
+"d": "2022-04-20",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego w zabudowie szeregowej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0712 182",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "38/2022"
+}
+},
+{
+"d": "2022-04-15",
+"c": {
+"inw": "budowa instalacji gazowej w istniejącym budynku warsztatowo-socjalnym i istniejącym budynku wystawowo-handlowo-biurowym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0202 78/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "37/2022"
+}
+},
+{
+"d": "2022-04-15",
+"c": {
+"inw": "budowa instalacji gazowej w istniejącym budynku warsztatowo-socjalnym i istniejącym budynku wystawowo-handlowo-biurowym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0202 80/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "37/2022"
+}
+},
+{
+"d": "2022-04-14",
+"c": {
+"inw": "budowa sieci wodociągowej DN 100 mm L=526m w ul. Rembertowskiej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0501 220/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "36/2022"
+}
+},
+{
+"d": "2022-04-14",
+"c": {
+"inw": "budowa sieci wodociągowej DN 100 mm L=526m w ul. Rembertowskiej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0501 85/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "36/2022"
+}
+},
+{
+"d": "2022-04-14",
+"c": {
+"inw": "budowa sieci wodociągowej DN 100 mm L=526m w ul. Rembertowskiej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0501 85/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "36/2022"
+}
+},
+{
+"d": "2022-04-14",
+"c": {
+"inw": "budowa sieci wodociągowej DN 100 mm L=526m w ul. Rembertowskiej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0501 85/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "36/2022"
+}
+},
+{
+"d": "2022-04-14",
+"c": {
+"inw": "budowa sieci wodociągowej DN 100 mm L=526m w ul. Rembertowskiej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0501 85/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "36/2022"
+}
+},
+{
+"d": "2022-04-14",
+"c": {
+"inw": "budowa sieci wodociągowej DN 100 mm L=526m w ul. Rembertowskiej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0501 85/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "36/2022"
+}
+},
+{
+"d": "2022-04-14",
+"c": {
+"inw": "budowa sieci wodociągowej DN 100 mm L=526m w ul. Rembertowskiej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0501 102/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "36/2022"
+}
+},
+{
+"d": "2022-04-14",
+"c": {
+"inw": "budowa sieci wodociągowej DN 100 mm L=526m w ul. Rembertowskiej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0501 102/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "36/2022"
+}
+},
+{
+"d": "2022-04-14",
+"c": {
+"inw": "budowa sieci wodociągowej DN 100 mm L=526m w ul. Rembertowskiej budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "",
+"dz": "146515_8 0501 111/29",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "36/2022"
+}
+},
+{
+"d": "2022-04-14",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "GREENWOOD II Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0715 676",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "6/2022"
+}
+},
+{
+"d": "2022-04-14",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "GREENWOOD II Sp. z o.o.",
+"nier": "",
+"dz": "146515_8 0715 708",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "5/2022"
+}
+},
+{
+"d": "2022-04-14",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0708 45",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "34/2022"
+}
+},
+{
+"d": "2022-04-14",
+"c": {
+"inw": "nadbudowa i przebudowa części budynku mieszkalnego jednorodzinnego wolno stojącego nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0601 81/18",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "35/2022"
+}
+},
+{
+"d": "2022-04-06",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0203 58/9",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "33/2022"
+}
+},
+{
+"d": "2022-04-05",
+"c": {
+"inw": "rozbiórka budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0404 51/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "4/2022"
+}
+},
+{
+"d": "2022-03-30",
+"c": {
+"inw": "wykonanie instalacji gazowej dla budynku miewszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0504 27",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "31/2022"
+}
+},
+{
+"d": "2022-03-29",
+"c": {
+"inw": "budowa czterech budynków mieszkalnych jednorodzinnych w zabudowie szeregowej (1 zespół) budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0709 123/3",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "30/2022"
+}
+},
+{
+"d": "2022-03-29",
+"c": {
+"inw": "budowa czterech budynków mieszkalnych jednorodzinnych w zabudowie szeregowej (1 zespół) budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0709 123/5",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "30/2022"
+}
+},
+{
+"d": "2022-03-23",
+"c": {
+"inw": "budowa budynku garażu budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0501 227/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "29/2022"
+}
+},
+{
+"d": "2022-03-18",
+"c": {
+"inw": "zmiana pozwolenia - budowa budynku mieszkalnego jednorodzinnego wolno stojącego oraz dwóch zbiorników na wody opadowe budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0717 173",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "27/2022"
+}
+},
+{
+"d": "2022-03-14",
+"c": {
+"inw": "rozbiórka budynku - inny budynek niemieszkalny rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0601 14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "3/2022"
+}
+},
+{
+"d": "2022-03-08",
+"c": {
+"inw": "wykonanie instalacji gazu dla dwóch budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0712 193/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "24/2022"
+}
+},
+{
+"d": "2022-03-08",
+"c": {
+"inw": "wykonanie instalacji gazu dla dwóch budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0712 193/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "24/2022"
+}
+},
+{
+"d": "2022-03-02",
+"c": {
+"inw": "rozbiórka budynku garażowego oraz budowa budynku mieszkalnego jednorodzinnego wolno stojącego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0203 16/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "22/2022"
+}
+},
+{
+"d": "2022-02-25",
+"c": {
+"inw": "budowa instalacji gazowej do lokalu mieszkalnego w budynku warsztatu stolarskiego z lokalem mieszkalnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0501 5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "20/2022"
+}
+},
+{
+"d": "2022-02-24",
+"c": {
+"inw": "budowa dwóch instalacji gazowych dla dwóch budynków mieszkalnych jednorodzinnych dwulokalowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0304 52/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "19/2022"
+}
+},
+{
+"d": "2022-02-24",
+"c": {
+"inw": "rozbudowa i przebudowa budynku mieszkalnego jednorodzinnego w zab. bliźniaczej \"Willa Anusin\" rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0407 10/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "18/2022"
+}
+},
+{
+"d": "2022-02-21",
+"c": {
+"inw": "rozbiórka budynku garażowego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0203 16/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "2/2022"
+}
+},
+{
+"d": "2022-02-11",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego w zabudowie szeregowej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0715 506",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "12/2022"
+}
+},
+{
+"d": "2022-02-11",
+"c": {
+"inw": "zmiana sposobu użytkowania i rozbudowa budynku usługowego na budynek mieszkalny jednorodzinny wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0503 250",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "14/2022"
+}
+},
+{
+"d": "2022-02-11",
+"c": {
+"inw": "budowa dwóch budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej wraz z dwoma szambami i ujęciami wody budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0706 32/28",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "15/2022"
+}
+},
+{
+"d": "2022-02-08",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego wolno stojącego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0611 4/4",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "11/2022"
+}
+},
+{
+"d": "2022-02-01",
+"c": {
+"inw": "rozbudowa i przebudowa budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0404 41",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "9/2022"
+}
+},
+{
+"d": "2022-01-28",
+"c": {
+"inw": "rozbiórka dwóch budynków gospodarczych rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0304 31",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "1/2022"
+}
+},
+{
+"d": "2022-01-27",
+"c": {
+"inw": "budowa instalacji gazowej dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0705 28/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "7/2022"
+}
+},
+{
+"d": "2022-01-21",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego dwulokalowego, dwóch zbiorników na ścieki sanitarne oraz studni wierconej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0706 48/4",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "6/2022"
+}
+},
+{
+"d": "2022-01-18",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0705 28/7",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "5/2022"
+}
+},
+{
+"d": "2022-01-14",
+"c": {
+"inw": "wykonanie instalacji gazu dla budynku mieszkalnego jednorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0304 43/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "2/2022"
+}
+},
+{
+"d": "2022-01-14",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146515_8 0501 80/6",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "1/2022"
+}
+}
+]
+}
+]
+}

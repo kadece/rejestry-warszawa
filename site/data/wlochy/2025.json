@@ -1,0 +1,1104 @@
+{
+"district": "wlochy",
+"year": 2025,
+"generated": "2026-11-24T21:24:53+01:00",
+"total": 92,
+"registers": [
+{
+"id": "wn_pnb",
+"name": "Wnioski o pozwolenie na budowę",
+"short": "Wnioski PnB",
+"desc": "Wnioski o pozwolenie na budowę złożone do organu architektoniczno-budowlanego dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer wniosku",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2025-10-07",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Łopuszańska 235 Sp. z o.o.",
+"nier": "Łopuszańska 36",
+"dz": "146517_8 0501 39",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/10299/25"
+}
+},
+{
+"d": "2025-08-25",
+"c": {
+"inw": "rozbiórka dwóch budynków mieszkalnych jednorodzinnych oraz budynku garażowego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Cietrzewia 28A",
+"dz": "146517_8 0825 26/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "E/426018/25"
+}
+},
+{
+"d": "2025-08-25",
+"c": {
+"inw": "rozbiórka dwóch budynków mieszkalnych jednorodzinnych oraz budynku garażowego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Cietrzewia 28A",
+"dz": "146517_8 0825 26/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "E/426018/25"
+}
+},
+{
+"d": "2025-08-21",
+"c": {
+"inw": "Budowa sieci ciepłowniczej oraz przyłączy ciepłowniczych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Skanska Residential Development Poland Sp. z o.o.",
+"nier": "Sierpnia / 1",
+"dz": "146517_8 0401 35/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/8384/25"
+}
+},
+{
+"d": "2025-08-21",
+"c": {
+"inw": "Budowa sieci ciepłowniczej oraz przyłączy ciepłowniczych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Skanska Residential Development Poland Sp. z o.o.",
+"nier": "Sierpnia / 1",
+"dz": "146517_8 0401 37/19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/8384/25"
+}
+},
+{
+"d": "2025-08-21",
+"c": {
+"inw": "Budowa sieci ciepłowniczej oraz przyłączy ciepłowniczych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Skanska Residential Development Poland Sp. z o.o.",
+"nier": "Sierpnia / 1",
+"dz": "146517_8 0401 37/20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/8384/25"
+}
+},
+{
+"d": "2025-08-21",
+"c": {
+"inw": "Budowa sieci ciepłowniczej oraz przyłączy ciepłowniczych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Skanska Residential Development Poland Sp. z o.o.",
+"nier": "Sierpnia / 1",
+"dz": "146517_8 0404 1/15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/8384/25"
+}
+},
+{
+"d": "2025-08-21",
+"c": {
+"inw": "Budowa sieci ciepłowniczej oraz przyłączy ciepłowniczych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Skanska Residential Development Poland Sp. z o.o.",
+"nier": "Sierpnia / 1",
+"dz": "146517_8 0404 1/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/8384/25"
+}
+},
+{
+"d": "2025-08-21",
+"c": {
+"inw": "Budowa sieci ciepłowniczej oraz przyłączy ciepłowniczych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Skanska Residential Development Poland Sp. z o.o.",
+"nier": "Sierpnia / 1",
+"dz": "146517_8 0404 1/17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/8384/25"
+}
+},
+{
+"d": "2025-08-21",
+"c": {
+"inw": "Budowa sieci ciepłowniczej oraz przyłączy ciepłowniczych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Skanska Residential Development Poland Sp. z o.o.",
+"nier": "Sierpnia / 1",
+"dz": "146517_8 0404 74/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/8384/25"
+}
+},
+{
+"d": "2025-08-21",
+"c": {
+"inw": "Budowa sieci ciepłowniczej oraz przyłączy ciepłowniczych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Skanska Residential Development Poland Sp. z o.o.",
+"nier": "Sierpnia / 1",
+"dz": "146517_8 0404 74/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/8384/25"
+}
+},
+{
+"d": "2025-08-20",
+"c": {
+"inw": "Budowa budynku mieszkalnego jednorodzinnego z garażem w bryle budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Koziorożca 5",
+"dz": "146517_8 0807 16/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "KOB/8316/25"
+}
+},
+{
+"d": "2025-07-04",
+"c": {
+"inw": "budynek jednorodzinny mieszkalny wolnostojący budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Tumska 18",
+"dz": "146517_8 0806 63",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "KOB/6865/25"
+}
+},
+{
+"d": "2025-06-09",
+"c": {
+"inw": "termomodernicacja budynku Domu Kultury Włochy wraz z jego przebudową wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Włochy",
+"nier": "Bolesława Chrobrego 27",
+"dz": "146517_8 0823 82",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/4985/20"
+}
+},
+{
+"d": "2025-05-21",
+"c": {
+"inw": "budowa wewnętrznej i zewnętrznej instalacji gazowej dla potrzeb budynku usługowo-produkcyjnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Działkowa",
+"dz": "146517_8 0713 103/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KO/4293/25"
+}
+},
+{
+"d": "2025-05-21",
+"c": {
+"inw": "przbudowa przegród zewnętrznych istniejącego budynku magazynowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Modularna 6",
+"dz": "146517_8 0705 82/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/5234/25"
+}
+},
+{
+"d": "2025-05-21",
+"c": {
+"inw": "budowa wewnętrznej i zewnętrznej instalacji gazowej dla potrzeb budynku usługowo-produkcyjnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Działkowa",
+"dz": "145617_8 0713 107",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KO/4293/25"
+}
+},
+{
+"d": "2025-05-19",
+"c": {
+"inw": "budowa wewnętrznej instalacji gazowej wraz z odcinkiem ziemnym dla budynku biurowego budowa nowego/nowych obiektów budowlanych",
+"wn": "Przedsiębiorstwo Produkcyjno-Handlowe POLAMP-WARSZAWA sp. z o.o",
+"nier": "",
+"dz": "146517_8 0720 88",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/5155/25"
+}
+},
+{
+"d": "2025-05-15",
+"c": {
+"inw": "docieplenie i remont budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "ZGN w Dzielnicy Włochym. st. Warszawa",
+"nier": "Plastyczna 31",
+"dz": "146517_8 0809 79",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/4985/25"
+}
+},
+{
+"d": "2025-05-05",
+"c": {
+"inw": "budowa budynku jednorodzinnego mieszkalnego wolnostojącego z garazem w bryle budynku budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Krańcowa",
+"dz": "146517_8 0825 149",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "KO/3769/25"
+}
+},
+{
+"d": "2025-04-24",
+"c": {
+"inw": "przebudowa istniejącego oddziału przedszkolnego w Szkole Podstawowej nr 87 rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Włochy",
+"nier": "Malownicza 31",
+"dz": "146517_2 0712 5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/4241/25"
+}
+},
+{
+"d": "2025-04-18",
+"c": {
+"inw": "budowa urządzenia do magazynowania i wydawaniw płynu ADBLUE, przedłużenie wysepki dystrybucyjnej wraz z wewnętrzną instalacją elektryczną na istniejącej stacji paliw budowa nowego/nowych obiektów budowlanych",
+"wn": "Shell Polska sp. z o.o.",
+"nier": "Aleja Krakowska 15",
+"dz": "146517_8 0719 58/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KO/3499/25"
+}
+},
+{
+"d": "2025-04-07",
+"c": {
+"inw": "budowa instalacji gazowej n/c dla budynku handlowo-usługowego wraz z rozbudową odcinka ziemnego instalacji budowa nowego/nowych obiektów budowlanych",
+"wn": "Roman Czebiołko prowadzący działalność gospodarczą pod nazwą Anron Roman Czebiołko",
+"nier": "Szyszkowa 7",
+"dz": "146517_8 0717 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/3542/25"
+}
+},
+{
+"d": "2025-03-31",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego i budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Mod Solipska Sp. z o.o.",
+"nier": "Solipska 5",
+"dz": "146517_8 0829 110",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XVI-WAB-AAB.6741.8.2025.KDU"
+}
+},
+{
+"d": "2025-03-28",
+"c": {
+"inw": "rozbiórka nudynku mieszkalnego jednorodzinnego i budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "MOD.SOLIPSKA sp. z o.o.",
+"nier": "Solipska",
+"dz": "146517_8 0829 110",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "KOB/3218/25"
+}
+},
+{
+"d": "2025-03-12",
+"c": {
+"inw": "budowa i przebudowa sieci kanaliacji deszczowej oraz budowa podziemnego zbiornika retencyjnego wraz z przebudową sieci kolidujących budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWIK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146517_8 0404 2/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/2661/25"
+}
+},
+{
+"d": "2025-03-12",
+"c": {
+"inw": "budowa i przebudowa sieci kanaliacji deszczowej oraz budowa podziemnego zbiornika retencyjnego wraz z przebudową sieci kolidujących budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWIK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146517_8 0404 6/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/2661/25"
+}
+},
+{
+"d": "2025-03-12",
+"c": {
+"inw": "budowa i przebudowa sieci kanaliacji deszczowej oraz budowa podziemnego zbiornika retencyjnego wraz z przebudową sieci kolidujących budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWIK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146517_8 0404 7/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/2661/25"
+}
+},
+{
+"d": "2025-03-12",
+"c": {
+"inw": "budowa i przebudowa sieci kanaliacji deszczowej oraz budowa podziemnego zbiornika retencyjnego wraz z przebudową sieci kolidujących budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWIK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146517_8 0404 7/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/2661/25"
+}
+},
+{
+"d": "2025-03-12",
+"c": {
+"inw": "budowa i przebudowa sieci kanaliacji deszczowej oraz budowa podziemnego zbiornika retencyjnego wraz z przebudową sieci kolidujących budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWIK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146517_8 0404 7/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/2661/25"
+}
+},
+{
+"d": "2025-03-12",
+"c": {
+"inw": "budowa i przebudowa sieci kanaliacji deszczowej oraz budowa podziemnego zbiornika retencyjnego wraz z przebudową sieci kolidujących budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWIK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146517_8 0404 7/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/2661/25"
+}
+},
+{
+"d": "2025-03-12",
+"c": {
+"inw": "budowa i przebudowa sieci kanaliacji deszczowej oraz budowa podziemnego zbiornika retencyjnego wraz z przebudową sieci kolidujących budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWIK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146517_8 0404 7/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/2661/25"
+}
+},
+{
+"d": "2025-03-12",
+"c": {
+"inw": "budowa i przebudowa sieci kanaliacji deszczowej oraz budowa podziemnego zbiornika retencyjnego wraz z przebudową sieci kolidujących budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWIK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146517_8 0404 7/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/2661/25"
+}
+},
+{
+"d": "2025-03-12",
+"c": {
+"inw": "budowa i przebudowa sieci kanaliacji deszczowej oraz budowa podziemnego zbiornika retencyjnego wraz z przebudową sieci kolidujących budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWIK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146517_8 0404 8/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/2661/25"
+}
+},
+{
+"d": "2025-03-12",
+"c": {
+"inw": "budowa i przebudowa sieci kanaliacji deszczowej oraz budowa podziemnego zbiornika retencyjnego wraz z przebudową sieci kolidujących budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWIK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146517_8 0404 9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/2661/25"
+}
+},
+{
+"d": "2025-03-12",
+"c": {
+"inw": "budowa i przebudowa sieci kanaliacji deszczowej oraz budowa podziemnego zbiornika retencyjnego wraz z przebudową sieci kolidujących budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWIK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146517_8 0404 14/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/2661/25"
+}
+},
+{
+"d": "2025-02-20",
+"c": {
+"inw": "budowa budynku mieszkalnego małogabarytowego wielorodzinnego z garażem podziemnym wraz z instalacja podziemną budowa nowego/nowych obiektów budowlanych",
+"wn": "Wit Gawlip prowadzący działalność gospodarczą pod nazwą Witpol Wit Gawlik",
+"nier": "Kleszczowa 39",
+"dz": "146517_8 0825 176/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "KOB/1911/25"
+}
+},
+{
+"d": "2025-01-31",
+"c": {
+"inw": "Roboty budowlane polegające na przebudowie urządzenia technicznego w formie konstrukcji stalowej wraz ze słupami wsporczymi, ruchomą platformą z podstawą obrotową w istniejącej hali testów budynku T, wolnostojącą otwartą windą osobową do obsługi urządzenia technicznego, wraz z przebudową ścian fundamentowych pod mocowanie konstrukcji stalowe wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Sieć Badawcza Łukasiewicz – Instytut Lotnictwa",
+"nier": "Aleja Krakowska 110/114",
+"dz": "146517_8 0604 2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "EDOR/2416/25"
+}
+}
+]
+},
+{
+"id": "dec_pnb",
+"name": "Decyzje o pozwoleniu na budowę",
+"short": "Decyzje PnB",
+"desc": "Decyzje o pozwoleniu na budowę wydane przez organ architektoniczno-budowlany dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer decyzji",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2025-12-31",
+"c": {
+"inw": "rozbiórka dwóch budynków mieszkalnych jednorodzinnych oraz budynku garażowego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Cietrzewia 28A",
+"dz": "146517_8 0825 26/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XVI-WAB-AAB.6741.17.2025.KDU"
+}
+},
+{
+"d": "2025-12-31",
+"c": {
+"inw": "rozbiórka dwóch budynków mieszkalnych jednorodzinnych oraz budynku garażowego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Cietrzewia 28A",
+"dz": "146517_8 0825 26/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XVI-WAB-AAB.6741.17.2025.KDU"
+}
+},
+{
+"d": "2025-12-17",
+"c": {
+"inw": "Budowa budynku mieszkalnego jednorodzinnego z garażem w bryle budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Koziorożca 5",
+"dz": "146517_8 0807 16/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-XVI-WAB-AAB.6740.99.2025.KDU"
+}
+},
+{
+"d": "2025-12-05",
+"c": {
+"inw": "Budowa sieci ciepłowniczej oraz przyłączy ciepłowniczych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Skanska Residential Development Poland Sp. z o.o.",
+"nier": "Sierpnia / 1",
+"dz": "146517_8 0401 35/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVI-WAB-AAB.6740.105.2025.KDU"
+}
+},
+{
+"d": "2025-12-05",
+"c": {
+"inw": "Budowa sieci ciepłowniczej oraz przyłączy ciepłowniczych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Skanska Residential Development Poland Sp. z o.o.",
+"nier": "Sierpnia / 1",
+"dz": "146517_8 0401 37/19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVI-WAB-AAB.6740.105.2025.KDU"
+}
+},
+{
+"d": "2025-12-05",
+"c": {
+"inw": "Budowa sieci ciepłowniczej oraz przyłączy ciepłowniczych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Skanska Residential Development Poland Sp. z o.o.",
+"nier": "Sierpnia / 1",
+"dz": "146517_8 0401 37/20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVI-WAB-AAB.6740.105.2025.KDU"
+}
+},
+{
+"d": "2025-12-05",
+"c": {
+"inw": "Budowa sieci ciepłowniczej oraz przyłączy ciepłowniczych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Skanska Residential Development Poland Sp. z o.o.",
+"nier": "Sierpnia / 1",
+"dz": "146517_8 0404 1/15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVI-WAB-AAB.6740.105.2025.KDU"
+}
+},
+{
+"d": "2025-12-05",
+"c": {
+"inw": "Budowa sieci ciepłowniczej oraz przyłączy ciepłowniczych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Skanska Residential Development Poland Sp. z o.o.",
+"nier": "Sierpnia / 1",
+"dz": "146517_8 0404 1/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVI-WAB-AAB.6740.105.2025.KDU"
+}
+},
+{
+"d": "2025-12-05",
+"c": {
+"inw": "Budowa sieci ciepłowniczej oraz przyłączy ciepłowniczych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Skanska Residential Development Poland Sp. z o.o.",
+"nier": "Sierpnia / 1",
+"dz": "146517_8 0404 1/17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVI-WAB-AAB.6740.105.2025.KDU"
+}
+},
+{
+"d": "2025-12-05",
+"c": {
+"inw": "Budowa sieci ciepłowniczej oraz przyłączy ciepłowniczych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Skanska Residential Development Poland Sp. z o.o.",
+"nier": "Sierpnia / 1",
+"dz": "146517_8 0404 74/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVI-WAB-AAB.6740.105.2025.KDU"
+}
+},
+{
+"d": "2025-12-05",
+"c": {
+"inw": "Budowa sieci ciepłowniczej oraz przyłączy ciepłowniczych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Skanska Residential Development Poland Sp. z o.o.",
+"nier": "Sierpnia / 1",
+"dz": "146517_8 0404 74/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-XVI-WAB-AAB.6740.105.2025.KDU"
+}
+},
+{
+"d": "2025-09-22",
+"c": {
+"inw": "budynek jednorodzinny mieszkalny wolnostojący budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Tumska 18",
+"dz": "146517_8 0806 63",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "102/WLO/PB/2025"
+}
+},
+{
+"d": "2025-09-20",
+"c": {
+"inw": "budowa budynkuusługowo-magazynowego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Jutrzenki",
+"dz": "146517_8 0721 17/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "101/WLO/PB/2025"
+}
+},
+{
+"d": "2025-09-04",
+"c": {
+"inw": "budowa budynku jednorodzinnego mieszkalnego wolnostojącego z garazem w bryle budynku budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Krańcowa",
+"dz": "146517_8 0825 149",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "97/WLO/PB/2025"
+}
+},
+{
+"d": "2025-09-02",
+"c": {
+"inw": "budowa budynku mieszkalnego małogabarytowego wielorodzinnego z garażem podziemnym wraz z instalacja podziemną budowa nowego/nowych obiektów budowlanych",
+"wn": "Wit Gawlip prowadzący działalność gospodarczą pod nazwą Witpol Wit Gawlik",
+"nier": "Kleszczowa 39",
+"dz": "146517_8 0825 176/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "96/WLO/PB/2025"
+}
+},
+{
+"d": "2025-08-08",
+"c": {
+"inw": "budowa wewnętrznej i zewnętrznej instalacji gazowej dla potrzeb budynku usługowo-produkcyjnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Działkowa",
+"dz": "146517_8 0713 103/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "89/WLO/PB/2025"
+}
+},
+{
+"d": "2025-08-08",
+"c": {
+"inw": "budowa wewnętrznej i zewnętrznej instalacji gazowej dla potrzeb budynku usługowo-produkcyjnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Działkowa",
+"dz": "145617_8 0713 107",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "89/WLO/PB/2025"
+}
+},
+{
+"d": "2025-08-06",
+"c": {
+"inw": "budowa wewnętrznej instalacji gazowej wraz z odcinkiem ziemnym dla budynku biurowego budowa nowego/nowych obiektów budowlanych",
+"wn": "Przedsiębiorstwo Produkcyjno-Handlowe POLAMP-WARSZAWA sp. z o.o",
+"nier": "",
+"dz": "146517_8 0720 88",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "86/WLO/PB/2025"
+}
+},
+{
+"d": "2025-07-31",
+"c": {
+"inw": "przbudowa przegród zewnętrznych istniejącego budynku magazynowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Modularna 6",
+"dz": "146517_8 0705 82/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "84/WLO/PB/2025"
+}
+},
+{
+"d": "2025-07-31",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z usługami w parterze i garaże podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Przerwana",
+"dz": "146517_8 0831 42",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "83/WLO/PB/2025"
+}
+},
+{
+"d": "2025-07-31",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z usługami w parterze i garaże podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Przerwana",
+"dz": "146517_8 0831 43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "83/WLO/PB/2025"
+}
+},
+{
+"d": "2025-07-24",
+"c": {
+"inw": "termomodernizację budynku Domu Kultury \"Włochy\" wraz z jego przebudową wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa - Dzielnica Włochy",
+"nier": "Bolesława Chrobrego 27",
+"dz": "146517_8 0823 82",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "81/WLO/PB/2025"
+}
+},
+{
+"d": "2025-07-24",
+"c": {
+"inw": "termomodernicacja budynku Domu Kultury Włochy wraz z jego przebudową wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Włochy",
+"nier": "Bolesława Chrobrego 27",
+"dz": "146517_8 0823 82",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "81/WLO/PB/2025"
+}
+},
+{
+"d": "2025-07-17",
+"c": {
+"inw": "budowa urządzenia do magazynowania i wydawaniw płynu ADBLUE, przedłużenie wysepki dystrybucyjnej wraz z wewnętrzną instalacją elektryczną na istniejącej stacji paliw budowa nowego/nowych obiektów budowlanych",
+"wn": "Shell Polska sp. z o.o.",
+"nier": "Aleja Krakowska 15",
+"dz": "146517_8 0719 58/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "78/WLO/PB/2025"
+}
+},
+{
+"d": "2025-07-09",
+"c": {
+"inw": "przebudowa istniejącego oddziału przedszkolnego w Szkole Podstawowej nr 87 rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Włochy",
+"nier": "Malownicza 31",
+"dz": "146517_2 0712 5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "76/WLO/PB/2025"
+}
+},
+{
+"d": "2025-07-09",
+"c": {
+"inw": "docieplenie i remont budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "ZGN w Dzielnicy Włochym. st. Warszawa",
+"nier": "Plastyczna 31",
+"dz": "146517_8 0809 79",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "75/WLO/PB/2025"
+}
+},
+{
+"d": "2025-07-02",
+"c": {
+"inw": "rozbiórka nudynku mieszkalnego jednorodzinnego i budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "MOD.SOLIPSKA sp. z o.o.",
+"nier": "Solipska",
+"dz": "146517_8 0829 110",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "73/WLO/PB/2025/R"
+}
+},
+{
+"d": "2025-07-02",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego i budynku gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Mod Solipska Sp. z o.o.",
+"nier": "Solipska 5",
+"dz": "146517_8 0829 110",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "73/WLO/PB/2025/R"
+}
+},
+{
+"d": "2025-06-27",
+"c": {
+"inw": "rozbudowa z nadbudową wraz ze zmianą geometrii dachu mieszkalnego budynku jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146517_8 0806 26",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "72/WLO/PB/2025"
+}
+},
+{
+"d": "2025-06-27",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garazem podziemnym, miejscami postojowymi,elementami zagospodarowania i infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Dom Development S.A.",
+"nier": "Równoległa",
+"dz": "146517_8 0501 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "69/WLO/PB/2025"
+}
+},
+{
+"d": "2025-06-18",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Łopuszańska 235 sp. z o.o.",
+"nier": "Łopuszańska",
+"dz": "176517_8 0501 39",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "68/WLO/PB/2025"
+}
+},
+{
+"d": "2025-06-18",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Łopuszańska 235 sp. z o.o.",
+"nier": "Łopuszańska",
+"dz": "146517_8 0501 38",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "68/WLO/PB/2025"
+}
+},
+{
+"d": "2025-06-18",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnym oraz niezbędną infrastruktura budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Jutrzenki",
+"dz": "146517_8 0702 20/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "67/WLO/PB/2025"
+}
+},
+{
+"d": "2025-06-10",
+"c": {
+"inw": "zmiana dec. 191/AB/2023 z dn. 20.10.2023 r. dot budowy budynkumieszkalnego wielorodzinnego z lokalami usługowymi i garazempodziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Łopuszańska 235 sp. z o.o.",
+"nier": "",
+"dz": "146517_8 0501 39",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "63/WLO/PB/2025/Z"
+}
+},
+{
+"d": "2025-06-10",
+"c": {
+"inw": "budowa budynku mieszkalnego jednorodzinnego z bezodpływowym szczelnym zbiornikiem na nieczystości ciekłe wraz z urządzeniami budowlanymi budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "",
+"dz": "146517_8 0615 65/20",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "64/WLO/PB/2025"
+}
+},
+{
+"d": "2025-06-06",
+"c": {
+"inw": "przebudowa i nadbudowa budynku mieszkalnego jednorodzinnego rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Głubczycka",
+"dz": "146517_8 0805 97",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "59/WLO/PB/2025"
+}
+},
+{
+"d": "2025-06-06",
+"c": {
+"inw": "budowa instalacji gazowej n/c dla budynku handlowo-usługowego wraz z rozbudową odcinka ziemnego instalacji budowa nowego/nowych obiektów budowlanych",
+"wn": "Roman Czebiołko prowadzący działalność gospodarczą pod nazwą Anron Roman Czebiołko",
+"nier": "Szyszkowa 7",
+"dz": "146517_8 0717 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "60/WLO/PB/2025"
+}
+},
+{
+"d": "2025-05-29",
+"c": {
+"inw": "budowa pylonu reklamowego budowa nowego/nowych obiektów budowlanych",
+"wn": "Plaza Motors Poland sp. z o.o.",
+"nier": "",
+"dz": "176517_8 0826 55",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "56/WLO/PB/2025"
+}
+},
+{
+"d": "2025-05-29",
+"c": {
+"inw": "budowa pylonu reklamowego budowa nowego/nowych obiektów budowlanych",
+"wn": "Plaza Motors Poland sp. z o.o.",
+"nier": "",
+"dz": "176517_8 0826 54",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "56/WLO/PB/2025"
+}
+},
+{
+"d": "2025-05-22",
+"c": {
+"inw": "budowa i przebudowa sieci kanaliacji deszczowej oraz budowa podziemnego zbiornika retencyjnego wraz z przebudową sieci kolidujących budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWIK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146517_8 0404 2/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "53/WLO/PB/2025"
+}
+},
+{
+"d": "2025-05-22",
+"c": {
+"inw": "budowa i przebudowa sieci kanaliacji deszczowej oraz budowa podziemnego zbiornika retencyjnego wraz z przebudową sieci kolidujących budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWIK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146517_8 0404 6/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "53/WLO/PB/2025"
+}
+},
+{
+"d": "2025-05-22",
+"c": {
+"inw": "budowa i przebudowa sieci kanaliacji deszczowej oraz budowa podziemnego zbiornika retencyjnego wraz z przebudową sieci kolidujących budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWIK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146517_8 0404 7/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "53/WLO/PB/2025"
+}
+},
+{
+"d": "2025-05-22",
+"c": {
+"inw": "budowa i przebudowa sieci kanaliacji deszczowej oraz budowa podziemnego zbiornika retencyjnego wraz z przebudową sieci kolidujących budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWIK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146517_8 0404 7/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "53/WLO/PB/2025"
+}
+},
+{
+"d": "2025-05-22",
+"c": {
+"inw": "budowa i przebudowa sieci kanaliacji deszczowej oraz budowa podziemnego zbiornika retencyjnego wraz z przebudową sieci kolidujących budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWIK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146517_8 0404 7/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "53/WLO/PB/2025"
+}
+},
+{
+"d": "2025-05-22",
+"c": {
+"inw": "budowa i przebudowa sieci kanaliacji deszczowej oraz budowa podziemnego zbiornika retencyjnego wraz z przebudową sieci kolidujących budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWIK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146517_8 0404 7/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "53/WLO/PB/2025"
+}
+},
+{
+"d": "2025-05-22",
+"c": {
+"inw": "budowa i przebudowa sieci kanaliacji deszczowej oraz budowa podziemnego zbiornika retencyjnego wraz z przebudową sieci kolidujących budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWIK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146517_8 0404 7/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "53/WLO/PB/2025"
+}
+},
+{
+"d": "2025-05-22",
+"c": {
+"inw": "budowa i przebudowa sieci kanaliacji deszczowej oraz budowa podziemnego zbiornika retencyjnego wraz z przebudową sieci kolidujących budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWIK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146517_8 0404 7/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "53/WLO/PB/2025"
+}
+},
+{
+"d": "2025-05-22",
+"c": {
+"inw": "budowa i przebudowa sieci kanaliacji deszczowej oraz budowa podziemnego zbiornika retencyjnego wraz z przebudową sieci kolidujących budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWIK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146517_8 0404 8/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "53/WLO/PB/2025"
+}
+},
+{
+"d": "2025-05-22",
+"c": {
+"inw": "budowa i przebudowa sieci kanaliacji deszczowej oraz budowa podziemnego zbiornika retencyjnego wraz z przebudową sieci kolidujących budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWIK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146517_8 0404 9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "53/WLO/PB/2025"
+}
+},
+{
+"d": "2025-05-22",
+"c": {
+"inw": "budowa i przebudowa sieci kanaliacji deszczowej oraz budowa podziemnego zbiornika retencyjnego wraz z przebudową sieci kolidujących budowa nowego/nowych obiektów budowlanych",
+"wn": "MPWIK w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146517_8 0404 14/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "53/WLO/PB/2025"
+}
+},
+{
+"d": "2025-05-12",
+"c": {
+"inw": "Roboty budowlane polegające na przebudowie urządzenia technicznego w formie konstrukcji stalowej wraz ze słupami wsporczymi, ruchomą platformą z podstawą obrotową w istniejącej hali testów budynku T, wolnostojącą otwartą windą osobową do obsługi urządzenia technicznego, wraz z przebudową ścian fundamentowych pod mocowanie konstrukcji stalowe wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Sieć Badawcza Łukasiewicz – Instytut Lotnictwa",
+"nier": "Aleja Krakowska 110/114",
+"dz": "146517_8 0604 2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "46/WLO/PB/2025"
+}
+},
+{
+"d": "2025-04-28",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego z garażem podziemnnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Łopuszańska 235 sp. z o.o.",
+"nier": "",
+"dz": "146517_8 0501 39",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "45/WLO/PB/2025"
+}
+},
+{
+"d": "2025-03-19",
+"c": {
+"inw": "budowa budynku mieszkalnego dwukubaturowego ze wspólnym garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Develia S.A.",
+"nier": "Trzcinowa",
+"dz": "146517_8 0802 50/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "31/WLO/PB/2025"
+}
+},
+{
+"d": "2025-02-04",
+"c": {
+"inw": "budowa budynku mieszklanego jednorodzinnego dwulokalowego w zabudowie wolnostojącej budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Kolneńska 16",
+"dz": "146517_8 0503 43/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "08/WLO/PB/2025"
+}
+}
+]
+}
+]
+}

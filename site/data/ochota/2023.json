@@ -1,0 +1,2215 @@
+{
+"district": "ochota",
+"year": 2023,
+"generated": "2026-11-24T21:22:48+01:00",
+"total": 193,
+"registers": [
+{
+"id": "wn_pnb",
+"name": "Wnioski o pozwolenie na budowę",
+"short": "Wnioski PnB",
+"desc": "Wnioski o pozwolenie na budowę złożone do organu architektoniczno-budowlanego dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer wniosku",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2023-12-20",
+"c": {
+"inw": "budowa zadaszenia targowiska \"Zieleniak\" zlokalizowanego na dziedzińcu budynku przy ul. Grójeckiej 97 w Warszawie budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa",
+"nier": "Grójecka 97",
+"dz": "146506_8 0309 60",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.111.2023.DMO"
+}
+},
+{
+"d": "2023-12-12",
+"c": {
+"inw": "remont części II piętra – pomieszczeń dydaktycznych oraz sanitariatów do potrzeb Zakładu Anatomii Człowieka – Collegium Anatomicum Warszawskiego Uniwersytetu Medycznego, zlokalizowanego w budynku przy ul. Tytusa Chałubińskiego 5 w Warszawie, na terenie działki ewidencyjnej nr 9 z obrębu 2-01-02, dla zadania inwestycyjnego pn. „Zadanie 2 – Adaptacja pomieszczeń dydaktycznych wraz z sanitariatami” wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawski Uniwersytet Medyczny",
+"nier": "Chałubińskiego 5 / Tytusa",
+"dz": "146506_8 0102 9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.109.2023.DMO"
+}
+},
+{
+"d": "2023-12-12",
+"c": {
+"inw": "remont części parteru – dydaktycznej sali prosektoryjnej wraz z pomieszczeniami dla potrzeb Centrum Biostruktury Warszawskiego Uniwersytetu Medycznego, zlokalizowanego w budynku przy ul. Tytusa Chałubińskiego 5 w Warszawie, na terenie działki ewidencyjnej nr 9 z obrębu 2-01-02, dla zadania inwestycyjnego pn. „Zadanie 1 – Adaptacja pomieszczeń Sali prosektoryjnej na salę dydaktyczną wraz z przebudową infrastruktury technicznej” wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawski Uniwersytet Medyczny",
+"nier": "Chałubińskiego 5 / Tytusa",
+"dz": "146506_8 0102 9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.110.2023.DMO"
+}
+},
+{
+"d": "2023-12-01",
+"c": {
+"inw": "przebudowa elementów konstrukcyjnych 1 piętra oraz zmiana sposobu użytkowania części budynku z funkcji biurowej na funkcję kulturową wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Ochota",
+"nier": "Hankiewicza 2 / Stefana Kazimierza",
+"dz": "146506_8 0309 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.108.2023.DMO"
+}
+},
+{
+"d": "2023-11-17",
+"c": {
+"inw": "remont fragmentu stropu piwnicznego w obrębie klatki schodowej nr 1 przynależnej do budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości nr 109 przy Alejach Jerozolimskich",
+"nier": "Aleje Jerozolimskie 109",
+"dz": "146506_8 0101 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.105.2023.MKA"
+}
+},
+{
+"d": "2023-11-10",
+"c": {
+"inw": "budowa dwutorowej kablowej sieci elektroenergetycznej WN 110 kV z dwutorową kablową siecią teletechniczną relacji GPZ Mory - RPZ Ochota - RPZ Południowa w rejonie ul. Opaczewskiej i Bohaterów Września budowa nowego/nowych obiektów budowlanych",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0303 2/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.106.2023.ALW"
+}
+},
+{
+"d": "2023-11-10",
+"c": {
+"inw": "budowa dwutorowej kablowej sieci elektroenergetycznej WN 110 kV z dwutorową kablową siecią teletechniczną relacji GPZ Mory - RPZ Ochota - RPZ Południowa w rejonie ul. Opaczewskiej i Bohaterów Września budowa nowego/nowych obiektów budowlanych",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0303 2/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.106.2023.ALW"
+}
+},
+{
+"d": "2023-11-10",
+"c": {
+"inw": "budowa dwutorowej kablowej sieci elektroenergetycznej WN 110 kV z dwutorową kablową siecią teletechniczną relacji GPZ Mory - RPZ Ochota - RPZ Południowa w rejonie ul. Opaczewskiej i Bohaterów Września budowa nowego/nowych obiektów budowlanych",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0303 2/27",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.106.2023.ALW"
+}
+},
+{
+"d": "2023-11-10",
+"c": {
+"inw": "budowa dwutorowej kablowej sieci elektroenergetycznej WN 110 kV z dwutorową kablową siecią teletechniczną relacji GPZ Mory - RPZ Ochota - RPZ Południowa w rejonie ul. Opaczewskiej i Bohaterów Września budowa nowego/nowych obiektów budowlanych",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0303 2/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.106.2023.ALW"
+}
+},
+{
+"d": "2023-11-10",
+"c": {
+"inw": "budowa dwutorowej kablowej sieci elektroenergetycznej WN 110 kV z dwutorową kablową siecią teletechniczną relacji GPZ Mory - RPZ Ochota - RPZ Południowa w rejonie ul. Opaczewskiej i Bohaterów Września budowa nowego/nowych obiektów budowlanych",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0306 1/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.106.2023.ALW"
+}
+},
+{
+"d": "2023-11-10",
+"c": {
+"inw": "budowa dwutorowej kablowej sieci elektroenergetycznej WN 110 kV z dwutorową kablową siecią teletechniczną relacji GPZ Mory - RPZ Ochota - RPZ Południowa w rejonie ul. Opaczewskiej i Bohaterów Września budowa nowego/nowych obiektów budowlanych",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0306 5/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.106.2023.ALW"
+}
+},
+{
+"d": "2023-11-10",
+"c": {
+"inw": "budowa dwutorowej kablowej sieci elektroenergetycznej WN 110 kV z dwutorową kablową siecią teletechniczną relacji GPZ Mory - RPZ Ochota - RPZ Południowa w rejonie ul. Opaczewskiej i Bohaterów Września budowa nowego/nowych obiektów budowlanych",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0306 13/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.106.2023.ALW"
+}
+},
+{
+"d": "2023-11-10",
+"c": {
+"inw": "budowa dwutorowej kablowej sieci elektroenergetycznej WN 110 kV z dwutorową kablową siecią teletechniczną relacji GPZ Mory - RPZ Ochota - RPZ Południowa w rejonie ul. Opaczewskiej i Bohaterów Września budowa nowego/nowych obiektów budowlanych",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0306 12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.106.2023.ALW"
+}
+},
+{
+"d": "2023-11-10",
+"c": {
+"inw": "budowa dwutorowej kablowej sieci elektroenergetycznej WN 110 kV z dwutorową kablową siecią teletechniczną relacji GPZ Mory - RPZ Ochota - RPZ Południowa w rejonie ul. Opaczewskiej i Bohaterów Września budowa nowego/nowych obiektów budowlanych",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0302 27/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.106.2023.ALW"
+}
+},
+{
+"d": "2023-11-10",
+"c": {
+"inw": "budowa dwutorowej kablowej sieci elektroenergetycznej WN 110 kV z dwutorową kablową siecią teletechniczną relacji GPZ Mory - RPZ Ochota - RPZ Południowa w rejonie ul. Opaczewskiej i Bohaterów Września budowa nowego/nowych obiektów budowlanych",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0302 41/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.106.2023.ALW"
+}
+},
+{
+"d": "2023-11-10",
+"c": {
+"inw": "budowa dwutorowej kablowej sieci elektroenergetycznej WN 110 kV z dwutorową kablową siecią teletechniczną relacji GPZ Mory - RPZ Ochota - RPZ Południowa w rejonie ul. Opaczewskiej i Bohaterów Września budowa nowego/nowych obiektów budowlanych",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0302 8/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.106.2023.ALW"
+}
+},
+{
+"d": "2023-11-10",
+"c": {
+"inw": "budowa dwutorowej kablowej sieci elektroenergetycznej WN 110 kV z dwutorową kablową siecią teletechniczną relacji GPZ Mory - RPZ Ochota - RPZ Południowa w rejonie ul. Opaczewskiej i Bohaterów Września budowa nowego/nowych obiektów budowlanych",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0302 8/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.106.2023.ALW"
+}
+},
+{
+"d": "2023-11-10",
+"c": {
+"inw": "budowa dwutorowej kablowej sieci elektroenergetycznej WN 110 kV z dwutorową kablową siecią teletechniczną relacji GPZ Mory - RPZ Ochota - RPZ Południowa w rejonie ul. Opaczewskiej i Bohaterów Września budowa nowego/nowych obiektów budowlanych",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0302 9/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.106.2023.ALW"
+}
+},
+{
+"d": "2023-11-10",
+"c": {
+"inw": "budowa dwutorowej kablowej sieci elektroenergetycznej WN 110 kV z dwutorową kablową siecią teletechniczną relacji GPZ Mory - RPZ Ochota - RPZ Południowa w rejonie ul. Opaczewskiej i Bohaterów Września budowa nowego/nowych obiektów budowlanych",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0302 9/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.106.2023.ALW"
+}
+},
+{
+"d": "2023-11-10",
+"c": {
+"inw": "budowa dwutorowej kablowej sieci elektroenergetycznej WN 110 kV z dwutorową kablową siecią teletechniczną relacji GPZ Mory - RPZ Ochota - RPZ Południowa w rejonie ul. Opaczewskiej i Bohaterów Września budowa nowego/nowych obiektów budowlanych",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0302 20/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.106.2023.ALW"
+}
+},
+{
+"d": "2023-11-10",
+"c": {
+"inw": "budowa dwutorowej kablowej sieci elektroenergetycznej WN 110 kV z dwutorową kablową siecią teletechniczną relacji GPZ Mory - RPZ Ochota - RPZ Południowa w rejonie ul. Opaczewskiej i Bohaterów Września budowa nowego/nowych obiektów budowlanych",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0302 20/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.106.2023.ALW"
+}
+},
+{
+"d": "2023-11-10",
+"c": {
+"inw": "budowa dwutorowej kablowej sieci elektroenergetycznej WN 110 kV z dwutorową kablową siecią teletechniczną relacji GPZ Mory - RPZ Ochota - RPZ Południowa w rejonie ul. Opaczewskiej i Bohaterów Września budowa nowego/nowych obiektów budowlanych",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0302 20/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.106.2023.ALW"
+}
+},
+{
+"d": "2023-11-10",
+"c": {
+"inw": "budowa dwutorowej kablowej sieci elektroenergetycznej WN 110 kV z dwutorową kablową siecią teletechniczną relacji GPZ Mory - RPZ Ochota - RPZ Południowa w rejonie ul. Opaczewskiej i Bohaterów Września budowa nowego/nowych obiektów budowlanych",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0302 47/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.106.2023.ALW"
+}
+},
+{
+"d": "2023-11-10",
+"c": {
+"inw": "budowa dwutorowej kablowej sieci elektroenergetycznej WN 110 kV z dwutorową kablową siecią teletechniczną relacji GPZ Mory - RPZ Ochota - RPZ Południowa w rejonie ul. Opaczewskiej i Bohaterów Września budowa nowego/nowych obiektów budowlanych",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0302 47/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.106.2023.ALW"
+}
+},
+{
+"d": "2023-10-31",
+"c": {
+"inw": "budowa sieci cieplnej budowa nowego/nowych obiektów budowlanych",
+"wn": "Prezydent m.st. warszawy",
+"nier": "Bitwy Warszawskiej 1920 r.",
+"dz": "146506_8 0203 12/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.104.2023.MKA"
+}
+},
+{
+"d": "2023-10-30",
+"c": {
+"inw": "rozbiórka dwutorowej napowietrzno kablowej sieci elektroenergetycznej WN 110 kV relacji GPZ Mory- RPZ Ochota- RPZ Południowa w rejonie ulicy Opaczewskiej i Alei Bohaterów Września rozbiórka istniejącego obiektu budowlanego",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0302 47/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.6741.4.2023.ALW"
+}
+},
+{
+"d": "2023-10-30",
+"c": {
+"inw": "rozbiórka dwutorowej napowietrzno kablowej sieci elektroenergetycznej WN 110 kV relacji GPZ Mory- RPZ Ochota- RPZ Południowa w rejonie ulicy Opaczewskiej i Alei Bohaterów Września rozbiórka istniejącego obiektu budowlanego",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0302 41/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.6741.4.2023.ALW"
+}
+},
+{
+"d": "2023-10-30",
+"c": {
+"inw": "rozbiórka dwutorowej napowietrzno kablowej sieci elektroenergetycznej WN 110 kV relacji GPZ Mory- RPZ Ochota- RPZ Południowa w rejonie ulicy Opaczewskiej i Alei Bohaterów Września rozbiórka istniejącego obiektu budowlanego",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0302 41/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.6741.4.2023.ALW"
+}
+},
+{
+"d": "2023-10-30",
+"c": {
+"inw": "rozbiórka dwutorowej napowietrzno kablowej sieci elektroenergetycznej WN 110 kV relacji GPZ Mory- RPZ Ochota- RPZ Południowa w rejonie ulicy Opaczewskiej i Alei Bohaterów Września rozbiórka istniejącego obiektu budowlanego",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0302 11/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.6741.4.2023.ALW"
+}
+},
+{
+"d": "2023-10-30",
+"c": {
+"inw": "rozbiórka dwutorowej napowietrzno kablowej sieci elektroenergetycznej WN 110 kV relacji GPZ Mory- RPZ Ochota- RPZ Południowa w rejonie ulicy Opaczewskiej i Alei Bohaterów Września rozbiórka istniejącego obiektu budowlanego",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0302 8/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.6741.4.2023.ALW"
+}
+},
+{
+"d": "2023-10-30",
+"c": {
+"inw": "rozbiórka dwutorowej napowietrzno kablowej sieci elektroenergetycznej WN 110 kV relacji GPZ Mory- RPZ Ochota- RPZ Południowa w rejonie ulicy Opaczewskiej i Alei Bohaterów Września rozbiórka istniejącego obiektu budowlanego",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0302 8/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.6741.4.2023.ALW"
+}
+},
+{
+"d": "2023-10-30",
+"c": {
+"inw": "rozbiórka dwutorowej napowietrzno kablowej sieci elektroenergetycznej WN 110 kV relacji GPZ Mory- RPZ Ochota- RPZ Południowa w rejonie ulicy Opaczewskiej i Alei Bohaterów Września rozbiórka istniejącego obiektu budowlanego",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0302 41/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.6741.4.2023.ALW"
+}
+},
+{
+"d": "2023-10-30",
+"c": {
+"inw": "rozbiórka dwutorowej napowietrzno kablowej sieci elektroenergetycznej WN 110 kV relacji GPZ Mory- RPZ Ochota- RPZ Południowa w rejonie ulicy Opaczewskiej i Alei Bohaterów Września rozbiórka istniejącego obiektu budowlanego",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0302 44/38",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.6741.4.2023.ALW"
+}
+},
+{
+"d": "2023-10-30",
+"c": {
+"inw": "rozbiórka dwutorowej napowietrzno kablowej sieci elektroenergetycznej WN 110 kV relacji GPZ Mory- RPZ Ochota- RPZ Południowa w rejonie ulicy Opaczewskiej i Alei Bohaterów Września rozbiórka istniejącego obiektu budowlanego",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0302 44/36",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.6741.4.2023.ALW"
+}
+},
+{
+"d": "2023-10-30",
+"c": {
+"inw": "rozbiórka dwutorowej napowietrzno kablowej sieci elektroenergetycznej WN 110 kV relacji GPZ Mory- RPZ Ochota- RPZ Południowa w rejonie ulicy Opaczewskiej i Alei Bohaterów Września rozbiórka istniejącego obiektu budowlanego",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0302 44/48",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.6741.4.2023.ALW"
+}
+},
+{
+"d": "2023-10-30",
+"c": {
+"inw": "rozbiórka dwutorowej napowietrzno kablowej sieci elektroenergetycznej WN 110 kV relacji GPZ Mory- RPZ Ochota- RPZ Południowa w rejonie ulicy Opaczewskiej i Alei Bohaterów Września rozbiórka istniejącego obiektu budowlanego",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0302 44/32",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.6741.4.2023.ALW"
+}
+},
+{
+"d": "2023-10-30",
+"c": {
+"inw": "rozbiórka dwutorowej napowietrzno kablowej sieci elektroenergetycznej WN 110 kV relacji GPZ Mory- RPZ Ochota- RPZ Południowa w rejonie ulicy Opaczewskiej i Alei Bohaterów Września rozbiórka istniejącego obiektu budowlanego",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0302 27/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.6741.4.2023.ALW"
+}
+},
+{
+"d": "2023-10-30",
+"c": {
+"inw": "rozbiórka dwutorowej napowietrzno kablowej sieci elektroenergetycznej WN 110 kV relacji GPZ Mory- RPZ Ochota- RPZ Południowa w rejonie ulicy Opaczewskiej i Alei Bohaterów Września rozbiórka istniejącego obiektu budowlanego",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0306 12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.6741.4.2023.ALW"
+}
+},
+{
+"d": "2023-10-30",
+"c": {
+"inw": "rozbiórka dwutorowej napowietrzno kablowej sieci elektroenergetycznej WN 110 kV relacji GPZ Mory- RPZ Ochota- RPZ Południowa w rejonie ulicy Opaczewskiej i Alei Bohaterów Września rozbiórka istniejącego obiektu budowlanego",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0306 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.6741.4.2023.ALW"
+}
+},
+{
+"d": "2023-10-30",
+"c": {
+"inw": "rozbiórka dwutorowej napowietrzno kablowej sieci elektroenergetycznej WN 110 kV relacji GPZ Mory- RPZ Ochota- RPZ Południowa w rejonie ulicy Opaczewskiej i Alei Bohaterów Września rozbiórka istniejącego obiektu budowlanego",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0306 1/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.6741.4.2023.ALW"
+}
+},
+{
+"d": "2023-10-30",
+"c": {
+"inw": "rozbiórka dwutorowej napowietrzno kablowej sieci elektroenergetycznej WN 110 kV relacji GPZ Mory- RPZ Ochota- RPZ Południowa w rejonie ulicy Opaczewskiej i Alei Bohaterów Września rozbiórka istniejącego obiektu budowlanego",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0303 2/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.6741.4.2023.ALW"
+}
+},
+{
+"d": "2023-10-30",
+"c": {
+"inw": "rozbiórka dwutorowej napowietrzno kablowej sieci elektroenergetycznej WN 110 kV relacji GPZ Mory- RPZ Ochota- RPZ Południowa w rejonie ulicy Opaczewskiej i Alei Bohaterów Września rozbiórka istniejącego obiektu budowlanego",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0303 2/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.6741.4.2023.ALW"
+}
+},
+{
+"d": "2023-10-30",
+"c": {
+"inw": "rozbiórka dwutorowej napowietrzno kablowej sieci elektroenergetycznej WN 110 kV relacji GPZ Mory- RPZ Ochota- RPZ Południowa w rejonie ulicy Opaczewskiej i Alei Bohaterów Września rozbiórka istniejącego obiektu budowlanego",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0303 11/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.6741.4.2023.ALW"
+}
+},
+{
+"d": "2023-10-27",
+"c": {
+"inw": "remont elewacji i balkonów budynku wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa przy ul. Solariego w Warszawie",
+"nier": "Solariego 5 / Antoniego",
+"dz": "146506_8 0105 51",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.99.2023.JUS"
+}
+},
+{
+"d": "2023-10-27",
+"c": {
+"inw": "remont elewacji i balkonów budynku wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa przy ul. Rudawskiej 4 w Warszawie",
+"nier": "Rudawska 4",
+"dz": "146506_8 0105 49",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.100.2023.JUS"
+}
+},
+{
+"d": "2023-10-24",
+"c": {
+"inw": "budowa budynku zaplecza zaplecza obiektów sportowych z trybunami, obiektów sportowych: areny lekkatletycznej, boiska do gry w rugby wraz z trybunami, rzutni treningowych, boiska do gier zespoływch, stacji trafo, uszczelnionego zbiornika wodnego, 4 zbiorników szczelnych na wody opadowe, parkingu, urządzeń sportowych, obiektów sportowych, obiektów małej architektury oraz rozbiórka istniejącego budynku gospodarczego budowa nowego/nowych obiektów budowlanych",
+"wn": "Stołeczne Centrum Sportu AKTYWNA WARSZAWA",
+"nier": "5",
+"dz": "146506_8 0106 6/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.103.2023.ALW"
+}
+},
+{
+"d": "2023-10-24",
+"c": {
+"inw": "budowa budynku zaplecza zaplecza obiektów sportowych z trybunami, obiektów sportowych: areny lekkatletycznej, boiska do gry w rugby wraz z trybunami, rzutni treningowych, boiska do gier zespoływch, stacji trafo, uszczelnionego zbiornika wodnego, 4 zbiorników szczelnych na wody opadowe, parkingu, urządzeń sportowych, obiektów sportowych, obiektów małej architektury oraz rozbiórka istniejącego budynku gospodarczego budowa nowego/nowych obiektów budowlanych",
+"wn": "Stołeczne Centrum Sportu AKTYWNA WARSZAWA",
+"nier": "5",
+"dz": "146506_8 0106 5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.103.2023.ALW"
+}
+},
+{
+"d": "2023-10-19",
+"c": {
+"inw": "przebudowa rozdzielni 0,4 kV i wymiana prostowników 110 VDC, budowa linii kablowej nn 0,4 kV na terenie Zakładu Centralnego budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie",
+"nier": "Koszykowa 81",
+"dz": "146506_8 0103 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.101.2023.MKA"
+}
+},
+{
+"d": "2023-10-17",
+"c": {
+"inw": "przebudowa instalacji radiokomunikacyjnej WAR1049l wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "On Tower Poland Sp. z o.o.",
+"nier": "Tarczyńska 8",
+"dz": "146506_8 0202 3/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.102.2023.MKA"
+}
+},
+{
+"d": "2023-10-16",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Min Hoong Development Co Pte Ltd Poland Sp. z o.o.",
+"nier": "Opaczewska 57",
+"dz": "146506_8 0306 13/5",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6741.3.2023.ALW"
+}
+},
+{
+"d": "2023-10-16",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Min Hoong Development Co Pte Ltd Poland Sp. z o.o.",
+"nier": "Opaczewska 57",
+"dz": "146506_8 0306 12",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6741.3.2023.ALW"
+}
+},
+{
+"d": "2023-10-09",
+"c": {
+"inw": "remont budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Trzeci Urząd Skarbowy Warszawa-Śródmieście",
+"nier": "Lindleya 14 / Williama Heerleina",
+"dz": "146506_8 0102 16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.95.2023.JUS"
+}
+},
+{
+"d": "2023-09-27",
+"c": {
+"inw": "budowa masztów oświetleniowych na terenie Zespołu Szkół Publicznych dawnej \"Kolejówki\" budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Ochota",
+"nier": "Szczęśliwicka 56",
+"dz": "146506_8 0303 5/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.90.2023.DMO"
+}
+},
+{
+"d": "2023-09-27",
+"c": {
+"inw": "budowa masztów oświetleniowych na terenie Zespołu Szkół Publicznych dawnej \"Kolejówki\" budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Ochota",
+"nier": "Szczęśliwicka 56",
+"dz": "146506_8 0303 5/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.90.2023.DMO"
+}
+},
+{
+"d": "2023-09-27",
+"c": {
+"inw": "budowa masztów oświetleniowych na terenie Zespołu Szkół Publicznych dawnej \"Kolejówki\" budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Ochota",
+"nier": "Szczęśliwicka 56",
+"dz": "146506_8 0303 5/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.90.2023.DMO"
+}
+},
+{
+"d": "2023-09-21",
+"c": {
+"inw": "nadbudowa, przebudowa i zm. spos. użytkowania budynku mieszkalnego nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Jesionowa 1",
+"dz": "146506_8 0104 148",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.88.2023.JUS"
+}
+},
+{
+"d": "2023-09-20",
+"c": {
+"inw": "Budowa pylonu cenowego na stacji paliw BP budowa nowego/nowych obiektów budowlanych",
+"wn": "BP Europa SE Oddział w Polsce",
+"nier": "Grójecka 125A",
+"dz": "146506_8 0320 14/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.87.2023.DMO"
+}
+},
+{
+"d": "2023-09-18",
+"c": {
+"inw": "budowa stacji ładowania pojazdów wraz zwiatą nad stanowiskami do ładowania oraz pylonem cenowym i gablota informacyjną (ZMIANA DECYZJI 16/2023) budowa nowego/nowych obiektów budowlanych",
+"wn": "Ekoen Sp. z o.o.",
+"nier": "148",
+"dz": "146506_8 0301 31",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.82.2023.ALW"
+}
+},
+{
+"d": "2023-09-18",
+"c": {
+"inw": "budowa stacji ładowania pojazdów wraz zwiatą nad stanowiskami do ładowania oraz pylonem cenowym i gablota informacyjną (ZMIANA DECYZJI 16/2023) budowa nowego/nowych obiektów budowlanych",
+"wn": "Ekoen Sp. z o.o.",
+"nier": "148",
+"dz": "146506_8 0301 32/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.82.2023.ALW"
+}
+},
+{
+"d": "2023-09-18",
+"c": {
+"inw": "budowa stacji ładowania pojazdów wraz zwiatą nad stanowiskami do ładowania oraz pylonem cenowym i gablota informacyjną (ZMIANA DECYZJI 16/2023) budowa nowego/nowych obiektów budowlanych",
+"wn": "Ekoen Sp. z o.o.",
+"nier": "148",
+"dz": "146506_8 0301 30/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.82.2023.ALW"
+}
+},
+{
+"d": "2023-09-18",
+"c": {
+"inw": "zmiana decyzji 22/2023 w części dotyczącej trasy dwóch instalacji gazowych niskiego ciśnienia dla projektowanego budynku mieszkalnego wielorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "Fabud System Sp. z o.o.",
+"nier": "Drygały / Mikołaja",
+"dz": "146506_8 0317 34/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.85.2023.ALW"
+}
+},
+{
+"d": "2023-09-12",
+"c": {
+"inw": "przebudowa ściany konstrukcyjnej na 4 piętrze w CH Blue City w Warszawie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Magic City Sp z o.o.",
+"nier": "Aleje Jerozolimskie 179",
+"dz": "146506_8 0302 42",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.86.2023.MKA"
+}
+},
+{
+"d": "2023-09-12",
+"c": {
+"inw": "przebudowa ściany konstrukcyjnej na 4 piętrze w CH Blue City w Warszawie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Magic City Sp z o.o.",
+"nier": "Aleje Jerozolimskie 179",
+"dz": "146506_8 0302 43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.86.2023.MKA"
+}
+},
+{
+"d": "2023-09-12",
+"c": {
+"inw": "przebudowa ściany konstrukcyjnej na 4 piętrze w CH Blue City w Warszawie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Magic City Sp z o.o.",
+"nier": "Aleje Jerozolimskie 179",
+"dz": "146506_8 0302 46",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.86.2023.MKA"
+}
+},
+{
+"d": "2023-09-12",
+"c": {
+"inw": "przebudowa- wykonanie dodatkowego przystanku dźwigu na ostatniej kondygnacji w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa \"Ochota\"",
+"nier": "Grójecka 80/102",
+"dz": "146506_8 0308 9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.83.2023.ALW"
+}
+},
+{
+"d": "2023-08-16",
+"c": {
+"inw": "rozbiórka dwóch budynków godpodarczych jednokomdygnacyjnych oraz dwukondygnacyjnego budynkie mieszkalno-gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Min Hoong Development Co Pte Ltd Poland Sp. z o.o.",
+"nier": "Opaczewska 57",
+"dz": "146506_8 0306 12/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6741.2.2023.ALW"
+}
+},
+{
+"d": "2023-08-16",
+"c": {
+"inw": "rozbiórka dwóch budynków godpodarczych jednokomdygnacyjnych oraz dwukondygnacyjnego budynkie mieszkalno-gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Min Hoong Development Co Pte Ltd Poland Sp. z o.o.",
+"nier": "Opaczewska 57",
+"dz": "146506_8 0306 13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6741.2.2023.ALW"
+}
+},
+{
+"d": "2023-08-16",
+"c": {
+"inw": "montaż nowej stolarki okiennej w lokalu 5 A w budynku przy ul. Aleje Jerozolimskie 99 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto st. Warszawa",
+"nier": "Aleje Jerozolimskie 99",
+"dz": "146506_8 0102 17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.80.2023.MKA"
+}
+},
+{
+"d": "2023-08-10",
+"c": {
+"inw": "przebudowa balustrady tarasu w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa ,,Ochota''",
+"nier": "8",
+"dz": "146506_8 0313 45",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.79.2023.MKA"
+}
+},
+{
+"d": "2023-08-08",
+"c": {
+"inw": "rozbiórka komórek lokatorskich rozbiórka istniejącego obiektu budowlanego",
+"wn": "Miasto Stołeczne Warszawa",
+"nier": "Szczęśliwicka 27",
+"dz": "146506_8 0206 80",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6741.1.2023.JUS"
+}
+},
+{
+"d": "2023-07-27",
+"c": {
+"inw": "przebudowa lokalu mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Bracławska 129/16",
+"dz": "146506_8 0323 58",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.72.2023.JUS"
+}
+},
+{
+"d": "2023-07-21",
+"c": {
+"inw": "nadbudowa lukarn budynku i zmiana sposobu użytkowania poddasza wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Filtrowa 51",
+"dz": "146506_8 0104 45/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD.V.WAB.6740.71.2023.JUS"
+}
+},
+{
+"d": "2023-07-19",
+"c": {
+"inw": "przebudowa instalacji anten telefonii komórkowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółka ON Tower Poland Sp. z o. o.",
+"nier": "Uniwersytecka 1",
+"dz": "146506_8 0205 70",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.73.2023.JUS"
+}
+},
+{
+"d": "2023-07-18",
+"c": {
+"inw": "remont elewacji, balkonów i dachu budynku wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SM \"Nasze Ognisko\"",
+"nier": "Filtrowa 69",
+"dz": "146506_8 0205 21/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.70.2023.JUS"
+}
+},
+{
+"d": "2023-07-12",
+"c": {
+"inw": "przebudowa wejścia do piwnicy i przesunięcie drzwi wejściowych w klatce nr 2, remont  i przebudowa balkonów z podwyższeniem balustrad balkonowych, wymiana daszków nad wejściami do klatek schodowych w budynku przy ul. Grójeckiej 32 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości nr 32 przy ulicy Grójeckiej",
+"nier": "Grójecka 32",
+"dz": "146506_8 0204 57",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.74.2023.MKA"
+}
+},
+{
+"d": "2023-07-11",
+"c": {
+"inw": "remont elewacji oraz balkonów budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Budowlano-Mieszkaniowa Inżynierów byłego Ministerstwa Kolei Żelaznych",
+"nier": "Mianowskiego 15 / Józefa",
+"dz": "146506_8 0205 71",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.75.2023.MKA"
+}
+},
+{
+"d": "2023-07-03",
+"c": {
+"inw": "budowa zbiorników retencyjnych na terenie Zespołu Szkół Publicznych dawnej \"Kolejówki\" budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Ochota",
+"nier": "Szczęśliwicka 56",
+"dz": "146506_8 0303 5/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.61.2023.ALW"
+}
+},
+{
+"d": "2023-07-03",
+"c": {
+"inw": "budowa zbiorników retencyjnych na terenie Zespołu Szkół Publicznych dawnej \"Kolejówki\" budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Ochota",
+"nier": "Szczęśliwicka 56",
+"dz": "146506_8 0303 5/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.61.2023.ALW"
+}
+},
+{
+"d": "2023-07-03",
+"c": {
+"inw": "budowa zbiorników retencyjnych na terenie Zespołu Szkół Publicznych dawnej \"Kolejówki\" budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Ochota",
+"nier": "Szczęśliwicka 56",
+"dz": "146506_8 0303 5/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.61.2023.ALW"
+}
+},
+{
+"d": "2023-05-29",
+"c": {
+"inw": "zmiana pozwolenia na budowę nr 49/2022 z 14.09.2022, dot. przebudowy i zmiany sposobu użytkowania pomieszczenia w południowym skrzydle budynku Wydziału Chemii UW wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersytet Warszawski",
+"nier": "Pasteura 1 / Ludwika",
+"dz": "146506_8 0209 3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.48.2023.DMO"
+}
+},
+{
+"d": "2023-05-26",
+"c": {
+"inw": "remont elewacji budynku, remont balkonów, przebudowa (podwyższenie) i remont balustrad, remont kominów i wykonanie izolacji fundamentów budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa ul. Szczęśliwicka 33",
+"nier": "Szczęśliwicka 33",
+"dz": "146506_8 0206 92",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.47.2023.DMO"
+}
+},
+{
+"d": "2023-05-25",
+"c": {
+"inw": "budowa buynku mieszkalnego wielorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Lirowa",
+"dz": "146506_8 0319 44/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.45.2023.ALW"
+}
+},
+{
+"d": "2023-05-17",
+"c": {
+"inw": "remont elewacji budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości nr 12 przy ul. Joteyki",
+"nier": "Joteyki 12 / Tadeusza",
+"dz": "146506_8 0204 88",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.50.2023.MKA"
+}
+},
+{
+"d": "2023-05-12",
+"c": {
+"inw": "Remont budynku komory technologicznej A wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "Koszykowa 81",
+"dz": "146506_8 0103 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.40.2023.DMO"
+}
+},
+{
+"d": "2023-05-12",
+"c": {
+"inw": "Remont budynku komory technologicznej A wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "Koszykowa 81",
+"dz": "146506_8 0103 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.40.2023.DMO"
+}
+},
+{
+"d": "2023-05-12",
+"c": {
+"inw": "Przebudowa ściany wewnętrznej konstrukcyjnej w zakresie poszerzenia otworu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Outriders Spółka not-for-profit Sp. z o.o.",
+"nier": "Rokosowska 8",
+"dz": "146506_8 0206 87/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.37.2023.DMO"
+}
+},
+{
+"d": "2023-05-12",
+"c": {
+"inw": "Remont i przebudowa przegród zewnętrznych obiektu - podłączenia wody do mycia pojazdów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "Koszykowa 81",
+"dz": "146506_8 0103 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.39.2023.DMO"
+}
+},
+{
+"d": "2023-05-12",
+"c": {
+"inw": "Remont i przebudowa przegród zewnętrznych obiektu - podłączenia wody do mycia pojazdów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "Koszykowa 81",
+"dz": "146506_8 0103 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.39.2023.DMO"
+}
+},
+{
+"d": "2023-05-12",
+"c": {
+"inw": "Remont warsztatu płuczko-segregatorki wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "Koszykowa 81",
+"dz": "146506_8 0103 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.38.2023.DMO"
+}
+},
+{
+"d": "2023-05-12",
+"c": {
+"inw": "Remont warsztatu płuczko-segregatorki wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawa S.A.",
+"nier": "Koszykowa 81",
+"dz": "146506_8 0103 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.38.2023.DMO"
+}
+},
+{
+"d": "2023-05-12",
+"c": {
+"inw": "remont drzwi budynku magazynu głownego na terenie Zakładu Centralnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociagów i Kanalizacji w m.st. Warszawie",
+"nier": "Koszykowa 81",
+"dz": "146506_8 0103 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.51.2023.MKA"
+}
+},
+{
+"d": "2023-05-12",
+"c": {
+"inw": "remont budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo wodociagów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "Koszykowa 81",
+"dz": "146506_8 0103 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.52.2023.MKA"
+}
+},
+{
+"d": "2023-05-12",
+"c": {
+"inw": "remont budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo wodociagów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "Koszykowa 81",
+"dz": "146506_8 0103 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.52.2023.MKA"
+}
+},
+{
+"d": "2023-04-14",
+"c": {
+"inw": "budowa trzech instalacji gazowych niskiego ciśnienia dla istniejącego budynku usługowego i projektowanego budynku mieszkalnego wielorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "Fabud System Sp. z o.o.",
+"nier": "Drygały / Mikołaja",
+"dz": "146506_8 0317 46/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.34.2023.ALW"
+}
+},
+{
+"d": "2023-04-14",
+"c": {
+"inw": "budowa trzech instalacji gazowych niskiego ciśnienia dla istniejącego budynku usługowego i projektowanego budynku mieszkalnego wielorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "Fabud System Sp. z o.o.",
+"nier": "Drygały / Mikołaja",
+"dz": "146506_8 0317 46/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.34.2023.ALW"
+}
+},
+{
+"d": "2023-04-14",
+"c": {
+"inw": "budowa trzech instalacji gazowych niskiego ciśnienia dla istniejącego budynku usługowego i projektowanego budynku mieszkalnego wielorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "Fabud System Sp. z o.o.",
+"nier": "Drygały / Mikołaja",
+"dz": "146506_8 0317 34/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.34.2023.ALW"
+}
+},
+{
+"d": "2023-03-30",
+"c": {
+"inw": "Wycięcie otworu drzwiowego w ścianie nośnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Pawińskiego 18 / Adolfa",
+"dz": "146506_8 0309 53/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.28.2023.DMO"
+}
+},
+{
+"d": "2023-03-27",
+"c": {
+"inw": "przebudowa instalacje elektrycznych wewnątrz i na zewnątrz budynku DKW wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiebiorstwo Wodociagów i Kanalizacji m.st. Warszawie",
+"nier": "Koszykowa 81",
+"dz": "146506_8 0103 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.35.2023.MKA"
+}
+},
+{
+"d": "2023-03-15",
+"c": {
+"inw": "remont części pomieszczeń szpitala wpisanego do rejestru zabytków oraz zmiana warunków wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersyteckie Centrum Zdrowia Kobiety i Noworodka Warszawskiego Uniwersytetu Medycznego Sp z o.o.",
+"nier": "Plac Sokratesa Starynkiewicza 1/3",
+"dz": "146506_8 0101 3/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.30.2023.MKA"
+}
+},
+{
+"d": "2023-03-02",
+"c": {
+"inw": "przebudowa ścian nośnych - otworów w lokalu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Langiewicza 17 / Mariana",
+"dz": "146506_8 0104 93",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.17.2023.JUS"
+}
+},
+{
+"d": "2023-02-27",
+"c": {
+"inw": "przebudowa(modernizacja) istniejącej fontanny oraz budowa podziemnej komory technologicznej na terenie Zakładu Centralnego wraz z instalacjami zewnętrznymi budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie",
+"nier": "Koszykowa 81",
+"dz": "146506_8 0103 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.19.2023.MKA"
+}
+},
+{
+"d": "2023-02-24",
+"c": {
+"inw": "rozbudowa wejścia do domu studenckiego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Politechnika Warszawska",
+"nier": "Akademicka 5",
+"dz": "146506_8 0205 65/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.15.2023.JUS"
+}
+},
+{
+"d": "2023-02-13",
+"c": {
+"inw": "budowa stacji ładowania pojazdów wraz zwiatą nad stanowiskami mdo ładowania oraz pylonem cenowym i gablotą informacyjną budowa nowego/nowych obiektów budowlanych",
+"wn": "Ekoen Sp. z o.o.",
+"nier": "",
+"dz": "146506_8 0301 31",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.10.2023.ALW"
+}
+},
+{
+"d": "2023-02-13",
+"c": {
+"inw": "budowa stacji ładowania pojazdów wraz zwiatą nad stanowiskami mdo ładowania oraz pylonem cenowym i gablotą informacyjną budowa nowego/nowych obiektów budowlanych",
+"wn": "Ekoen Sp. z o.o.",
+"nier": "",
+"dz": "146506_8 0301 32/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.10.2023.ALW"
+}
+},
+{
+"d": "2023-02-02",
+"c": {
+"inw": "przebudowa (połączenie) lokali mieszkalnych nr 122 i nr 89 w budynku mieszkalnym przy ul. Grójeciej 214 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Grójecka 214",
+"dz": "146506_8 0319 79",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.7.2023.ALW"
+}
+},
+{
+"d": "2023-02-01",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "Fabud System Sp. z o.o.",
+"nier": "Drygały / Mikołaja",
+"dz": "146506_8 0317 34/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.6.2023.ALW"
+}
+},
+{
+"d": "2023-01-27",
+"c": {
+"inw": "przebudowa przegrody zewnętrznej - pwyburzenie ściany podokiennej i wstawienie drzwi w światło okna wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Plenilunium Jakub Cydzik",
+"nier": "Białobrzeska 4",
+"dz": "146506_8 0308 49/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.3.2023.ALW"
+}
+},
+{
+"d": "2023-01-24",
+"c": {
+"inw": "Przebudowa schodów zewnętrznych wraz z montażem podnośnika dla niepełnosprawnych w głównym wejściu budynku Narodowego Instytutu Onkologii im. Marii Skłodowskiej-Curie Państwowego Instytutu Badawczego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie Państwowy Instytut Badawczy",
+"nier": "Wawelska 15",
+"dz": "146506_8 0209 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.2.2023.DMO"
+}
+},
+{
+"d": "2023-01-20",
+"c": {
+"inw": "przebudowa okapu dachowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa ul. Grójecka 64",
+"nier": "64",
+"dz": "146506_8 0206 26",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.1.2023.JUS"
+}
+},
+{
+"d": "2023-01-11",
+"c": {
+"inw": "przebudowa instalacji sprężonego powietrza w Zakładzie Filtrów Pośpiesznych, Zakład Centralny wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st.Warszawie",
+"nier": "Koszykowa 81",
+"dz": "146506_8 0103 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.11.2023.MKA"
+}
+},
+{
+"d": "2023-01-10",
+"c": {
+"inw": "przebudowa - wzmocnienie konstrukcji i remont dachu budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości",
+"nier": "Joteyki 12 / Tadeusza",
+"dz": "146506_8 0204 88",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.5.2023.MKA"
+}
+}
+]
+},
+{
+"id": "dec_pnb",
+"name": "Decyzje o pozwoleniu na budowę",
+"short": "Decyzje PnB",
+"desc": "Decyzje o pozwoleniu na budowę wydane przez organ architektoniczno-budowlany dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer decyzji",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2023-12-29",
+"c": {
+"inw": "rozbiórka dwutorowej napowietrzno kablowej sieci elektroenergetycznej WN 110 kV relacji GPZ Mory- RPZ Ochota- RPZ Południowa w rejonie ulicy Opaczewskiej i Alei Bohaterów Września rozbiórka istniejącego obiektu budowlanego",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0302 47/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "52/2023"
+}
+},
+{
+"d": "2023-12-29",
+"c": {
+"inw": "rozbiórka dwutorowej napowietrzno kablowej sieci elektroenergetycznej WN 110 kV relacji GPZ Mory- RPZ Ochota- RPZ Południowa w rejonie ulicy Opaczewskiej i Alei Bohaterów Września rozbiórka istniejącego obiektu budowlanego",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0302 41/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "52/2023"
+}
+},
+{
+"d": "2023-12-29",
+"c": {
+"inw": "rozbiórka dwutorowej napowietrzno kablowej sieci elektroenergetycznej WN 110 kV relacji GPZ Mory- RPZ Ochota- RPZ Południowa w rejonie ulicy Opaczewskiej i Alei Bohaterów Września rozbiórka istniejącego obiektu budowlanego",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0302 41/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "52/2023"
+}
+},
+{
+"d": "2023-12-29",
+"c": {
+"inw": "rozbiórka dwutorowej napowietrzno kablowej sieci elektroenergetycznej WN 110 kV relacji GPZ Mory- RPZ Ochota- RPZ Południowa w rejonie ulicy Opaczewskiej i Alei Bohaterów Września rozbiórka istniejącego obiektu budowlanego",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0302 11/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "52/2023"
+}
+},
+{
+"d": "2023-12-29",
+"c": {
+"inw": "rozbiórka dwutorowej napowietrzno kablowej sieci elektroenergetycznej WN 110 kV relacji GPZ Mory- RPZ Ochota- RPZ Południowa w rejonie ulicy Opaczewskiej i Alei Bohaterów Września rozbiórka istniejącego obiektu budowlanego",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0302 8/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "52/2023"
+}
+},
+{
+"d": "2023-12-29",
+"c": {
+"inw": "rozbiórka dwutorowej napowietrzno kablowej sieci elektroenergetycznej WN 110 kV relacji GPZ Mory- RPZ Ochota- RPZ Południowa w rejonie ulicy Opaczewskiej i Alei Bohaterów Września rozbiórka istniejącego obiektu budowlanego",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0302 8/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "52/2023"
+}
+},
+{
+"d": "2023-12-29",
+"c": {
+"inw": "rozbiórka dwutorowej napowietrzno kablowej sieci elektroenergetycznej WN 110 kV relacji GPZ Mory- RPZ Ochota- RPZ Południowa w rejonie ulicy Opaczewskiej i Alei Bohaterów Września rozbiórka istniejącego obiektu budowlanego",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0302 41/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "52/2023"
+}
+},
+{
+"d": "2023-12-29",
+"c": {
+"inw": "rozbiórka dwutorowej napowietrzno kablowej sieci elektroenergetycznej WN 110 kV relacji GPZ Mory- RPZ Ochota- RPZ Południowa w rejonie ulicy Opaczewskiej i Alei Bohaterów Września rozbiórka istniejącego obiektu budowlanego",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0302 44/38",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "52/2023"
+}
+},
+{
+"d": "2023-12-29",
+"c": {
+"inw": "rozbiórka dwutorowej napowietrzno kablowej sieci elektroenergetycznej WN 110 kV relacji GPZ Mory- RPZ Ochota- RPZ Południowa w rejonie ulicy Opaczewskiej i Alei Bohaterów Września rozbiórka istniejącego obiektu budowlanego",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0302 44/36",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "52/2023"
+}
+},
+{
+"d": "2023-12-29",
+"c": {
+"inw": "rozbiórka dwutorowej napowietrzno kablowej sieci elektroenergetycznej WN 110 kV relacji GPZ Mory- RPZ Ochota- RPZ Południowa w rejonie ulicy Opaczewskiej i Alei Bohaterów Września rozbiórka istniejącego obiektu budowlanego",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0302 44/48",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "52/2023"
+}
+},
+{
+"d": "2023-12-29",
+"c": {
+"inw": "rozbiórka dwutorowej napowietrzno kablowej sieci elektroenergetycznej WN 110 kV relacji GPZ Mory- RPZ Ochota- RPZ Południowa w rejonie ulicy Opaczewskiej i Alei Bohaterów Września rozbiórka istniejącego obiektu budowlanego",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0302 44/32",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "52/2023"
+}
+},
+{
+"d": "2023-12-29",
+"c": {
+"inw": "rozbiórka dwutorowej napowietrzno kablowej sieci elektroenergetycznej WN 110 kV relacji GPZ Mory- RPZ Ochota- RPZ Południowa w rejonie ulicy Opaczewskiej i Alei Bohaterów Września rozbiórka istniejącego obiektu budowlanego",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0302 27/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "52/2023"
+}
+},
+{
+"d": "2023-12-29",
+"c": {
+"inw": "rozbiórka dwutorowej napowietrzno kablowej sieci elektroenergetycznej WN 110 kV relacji GPZ Mory- RPZ Ochota- RPZ Południowa w rejonie ulicy Opaczewskiej i Alei Bohaterów Września rozbiórka istniejącego obiektu budowlanego",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0306 12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "52/2023"
+}
+},
+{
+"d": "2023-12-29",
+"c": {
+"inw": "rozbiórka dwutorowej napowietrzno kablowej sieci elektroenergetycznej WN 110 kV relacji GPZ Mory- RPZ Ochota- RPZ Południowa w rejonie ulicy Opaczewskiej i Alei Bohaterów Września rozbiórka istniejącego obiektu budowlanego",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0306 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "52/2023"
+}
+},
+{
+"d": "2023-12-29",
+"c": {
+"inw": "rozbiórka dwutorowej napowietrzno kablowej sieci elektroenergetycznej WN 110 kV relacji GPZ Mory- RPZ Ochota- RPZ Południowa w rejonie ulicy Opaczewskiej i Alei Bohaterów Września rozbiórka istniejącego obiektu budowlanego",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0306 1/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "52/2023"
+}
+},
+{
+"d": "2023-12-29",
+"c": {
+"inw": "rozbiórka dwutorowej napowietrzno kablowej sieci elektroenergetycznej WN 110 kV relacji GPZ Mory- RPZ Ochota- RPZ Południowa w rejonie ulicy Opaczewskiej i Alei Bohaterów Września rozbiórka istniejącego obiektu budowlanego",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0303 2/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "52/2023"
+}
+},
+{
+"d": "2023-12-29",
+"c": {
+"inw": "rozbiórka dwutorowej napowietrzno kablowej sieci elektroenergetycznej WN 110 kV relacji GPZ Mory- RPZ Ochota- RPZ Południowa w rejonie ulicy Opaczewskiej i Alei Bohaterów Września rozbiórka istniejącego obiektu budowlanego",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0303 2/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "52/2023"
+}
+},
+{
+"d": "2023-12-29",
+"c": {
+"inw": "rozbiórka dwutorowej napowietrzno kablowej sieci elektroenergetycznej WN 110 kV relacji GPZ Mory- RPZ Ochota- RPZ Południowa w rejonie ulicy Opaczewskiej i Alei Bohaterów Września rozbiórka istniejącego obiektu budowlanego",
+"wn": "Blue Parking Sp. z o.o.",
+"nier": "Opaczewska",
+"dz": "146506_8 0303 11/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "52/2023"
+}
+},
+{
+"d": "2023-12-21",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Min Hoong Development Co Pte Ltd Poland Sp. z o.o.",
+"nier": "Opaczewska 57",
+"dz": "146506_8 0306 13/5",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "51/2023"
+}
+},
+{
+"d": "2023-12-21",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Min Hoong Development Co Pte Ltd Poland Sp. z o.o.",
+"nier": "Opaczewska 57",
+"dz": "146506_8 0306 12",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "51/2023"
+}
+},
+{
+"d": "2023-12-14",
+"c": {
+"inw": "budowa budynku zaplecza zaplecza obiektów sportowych z trybunami, obiektów sportowych: areny lekkatletycznej, boiska do gry w rugby wraz z trybunami, rzutni treningowych, boiska do gier zespoływch, stacji trafo, uszczelnionego zbiornika wodnego, 4 zbiorników szczelnych na wody opadowe, parkingu, urządzeń sportowych, obiektów sportowych, obiektów małej architektury oraz rozbiórka istniejącego budynku gospodarczego budowa nowego/nowych obiektów budowlanych",
+"wn": "Stołeczne Centrum Sportu AKTYWNA WARSZAWA",
+"nier": "5",
+"dz": "146506_8 0106 6/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "50/2023"
+}
+},
+{
+"d": "2023-12-14",
+"c": {
+"inw": "budowa budynku zaplecza zaplecza obiektów sportowych z trybunami, obiektów sportowych: areny lekkatletycznej, boiska do gry w rugby wraz z trybunami, rzutni treningowych, boiska do gier zespoływch, stacji trafo, uszczelnionego zbiornika wodnego, 4 zbiorników szczelnych na wody opadowe, parkingu, urządzeń sportowych, obiektów sportowych, obiektów małej architektury oraz rozbiórka istniejącego budynku gospodarczego budowa nowego/nowych obiektów budowlanych",
+"wn": "Stołeczne Centrum Sportu AKTYWNA WARSZAWA",
+"nier": "5",
+"dz": "146506_8 0106 5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "50/2023"
+}
+},
+{
+"d": "2023-12-11",
+"c": {
+"inw": "przebudowa wejścia do piwnicy i przesunięcie drzwi wejściowych w klatce nr 2, remont  i przebudowa balkonów z podwyższeniem balustrad balkonowych, wymiana daszków nad wejściami do klatek schodowych w budynku przy ul. Grójeckiej 32 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości nr 32 przy ulicy Grójeckiej",
+"nier": "Grójecka 32",
+"dz": "146506_8 0204 57",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "49/2023"
+}
+},
+{
+"d": "2023-12-07",
+"c": {
+"inw": "budowa stacji ładowania pojazdów wraz zwiatą nad stanowiskami do ładowania oraz pylonem cenowym i gablota informacyjną (ZMIANA DECYZJI 16/2023) budowa nowego/nowych obiektów budowlanych",
+"wn": "Ekoen Sp. z o.o.",
+"nier": "148",
+"dz": "146506_8 0301 31",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "48/2023"
+}
+},
+{
+"d": "2023-12-07",
+"c": {
+"inw": "budowa stacji ładowania pojazdów wraz zwiatą nad stanowiskami do ładowania oraz pylonem cenowym i gablota informacyjną (ZMIANA DECYZJI 16/2023) budowa nowego/nowych obiektów budowlanych",
+"wn": "Ekoen Sp. z o.o.",
+"nier": "148",
+"dz": "146506_8 0301 32/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "48/2023"
+}
+},
+{
+"d": "2023-12-07",
+"c": {
+"inw": "budowa stacji ładowania pojazdów wraz zwiatą nad stanowiskami do ładowania oraz pylonem cenowym i gablota informacyjną (ZMIANA DECYZJI 16/2023) budowa nowego/nowych obiektów budowlanych",
+"wn": "Ekoen Sp. z o.o.",
+"nier": "148",
+"dz": "146506_8 0301 30/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "48/2023"
+}
+},
+{
+"d": "2023-12-06",
+"c": {
+"inw": "Rozbiórka istniejących fundamentów i budowa budynku handlowo-usługowego wraz z niezbędną infrastrukturą techniczną, urządzeniem reklamowym oraz parkingiem. budowa nowego/nowych obiektów budowlanych",
+"wn": "LIDL. Sp. z o.o.",
+"nier": "Zadumana",
+"dz": "146506_8 0316 7/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "47/2023"
+}
+},
+{
+"d": "2023-12-06",
+"c": {
+"inw": "Rozbiórka istniejących fundamentów i budowa budynku handlowo-usługowego wraz z niezbędną infrastrukturą techniczną, urządzeniem reklamowym oraz parkingiem. budowa nowego/nowych obiektów budowlanych",
+"wn": "LIDL. Sp. z o.o.",
+"nier": "Zadumana",
+"dz": "146506_8 0316 8/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "47/2023"
+}
+},
+{
+"d": "2023-11-28",
+"c": {
+"inw": "zmiana decyzji 22/2023 w części dotyczącej trasy dwóch instalacji gazowych niskiego ciśnienia dla projektowanego budynku mieszkalnego wielorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "Fabud System Sp. z o.o.",
+"nier": "Drygały / Mikołaja",
+"dz": "146506_8 0317 34/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "46/2023"
+}
+},
+{
+"d": "2023-11-20",
+"c": {
+"inw": "Budowa pylonu cenowego na stacji paliw BP budowa nowego/nowych obiektów budowlanych",
+"wn": "BP Europa SE Oddział w Polsce",
+"nier": "Grójecka 125A",
+"dz": "146506_8 0320 14/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "45/2023"
+}
+},
+{
+"d": "2023-11-20",
+"c": {
+"inw": "budowa masztów oświetleniowych na terenie Zespołu Szkół Publicznych dawnej \"Kolejówki\" budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Ochota",
+"nier": "Szczęśliwicka 56",
+"dz": "146506_8 0303 5/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "44/2023"
+}
+},
+{
+"d": "2023-11-20",
+"c": {
+"inw": "budowa masztów oświetleniowych na terenie Zespołu Szkół Publicznych dawnej \"Kolejówki\" budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Ochota",
+"nier": "Szczęśliwicka 56",
+"dz": "146506_8 0303 5/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "44/2023"
+}
+},
+{
+"d": "2023-11-20",
+"c": {
+"inw": "budowa masztów oświetleniowych na terenie Zespołu Szkół Publicznych dawnej \"Kolejówki\" budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Ochota",
+"nier": "Szczęśliwicka 56",
+"dz": "146506_8 0303 5/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "44/2023"
+}
+},
+{
+"d": "2023-11-15",
+"c": {
+"inw": "remont elewacji i balkonów budynku wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa przy ul. Solariego w Warszawie",
+"nier": "Solariego 5 / Antoniego",
+"dz": "146506_8 0105 51",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/2023"
+}
+},
+{
+"d": "2023-11-15",
+"c": {
+"inw": "remont elewacji i balkonów budynku wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa przy ul. Rudawskiej 4 w Warszawie",
+"nier": "Rudawska 4",
+"dz": "146506_8 0105 49",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "42/2023"
+}
+},
+{
+"d": "2023-11-15",
+"c": {
+"inw": "przebudowa ściany konstrukcyjnej na 4 piętrze w CH Blue City w Warszawie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Magic City Sp z o.o.",
+"nier": "Aleje Jerozolimskie 179",
+"dz": "146506_8 0302 42",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "43/2023"
+}
+},
+{
+"d": "2023-11-15",
+"c": {
+"inw": "przebudowa ściany konstrukcyjnej na 4 piętrze w CH Blue City w Warszawie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Magic City Sp z o.o.",
+"nier": "Aleje Jerozolimskie 179",
+"dz": "146506_8 0302 43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "43/2023"
+}
+},
+{
+"d": "2023-11-15",
+"c": {
+"inw": "przebudowa ściany konstrukcyjnej na 4 piętrze w CH Blue City w Warszawie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Magic City Sp z o.o.",
+"nier": "Aleje Jerozolimskie 179",
+"dz": "146506_8 0302 46",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "43/2023"
+}
+},
+{
+"d": "2023-11-10",
+"c": {
+"inw": "remont budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Trzeci Urząd Skarbowy Warszawa-Śródmieście",
+"nier": "Lindleya 14 / Williama Heerleina",
+"dz": "146506_8 0102 16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/2023"
+}
+},
+{
+"d": "2023-10-19",
+"c": {
+"inw": "rozbiórka dwóch budynków godpodarczych jednokomdygnacyjnych oraz dwukondygnacyjnego budynkie mieszkalno-gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Min Hoong Development Co Pte Ltd Poland Sp. z o.o.",
+"nier": "Opaczewska 57",
+"dz": "146506_8 0306 12/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "38/2023"
+}
+},
+{
+"d": "2023-10-19",
+"c": {
+"inw": "rozbiórka dwóch budynków godpodarczych jednokomdygnacyjnych oraz dwukondygnacyjnego budynkie mieszkalno-gospodarczego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Min Hoong Development Co Pte Ltd Poland Sp. z o.o.",
+"nier": "Opaczewska 57",
+"dz": "146506_8 0306 13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "38/2023"
+}
+},
+{
+"d": "2023-10-12",
+"c": {
+"inw": "remont elewacji oraz balkonów budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Budowlano-Mieszkaniowa Inżynierów byłego Ministerstwa Kolei Żelaznych",
+"nier": "Mianowskiego 15 / Józefa",
+"dz": "146506_8 0205 71",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "37/2023"
+}
+},
+{
+"d": "2023-10-05",
+"c": {
+"inw": "remont elewacji budynku, remont balkonów, przebudowa (podwyższenie) i remont balustrad, remont kominów i wykonanie izolacji fundamentów budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa ul. Szczęśliwicka 33",
+"nier": "Szczęśliwicka 33",
+"dz": "146506_8 0206 92",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "36/2023"
+}
+},
+{
+"d": "2023-09-29",
+"c": {
+"inw": "rozbiórka komórek lokatorskich rozbiórka istniejącego obiektu budowlanego",
+"wn": "Miasto Stołeczne Warszawa",
+"nier": "Szczęśliwicka 27",
+"dz": "146506_8 0206 80",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "35/2023"
+}
+},
+{
+"d": "2023-09-25",
+"c": {
+"inw": "nadbudowa lukarn budynku i zmiana sposobu użytkowania poddasza wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Filtrowa 51",
+"dz": "146506_8 0104 45/1",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "34/2023"
+}
+},
+{
+"d": "2023-09-11",
+"c": {
+"inw": "przebudowa instalacji anten telefonii komórkowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółka ON Tower Poland Sp. z o. o.",
+"nier": "Uniwersytecka 1",
+"dz": "146506_8 0205 70",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "33/2023"
+}
+},
+{
+"d": "2023-09-11",
+"c": {
+"inw": "przebudowa balustrady tarasu w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa ,,Ochota''",
+"nier": "8",
+"dz": "146506_8 0313 45",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "32/2023"
+}
+},
+{
+"d": "2023-09-04",
+"c": {
+"inw": "przebudowa lokalu mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Bracławska 129/16",
+"dz": "146506_8 0323 58",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "31/2023"
+}
+},
+{
+"d": "2023-08-24",
+"c": {
+"inw": "Przebudowa ściany wewnętrznej konstrukcyjnej w zakresie poszerzenia otworu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Outriders Spółka not-for-profit Sp. z o.o.",
+"nier": "Rokosowska 8",
+"dz": "146506_8 0206 87/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "30/2023"
+}
+},
+{
+"d": "2023-08-24",
+"c": {
+"inw": "zmiana pozwolenia na budowę nr 49/2022 z 14.09.2022, dot. przebudowy i zmiany sposobu użytkowania pomieszczenia w południowym skrzydle budynku Wydziału Chemii UW wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersytet Warszawski",
+"nier": "Pasteura 1 / Ludwika",
+"dz": "146506_8 0209 3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "29/2023"
+}
+},
+{
+"d": "2023-08-23",
+"c": {
+"inw": "remont elewacji, balkonów i dachu budynku wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SM \"Nasze Ognisko\"",
+"nier": "Filtrowa 69",
+"dz": "146506_8 0205 21/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "28/2023"
+}
+},
+{
+"d": "2023-08-22",
+"c": {
+"inw": "przebudowa instalacje elektrycznych wewnątrz i na zewnątrz budynku DKW wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiebiorstwo Wodociagów i Kanalizacji m.st. Warszawie",
+"nier": "Koszykowa 81",
+"dz": "146506_8 0103 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "26/2023"
+}
+},
+{
+"d": "2023-08-22",
+"c": {
+"inw": "remont elewacji budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości nr 12 przy ul. Joteyki",
+"nier": "Joteyki 12 / Tadeusza",
+"dz": "146506_8 0204 88",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "27/2023"
+}
+},
+{
+"d": "2023-07-14",
+"c": {
+"inw": "budowa zbiorników retencyjnych na terenie Zespołu Szkół Publicznych dawnej \"Kolejówki\" budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Ochota",
+"nier": "Szczęśliwicka 56",
+"dz": "146506_8 0303 5/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "25/2023"
+}
+},
+{
+"d": "2023-07-14",
+"c": {
+"inw": "budowa zbiorników retencyjnych na terenie Zespołu Szkół Publicznych dawnej \"Kolejówki\" budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Ochota",
+"nier": "Szczęśliwicka 56",
+"dz": "146506_8 0303 5/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "25/2023"
+}
+},
+{
+"d": "2023-07-14",
+"c": {
+"inw": "budowa zbiorników retencyjnych na terenie Zespołu Szkół Publicznych dawnej \"Kolejówki\" budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa Dzielnica Ochota",
+"nier": "Szczęśliwicka 56",
+"dz": "146506_8 0303 5/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "25/2023"
+}
+},
+{
+"d": "2023-06-27",
+"c": {
+"inw": "przebudowa(modernizacja) istniejącej fontanny oraz budowa podziemnej komory technologicznej na terenie Zakładu Centralnego wraz z instalacjami zewnętrznymi budowa nowego/nowych obiektów budowlanych",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie",
+"nier": "Koszykowa 81",
+"dz": "146506_8 0103 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "24/2023"
+}
+},
+{
+"d": "2023-06-20",
+"c": {
+"inw": "Wycięcie otworu drzwiowego w ścianie nośnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Pawińskiego 18 / Adolfa",
+"dz": "146506_8 0309 53/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "23/2023"
+}
+},
+{
+"d": "2023-06-14",
+"c": {
+"inw": "budowa trzech instalacji gazowych niskiego ciśnienia dla istniejącego budynku usługowego i projektowanego budynku mieszkalnego wielorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "Fabud System Sp. z o.o.",
+"nier": "Drygały / Mikołaja",
+"dz": "146506_8 0317 46/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "22/2023"
+}
+},
+{
+"d": "2023-06-14",
+"c": {
+"inw": "budowa trzech instalacji gazowych niskiego ciśnienia dla istniejącego budynku usługowego i projektowanego budynku mieszkalnego wielorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "Fabud System Sp. z o.o.",
+"nier": "Drygały / Mikołaja",
+"dz": "146506_8 0317 46/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "22/2023"
+}
+},
+{
+"d": "2023-06-14",
+"c": {
+"inw": "budowa trzech instalacji gazowych niskiego ciśnienia dla istniejącego budynku usługowego i projektowanego budynku mieszkalnego wielorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "Fabud System Sp. z o.o.",
+"nier": "Drygały / Mikołaja",
+"dz": "146506_8 0317 34/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "22/2023"
+}
+},
+{
+"d": "2023-06-12",
+"c": {
+"inw": "Przebudowa schodów zewnętrznych wraz z montażem podnośnika dla niepełnosprawnych w głównym wejściu budynku Narodowego Instytutu Onkologii im. Marii Skłodowskiej-Curie Państwowego Instytutu Badawczego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie Państwowy Instytut Badawczy",
+"nier": "Wawelska 15",
+"dz": "146506_8 0209 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "21/2023"
+}
+},
+{
+"d": "2023-05-29",
+"c": {
+"inw": "Docieplenie budynku mieszkalnego przy ul. Grójeckiej 53/57 w Warszawie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości Grójecka 53/57",
+"nier": "Grójecka 53/57",
+"dz": "146506_8 0208 3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "20/2023"
+}
+},
+{
+"d": "2023-05-08",
+"c": {
+"inw": "przebudowa - wzmocnienie konstrukcji i remont dachu budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości",
+"nier": "Joteyki 12 / Tadeusza",
+"dz": "146506_8 0204 88",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "19/2023"
+}
+},
+{
+"d": "2023-04-18",
+"c": {
+"inw": "remont części pomieszczeń szpitala wpisanego do rejestru zabytków oraz zmiana warunków wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersyteckie Centrum Zdrowia Kobiety i Noworodka Warszawskiego Uniwersytetu Medycznego Sp z o.o.",
+"nier": "Plac Sokratesa Starynkiewicza 1/3",
+"dz": "146506_8 0101 3/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "17/2023"
+}
+},
+{
+"d": "2023-04-14",
+"c": {
+"inw": "budowa stacji ładowania pojazdów wraz zwiatą nad stanowiskami mdo ładowania oraz pylonem cenowym i gablotą informacyjną budowa nowego/nowych obiektów budowlanych",
+"wn": "Ekoen Sp. z o.o.",
+"nier": "",
+"dz": "146506_8 0301 31",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "16/2023"
+}
+},
+{
+"d": "2023-04-14",
+"c": {
+"inw": "budowa stacji ładowania pojazdów wraz zwiatą nad stanowiskami mdo ładowania oraz pylonem cenowym i gablotą informacyjną budowa nowego/nowych obiektów budowlanych",
+"wn": "Ekoen Sp. z o.o.",
+"nier": "",
+"dz": "146506_8 0301 32/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "16/2023"
+}
+},
+{
+"d": "2023-04-05",
+"c": {
+"inw": "budowa budynku mieszkalnego wielorodzinnego budowa nowego/nowych obiektów budowlanych",
+"wn": "Fabud System Sp. z o.o.",
+"nier": "Drygały / Mikołaja",
+"dz": "146506_8 0317 34/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "15/2023"
+}
+},
+{
+"d": "2023-03-27",
+"c": {
+"inw": "przebudowa ścian nośnych - otworów w lokalu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Langiewicza 17 / Mariana",
+"dz": "146506_8 0104 93",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "14/2023"
+}
+},
+{
+"d": "2023-03-10",
+"c": {
+"inw": "przebudowa (połączenie) lokali mieszkalnych nr 122 i nr 89 w budynku mieszkalnym przy ul. Grójeciej 214 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Grójecka 214",
+"dz": "146506_8 0319 79",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "13/2023"
+}
+},
+{
+"d": "2023-03-09",
+"c": {
+"inw": "rozbudowa wejścia do domu studenckiego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Politechnika Warszawska",
+"nier": "Akademicka 5",
+"dz": "146506_8 0205 65/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "12/2023"
+}
+},
+{
+"d": "2023-03-07",
+"c": {
+"inw": "Budynek mieszkalny wielorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "SONO Development VII Sp. z o.o.",
+"nier": "Lutniowa 28",
+"dz": "146506_8 0319 60",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "11/2023"
+}
+},
+{
+"d": "2023-02-16",
+"c": {
+"inw": "przebudowa instalacji sprężonego powietrza w Zakładzie Filtrów Pośpiesznych, Zakład Centralny wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st.Warszawie",
+"nier": "Koszykowa 81",
+"dz": "146506_8 0103 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "10/2023"
+}
+},
+{
+"d": "2023-02-10",
+"c": {
+"inw": "rozbiórka budynku mieszkalnego jednorodzinnego rozbiórka istniejącego obiektu budowlanego",
+"wn": "Sono Development III Sp. z o.o.",
+"nier": "Bielska 16",
+"dz": "146506_8 0319 14/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "8/2023"
+}
+},
+{
+"d": "2023-02-10",
+"c": {
+"inw": "przebudowa przegrody zewnętrznej - pwyburzenie ściany podokiennej i wstawienie drzwi w światło okna wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Plenilunium Jakub Cydzik",
+"nier": "Białobrzeska 4",
+"dz": "146506_8 0308 49/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "7/2023"
+}
+},
+{
+"d": "2023-02-10",
+"c": {
+"inw": "przebudowa okapu dachowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa ul. Grójecka 64",
+"nier": "64",
+"dz": "146506_8 0206 26",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "9/2023"
+}
+},
+{
+"d": "2023-02-07",
+"c": {
+"inw": "Przebudowa w zakresie wymiany i powiększenia części okien w lokalu mieszkalnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146506_8 0303 10/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6/2023"
+}
+},
+{
+"d": "2023-02-02",
+"c": {
+"inw": "przebudowa lokalu mieszkalnego nr 115 i 116 w budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Grójecka 214",
+"dz": "146506_8 0319 79",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "5/2023"
+}
+},
+{
+"d": "2023-01-19",
+"c": {
+"inw": "przebudowa usunięcie otworu na schody w celu wydzielenia lokali mieszkalnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Uniwersytecka",
+"dz": "146506_8 0205 70",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "3/2023"
+}
+},
+{
+"d": "2023-01-16",
+"c": {
+"inw": "wykonanie otwory drzwiowego w aptece ogólnodostępnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Apteki Warszawskie Sp. z o.o.",
+"nier": "Grójecka 132",
+"dz": "146506_8 0313 45",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "2/2023"
+}
+},
+{
+"d": "2023-01-16",
+"c": {
+"inw": "Wykonanie otworu drzwiowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Apteki Warszawskie Sp z o.o.",
+"nier": "Grójecka 132",
+"dz": "146506_8 0313 45",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "2/2023"
+}
+},
+{
+"d": "2023-01-13",
+"c": {
+"inw": "wykucie otworu na drzwi w ścianie nosnej, podział mieszkania na dwa odrębne lokale mieszkalne, przywrócenie stanu pierwotnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Tarczyńska 5/9",
+"dz": "146506_8 0202 10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "1/2023"
+}
+}
+]
+}
+]
+}

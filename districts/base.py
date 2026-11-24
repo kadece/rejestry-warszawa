@@ -9,9 +9,112 @@ Dzielnica dostarcza tylko:
 Reszta (pobieranie, parsowanie, składanie JSON-a) jest tutaj.
 """
 import datetime as dt
+import hashlib
+import html
 import os
+import re
+import urllib.parse
 
 import parsers
+
+
+MONTH_ROMAN = {'i': 1, 'ii': 2, 'iii': 3, 'iv': 4, 'v': 5, 'vi': 6, 'vii': 7,
+               'viii': 8, 'ix': 9, 'x': 10, 'xi': 11, 'xii': 12}
+
+
+def month_from_name(name, year):
+    """Numer miesiąca (1-12) wyciągnięty z nazwy pliku; 0 gdy brak/roczny.
+
+    Urzędy nie są konsekwentne: «10_2026», « 9_2025», «12-2022»,
+    „_VIII_2025”, „luty_2026”, „czerwiec-2026” — łapiemy wszystko.
+    """
+    low = parsers.fold(name.lower())
+    m = re.search(r'[^\d](\d{1,2})\s*[-_, ]{0,3}%d(?!\d)' % year, name)
+    if m:
+        v = int(m.group(1))
+        if 1 <= v <= 12:
+            return v
+    m = re.search(r'[_ ]((?:xii|xi|x|ix|viii|vii|vi|v|iv|iii|ii|i))'
+                  r'[_ ]*%d(?!\d)' % year, low)
+    if m and m.group(1) in MONTH_ROMAN:
+        return MONTH_ROMAN[m.group(1)]
+    for w, mo in parsers.MONTH_WORDS.items():
+        if re.search(r'[^a-z]%s[^a-z]{0,3}%d(?!\d)' % (w, year), low):
+            return mo
+    # układ odwrotny: rok przed miesiącem — „2020__MARZEC”, „2020_09”
+    m = re.search(r'%d\s*[-_, ]{0,3}(\d{1,2})(?!\d)' % year, name)
+    if m:
+        v = int(m.group(1))
+        if 1 <= v <= 12:
+            return v
+    m = re.search(r'%d[^a-z0-9]{0,3}'
+                  r'((?:xii|xi|x|ix|viii|vii|vi|v|iv|iii|ii|i))(?![a-z])'
+                  % year, low)
+    if m and m.group(1) in MONTH_ROMAN:
+        return MONTH_ROMAN[m.group(1)]
+    for w, mo in parsers.MONTH_WORDS.items():
+        if re.search(r'%d[^a-z0-9]{0,3}%s\b' % (year, w), low):
+            return mo
+    return 0
+
+
+def year_from_name(name):
+    """Rok z nazwy pliku albo None."""
+    m = re.search(r'(20\d{2})', name)
+    return int(m.group(1)) if m else None
+
+
+def fetch_page(url, cache, referer, offline=False, verify_ssl=True):
+    """Pobiera stronę (albo czyta ją z cache) i zwraca HTML."""
+    if offline:
+        if not os.path.exists(cache):
+            raise RuntimeError('brak pliku %s' % os.path.basename(cache))
+        with open(cache, encoding='utf-8', errors='replace') as f:
+            return f.read()
+    content = parsers.fetch(url, referer, verify_ssl=verify_ssl).decode('utf-8', 'replace')
+    os.makedirs(os.path.dirname(cache), exist_ok=True)
+    with open(cache, 'w', encoding='utf-8') as f:
+        f.write(content)
+    return content
+
+
+_DOC_LINK = re.compile(
+    r'href="((?:https?://cdn\.um\.warszawa\.pl)?/documents/[^"]+)"', re.I)
+
+
+def um_documents(content):
+    """Załączniki /documents/ z CMS stron um.warszawa.pl.
+
+    Link ma postać /documents/<id>/<id>/<nazwa+pliku>.xlsx/<uuid>?t=...
+    (czasem z pełną domeną cdn.um.warszawa.pl). Nazwa pliku wychodzi
+    z przedostatniego segmentu URL (plusy kodują spacje).
+    Zwraca listę {'name', 'url'}.
+    """
+    out = []
+    for m in _DOC_LINK.finditer(content):
+        url = m.group(1)
+        seg = url.split('?')[0].rstrip('/').split('/')
+        raw = seg[-2] if len(seg) > 2 else seg[-1]
+        name = html.unescape(urllib.parse.unquote(raw)).replace('+', ' ')
+        if not re.search(r'\.(xlsx|xls|pdf)$', name, re.I):
+            continue
+        out.append({'name': name,
+                    'url': 'https://cdn.um.warszawa.pl' + url
+                           if url.startswith('/') else url})
+    return out
+
+
+def att_file(att, kind, year, month=0, limit=50):
+    """Nazwa pliku cache dla załącznika — deterministyczna i unikalna.
+
+    Skrót URL w nazwie rozdziela dwa arkusze o tej samej nazwie
+    (urząd bywa wgrany poprawkę albo dwa rejestry pod jednym tytułem)
+    — dzięki temu cache w raw/ po pobraniu offline daje te same dane.
+    """
+    stem, ext = os.path.splitext(att['name'])
+    h = hashlib.md5(att['url'].encode('utf-8')).hexdigest()[:6]
+    return '%s_%04d_%02d_%s_%s%s' % (kind, year, month,
+                                     parsers.safe_name(stem, limit), h, ext)
 
 
 def build_year(dist, year, raw_dir, offline=False):
@@ -83,6 +186,22 @@ def build_year(dist, year, raw_dir, offline=False):
             except Exception as e:
                 print('  ! parsowanie %s: %s' % (att['file'], e))
                 continue
+
+            # Plik łączony (WZ i CP w jednym) — wiersze rozdzielamy po
+            # treści znaku sprawy, np. „86/WZ/MOK/2022” vs „25/CP/MOK/2022”.
+            flt = att.get('nr_filter')
+            if flt:
+                before = len(part)
+                part = [r for r in part
+                        if re.search(flt, r['c'].get('nr') or '', re.I)]
+                if before != len(part):
+                    print('    ~ %-44s filtr %-6s: %d -> %d'
+                          % (att['file'][:44], flt, before, len(part)))
+            if cfg.get('by_date_year'):
+                # rejestr skumulowany (kilka lat w jednym pliku) — kroimy
+                # wiersze po dacie z wiersza, nie po nazwie pliku
+                part = [r for r in part
+                        if r['d'] and r['d'][:4] == str(year)]
             if part:
                 rows.extend(part)
                 used.append(att['file'])

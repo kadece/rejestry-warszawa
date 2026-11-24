@@ -18,6 +18,7 @@ Z jednego wiersza robimy dwie pozycje:
 import csv
 import io
 import os
+import time
 import zipfile
 
 import parsers
@@ -57,15 +58,31 @@ COLS_DEC = [('nr', 'Numer decyzji', 'nr'),
             ('rodz', 'Rodzaj inwestycji', '')]
 
 
-def download(raw_dir, offline=False):
-    """Pobiera (raz) plik zbiorczy i zwraca ścieżkę do ZIP-a."""
+def download(raw_dir, offline=False, max_age_h=20):
+    """Pobiera plik zbiorczy i zwraca ścieżkę do ZIP-a.
+
+    GUNB publikuje nową paczkę co noc. Przy powtórnych buildach tego
+    samego dnia nie ma sensu ściągać ~47 MB ponownie — zip młodszy
+    niż `max_age_h` godzin jest brany z cache (na runnerze CI cache
+    i tak jest zawsze zimny, więc niczego nie psuje).
+    """
     os.makedirs(raw_dir, exist_ok=True)
     dest = os.path.join(raw_dir, ZIP_NAME)
-    if offline:
-        if not os.path.exists(dest):
-            raise RuntimeError('brak pliku %s' % ZIP_NAME)
-        return dest
-    size = parsers.download(URL, dest, 'https://wyszukiwarka.gunb.gov.pl/')
+    if os.path.exists(dest):
+        if offline:
+            return dest
+        age_h = (time.time() - os.path.getmtime(dest)) / 3600.0
+        if age_h < max_age_h:
+            print('  = %-46s (cache %4.1f h)' % (ZIP_NAME, age_h))
+            return dest
+    elif offline:
+        raise RuntimeError('brak pliku %s' % ZIP_NAME)
+    # wyszukiwarka.gunb.gov.pl serwuje łańcuch certyfikatów, który nie
+    # przechodzi weryfikacji („self-signed certificate in chain”), więc
+    # weryfikację pomijamy — to publiczny plik zbiorczy, odstępstwa widać
+    # po rozmiarze i liczbie pozycji.
+    size = parsers.download(URL, dest, 'https://wyszukiwarka.gunb.gov.pl/',
+                           verify_ssl=False)
     print('  + %-46s %7d B' % (ZIP_NAME, size))
     return dest
 

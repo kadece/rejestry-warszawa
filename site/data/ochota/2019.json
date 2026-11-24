@@ -1,0 +1,4492 @@
+{
+"district": "ochota",
+"year": 2019,
+"generated": "2026-11-24T21:22:48+01:00",
+"total": 400,
+"registers": [
+{
+"id": "wn_pnb",
+"name": "Wnioski o pozwolenie na budowę",
+"short": "Wnioski PnB",
+"desc": "Wnioski o pozwolenie na budowę złożone do organu architektoniczno-budowlanego dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer wniosku",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2019-12-31",
+"c": {
+"inw": "budowa stacji dwutransformatorowej SN-15kV/nN-0,4 kV, dwóch ładowarek dla autobusów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "MZA Sp. z o.o.",
+"nier": "Dickensa / Karola",
+"dz": "146506_8 0313 13/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.4.2020.EZA"
+}
+},
+{
+"d": "2019-12-20",
+"c": {
+"inw": "przebudowa lokalu handlowego na fragmencie parteru wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "BLUE CITY Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 179",
+"dz": "146506_8 0302 42",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.133.2019.MAJ"
+}
+},
+{
+"d": "2019-12-20",
+"c": {
+"inw": "przebudowa lokalu handlowego na fragmencie parteru wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "BLUE CITY Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 179",
+"dz": "146506_8 0302 43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.133.2019.MAJ"
+}
+},
+{
+"d": "2019-12-20",
+"c": {
+"inw": "przebudowa lokalu handlowego na fragmencie parteru wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "BLUE CITY Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 179",
+"dz": "146506_8 0302 46",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.133.2019.MAJ"
+}
+},
+{
+"d": "2019-12-19",
+"c": {
+"inw": "Budynek mieszkalny jednorodzinny budowa nowego/nowych obiektów budowlanych",
+"wn": "",
+"nier": "Lirowa 15",
+"dz": "146506_8 0319 54",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.2.2020.TGR"
+}
+},
+{
+"d": "2019-12-19",
+"c": {
+"inw": "Zabudowa tarasu przynależnego do lokalu nr 25 przy ul. Harfowej 4, w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zawadzcy",
+"nier": "4",
+"dz": "146506_8 0313 50",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.1.2020.TGR"
+}
+},
+{
+"d": "2019-12-16",
+"c": {
+"inw": "przebudowa pomieszczeń na +7 na potrzeby biura firmy MICHAEL/STROM Dom Maklerski S.A. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Cirrus Real Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 100",
+"dz": "146506_8 0204 1/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.131.2019.MAJ"
+}
+},
+{
+"d": "2019-12-11",
+"c": {
+"inw": "rozbudowa istniejącego budynku warsztatu rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Renault Retail Group Warszawa sp. z o.o.",
+"nier": "Aleje Jerozolimskie 156",
+"dz": "146506_8 0304 16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.3.2020.EZA"
+}
+},
+{
+"d": "2019-12-10",
+"c": {
+"inw": "Demontaż instalacji gazowej w pomieszczeniach nr 207, 404 i 412 w budynku przy ul. L. Pasteura 7 w Warszawie rozbiórka istniejącego obiektu budowlanego",
+"wn": "Uniwersytet Warszawski",
+"nier": "Pasteura 7 / Ludwika",
+"dz": "146506_8 0209 18/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6741.9.2019.DMO"
+}
+},
+{
+"d": "2019-12-04",
+"c": {
+"inw": "budowa instalacji gazowej w lokalu usługowym nr 151 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"Aleje Jerozolimskie\"",
+"nier": "Aleje Jerozolimskie 89",
+"dz": "146506_8 0102 23",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.129.2019.MAJ"
+}
+},
+{
+"d": "2019-11-28",
+"c": {
+"inw": "wykonanie trzech pionowych szachtów technicznych w lokalach PKP CARGO S.A. nr 1 i 2B wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PKP CARGO S.A.",
+"nier": "Grójecka 17",
+"dz": "146506_8 0202 19/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.126.2019.MAJ"
+}
+},
+{
+"d": "2019-11-25",
+"c": {
+"inw": "Etapowa budowa budynków szpitala (etap I: budynek \"D\" wraz z rozbiórkami budynków, budynek tlenowni, stacji transformatorowej, etap II: budynek \"E\"), etap III: przebudowa budynku \"A\" wraz z zagospodarowaniem terenu i niezbędną infrastrukturą techniczną, a także murami oporowymi, dla inwestycji polegającej na \"rozbudowie, przebudowie i modernizacji budynku szpitala przy ul. Barskiej 16/20 w Warszawie.\" budowa nowego/nowych obiektów budowlanych",
+"wn": "Mazowieckie Centrum Rehabilitacji Stocer Sp. z o.o.",
+"nier": "Barska 16/20",
+"dz": "146506_8 0204 95/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.20.2019.EZA"
+}
+},
+{
+"d": "2019-11-14",
+"c": {
+"inw": "Remont elewacji, balkonów, balustrad, kominów i wymiana okienek piwnicznych, remont daszków i wykuszy budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa \"Rakowiec\"",
+"nier": "Sanocka 10",
+"dz": "146506_8 0315 22",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.120.2019.DMO"
+}
+},
+{
+"d": "2019-11-14",
+"c": {
+"inw": "Remont elewacji, balkonów, balustrad, kominów i wymiana okienek piwnicznych, remont daszków i wykuszy budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa \"Rakowiec\"",
+"nier": "Sanocka 10",
+"dz": "146506_8 0315 25/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.120.2019.DMO"
+}
+},
+{
+"d": "2019-11-14",
+"c": {
+"inw": "Remont elewacji z ociepleniem ścian, remontem balkonów i loggii budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa \"Rakowiec\"",
+"nier": "Sanocka 1/3",
+"dz": "146506_8 0315 13/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.118.2019.DMO"
+}
+},
+{
+"d": "2019-11-13",
+"c": {
+"inw": "budowa instalacji gazowej do celów zasilania kotłów gazowych w kotłowni wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "HASCO REAL ESTATE Sp. z o.o. Sp.k.",
+"nier": "Aleje Jerozolimskie 154",
+"dz": "146506_8 0301 37/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.125.2019.MAJ"
+}
+},
+{
+"d": "2019-10-31",
+"c": {
+"inw": "Projekt zamienny dla budynku mieszkalnego wielorodzinnego z usługami i garażem podziemnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Yuniversal Development Sp. z o.o.",
+"nier": "Lirowa",
+"dz": "146506_8 0319 36/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Ud-V-WAB.6740.115.2019.TGR"
+}
+},
+{
+"d": "2019-10-30",
+"c": {
+"inw": "przebudowa powierzchni biurowej na piętrze +7 na potrzeby biura firmy EXECON ONE Sp. z o.o. w budynku EQUATOR IV wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Cirrus Real Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 100",
+"dz": "146506_8 0203 35",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD.V.WAB.6740.109.2019.MAJ"
+}
+},
+{
+"d": "2019-10-30",
+"c": {
+"inw": "przebudowa powierzchni biurowej na piętrze +7 na potrzeby biura firmy EXECON ONE Sp. z o.o. w budynku EQUATOR IV wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Cirrus Real Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 100",
+"dz": "146506_8 0204 1/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD.V.WAB.6740.109.2019.MAJ"
+}
+},
+{
+"d": "2019-10-29",
+"c": {
+"inw": "przebudowa zespołu boisk wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zgromadzenie Zakonne Małe Dzieło Boskiej Opatrzności - Orioniści Prowincja Polska",
+"nier": "Barska 4",
+"dz": "146506_8 0204 110",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.113.2019.EZA"
+}
+},
+{
+"d": "2019-10-29",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z usługami i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "SONO Development Sp. z o.o. IV Sp. k.",
+"nier": "Harfowa 10",
+"dz": "146506_8 0313 47/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.114.2019.TGR"
+}
+},
+{
+"d": "2019-10-29",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z usługami i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "SONO Development Sp. z o.o. IV Sp. k.",
+"nier": "Harfowa 10",
+"dz": "146506_8 0313 48/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.114.2019.TGR"
+}
+},
+{
+"d": "2019-10-29",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z usługami i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "SONO Development Sp. z o.o. IV Sp. k.",
+"nier": "Harfowa 10",
+"dz": "146506_8 0313 51/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.114.2019.TGR"
+}
+},
+{
+"d": "2019-10-28",
+"c": {
+"inw": "Częściowa przebudowa kondygnacji +28 w celu adaptacji wnętrz biurowych lokalu na funkcję klubową wraz ze zmianą wewnętrznej klatschodowej na kondygnacji +27. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CLUB 27 Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 123A",
+"dz": "146506_8 0101 22",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.108.2019.MAJ"
+}
+},
+{
+"d": "2019-10-25",
+"c": {
+"inw": "wybicie otworu drzwiowego w ścianie konstrukcyjnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Orzeszkowej 8 / Elizy",
+"dz": "146506_8 0307 32/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.112.2019.EZA"
+}
+},
+{
+"d": "2019-10-25",
+"c": {
+"inw": "wybicie otworu drzwiowego w ścianie konstrukcyjnnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Orzeszkowej 8 / Elizy",
+"dz": "146506_8 0307 32/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.111.2019.EZA"
+}
+},
+{
+"d": "2019-10-25",
+"c": {
+"inw": "Dostosowanie w zakresie architektury budynku nr 10 do warunków ochrony przeciwpożarowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawskie Zakłady Sprzetu Ortopedycznego S.A.",
+"nier": "9",
+"dz": "146506_8 0302 44/32",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740107.2019.MAJ"
+}
+},
+{
+"d": "2019-10-24",
+"c": {
+"inw": "przebudowa przychodni - parter i wejścia zewnętrzne wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SZPZLO Warszawa-Ochota",
+"nier": "Szczęśliwicka 36",
+"dz": "146506_8 0203 26",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.100.2019.EZA"
+}
+},
+{
+"d": "2019-10-18",
+"c": {
+"inw": "budowa i rozbiórka podziemnej sieci elektroenergetycznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Innogy Stoen Operator Sp. z o.o.",
+"nier": "Urbanistów",
+"dz": "146506_8 0113 7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.110.2019.EZA"
+}
+},
+{
+"d": "2019-10-15",
+"c": {
+"inw": "Przebudowa lokalu usługowego na restaurację SEAFOODSTATION wraz z instalacjami w budynku Nowogrodzka SQUARE wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SEA AND SEE Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 93",
+"dz": "146506_8 0102 19/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.106.2019.MAJ"
+}
+},
+{
+"d": "2019-10-14",
+"c": {
+"inw": "Demontaż piecyków gazowych oraz części lokalówek instalacji gazowej zasilającej piecyki gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości Wolnej Wszechnicy 4",
+"nier": "Wolnej Wszechnicy 4",
+"dz": "146506_8 0208 24",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.102.2019.DMO"
+}
+},
+{
+"d": "2019-10-03",
+"c": {
+"inw": "projekt zamienny do przebudowy i rozbudowy części Centrum Handlowego Atrium Reduta 1 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Atrium Reduta Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 148",
+"dz": "146506_8 0301 34",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.104.2019.MAJ"
+}
+},
+{
+"d": "2019-10-03",
+"c": {
+"inw": "projekt zamienny do przebudowy i rozbudowy części Centrum Handlowego Atrium Reduta 1 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Atrium Reduta Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 148",
+"dz": "146506_8 0301 33/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.104.2019.MAJ"
+}
+},
+{
+"d": "2019-10-03",
+"c": {
+"inw": "projekt zamienny do przebudowy i rozbudowy części Centrum Handlowego Atrium Reduta 1 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Atrium Reduta Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 148",
+"dz": "146506_8 0301 32/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.104.2019.MAJ"
+}
+},
+{
+"d": "2019-10-03",
+"c": {
+"inw": "projekt zamienny do przebudowy i rozbudowy części Centrum Handlowego Atrium Reduta 1 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Atrium Reduta Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 148",
+"dz": "146506_8 0301 32/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.104.2019.MAJ"
+}
+},
+{
+"d": "2019-10-03",
+"c": {
+"inw": "projekt zamienny do przebudowy i rozbudowy części Centrum Handlowego Atrium Reduta 1 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Atrium Reduta Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 148",
+"dz": "146506_8 0301 32/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.104.2019.MAJ"
+}
+},
+{
+"d": "2019-10-03",
+"c": {
+"inw": "projekt zamienny do przebudowy i rozbudowy części Centrum Handlowego Atrium Reduta 1 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Atrium Reduta Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 148",
+"dz": "146506_8 0301 31",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.104.2019.MAJ"
+}
+},
+{
+"d": "2019-10-03",
+"c": {
+"inw": "przebudowa części Centrum Handlowego Reduta 2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Atrium Reduta Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 148",
+"dz": "146506_8 0301 34",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.105.2019.MAJ"
+}
+},
+{
+"d": "2019-10-03",
+"c": {
+"inw": "przebudowa części Centrum Handlowego Reduta 2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Atrium Reduta Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 148",
+"dz": "146506_8 0301 33/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.105.2019.MAJ"
+}
+},
+{
+"d": "2019-10-03",
+"c": {
+"inw": "przebudowa części Centrum Handlowego Reduta 2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Atrium Reduta Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 148",
+"dz": "146506_8 0301 32/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.105.2019.MAJ"
+}
+},
+{
+"d": "2019-10-03",
+"c": {
+"inw": "przebudowa części Centrum Handlowego Reduta 2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Atrium Reduta Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 148",
+"dz": "146506_8 0301 32/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.105.2019.MAJ"
+}
+},
+{
+"d": "2019-10-03",
+"c": {
+"inw": "przebudowa części Centrum Handlowego Reduta 2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Atrium Reduta Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 148",
+"dz": "146506_8 0301 32/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.105.2019.MAJ"
+}
+},
+{
+"d": "2019-10-03",
+"c": {
+"inw": "przebudowa części Centrum Handlowego Reduta 2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Atrium Reduta Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 148",
+"dz": "146506_8 0301 31",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.105.2019.MAJ"
+}
+},
+{
+"d": "2019-10-01",
+"c": {
+"inw": "przebudowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Miaszkaniowa Nieruchomosci nr 16 przy ul.Kaliskiej",
+"nier": "Kaliska 16",
+"dz": "146506_8 0204 31",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.101.2019.EZA"
+}
+},
+{
+"d": "2019-09-27",
+"c": {
+"inw": "Budowa tymczasowego targowiska zastępczego budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa",
+"nier": "Skorochód-Majewskiego 5 / Walentego",
+"dz": "146506_8 0309 31",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.99.2019.DMO"
+}
+},
+{
+"d": "2019-09-24",
+"c": {
+"inw": "Zmiana pozwolenia - rozbudowa budynku Kliniki Chorób Wewnętrznych i Kardiologii mieszczącej się w Pawilonie 3 rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Szpital Kliniczny Dzieciątka Jezus",
+"nier": "Lindleya 4 / Williama Heerleina",
+"dz": "146506_8 0102 9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.103.2019.MAJ"
+}
+},
+{
+"d": "2019-09-12",
+"c": {
+"inw": "rozbiórka  łącznika naziemnego i sali gimnastycznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa",
+"nier": "Skorochód-Majewskiego 17 / Walentego",
+"dz": "146506_8 0214 30",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6741.8.2019.EZA"
+}
+},
+{
+"d": "2019-09-12",
+"c": {
+"inw": "budowa haki sportowej przy Szkole Podstawowej budowa nowego/nowych obiektów budowlanych",
+"wn": "Urząd m.st.Warszawy",
+"nier": "Skorochód-Majewskiego 17 / Walentego",
+"dz": "146506_8 0314 30",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740"
+}
+},
+{
+"d": "2019-09-10",
+"c": {
+"inw": "Montaz okna połaciowego w lokalu mieszkalnym-dwupoziomowym na IV kond. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Włodarzewska 57",
+"dz": "146506_8 0318 33",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.97.2019.TGR"
+}
+},
+{
+"d": "2019-09-05",
+"c": {
+"inw": "Przebudowa okna w lokalu mieszkalnym nr 11A ul. Kurhan 20, w budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kurhan 20",
+"dz": "146506_8 0306 7/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.96.2019.TGR"
+}
+},
+{
+"d": "2019-09-05",
+"c": {
+"inw": "wymiana rozdzielnic głównych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Politechnika Warszawska",
+"nier": "Kopińska 12/16",
+"dz": "146506_8 0204 137",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.88.2019.EZA"
+}
+},
+{
+"d": "2019-09-03",
+"c": {
+"inw": "Przebudowa okna w lokalu mieszklanym w budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kurhan 20",
+"dz": "146506_8 0306 7/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.87.2019.TGR"
+}
+},
+{
+"d": "2019-09-03",
+"c": {
+"inw": "Przebudowa pomieszczeń w części parteru i piwnicy oraz na I piętrze budynku szpitalnego na potrzeby oddziału położnictwa i neonatologii z zespołem porodowym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersyteckie Centrum Zdrowia Kobiety i Noworodka Warszawskiego Uniwersytetu Medycznego Sp. z o.o.",
+"nier": "Plac Sokratesa Starynkiewicza 1/3",
+"dz": "146506_8 0101 32/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.95.2019.MAJ"
+}
+},
+{
+"d": "2019-08-30",
+"c": {
+"inw": "ocieplenie elewacji wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszakniowa Nieruchomosci nr 6 przy ul.Baśniowej",
+"nier": "Baśniowa 6",
+"dz": "146506_8 0207 63",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.86.2019.EZA"
+}
+},
+{
+"d": "2019-08-29",
+"c": {
+"inw": "wymiana instalacji gazowej w lokalach mieszkalnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa \"Nowogrodzka 78\"",
+"nier": "Nowogrodzka 78",
+"dz": "146506_8 0101 23",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.93.2019.MAJ"
+}
+},
+{
+"d": "2019-08-29",
+"c": {
+"inw": "przebudowa schodów zewnętrznych do klatki nr IV i V wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości 109 al. Jerozolimskie",
+"nier": "Aleje Jerozolimskie 109",
+"dz": "146506_8 0101 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.94.2019.MAJ"
+}
+},
+{
+"d": "2019-08-22",
+"c": {
+"inw": "remont: elewacji, cokołów, gzymsów wieńczących, płyt balkonowych, balustrad, dachu, kominów, wymianę stolarki okiennej i drzwiowej, montaż nowych systemowych ław kominiarskich, wymianę daszka nad wejściem do budynku, demontaż tablic reklamowych, wymianę wszystkich obróbek blacharskich podokienników i gzymsu, oczyszczenie i pomalowanie farbą olejną wpustów żeliwnych wys. 200 cm w budynku mieszkalnym wielorodzinnym przy ul. S. Banacha 16 w Warszawie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości przy ul. Banacha 16",
+"nier": "Banacha 16 / Stefana",
+"dz": "146506_8 0208 35",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.84.2019.DMO"
+}
+},
+{
+"d": "2019-08-19",
+"c": {
+"inw": "Zamienny projekt budowlany budynku mieszklanego jednorodzinnego z garażem. W zakres zmian wchodzi dobudowanie części podziemnej w obrębie garażu. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "36",
+"dz": "146506_8 0312 19/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.85.2019.TGR"
+}
+},
+{
+"d": "2019-08-08",
+"c": {
+"inw": "budowa pomieszczeń na +11 na potrzeby biura firmy Forbis Group w budynku EQUATOR IV wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CIRRUS REAL. Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 100",
+"dz": "146506_8 0203 35",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.89.2019.MAJ"
+}
+},
+{
+"d": "2019-08-08",
+"c": {
+"inw": "budowa pomieszczeń na +11 na potrzeby biura firmy Forbis Group w budynku EQUATOR IV wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CIRRUS REAL. Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 100",
+"dz": "146506_8 0204 1/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.89.2019.MAJ"
+}
+},
+{
+"d": "2019-08-08",
+"c": {
+"inw": "budowa pomieszczeń na +11 na potrzeby biura firmy Forbis Group w budynku EQUATOR IV wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CIRRUS REAL. Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 100",
+"dz": "146506_8 0201 47/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.89.2019.MAJ"
+}
+},
+{
+"d": "2019-08-07",
+"c": {
+"inw": "projekt zamienny wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "3 i  3a",
+"dz": "146506_8 0309 17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.82.2019.EZA"
+}
+},
+{
+"d": "2019-08-07",
+"c": {
+"inw": "projekt zamienny wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "3 i  3a",
+"dz": "146506_8 0309 20/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.82.2019.EZA"
+}
+},
+{
+"d": "2019-08-05",
+"c": {
+"inw": "przebudowa lokalu sklepu spozywczego na fragmencie poziomu -1 w C.H. \"BLUE CITY\" wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "BLUE CITY Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 179",
+"dz": "146506_8 0302 42",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.92.2019.MAJ"
+}
+},
+{
+"d": "2019-08-05",
+"c": {
+"inw": "przebudowa lokalu sklepu spozywczego na fragmencie poziomu -1 w C.H. \"BLUE CITY\" wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "BLUE CITY Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 179",
+"dz": "146506_8 0302 43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.92.2019.MAJ"
+}
+},
+{
+"d": "2019-08-05",
+"c": {
+"inw": "przebudowa lokalu sklepu spozywczego na fragmencie poziomu -1 w C.H. \"BLUE CITY\" wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "BLUE CITY Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 179",
+"dz": "146506_8 0302 46",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.92.2019.MAJ"
+}
+},
+{
+"d": "2019-08-02",
+"c": {
+"inw": "przebudowa lokali mieszkalnych nr 83 i 84 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Aleja Bohaterów Września 18",
+"dz": "146506_8 0303 2/22",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.91.2019.MAJ"
+}
+},
+{
+"d": "2019-08-02",
+"c": {
+"inw": "przebudowa lokali mieszkalnych nr 83 i 84 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Aleja Bohaterów Września 18",
+"dz": "146506_8 0303 11/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.91.2019.MAJ"
+}
+},
+{
+"d": "2019-08-02",
+"c": {
+"inw": "Przebudowa w lokalach nr 30 i 32 w celu uzyskania nowej aranżacji międzylokalowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Baleya 7 / Stefana",
+"dz": "146506_8 0323 12/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.80.2019.DMO"
+}
+},
+{
+"d": "2019-08-01",
+"c": {
+"inw": "Rozbiórka obiektów budowlanych (pawilonów handlowych) objętych i oddziaływujących na planowaną inwestycję budowy budynku mieszkalnego z częścią usługowo-handlową oraz funkcją muzealną, garażem podziemnym, drogą pożarową, drogą wewnętrzną, wjazdami, dojściami i zagospodarowaniem terenu oraz pełną infrastrukturą techniczną rozbiórka istniejącego obiektu budowlanego",
+"wn": "Towarzystwo Budownictwa Społecznego Warszawa Południe Sp. z o. o.",
+"nier": "Grójecka",
+"dz": "146506_8 0309 2/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6741.6.2019.DMO"
+}
+},
+{
+"d": "2019-08-01",
+"c": {
+"inw": "Rozbiórka obiektów budowlanych (pawilonów handlowych) objętych i oddziaływujących na planowaną inwestycję budowy budynku mieszkalnego z częścią usługowo-handlową oraz funkcją muzealną, garażem podziemnym, drogą pożarową, drogą wewnętrzną, wjazdami, dojściami i zagospodarowaniem terenu oraz pełną infrastrukturą techniczną rozbiórka istniejącego obiektu budowlanego",
+"wn": "Towarzystwo Budownictwa Społecznego Warszawa Południe Sp. z o. o.",
+"nier": "Grójecka",
+"dz": "146506_8 0309 2/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6741.6.2019.DMO"
+}
+},
+{
+"d": "2019-08-01",
+"c": {
+"inw": "Rozbiórka obiektów budowlanych (pawilonów handlowych) objętych i oddziaływujących na planowaną inwestycję budowy budynku mieszkalnego z częścią usługowo-handlową oraz funkcją muzealną, garażem podziemnym, drogą pożarową, drogą wewnętrzną, wjazdami, dojściami i zagospodarowaniem terenu oraz pełną infrastrukturą techniczną rozbiórka istniejącego obiektu budowlanego",
+"wn": "Towarzystwo Budownictwa Społecznego Warszawa Południe Sp. z o. o.",
+"nier": "Grójecka",
+"dz": "146506_8 0309 3/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6741.6.2019.DMO"
+}
+},
+{
+"d": "2019-08-01",
+"c": {
+"inw": "Rozbiórka obiektów budowlanych (pawilonów handlowych) objętych i oddziaływujących na planowaną inwestycję budowy budynku mieszkalnego z częścią usługowo-handlową oraz funkcją muzealną, garażem podziemnym, drogą pożarową, drogą wewnętrzną, wjazdami, dojściami i zagospodarowaniem terenu oraz pełną infrastrukturą techniczną rozbiórka istniejącego obiektu budowlanego",
+"wn": "Towarzystwo Budownictwa Społecznego Warszawa Południe Sp. z o. o.",
+"nier": "Grójecka",
+"dz": "146506_8 0309 3/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6741.6.2019.DMO"
+}
+},
+{
+"d": "2019-08-01",
+"c": {
+"inw": "Rozbiórka obiektów budowlanych (pawilonów handlowych) objętych i oddziaływujących na planowaną inwestycję budowy budynku mieszkalnego z częścią usługowo-handlową oraz funkcją muzealną, garażem podziemnym, drogą pożarową, drogą wewnętrzną, wjazdami, dojściami i zagospodarowaniem terenu oraz pełną infrastrukturą techniczną rozbiórka istniejącego obiektu budowlanego",
+"wn": "Towarzystwo Budownictwa Społecznego Warszawa Południe Sp. z o. o.",
+"nier": "Grójecka",
+"dz": "146506_8 0309 3/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6741.6.2019.DMO"
+}
+},
+{
+"d": "2019-08-01",
+"c": {
+"inw": "Rozbiórka obiektów budowlanych (pawilonów handlowych) objętych i oddziaływujących na planowaną inwestycję budowy budynku mieszkalnego z częścią usługowo-handlową oraz funkcją muzealną, garażem podziemnym, drogą pożarową, drogą wewnętrzną, wjazdami, dojściami i zagospodarowaniem terenu oraz pełną infrastrukturą techniczną rozbiórka istniejącego obiektu budowlanego",
+"wn": "Towarzystwo Budownictwa Społecznego Warszawa Południe Sp. z o. o.",
+"nier": "Grójecka",
+"dz": "146506_8 0309 3/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6741.6.2019.DMO"
+}
+},
+{
+"d": "2019-08-01",
+"c": {
+"inw": "Rozbiórka obiektów budowlanych (pawilonów handlowych) objętych i oddziaływujących na planowaną inwestycję budowy budynku mieszkalnego z częścią usługowo-handlową oraz funkcją muzealną, garażem podziemnym, drogą pożarową, drogą wewnętrzną, wjazdami, dojściami i zagospodarowaniem terenu oraz pełną infrastrukturą techniczną rozbiórka istniejącego obiektu budowlanego",
+"wn": "Towarzystwo Budownictwa Społecznego Warszawa Południe Sp. z o. o.",
+"nier": "Grójecka",
+"dz": "146506_8 0309 61/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6741.6.2019.DMO"
+}
+},
+{
+"d": "2019-08-01",
+"c": {
+"inw": "Rozbiórka obiektów budowlanych (pawilonów handlowych) objętych i oddziaływujących na planowaną inwestycję budowy budynku mieszkalnego z częścią usługowo-handlową oraz funkcją muzealną, garażem podziemnym, drogą pożarową, drogą wewnętrzną, wjazdami, dojściami i zagospodarowaniem terenu oraz pełną infrastrukturą techniczną rozbiórka istniejącego obiektu budowlanego",
+"wn": "Towarzystwo Budownictwa Społecznego Warszawa Południe Sp. z o. o.",
+"nier": "Grójecka",
+"dz": "146506_8 0309 61/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6741.6.2019.DMO"
+}
+},
+{
+"d": "2019-08-01",
+"c": {
+"inw": "Rozbiórka obiektów budowlanych (pawilonów handlowych) objętych i oddziaływujących na planowaną inwestycję budowy budynku mieszkalnego z częścią usługowo-handlową oraz funkcją muzealną, garażem podziemnym, drogą pożarową, drogą wewnętrzną, wjazdami, dojściami i zagospodarowaniem terenu oraz pełną infrastrukturą techniczną rozbiórka istniejącego obiektu budowlanego",
+"wn": "Towarzystwo Budownictwa Społecznego Warszawa Południe Sp. z o. o.",
+"nier": "Grójecka",
+"dz": "146506_8 0309 61/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6741.6.2019.DMO"
+}
+},
+{
+"d": "2019-08-01",
+"c": {
+"inw": "Rozbiórka obiektów budowlanych (pawilonów handlowych) objętych i oddziaływujących na planowaną inwestycję budowy budynku mieszkalnego z częścią usługowo-handlową oraz funkcją muzealną, garażem podziemnym, drogą pożarową, drogą wewnętrzną, wjazdami, dojściami i zagospodarowaniem terenu oraz pełną infrastrukturą techniczną rozbiórka istniejącego obiektu budowlanego",
+"wn": "Towarzystwo Budownictwa Społecznego Warszawa Południe Sp. z o. o.",
+"nier": "Grójecka",
+"dz": "146506_8 0309 61/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6741.6.2019.DMO"
+}
+},
+{
+"d": "2019-08-01",
+"c": {
+"inw": "Rozbiórka obiektów budowlanych (pawilonów handlowych) objętych i oddziaływujących na planowaną inwestycję budowy budynku mieszkalnego z częścią usługowo-handlową oraz funkcją muzealną, garażem podziemnym, drogą pożarową, drogą wewnętrzną, wjazdami, dojściami i zagospodarowaniem terenu oraz pełną infrastrukturą techniczną rozbiórka istniejącego obiektu budowlanego",
+"wn": "Towarzystwo Budownictwa Społecznego Warszawa Południe Sp. z o. o.",
+"nier": "Grójecka",
+"dz": "146506_8 0309 61/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6741.6.2019.DMO"
+}
+},
+{
+"d": "2019-08-01",
+"c": {
+"inw": "Rozbiórka obiektów budowlanych (pawilonów handlowych) objętych i oddziaływujących na planowaną inwestycję budowy budynku mieszkalnego z częścią usługowo-handlową oraz funkcją muzealną, garażem podziemnym, drogą pożarową, drogą wewnętrzną, wjazdami, dojściami i zagospodarowaniem terenu oraz pełną infrastrukturą techniczną rozbiórka istniejącego obiektu budowlanego",
+"wn": "Towarzystwo Budownictwa Społecznego Warszawa Południe Sp. z o. o.",
+"nier": "Grójecka",
+"dz": "146506_8 0309 61/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6741.6.2019.DMO"
+}
+},
+{
+"d": "2019-08-01",
+"c": {
+"inw": "Rozbiórka obiektów budowlanych (pawilonów handlowych) objętych i oddziaływujących na planowaną inwestycję budowy budynku mieszkalnego z częścią usługowo-handlową oraz funkcją muzealną, garażem podziemnym, drogą pożarową, drogą wewnętrzną, wjazdami, dojściami i zagospodarowaniem terenu oraz pełną infrastrukturą techniczną rozbiórka istniejącego obiektu budowlanego",
+"wn": "Towarzystwo Budownictwa Społecznego Warszawa Południe Sp. z o. o.",
+"nier": "Grójecka",
+"dz": "146506_8 0309 1/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6741.6.2019.DMO"
+}
+},
+{
+"d": "2019-08-01",
+"c": {
+"inw": "Rozbiórka obiektów budowlanych (pawilonów handlowych) objętych i oddziaływujących na planowaną inwestycję budowy budynku mieszkalnego z częścią usługowo-handlową oraz funkcją muzealną, garażem podziemnym, drogą pożarową, drogą wewnętrzną, wjazdami, dojściami i zagospodarowaniem terenu oraz pełną infrastrukturą techniczną rozbiórka istniejącego obiektu budowlanego",
+"wn": "Towarzystwo Budownictwa Społecznego Warszawa Południe Sp. z o. o.",
+"nier": "Grójecka",
+"dz": "146506_8 0309 3/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6741.6.2019.DMO"
+}
+},
+{
+"d": "2019-08-01",
+"c": {
+"inw": "wykonanie dodatkowych drzwi wejściowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Grójecka 186",
+"dz": "146506_8 0313 63",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.81.2019.JUS"
+}
+},
+{
+"d": "2019-07-25",
+"c": {
+"inw": "Przebudowa fragmentu kondygnacji -2 parkingu podziemnego w celu realizacji pomieszczeń magazynowych w budynku biurowym \"Nowogrodzka Square\" wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "YAWA 20 Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 93",
+"dz": "146506_8 0102 19/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.93.2019.MAJ"
+}
+},
+{
+"d": "2019-07-18",
+"c": {
+"inw": "Przebudowa lokalu mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Uniwersytecka 1",
+"dz": "146506_8 0205 70",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.77.2019.DMO"
+}
+},
+{
+"d": "2019-07-17",
+"c": {
+"inw": "budowa salonu samochodów uzywanych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Renault Retail Group Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 156",
+"dz": "146506_8 0304 16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.76.2019.EZA"
+}
+},
+{
+"d": "2019-07-17",
+"c": {
+"inw": "salon samochodów używanych rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Renault Retail Group Warszawa Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 156",
+"dz": "146506_8 0304 16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.76.2019.EZA"
+}
+},
+{
+"d": "2019-07-04",
+"c": {
+"inw": "Przebudowa lokalu mieszkalnego nr 9 i 11 przy ul. Grójeckiej 45 w Warszawie wraz z połączeniem tych lokali schodami wewnętrznymi wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zgromadzenie Małych Sióstr Niepokalanego Serca Maryi",
+"nier": "Grójecka 45",
+"dz": "146506_8 0205 95",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.73.2019.DMO"
+}
+},
+{
+"d": "2019-07-02",
+"c": {
+"inw": "\"Dom Ronalda McDonalda\" - budynek zamieszkania zbiorowego ze strefą rekreacji dla dzieci oraz wiatą śmietnikową, zbiornikami retencyjnymi, parkingiem terenowym i infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Fundacja Ronalda McDonalda",
+"nier": "Trojdena / Księcia",
+"dz": "146506_8 0310 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.71.2019.DMO"
+}
+},
+{
+"d": "2019-07-01",
+"c": {
+"inw": "nadbudowa, zmiana sposobu uzytkowania strychu na cele mieszkalne, budowa windy nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "STANCER Sp. z o.o.",
+"nier": "Sękocińska 3",
+"dz": "146506_8 0204 85/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.74.2019.EZA"
+}
+},
+{
+"d": "2019-07-01",
+"c": {
+"inw": "nadbudowa, zmiana sposobu uzytkowania strychu na cele mieszkalne, budowa windy nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "STANCER Sp. z o.o.",
+"nier": "Sękocińska 3",
+"dz": "146506_8 0204 87/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.74.2019.EZA"
+}
+},
+{
+"d": "2019-06-26",
+"c": {
+"inw": "przebudowa wnetrz biura wraz z instalacjami wewnętrznymi wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "TouK sp. z o.o. s. k.a.",
+"nier": "Aleja Bohaterów Września 9",
+"dz": "146506_8 0302 44",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.72.2019.MAJ"
+}
+},
+{
+"d": "2019-06-25",
+"c": {
+"inw": "Remont i renowacja elewacji oraz dachu budynku biurowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "Niemcewicza 4/6 / Juliana Ursyna",
+"dz": "146506_8 0202 32",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.70.2019.MAJ"
+}
+},
+{
+"d": "2019-06-21",
+"c": {
+"inw": "Przebudowa lokali usługowo-handlowych nr 309 i 405 na potrzeby marki Reserved wraz z przebudową instalacji elektrycznych, niskoprądowych i sanitarnych w C.H. Atrium Reduta wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Atrium Reduta Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 148",
+"dz": "146506_8 0301 31",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.68.2019.MAJ"
+}
+},
+{
+"d": "2019-06-21",
+"c": {
+"inw": "Przebudowa lokali usługowo-handlowych nr 309 i 405 na potrzeby marki Reserved wraz z przebudową instalacji elektrycznych, niskoprądowych i sanitarnych w C.H. Atrium Reduta wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Atrium Reduta Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 148",
+"dz": "146506_8 0301 32/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.68.2019.MAJ"
+}
+},
+{
+"d": "2019-06-21",
+"c": {
+"inw": "Przebudowa lokalu mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Radomska 20",
+"dz": "146506_8 0207 2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.69.2019.MAJ"
+}
+},
+{
+"d": "2019-06-18",
+"c": {
+"inw": "wymiana instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości nr 36 przy ul. Białobrzeskiej",
+"nier": "Białobrzeska 36",
+"dz": "146506_8 0207 47",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.67.2019.EZA"
+}
+},
+{
+"d": "2019-06-11",
+"c": {
+"inw": "naprawa stropu nas piwnicami wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości nr 13 przy ul. Kaliskiej",
+"nier": "Kaliska 13",
+"dz": "146506_8 0204 87/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.66.2019.EZA"
+}
+},
+{
+"d": "2019-06-07",
+"c": {
+"inw": "Rozbiórka istniejącego przyłącza wodociągowego i budowa sieci wodociągowej Ø150 oraz zabezpieczenia kabli elektroenergetycznych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa \"Green Lake\"",
+"nier": "Włodarzewska",
+"dz": "146506_8 0318 30",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.65.2019.TGR"
+}
+},
+{
+"d": "2019-06-07",
+"c": {
+"inw": "Rozbiórka istniejącego przyłącza wodociągowego i budowa sieci wodociągowej Ø150 oraz zabezpieczenia kabli elektroenergetycznych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa \"Green Lake\"",
+"nier": "Włodarzewska",
+"dz": "146506_8 0318 31",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.65.2019.TGR"
+}
+},
+{
+"d": "2019-06-07",
+"c": {
+"inw": "Rozbiórka istniejącego przyłącza wodociągowego i budowa sieci wodociągowej Ø150 oraz zabezpieczenia kabli elektroenergetycznych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa \"Green Lake\"",
+"nier": "Włodarzewska",
+"dz": "146506_8 0318 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.65.2019.TGR"
+}
+},
+{
+"d": "2019-06-04",
+"c": {
+"inw": "wydanie decyzji zamiennej dla budynku jednorodzinnego wolnostojącego nr 1, do decyzji zamiennej nr 195/2014 z dnia 16.09.2014r. oraz decyzji nr 9/2016r. z dnia 20.01.2016r. w sprawie pozwolenia na budowę dla dwóch budynków mieszkalnych jednorodzinnych z garażem podziemnym i zjazdem oraz infrastrukturą techniczną rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Usypiskowa 11",
+"dz": "146506_8 0312 18/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.64.2019.TGR"
+}
+},
+{
+"d": "2019-06-04",
+"c": {
+"inw": "Wymiana instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa nieruchomości przy ul. A. Pawińskiego 8",
+"nier": "Pawińskiego 8 / Adolfa",
+"dz": "146506_8 0309 19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.63.2019.DMO"
+}
+},
+{
+"d": "2019-05-28",
+"c": {
+"inw": "przebudowa-likwidacja strychu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Prokuratorska 2",
+"dz": "146506_8 0104 153",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.62.2019.JUS"
+}
+},
+{
+"d": "2019-05-22",
+"c": {
+"inw": "budowa hotelu Hampton by Hilton - projekt zamienny budowa nowego/nowych obiektów budowlanych",
+"wn": "ED SAN II Sp. z o.o. Sp. k.",
+"nier": "Mszczonowska 1, 3, 5",
+"dz": "146506_8 0301 19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.61.2019.MAJ"
+}
+},
+{
+"d": "2019-05-22",
+"c": {
+"inw": "budowa hotelu Hampton by Hilton - projekt zamienny budowa nowego/nowych obiektów budowlanych",
+"wn": "ED SAN II Sp. z o.o. Sp. k.",
+"nier": "Mszczonowska 1, 3, 5",
+"dz": "146506_8 0301 20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.61.2019.MAJ"
+}
+},
+{
+"d": "2019-05-22",
+"c": {
+"inw": "budowa hotelu Hampton by Hilton - projekt zamienny budowa nowego/nowych obiektów budowlanych",
+"wn": "ED SAN II Sp. z o.o. Sp. k.",
+"nier": "Mszczonowska 1, 3, 5",
+"dz": "146506_8 0301 21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.61.2019.MAJ"
+}
+},
+{
+"d": "2019-05-20",
+"c": {
+"inw": "Rozbiórka obiektu budowlanego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Sierpińskiego / Wacława",
+"dz": "146506_8 0320 9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6741.3.2019.DMO"
+}
+},
+{
+"d": "2019-05-20",
+"c": {
+"inw": "Rozbiórka obiektu budowlanego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Sierpińskiego / Wacława",
+"dz": "146506_8 0320 14/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6741.3.2019.DMO"
+}
+},
+{
+"d": "2019-05-20",
+"c": {
+"inw": "Czasowe usunięcie fragmentu konstrukcji nośnej w ścianie zewnętrznej budynku Radiochemii Uniwersytetu Warszawskiego w celu wniesienia sprzętu wielkogabarytowego, a następnie jego odtworzenie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersytet Warszawski",
+"nier": "Żwirki i Wigury 101",
+"dz": "146506_8 0209 18/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.58.2019.DMO"
+}
+},
+{
+"d": "2019-05-17",
+"c": {
+"inw": "przebudowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Kopińska 37",
+"nier": "Kopińska 37",
+"dz": "146506_8 0206 30",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.59.2019.EZA"
+}
+},
+{
+"d": "2019-05-17",
+"c": {
+"inw": "Wymiana stolarki okiennej-powiększenie otworu dla drzwi balkonowych w lokalu mieszkalnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Drawska 10A",
+"dz": "146506_8 0312 5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.57.2019.TGR"
+}
+},
+{
+"d": "2019-05-14",
+"c": {
+"inw": "Wykonanie żelbetowych płyt stropowych w duszy klatek schodowych na parterze budynku przy ul. Grójeckiej 119 w Warszawie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości nr 119 przy ul. Grójeckiej",
+"nier": "Grójecka 119",
+"dz": "146506_8 0314 17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.55.2019.DMO"
+}
+},
+{
+"d": "2019-05-14",
+"c": {
+"inw": "przebudowa budynku w zakresie dostosowania wejścia dla osób niepełnosprawnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "Plac Sokratesa Starynkiewicza 5",
+"dz": "146506_8 0101 15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.56.2019.MAJ"
+}
+},
+{
+"d": "2019-05-06",
+"c": {
+"inw": "remont balkonu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Uniwersytecka 4",
+"nier": "Uniwersytecka 4",
+"dz": "146506_8 0205 62",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.54.2019.JUS"
+}
+},
+{
+"d": "2019-05-06",
+"c": {
+"inw": "Rozbiórka kładki dla pieszych w Warszawie nad torami linii kolejowej nr 8 w km 8,325 rozbiórka istniejącego obiektu budowlanego",
+"wn": "Polskie Koleje Państwowe Spółka Akcyjna",
+"nier": "Drygały / Mikołaja",
+"dz": "146506_8 0322 35",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6741.2.2019.DMO"
+}
+},
+{
+"d": "2019-04-30",
+"c": {
+"inw": "przebudowa instalacji gazu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SB-M Barska 5",
+"nier": "Barska 5",
+"dz": "146506_8 0204 126",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.51.2019.EZA"
+}
+},
+{
+"d": "2019-04-26",
+"c": {
+"inw": "Decyzja zamienna - Przebudowa, nadbudowa i rozbudowa Kliniki Ortopedii i Traumatologii narządu Ruchu Szpitala Klinicznego Dzieciątka Jezus rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Szpital Kliniczny Dzieciątka Jezus",
+"nier": "",
+"dz": "146506_8 0102 9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.53.2019.MAJ"
+}
+},
+{
+"d": "2019-04-25",
+"c": {
+"inw": "rozbudowa zespołu budynków oświatowo-naukowych nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "APS",
+"nier": "Szczęśliwicka 40",
+"dz": "146506_8 0203 12/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.48.2019.EZA"
+}
+},
+{
+"d": "2019-04-25",
+"c": {
+"inw": "rozbudowa zespołu budynków oświatowo-naukowych nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "APS",
+"nier": "Szczęśliwicka 40",
+"dz": "146506_8 0203 42",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.48.2019.EZA"
+}
+},
+{
+"d": "2019-04-25",
+"c": {
+"inw": "rozbudowa zespołu budynków oświatowo-naukowych nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "APS",
+"nier": "Szczęśliwicka 40",
+"dz": "146506_8 0203 19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.48.2019.EZA"
+}
+},
+{
+"d": "2019-04-25",
+"c": {
+"inw": "rozbudowa zespołu budynków oświatowo-naukowych nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "APS",
+"nier": "Szczęśliwicka 40",
+"dz": "146506_8 0203 12/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.48.2019.EZA"
+}
+},
+{
+"d": "2019-04-25",
+"c": {
+"inw": "rozbudowa zespołu budynków oświatowo-naukowych nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "APS",
+"nier": "Szczęśliwicka 40",
+"dz": "146506_8 0203 12/15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.48.2019.EZA"
+}
+},
+{
+"d": "2019-04-25",
+"c": {
+"inw": "przebudowa i remont domu studenckiego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Politechnika Warszawska",
+"nier": "",
+"dz": "146506_8 0205 65/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.50.2019.JUS"
+}
+},
+{
+"d": "2019-04-24",
+"c": {
+"inw": "modernizacja (przebudowa) instalacji przeciwpozarowej w wybranych budynkach na terenie Zakładu Wodociągu Centralnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiuębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie",
+"nier": "Koszykowa 81",
+"dz": "146506_8 0103 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.52.2019.MAJ"
+}
+},
+{
+"d": "2019-04-19",
+"c": {
+"inw": "Budowa dwóch budynków mieszkalnych wielorodzinnych z garazem podziemnym wraz z niezbedną infrastrukturą techniczną oraz rozbiórka budynku usługowego, mieszkalnego i biurowego. budowa nowego/nowych obiektów budowlanych",
+"wn": "Capital Investment S.A.",
+"nier": "",
+"dz": "146506_8 0317 19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.49.2019.TGR"
+}
+},
+{
+"d": "2019-04-19",
+"c": {
+"inw": "Budowa dwóch budynków mieszkalnych wielorodzinnych z garazem podziemnym wraz z niezbedną infrastrukturą techniczną oraz rozbiórka budynku usługowego, mieszkalnego i biurowego. budowa nowego/nowych obiektów budowlanych",
+"wn": "Capital Investment S.A.",
+"nier": "",
+"dz": "146506_8 0317 20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.49.2019.TGR"
+}
+},
+{
+"d": "2019-04-05",
+"c": {
+"inw": "Rozbiórka istniejących fundamentów i budowa budynku handlowo-usługowego wraz z niezbędną infrastrukturą techniczną, urządzeniem reklamowym oraz parkingiem. budowa nowego/nowych obiektów budowlanych",
+"wn": "LIDL. Sp. z o.o.",
+"nier": "Zadumana",
+"dz": "146506_8 0316 7/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.47.2019.TGR"
+}
+},
+{
+"d": "2019-04-05",
+"c": {
+"inw": "Rozbiórka istniejących fundamentów i budowa budynku handlowo-usługowego wraz z niezbędną infrastrukturą techniczną, urządzeniem reklamowym oraz parkingiem. budowa nowego/nowych obiektów budowlanych",
+"wn": "LIDL. Sp. z o.o.",
+"nier": "Zadumana",
+"dz": "146506_8 0316 8/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.47.2019.TGR"
+}
+},
+{
+"d": "2019-04-03",
+"c": {
+"inw": "remont elewacji wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SBM Pracowników Oświatowych",
+"nier": "Akademicka 3",
+"dz": "146506_8 0205 32",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.45.2019.JUS"
+}
+},
+{
+"d": "2019-03-28",
+"c": {
+"inw": "Przebudowa pomieszczeń przeznaczonych na laboratorium w budynku Wydziału Chemii Uniwersytetu Warszawskiego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersytet Warszawski",
+"nier": "Pasteura 1 / Ludwika",
+"dz": "146506_8 0209 3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.44.2019.DMO"
+}
+},
+{
+"d": "2019-03-27",
+"c": {
+"inw": "docieplenie elewacji budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa nieruchomosci nr 11 przy ul. Przemyskiej",
+"nier": "Przemyska 11",
+"dz": "146506_8 0207 107",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.42.2019.EZA"
+}
+},
+{
+"d": "2019-03-26",
+"c": {
+"inw": "ocieplenie budynku mieskzlanego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Szczęśliwicka 25",
+"nier": "Szczęśliwicka 25",
+"dz": "146506_8 0206 69",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.40.2019.EZA"
+}
+},
+{
+"d": "2019-03-26",
+"c": {
+"inw": "Przebudowa 4 pomieszczeń na 2 sale lekcyjne wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "XXI Liceum Ogólnokształcące im. H. Kołłątaja",
+"nier": "Grójecka 93",
+"dz": "146506_8 0309 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.39.2019.DMO"
+}
+},
+{
+"d": "2019-03-26",
+"c": {
+"inw": "Przebudowa 4 pomieszczeń na 2 sale lekcyjne wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "XXI Liceum Ogólnokształcące im. H. Kołłątaja",
+"nier": "Grójecka 93",
+"dz": "146506_8 0309 58",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.39.2019.DMO"
+}
+},
+{
+"d": "2019-03-26",
+"c": {
+"inw": "Przebudowa 4 pomieszczeń na 2 sale lekcyjne wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "XXI Liceum Ogólnokształcące im. H. Kołłątaja",
+"nier": "Grójecka 93",
+"dz": "146506_8 0309 59",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.39.2019.DMO"
+}
+},
+{
+"d": "2019-03-25",
+"c": {
+"inw": "wymiana instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa nr 16 przy ul. Opaczewskiej",
+"nier": "Opaczewska 16",
+"dz": "146506_8 0308 15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.41.2019.EZA"
+}
+},
+{
+"d": "2019-03-22",
+"c": {
+"inw": "Budynek mieszkalny wielorodzinny z garażem podziemnym i usługą w parterze budowa nowego/nowych obiektów budowlanych",
+"wn": "HEL 2.0 Sp.z o.o.",
+"nier": "Włodarzewska 13/15",
+"dz": "146506_8 0313 48/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.43.2019.TGR"
+}
+},
+{
+"d": "2019-03-18",
+"c": {
+"inw": "Wymiana uszkodzonych nastopnic z lastryka na nowe wykonane z lastryka schodów klatki schodowej w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa \"Rakowiec\"",
+"nier": "Wiślicka 4",
+"dz": "146506_8 0315 34/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.38.2019.DMO"
+}
+},
+{
+"d": "2019-03-14",
+"c": {
+"inw": "Wymiana instalacji gazowej wewnętrznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Grójecka 79A",
+"nier": "Grójecka 79A",
+"dz": "146506_8 0208 28",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.35.2019.DMO"
+}
+},
+{
+"d": "2019-03-13",
+"c": {
+"inw": "wymiana stolarki okiennej w lokalu mieszkalnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa",
+"nier": "Filtrowa 68",
+"dz": "146506_8 0202 56",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Ud-V-WAB.6740.36.2019.MAJ"
+}
+},
+{
+"d": "2019-03-12",
+"c": {
+"inw": "docieplenie elewacji i remont dachu budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa nieruchomości nr 39 ul. Nowowiejska",
+"nier": "Nowowiejska 39",
+"dz": "146506_8 0104 13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.34.2019.MAJ"
+}
+},
+{
+"d": "2019-03-12",
+"c": {
+"inw": "docieplenie elewacji i remont dachu budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa nieruchomości nr 39 ul. Nowowiejska",
+"nier": "Nowowiejska 39",
+"dz": "146506_8 0104 14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.34.2019.MAJ"
+}
+},
+{
+"d": "2019-03-11",
+"c": {
+"inw": "Nadbudowa budynku biurowo-usługowego o antresolę IV kondygnacji. nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Włodarzewska 69",
+"dz": "146506_8 0317 18",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.29.2019.TGR"
+}
+},
+{
+"d": "2019-03-11",
+"c": {
+"inw": "Budowa budynku mieszkalnego wielorodzinnego z usługą i garażem podziemnym budowa nowego/nowych obiektów budowlanych",
+"wn": "Yuniversal Development Sp. z o.o.",
+"nier": "Przy Parku",
+"dz": "146506_8 0312 9/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.30.2019.TGR"
+}
+},
+{
+"d": "2019-03-08",
+"c": {
+"inw": "Docieplenie ścian zewnętrznych budynku, wykonanie izolacji fundamentów, remont loggii oraz docieplenie stropodachu nad pawilonem usługowym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa nieruchomości nr 67 przy ul. Grójeckiej",
+"nier": "Grójecka 53/57",
+"dz": "146506_8 0208 3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.27.2019.DMO"
+}
+},
+{
+"d": "2019-03-08",
+"c": {
+"inw": "przebudowa wraz ze zmianą sposobu użytkowania budynku mieszkalnego jednorodzinnego na przedszkole i żłobek wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Rubik School Sp. z o.o.",
+"nier": "Drawska 11",
+"dz": "146506_8 0306 113/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.33.2019.MAJ"
+}
+},
+{
+"d": "2019-03-08",
+"c": {
+"inw": "przebudowa wraz ze zmianą sposobu użytkowania budynku mieszkalnego jednorodzinnego na przedszkole i żłobek wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Rubik School Sp. z o.o.",
+"nier": "Drawska 11",
+"dz": "146506_8 0306 113/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.33.2019.MAJ"
+}
+},
+{
+"d": "2019-03-08",
+"c": {
+"inw": "Docieplenie ścian zewnętrznych budynku oraz wykonanie remontu płyt balkonowych wraz z wymianą balustrad wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa nieruchomości nr 67 przy ul. Grójeckiej",
+"nier": "Grójecka 67",
+"dz": "146506_8 0208 18",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.26.2019.DMO"
+}
+},
+{
+"d": "2019-03-08",
+"c": {
+"inw": "rozbiórka 10 szt. garaży metalowych nieogrzewanych rozbiórka istniejącego obiektu budowlanego",
+"wn": "Miejskie Prze4dsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146506_8 0202 32",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6741.1.2019.MAJ"
+}
+},
+{
+"d": "2019-03-07",
+"c": {
+"inw": "regulacja instalacji CO. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SB-M Profesorów Wolnej Wszechnicy Polskiej",
+"nier": "",
+"dz": "146506_8 0205 92",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.28.2019.JUS"
+}
+},
+{
+"d": "2019-03-07",
+"c": {
+"inw": "doposażenie w instalacje c.o. i wymiana instalacji wod.-kan w budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SB-M Profesorów Wolnej Wszechnicy Polskiej",
+"nier": "Grójecka 43",
+"dz": "146506_8 0205 92",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.37.2019.JUS"
+}
+},
+{
+"d": "2019-03-04",
+"c": {
+"inw": "wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Pastewka i Strój Architekci s.c.",
+"nier": "Aleje Jerozolimskie 99",
+"dz": "146506_8 0102 17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.32.2019.MAJ"
+}
+},
+{
+"d": "2019-03-01",
+"c": {
+"inw": "Instalacja gazowa w budynkach Wydziału Farmaceutycznego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawski Uniwersytet Medyczny",
+"nier": "Banacha 1 / Stefana",
+"dz": "146506_8 0310 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.25.2019.DMO"
+}
+},
+{
+"d": "2019-02-28",
+"c": {
+"inw": "remont elewacji budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Asnyka 2 reprezentawana przez Gestor Sp. z o.o.",
+"nier": "Asnyka 2 / Adama",
+"dz": "146506_8 0202 38",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.31.2019.MAJ"
+}
+},
+{
+"d": "2019-02-26",
+"c": {
+"inw": "Przebudowa fragmentu II piętra bloku szpitalnego E na potrzeby Kliniki Onkologii wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersyteckie Centrum Kliniczne Warszawskiego Uniwersytetu Medycznego",
+"nier": "Banacha 1A / Stefana",
+"dz": "146506_8 0310 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.24.2019.DMO"
+}
+},
+{
+"d": "2019-02-15",
+"c": {
+"inw": "pogłębienie piwnic , termoizolacja wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146506_8 0104 106",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.22.2019.JUS"
+}
+},
+{
+"d": "2019-02-07",
+"c": {
+"inw": "Remont schodów wejściowych do budynku portierni przy bramie wjazdowej, budynku portierni przy bramie wjazdowej, budynku dawnej stajni, sali wystawowej Centrum Interpretacji Dziedzictwa zlokalizowanych na terenie Zakładu Wodociągu Centralnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "Koszykowa 81",
+"dz": "146506_8 0103 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.18.2019.MAJ"
+}
+},
+{
+"d": "2019-02-06",
+"c": {
+"inw": "Przebudowa sieci gazowej z przyłączami i fragmentem instalacji gazu ziemnego. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PSG Sp. z o.o.",
+"nier": "Bielska",
+"dz": "146506_8 0318 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.23.2019.TGR"
+}
+},
+{
+"d": "2019-02-06",
+"c": {
+"inw": "Przebudowa sieci gazowej z przyłączami i fragmentem instalacji gazu ziemnego. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PSG Sp. z o.o.",
+"nier": "Bielska",
+"dz": "146506_8 0318 6/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.23.2019.TGR"
+}
+},
+{
+"d": "2019-02-06",
+"c": {
+"inw": "Przebudowa sieci gazowej z przyłączami i fragmentem instalacji gazu ziemnego. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PSG Sp. z o.o.",
+"nier": "Bielska",
+"dz": "146506_8 0318 6/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.23.2019.TGR"
+}
+},
+{
+"d": "2019-02-06",
+"c": {
+"inw": "Przebudowa sieci gazowej z przyłączami i fragmentem instalacji gazu ziemnego. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PSG Sp. z o.o.",
+"nier": "Bielska",
+"dz": "146506_8 0318 1/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.23.2019.TGR"
+}
+},
+{
+"d": "2019-02-06",
+"c": {
+"inw": "Przebudowa sieci gazowej z przyłączami i fragmentem instalacji gazu ziemnego. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PSG Sp. z o.o.",
+"nier": "Bielska",
+"dz": "146506_8 0319 1/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.23.2019.TGR"
+}
+},
+{
+"d": "2019-02-06",
+"c": {
+"inw": "Przebudowa sieci gazowej z przyłączami i fragmentem instalacji gazu ziemnego. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PSG Sp. z o.o.",
+"nier": "Bielska",
+"dz": "146506_8 0319 1/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.23.2019.TGR"
+}
+},
+{
+"d": "2019-02-06",
+"c": {
+"inw": "Przebudowa sieci gazowej z przyłączami i fragmentem instalacji gazu ziemnego. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PSG Sp. z o.o.",
+"nier": "Bielska",
+"dz": "146506_8 0319 2/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.23.2019.TGR"
+}
+},
+{
+"d": "2019-02-06",
+"c": {
+"inw": "Przebudowa sieci gazowej z przyłączami i fragmentem instalacji gazu ziemnego. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PSG Sp. z o.o.",
+"nier": "Bielska",
+"dz": "146506_8 0319 93",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.23.2019.TGR"
+}
+},
+{
+"d": "2019-02-06",
+"c": {
+"inw": "Przebudowa sieci gazowej z przyłączami i fragmentem instalacji gazu ziemnego. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PSG Sp. z o.o.",
+"nier": "Bielska",
+"dz": "146506_8 0319 1/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.23.2019.TGR"
+}
+},
+{
+"d": "2019-02-06",
+"c": {
+"inw": "Przebudowa sieci gazowej z przyłączami i fragmentem instalacji gazu ziemnego. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PSG Sp. z o.o.",
+"nier": "Bielska",
+"dz": "146506_8 0312 10/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.23.2019.TGR"
+}
+},
+{
+"d": "2019-02-06",
+"c": {
+"inw": "Przebudowa sieci gazowej z przyłączami i fragmentem instalacji gazu ziemnego. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PSG Sp. z o.o.",
+"nier": "Bielska",
+"dz": "146506_8 0312 10/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.23.2019.TGR"
+}
+},
+{
+"d": "2019-02-06",
+"c": {
+"inw": "Przebudowa sieci gazowej z przyłączami i fragmentem instalacji gazu ziemnego. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PSG Sp. z o.o.",
+"nier": "Bielska",
+"dz": "146506_8 0312 54/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.23.2019.TGR"
+}
+},
+{
+"d": "2019-02-06",
+"c": {
+"inw": "Przebudowa sieci gazowej z przyłączami i fragmentem instalacji gazu ziemnego. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PSG Sp. z o.o.",
+"nier": "Bielska",
+"dz": "146506_8 0312 54/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.23.2019.TGR"
+}
+},
+{
+"d": "2019-02-06",
+"c": {
+"inw": "Przebudowa sieci gazowej z przyłączami i fragmentem instalacji gazu ziemnego. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PSG Sp. z o.o.",
+"nier": "Bielska",
+"dz": "146506_8 0312 54/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.23.2019.TGR"
+}
+},
+{
+"d": "2019-02-06",
+"c": {
+"inw": "Przebudowa sieci gazowej z przyłączami i fragmentem instalacji gazu ziemnego. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PSG Sp. z o.o.",
+"nier": "Bielska",
+"dz": "146506_8 0312 24",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.23.2019.TGR"
+}
+},
+{
+"d": "2019-02-06",
+"c": {
+"inw": "Przebudowa sieci gazowej z przyłączami i fragmentem instalacji gazu ziemnego. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PSG Sp. z o.o.",
+"nier": "Bielska",
+"dz": "146506_8 0312 28/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.23.2019.TGR"
+}
+},
+{
+"d": "2019-02-04",
+"c": {
+"inw": "nadbudowa istniejącego budynku techniczno-usługowego i jego przebudowa wraz ze zmianą sposobu użytkowania na budynek mieszkalny wielorodzinny z wbudowanym garażem wraz z rozbudową części podziemnej nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "HOME INVEST PROJEKT XXIV Sp.z o.o.",
+"nier": "Skarżyńskiego 17 / Stanisława",
+"dz": "146506_8 0308 90",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.21.2019.EZA"
+}
+},
+{
+"d": "2019-02-01",
+"c": {
+"inw": "przebudowa budynku szpitala wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Mazowieckie Centrum Rehabilitacji STOCER",
+"nier": "Barska 16/20",
+"dz": "146506_8 0204 95/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.19.2019.EZA"
+}
+},
+{
+"d": "2019-02-01",
+"c": {
+"inw": "rozbudowa, przebudowa, modernizacja budynku szpitala rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Mazowieckie Centrum Rehabilitacji STOCER",
+"nier": "Barska 16/20",
+"dz": "146506_8 0204 95/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.20.2019.EZA"
+}
+},
+{
+"d": "2019-01-28",
+"c": {
+"inw": "remont konserwatorski 36 wentylatorów  czołowych V grupy filtrów powolnych na terenie Zakładu Wodociągu Centralnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacjiw m. st. Warszawie S.A.",
+"nier": "Koszykowa 81",
+"dz": "146506_8 0103 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.14.2019.MAJ"
+}
+},
+{
+"d": "2019-01-21",
+"c": {
+"inw": "Przebudowa wnętrz biurowych poziomów 0, +1, +2 dla firmy GAZ SYSTEM w budynku CRISTAL PARK wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "COLEUS sp. z o.o.",
+"nier": "Mszczonowska 4",
+"dz": "146506_8 0301 29/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.13.2019.MAJ"
+}
+},
+{
+"d": "2019-01-21",
+"c": {
+"inw": "Przebudowa wnętrz biurowych poziomów 0, +1, +2 dla firmy GAZ SYSTEM w budynku CRISTAL PARK wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "COLEUS sp. z o.o.",
+"nier": "Mszczonowska 4",
+"dz": "146506_8 0301 29/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.13.2019.MAJ"
+}
+},
+{
+"d": "2019-01-21",
+"c": {
+"inw": "Przebudowa wnętrz biurowych poziomów 0, +1, +2 dla firmy GAZ SYSTEM w budynku CRISTAL PARK wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "COLEUS sp. z o.o.",
+"nier": "Mszczonowska 4",
+"dz": "146506_8 0301 30/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.13.2019.MAJ"
+}
+},
+{
+"d": "2019-01-21",
+"c": {
+"inw": "Przebudowa wnętrz biurowych poziomów 0, +1, +2 dla firmy GAZ SYSTEM w budynku CRISTAL PARK wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "COLEUS sp. z o.o.",
+"nier": "Mszczonowska 4",
+"dz": "146506_8 0301 30/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.13.2019.MAJ"
+}
+},
+{
+"d": "2019-01-16",
+"c": {
+"inw": "Budowa instalacji gazowej dla dwóch budynków mieszkalnych wielorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "Lirowa Apartments Sp. z o.o.",
+"nier": "Lirowa",
+"dz": "146506_8 0319 55",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.11.2019.TGR"
+}
+},
+{
+"d": "2019-01-16",
+"c": {
+"inw": "Budowa instalacji gazowej dla dwóch budynków mieszkalnych wielorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "Lirowa Apartments Sp. z o.o.",
+"nier": "Lirowa",
+"dz": "146506_8 0319 58",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.11.2019.TGR"
+}
+},
+{
+"d": "2019-01-15",
+"c": {
+"inw": "Wybicie otworu okiennego w pomieszczeniu piwnicznym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"Merkury Szczęśliwice\"",
+"nier": "Urbanistów 1",
+"dz": "146506_8 0313 5/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.10.2019.DMO"
+}
+},
+{
+"d": "2019-01-11",
+"c": {
+"inw": "Projekt zamienny budowy zespołu budynków mieszklanych wielorodzinnych A,B,C,D,E,F,G,H,I z jednpoziomowymi garazami podziemnymi wraz z infrastrukturą oraz zagospodarowniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "Dom Development S.A.",
+"nier": "Włodarzewska",
+"dz": "146506_8 0316 19/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.12.2019.TGR"
+}
+},
+{
+"d": "2019-01-11",
+"c": {
+"inw": "Projekt zamienny budowy zespołu budynków mieszklanych wielorodzinnych A,B,C,D,E,F,G,H,I z jednpoziomowymi garazami podziemnymi wraz z infrastrukturą oraz zagospodarowniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "Dom Development S.A.",
+"nier": "Włodarzewska",
+"dz": "146506_8 0316 20/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.12.2019.TGR"
+}
+},
+{
+"d": "2019-01-11",
+"c": {
+"inw": "Projekt zamienny budowy zespołu budynków mieszklanych wielorodzinnych A,B,C,D,E,F,G,H,I z jednpoziomowymi garazami podziemnymi wraz z infrastrukturą oraz zagospodarowniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "Dom Development S.A.",
+"nier": "Włodarzewska",
+"dz": "146506_8 0316 21/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.12.2019.TGR"
+}
+},
+{
+"d": "2019-01-10",
+"c": {
+"inw": "Wykonanie i wymiana uszkodzonych nastopnic schodów policzkowych klatek schodowych w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa \"Rakowiec\"",
+"nier": "Żwirki i Wigury 57",
+"dz": "146506_8 0315 25/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.6.2019.DMO"
+}
+},
+{
+"d": "2019-01-10",
+"c": {
+"inw": "Wykonanie i wymiana uszkodzonych nastopnic schodów policzkowych klatki schodowej w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa \"Rakowiec\"",
+"nier": "Korotyńskiego 4 / Władysława",
+"dz": "146506_8 0321 7/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.5.2019.DMO"
+}
+},
+{
+"d": "2019-01-10",
+"c": {
+"inw": "Remont elewacji z częściowym ociepleniem ścian z robotami dodatkowymi budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa \"Rakowiec\"",
+"nier": "Żwirki i Wigury 55A",
+"dz": "146506_8 0315 25/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.9.2019.DMO"
+}
+},
+{
+"d": "2019-01-10",
+"c": {
+"inw": "Remont elewacji z częściowym ociepleniem ścian z robotami dodatkowymi budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa \"Rakowiec\"",
+"nier": "Trojdena 5A / Księcia",
+"dz": "146506_8 0315 25/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.8.2019.DMO"
+}
+},
+{
+"d": "2019-01-10",
+"c": {
+"inw": "Wykonanie i wymiana uszkodzonych nastopnic schodów policzkowych klatki schodowej w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa \"Rakowiec\"",
+"nier": "Sanocka 8",
+"dz": "146506_8 0315 25/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.2.2019.DMO"
+}
+},
+{
+"d": "2019-01-10",
+"c": {
+"inw": "Remont elewacji z częściowym ociepleniem ścian z robotami dodatkowymi budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa \"Rakowiec\"",
+"nier": "Pruszkowska 12",
+"dz": "146506_8 0315 44/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.7.2019.DMO"
+}
+},
+{
+"d": "2019-01-03",
+"c": {
+"inw": "Modernizacja - przebudowa instalacji wentylacji i klimatyzacji w budynku dawnego magazynu na terenie Stacji Filtrów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "Koszykowa 81",
+"dz": "146506_8 0103 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.1.2019.MAJ"
+}
+}
+]
+},
+{
+"id": "dec_pnb",
+"name": "Decyzje o pozwoleniu na budowę",
+"short": "Decyzje PnB",
+"desc": "Decyzje o pozwoleniu na budowę wydane przez organ architektoniczno-budowlany dzielnicy (rejestr GUNB).",
+"file": "GUNB — wynik_mazowieckie.zip",
+"url": "https://wyszukiwarka.gunb.gov.pl/pliki_pobranie/wynik_mazowieckie.zip",
+"cols": [
+{
+"k": "nr",
+"l": "Numer decyzji",
+"w": "nr"
+},
+{
+"k": "inw",
+"l": "Zamierzenie budowlane",
+"w": "wide"
+},
+{
+"k": "wn",
+"l": "Inwestor",
+"w": "mid"
+},
+{
+"k": "nier",
+"l": "Lokalizacja",
+"w": "mid"
+},
+{
+"k": "dz",
+"l": "Działka / obręb",
+"w": ""
+},
+{
+"k": "rodz",
+"l": "Rodzaj inwestycji",
+"w": ""
+}
+],
+"rows": [
+{
+"d": "2019-12-19",
+"c": {
+"inw": "nadbudowa istniejącego budynku techniczno-usługowego i jego przebudowa wraz ze zmianą sposobu użytkowania na budynek mieszkalny wielorodzinny z wbudowanym garażem wraz z rozbudową części podziemnej nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "HOME INVEST PROJEKT XXIV Sp.z o.o.",
+"nier": "Skarżyńskiego 17 / Stanisława",
+"dz": "146506_8 0308 90",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "126/2019"
+}
+},
+{
+"d": "2019-12-19",
+"c": {
+"inw": "budowa i rozbiórka podziemnej sieci elektroenergetycznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Innogy Stoen Operator Sp. z o.o.",
+"nier": "Urbanistów",
+"dz": "146506_8 0113 7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "125/2019"
+}
+},
+{
+"d": "2019-12-18",
+"c": {
+"inw": "Projekt zamienny dla budynku mieszkalnego wielorodzinnego z usługami i garażem podziemnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Yuniversal Development Sp. z o.o.",
+"nier": "Lirowa",
+"dz": "146506_8 0319 36/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja Nr 124/2019"
+}
+},
+{
+"d": "2019-12-16",
+"c": {
+"inw": "wykonanie trzech pionowych szachtów technicznych w lokalach PKP CARGO S.A. nr 1 i 2B wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PKP CARGO S.A.",
+"nier": "Grójecka 17",
+"dz": "146506_8 0202 19/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "123/2019"
+}
+},
+{
+"d": "2019-12-02",
+"c": {
+"inw": "budowa instalacji gazowej do celów zasilania kotłów gazowych w kotłowni wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "HASCO REAL ESTATE Sp. z o.o. Sp.k.",
+"nier": "Aleje Jerozolimskie 154",
+"dz": "146506_8 0301 37/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "121/2019"
+}
+},
+{
+"d": "2019-11-25",
+"c": {
+"inw": "Dostosowanie w zakresie architektury budynku nr 10 do warunków ochrony przeciwpożarowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawskie Zakłady Sprzetu Ortopedycznego S.A.",
+"nier": "9",
+"dz": "146506_8 0302 44/32",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "120/2019"
+}
+},
+{
+"d": "2019-11-20",
+"c": {
+"inw": "przebudowa części Centrum Handlowego Reduta 2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Atrium Reduta Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 148",
+"dz": "146506_8 0301 34",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "118/2019"
+}
+},
+{
+"d": "2019-11-20",
+"c": {
+"inw": "przebudowa części Centrum Handlowego Reduta 2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Atrium Reduta Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 148",
+"dz": "146506_8 0301 33/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "118/2019"
+}
+},
+{
+"d": "2019-11-20",
+"c": {
+"inw": "przebudowa części Centrum Handlowego Reduta 2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Atrium Reduta Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 148",
+"dz": "146506_8 0301 32/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "118/2019"
+}
+},
+{
+"d": "2019-11-20",
+"c": {
+"inw": "przebudowa części Centrum Handlowego Reduta 2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Atrium Reduta Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 148",
+"dz": "146506_8 0301 32/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "118/2019"
+}
+},
+{
+"d": "2019-11-20",
+"c": {
+"inw": "przebudowa części Centrum Handlowego Reduta 2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Atrium Reduta Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 148",
+"dz": "146506_8 0301 32/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "118/2019"
+}
+},
+{
+"d": "2019-11-20",
+"c": {
+"inw": "przebudowa części Centrum Handlowego Reduta 2 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Atrium Reduta Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 148",
+"dz": "146506_8 0301 31",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "118/2019"
+}
+},
+{
+"d": "2019-11-19",
+"c": {
+"inw": "projekt zamienny do przebudowy i rozbudowy części Centrum Handlowego Atrium Reduta 1 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Atrium Reduta Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 148",
+"dz": "146506_8 0301 34",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "117/2019"
+}
+},
+{
+"d": "2019-11-19",
+"c": {
+"inw": "projekt zamienny do przebudowy i rozbudowy części Centrum Handlowego Atrium Reduta 1 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Atrium Reduta Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 148",
+"dz": "146506_8 0301 33/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "117/2019"
+}
+},
+{
+"d": "2019-11-19",
+"c": {
+"inw": "projekt zamienny do przebudowy i rozbudowy części Centrum Handlowego Atrium Reduta 1 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Atrium Reduta Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 148",
+"dz": "146506_8 0301 32/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "117/2019"
+}
+},
+{
+"d": "2019-11-19",
+"c": {
+"inw": "projekt zamienny do przebudowy i rozbudowy części Centrum Handlowego Atrium Reduta 1 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Atrium Reduta Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 148",
+"dz": "146506_8 0301 32/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "117/2019"
+}
+},
+{
+"d": "2019-11-19",
+"c": {
+"inw": "projekt zamienny do przebudowy i rozbudowy części Centrum Handlowego Atrium Reduta 1 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Atrium Reduta Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 148",
+"dz": "146506_8 0301 32/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "117/2019"
+}
+},
+{
+"d": "2019-11-19",
+"c": {
+"inw": "projekt zamienny do przebudowy i rozbudowy części Centrum Handlowego Atrium Reduta 1 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Atrium Reduta Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 148",
+"dz": "146506_8 0301 31",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "117/2019"
+}
+},
+{
+"d": "2019-11-18",
+"c": {
+"inw": "przebudowa przychodni - parter i wejścia zewnętrzne wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SZPZLO Warszawa-Ochota",
+"nier": "Szczęśliwicka 36",
+"dz": "146506_8 0203 26",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "116/2019"
+}
+},
+{
+"d": "2019-11-18",
+"c": {
+"inw": "przebudowa powierzchni biurowej na piętrze +7 na potrzeby biura firmy EXECON ONE Sp. z o.o. w budynku EQUATOR IV wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Cirrus Real Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 100",
+"dz": "146506_8 0203 35",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "115/2019"
+}
+},
+{
+"d": "2019-11-18",
+"c": {
+"inw": "przebudowa powierzchni biurowej na piętrze +7 na potrzeby biura firmy EXECON ONE Sp. z o.o. w budynku EQUATOR IV wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Cirrus Real Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 100",
+"dz": "146506_8 0204 1/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "115/2019"
+}
+},
+{
+"d": "2019-11-15",
+"c": {
+"inw": "wybicie otworu drzwiowego w ścianie konstrukcyjnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Orzeszkowej 8 / Elizy",
+"dz": "146506_8 0307 32/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "113/2019"
+}
+},
+{
+"d": "2019-11-15",
+"c": {
+"inw": "wybicie otworu drzwiowego w ścianie konstrukcyjnnej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Orzeszkowej 8 / Elizy",
+"dz": "146506_8 0307 32/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "114/2019"
+}
+},
+{
+"d": "2019-11-15",
+"c": {
+"inw": "Przebudowa lokalu usługowego na restaurację SEAFOODSTATION wraz z instalacjami w budynku Nowogrodzka SQUARE wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SEA AND SEE Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 93",
+"dz": "146506_8 0102 19/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "112/2019"
+}
+},
+{
+"d": "2019-11-12",
+"c": {
+"inw": "Budowa tymczasowego targowiska zastępczego budowa nowego/nowych obiektów budowlanych",
+"wn": "Miasto Stołeczne Warszawa",
+"nier": "Skorochód-Majewskiego 5 / Walentego",
+"dz": "146506_8 0309 31",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "109/2019"
+}
+},
+{
+"d": "2019-11-12",
+"c": {
+"inw": "rozbiórka  łącznika naziemnego i sali gimnastycznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa",
+"nier": "Skorochód-Majewskiego 17 / Walentego",
+"dz": "146506_8 0214 30",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "110/2019"
+}
+},
+{
+"d": "2019-11-12",
+"c": {
+"inw": "Zmiana pozwolenia - rozbudowa budynku Kliniki Chorób Wewnętrznych i Kardiologii mieszczącej się w Pawilonie 3 rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Szpital Kliniczny Dzieciątka Jezus",
+"nier": "Lindleya 4 / Williama Heerleina",
+"dz": "146506_8 0102 9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "111/2019"
+}
+},
+{
+"d": "2019-11-11",
+"c": {
+"inw": "Częściowa przebudowa kondygnacji +28 w celu adaptacji wnętrz biurowych lokalu na funkcję klubową wraz ze zmianą wewnętrznej klatschodowej na kondygnacji +27. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CLUB 27 Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 123A",
+"dz": "146506_8 0101 22",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "119/2019"
+}
+},
+{
+"d": "2019-11-07",
+"c": {
+"inw": "przebudowa zespołu boisk wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zgromadzenie Zakonne Małe Dzieło Boskiej Opatrzności - Orioniści Prowincja Polska",
+"nier": "Barska 4",
+"dz": "146506_8 0204 110",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "108"
+}
+},
+{
+"d": "2019-11-05",
+"c": {
+"inw": "przebudowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Miaszkaniowa Nieruchomosci nr 16 przy ul.Kaliskiej",
+"nier": "Kaliska 16",
+"dz": "146506_8 0204 31",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "107/2019"
+}
+},
+{
+"d": "2019-10-31",
+"c": {
+"inw": "ocieplenie elewacji wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszakniowa Nieruchomosci nr 6 przy ul.Baśniowej",
+"nier": "Baśniowa 6",
+"dz": "146506_8 0207 63",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "106/2019"
+}
+},
+{
+"d": "2019-10-31",
+"c": {
+"inw": "Przebudowa pomieszczeń w części parteru i piwnicy oraz na I piętrze budynku szpitalnego na potrzeby oddziału położnictwa i neonatologii z zespołem porodowym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersyteckie Centrum Zdrowia Kobiety i Noworodka Warszawskiego Uniwersytetu Medycznego Sp. z o.o.",
+"nier": "Plac Sokratesa Starynkiewicza 1/3",
+"dz": "146506_8 0101 32/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "105/2019"
+}
+},
+{
+"d": "2019-10-25",
+"c": {
+"inw": "przebudowa schodów zewnętrznych do klatki nr IV i V wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości 109 al. Jerozolimskie",
+"nier": "Aleje Jerozolimskie 109",
+"dz": "146506_8 0101 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "104/2019"
+}
+},
+{
+"d": "2019-10-22",
+"c": {
+"inw": "Przebudowa okna w lokalu mieszkalnym nr 11A ul. Kurhan 20, w budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kurhan 20",
+"dz": "146506_8 0306 7/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 102/2019"
+}
+},
+{
+"d": "2019-10-22",
+"c": {
+"inw": "Przebudowa okna w lokalu mieszklanym w budynku wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Kurhan 20",
+"dz": "146506_8 0306 7/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja Nr 103/2019"
+}
+},
+{
+"d": "2019-10-21",
+"c": {
+"inw": "Demontaż piecyków gazowych oraz części lokalówek instalacji gazowej zasilającej piecyki gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości Wolnej Wszechnicy 4",
+"nier": "Wolnej Wszechnicy 4",
+"dz": "146506_8 0208 24",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "101/2019"
+}
+},
+{
+"d": "2019-10-21",
+"c": {
+"inw": "remont: elewacji, cokołów, gzymsów wieńczących, płyt balkonowych, balustrad, dachu, kominów, wymianę stolarki okiennej i drzwiowej, montaż nowych systemowych ław kominiarskich, wymianę daszka nad wejściem do budynku, demontaż tablic reklamowych, wymianę wszystkich obróbek blacharskich podokienników i gzymsu, oczyszczenie i pomalowanie farbą olejną wpustów żeliwnych wys. 200 cm w budynku mieszkalnym wielorodzinnym przy ul. S. Banacha 16 w Warszawie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości przy ul. Banacha 16",
+"nier": "Banacha 16 / Stefana",
+"dz": "146506_8 0208 35",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "99/2019"
+}
+},
+{
+"d": "2019-10-21",
+"c": {
+"inw": "wymiana rozdzielnic głównych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Politechnika Warszawska",
+"nier": "Kopińska 12/16",
+"dz": "146506_8 0204 137",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "100/2019"
+}
+},
+{
+"d": "2019-10-11",
+"c": {
+"inw": "budowa hotelu Hampton by Hilton - projekt zamienny budowa nowego/nowych obiektów budowlanych",
+"wn": "ED SAN II Sp. z o.o. Sp. k.",
+"nier": "Mszczonowska 1, 3, 5",
+"dz": "146506_8 0301 19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "98/2019"
+}
+},
+{
+"d": "2019-10-11",
+"c": {
+"inw": "budowa hotelu Hampton by Hilton - projekt zamienny budowa nowego/nowych obiektów budowlanych",
+"wn": "ED SAN II Sp. z o.o. Sp. k.",
+"nier": "Mszczonowska 1, 3, 5",
+"dz": "146506_8 0301 20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "98/2019"
+}
+},
+{
+"d": "2019-10-11",
+"c": {
+"inw": "budowa hotelu Hampton by Hilton - projekt zamienny budowa nowego/nowych obiektów budowlanych",
+"wn": "ED SAN II Sp. z o.o. Sp. k.",
+"nier": "Mszczonowska 1, 3, 5",
+"dz": "146506_8 0301 21",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "98/2019"
+}
+},
+{
+"d": "2019-10-02",
+"c": {
+"inw": "przebudowa lokali mieszkalnych nr 83 i 84 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Aleja Bohaterów Września 18",
+"dz": "146506_8 0303 2/22",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "97/2019"
+}
+},
+{
+"d": "2019-10-02",
+"c": {
+"inw": "przebudowa lokali mieszkalnych nr 83 i 84 wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Aleja Bohaterów Września 18",
+"dz": "146506_8 0303 11/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "97/2019"
+}
+},
+{
+"d": "2019-09-27",
+"c": {
+"inw": "Montaz okna połaciowego w lokalu mieszkalnym-dwupoziomowym na IV kond. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Włodarzewska 57",
+"dz": "146506_8 0318 33",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 96/2019"
+}
+},
+{
+"d": "2019-09-24",
+"c": {
+"inw": "Zamienny projekt budowlany budynku mieszklanego jednorodzinnego z garażem. W zakres zmian wchodzi dobudowanie części podziemnej w obrębie garażu. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "36",
+"dz": "146506_8 0312 19/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "Decyzja Nr 94/2019"
+}
+},
+{
+"d": "2019-09-17",
+"c": {
+"inw": "nadbudowa, zmiana sposobu uzytkowania strychu na cele mieszkalne, budowa windy nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "STANCER Sp. z o.o.",
+"nier": "Sękocińska 3",
+"dz": "146506_8 0204 85/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "93/2019"
+}
+},
+{
+"d": "2019-09-17",
+"c": {
+"inw": "nadbudowa, zmiana sposobu uzytkowania strychu na cele mieszkalne, budowa windy nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "STANCER Sp. z o.o.",
+"nier": "Sękocińska 3",
+"dz": "146506_8 0204 87/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "93/2019"
+}
+},
+{
+"d": "2019-09-16",
+"c": {
+"inw": "Przebudowa fragmentu kondygnacji -2 parkingu podziemnego w celu realizacji pomieszczeń magazynowych w budynku biurowym \"Nowogrodzka Square\" wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "YAWA 20 Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 93",
+"dz": "146506_8 0102 19/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "92/2019"
+}
+},
+{
+"d": "2019-09-13",
+"c": {
+"inw": "przebudowa lokalu sklepu spozywczego na fragmencie poziomu -1 w C.H. \"BLUE CITY\" wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "BLUE CITY Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 179",
+"dz": "146506_8 0302 42",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "91/2019"
+}
+},
+{
+"d": "2019-09-13",
+"c": {
+"inw": "przebudowa lokalu sklepu spozywczego na fragmencie poziomu -1 w C.H. \"BLUE CITY\" wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "BLUE CITY Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 179",
+"dz": "146506_8 0302 43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "91/2019"
+}
+},
+{
+"d": "2019-09-13",
+"c": {
+"inw": "przebudowa lokalu sklepu spozywczego na fragmencie poziomu -1 w C.H. \"BLUE CITY\" wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "BLUE CITY Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 179",
+"dz": "146506_8 0302 46",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "91/2019"
+}
+},
+{
+"d": "2019-09-10",
+"c": {
+"inw": "budowa pomieszczeń na +11 na potrzeby biura firmy Forbis Group w budynku EQUATOR IV wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CIRRUS REAL. Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 100",
+"dz": "146506_8 0203 35",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "89/2019"
+}
+},
+{
+"d": "2019-09-10",
+"c": {
+"inw": "budowa pomieszczeń na +11 na potrzeby biura firmy Forbis Group w budynku EQUATOR IV wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CIRRUS REAL. Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 100",
+"dz": "146506_8 0204 1/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "89/2019"
+}
+},
+{
+"d": "2019-09-10",
+"c": {
+"inw": "budowa pomieszczeń na +11 na potrzeby biura firmy Forbis Group w budynku EQUATOR IV wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "CIRRUS REAL. Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 100",
+"dz": "146506_8 0201 47/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "89/2019"
+}
+},
+{
+"d": "2019-09-09",
+"c": {
+"inw": "projekt zamienny wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "3 i  3a",
+"dz": "146506_8 0309 17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "88/2019"
+}
+},
+{
+"d": "2019-09-09",
+"c": {
+"inw": "projekt zamienny wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "3 i  3a",
+"dz": "146506_8 0309 20/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "88/2019"
+}
+},
+{
+"d": "2019-09-02",
+"c": {
+"inw": "\"Dom Ronalda McDonalda\" - budynek zamieszkania zbiorowego ze strefą rekreacji dla dzieci oraz wiatą śmietnikową, zbiornikami retencyjnymi, parkingiem terenowym i infrastrukturą techniczną budowa nowego/nowych obiektów budowlanych",
+"wn": "Fundacja Ronalda McDonalda",
+"nier": "Trojdena / Księcia",
+"dz": "146506_8 0310 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "87/2019"
+}
+},
+{
+"d": "2019-08-30",
+"c": {
+"inw": "Rozbiórka obiektów budowlanych (pawilonów handlowych) objętych i oddziaływujących na planowaną inwestycję budowy budynku mieszkalnego z częścią usługowo-handlową oraz funkcją muzealną, garażem podziemnym, drogą pożarową, drogą wewnętrzną, wjazdami, dojściami i zagospodarowaniem terenu oraz pełną infrastrukturą techniczną rozbiórka istniejącego obiektu budowlanego",
+"wn": "Towarzystwo Budownictwa Społecznego Warszawa Południe Sp. z o. o.",
+"nier": "Grójecka",
+"dz": "146506_8 0309 2/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "86/2019"
+}
+},
+{
+"d": "2019-08-30",
+"c": {
+"inw": "Rozbiórka obiektów budowlanych (pawilonów handlowych) objętych i oddziaływujących na planowaną inwestycję budowy budynku mieszkalnego z częścią usługowo-handlową oraz funkcją muzealną, garażem podziemnym, drogą pożarową, drogą wewnętrzną, wjazdami, dojściami i zagospodarowaniem terenu oraz pełną infrastrukturą techniczną rozbiórka istniejącego obiektu budowlanego",
+"wn": "Towarzystwo Budownictwa Społecznego Warszawa Południe Sp. z o. o.",
+"nier": "Grójecka",
+"dz": "146506_8 0309 2/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "86/2019"
+}
+},
+{
+"d": "2019-08-30",
+"c": {
+"inw": "Rozbiórka obiektów budowlanych (pawilonów handlowych) objętych i oddziaływujących na planowaną inwestycję budowy budynku mieszkalnego z częścią usługowo-handlową oraz funkcją muzealną, garażem podziemnym, drogą pożarową, drogą wewnętrzną, wjazdami, dojściami i zagospodarowaniem terenu oraz pełną infrastrukturą techniczną rozbiórka istniejącego obiektu budowlanego",
+"wn": "Towarzystwo Budownictwa Społecznego Warszawa Południe Sp. z o. o.",
+"nier": "Grójecka",
+"dz": "146506_8 0309 3/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "86/2019"
+}
+},
+{
+"d": "2019-08-30",
+"c": {
+"inw": "Rozbiórka obiektów budowlanych (pawilonów handlowych) objętych i oddziaływujących na planowaną inwestycję budowy budynku mieszkalnego z częścią usługowo-handlową oraz funkcją muzealną, garażem podziemnym, drogą pożarową, drogą wewnętrzną, wjazdami, dojściami i zagospodarowaniem terenu oraz pełną infrastrukturą techniczną rozbiórka istniejącego obiektu budowlanego",
+"wn": "Towarzystwo Budownictwa Społecznego Warszawa Południe Sp. z o. o.",
+"nier": "Grójecka",
+"dz": "146506_8 0309 3/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "86/2019"
+}
+},
+{
+"d": "2019-08-30",
+"c": {
+"inw": "Rozbiórka obiektów budowlanych (pawilonów handlowych) objętych i oddziaływujących na planowaną inwestycję budowy budynku mieszkalnego z częścią usługowo-handlową oraz funkcją muzealną, garażem podziemnym, drogą pożarową, drogą wewnętrzną, wjazdami, dojściami i zagospodarowaniem terenu oraz pełną infrastrukturą techniczną rozbiórka istniejącego obiektu budowlanego",
+"wn": "Towarzystwo Budownictwa Społecznego Warszawa Południe Sp. z o. o.",
+"nier": "Grójecka",
+"dz": "146506_8 0309 3/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "86/2019"
+}
+},
+{
+"d": "2019-08-30",
+"c": {
+"inw": "Rozbiórka obiektów budowlanych (pawilonów handlowych) objętych i oddziaływujących na planowaną inwestycję budowy budynku mieszkalnego z częścią usługowo-handlową oraz funkcją muzealną, garażem podziemnym, drogą pożarową, drogą wewnętrzną, wjazdami, dojściami i zagospodarowaniem terenu oraz pełną infrastrukturą techniczną rozbiórka istniejącego obiektu budowlanego",
+"wn": "Towarzystwo Budownictwa Społecznego Warszawa Południe Sp. z o. o.",
+"nier": "Grójecka",
+"dz": "146506_8 0309 3/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "86/2019"
+}
+},
+{
+"d": "2019-08-30",
+"c": {
+"inw": "Rozbiórka obiektów budowlanych (pawilonów handlowych) objętych i oddziaływujących na planowaną inwestycję budowy budynku mieszkalnego z częścią usługowo-handlową oraz funkcją muzealną, garażem podziemnym, drogą pożarową, drogą wewnętrzną, wjazdami, dojściami i zagospodarowaniem terenu oraz pełną infrastrukturą techniczną rozbiórka istniejącego obiektu budowlanego",
+"wn": "Towarzystwo Budownictwa Społecznego Warszawa Południe Sp. z o. o.",
+"nier": "Grójecka",
+"dz": "146506_8 0309 61/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "86/2019"
+}
+},
+{
+"d": "2019-08-30",
+"c": {
+"inw": "Rozbiórka obiektów budowlanych (pawilonów handlowych) objętych i oddziaływujących na planowaną inwestycję budowy budynku mieszkalnego z częścią usługowo-handlową oraz funkcją muzealną, garażem podziemnym, drogą pożarową, drogą wewnętrzną, wjazdami, dojściami i zagospodarowaniem terenu oraz pełną infrastrukturą techniczną rozbiórka istniejącego obiektu budowlanego",
+"wn": "Towarzystwo Budownictwa Społecznego Warszawa Południe Sp. z o. o.",
+"nier": "Grójecka",
+"dz": "146506_8 0309 61/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "86/2019"
+}
+},
+{
+"d": "2019-08-30",
+"c": {
+"inw": "Rozbiórka obiektów budowlanych (pawilonów handlowych) objętych i oddziaływujących na planowaną inwestycję budowy budynku mieszkalnego z częścią usługowo-handlową oraz funkcją muzealną, garażem podziemnym, drogą pożarową, drogą wewnętrzną, wjazdami, dojściami i zagospodarowaniem terenu oraz pełną infrastrukturą techniczną rozbiórka istniejącego obiektu budowlanego",
+"wn": "Towarzystwo Budownictwa Społecznego Warszawa Południe Sp. z o. o.",
+"nier": "Grójecka",
+"dz": "146506_8 0309 61/11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "86/2019"
+}
+},
+{
+"d": "2019-08-30",
+"c": {
+"inw": "Rozbiórka obiektów budowlanych (pawilonów handlowych) objętych i oddziaływujących na planowaną inwestycję budowy budynku mieszkalnego z częścią usługowo-handlową oraz funkcją muzealną, garażem podziemnym, drogą pożarową, drogą wewnętrzną, wjazdami, dojściami i zagospodarowaniem terenu oraz pełną infrastrukturą techniczną rozbiórka istniejącego obiektu budowlanego",
+"wn": "Towarzystwo Budownictwa Społecznego Warszawa Południe Sp. z o. o.",
+"nier": "Grójecka",
+"dz": "146506_8 0309 61/12",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "86/2019"
+}
+},
+{
+"d": "2019-08-30",
+"c": {
+"inw": "Rozbiórka obiektów budowlanych (pawilonów handlowych) objętych i oddziaływujących na planowaną inwestycję budowy budynku mieszkalnego z częścią usługowo-handlową oraz funkcją muzealną, garażem podziemnym, drogą pożarową, drogą wewnętrzną, wjazdami, dojściami i zagospodarowaniem terenu oraz pełną infrastrukturą techniczną rozbiórka istniejącego obiektu budowlanego",
+"wn": "Towarzystwo Budownictwa Społecznego Warszawa Południe Sp. z o. o.",
+"nier": "Grójecka",
+"dz": "146506_8 0309 61/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "86/2019"
+}
+},
+{
+"d": "2019-08-30",
+"c": {
+"inw": "Rozbiórka obiektów budowlanych (pawilonów handlowych) objętych i oddziaływujących na planowaną inwestycję budowy budynku mieszkalnego z częścią usługowo-handlową oraz funkcją muzealną, garażem podziemnym, drogą pożarową, drogą wewnętrzną, wjazdami, dojściami i zagospodarowaniem terenu oraz pełną infrastrukturą techniczną rozbiórka istniejącego obiektu budowlanego",
+"wn": "Towarzystwo Budownictwa Społecznego Warszawa Południe Sp. z o. o.",
+"nier": "Grójecka",
+"dz": "146506_8 0309 61/14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "86/2019"
+}
+},
+{
+"d": "2019-08-30",
+"c": {
+"inw": "Rozbiórka obiektów budowlanych (pawilonów handlowych) objętych i oddziaływujących na planowaną inwestycję budowy budynku mieszkalnego z częścią usługowo-handlową oraz funkcją muzealną, garażem podziemnym, drogą pożarową, drogą wewnętrzną, wjazdami, dojściami i zagospodarowaniem terenu oraz pełną infrastrukturą techniczną rozbiórka istniejącego obiektu budowlanego",
+"wn": "Towarzystwo Budownictwa Społecznego Warszawa Południe Sp. z o. o.",
+"nier": "Grójecka",
+"dz": "146506_8 0309 1/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "86/2019"
+}
+},
+{
+"d": "2019-08-30",
+"c": {
+"inw": "Rozbiórka obiektów budowlanych (pawilonów handlowych) objętych i oddziaływujących na planowaną inwestycję budowy budynku mieszkalnego z częścią usługowo-handlową oraz funkcją muzealną, garażem podziemnym, drogą pożarową, drogą wewnętrzną, wjazdami, dojściami i zagospodarowaniem terenu oraz pełną infrastrukturą techniczną rozbiórka istniejącego obiektu budowlanego",
+"wn": "Towarzystwo Budownictwa Społecznego Warszawa Południe Sp. z o. o.",
+"nier": "Grójecka",
+"dz": "146506_8 0309 3/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "86/2019"
+}
+},
+{
+"d": "2019-08-29",
+"c": {
+"inw": "Przebudowa lokalu mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Uniwersytecka 1",
+"dz": "146506_8 0205 70",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "85/2019"
+}
+},
+{
+"d": "2019-08-29",
+"c": {
+"inw": "Przebudowa w lokalach nr 30 i 32 w celu uzyskania nowej aranżacji międzylokalowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Baleya 7 / Stefana",
+"dz": "146506_8 0323 12/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "84/2019"
+}
+},
+{
+"d": "2019-08-28",
+"c": {
+"inw": "budowa salonu samochodów uzywanych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Renault Retail Group Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 156",
+"dz": "146506_8 0304 16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "83/2019"
+}
+},
+{
+"d": "2019-08-28",
+"c": {
+"inw": "salon samochodów używanych rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Renault Retail Group Warszawa Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 156",
+"dz": "146506_8 0304 16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "83/2019"
+}
+},
+{
+"d": "2019-08-26",
+"c": {
+"inw": "Remont i renowacja elewacji oraz dachu budynku biurowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "Niemcewicza 4/6 / Juliana Ursyna",
+"dz": "146506_8 0202 32",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "82/2019"
+}
+},
+{
+"d": "2019-08-23",
+"c": {
+"inw": "pogłębienie piwnic , termoizolacja wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "",
+"dz": "146506_8 0104 106",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "81/2019"
+}
+},
+{
+"d": "2019-08-19",
+"c": {
+"inw": "Budynek mieszkalny wielorodzinny z garażem podziemnym i usługą w parterze budowa nowego/nowych obiektów budowlanych",
+"wn": "HEL 2.0 Sp.z o.o.",
+"nier": "Włodarzewska 13/15",
+"dz": "146506_8 0313 48/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja Nr 80/2019"
+}
+},
+{
+"d": "2019-08-13",
+"c": {
+"inw": "Przebudowa lokalu mieszkalnego nr 9 i 11 przy ul. Grójeckiej 45 w Warszawie wraz z połączeniem tych lokali schodami wewnętrznymi wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Zgromadzenie Małych Sióstr Niepokalanego Serca Maryi",
+"nier": "Grójecka 45",
+"dz": "146506_8 0205 95",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "79/2019"
+}
+},
+{
+"d": "2019-08-12",
+"c": {
+"inw": "wykonanie dodatkowych drzwi wejściowych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Grójecka 186",
+"dz": "146506_8 0313 63",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "78/2019"
+}
+},
+{
+"d": "2019-08-08",
+"c": {
+"inw": "Przebudowa lokalu mieszkalnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Radomska 20",
+"dz": "146506_8 0207 2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "77/2019"
+}
+},
+{
+"d": "2019-08-02",
+"c": {
+"inw": "naprawa stropu nas piwnicami wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości nr 13 przy ul. Kaliskiej",
+"nier": "Kaliska 13",
+"dz": "146506_8 0204 87/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "76/2019"
+}
+},
+{
+"d": "2019-08-01",
+"c": {
+"inw": "Budowa dwóch budynków mieszkalnych wielorodzinnych z garazem podziemnym wraz z niezbedną infrastrukturą techniczną oraz rozbiórka budynku usługowego, mieszkalnego i biurowego. budowa nowego/nowych obiektów budowlanych",
+"wn": "Capital Investment S.A.",
+"nier": "",
+"dz": "146506_8 0317 19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 75/2019"
+}
+},
+{
+"d": "2019-08-01",
+"c": {
+"inw": "Budowa dwóch budynków mieszkalnych wielorodzinnych z garazem podziemnym wraz z niezbedną infrastrukturą techniczną oraz rozbiórka budynku usługowego, mieszkalnego i biurowego. budowa nowego/nowych obiektów budowlanych",
+"wn": "Capital Investment S.A.",
+"nier": "",
+"dz": "146506_8 0317 20",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja nr 75/2019"
+}
+},
+{
+"d": "2019-07-31",
+"c": {
+"inw": "Rozbiórka istniejącego przyłącza wodociągowego i budowa sieci wodociągowej Ø150 oraz zabezpieczenia kabli elektroenergetycznych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa \"Green Lake\"",
+"nier": "Włodarzewska",
+"dz": "146506_8 0318 30",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja Nr 74/2019"
+}
+},
+{
+"d": "2019-07-31",
+"c": {
+"inw": "Rozbiórka istniejącego przyłącza wodociągowego i budowa sieci wodociągowej Ø150 oraz zabezpieczenia kabli elektroenergetycznych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa \"Green Lake\"",
+"nier": "Włodarzewska",
+"dz": "146506_8 0318 31",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja Nr 74/2019"
+}
+},
+{
+"d": "2019-07-31",
+"c": {
+"inw": "Rozbiórka istniejącego przyłącza wodociągowego i budowa sieci wodociągowej Ø150 oraz zabezpieczenia kabli elektroenergetycznych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa \"Green Lake\"",
+"nier": "Włodarzewska",
+"dz": "146506_8 0318 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja Nr 74/2019"
+}
+},
+{
+"d": "2019-07-18",
+"c": {
+"inw": "wymiana instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości nr 36 przy ul. Białobrzeskiej",
+"nier": "Białobrzeska 36",
+"dz": "146506_8 0207 47",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "73/2019"
+}
+},
+{
+"d": "2019-07-11",
+"c": {
+"inw": "Wymiana instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa nieruchomości przy ul. A. Pawińskiego 8",
+"nier": "Pawińskiego 8 / Adolfa",
+"dz": "146506_8 0309 19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "72/2019"
+}
+},
+{
+"d": "2019-07-10",
+"c": {
+"inw": "Przebudowa lokali usługowo-handlowych nr 309 i 405 na potrzeby marki Reserved wraz z przebudową instalacji elektrycznych, niskoprądowych i sanitarnych w C.H. Atrium Reduta wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Atrium Reduta Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 148",
+"dz": "146506_8 0301 31",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "71/2019"
+}
+},
+{
+"d": "2019-07-10",
+"c": {
+"inw": "Przebudowa lokali usługowo-handlowych nr 309 i 405 na potrzeby marki Reserved wraz z przebudową instalacji elektrycznych, niskoprądowych i sanitarnych w C.H. Atrium Reduta wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Atrium Reduta Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 148",
+"dz": "146506_8 0301 32/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "71/2019"
+}
+},
+{
+"d": "2019-07-08",
+"c": {
+"inw": "przebudowa wnetrz biura wraz z instalacjami wewnętrznymi wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "TouK sp. z o.o. s. k.a.",
+"nier": "Aleja Bohaterów Września 9",
+"dz": "146506_8 0302 44",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "70/19"
+}
+},
+{
+"d": "2019-07-04",
+"c": {
+"inw": "wydanie decyzji zamiennej dla budynku jednorodzinnego wolnostojącego nr 1, do decyzji zamiennej nr 195/2014 z dnia 16.09.2014r. oraz decyzji nr 9/2016r. z dnia 20.01.2016r. w sprawie pozwolenia na budowę dla dwóch budynków mieszkalnych jednorodzinnych z garażem podziemnym i zjazdem oraz infrastrukturą techniczną rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Usypiskowa 11",
+"dz": "146506_8 0312 18/2",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "Decyzja Nr 68/2019"
+}
+},
+{
+"d": "2019-06-21",
+"c": {
+"inw": "rozbudowa zespołu budynków oświatowo-naukowych nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "APS",
+"nier": "Szczęśliwicka 40",
+"dz": "146506_8 0203 12/7",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "66/2019"
+}
+},
+{
+"d": "2019-06-21",
+"c": {
+"inw": "rozbudowa zespołu budynków oświatowo-naukowych nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "APS",
+"nier": "Szczęśliwicka 40",
+"dz": "146506_8 0203 42",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "66/2019"
+}
+},
+{
+"d": "2019-06-21",
+"c": {
+"inw": "rozbudowa zespołu budynków oświatowo-naukowych nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "APS",
+"nier": "Szczęśliwicka 40",
+"dz": "146506_8 0203 19",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "66/2019"
+}
+},
+{
+"d": "2019-06-21",
+"c": {
+"inw": "rozbudowa zespołu budynków oświatowo-naukowych nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "APS",
+"nier": "Szczęśliwicka 40",
+"dz": "146506_8 0203 12/13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "66/2019"
+}
+},
+{
+"d": "2019-06-21",
+"c": {
+"inw": "rozbudowa zespołu budynków oświatowo-naukowych nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "APS",
+"nier": "Szczęśliwicka 40",
+"dz": "146506_8 0203 12/15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "66/2019"
+}
+},
+{
+"d": "2019-06-19",
+"c": {
+"inw": "przebudowa budynku w zakresie dostosowania wejścia dla osób niepełnosprawnych wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "Plac Sokratesa Starynkiewicza 5",
+"dz": "146506_8 0101 15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "65/2019"
+}
+},
+{
+"d": "2019-06-18",
+"c": {
+"inw": "Wymiana stolarki okiennej-powiększenie otworu dla drzwi balkonowych w lokalu mieszkalnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Drawska 10A",
+"dz": "146506_8 0312 5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja Nr 63/2019"
+}
+},
+{
+"d": "2019-06-18",
+"c": {
+"inw": "Rozbiórka kładki dla pieszych w Warszawie nad torami linii kolejowej nr 8 w km 8,325 rozbiórka istniejącego obiektu budowlanego",
+"wn": "Polskie Koleje Państwowe Spółka Akcyjna",
+"nier": "Drygały / Mikołaja",
+"dz": "146506_8 0322 35",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "64/2019"
+}
+},
+{
+"d": "2019-06-11",
+"c": {
+"inw": "przebudowa instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Kopińska 37",
+"nier": "Kopińska 37",
+"dz": "146506_8 0206 30",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "62/2019"
+}
+},
+{
+"d": "2019-06-10",
+"c": {
+"inw": "Rozbiórka obiektu budowlanego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Sierpińskiego / Wacława",
+"dz": "146506_8 0320 9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "60/2019"
+}
+},
+{
+"d": "2019-06-10",
+"c": {
+"inw": "Rozbiórka obiektu budowlanego rozbiórka istniejącego obiektu budowlanego",
+"wn": "",
+"nier": "Sierpińskiego / Wacława",
+"dz": "146506_8 0320 14/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "60/2019"
+}
+},
+{
+"d": "2019-06-10",
+"c": {
+"inw": "przebudowa-likwidacja strychu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Prokuratorska 2",
+"dz": "146506_8 0104 153",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "61/2019"
+}
+},
+{
+"d": "2019-06-06",
+"c": {
+"inw": "Decyzja zamienna - Przebudowa, nadbudowa i rozbudowa Kliniki Ortopedii i Traumatologii narządu Ruchu Szpitala Klinicznego Dzieciątka Jezus rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Szpital Kliniczny Dzieciątka Jezus",
+"nier": "",
+"dz": "146506_8 0102 9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "59/2019"
+}
+},
+{
+"d": "2019-06-06",
+"c": {
+"inw": "Czasowe usunięcie fragmentu konstrukcji nośnej w ścianie zewnętrznej budynku Radiochemii Uniwersytetu Warszawskiego w celu wniesienia sprzętu wielkogabarytowego, a następnie jego odtworzenie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersytet Warszawski",
+"nier": "Żwirki i Wigury 101",
+"dz": "146506_8 0209 18/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "58/2019"
+}
+},
+{
+"d": "2019-06-03",
+"c": {
+"inw": "przebudowa i remont domu studenckiego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Politechnika Warszawska",
+"nier": "",
+"dz": "146506_8 0205 65/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "56/2019"
+}
+},
+{
+"d": "2019-05-31",
+"c": {
+"inw": "Przebudowa pomieszczeń przeznaczonych na laboratorium w budynku Wydziału Chemii Uniwersytetu Warszawskiego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersytet Warszawski",
+"nier": "Pasteura 1 / Ludwika",
+"dz": "146506_8 0209 3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "55/2019"
+}
+},
+{
+"d": "2019-05-23",
+"c": {
+"inw": "remont balkonu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Uniwersytecka 4",
+"nier": "Uniwersytecka 4",
+"dz": "146506_8 0205 62",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "53/2019"
+}
+},
+{
+"d": "2019-05-23",
+"c": {
+"inw": "modernizacja (przebudowa) instalacji przeciwpozarowej w wybranych budynkach na terenie Zakładu Wodociągu Centralnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiuębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie",
+"nier": "Koszykowa 81",
+"dz": "146506_8 0103 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "54/2019"
+}
+},
+{
+"d": "2019-05-22",
+"c": {
+"inw": "przebudowa instalacji gazu wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SB-M Barska 5",
+"nier": "Barska 5",
+"dz": "146506_8 0204 126",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "52/2019"
+}
+},
+{
+"d": "2019-05-21",
+"c": {
+"inw": "Wykonanie żelbetowych płyt stropowych w duszy klatek schodowych na parterze budynku przy ul. Grójeckiej 119 w Warszawie wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Nieruchomości nr 119 przy ul. Grójeckiej",
+"nier": "Grójecka 119",
+"dz": "146506_8 0314 17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "50/2019"
+}
+},
+{
+"d": "2019-05-21",
+"c": {
+"inw": "wymiana instalacji gazowej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa nr 16 przy ul. Opaczewskiej",
+"nier": "Opaczewska 16",
+"dz": "146506_8 0308 15",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "51/2019"
+}
+},
+{
+"d": "2019-05-15",
+"c": {
+"inw": "przebudowa wraz ze zmianą sposobu użytkowania budynku mieszkalnego jednorodzinnego na przedszkole i żłobek wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Rubik School Sp. z o.o.",
+"nier": "Drawska 11",
+"dz": "146506_8 0306 113/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "49/2019"
+}
+},
+{
+"d": "2019-05-15",
+"c": {
+"inw": "przebudowa wraz ze zmianą sposobu użytkowania budynku mieszkalnego jednorodzinnego na przedszkole i żłobek wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Rubik School Sp. z o.o.",
+"nier": "Drawska 11",
+"dz": "146506_8 0306 113/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "49/2019"
+}
+},
+{
+"d": "2019-05-14",
+"c": {
+"inw": "Wymiana instalacji gazowej wewnętrznej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Grójecka 79A",
+"nier": "Grójecka 79A",
+"dz": "146506_8 0208 28",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "48/2019"
+}
+},
+{
+"d": "2019-05-09",
+"c": {
+"inw": "Nadbudowa budynku biurowo-usługowego o antresolę IV kondygnacji. nadbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "",
+"nier": "Włodarzewska 69",
+"dz": "146506_8 0317 18",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja Nr 47/2019"
+}
+},
+{
+"d": "2019-05-08",
+"c": {
+"inw": "Docieplenie ścian zewnętrznych budynku, wykonanie izolacji fundamentów, remont loggii oraz docieplenie stropodachu nad pawilonem usługowym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa nieruchomości nr 67 przy ul. Grójeckiej",
+"nier": "Grójecka 53/57",
+"dz": "146506_8 0208 3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "46/2019"
+}
+},
+{
+"d": "2019-05-08",
+"c": {
+"inw": "Docieplenie ścian zewnętrznych budynku oraz wykonanie remontu płyt balkonowych wraz z wymianą balustrad wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa nieruchomości nr 67 przy ul. Grójeckiej",
+"nier": "Grójecka 67",
+"dz": "146506_8 0208 18",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "45/2019"
+}
+},
+{
+"d": "2019-05-07",
+"c": {
+"inw": "docieplenie elewacji budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa nieruchomosci nr 11 przy ul. Przemyskiej",
+"nier": "Przemyska 11",
+"dz": "146506_8 0207 107",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "44/2019"
+}
+},
+{
+"d": "2019-05-06",
+"c": {
+"inw": "Powiększenie otworów okiennych i wymiana barierek na balkonach wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Urbanistów 1A",
+"dz": "146506_8 0313 5/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "43/2019"
+}
+},
+{
+"d": "2019-04-23",
+"c": {
+"inw": "rozbudowa, przebudowa, modernizacja budynku szpitala rozbudowa istniejącego/istniejących obiektów budowlanych",
+"wn": "Mazowieckie Centrum Rehabilitacji STOCER",
+"nier": "Barska 16/20",
+"dz": "146506_8 0204 95/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "42/2019"
+}
+},
+{
+"d": "2019-04-17",
+"c": {
+"inw": "Przebudowa fragmentu II piętra bloku szpitalnego E na potrzeby Kliniki Onkologii wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Uniwersyteckie Centrum Kliniczne Warszawskiego Uniwersytetu Medycznego",
+"nier": "Banacha 1A / Stefana",
+"dz": "146506_8 0310 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "40/2019"
+}
+},
+{
+"d": "2019-04-17",
+"c": {
+"inw": "docieplenie elewacji i remont dachu budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa nieruchomości nr 39 ul. Nowowiejska",
+"nier": "Nowowiejska 39",
+"dz": "146506_8 0104 13",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/2019"
+}
+},
+{
+"d": "2019-04-17",
+"c": {
+"inw": "docieplenie elewacji i remont dachu budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa nieruchomości nr 39 ul. Nowowiejska",
+"nier": "Nowowiejska 39",
+"dz": "146506_8 0104 14",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "41/2019"
+}
+},
+{
+"d": "2019-04-16",
+"c": {
+"inw": "wymiana stolarki okiennej w lokalu mieszkalnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miasto Stołeczne Warszawa",
+"nier": "Filtrowa 68",
+"dz": "146506_8 0202 56",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "39/2019"
+}
+},
+{
+"d": "2019-04-12",
+"c": {
+"inw": "ocieplenie budynku mieskzlanego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Szczęśliwicka 25",
+"nier": "Szczęśliwicka 25",
+"dz": "146506_8 0206 69",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "38/2019"
+}
+},
+{
+"d": "2019-04-11",
+"c": {
+"inw": "Wymiana uszkodzonych nastopnic z lastryka na nowe wykonane z lastryka schodów klatki schodowej w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa \"Rakowiec\"",
+"nier": "Wiślicka 4",
+"dz": "146506_8 0315 34/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "36/2019"
+}
+},
+{
+"d": "2019-04-11",
+"c": {
+"inw": "remont elewacji wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SBM Pracowników Oświatowych",
+"nier": "Akademicka 3",
+"dz": "146506_8 0205 32",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "37/2019"
+}
+},
+{
+"d": "2019-04-10",
+"c": {
+"inw": "remont elewacji budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Asnyka 2 reprezentawana przez Gestor Sp. z o.o.",
+"nier": "Asnyka 2 / Adama",
+"dz": "146506_8 0202 38",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "35/2019"
+}
+},
+{
+"d": "2019-04-09",
+"c": {
+"inw": "Przebudowa 4 pomieszczeń na 2 sale lekcyjne wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "XXI Liceum Ogólnokształcące im. H. Kołłątaja",
+"nier": "Grójecka 93",
+"dz": "146506_8 0309 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "33/2019"
+}
+},
+{
+"d": "2019-04-09",
+"c": {
+"inw": "Przebudowa 4 pomieszczeń na 2 sale lekcyjne wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "XXI Liceum Ogólnokształcące im. H. Kołłątaja",
+"nier": "Grójecka 93",
+"dz": "146506_8 0309 58",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "33/2019"
+}
+},
+{
+"d": "2019-04-09",
+"c": {
+"inw": "Przebudowa 4 pomieszczeń na 2 sale lekcyjne wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "XXI Liceum Ogólnokształcące im. H. Kołłątaja",
+"nier": "Grójecka 93",
+"dz": "146506_8 0309 59",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "33/2019"
+}
+},
+{
+"d": "2019-04-09",
+"c": {
+"inw": "rozbiórka 10 szt. garaży metalowych nieogrzewanych rozbiórka istniejącego obiektu budowlanego",
+"wn": "Miejskie Prze4dsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "",
+"dz": "146506_8 0202 32",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "34/2019"
+}
+},
+{
+"d": "2019-04-08",
+"c": {
+"inw": "wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Pastewka i Strój Architekci s.c.",
+"nier": "Aleje Jerozolimskie 99",
+"dz": "146506_8 0102 17",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "32/2019"
+}
+},
+{
+"d": "2019-04-03",
+"c": {
+"inw": "Przebudowa sieci gazowej z przyłączami i fragmentem instalacji gazu ziemnego. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PSG Sp. z o.o.",
+"nier": "Bielska",
+"dz": "146506_8 0318 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja Nr 30/2019"
+}
+},
+{
+"d": "2019-04-03",
+"c": {
+"inw": "Przebudowa sieci gazowej z przyłączami i fragmentem instalacji gazu ziemnego. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PSG Sp. z o.o.",
+"nier": "Bielska",
+"dz": "146506_8 0318 6/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja Nr 30/2019"
+}
+},
+{
+"d": "2019-04-03",
+"c": {
+"inw": "Przebudowa sieci gazowej z przyłączami i fragmentem instalacji gazu ziemnego. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PSG Sp. z o.o.",
+"nier": "Bielska",
+"dz": "146506_8 0318 6/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja Nr 30/2019"
+}
+},
+{
+"d": "2019-04-03",
+"c": {
+"inw": "Przebudowa sieci gazowej z przyłączami i fragmentem instalacji gazu ziemnego. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PSG Sp. z o.o.",
+"nier": "Bielska",
+"dz": "146506_8 0318 1/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja Nr 30/2019"
+}
+},
+{
+"d": "2019-04-03",
+"c": {
+"inw": "przebudowa budynku szpitala wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Mazowieckie Centrum Rehabilitacji STOCER",
+"nier": "Barska 16/20",
+"dz": "146506_8 0204 95/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "31/2019"
+}
+},
+{
+"d": "2019-04-03",
+"c": {
+"inw": "Przebudowa sieci gazowej z przyłączami i fragmentem instalacji gazu ziemnego. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PSG Sp. z o.o.",
+"nier": "Bielska",
+"dz": "146506_8 0319 1/9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja Nr 30/2019"
+}
+},
+{
+"d": "2019-04-03",
+"c": {
+"inw": "Przebudowa sieci gazowej z przyłączami i fragmentem instalacji gazu ziemnego. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PSG Sp. z o.o.",
+"nier": "Bielska",
+"dz": "146506_8 0319 1/10",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja Nr 30/2019"
+}
+},
+{
+"d": "2019-04-03",
+"c": {
+"inw": "Przebudowa sieci gazowej z przyłączami i fragmentem instalacji gazu ziemnego. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PSG Sp. z o.o.",
+"nier": "Bielska",
+"dz": "146506_8 0319 2/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja Nr 30/2019"
+}
+},
+{
+"d": "2019-04-03",
+"c": {
+"inw": "Przebudowa sieci gazowej z przyłączami i fragmentem instalacji gazu ziemnego. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PSG Sp. z o.o.",
+"nier": "Bielska",
+"dz": "146506_8 0319 93",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja Nr 30/2019"
+}
+},
+{
+"d": "2019-04-03",
+"c": {
+"inw": "Przebudowa sieci gazowej z przyłączami i fragmentem instalacji gazu ziemnego. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PSG Sp. z o.o.",
+"nier": "Bielska",
+"dz": "146506_8 0319 1/6",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja Nr 30/2019"
+}
+},
+{
+"d": "2019-04-03",
+"c": {
+"inw": "Przebudowa sieci gazowej z przyłączami i fragmentem instalacji gazu ziemnego. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PSG Sp. z o.o.",
+"nier": "Bielska",
+"dz": "146506_8 0312 10/16",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja Nr 30/2019"
+}
+},
+{
+"d": "2019-04-03",
+"c": {
+"inw": "Przebudowa sieci gazowej z przyłączami i fragmentem instalacji gazu ziemnego. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PSG Sp. z o.o.",
+"nier": "Bielska",
+"dz": "146506_8 0312 10/8",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja Nr 30/2019"
+}
+},
+{
+"d": "2019-04-03",
+"c": {
+"inw": "Przebudowa sieci gazowej z przyłączami i fragmentem instalacji gazu ziemnego. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PSG Sp. z o.o.",
+"nier": "Bielska",
+"dz": "146506_8 0312 54/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja Nr 30/2019"
+}
+},
+{
+"d": "2019-04-03",
+"c": {
+"inw": "Przebudowa sieci gazowej z przyłączami i fragmentem instalacji gazu ziemnego. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PSG Sp. z o.o.",
+"nier": "Bielska",
+"dz": "146506_8 0312 54/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja Nr 30/2019"
+}
+},
+{
+"d": "2019-04-03",
+"c": {
+"inw": "Przebudowa sieci gazowej z przyłączami i fragmentem instalacji gazu ziemnego. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PSG Sp. z o.o.",
+"nier": "Bielska",
+"dz": "146506_8 0312 54/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja Nr 30/2019"
+}
+},
+{
+"d": "2019-04-03",
+"c": {
+"inw": "Przebudowa sieci gazowej z przyłączami i fragmentem instalacji gazu ziemnego. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PSG Sp. z o.o.",
+"nier": "Bielska",
+"dz": "146506_8 0312 24",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja Nr 30/2019"
+}
+},
+{
+"d": "2019-04-03",
+"c": {
+"inw": "Przebudowa sieci gazowej z przyłączami i fragmentem instalacji gazu ziemnego. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "PSG Sp. z o.o.",
+"nier": "Bielska",
+"dz": "146506_8 0312 28/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja Nr 30/2019"
+}
+},
+{
+"d": "2019-04-01",
+"c": {
+"inw": "Instalacja gazowa w budynkach Wydziału Farmaceutycznego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawski Uniwersytet Medyczny",
+"nier": "Banacha 1 / Stefana",
+"dz": "146506_8 0310 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "29/2019"
+}
+},
+{
+"d": "2019-03-19",
+"c": {
+"inw": "regulacja instalacji CO. wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SB-M Profesorów Wolnej Wszechnicy Polskiej",
+"nier": "",
+"dz": "146506_8 0205 92",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "27/2019"
+}
+},
+{
+"d": "2019-03-19",
+"c": {
+"inw": "doposażenie w instalacje c.o. i wymiana instalacji wod.-kan w budynku wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "SB-M Profesorów Wolnej Wszechnicy Polskiej",
+"nier": "Grójecka 43",
+"dz": "146506_8 0205 92",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "28/2019"
+}
+},
+{
+"d": "2019-03-13",
+"c": {
+"inw": "Projekt zamienny budowy zespołu budynków mieszklanych wielorodzinnych A,B,C,D,E,F,G,H,I z jednpoziomowymi garazami podziemnymi wraz z infrastrukturą oraz zagospodarowniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "Dom Development S.A.",
+"nier": "Włodarzewska",
+"dz": "146506_8 0316 19/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja Nr 26/2019"
+}
+},
+{
+"d": "2019-03-13",
+"c": {
+"inw": "Projekt zamienny budowy zespołu budynków mieszklanych wielorodzinnych A,B,C,D,E,F,G,H,I z jednpoziomowymi garazami podziemnymi wraz z infrastrukturą oraz zagospodarowniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "Dom Development S.A.",
+"nier": "Włodarzewska",
+"dz": "146506_8 0316 20/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja Nr 26/2019"
+}
+},
+{
+"d": "2019-03-13",
+"c": {
+"inw": "Projekt zamienny budowy zespołu budynków mieszklanych wielorodzinnych A,B,C,D,E,F,G,H,I z jednpoziomowymi garazami podziemnymi wraz z infrastrukturą oraz zagospodarowniem terenu budowa nowego/nowych obiektów budowlanych",
+"wn": "Dom Development S.A.",
+"nier": "Włodarzewska",
+"dz": "146506_8 0316 21/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja Nr 26/2019"
+}
+},
+{
+"d": "2019-03-06",
+"c": {
+"inw": "Wybicie otworu okiennego w pomieszczeniu piwnicznym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Spółdzielnia Mieszkaniowa \"Merkury Szczęśliwice\"",
+"nier": "Urbanistów 1",
+"dz": "146506_8 0313 5/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "25/2019"
+}
+},
+{
+"d": "2019-03-04",
+"c": {
+"inw": "Remont elewacji z częściowym ociepleniem ścian z robotami dodatkowymi budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa \"Rakowiec\"",
+"nier": "Żwirki i Wigury 55A",
+"dz": "146506_8 0315 25/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "24/2019"
+}
+},
+{
+"d": "2019-03-04",
+"c": {
+"inw": "Remont elewacji z częściowym ociepleniem ścian z robotami dodatkowymi budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa \"Rakowiec\"",
+"nier": "Trojdena 5A / Księcia",
+"dz": "146506_8 0315 25/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "23/2019"
+}
+},
+{
+"d": "2019-03-04",
+"c": {
+"inw": "Remont schodów wejściowych do budynku portierni przy bramie wjazdowej, budynku portierni przy bramie wjazdowej, budynku dawnej stajni, sali wystawowej Centrum Interpretacji Dziedzictwa zlokalizowanych na terenie Zakładu Wodociągu Centralnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "Koszykowa 81",
+"dz": "146506_8 0103 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "21/2019"
+}
+},
+{
+"d": "2019-03-04",
+"c": {
+"inw": "Remont elewacji z częściowym ociepleniem ścian z robotami dodatkowymi budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa \"Rakowiec\"",
+"nier": "Pruszkowska 12",
+"dz": "146506_8 0315 44/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "22/2019"
+}
+},
+{
+"d": "2019-02-26",
+"c": {
+"inw": "remont konserwatorski 36 wentylatorów  czołowych V grupy filtrów powolnych na terenie Zakładu Wodociągu Centralnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacjiw m. st. Warszawie S.A.",
+"nier": "Koszykowa 81",
+"dz": "146506_8 0103 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "20/2019"
+}
+},
+{
+"d": "2019-02-20",
+"c": {
+"inw": "Budowa instalacji gazowej dla dwóch budynków mieszkalnych wielorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "Lirowa Apartments Sp. z o.o.",
+"nier": "Lirowa",
+"dz": "146506_8 0319 55",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja Nr 19/2019"
+}
+},
+{
+"d": "2019-02-20",
+"c": {
+"inw": "Budowa instalacji gazowej dla dwóch budynków mieszkalnych wielorodzinnych budowa nowego/nowych obiektów budowlanych",
+"wn": "Lirowa Apartments Sp. z o.o.",
+"nier": "Lirowa",
+"dz": "146506_8 0319 58",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "Decyzja Nr 19/2019"
+}
+},
+{
+"d": "2019-02-14",
+"c": {
+"inw": "remont elewacji oraz balkonów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Wspólnota Mieszkaniowa Koszykowa 79a",
+"nier": "Koszykowa 79a",
+"dz": "146506_8 0104 2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "18/2019"
+}
+},
+{
+"d": "2019-02-12",
+"c": {
+"inw": "Przebudowa wnętrz biurowych poziomów 0, +1, +2 dla firmy GAZ SYSTEM w budynku CRISTAL PARK wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "COLEUS sp. z o.o.",
+"nier": "Mszczonowska 4",
+"dz": "146506_8 0301 29/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "17/2019"
+}
+},
+{
+"d": "2019-02-12",
+"c": {
+"inw": "Przebudowa wnętrz biurowych poziomów 0, +1, +2 dla firmy GAZ SYSTEM w budynku CRISTAL PARK wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "COLEUS sp. z o.o.",
+"nier": "Mszczonowska 4",
+"dz": "146506_8 0301 29/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "17/2019"
+}
+},
+{
+"d": "2019-02-12",
+"c": {
+"inw": "Przebudowa wnętrz biurowych poziomów 0, +1, +2 dla firmy GAZ SYSTEM w budynku CRISTAL PARK wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "COLEUS sp. z o.o.",
+"nier": "Mszczonowska 4",
+"dz": "146506_8 0301 30/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "17/2019"
+}
+},
+{
+"d": "2019-02-12",
+"c": {
+"inw": "Przebudowa wnętrz biurowych poziomów 0, +1, +2 dla firmy GAZ SYSTEM w budynku CRISTAL PARK wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "COLEUS sp. z o.o.",
+"nier": "Mszczonowska 4",
+"dz": "146506_8 0301 30/5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "17/2019"
+}
+},
+{
+"d": "2019-01-25",
+"c": {
+"inw": "przebudowa lokalu handlowego nr -1/40 supermarket spożywczy na kond. -1 i jego podział na dwa lokale w tym jeden supermarket spożywczy w centrum handlowym Blue City wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Blue City Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 179",
+"dz": "146506_8 0302 42",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "16/2019"
+}
+},
+{
+"d": "2019-01-25",
+"c": {
+"inw": "przebudowa lokalu handlowego nr -1/40 supermarket spożywczy na kond. -1 i jego podział na dwa lokale w tym jeden supermarket spożywczy w centrum handlowym Blue City wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Blue City Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 179",
+"dz": "146506_8 0302 43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "16/2019"
+}
+},
+{
+"d": "2019-01-25",
+"c": {
+"inw": "przebudowa lokalu handlowego nr -1/40 supermarket spożywczy na kond. -1 i jego podział na dwa lokale w tym jeden supermarket spożywczy w centrum handlowym Blue City wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Blue City Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 179",
+"dz": "146506_8 0302 46",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "16/2019"
+}
+},
+{
+"d": "2019-01-25",
+"c": {
+"inw": "przebudowa powierzchni biurowej na kondygnacji +3 i +4 w zachodnim skrzydle budynku \"Blue City\" wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Blue City Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 179",
+"dz": "146506_8 0302 42",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "15/2019"
+}
+},
+{
+"d": "2019-01-25",
+"c": {
+"inw": "przebudowa powierzchni biurowej na kondygnacji +3 i +4 w zachodnim skrzydle budynku \"Blue City\" wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Blue City Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 179",
+"dz": "146506_8 0302 43",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "15/2019"
+}
+},
+{
+"d": "2019-01-25",
+"c": {
+"inw": "przebudowa powierzchni biurowej na kondygnacji +3 i +4 w zachodnim skrzydle budynku \"Blue City\" wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Blue City Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 179",
+"dz": "146506_8 0302 46",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "15/2019"
+}
+},
+{
+"d": "2019-01-24",
+"c": {
+"inw": "Budowa czterech budynków mieszkalnych jednorodzinnych szeregowych z garażami i urządzeniami w tym: instalacjami wewnętrznymi i wewnętrzną instalacją gazową. budowa nowego/nowych obiektów budowlanych",
+"wn": "Dream Houses Development Sp. z o.o.",
+"nier": "",
+"dz": "146506_8 0316 16/33",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "Decyzja Nr 13/2019"
+}
+},
+{
+"d": "2019-01-24",
+"c": {
+"inw": "Budowa czterech budynków mieszkalnych jednorodzinnych szeregowych z garażami i urządzeniami w tym: instalacjami wewnętrznymi i wewnętrzną instalacją gazową. budowa nowego/nowych obiektów budowlanych",
+"wn": "Dream Houses Development Sp. z o.o.",
+"nier": "",
+"dz": "146506_8 0316 16/34",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "Decyzja Nr 13/2019"
+}
+},
+{
+"d": "2019-01-24",
+"c": {
+"inw": "Budowa czterech budynków mieszkalnych jednorodzinnych szeregowych z garażami i urządzeniami w tym: instalacjami wewnętrznymi i wewnętrzną instalacją gazową. budowa nowego/nowych obiektów budowlanych",
+"wn": "Dream Houses Development Sp. z o.o.",
+"nier": "",
+"dz": "146506_8 0316 16/35",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "Decyzja Nr 13/2019"
+}
+},
+{
+"d": "2019-01-24",
+"c": {
+"inw": "Budowa czterech budynków mieszkalnych jednorodzinnych szeregowych z garażami i urządzeniami w tym: instalacjami wewnętrznymi i wewnętrzną instalacją gazową. budowa nowego/nowych obiektów budowlanych",
+"wn": "Dream Houses Development Sp. z o.o.",
+"nier": "",
+"dz": "146506_8 0316 16/36",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "Decyzja Nr 13/2019"
+}
+},
+{
+"d": "2019-01-24",
+"c": {
+"inw": "Budowa czterech budynków mieszkalnych jednorodzinnych szeregowych z garażami i urządzeniami w tym: instalacjami wewnętrznymi i wewnętrzną instalacją gazową. budowa nowego/nowych obiektów budowlanych",
+"wn": "Dream Houses Development Sp. z o.o.",
+"nier": "",
+"dz": "146506_8 0316 16/37",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "Decyzja Nr 13/2019"
+}
+},
+{
+"d": "2019-01-24",
+"c": {
+"inw": "Budowa czterech budynków mieszkalnych jednorodzinnych szeregowych z garażami i urządzeniami w tym: instalacjami wewnętrznymi i wewnętrzną instalacją gazową. budowa nowego/nowych obiektów budowlanych",
+"wn": "Dream Houses Development Sp. z o.o.",
+"nier": "",
+"dz": "146506_8 0316 16/38",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "Decyzja Nr 13/2019"
+}
+},
+{
+"d": "2019-01-24",
+"c": {
+"inw": "Budowa czterech budynków mieszkalnych jednorodzinnych szeregowych z garażami i urządzeniami w tym: instalacjami wewnętrznymi i wewnętrzną instalacją gazową. budowa nowego/nowych obiektów budowlanych",
+"wn": "Dream Houses Development Sp. z o.o.",
+"nier": "",
+"dz": "146506_8 0316 16/39",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "Decyzja Nr 13/2019"
+}
+},
+{
+"d": "2019-01-24",
+"c": {
+"inw": "Budowa czterech budynków mieszkalnych jednorodzinnych szeregowych z garażami i urządzeniami w tym: instalacjami wewnętrznymi i wewnętrzną instalacją gazową. budowa nowego/nowych obiektów budowlanych",
+"wn": "Dream Houses Development Sp. z o.o.",
+"nier": "",
+"dz": "146506_8 0316 16/40",
+"rodz": "Budynek mieszkalny jednorodzinny",
+"nr": "Decyzja Nr 13/2019"
+}
+},
+{
+"d": "2019-01-24",
+"c": {
+"inw": "przebudowa i remont lokalu na potrzeby drogerii \"HEBE\" wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Jeronimo Martins Drogerie i Farmacja Sp. z o.o.",
+"nier": "Lindleya 16 / Williama Heerleina",
+"dz": "146506_8 0102 11",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "14/2019"
+}
+},
+{
+"d": "2019-01-23",
+"c": {
+"inw": "Wykonanie i wymiana uszkodzonych nastopnic schodów policzkowych klatek schodowych w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa \"Rakowiec\"",
+"nier": "Żwirki i Wigury 57",
+"dz": "146506_8 0315 25/2",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "12/2019"
+}
+},
+{
+"d": "2019-01-23",
+"c": {
+"inw": "Wykonanie i wymiana uszkodzonych nastopnic schodów policzkowych klatki schodowej w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa \"Rakowiec\"",
+"nier": "Korotyńskiego 4 / Władysława",
+"dz": "146506_8 0321 7/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "11/2019"
+}
+},
+{
+"d": "2019-01-23",
+"c": {
+"inw": "Wykonanie i wymiana uszkodzonych nastopnic schodów policzkowych klatki schodowej w budynku mieszkalnym wielorodzinnym wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa \"Rakowiec\"",
+"nier": "Sanocka 8",
+"dz": "146506_8 0315 25/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "10/2019"
+}
+},
+{
+"d": "2019-01-18",
+"c": {
+"inw": "Przebudowa lokali mieszkalnych wraz z połączeniem lokalu nr 4 i nr 5 w budynku nr10 przy ul. Drawskiej wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Joanna i Marcin Klimowicz",
+"nier": "Drawska 10c",
+"dz": "146506_8 0312 5",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "UD-V-WAB.6740.151.2018.TGR"
+}
+},
+{
+"d": "2019-01-14",
+"c": {
+"inw": "budowa przyłącza sieci ciepłowniczej do budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Szczęśliwicka 42",
+"dz": "146506_8 0203 20/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "7/2019"
+}
+},
+{
+"d": "2019-01-14",
+"c": {
+"inw": "budowa przyłącza sieci ciepłowniczej do budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Szczęśliwicka 42",
+"dz": "146506_8 0203 18/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "7/2019"
+}
+},
+{
+"d": "2019-01-14",
+"c": {
+"inw": "budowa przyłącza sieci ciepłowniczej do budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Szczęśliwicka 42",
+"dz": "146506_8 0203 18/3",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "7/2019"
+}
+},
+{
+"d": "2019-01-14",
+"c": {
+"inw": "budowa przyłącza sieci ciepłowniczej do budynku mieszkalnego wielorodzinnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Veolia Energia Warszawa S.A.",
+"nier": "Szczęśliwicka 42",
+"dz": "146506_8 0203 36",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "7/2019"
+}
+},
+{
+"d": "2019-01-07",
+"c": {
+"inw": "modernizacja kominków wentylacyjnych i świetlików III i IV grupy filtrów powolnych na terenie Zakładu Wodociągu Centralnego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji S.A.",
+"nier": "Koszykowa 81",
+"dz": "146506_8 0103 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6/2019"
+}
+},
+{
+"d": "2019-01-07",
+"c": {
+"inw": "Modernizacja - przebudowa instalacji wentylacji i klimatyzacji w budynku dawnego magazynu na terenie Stacji Filtrów wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+"nier": "Koszykowa 81",
+"dz": "146506_8 0103 1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "6/2019"
+}
+},
+{
+"d": "2019-01-04",
+"c": {
+"inw": "przebudowa lok. mieszkalnego nr 84 polegająca na podziale na dwa lokale mieszkalne nr 84 i 84A wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Min Hoong Development Co PTE LTD Poland Sp. z o.o.",
+"nier": "Drawska 29A",
+"dz": "146506_8 0306 9",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "5/2019"
+}
+},
+{
+"d": "2019-01-04",
+"c": {
+"inw": "przebudowa otworu drzwiowego wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "",
+"nier": "Mochnackiego 4 / Maurycego",
+"dz": "146506_8 0205 33",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "4/2019"
+}
+},
+{
+"d": "2019-01-02",
+"c": {
+"inw": "Rozbiórka budynku garażowego z wiatą, dwóch budynków magazynowych oraz zbiornika na paliwo płynne rozbiórka istniejącego obiektu budowlanego",
+"wn": "Warszawski Uniwersytet Medyczny",
+"nier": "Pawińskiego 3A / Adolfa",
+"dz": "146506_8 0310 4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "1/2019"
+}
+},
+{
+"d": "2019-01-02",
+"c": {
+"inw": "Remont elewacji i dachu budynku mieszkalnego wielorodzinnego z robotami dodatkowymi wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Warszawska Spółdzielnia Mieszkaniowa \"Rakowiec\"",
+"nier": "Pruszkowska 6B",
+"dz": "146506_8 0315 34/4",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "2/2019"
+}
+},
+{
+"d": "2019-01-02",
+"c": {
+"inw": "przebudowa pomieszczeńna potrzeby biura firmy Edwards w budynku biurowym \"EQUATOR IV\" wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Cirrus Real Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 100",
+"dz": "146506_8 0204 1/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "3/2019"
+}
+},
+{
+"d": "2019-01-02",
+"c": {
+"inw": "przebudowa pomieszczeńna potrzeby biura firmy Edwards w budynku biurowym \"EQUATOR IV\" wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Cirrus Real Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 100",
+"dz": "146506_8 0201 47/1",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "3/2019"
+}
+},
+{
+"d": "2019-01-02",
+"c": {
+"inw": "przebudowa pomieszczeńna potrzeby biura firmy Edwards w budynku biurowym \"EQUATOR IV\" wykonanie robót budowlanych innych niż wymienione powyżej",
+"wn": "Cirrus Real Sp. z o.o.",
+"nier": "Aleje Jerozolimskie 100",
+"dz": "146506_8 0203 35",
+"rodz": "Obiekt budowlany inny niż budynek mieszkalny jednorodzinny",
+"nr": "3/2019"
+}
+}
+]
+}
+]
+}
