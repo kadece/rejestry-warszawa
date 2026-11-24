@@ -47,7 +47,7 @@ git add $(
     for dist in "${SITE_DISTRICTS[@]}"; do
         echo "site/data/$dist"
     done
-) site/data/index.json
+) site/data/index.json site/index.html
 
 if git diff --cached --quiet; then
     echo "== brak zmian w danych — nic nie commituję =="
