@@ -5,6 +5,43 @@ Ten plik jest samodzielny. Zawiera wszystko, co trzeba zrobić na maszynie,
 która ma aktualizować dzielnice serwisowe (Bemowo, Mokotów, Praga-Północ,
 Śródmieście, Targówek, Ursus, Wawer, Wilanów).
 
+> **Stan obecny (od 2026-11-24): automat chodzi na maszynie Krzysztofa
+> (Windows, Harmonogram zadań)** — sekcja „Automat na Windows" poniżej.
+> Instrukcje Linuksowe (cron/systemd) zostały jako alternatywa na przyszłość,
+> gdyby pojawił się osobny serwer.
+
+---
+
+## Automat na Windows (obecnie używany)
+
+| Co | Wartość |
+|---|---|
+| Zadanie Harmonogramu | `Rejestry-Warszawa-Update` (uruchamiane przy zalogowaniu użytkownika) |
+| Harmonogram | **1. i 15. dnia miesiąca, 06:00**, limit 2 h, wymaga sieci |
+| Nadrabianie | StartWhenAvailable — gdy komputer był wyłączony, złapie przy pierwszym uruchomieniu |
+| Okno | niewidoczne (start przez `wscript` → vbs → bat) |
+| Wrapper | `C:\Users\Krzysztof\AppData\Local\rejestry-warszawa\update-warszawa.bat` (+ `update-warszawa-silent.vbs`) |
+| Log | `%LOCALAPPDATA%\rejestry-warszawa\update.log` (każdy przebieg: data, status końcowy) |
+| Python | przypinany w bat (`PYTHON=`) — shim `python3` ze Store nadaje się tylko do wyrzuconych błędów |
+| Push | bez interakcji: `.git/config` ma `helper =` (reset) + helper `gh auth git-credential` (token gh z keyring) |
+
+Obsługa ręczna:
+
+```powershell
+# wymuś przebieg teraz
+schtasks /run /tn 'Rejestry-Warszawa-Update'
+
+# ostatni wynik / następny zaplanowany start
+schtasks /query /tn 'Rejestry-Warszawa-Update' /v /fo list
+
+# ogon logu
+Get-Content "$env:LOCALAPPDATA\rejestry-warszawa\update.log" -Tail 40
+```
+
+Uwaga: token gh ma scope `repo` bez `workflow` — commity nie mogą ruszać
+`.github/workflows/*` (push zostałby odrzucony). Do edycji workflowu:
+`gh auth refresh -s workflow` (jednorazowo, w przeglądarce).
+
 ---
 
 ## Co robi serwer, a czego nie robi
